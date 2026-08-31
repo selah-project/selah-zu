@@ -2,8 +2,8 @@
             :source
             {:text :oshb-wlc,
              :corpus :tanakh,
-             :verses 8709,
-             :tokens 125663},
+             :verses 23213,
+             :tokens 305507},
             :provenance
             {:derived
              [:lang
@@ -20,20 +20,17 @@
               :produced
               :license
               :catalog],
-             :declared [:rendering/people :role :rendering/process]},
-            :role :pass,
+             :declared
+             [:role :people :process :checks :open-questions]},
+            :role :served,
             :produced {:from "2026-08-31", :to "2026-08-31"},
-            :people
-            {:ruled-by "Scott",
-             :shovel "Claude (Fable 5)",
-             :assayer "Codex"},
             :id "zu.v1",
             :catalog {:ui "resources/i18n/ui/zu.edn"},
             :license "CC BY-SA 4.0 (The Selah Zulu Rendering)",
             :model
             {:provider :z.ai,
-             :models {"glm-5.3" 8709},
-             :tiers {"glm-5.2" 8709},
+             :models {"glm-5.3" 23213},
+             :tiers {"glm-5.2" 23213},
              :prompt "selah.translate.prompt",
              :canonical-forms "data/translation/canonical-forms.edn"},
             :discipline
@@ -56,18 +53,14 @@
               "יהוה" "uYahwe",
               "שדי" "uShadayi"},
              :open-questions []},
-            :status :rendering,
+            :status :live,
             :version "v1",
             :lineage
             {:git
-             {:repo nil,
+             {:repo "selah-project/selah-zu",
               :ref "v1-final",
               :commit nil,
               :tags [],
-              :branches []},
+              :branches ["main"]},
              :parents []},
-            :lang :zu,
-            :process
-            [{:stage :burn,
-              :tool "relay-move-on!",
-              :note "IN PROGRESS at manifest time"}]}
+            :lang :zu}
