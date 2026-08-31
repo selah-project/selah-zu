@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 74,
+  "translation": "Kwaziwa ⟨njengalowo oyisiza ekuziseni phezulu⟩ — phakathi kobude obuxube, izembe ⟨lizibonakalisa⟩.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "kwaziwa"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "njengalowo oyisiza ekuziseni phezulu"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "phakathi kobude obuxube"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "isihlahla"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "izembe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:05.064554930Z",
+  "model": "glm-5.3"
+}

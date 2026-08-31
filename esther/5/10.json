@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 5:10",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Kodwa uHaman wazibamba, wangena endlwini yakhe, wathuma baza ⟨את⟩ abangane bakhe no⟨את⟩ uZereshi unkosikazi wakhe.",
+  "tokens": [
+    {
+      "surface": "ויתאפק",
+      "gloss": "wazibamba"
+    },
+    {
+      "surface": "המן",
+      "gloss": "uHaman"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "endlwini yakhe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wathuma"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "baza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abangane bakhe"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "abangane bakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uZereshi"
+    },
+    {
+      "surface": "זרש",
+      "gloss": "uZereshi"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "unkosikazi wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:53:27.268148803Z",
+  "model": "glm-5.3"
+}

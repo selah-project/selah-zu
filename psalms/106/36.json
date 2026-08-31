@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "bazonzela ⟨את⟩ izithombe zazo, e zaba kubona insila.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "bazonzela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izithombe zazo"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "izithombe zazo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "zaba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "insila"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:03.301719014Z",
+  "model": "glm-5.3"
+}

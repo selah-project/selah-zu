@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 91,
+  "translation": "Ohlala esithweni somsindisi we-Elyon, esithunzini sika-uShadayi uhlala ⟨ngokuphepha⟩",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Ohlala"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "esithweni somsindisi"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "we-Elyon"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "esithunzini"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "sika-uShadayi"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "uhlala ⟨ngokuphepha⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:08.114150211Z",
+  "model": "glm-5.3"
+}

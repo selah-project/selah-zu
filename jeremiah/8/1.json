@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 8:1",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngesikhathi eso, kusho uYahwe, bazokhipha ⟨את⟩ amathambo osikhosi beYehudha, no⟨את⟩ amathambo abaholi bayo, no⟨את⟩ amathambo abapristi, no⟨את⟩ amathambo abapristi bezwi, no⟨את⟩ amathambo abahlali beYerushalayimi, ezimini zabo.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "Ngesikhathi"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "eso"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kusho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויציאו",
+      "gloss": "bazokhipha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amathambo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "amathambo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "osikhosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "beYehudha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "amathambo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "amathambo"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "abaholi bayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "amathambo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "amathambo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "amathambo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "amathambo"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "abapristi bezwi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "amathambo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "amathambo"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "beYerushalayimi"
+    },
+    {
+      "surface": "מקבריהם",
+      "gloss": "ezimini zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:43:19.287819758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 2:20",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ngalolo suku umuntu uzolahla ⟨את⟩ izithombe zakhe zesiliva no⟨את⟩ izithombe zakhe zegolide, ezazenzelwe ukuzikhukumeza, kwabampungutyanga nakwamanqwasha.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ngalosuku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lolo"
+    },
+    {
+      "surface": "ישליך",
+      "gloss": "uzolahla"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izithombe zakhe zesiliva"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "izithombe"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "zakhe zesiliva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "izithombe zakhe zegolide"
+    },
+    {
+      "surface": "אלילי",
+      "gloss": "izithombe"
+    },
+    {
+      "surface": "זהבו",
+      "gloss": "zakhe zegolide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezazenzelwe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zona"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "ukuzikhukumeza"
+    },
+    {
+      "surface": "לחפר",
+      "gloss": "kwabampungutyanga"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "abampungutyanga"
+    },
+    {
+      "surface": "ו לעטלפים",
+      "gloss": "nakwamanqwasha"
+    }
+  ],
+  "timestamp": "2026-08-31T04:15:29.873626928Z",
+  "model": "glm-5.3"
+}

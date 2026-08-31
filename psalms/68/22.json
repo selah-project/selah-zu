@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 68:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 68,
+  "translation": "Ngedwa uElohim uzoshaya intloko yezitha zakhe, inkaba yenwele yalowo ehamba ezoneni zakhe.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ngedwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ימחץ",
+      "gloss": "uzoshaya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "intloko"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "yezitha zakhe"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "inkaba"
+    },
+    {
+      "surface": "שער",
+      "gloss": "yenwele"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "באשמיו",
+      "gloss": "ezoneni zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:32.222376946Z",
+  "model": "glm-5.3"
+}

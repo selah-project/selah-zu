@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Manje-ke, yini okhona phansi kwezandla zakho? Zinike izinkwa ezinhlanu esandleni sami, noma okutholakalayo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "manje-ke"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "יש",
+      "gloss": "okhona"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phansi kwe-"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "zandla zakho"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ezinhlanu"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "izinkwa"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "zinike"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "esandleni sami"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "okutholakalayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:04:15.828251219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "Wabiza indlala phezu komhlaba, waphula induku yonke yesinkwa.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Wabiza"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "indlala"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "induku"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "yesinkwa"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "waphula"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:23.974326825Z",
+  "model": "glm-5.3"
+}

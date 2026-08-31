@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 25:5",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "ukuthi: Buyani ngesicelo, munye nomunye endleleni yakhe enokubi nasenkonzweni yenu enokubi, futhi hlalani ⟨ezweni⟩ uYahwe aninike wona nina noyihlo kusukela ku-olamu kuze kube ngu-olamu",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "Buyani"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngesicelo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munye nomunye"
+    },
+    {
+      "surface": "מדרכו",
+      "gloss": "endleleni yakhe"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "enokubi"
+    },
+    {
+      "surface": "ומרע",
+      "gloss": "nasenkonzweni enokubi"
+    },
+    {
+      "surface": "מעלליכם",
+      "gloss": "yenu"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "futhi hlalani"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ezweni⟩"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "uYahwe aninike wona"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "aninike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "ולאבותיכם",
+      "gloss": "noyihlo"
+    },
+    {
+      "surface": "למן",
+      "gloss": "kusukela"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ku-olamu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ngu-olamu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:48:35.265584317Z",
+  "model": "glm-5.3"
+}

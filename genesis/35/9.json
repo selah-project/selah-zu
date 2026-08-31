@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 35:9",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "uElohim wavela ku-Yaakov futhi, ekufikeni kwakhe ePhadan-Arami, wambhakabatha.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wavela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "u-Yaakov"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "ekufikeni kwakhe"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "ePhadan"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Arami"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wambhakabatha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "u-Yaakov"
+    }
+  ],
+  "timestamp": "2026-08-31T01:18:33.142429090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 21:2",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "bese baphuma abadala bakho nabajudi bakho, balinganisa izindawo zezidolobha ezizungezile osonyulwe;",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "baphuma"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "abadala bakho"
+    },
+    {
+      "surface": "ושפטיך",
+      "gloss": "nabajudi bakho"
+    },
+    {
+      "surface": "ומדדו",
+      "gloss": "balinganisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "izidolobha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "ezizungezile"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "osonyulwe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:41:00.644598704Z",
+  "model": "glm-5.3"
+}

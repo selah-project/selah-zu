@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 99:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 99,
+  "translation": "uMoshe no-Aharon babephakathi kwezinkosi zakhe zezenkolo, futhi uShemuweli eboni ababizayo igama lakhe; babebiza uYahwe, futhi yena wabaphendula.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "no-Aharon"
+    },
+    {
+      "surface": "בכהניו",
+      "gloss": "babephakathi kwezinkosi zakhe zezenkolo"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "futhi uShemuweli"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "eboni ababizayo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "babebiza"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "futhi yena"
+    },
+    {
+      "surface": "יענם",
+      "gloss": "wabaphendula"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:57.872955771Z",
+  "model": "glm-5.3"
+}

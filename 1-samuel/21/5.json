@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 21:5",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Umpristi waphendula ⟨את⟩ uDavide wathi: akukho inkwa ejwayelekile phansi kwesandla sami, kodwa kukhona inkwa engcwele, uma abafana bezizigcina kubafazi nje.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "waphendula"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDavide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "inkwa"
+    },
+    {
+      "surface": "חל",
+      "gloss": "ejwayelekile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phansi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kwesandla sami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "inkwa"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "engcwele"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kukhona"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "bezizigcina"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "abafana"
+    },
+    {
+      "surface": "אך",
+      "gloss": "nje"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "kubafazi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:27:43.358181667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 127:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 127,
+  "translation": "Ingcala kini ukuvuka kuseni, ukulala nikhathele, ukudla inkambu yosizi; njalo uYahwe unikeza othandekayo kaye ulele.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Ingcala"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "משכימי",
+      "gloss": "ukuvuka kuseni"
+    },
+    {
+      "surface": "קום",
+      "gloss": "(vuka)"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ukulala nikhathele"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "(lala)"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "inkambu"
+    },
+    {
+      "surface": "העצבים",
+      "gloss": "yosizi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "unikeza"
+    },
+    {
+      "surface": "לידידו",
+      "gloss": "othandekayo kaye ulele"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "(uIelele)"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:02.628089718Z",
+  "model": "glm-5.3"
+}

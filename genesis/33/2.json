@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 33:2",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Wabeka ⟨את⟩ izinceku no⟨את⟩ zingane zazo kokuqala, ⟨את⟩ uLea no⟨את⟩ zingane zakhe ekugcineni, no⟨את⟩ Rakheli no⟨את⟩ Yosefu ekugcineni.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinceku"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "izinceku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "izingane zazo"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "izingane zazo"
+    },
+    {
+      "surface": "ראשנה",
+      "gloss": "kokuqala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uLea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "uLea"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "nezizingane zakhe"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "ekugcineni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uRakheli"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "uRakheli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uYosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "ekugcineni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:17:56.800092196Z",
+  "model": "glm-5.3"
+}

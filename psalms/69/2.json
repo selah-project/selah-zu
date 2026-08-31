@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Ngisindise, uElohim, ngoba amanzi afike kuze kufike ⟨ku⟩ukuphila kwami.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Ngisindise"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "באו",
+      "gloss": "afike"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kufike"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ukuphila"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:53.129032241Z",
+  "model": "glm-5.3"
+}

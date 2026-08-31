@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 73:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Ngoba ngazithela isibani (ngabazizigwili), lapho ngibona (ukuthula) kwaboni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "ngazithela isibani"
+    },
+    {
+      "surface": "בהוללים",
+      "gloss": "(abazizigwili)"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "(ukuthula)"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kwaboni"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "lapho ngibona"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:32.322276529Z",
+  "model": "glm-5.3"
+}

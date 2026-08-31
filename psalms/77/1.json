@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 77,
+  "translation": "Kumkhuzi, ngokwika-Yedutuni, ku-Asafi, indandatho.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumkhuzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokwi-"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Yedutuni"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ku-Asafi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "indandatho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:51.193793767Z",
+  "model": "glm-5.3"
+}

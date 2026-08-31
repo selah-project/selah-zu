@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 118,
+  "translation": "Kusuka kuYahwe ⟨את⟩ lokhu kwenzekile; kumangalisa amehlo ethu.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "kusuka kuYahwe ⟨את⟩",
+      "marks": "lokhu kwenzekile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kwenzekile"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨kuphindekile⟩"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "kumangalisa"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "amehlo ethu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:02.882248410Z",
+  "model": "glm-5.3"
+}

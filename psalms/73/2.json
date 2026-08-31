@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Kepha mina, izinyawo zami zazinciphile kancane (ukungcika), izinyathelo zami zazigcwala (ngathi angekho).",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kepha mina"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "kancane"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "zaziciphile (zazigcodiwe)"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "izinyawo zami"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "(ngathi angekho)"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "zazigcwala (zazixelwa)"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "izinyathelo zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:32.322104286Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 116:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 116,
+  "translation": "Ngoba usukhiphe umphefumulo wami ekufeni, ⟨את⟩ iso lami ezinyembezini, ⟨את⟩ unyawo lami ekudelingeni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngoba"
+    },
+    {
+      "surface": "חלצת",
+      "gloss": "usukhiphe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumulo wami"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ekufeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iso lami"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "iso lami"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "izinyembezi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unyawo lami"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "unyawo lami"
+    },
+    {
+      "surface": "מדחי",
+      "gloss": "ekudelingeni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:37.861016473Z",
+  "model": "glm-5.3"
+}

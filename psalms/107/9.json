@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Ngokuba wanensa inefeshi efisha kakhulu, futhi inefeshi elambile wayegcwalisa ngokuhle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "wanensa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "inefeshi"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "efisha kakhulu"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "futhi inefeshi"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "elambile"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "wayegcwalisa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ngokuhle"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:52.203730510Z",
+  "model": "glm-5.3"
+}

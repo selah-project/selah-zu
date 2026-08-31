@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 18:15",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Nalokho okuvula isisu kokunye konke inyama abayilethayo kuYahwe, kumuntu nakuzilwane, kuzaba lakho; kuphela uzokhokha imali yokuphendula ⟨את⟩ ibekolo lomuntu, no⟨את⟩ ibekolo lezilwane ezingcolile uzokuphendula.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "kokunye konke"
+    },
+    {
+      "surface": "פטר",
+      "gloss": "okuvula"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "isisu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abayilethayo"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "abayilethayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "kumuntu"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "nakuzilwane"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuzaba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lakho"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "uzokhokha imali yokuphendula"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "uzokuphendula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibekolo lomuntu"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ibekolo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "lomuntu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ibekolo lezilwane ezingcolile"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ibekolo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "lezilwane"
+    },
+    {
+      "surface": "הטמאה",
+      "gloss": "ezingcolile"
+    },
+    {
+      "surface": "תפדה",
+      "gloss": "uzokuphendula"
+    }
+  ],
+  "timestamp": "2026-08-31T02:18:34.170680945Z",
+  "model": "glm-5.3"
+}

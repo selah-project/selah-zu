@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 28:13",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Owafihla iziphambano zakhe akaphumeleli; lowo oqaphela futhi oshiya ⟨iziphambano zakhe⟩ uzothola inceba.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "owafihla"
+    },
+    {
+      "surface": "פשעיו",
+      "gloss": "iziphambano zakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akaphumeleli"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "⟨akaphumeleli⟩"
+    },
+    {
+      "surface": "ומודה",
+      "gloss": "futhi oqaphela"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "futhi oshiya"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "uzothola inceba"
+    }
+  ],
+  "timestamp": "2026-08-31T07:04:25.073313017Z",
+  "model": "glm-5.3"
+}

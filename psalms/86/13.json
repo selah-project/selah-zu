@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 86:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 86,
+  "translation": "Ngoba ikhesedi yakho inkulu phezu kwami, walusula inefeshi yami eSheol engezansi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngoba"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "inkulu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "והצלת",
+      "gloss": "walusula"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "eSheol"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "engezansi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:40.015855128Z",
+  "model": "glm-5.3"
+}

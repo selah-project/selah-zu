@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 39:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Kwathi njengoba eyikhuluma leyo nto kuYosefu usuku nosuku, yena akazange amlalele lapha ekubedeni naye noma ekuba naye;",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כדברה",
+      "gloss": "njengoba eyikhuluma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nosuku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi akazange"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "amlalele"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "ekubedeni"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "naye"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ekuba"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "naye"
+    }
+  ],
+  "timestamp": "2026-08-31T01:19:48.368083452Z",
+  "model": "glm-5.3"
+}

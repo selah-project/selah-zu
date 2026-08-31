@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 12:1",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi uYahwe wathumela ⟨את⟩ uNathani kuDavide, weza kuyena wathi kuye: Abantu ababili babembeki enye idolobha, oyedwa wayengumtshali wezinto, futhi oyedwa wayengumfuyazi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uNathani"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "uNathani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "weza"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ababili"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "היו",
+      "gloss": "babembeki"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "enye idolobha"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "enye"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "oyedwa"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "umtshali wezinto"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "futhi oyedwa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "umfuyazi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:38:13.538424497Z",
+  "model": "glm-5.3"
+}

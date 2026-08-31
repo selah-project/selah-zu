@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi uShema wazala ⟨את⟩ uRakham, uyise weYorkeami; futhi uRekemu wazala ⟨את⟩ uShamayi.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "Futhi uShema"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uRakham"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "uRakham"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise we-"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "Yorkeami"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "futhi uRekemu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShamayi"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "uShamayi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:21.524845983Z",
+  "model": "glm-5.3"
+}

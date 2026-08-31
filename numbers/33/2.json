@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 33:2",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "uMoshe wabhala ⟨את⟩ okuphuma kwazo ngezinhamba zazo, ngomlomo kaYahwe; nalezi yizinhamba zazo ngokuphuma kwazo.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "wabhala"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okuphuma kwazo"
+    },
+    {
+      "surface": "מוצאיהם",
+      "gloss": "okuphuma kwazo"
+    },
+    {
+      "surface": "למסעיהם",
+      "gloss": "ngezinhamba zazo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mlomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "nalezi"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "izinhamba zazo"
+    },
+    {
+      "surface": "למוצאיהם",
+      "gloss": "ngokuphuma kwazo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:00:27.580917801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "zalidwe lika-Avraham, lesiphazamisi sakhe; abantwana bakaYaaqobu, abakhethiweyo bakhe;",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "zalidwe"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "lika-Avraham"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "lesiphazamisi sakhe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "bakaYaaqobu"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "abakhethiweyo bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:30.995588034Z",
+  "model": "glm-5.3"
+}

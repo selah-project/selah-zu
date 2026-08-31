@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 4:2",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Ngolowo suku umhlanyza ka-uYahwe uzuba ngokukhazimulayo nangobukhosi, futhi izithelo zomhlaba zizuba ngokuduma nangobuhle, kwabasindiselayo bakwa-Israyeli.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ngolowo suku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "olowo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uzuba"
+    },
+    {
+      "surface": "צמח",
+      "gloss": "umhlanyza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "ngokukhazimulayo"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "nangobukhosi"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "izithelo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zomhlaba"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "ngokuduma"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "nangobuhle"
+    },
+    {
+      "surface": "לפליטת",
+      "gloss": "kwabasindiselayo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T04:17:39.808726594Z",
+  "model": "glm-5.3"
+}

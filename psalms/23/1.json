@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Isinkondlo sikaDavida. uYahwe ungumalusi wami; ngingasweli.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "isinkondlo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sikaDavida"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "ungumalusi wami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "ngingasweli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:14.120260587Z",
+  "model": "glm-5.3"
+}

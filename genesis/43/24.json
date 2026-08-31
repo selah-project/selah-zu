@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 43:24",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "Induna yafaka ⟨את⟩ amadoda endlini kaYosefu, yanikeza amanzi, ashize izinyawo zabo, futhi yanikeza umsizi kudonki zabo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yafaka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "induna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadoda"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "endlini"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "kaYosefu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yanikeza"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "וירחצו",
+      "gloss": "ashize"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "izinyawo zabo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yanikeza"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "umsizi"
+    },
+    {
+      "surface": "לחמריהם",
+      "gloss": "kudonki zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:22:20.768591201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 13:30",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Futhi umfundisi ubona ⟨את⟩ isilumo, futhi bheka ukubonakala kwaso kujulile kunesikhumba, futhi kuso kunenwele luphuzi oluncane, futhi umfundisi ummema ⟨את⟩ yena ungcolile: ineteku yilo, isifo sasekhanda noma se⟨nhlangula⟩ yilo.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Futhi ubona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umfundisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isilumo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "isilumo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "futhi bheka"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "ukubonakala kwaso"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "kujulile"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kunesikhumba"
+    },
+    {
+      "surface": "העור",
+      "gloss": "isikhumba"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "futhi kuso"
+    },
+    {
+      "surface": "שער",
+      "gloss": "unwele"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "luphuzi"
+    },
+    {
+      "surface": "דק",
+      "gloss": "oluncane"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "futhi ummema ungcolile"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umfundisi"
+    },
+    {
+      "surface": "נתק",
+      "gloss": "ineteku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "isifo"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "sasekhanda"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "senhlanguleni"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:57:46.485930794Z",
+  "model": "glm-5.3"
+}

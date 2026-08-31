@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 84,
+  "ref": "psalms 119:84",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Mangaki amanziinsi omhlakaniphile wakho? Nini uzozenza ngabazingeli bami umahluko?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "Mangaki"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "amanziinsi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "omhlakaniphile wakho"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "Nini"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzozenza"
+    },
+    {
+      "surface": "ברדפי",
+      "gloss": "ngabazingeli bami"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "umahluko"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:12.003300256Z",
+  "model": "glm-5.3"
+}

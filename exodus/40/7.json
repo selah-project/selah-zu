@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Futhi uzobeka ⟨את⟩ umfutho phakathi kathenti lokuhlangana nase-altare, futhi uzobeka lapho amanzi.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "uzobeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfutho"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "umfutho"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "athenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lokuhlangana"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nase-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "futhi uzobeka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:49:39.975163073Z",
+  "model": "glm-5.3"
+}

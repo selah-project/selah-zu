@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 147:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 147,
+  "translation": "Yena oenza umkhawulwakho uxolo, ogcwalisa ngamafutha kombila.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "Yena oenza"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "umkhawulwakho"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "uxolo"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ngamafutha"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "ombila"
+    },
+    {
+      "surface": "ישביעך",
+      "gloss": "ogcwalisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:41.002086777Z",
+  "model": "glm-5.3"
+}

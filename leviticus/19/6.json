@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 19:6",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Ngosuku lokuhlabela kwenu kuzodliwa, nasemlandweni; okuseleyo kuze kufike usuku wesithathu ngomlilo kuzoshiswa.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ngosuku"
+    },
+    {
+      "surface": "זבחכם",
+      "gloss": "lokuhlabela kwenu"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kuzodliwa"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "nasemlandweni"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "nokho okuseleyo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kufike"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "wesithathu"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngomlilo"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "kuzoshiswa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:00:16.104031389Z",
+  "model": "glm-5.3"
+}

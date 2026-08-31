@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 17:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Ukufana kwakhe njengengonyama engafuni ukuphuma komuzela, futhi njengengonyana ehlala ezindaweni ezifihliwe.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "ukufana kwakhe"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "njengengonyama"
+    },
+    {
+      "surface": "יכסוף",
+      "gloss": "engafuni ukuphuma"
+    },
+    {
+      "surface": "לטרוף",
+      "gloss": "komuzela"
+    },
+    {
+      "surface": "וככפיר",
+      "gloss": "futhi njengengonyana"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ehlala"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ezindaweni ezifihliwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:08.648881798Z",
+  "model": "glm-5.3"
+}

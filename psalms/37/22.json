@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 37:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Ngokuba ababusisiwe uYahwe bazolahlekelwa isizwe; abanesibhala uYahwe bazosikatwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "מבורכיו",
+      "gloss": "ababusisiwe uYahwe"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "bazolahlekelwa isizwe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "ומקלליו",
+      "gloss": "abanesibhala uYahwe"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "bazosikatwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:28.658044074Z",
+  "model": "glm-5.3"
+}

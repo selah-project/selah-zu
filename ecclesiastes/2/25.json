@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ngokuba ngubani oyodla, futhi ngubani ozoziphathekisa, ⟨ngaphandle kwami⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "oyodla"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "futhi ngubani"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "ozoziphathekisa"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T07:43:53.324491918Z",
+  "model": "glm-5.3"
+}

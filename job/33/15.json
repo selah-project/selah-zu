@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 33:15",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Ephupheni, embonweni wobusuku, lapho ubuthongo obujulile buniwe kuwo umuntu, esezindleleni zokulala phezu kobhedu;",
+  "tokens": [
+    {
+      "surface": "בחלום",
+      "gloss": "ephupheni"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "embonweni"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "wobusuku"
+    },
+    {
+      "surface": "בנפל",
+      "gloss": "lapho... buniwe"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "ubuthongo obujulile"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "בתנומות",
+      "gloss": "esezindleleni zokulala"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "ubhedu"
+    }
+  ],
+  "timestamp": "2026-08-31T07:25:48.150095309Z",
+  "model": "glm-5.3"
+}

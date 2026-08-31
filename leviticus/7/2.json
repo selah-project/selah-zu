@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 7:2",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Endaweni lapho behlaba khona ⟨את⟩ isiphambano sokuhlinzwa, bazonhlaba ⟨את⟩ isipho secala; futhi ⟨את⟩ igazi lalo lizokuswalela phezu kwabelathi emanzonzo.",
+  "tokens": [
+    {
+      "surface": "במקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "behlaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiphambano sokuhlinzwa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "isiphambano sokuhlinzwa"
+    },
+    {
+      "surface": "ישחטו",
+      "gloss": "bazonhlaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isipho secala"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "isipho secala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "igazi lalo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "igazi lalo"
+    },
+    {
+      "surface": "יזרק",
+      "gloss": "lizokuswalela"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kwabelathi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "emanzonzo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:52:31.122311571Z",
+  "model": "glm-5.3"
+}

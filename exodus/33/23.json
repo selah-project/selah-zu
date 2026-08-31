@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 33:23",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Futhi ngizokususa ⟨את⟩ isandla sami, uzobona ⟨את⟩ umva wami; kepha ubuso bami akubonakali.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "futhi ngizokususa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sami"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "isandla sami"
+    },
+    {
+      "surface": "וראית",
+      "gloss": "uzobona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umva wami"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "umva wami"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "kepha ubuso bami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aku-"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "-bonakali"
+    }
+  ],
+  "timestamp": "2026-08-31T01:43:20.836060377Z",
+  "model": "glm-5.3"
+}

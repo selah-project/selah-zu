@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 140,
+  "translation": "Kumqondisi. Inkondlo kaDavide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "inkondlo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:19.672771263Z",
+  "model": "glm-5.3"
+}

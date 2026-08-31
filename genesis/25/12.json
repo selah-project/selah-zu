@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 25:12",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Laba yizingane zo-Yishmayeli, indodana ka-Avraham, uHagari waziMitsrayim, isigqila sakaSara, azalele u-Avraham.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Laba"
+    },
+    {
+      "surface": "תלדת",
+      "gloss": "izingane zo-"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmayeli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "agu-"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "azalele"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "uHagari"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "waziMitsrayim"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "isigqila sa-"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "kaSara"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "u-Avraham"
+    }
+  ],
+  "timestamp": "2026-08-31T01:12:28.278617714Z",
+  "model": "glm-5.3"
+}

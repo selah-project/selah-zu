@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 17:23",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Kodwa abezwanga, beghamanga ⟨את⟩ izindlebe zabo, futhi banenza nzima ⟨את⟩ izikhumba zabo, ukuze bengazuzi ukuzwa nokuthatha isiyalezo;",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kodwa abezwanga"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "abezwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bengazuzi"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "beghamanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izindlebe zabo"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "izindlebe zabo"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "banenza nzima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izikhumba zabo"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "izikhumba zabo (inkosi)ntsibini"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ukuze bengazuzi"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "ukuzwa"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "nokuthatha"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "ukuthatha"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "isiyalezo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:46:15.271249273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngalomfana ngathandaza, uYahwe wangipha ⟨את⟩ isicelo sami esangisela kuye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ngal-"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "umfana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "התפללתי",
+      "gloss": "ngathandaza"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wangipha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngipha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isicelo sami"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "isicelo sami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esa"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "ngisela"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-08-31T03:15:19.866432443Z",
+  "model": "glm-5.3"
+}

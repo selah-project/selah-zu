@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 37:2",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Futhi wangidambisa ukuhlula wonke lezi zungeze-zungeze, futhi ngabona ngamehlo — zona eziningi kakhulu ebusweni belibiḱe, futhi ngabona ngamehlo — zona omile kakhulu.",
+  "tokens": [
+    {
+      "surface": "והעבירני",
+      "gloss": "wangidambisa ukuhlula"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "zungeze"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "zungeze"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "futhi ngabona ngamehlo"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "eziningi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ebusweni"
+    },
+    {
+      "surface": "פני",
+      "gloss": "be-"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "libiḱe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "futhi ngabona ngamehlo"
+    },
+    {
+      "surface": "יבשות",
+      "gloss": "omile"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T05:19:41.589044293Z",
+  "model": "glm-5.3"
+}

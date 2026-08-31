@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 65:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 65,
+  "translation": "Izidlalo zasendle zinkcaphekile ngamanzi, futhi izintaba ezincane ziggokiswe injabulo.",
+  "tokens": [
+    {
+      "surface": "ירעפו",
+      "gloss": "zinkcaphekile ngamanzi"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "izidlalo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "zasendle"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "injabulo"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "izintaba ezincane"
+    },
+    {
+      "surface": "תחגרנה",
+      "gloss": "ziggokiswe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:29.647564175Z",
+  "model": "glm-5.3"
+}

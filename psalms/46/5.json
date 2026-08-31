@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 46:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 46,
+  "translation": "Umfula, izitho zavo ziyajabulisa idolobha lukaElohim, indawo engcwele yokuhlala kom-El Eliyoni.",
+  "tokens": [
+    {
+      "surface": "נהר",
+      "gloss": "Umfula"
+    },
+    {
+      "surface": "פלגיו",
+      "gloss": "izitho zavo"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ziyajabulisa"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "idolobha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lukaElohim"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "engcwele"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "indawo yokuhlala"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "kom-El Eliyoni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:41.278851247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Kwabonakala kubi emehlweni kaElohim ngale ndaba, wabetha ⟨את⟩ uIsrayeli.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "kwabonakala kubi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "indaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wabetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uIsrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T09:01:27.553202135Z",
+  "model": "glm-5.3"
+}

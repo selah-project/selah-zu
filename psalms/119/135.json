@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 135,
+  "ref": "psalms 119:135",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ubuso bakho bukhanye ⟨phezu⟩ kwenkonjana yakho, futhi ungifundise ⟨את⟩ izimiso zakho.",
+  "tokens": [
+    {
+      "surface": "פניך",
+      "gloss": "Ubuso bakho"
+    },
+    {
+      "surface": "האר",
+      "gloss": "bukhanye"
+    },
+    {
+      "surface": "בעבדך",
+      "gloss": "kwenkonjana yakho"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "futhi ungifundise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izimiso zakho"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "izimiso zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:10.319917995Z",
+  "model": "glm-5.3"
+}

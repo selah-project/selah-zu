@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Waze wakha ⟨את⟩ i-efodi; igolide, uhlanga oluhlaza-sibhakabhaka, olubomvu-nzima, uhleze olubomvu, nesilika esiqoshiwe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "waze wakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-efodi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "i-efodi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "uhlanga oluhlaza-sibhakabhaka"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "olubomvu-nzima"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "uhleze"
+    },
+    {
+      "surface": "שני",
+      "gloss": "olubomvu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "nesilika"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "esiqoshiwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:46:57.736708702Z",
+  "model": "glm-5.3"
+}

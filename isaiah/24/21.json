@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 24:21",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Futhi kuzwakala ngalolosuku uYahwe uzobasola ibutho lezulu phakadezulu, namakosi omhlaba phezu komhlaba.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "futhi kuzwakala"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalolosuku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "uzobasola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ibutho"
+    },
+    {
+      "surface": "המרום",
+      "gloss": "lezulu"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "phakadezulu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nakwa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amakosi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "komhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T04:23:29.334445580Z",
+  "model": "glm-5.3"
+}

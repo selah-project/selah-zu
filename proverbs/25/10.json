@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "hleze lowo ezwayo akukhombise inhlamba, futhi inkundla yakho emibi ingaphenduki.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "hleze"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "akukhombise inhlamba"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "lowo ezwayo"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "futhi inkundla yakho emibi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inga"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "phenduki"
+    }
+  ],
+  "timestamp": "2026-08-31T08:55:20.316123912Z",
+  "model": "glm-5.3"
+}

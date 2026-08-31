@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 19:8",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "IRavshake waya emuva, wathola inkosi yakwaAshuru ilwisa eLivna, ngokuba ezwa ukuthi ihambile eLakhishi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "waya emuva"
+    },
+    {
+      "surface": "רב",
+      "gloss": "iRavshake"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "iRavshake"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "wathola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi yakwaAshuru"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "yakwaAshuru"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "ilwisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Livna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ezwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "ihambile"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "eLakhishi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:12:27.848919332Z",
+  "model": "glm-5.3"
+}

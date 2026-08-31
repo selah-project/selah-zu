@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 121,
+  "translation": "uYahwe ungumgcini wakho, uYahwe ungwesithunzi sakho, esandleni sokudla kwakho.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ungumgcini wakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "ungwesithunzi sakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "יד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sokudla kwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:52.702476912Z",
+  "model": "glm-5.3"
+}

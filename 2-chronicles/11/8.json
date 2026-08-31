@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "No⟨את⟩ uGathi no⟨את⟩ uMaresha no⟨את⟩ uZifi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uGathi"
+    },
+    {
+      "surface": "גת",
+      "gloss": "uGathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uMaresha"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "uMaresha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uZifi"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "uZifi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:34:13.268564509Z",
+  "model": "glm-5.3"
+}

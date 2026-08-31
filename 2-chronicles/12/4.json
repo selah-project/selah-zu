@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Wayesebanjela ⟨את⟩ imizi emiphephethe eyayingeyaYehuda, wafikelela eYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "wayesebanjela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imizi emiphephethe"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "imizi"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "emiphephethe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eyayingu-"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "yaYehuda"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wafikelela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "wafikelela ku-"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:34:10.546005680Z",
+  "model": "glm-5.3"
+}

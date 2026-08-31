@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Wakhetha ⟨את⟩ isizwe sikaYehudha, ⟨את⟩ intaba yiTsiyoni ayayithandayo.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "wakhetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isizwe sikaYehudha"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kaYehudha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intaba yiTsiyoni"
+    },
+    {
+      "surface": "הר",
+      "gloss": "intaba"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "yiTsiyoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayayithandayo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "thanda"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:52.255107599Z",
+  "model": "glm-5.3"
+}

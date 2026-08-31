@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "iTorah (umthetho) wayiphendula iNkosi yaseMoyeni ukuze sisindiswe nguMoshe; ingabe yakubo (okuyingcweti) yokwakha umphakathi kaJakhobo.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "iTorah (umthetho)"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayiphendula iNkosi yaseMoyeni"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ukuthi singayithola"
+    },
+    {
+      "surface": "משה",
+      "gloss": "nguMoshe"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "ingabe yakubo (okuyingcweti)"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "yokwakha umphakathi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kaJakhobo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:47:01.098184429Z",
+  "model": "glm-5.3"
+}

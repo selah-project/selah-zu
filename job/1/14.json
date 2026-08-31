@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 1:14",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kwafika isithunywa kuYobu sathi: izinkomo zazingalima, izimbongolo zazingadla eziseduze nazo.",
+  "tokens": [
+    {
+      "surface": "ומלאך",
+      "gloss": "isithunywa"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kwafika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "uYobu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sathi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "izinkomo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "zazinga"
+    },
+    {
+      "surface": "חרשות",
+      "gloss": "zilimayo"
+    },
+    {
+      "surface": "והאתנות",
+      "gloss": "izimbongolo"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "zidlayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "eduze"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "nazo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:08:22.070080741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 31:4",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Futhi uYahwe uzowenza kubona njengalokho awenzile kuSihoni nakuyOgi, amakhosi amaEmori, nasemhlabeni wabo, aba wababhujisa ⟨את⟩ ⟨them⟩.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "uzowenza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengalokho"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "awenzile"
+    },
+    {
+      "surface": "לסיחון",
+      "gloss": "kuSihoni"
+    },
+    {
+      "surface": "ולעוג",
+      "gloss": "nakuyOgi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amaEmori"
+    },
+    {
+      "surface": "ולארצם",
+      "gloss": "nasemhlabeni wabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "wababhujisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨them⟩",
+      "marks": "amaEmori"
+    }
+  ],
+  "timestamp": "2026-08-31T02:47:24.272804583Z",
+  "model": "glm-5.3"
+}

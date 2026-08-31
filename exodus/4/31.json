@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 4:31",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Abantu bakholwa, baza bezwa ukuthi uYahwe ubhekile ⟨את⟩ abantwana bakwa-Israyeli, nokuthi ubonile ⟨את⟩ ubuhlungu babo; bashiswa amadolo, baza bahlonipha ngokuzithoba.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "bakholwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Abantu"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "baza bezwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ubhekile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakwa-Israyeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "nokuthi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ubonile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuhlungu babo"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "ubuhlungu babo"
+    },
+    {
+      "surface": "ויקדו",
+      "gloss": "bashiswa amadolo"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "baza bahlonipha ngokuzithoba"
+    }
+  ],
+  "timestamp": "2026-08-31T01:28:16.052952291Z",
+  "model": "glm-5.3"
+}

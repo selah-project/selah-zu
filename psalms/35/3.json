@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 35:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Futhi khulula ihlethi, vala umgwaqo ⟨ebubanzi⟩ babalwandisi bami; yisho kumphefumulo wami: Nguyisiphephelo sakho mina.",
+  "tokens": [
+    {
+      "surface": "והרק",
+      "gloss": "futhi khulula"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ihlethi"
+    },
+    {
+      "surface": "וסגר",
+      "gloss": "futhi vala"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ukuze ihlangane"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "abalwandisi bami"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yisho"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kumphefumulo wami"
+    },
+    {
+      "surface": "ישעתך",
+      "gloss": "isiphephelo sakho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:07.745717113Z",
+  "model": "glm-5.3"
+}

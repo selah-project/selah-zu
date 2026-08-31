@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 50:25",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "UYosefu wafungisa abantwana bakwaIsrayeli, esithi: uElohim uzakwenzela ⟨isithembiso⟩ — ngempela uzakwenzela — futhi nizakwenyusa ⟨את⟩ amathambo ami lapha.",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "wafungisa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakwaIsrayeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaIsrayeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "פקוד",
+      "gloss": "uzakwenzela"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "uzakwenzela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninina"
+    },
+    {
+      "surface": "והעליתם",
+      "gloss": "futhi nizakwenyusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amathambo ami"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "amathambo ami"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "lapha"
+    }
+  ],
+  "timestamp": "2026-08-31T01:25:05.990949034Z",
+  "model": "glm-5.3"
+}

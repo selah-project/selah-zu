@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 21:21",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi waqhosela ⟨את⟩ uYisrayeli; wamshaya uYehonatan, indodana kaShimeya, umfo kaDavide.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "futhi waqhosela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYisrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "wamshaya"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "uYehonatan"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Shimeya"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "umfo ka-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    }
+  ],
+  "timestamp": "2026-08-31T03:41:32.032721034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 37:5",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Futhi amabutho kaParo aphume eMitsrayimi, futhi amaKashidi, abayizela iYerushalayimi, azwa ⟨את⟩ ingxoxo yabo, bese benyuka besuka eYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "וחיל",
+      "gloss": "futhi amabutho"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "aphume"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayimi"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "futhi azwa"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "amaKashidi"
+    },
+    {
+      "surface": "הצרים",
+      "gloss": "abayizela"
+    },
+    {
+      "surface": "על",
+      "gloss": "-"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingxoxo yabo"
+    },
+    {
+      "surface": "שמעם",
+      "gloss": "ingxoxo yabo"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "bese benyuka"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "besuka"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:55:20.216399738Z",
+  "model": "glm-5.3"
+}

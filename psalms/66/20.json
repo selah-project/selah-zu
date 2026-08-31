@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 66:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 66,
+  "translation": "Makabusisiwe uElohim, obungekaguquli umthandazo wami, futhi ikhesedi lakhe kusukela ⟨את⟩ kimi.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "makabusisiwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "obungekaguquli o-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ange-"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "guquli"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "umthandazo wami"
+    },
+    {
+      "surface": "וחסדו",
+      "gloss": "ikhesedi lakhe"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "kusukela ⟨את⟩ kimi",
+      "marks": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:15.212357439Z",
+  "model": "glm-5.3"
+}

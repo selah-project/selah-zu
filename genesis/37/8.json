@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 37:8",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Abafowabo bamphendula: Uzobusa ngempela yini thina, noma uzubusa ngempela thina? Bafica besanda ⟨את⟩ ukumbona ngenxa yamaphupho akhe nangamazwi akhe.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "bamphendula"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abafowabo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "uzobusa"
+    },
+    {
+      "surface": "תמלך",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "אם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "משול",
+      "gloss": "uzubusa"
+    },
+    {
+      "surface": "תמשל",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "bafica besanda"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ukumbona kakhulu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa ya-"
+    },
+    {
+      "surface": "חלמתיו",
+      "gloss": "amaphupho akhe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nangenxa ya-"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "amazwi akhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:49:21.476213189Z",
+  "model": "glm-5.3"
+}

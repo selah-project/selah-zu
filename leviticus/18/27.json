@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "ngoba ⟨את⟩ zonke lezi zidyabhadi bazenzile amadoda omhlaba abayiphambili kwenu, futhi umhlaba wadangala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke lezi zidyabhadi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "izidyabhadi"
+    },
+    {
+      "surface": "האל",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bazenzile"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abayi"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "futhi wadangala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T01:59:03.035641931Z",
+  "model": "glm-5.3"
+}

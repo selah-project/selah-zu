@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 72:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 72,
+  "translation": "Futhi osibushekile igama lenkazimulo yakhe kuze kube phakade; aze agcwalise inkazimulo yakhe ⟨את⟩ wonke umhlaba. Ameni, futhi ameni.",
+  "tokens": [
+    {
+      "surface": "וברוך",
+      "gloss": "futhi osibushekile"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "inkazimulo yakhe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "aze agcwalise"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "inkazimulo yakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke umhlaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ameni"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "futhi ameni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:55.440556485Z",
+  "model": "glm-5.3"
+}

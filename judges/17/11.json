@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 17:11",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "ULevi wazikhethazela ukuhlala ⟨את⟩ le ndoda, insizwa yaba njengenye yezindodana zakhe.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "wazikhethazela"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "uLevi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ukuhlala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le ndoda"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "le ndoda"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "insizwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "njengenye"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "yezindodana zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:10:54.219001518Z",
+  "model": "glm-5.3"
+}

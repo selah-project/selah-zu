@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 57,
+  "translation": "Ngoba ikhesedi yakho inkulu ⟨ye⟩ izulu, nekufanele amafu iqiniso lakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "inkulu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "izulu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": ""
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "amafu"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": ""
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "iqiniso lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:07.633491805Z",
+  "model": "glm-5.3"
+}

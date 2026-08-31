@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 25:7",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi kwezinkomo zakho, nakwezilwane zasendle ezikulomhlaba wakho, kufanele konke ukhula kwayo kube yisipho sokudla.",
+  "tokens": [
+    {
+      "surface": "ולבהמתך",
+      "gloss": "futhi kwezinkomo zakho"
+    },
+    {
+      "surface": "ולחיה",
+      "gloss": "nakwezilwane zasendle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezikulomhlaba"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "wakho"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kufanele kube"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ukhula kwayo"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ukudla"
+    }
+  ],
+  "timestamp": "2026-08-31T02:04:19.823278283Z",
+  "model": "glm-5.3"
+}

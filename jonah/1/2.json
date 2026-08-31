@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 1:2",
+  "book": "jonah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Sukuma, hamba uyoeNinive, lodolwana olukhulu, ubize ngokuchitheka kwaso, ngokuba ububi babo buphakeme phambi kwami.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Sukuma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uyoe"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "iNinive"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lodolwana"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "olukhulu"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ubize"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ngokuchitheka kwaso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "buphakeme"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "ububi babo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T05:36:02.003030673Z",
+  "model": "glm-5.3"
+}

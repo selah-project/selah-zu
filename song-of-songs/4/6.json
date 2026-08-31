@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 4:6",
+  "book": "song-of-songs",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Kuze kukhanyise ilanga, nemithunzi igwazwe, ngiyothatha indlela yami ⟨eyozula⟩ entabeni yomuthi wombola, nasenhlotsheni yesibani.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "שיפוח",
+      "gloss": "kukhanyise"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "igwazwe"
+    },
+    {
+      "surface": "הצללים",
+      "gloss": "nemithunzi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ngiyothatha indlela yami"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨eyozula⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "המור",
+      "gloss": "yomuthi wombola"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nase-"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "nenhlotsheni"
+    },
+    {
+      "surface": "הלבונה",
+      "gloss": "yesibani"
+    }
+  ],
+  "timestamp": "2026-08-31T07:32:47.960551939Z",
+  "model": "glm-5.3"
+}

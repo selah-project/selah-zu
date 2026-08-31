@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Ngokuba waphula ⟨את⟩ amasango-obhedo, lobulele izinti zensimbi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "waphula"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "amasango"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "obhedo"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "izinti"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "zensimbi"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "lobulele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:42.743543015Z",
+  "model": "glm-5.3"
+}

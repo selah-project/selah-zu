@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 74:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 74,
+  "translation": "Bathi ezinhliziyweni zabo: Asibhubhise bobabili (siwaceke kuhle); bashise wonke amahlangana ka-u-El emhlabeni.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "basho\/bathi"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ezinhliziyweni zabo"
+    },
+    {
+      "surface": "נינם",
+      "gloss": "asibhubhise"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kuhle (bobabili)"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "bashise"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "amahlangana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka-u-El"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:05.065331908Z",
+  "model": "glm-5.3"
+}

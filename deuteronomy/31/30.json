@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Futhi uMoshe wakhuluma ezindlebeni zombuso wonke wakwa-Israyeli ⟨את⟩ amazwi ale ngoma, yaze yaphela.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "futhi wakhuluma"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ezindlebeni za"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "umbuso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wakwa-Israyeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazwi ale ngoma"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi a"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "le ngoma"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yaze"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "yaphela"
+    }
+  ],
+  "timestamp": "2026-08-31T02:45:46.228536648Z",
+  "model": "glm-5.3"
+}

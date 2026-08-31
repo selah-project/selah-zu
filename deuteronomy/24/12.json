@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Futhi uma ungumuntu ophansi-phezu komhlaba yena, ungabi lala nesiguqo sakhe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Futhi uma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ophansi-phezu komhlaba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "lala"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "nesiguqo sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:00:43.862853981Z",
+  "model": "glm-5.3"
+}

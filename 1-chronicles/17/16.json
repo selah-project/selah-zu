@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 17:16",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "INKosi uDavide wangena, wayehlala phambi kukaYahwe, wathi: Ngubani mina, uYahwe uElohim, futhi ngubani izindlu ⟨bendlu⟩ yami, ukuthi ungilethisile la?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wayehlala"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "futhi ngubani"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "indlu yami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "ungilethisile"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "la"
+    }
+  ],
+  "timestamp": "2026-08-31T08:27:50.707348577Z",
+  "model": "glm-5.3"
+}

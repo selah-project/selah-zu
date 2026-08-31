@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 119:63",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngumlingani wabanye bonke abasabayokhoza, nalabo abagcina imiyalo yakho.",
+  "tokens": [
+    {
+      "surface": "חבר",
+      "gloss": "ngumlingani"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kubona bonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abasaba"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "bayokhoza"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "nalabo abagcinisa"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "imiyalo yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:11.530154322Z",
+  "model": "glm-5.3"
+}

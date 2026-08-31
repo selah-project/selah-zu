@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "⟨את⟩ ulwandle olulodwa, futhi ⟨את⟩ izinkomo ezilishumi nambili ngaphansi kwalo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulwandle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "olulodwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izinkomo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "izinkomo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ezilishumi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "nambili"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ngaphansi kwalo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:32:08.169875526Z",
+  "model": "glm-5.3"
+}

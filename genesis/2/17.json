@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 2:17",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Kodwa umuthi wokwazi okuhle nokubi, ungawudli ngawo, ngokuba ngosuku oluzowudla ngawo ngempela uzofa.",
+  "tokens": [
+    {
+      "surface": "ומעץ",
+      "gloss": "kodwa umuthi"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "wokwazi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "nokubi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungadli (lo awudli)"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "awudli"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ngawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "oluzowudla"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ngawo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "uzofa (ngokufa)"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "uzofa ngempela"
+    }
+  ],
+  "timestamp": "2026-08-31T10:10:24.122299336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 13:10",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Uzonibekela ⟨את⟩ nina icala ngempela, uma nizithwele ubuso ngasese.",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "uzonibekela icala"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ngasese"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "תשאון",
+      "gloss": "nizithwele"
+    }
+  ],
+  "timestamp": "2026-08-31T07:13:41.206229730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 29:15",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Niyazi ⟨את⟩ indawo esahlala kuyo ezweni laseMitsrayim, kanye ⟨את⟩ endlela esadlula ngayo phakathi kwabezizwe enidlula kubona",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "niyazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indawo esahlala kuyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "esahlala"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "endlela esadlula ngayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "עברנו",
+      "gloss": "esadlula"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi kwa"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "abezizwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aso"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "enidlula kuzo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:44:56.979623839Z",
+  "model": "glm-5.3"
+}

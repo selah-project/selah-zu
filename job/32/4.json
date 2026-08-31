@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 32:4",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "UElihu walinda ⟨את⟩ u-Ayyobhu ngezinkulumo, ngokuba bona bendala kunaye ezinsukwini.",
+  "tokens": [
+    {
+      "surface": "ואליהו",
+      "gloss": "UElihu"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "walinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Ayyobhu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "u-Ayyobhu"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ngezinkulumo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "bendala"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kunaye"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "ezinsukwini"
+    }
+  ],
+  "timestamp": "2026-08-31T07:24:17.677330930Z",
+  "model": "glm-5.3"
+}

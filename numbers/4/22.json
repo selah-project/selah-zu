@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 4:22",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Phakamisa ⟨את⟩ ikhanda lezinkulunkulu zikaGershon, nabo, ngokwendlu yookhokho babo, ngokwezinduna zabo",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Phakamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikhanda"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ikhanda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "lezinkulunkulu"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "zikaGershon"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nabo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "nabo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ngokwendlu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "yookhokho babo"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngokwezinduna zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:09:19.713787265Z",
+  "model": "glm-5.3"
+}

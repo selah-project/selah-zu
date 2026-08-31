@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi intliziyo kaYahwe yashisa ngolaka kubona, futhi ⟨we⟩yahamba.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "yashisa ngolaka"
+    },
+    {
+      "surface": "אף",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "futhi weyahamba"
+    }
+  ],
+  "timestamp": "2026-08-31T02:14:20.604834283Z",
+  "model": "glm-5.3"
+}

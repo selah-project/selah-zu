@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 4:12",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Wathi kuGechazi, insizwa yakhe: Biza le Shunamithi; wambiza, yamiswa yasho phambi kwakhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gechazi"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "insizwa yakhe"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "biza"
+    },
+    {
+      "surface": "לשונמית",
+      "gloss": "le Shunamithi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wambiza"
+    },
+    {
+      "surface": "לה",
+      "gloss": "-m-"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "yamiswa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:03:53.908255679Z",
+  "model": "glm-5.3"
+}

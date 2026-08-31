@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "u-Shalumu wazala ⟨את⟩ u-Chilkiya, u-Chilkiya wazala ⟨את⟩ u-Azariya;",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "u-Shalumu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Chilkiya"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "u-Chilkiya"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "u-Chilkiya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Azariya"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "u-Azariya"
+    }
+  ],
+  "timestamp": "2026-08-31T08:20:20.194404704Z",
+  "model": "glm-5.3"
+}

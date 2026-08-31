@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Amanzi ahamble ajikeleza i-altare, futhi wagwala ⟨את⟩ umgodi ngamanzi.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "ahamble"
+    },
+    {
+      "surface": "המים",
+      "gloss": "Amanzi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ajikeleza"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umgodi"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "umgodi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "wagwala"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ngamanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:00:17.979175411Z",
+  "model": "glm-5.3"
+}

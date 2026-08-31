@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 83:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 83,
+  "translation": "Mabahlekiswe, base bakhathazeka kuze kube phakade; mabahlazwe, babhujiswe.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Mabahlekiswe"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "base bakhathazeka"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עד",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "mabahlazwe"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "mabhujiswe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:52.338906209Z",
+  "model": "glm-5.3"
+}

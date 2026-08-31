@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 25:11",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi ngingayithatha ⟨את⟩ inkitha yami no⟨את⟩ amanzi ami no⟨את⟩ inyama yami engiyibulalela abasiki bami, benginike abantu engingabazi ukuthi bangaphi bavela khona na?",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "futhi ngingayithatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkitha yami"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "inkitha yami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "amanzi ami"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "amanzi ami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "inyama yami"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "inyama yami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "טבחתי",
+      "gloss": "yibulalela"
+    },
+    {
+      "surface": "לגזזי",
+      "gloss": "abasiki bami"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "benginike"
+    },
+    {
+      "surface": "לאנשים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abangazi ukuthi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ngibazi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "bangaphi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "bavela"
+    },
+    {
+      "surface": "המה",
+      "gloss": "khona"
+    }
+  ],
+  "timestamp": "2026-08-31T06:03:18.518701219Z",
+  "model": "glm-5.3"
+}

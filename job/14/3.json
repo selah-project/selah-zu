@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 14:3",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi ngalo leli uvula amehlo akho, uthinte ⟨את⟩ umngcwetsyeli wakho? — Uyaqalisa ukwenza ⟨את⟩ iindlela zakhe.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngalo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "פקחת",
+      "gloss": "uvula"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "amehlo akho"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩",
+      "marks": "ondla"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "ngenisa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ekkalweni"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "lawe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:14:53.896955678Z",
+  "model": "glm-5.3"
+}

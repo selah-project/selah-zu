@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 23:2",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Khuluma ezinjabulweni zika-Israyeli, uthi kibo: izikhathi ezisiwa nguYahwe, ozibizayo ⟨את⟩ njengezimbili ezingcwele — lezi yizikhathi zami.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Khuluma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ezinjabulweni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ika-Israyeli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kibo"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "izikhathi ezisiwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "ozibizayo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izimbili ezingcwele"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "njengezimbili"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ezingcwele"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yizi"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "izikhathi zami"
+    }
+  ],
+  "timestamp": "2026-08-31T02:02:47.123381844Z",
+  "model": "glm-5.3"
+}

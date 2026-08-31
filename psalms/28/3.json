@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 28:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Ungandidonsi ndawonye naboni, nabenzi bokubi, abakhulumayo ukuthula ku bahlobo babo, ⟨kodwa⟩ ububi ezinhliziyweni zabo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תמשכני",
+      "gloss": "didonsi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndawonye na"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "aboni"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "nabe"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "nzenzi"
+    },
+    {
+      "surface": "און",
+      "gloss": "bokubi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "abakhulumayo"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ukuthula"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רעיהם",
+      "gloss": "bahlobo babo"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "⟨kodwa⟩ ububi"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "ezinhliziyweni zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:31.656911342Z",
+  "model": "glm-5.3"
+}

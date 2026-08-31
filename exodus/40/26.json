@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Futhi wabeka ⟨את⟩ i-altare yegolide etendeni yokuhlangana, phambi kwesikhrembo.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-altare yegolide"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "yegolide"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "etendeni"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuhlangana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "isikhrembo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:49:27.686410222Z",
+  "model": "glm-5.3"
+}

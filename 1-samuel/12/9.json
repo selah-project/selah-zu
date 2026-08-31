@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 12:9",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Balahlekelwe yinguquko, bashiya uYahwe uElohim wabo; wabathengisa ⟨את⟩ esandleni sikaSisera, inkulu yesibutho seHatsori, nasemandleni abePelishti, nasemandleni enkosana yaseMowabi; lapho belwa nabo.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "bashiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "uElohim wabo"
+    },
+    {
+      "surface": "וימכר",
+      "gloss": "wabathengisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "sikaSisera"
+    },
+    {
+      "surface": "שר",
+      "gloss": "inkulu"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "yesibutho"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "seHatsori"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "nasemandleni"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "abePelishti"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "nasemandleni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "yenkosana"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "yaseMowabi"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "belwa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "nabo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:19:44.009132440Z",
+  "model": "glm-5.3"
+}

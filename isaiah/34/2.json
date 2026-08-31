@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 34:2",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Ngokuba isihawu sikaYahwe siphezu kwezizwe zonke, futhi intukuthelo yakhe phezu komkhakha wawo wonke; wazibeka ngokucekela ngokuphelele, wazinikela ekubulaweni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "isihawu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "siphezu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "wezizwe"
+    },
+    {
+      "surface": "וחמה",
+      "gloss": "futhi intukuthelo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "umkhakha wawo"
+    },
+    {
+      "surface": "החרימם",
+      "gloss": "wazibeka ngokucekela ngokuphelele"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "wazinikela"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "ekubulaweni"
+    }
+  ],
+  "timestamp": "2026-08-31T04:27:26.117673595Z",
+  "model": "glm-5.3"
+}

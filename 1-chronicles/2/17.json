@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi u-Abigayili wazala ⟨את⟩ u-Amasha; uyise u-Amasha wayengu-Yetheru, um-Ismaeli.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "Futhi u-Abigayili"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Amasha"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "u-Amasha"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "futhi uyise"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "u-Amasha"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "u-Yetheru"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "um-Ismaeli"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:26.379679377Z",
+  "model": "glm-5.3"
+}

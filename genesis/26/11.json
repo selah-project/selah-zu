@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 26:11",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Waletha u-Abimelekhi umyalo kuwo wonke umuntu, wathi: \"Othinta lomuntu nonyokwe bakhe uzakufa ngokufa.\"",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "waletha umyalo"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "u-Abimelekhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuwo wonke umuntu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kuwo wonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "othinta"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "lomuntu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "ובאשתו",
+      "gloss": "nonyokwe bakhe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "uzakufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ngokufa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:13:22.762643395Z",
+  "model": "glm-5.3"
+}

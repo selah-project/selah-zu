@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 8:10",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Lumelanani icebo, lizochithwa; nikhulumise ilizwi, alizomi; ngoba u-El unathi.",
+  "tokens": [
+    {
+      "surface": "עצו",
+      "gloss": "lumelanani icebo"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "icebo"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "lizochithwa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "nikhulumise"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ali-"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "zomi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "unathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    }
+  ],
+  "timestamp": "2026-08-31T04:17:39.268508973Z",
+  "model": "glm-5.3"
+}

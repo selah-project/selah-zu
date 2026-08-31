@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 56:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 56,
+  "translation": "Izifungo zakho zikimi, uElohim; ngizozikhokhela izibongo kuwe.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "zikimi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "izifungo zakho"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ngizozikhokhela"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "izibongo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:14.879606105Z",
+  "model": "glm-5.3"
+}

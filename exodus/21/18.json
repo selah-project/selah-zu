@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 21:18",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi uma amadoda ezabana, indoda ibetha ⟨את⟩ umakhelwane wayo ngitshe noma nginqindi, lo engafi, kodwa ewa embhedeni.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "futhi uma"
+    },
+    {
+      "surface": "יריבן",
+      "gloss": "ezabana"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ibetha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umakhelwane wayo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "umakhelwane wayo"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ngitshe"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "nginqindi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa enga-"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "fi"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ewa"
+    },
+    {
+      "surface": "למשכב",
+      "gloss": "embhedeni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:38:02.163301806Z",
+  "model": "glm-5.3"
+}

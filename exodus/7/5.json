@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 7:5",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi abantu baseMitsrayim bazazi ukuthi mina nginguYahwe, uma ngekhulula isandla sami phezu kweMitsrayim, futhi ngizokhipha abantwana bakwaIsrayeli phakathi kwabo.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "bazazi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "abantu baseMitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nginguYahwe"
+    },
+    {
+      "surface": "בנטתי",
+      "gloss": "uma ngekhulula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sami"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "isandla sami"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "והוצאתי",
+      "gloss": "futhi ngizokhipha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakwaIsrayeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana bakwa-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "phakathi kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:27:39.731490508Z",
+  "model": "glm-5.3"
+}

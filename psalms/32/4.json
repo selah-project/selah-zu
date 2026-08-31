@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 32:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Ngokuba usuku nobusuku isandla sakho sasinzima phezu kwami; umswakama wami washintša waba yomileyo yasentwasahlova. Selah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "usunu nobusuku"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "nobusuku"
+    },
+    {
+      "surface": "תכבד",
+      "gloss": "sasinzima"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "washintša"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "waba yomileyo"
+    },
+    {
+      "surface": "בחרבני",
+      "gloss": "yasentwasahlova"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "entwasahlova"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:26.265579422Z",
+  "model": "glm-5.3"
+}

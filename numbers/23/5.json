@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Yabe uYahwe ebeke izwi emlonyeni kaBhilamu, yathi: Buyela kuBhalaqi, uze uthi kanje:",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ebeke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "emlonyeni"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "kaBhilamu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Buyela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Bhalaqi"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "kanje"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "uthi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:22:42.528016876Z",
+  "model": "glm-5.3"
+}

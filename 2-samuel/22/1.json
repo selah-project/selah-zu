@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 22:1",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "UDavide wakhuluma kuYahwe amagama ale ngoma ngosuku uYahwe lapho \\u200b'hlukumeza' ⟨את⟩ ekhanda lelayo langaphambilini — (revised below) UDavide wakhuluma kuYahwe ⟨את⟩ amagama ale ngoma ngosuku uYahwe amkhulule ⟨את⟩ esandleni sawo wonke abazali bakhe bokulwa, nas esandleni sikaShawuli.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagama ale ngoma"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ale ngoma"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "amkhulule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sawo wonke"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "abazali bakhe bokulwa"
+    },
+    {
+      "surface": "ומכף",
+      "gloss": "nas esandleni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "sikaShawuli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:43:37.804065914Z",
+  "model": "glm-5.3"
+}

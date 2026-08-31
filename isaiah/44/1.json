@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Kodwa manje zwa, uYaqobe izinceku yami, no-Israyeli engimkhethile yena.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "kodwa manje"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "zwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaqobe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "izinceku yami"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "no-Israyeli"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "engimkhethile"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T04:30:56.520110302Z",
+  "model": "glm-5.3"
+}

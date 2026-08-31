@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Ungaki isivumelwano nabo nange-Elohim zabo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ungaki"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ukusika"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nabo"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "nange-Elohim zabo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "isivumelwano"
+    }
+  ],
+  "timestamp": "2026-08-31T01:38:39.180525692Z",
+  "model": "glm-5.3"
+}

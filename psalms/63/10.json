@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 63:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 63,
+  "translation": "Kepha bona, bengafuna ukubhubhisa ukuphila kwami, bazongena ezansi-ezijulile zomhlaba.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "kepha bona"
+    },
+    {
+      "surface": "לשואה",
+      "gloss": "ukubhubhisa"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "bengafuna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ukuphila kwami"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bazongena"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "ezansi-ezijulile"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zomhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:51.405609490Z",
+  "model": "glm-5.3"
+}

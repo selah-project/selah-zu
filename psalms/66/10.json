@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 66:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 66,
+  "translation": "Ngokuba usihlolile, wena uElohim; usihlaziye njengokuhlaziywa kweSiliva.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "בחנתנו",
+      "gloss": "usihlolile"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "צרפתנו",
+      "gloss": "usihlaziye"
+    },
+    {
+      "surface": "כצרף",
+      "gloss": "njengokuhlaziywa"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kweSiliva"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:13.982682415Z",
+  "model": "glm-5.3"
+}

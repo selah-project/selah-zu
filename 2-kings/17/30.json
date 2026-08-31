@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 17:30",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Futhi abantu baseBhabhiloni benza ⟨את⟩ iSukhoti-Benoti, abantu baseKuthi benza ⟨את⟩ iNergali, futhi abantu baseHamati benza ⟨את⟩ i-Ashima.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "abantu baka-"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Bhabhiloni"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iSukhoti-Benoti"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "iSukhoti"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "Benoti"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "abantu baka-"
+    },
+    {
+      "surface": "כות",
+      "gloss": "Kuthi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iNergali"
+    },
+    {
+      "surface": "נרגל",
+      "gloss": "iNergali"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "abantu baka-"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Hamati"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-Ashima"
+    },
+    {
+      "surface": "אשימא",
+      "gloss": "i-Ashima"
+    }
+  ],
+  "timestamp": "2026-08-31T04:12:21.627198101Z",
+  "model": "glm-5.3"
+}

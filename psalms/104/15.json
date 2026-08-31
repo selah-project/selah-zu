@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 104:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 104,
+  "translation": "Newayini elijabulisa intliziyo yomuntu, nokukhanyisa ubuso ngo-oyile, nokudla okuqinisa intliziyo yomuntu.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "newayini"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "elijabulisa"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "yomuntu"
+    },
+    {
+      "surface": "להצהיל",
+      "gloss": "nokukhanyisa"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ngo-oyile"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "nokudla"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "yomuntu"
+    },
+    {
+      "surface": "יסעד",
+      "gloss": "okuqinisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:51.652859668Z",
+  "model": "glm-5.3"
+}

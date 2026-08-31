@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 2:10",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Okuseleyo komnikelo wezinkwa kungokuka-Aharon nakubantabakhe: ingcwele kakhulu phakathi komnikelo wamlilo kaYahwe.",
+  "tokens": [
+    {
+      "surface": "וְהַנּוֹתֶרֶת",
+      "gloss": "okuseleyo"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "הַמִּנְחָה",
+      "gloss": "umnikelo wezinkwa"
+    },
+    {
+      "surface": "לְאַהֲרֹן",
+      "gloss": "kungokuka-Aharon"
+    },
+    {
+      "surface": "וּלְבָנָיו",
+      "gloss": "nakubantabakhe"
+    },
+    {
+      "surface": "קֹדֶשׁ",
+      "gloss": "ingcwele"
+    },
+    {
+      "surface": "קָדָשִׁים",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "מֵאִשֵּׁי",
+      "gloss": "phakathi komnikelo wamlilo"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:12:58.787827555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 107:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Bakhala kuYahwe esizathini sabo, wabasindisa ezinkingameni zabo.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "bakhala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "esizathini"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sabo"
+    },
+    {
+      "surface": "ממצוקותיהם",
+      "gloss": "ezinkingameni zabo"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "wabasindisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:53.829021281Z",
+  "model": "glm-5.3"
+}

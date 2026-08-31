@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 7:8",
+  "book": "ezra",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Wafika eYerushalayimi ngenyanga yesihlanu — yilowo oyinyanga yesikhombisa yenkosi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Wafika"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ngenyanga ye-"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "sihlanu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yilowo oyi-"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "yonyaka we-"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "sikhombisa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "yenkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:08:35.737838825Z",
+  "model": "glm-5.3"
+}

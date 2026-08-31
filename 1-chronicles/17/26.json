@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 17:26",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Manje-ke, uYahwe, wena ⟨ungu⟩-yena uElohim, futhi ukhulume ngenceku yakho okuhle lokhu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "manje-ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "ukhulume"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "inceku yakho"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lokhu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:26:14.831381720Z",
+  "model": "glm-5.3"
+}

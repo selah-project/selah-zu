@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 1:42",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Amadodana kaNafthali, ngezeko labo, ngokwezindlu zamabelelana zawo, ngokwebala lamagama abo, ezinsukwini ezingamashumi amabili nangaphezulu, bonke abaphuma emkhumbini:",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "amadodana ka"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "aNafthali"
+    },
+    {
+      "surface": "תולדתם",
+      "gloss": "ngezeko labo"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngokwezindlu zamabelelana zawo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ngendlu ka"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "yababa"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ngokwebala"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "lamagama abo"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "ezinsukwini ezingu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amashumi amabili"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "nangaphezulu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "abaphuma"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "emkhumbini"
+    }
+  ],
+  "timestamp": "2026-08-31T02:06:10.333010050Z",
+  "model": "glm-5.3"
+}

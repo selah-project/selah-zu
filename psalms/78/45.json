@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 78:45",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Wathuma kubona ⟨uhle lwezinnyezi⟩, zasidla; futhi amanxeni, azibhubhisa.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Wathuma"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "⟨uhle lwezinnyezi⟩"
+    },
+    {
+      "surface": "ויאכלם",
+      "gloss": "zasidla"
+    },
+    {
+      "surface": "וצפרדע",
+      "gloss": "futhi amanxeni"
+    },
+    {
+      "surface": "ותשחיתם",
+      "gloss": "azibhubhisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:26.237795975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 4:21",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi uzokhipha ⟨את⟩ inkunzi ngaphandle kwekampu, ayotshisa njengoba atshise inkunzi yokuqala; yilo isiphephelo-sono somphakathi.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "uzokhipha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkunzi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwekampu"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "ayotshisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-yena",
+      "marks": "inkunzi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "atshise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkunzi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yokuqala"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "isiphephelo-sono"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "somphakathi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:52:13.591135488Z",
+  "model": "glm-5.3"
+}

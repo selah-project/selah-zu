@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 5:8",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Awuwenzi kuwe isithombe esidultshuliwe, noma noma yisiphi isimo esilalezulwini phansi, noma esilamanzi phansi komhlaba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Awu-"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wenzi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "isithombe esidultshuliwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "noma yisiphi"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "isimo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esa-"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "zulwini"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "noma esa-"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mhlabeni"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "phansi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "noma esa-"
+    },
+    {
+      "surface": "במים",
+      "gloss": "manzi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "phansi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "komhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T02:31:34.679135781Z",
+  "model": "glm-5.3"
+}

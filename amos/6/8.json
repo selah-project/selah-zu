@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 6:8",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "U-Adonayi uYahwe wafungisa ngomphefumulo wakhe — isalakusathela sikaYahwe uElohim wamabutho — Ngiyazidela inkazimulo kaYakobi, izikhulu zakhe ngizidiala, futhi ngizonikeza isandla ⟨את⟩ isiqingi ngakho konke okuseleyo kwaso.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "wafungisa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "U-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ngomphefumulo wakhe"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "isalakusathela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamabutho"
+    },
+    {
+      "surface": "מתאב",
+      "gloss": "Ngiyazidela"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkazimulo kaYakobi"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "inkazimulo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kaYakobi"
+    },
+    {
+      "surface": "וארמנתיו",
+      "gloss": "izikhulu zakhe"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ngizidiala"
+    },
+    {
+      "surface": "והסגרתי",
+      "gloss": "futhi ngizonikeza isandla"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "isiqingi"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "ngakho konke okuseleyo kwaso"
+    }
+  ],
+  "timestamp": "2026-08-31T05:34:02.103864403Z",
+  "model": "glm-5.3"
+}

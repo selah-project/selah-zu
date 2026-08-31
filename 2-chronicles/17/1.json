@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 17:1",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "UNdodana wakhe uYehoshuwa wabusa esikhundleni sakhe, wazibeka ngamandla phezu kweIsraeli.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "wabusa"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "UNdodana wakhe"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "esikhundleni sakhe"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "wazibeka ngamandla"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsraeli"
+    }
+  ],
+  "timestamp": "2026-08-31T08:38:13.721358989Z",
+  "model": "glm-5.3"
+}

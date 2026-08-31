@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 5:4",
+  "book": "daniel",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Baphuzela iwayini, baza badumisa izikrwele zegolide nangesiliva, umtofu nensimbi, ukhuni namathebe.",
+  "tokens": [
+    {
+      "surface": "אשתיו",
+      "gloss": "baphuza"
+    },
+    {
+      "surface": "חמרא",
+      "gloss": "iwayini"
+    },
+    {
+      "surface": "ושבחו",
+      "gloss": "baza badumisa"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "izikrwele ze-"
+    },
+    {
+      "surface": "דהבא",
+      "gloss": "golide"
+    },
+    {
+      "surface": "וכספא",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "נחשא",
+      "gloss": "umtofu"
+    },
+    {
+      "surface": "פרזלא",
+      "gloss": "insimbi"
+    },
+    {
+      "surface": "אעא",
+      "gloss": "ukhuni"
+    },
+    {
+      "surface": "ואבנא",
+      "gloss": "amathebe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:35:37.375198078Z",
+  "model": "glm-5.3"
+}

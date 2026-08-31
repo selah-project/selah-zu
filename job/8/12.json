@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 8:12",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Sekunjalo esibumbeni sawo, ungasekiwe, sowoma phambi konke utshani.",
+  "tokens": [
+    {
+      "surface": "עדנו",
+      "gloss": "sekunjalo"
+    },
+    {
+      "surface": "באבו",
+      "gloss": "esibumbeni sawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asi"
+    },
+    {
+      "surface": "יקטף",
+      "gloss": "sekiwe"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "futhi phambi kwa-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "utshani"
+    },
+    {
+      "surface": "ייבש",
+      "gloss": "uyoma"
+    }
+  ],
+  "timestamp": "2026-08-31T07:10:59.826649758Z",
+  "model": "glm-5.3"
+}

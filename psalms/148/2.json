@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 148:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 148,
+  "translation": "Mdukiseni yena wonke amabutho akhe ayingelosikhonzwayo; mdukiseni yena wonke imikhosi yakhe.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "mdukiseni yena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "amabutho akhe ayingelosikhonzwayo"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "mdukiseni yena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "צבאו",
+      "gloss": "imikhosi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:55.726516746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 139:23",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 139,
+  "translation": "Ngihlole ngokujulile, ndawo u-El, futhi yazi inhliziyo yami; ngihluphe ⟨ngihlwaye⟩, futhi yazi imicabiso yami.",
+  "tokens": [
+    {
+      "surface": "חקרני",
+      "gloss": "ngihlole ngokujulile, ndawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "futhi yazi"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "inhliziyo yami"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "ngihluphe ⟨ngihlwaye⟩"
+    },
+    {
+      "surface": "ודע",
+      "gloss": "futhi yazi"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "imicabiso yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:36.695421200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 3:4",
+  "book": "micah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngaleso sikhathi bayokhala kuYahwe, futhi angeke aze abaphendule; uzofihla ubuso bakhe kubo ngaleso sikhathi, ngenxa yokuthi benze okubi izenzo zabo.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ngaleso sikhathi"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "bayokhala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi angeke"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "aze aphendule"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bona",
+      "marks": "abaphendule"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "uzofihla"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ngaleso"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "sikhathi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ngenxa yokuthi"
+    },
+    {
+      "surface": "הרעו",
+      "gloss": "benze okubi"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "izenzo zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:36:24.931238367Z",
+  "model": "glm-5.3"
+}

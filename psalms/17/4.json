@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 17:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Ngemisebenzi yomuntu, ngezenzo eziphathelene nezwi lezindebe zakho, mina ngigcine indlela zomhloli.",
+  "tokens": [
+    {
+      "surface": "לפעלות",
+      "gloss": "Ngemisebenzi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yomuntu"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ngezenzo eziphathelene nezwi"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "lezindebe zakho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ngigcine"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "zomhloli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:47.832421387Z",
+  "model": "glm-5.3"
+}

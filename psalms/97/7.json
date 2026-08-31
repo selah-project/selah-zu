@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 97:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 97,
+  "translation": "Baduka bonke abakhonzi besithombe esiqhotsyiwe, abazidumisayo ngezinganekwane ezingenalutho; khumukani phansi kuye, nonke onkulunkulu.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "baduka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abakhonzi"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "besithombe esiqhotsyiwe"
+    },
+    {
+      "surface": "המתהללים",
+      "gloss": "abazidumisayo"
+    },
+    {
+      "surface": "באלילים",
+      "gloss": "ngezinganekwane ezingenalutho"
+    },
+    {
+      "surface": "השתחוו",
+      "gloss": "khumukani phansi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nonke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "onkulunkulu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:54.165344107Z",
+  "model": "glm-5.3"
+}

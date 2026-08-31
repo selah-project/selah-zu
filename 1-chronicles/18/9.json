@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "UThou, inkosi yaseHamathi, wazwa ukuthi uDavide wabetha ⟨את⟩ wonke umabutho kaHadadezeri, inkosi yaseZobha.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wazwa"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "UThou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "yaseHamathi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "wabetha"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke umabutho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "umabutho"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "kaHadadezeri"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "yaseZobha"
+    }
+  ],
+  "timestamp": "2026-08-31T08:27:07.168470887Z",
+  "model": "glm-5.3"
+}

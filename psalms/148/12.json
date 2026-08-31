@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 148,
+  "translation": "Abasemusha, nabo amantombazane angasebenzi; abadala, kanye nabantwana abasha;",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "Abasemusha"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nabo"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "amantombazane angasebenzi"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "abadala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanye na-"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "abantwana abasha"
+    }
+  ],
+  "timestamp": "2026-08-31T06:45:21.575676607Z",
+  "model": "glm-5.3"
+}

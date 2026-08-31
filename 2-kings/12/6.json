@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 12:6",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "abapristi bangathathi kubo, umuntu ku⟨את⟩ lowo amaziyo; bese bethi baqinisa ⟨את⟩ ukuphuka kwendlu, nakho konke okutholakala khona ukuphuka;",
+  "tokens": [
+    {
+      "surface": "יקחו",
+      "gloss": "bangathathi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ku⟨את⟩",
+      "marks": "lowo amaziyo (umakade wake)"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "lowo amaziyo"
+    },
+    {
+      "surface": "והם",
+      "gloss": "bese bethi ba"
+    },
+    {
+      "surface": "יחזקו",
+      "gloss": "baqinisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuphuka kwendlu"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ukuphuka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kwendlu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nakho konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okutholakala"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "okutholakala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ukuphuka"
+    }
+  ],
+  "timestamp": "2026-08-31T04:09:23.918463158Z",
+  "model": "glm-5.3"
+}

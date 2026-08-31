@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 143:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 143,
+  "translation": "Shesha, ngiphendule, uYahwe; umoya wami uyaphela — ungafihli ubuso bakho kimi, hleze ngifananiswe nalabo ehlayo emgodini.",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "shesha"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ngiphendule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "uyaphela"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "umoya wami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungafihli"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ungafihli"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "hleze ngifananiswe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nalabo"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "ehlayo"
+    },
+    {
+      "surface": "בור",
+      "gloss": "emgodini"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:45.810620036Z",
+  "model": "glm-5.3"
+}

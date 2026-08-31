@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 20:11",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "UGonatanhi wathi kuDavide: Woza, siyophuma esivandeni. Bese bobabili bephuma esivandeni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "UGonatanhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Woza"
+    },
+    {
+      "surface": "ונצא",
+      "gloss": "siyophuma"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "esivandeni"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "bese bephuma"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bobabili"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "esivandeni"
+    }
+  ],
+  "timestamp": "2026-08-31T03:23:31.743908517Z",
+  "model": "glm-5.3"
+}

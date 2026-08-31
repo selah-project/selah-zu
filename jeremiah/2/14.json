@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ingabe uIsrayeli yinkosi yomsebenzi? Noma yingane yasekhaya? Kungani waba yimpango?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "yinkosi yomsebenzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Noma"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "yingane"
+    },
+    {
+      "surface": "בית",
+      "gloss": "yasekhaya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Kungani"
+    },
+    {
+      "surface": "היה",
+      "gloss": "waba"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "yimpango"
+    }
+  ],
+  "timestamp": "2026-08-31T11:17:23.500841369Z",
+  "model": "glm-5.3"
+}

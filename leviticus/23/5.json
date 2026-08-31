@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Enyangeni yokuqala, ngosuka lweshumi nane lenyanga, phakathi kwezinkathi zokuhwa kwelanga, kuwuphoso olwela uYahwe.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "Enyangeni"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yokuqala"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ngeshumi nane ⟨ngosuka⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨ishumi nane⟩"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "lenyanga"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "kwezinkathi zokuhwa kwelanga"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "uphoso"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T11:05:12.728411984Z",
+  "model": "glm-5.3"
+}

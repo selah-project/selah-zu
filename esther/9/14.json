@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "esther 9:14",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Inkosi yathi kwenziwe njalo, futhi umthetho wakhishwa eShushani, futhi ⟨את⟩ amadodana ayishumi kaHaman bamise.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "להעשות",
+      "gloss": "kwenziwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "ותנתן",
+      "gloss": "wakhishwa"
+    },
+    {
+      "surface": "דת",
+      "gloss": "umthetho"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "eShushani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amadodana ayishumi kaHaman"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ayishumi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "המן",
+      "gloss": "kaHaman"
+    },
+    {
+      "surface": "תלו",
+      "gloss": "bamise"
+    }
+  ],
+  "timestamp": "2026-08-31T07:55:15.824914574Z",
+  "model": "glm-5.3"
+}

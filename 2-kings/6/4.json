@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Wahamba ⟨את⟩ wona, bafika eYardeni, besika izihlahla.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Wahamba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bafika"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "eYardeni"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "besika"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "izihlahla"
+    }
+  ],
+  "timestamp": "2026-08-31T04:05:10.335530932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 51,
+  "translation": "Ekufikeni kuyena kuNatani umprofethi, ngemva kokungena kuyena kuBatsheva.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Ekufikeni"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kuNatani"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "umprofethi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ngemva koku"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ukungena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kuBatsheva (ingxenye 1)"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Batsheva (ingxenye 2)"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:43.880290491Z",
+  "model": "glm-5.3"
+}

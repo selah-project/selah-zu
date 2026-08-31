@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 6:8",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "uYahwe wathumela indoda, isiprofethi, kubantwana bakwa-Israyeli, yathi kubo: Njalo utshilo uYahwe, uElohim ka-Israyeli: Mina nganingisa ⟨את⟩ nina eMitsrayim, futhi nganingikhulula ⟨את⟩ nina endlunkulu yamakhosi egazi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "isiprofethi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana bakwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Njalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "utshilo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "nganingisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "ואציא",
+      "gloss": "nganingikhulula"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "endlunkulu yamakhosi"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "egazi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:03:33.369383597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ninkosiwendaba yenina yomuzi weGereshoni u-Eliyasafi indodana ka-Laeli.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "ninkosiwendaba"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wendaba yenina yomuzi"
+    },
+    {
+      "surface": "אב",
+      "gloss": "yenina"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "weGereshoni"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "u-Eliyasafi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ka-Laeli"
+    }
+  ],
+  "timestamp": "2026-08-31T02:07:53.637050575Z",
+  "model": "glm-5.3"
+}

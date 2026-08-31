@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 51:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 51,
+  "translation": "Yekelani kimi, bantu bami, nasizwe sami, lalelani kimi; ngokuba umthetho uzophuma, ⟨את⟩ ovela kimi, nocalulo lwami lube ukukhanya kwezizwe ngizokuzolisa.",
+  "tokens": [
+    {
+      "surface": "הקשיבו",
+      "gloss": "Yekelani"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bantu bami"
+    },
+    {
+      "surface": "ולאומי",
+      "gloss": "nasizwe sami"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "lalelani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "umthetho"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "⟨את⟩ ovela kimi",
+      "marks": "umthetho"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "uzophuma"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "nocalulo lwami"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ukukhanya"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "kwezizwe"
+    },
+    {
+      "surface": "ארגיע",
+      "gloss": "ngizokuzolisa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:35:17.461543359Z",
+  "model": "glm-5.3"
+}

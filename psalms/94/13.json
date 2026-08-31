@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 94:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 94,
+  "translation": "ukuze anikezwe ukuphumula ezinsukwini ezimbi, kufikela lapho umoni ekhumba umgodi wokuchithwa",
+  "tokens": [
+    {
+      "surface": "להשקיט",
+      "gloss": "ukuze anikezwe ukuphumula"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "ezinsukwini"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ezimbi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikela lapho"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "ekhumba umgodi"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "umoni"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "wokuchithwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:03.148257214Z",
+  "model": "glm-5.3"
+}

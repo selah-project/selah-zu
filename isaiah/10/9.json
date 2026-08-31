@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ingabe ayikho njenge-Karkemishi uCalno? Njenge-Arphadi na iHamathi? Njenge-Damasiki na uShomeroni?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ingabe ayikho"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "njenge-Karkemishi"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "uCalno"
+    },
+    {
+      "surface": "אם",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayikho"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "njenge-Arphadi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "iHamathi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "na"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayikho"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "njenge-Damasiki"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "uShomeroni"
+    }
+  ],
+  "timestamp": "2026-08-31T04:19:12.886213831Z",
+  "model": "glm-5.3"
+}

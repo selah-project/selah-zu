@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 21:38",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi eqenjini likaGadi ⟨את⟩ idolobha lokubalekela elibulalayo, ⟨את⟩ iRamoto eGileyadi ⟨את⟩ nomikhalo wayo, kanye ⟨את⟩ neMahanayimi ⟨את⟩ nomikhalo wayo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "futhi eqenjini lika-"
+    },
+    {
+      "surface": "גד",
+      "gloss": "uGadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idolobha lokubalekela"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "idolobha"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "lokubalekela"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "elibulalayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iRamoto"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "iRamoto"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "eGileyadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no-",
+      "marks": "omikhalo wayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "umikhalo wayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "eMahanayimi"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "iMahanayimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no-",
+      "marks": "omikhalo wayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "umikhalo wayo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:58:13.312649150Z",
+  "model": "glm-5.3"
+}

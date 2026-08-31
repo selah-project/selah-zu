@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 35:6",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Futhi amadolobha eno-⟨את⟩ aninikeza abalevi — ⟨את⟩ amashumi ayisithupha amadolobha okuphunyela, eno-⟨את⟩ aninikeza ukuphunyela khona umlabisi; futhi ngaphezu kwawo ninikeza amashumi amane nambili amadolobha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "amadolobha"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "amadolobha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a-"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ninikeza"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "abalevi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amashumi ayisithupha amadolobha okuphunyela"
+    },
+    {
+      "surface": "שש",
+      "gloss": "amashumi ayisithupha"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "amadolobha"
+    },
+    {
+      "surface": "המקלט",
+      "gloss": "okuphunyela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a-"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ninikeza"
+    },
+    {
+      "surface": "לנס",
+      "gloss": "ukuphunyela"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "khona"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "umlabisi"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "futhi ngaphezu kwawo"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ninikeza"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "amashumi amane"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "nambili"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "amadolobha"
+    }
+  ],
+  "timestamp": "2026-08-31T02:28:50.655540981Z",
+  "model": "glm-5.3"
+}

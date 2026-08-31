@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 82:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 82,
+  "translation": "Kepha njengomuntu nizofa, futhi njengenye yezinkosi nizodilikiza.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Kepha"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "njengomuntu"
+    },
+    {
+      "surface": "תמותון",
+      "gloss": "nizofa"
+    },
+    {
+      "surface": "וכאחד",
+      "gloss": "futhi njengenye"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "yezinkosi"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "nizodilikiza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:58.346064290Z",
+  "model": "glm-5.3"
+}

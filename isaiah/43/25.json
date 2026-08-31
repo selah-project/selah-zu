@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 43:25",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "Mina, mina yena ⟨ele⟩ ocisha iziphambano zakho ngenxa yami, futhi izono zakho angeke ngizikhumbule.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "ocisha"
+    },
+    {
+      "surface": "פשעיך",
+      "gloss": "iziphambano zakho"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "ngenxa yami"
+    },
+    {
+      "surface": "וחטאתיך",
+      "gloss": "futhi izono zakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ngizikhumbule"
+    }
+  ],
+  "timestamp": "2026-08-31T04:30:56.758376808Z",
+  "model": "glm-5.3"
+}

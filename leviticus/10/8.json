@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Futhi uYahwe wakhuluma ku-Aharon, ethi:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:57:37.300615643Z",
+  "model": "glm-5.3"
+}

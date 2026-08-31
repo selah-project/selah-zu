@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 30:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Ukuze inkazimulo yami idlalele izintambo kuwe futhi ingathuli, uYahwe, u-Elohim wami, ngizakubonga kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "יזמרך",
+      "gloss": "idlalele izintambo kuwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "inkazimulo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi inga-"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "thuli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "u-Elohim wami"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ngizakubonga"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:06.353670754Z",
+  "model": "glm-5.3"
+}

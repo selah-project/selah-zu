@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 85,
+  "translation": "Ubulungiswa buya phambi kwakhe, ubuye ubeka izinyawo zakhe zibe yindlela.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "Ubulungiswa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "buya"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ubuye ubeka"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "zibe yindlela"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "izinyawo zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:59.733044420Z",
+  "model": "glm-5.3"
+}

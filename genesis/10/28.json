@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "⟨את⟩ No-Obali ⟨את⟩ no-Abimaeli ⟨את⟩ no-Sheba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "no-Obali"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "no-Obali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "no-Abimaeli"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "no-Abimaeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "no-Sheba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "no-Sheba"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:15.362113891Z",
+  "model": "glm-5.3"
+}

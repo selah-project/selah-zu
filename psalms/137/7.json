@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 137:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 137,
+  "translation": "Khumbula, Yahwe, ngokwabantwana be-Edomu, ngosuku lweYerushalayimi, ababesho: 'Bhubhisa, bhubhisa kuze kufike isisekelo sayo!'",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Khumbula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ngokwabantwana"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "be-Edomu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngosuku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "lweYerushalayimi"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "ababesho"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "Bhubhisa"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "bhubhisa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kufike"
+    },
+    {
+      "surface": "היסוד",
+      "gloss": "isisekelo"
+    },
+    {
+      "surface": "בה",
+      "gloss": "sayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:31.658603448Z",
+  "model": "glm-5.3"
+}

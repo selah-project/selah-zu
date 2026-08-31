@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 6:7",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "I-nefeshi yami iyala ukuthinta ⟨zona⟩; ziyimpi lokudla okugulayo kimi.",
+  "tokens": [
+    {
+      "surface": "מאנה",
+      "gloss": "iyala"
+    },
+    {
+      "surface": "לנגוע",
+      "gloss": "ukuthinta"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "i-nefeshi yami"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zona"
+    },
+    {
+      "surface": "כדוי",
+      "gloss": "lokudla okugulayo"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ukudla kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T07:10:53.169188103Z",
+  "model": "glm-5.3"
+}

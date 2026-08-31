@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Umfazi wasesithi kuNjaneși: Sizidla izithelo zezihlahla zesivande,",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wasesithi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Umfazi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "Njaneși"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "izithelo ze"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ezihlahla"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "zesivande"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "sizidla"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:37.057875123Z",
+  "model": "glm-5.3"
+}

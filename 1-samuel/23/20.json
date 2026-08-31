@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 23:20",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Manje-ke, nkosi, yehla njengokufunwa konke inefeshi yakho ukuhlila; okwethu ukumnqamula esandleni senkosi.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Manje-ke"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אות",
+      "gloss": "okufunwa"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "inefeshi yakho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nkosi"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ukuhlila"
+    },
+    {
+      "surface": "רד",
+      "gloss": "yehla"
+    },
+    {
+      "surface": "ולנו",
+      "gloss": "okwethu"
+    },
+    {
+      "surface": "הסגירו",
+      "gloss": "ukumnqamula"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "senkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:26:51.853822382Z",
+  "model": "glm-5.3"
+}

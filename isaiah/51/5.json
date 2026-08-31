@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 51:5",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 51,
+  "translation": "Ukulunga kwami kuseduze, insindiso yami iphumile, ingalo zami ezizweni zoza zehlulela; iziqhingi kimi ziyalindela, nakingalo yami ziyathemba.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "kuseduze"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "ukulunga kwami"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "iphumile"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "insindiso yami"
+    },
+    {
+      "surface": "וזרעי",
+      "gloss": "nalingalo zami"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "zoza zehlulela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "איים",
+      "gloss": "iziqhingi"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "ziyalindela"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nakwi"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "ingalo yami"
+    },
+    {
+      "surface": "ייחלון",
+      "gloss": "ziyathemba"
+    }
+  ],
+  "timestamp": "2026-08-31T04:34:25.747895038Z",
+  "model": "glm-5.3"
+}

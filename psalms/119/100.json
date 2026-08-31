@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 100,
+  "ref": "psalms 119:100",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngedlula omdala ngokucabanga, ngokuba izimiso yakho ngizigcine.",
+  "tokens": [
+    {
+      "surface": "מזקנים",
+      "gloss": "Ngedlula omdala"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ngokucabanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "izimiso yakho"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ngizigcine"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:31.347826731Z",
+  "model": "glm-5.3"
+}

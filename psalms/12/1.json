@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Kumqondisi wezinkwayingo, ngokushiyagalombili; umculo kaDawidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi wezinkwayingo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngoku"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "shiyagalombili"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umculo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDawidi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:52.917219845Z",
+  "model": "glm-5.3"
+}

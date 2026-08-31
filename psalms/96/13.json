@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 96:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 96,
+  "translation": "Phambi kukaYahwe, ngoba ⟨uye⟩ uza, ngoba uza ukuhlulela umhlaba; uzoqhathanisa izwe ngezulu-engilingene, nezizwe ngesizotha sakhe.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "בא",
+      "gloss": "uza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "בא",
+      "gloss": "uza"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "ukuhlulela"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "uzoqhathanisa"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ngesilinganiselo esilingene"
+    },
+    {
+      "surface": "ועמים",
+      "gloss": "nezizwe"
+    },
+    {
+      "surface": "באמונתו",
+      "gloss": "ngesizotha sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:55.101391668Z",
+  "model": "glm-5.3"
+}

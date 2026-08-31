@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 44:32",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Ngokuba inceku yakho yaba isibambiso ⟨את⟩ umfana kuyihlo, ithi: Uma engimulethi kuwe, ngizona kuyihlo onke amalanga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "inceku yakho"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "yaba isibambiso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "umfana"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyihlo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ithi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "-mulethi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "ngizona"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "kuyihlo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "amalanga"
+    }
+  ],
+  "timestamp": "2026-08-31T01:23:48.627450366Z",
+  "model": "glm-5.3"
+}

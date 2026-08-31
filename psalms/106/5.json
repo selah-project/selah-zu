@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 106:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Ukubona ⟨isibusiso⟩ sabakhethiweyo bakho, ukujabula injabulo yezizwe zakho, ukuzidhla ngokwahlukanisa kwakho.",
+  "tokens": [
+    {
+      "surface": "לראות",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "בטובת",
+      "gloss": "isibusiso ⟨sabakhethiweyo⟩"
+    },
+    {
+      "surface": "בחיריך",
+      "gloss": "abakhethiweyo bakho"
+    },
+    {
+      "surface": "לשמח",
+      "gloss": "ukujabula"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "injabulo ⟨yezizwe⟩"
+    },
+    {
+      "surface": "גויך",
+      "gloss": "izizwe zakho"
+    },
+    {
+      "surface": "להתהלל",
+      "gloss": "ukuzidhla"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ngokwahlukanisa"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "okwahlukaniswe kukho"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:42.796750491Z",
+  "model": "glm-5.3"
+}

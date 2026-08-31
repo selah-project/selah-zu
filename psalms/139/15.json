@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 139:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 139,
+  "translation": "Isakhiwo sami asifihlekanga kuwe, ngingakadalwa ecachile, ngingakadwebwa ezansi komhlaba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "asifihlekanga"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "asifihlekanga"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "isakhiwo sami"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ngingakadalwa"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ecachile"
+    },
+    {
+      "surface": "רקמתי",
+      "gloss": "ngingakadwebwa"
+    },
+    {
+      "surface": "בתחתיות",
+      "gloss": "ezansi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "komhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:08.346929308Z",
+  "model": "glm-5.3"
+}

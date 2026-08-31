@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Ungangaqoqi nezengezekweni inefeshi yami, futhi naba bomvu abantu, ukuphila kwami.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Unga"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "qoqi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "izengezekweni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "futhi ne-"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abantu ba-"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "bomvu"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ukuphila kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:46.818940869Z",
+  "model": "glm-5.3"
+}

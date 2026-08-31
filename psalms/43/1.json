@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 43:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "Ungahlulele, uElohim, futhi ulwe inkantolo yami ngokumelene nesizwe ⟨esesingenasikhesedi⟩, kumuntu wenkohliso nobubi ⟨ungidingise⟩.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "Ungahlulele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "וריבה",
+      "gloss": "futhi ulwe"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "inkantolo yami"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ngokumelene nesizwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ese-"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "singenasikhesedi"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kumuntu"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "wenkohliso"
+    },
+    {
+      "surface": "ועולה",
+      "gloss": "nobubi"
+    },
+    {
+      "surface": "תפלטני",
+      "gloss": "ungidingise"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:40.932128137Z",
+  "model": "glm-5.3"
+}

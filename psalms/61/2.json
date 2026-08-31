@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 61,
+  "translation": "Yizwa, uElohim, ukukhala kwami; zindlebe zonkele ithemazo lami.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Yizwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "ukukhala kwami"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "zindlebe zonke"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ithemazo lami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:32.511244781Z",
+  "model": "glm-5.3"
+}

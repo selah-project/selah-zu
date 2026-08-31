@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 8:18",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "UNoaki waphuma, nabantwana bakhe, nomkami, nabafazi bantwana bakhe ⟨את⟩ naye.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "נח",
+      "gloss": "uNoaki"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "nabantwana bakhe"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "nomkami"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "nabafazi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bantwana bakhe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "uNoaki nabakhe bonke"
+    }
+  ],
+  "timestamp": "2026-08-31T01:04:43.773173439Z",
+  "model": "glm-5.3"
+}

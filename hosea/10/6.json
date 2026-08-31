@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 10:6",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Nawo ⟨את⟩ izoduliswa e-Ashuri, isipho eskabukhosi uYarebi; ihlazo lizohlela ku-Efrayimi, u-Israyeli uzobhlakaza ngenxa yocwaningo lwakhe.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nawo"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "wonke (impupha)"
+    },
+    {
+      "surface": "לאשור",
+      "gloss": "e-Ashuri"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "izoduliswa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "isipho"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "eskabukhosi"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "uYarebi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ihlazo"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ku-Efrayimi"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "lizohlela"
+    },
+    {
+      "surface": "ויבוש",
+      "gloss": "uzobhlakaza"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israyeli"
+    },
+    {
+      "surface": "מעצתו",
+      "gloss": "ngenza yocwaningo lwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:58.950793038Z",
+  "model": "glm-5.3"
+}

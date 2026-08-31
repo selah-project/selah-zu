@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 35:25",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "A bengasho ezinhliziyweni zabo, Aha, inefeshi yethu; a bengasho, Simunyamunye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "a (bengasho)"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bengasho"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ezinhliziyweni zabo"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Aha"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "inefeshi yethu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a (bengasho)"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bengasho"
+    },
+    {
+      "surface": "בלענוהו",
+      "gloss": "Simunyamunye"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:55.952870444Z",
+  "model": "glm-5.3"
+}

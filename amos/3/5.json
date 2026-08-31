@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 3:5",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ingabe ithosi liyawa ephuzini lomhlaba, linganambali? Ingabe iphuzi liyenyuka emhlabathini, lingabhambanga lutho?",
+  "tokens": [
+    {
+      "surface": "התפל",
+      "gloss": "ingabe iyawa"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ithosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "epheni"
+    },
+    {
+      "surface": "פח",
+      "gloss": "iphuzi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lomhlaba"
+    },
+    {
+      "surface": "ומוקש",
+      "gloss": "linganambali"
+    },
+    {
+      "surface": "אין",
+      "gloss": "linga-"
+    },
+    {
+      "surface": "לה",
+      "gloss": "nalo"
+    },
+    {
+      "surface": "היעלה",
+      "gloss": "ingabe liyenyuka"
+    },
+    {
+      "surface": "פח",
+      "gloss": "iphuzi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "mhlabathini"
+    },
+    {
+      "surface": "ולכוד",
+      "gloss": "ukubamba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "linga-"
+    },
+    {
+      "surface": "ילכוד",
+      "gloss": "bamba"
+    }
+  ],
+  "timestamp": "2026-08-31T10:29:58.382559185Z",
+  "model": "glm-5.3"
+}

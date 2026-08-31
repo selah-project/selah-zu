@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Bangibambele ngosuku lwentshwele yami, kodwa uYahwe waba yisixhaso sami.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "Bangibambele"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "lwentshwele yami"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kodwa waba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "yisixhaso"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:59.478177530Z",
+  "model": "glm-5.3"
+}

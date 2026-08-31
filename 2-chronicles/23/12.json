@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "uAthaliya wayezwa ⟨את⟩ izwi lomhlaba — abagijimayo nabadumisayo ⟨את⟩ inkosi — wayengena kubantu, endlweni kaYahwe.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "wayezwa"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "uAthaliya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi lomhlaba"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lomhlaba"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "abagijimayo"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "nabadumisayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "wayengena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bantu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlweni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T09:03:54.489238502Z",
+  "model": "glm-5.3"
+}

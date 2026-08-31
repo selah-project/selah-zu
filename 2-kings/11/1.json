@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 11:1",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "U-Athaliya, unina ka-Achaziyahu, wabona ukuthi indodana yakhe ifile, wasukuma wabulala ⟨את⟩ wonke umzala wobukhosi.",
+  "tokens": [
+    {
+      "surface": "ועתליה",
+      "gloss": "u-Athaliya"
+    },
+    {
+      "surface": "אם",
+      "gloss": "unina"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "ka-Achaziyahu"
+    },
+    {
+      "surface": "וראתה",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ifile"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "wasukuma"
+    },
+    {
+      "surface": "ותאבד",
+      "gloss": "wabulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke umzala wobukhosi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "umzala"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "wobukhosi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:08:05.476320651Z",
+  "model": "glm-5.3"
+}

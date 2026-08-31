@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 14:23",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi uzoziletha ⟨את⟩ ngosuku lwesine ⟨isigaba⟩ sokuhlanzwa kwakhe, kumpristi, emnyango wetenti yokuhlangana, phambi kukaYahwe.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "futhi uzoziletha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zonke (izinto zokunikela)"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "lwesine"
+    },
+    {
+      "surface": "לטהרתו",
+      "gloss": "sokuhlanzwa kwakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wetenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuhlangana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:13:35.601666208Z",
+  "model": "glm-5.3"
+}

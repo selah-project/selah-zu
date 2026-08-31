@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "UShelomo wakha ⟨את⟩ indlu, wayiqeda.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "wayiqeda"
+    }
+  ],
+  "timestamp": "2026-08-31T03:50:06.212219139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 14:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "uYahwe wabheka phansi ezulwini phezu kwezizukulwana zabantu, ukubona ukuthi kukhona yini oqondileyo, ofuna ⟨את⟩ uElohim.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "wabheka phansi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwezizukulwana zabantu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "izizukulwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "היש",
+      "gloss": "kukhona yini"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "oqondileyo"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ofuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:00.728607343Z",
+  "model": "glm-5.3"
+}

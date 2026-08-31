@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 2:30",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "uYowabhi wabuya emva kuka-Abner, waqoqa ⟨את⟩ abantu bonke, kwabalalele kwizinceku zikaDavide amadoda ayishumi nesishiyagalolunye, no-Asaheli.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "uYowabhi"
+    },
+    {
+      "surface": "שב",
+      "gloss": "wabuya"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "emva kuka-Abner"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "u-Abner"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "waqoqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויפקדו",
+      "gloss": "kwabalalele"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "kwizinceku zika-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ayishumi nesishiyagalolunye"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(ishumi nesishiyagalolunye)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "no-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-Asaheli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:32:47.480859860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Isibhozo senkunzi yebhubesi nendlela yokunyonga yebhubesi elikhulu, futhi amazinyo amabhubesana ayabhidliza.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "isibhozo"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "senkunzi yebhubesi"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "futhi indlela yokunyonga"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "yebhubesi elikhulu"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "futhi amazinyo"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "amabhubesana"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "ayabhidliza"
+    }
+  ],
+  "timestamp": "2026-08-31T07:06:40.162343439Z",
+  "model": "glm-5.3"
+}

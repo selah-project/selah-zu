@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 4:12",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Uma usebenza ⟨את⟩ umhlabathi, angeke usaphinde wanikeze amandla alo kuwe; uzuba ngumzalazala noguquguquki emhlabeni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "usebenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlabathi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "umhlabathi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "usaphinde"
+    },
+    {
+      "surface": "תת",
+      "gloss": "wanikeze"
+    },
+    {
+      "surface": "כחה",
+      "gloss": "amandla alo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "נע",
+      "gloss": "ngumzalazala"
+    },
+    {
+      "surface": "ונד",
+      "gloss": "noguquguquki"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "uzuba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:29.235298914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 29:16",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Abapristi bangena ngaphakathi endlini kaYahwe ukuhlambulula, bese bakhisho ⟨את⟩ konke okungcolile okubatholile etempeleni kaYahwe, bayise esibayeni sendlu kaYahwe; amaLevi ayamukela ukuayikhipha, aye emfuleni iKidroni phandle.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "bangena"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "ngaphakathi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ukuhlambulula"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "bakhisho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke okungcolile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "הטמאה",
+      "gloss": "okungcolile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku-"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "okubatholile"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "etempeleni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "esibayeni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sendlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ויקבלו",
+      "gloss": "ayamukela"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "amaLevi"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ukuayikhipha"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "emfuleni"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "iKidroni"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "phandle"
+    }
+  ],
+  "timestamp": "2026-08-31T09:04:05.646766819Z",
+  "model": "glm-5.3"
+}

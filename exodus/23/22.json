@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 23:22",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Kodwa uma ulalela ngempela izwi lakhe, wenze konke engikukhuluma khona, ngizoba sisitha ⟨את⟩ izitha zakho, ngizocindezela ⟨את⟩ abacindezelakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ukulalela"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ulalela ngempela"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "izwi lakhe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "khuluma khona"
+    },
+    {
+      "surface": "ואיבתי",
+      "gloss": "ngizoba sisitha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izitha zakho"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "izitha zakho"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "ngizocindezela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abacindezelakho"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "abacindezelakho"
+    }
+  ],
+  "timestamp": "2026-08-31T08:49:24.323458693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 5:10",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Futhi enza ikhesedi ⟨⟨kuwo⟩⟩ amawaka kubathandayo nakubagcinayo imiyalelo yakhe.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "futhi enza"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "amawaka"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "kubathandayo"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "nakubagcinayo"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "imiyalelo yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:31:38.442145009Z",
+  "model": "glm-5.3"
+}

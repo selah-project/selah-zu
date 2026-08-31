@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Makhale ulwimi lwami ngelizwi lakho, ngokuba zonke imiyalo yakho yilungelo.",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "makhale"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ulwimi lwami"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ngelizwi lakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "imiyalo yakho"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "yilungelo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:43.029177669Z",
+  "model": "glm-5.3"
+}

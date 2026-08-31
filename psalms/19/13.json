@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 19:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Amaphutha ngubani ongawaqonda? Ngemicimbi efihliwe ngihlanzele.",
+  "tokens": [
+    {
+      "surface": "שגיאות",
+      "gloss": "amaphutha"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ongawaqonda"
+    },
+    {
+      "surface": "מנסתרות",
+      "gloss": "ngemicimbi efihliwe"
+    },
+    {
+      "surface": "נקני",
+      "gloss": "ngihlanzele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:07.901954341Z",
+  "model": "glm-5.3"
+}

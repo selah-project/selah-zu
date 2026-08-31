@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 147,
+  "translation": "Uphonsa iqhwa lakhe njengamacezu: phambi kobanda bakhe ngubani ongekho ukuma?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "Uphonsa"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "iqhwa lakhe"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "njengamacezu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "obanda bakhe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ongekho ukuma"
+    }
+  ],
+  "timestamp": "2026-08-31T06:45:02.424915437Z",
+  "model": "glm-5.3"
+}

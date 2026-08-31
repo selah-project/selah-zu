@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 139,
+  "translation": "Uma ngenyukela ezulwini, wena ukhona lapho; uma ngilala ngendawokulala phakathi kweSheol, bheka, wena ukhona lapho.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "ngenyukela"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena ukhona"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "uma ngilala ngendawokulala"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "phakathi kweSheol"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "bheka, wena ukhona"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:21.614103439Z",
+  "model": "glm-5.3"
+}

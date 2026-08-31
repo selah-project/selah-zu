@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 11:13",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi inzonda yo-Efrayimu iyosuka, abaczakalisi bakaYehuda bayobe besikatwa; u-Efrayimu angeke anzonde ⟨את⟩ uYehuda, futhi uYehuda angeke amczakalise ⟨את⟩ u-Efrayimu.",
+  "tokens": [
+    {
+      "surface": "וסרה",
+      "gloss": "iyosuka"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "inzonda"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "u-Efrayimu"
+    },
+    {
+      "surface": "וצררי",
+      "gloss": "abaczakalisi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehuda"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "besikatwa"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "u-Efrayimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "anzonde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehuda"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "futhi uYehuda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "amczakalise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Efrayimu"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "u-Efrayimu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:20:25.346316279Z",
+  "model": "glm-5.3"
+}

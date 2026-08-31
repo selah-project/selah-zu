@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 10:2",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Bese iFilistiyim ilandelwa uShawuli kanye namadodana akhe, iFilistiyim yabulala ⟨את⟩ uYonathani ⟨את⟩ no-Avinadabu ⟨את⟩ no-Malki-Shuwa, amadodana kaShawuli.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "ilandelela"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "iFilistiyim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ngemva kuka-"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "kanye nengemva kwa-"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "amadodana akhe"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "yabulala"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "iFilistiyim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYonathani"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "uYonathani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avinadabu"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "u-Avinadabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Malki-Shuwa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "u-Malki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Shuwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kaShawuli"
+    }
+  ],
+  "timestamp": "2026-08-31T08:23:43.701723007Z",
+  "model": "glm-5.3"
+}

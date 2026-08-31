@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Lapho ke kushona ilanga iyaqala ukukhanya kuye njengoba edlula ⟨את⟩ iPhenueli; yena wayesizela engalweni yakhe.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "kukhanya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "edlula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iPhenueli"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "iPhenueli"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "wayesizela"
+    },
+    {
+      "surface": "על",
+      "gloss": "enga-"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "ngalweni yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:17:04.979804516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-kings 17:39",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Kepha ⟨את⟩ uYahwe uElohim wenu nizomesa; yena uzonisindisa ⟨את⟩ esandleni sezitha zenu zonke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kepha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kepha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "nizomesa"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "uzonisindisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "sezitha zenu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:11:17.958282988Z",
+  "model": "glm-5.3"
+}

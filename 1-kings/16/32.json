@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 16:32",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi wamisa i-altari kuBhali, endlwini kaBhali, ayakha yona eShomroni.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "Futhi wamisa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altari"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "kuBhali"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini ka-"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "uBhali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eyakhiwe"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ayakha"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "eShomroni"
+    }
+  ],
+  "timestamp": "2026-08-31T03:59:19.220984201Z",
+  "model": "glm-5.3"
+}

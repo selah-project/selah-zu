@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 83:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 83,
+  "translation": "Bathi, Zwani, siyabachitha ukuba bungabi yizwe, igama lakwa-Israyeli lingakhunjulwa noma kunini.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Bathi"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Zwani"
+    },
+    {
+      "surface": "ונכחידם",
+      "gloss": "siyabachitha"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ukuba bungabi yizwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "lingakhunjulwa"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": ""
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lakwa-Israyeli"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "noma kunini"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:30.951740435Z",
+  "model": "glm-5.3"
+}

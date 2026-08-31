@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 72:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 72,
+  "translation": "Amakhosi eTarshishi neziqhingi kuzobuyisa iminikelo; amakhosi aseShaba naseSeba izipho lizozilethela.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Amakhosi"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "eTarshishi"
+    },
+    {
+      "surface": "ואיים",
+      "gloss": "neziqhingi"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "iminikelo"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "kuzobuyisa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "aseShaba"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "naseSeba"
+    },
+    {
+      "surface": "אשכר",
+      "gloss": "izipho"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "lizozilethela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:38.429441361Z",
+  "model": "glm-5.3"
+}

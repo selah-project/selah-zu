@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 144:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 144,
+  "translation": "uElohim, ingoma entsha ngiyoyicula kuwe; nge-neveli yezintambo eziyishumi ngizodumisa kuwe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ingoma"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "entsha"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ngiyoyicula"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nge-neveli"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ezintambo eziyishumi"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ngizodumisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:52.872640491Z",
+  "model": "glm-5.3"
+}

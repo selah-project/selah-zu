@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Isinkwa samabhininya wadla umuntu; ukudla wakuthumela kubo kuze kuzalise.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "isinkwa"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "samabhininya"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "wadla"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "wakuthumela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "kuze kuzalise"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:16.187724428Z",
+  "model": "glm-5.3"
+}

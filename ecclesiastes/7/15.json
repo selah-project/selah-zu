@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 7:15",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "⟨את⟩ konke ngikubonile ezinsukwini zokuphazima kwami loko; kukhona olungileyo ovela emandleleni enobulungiswa bakhe, futhi kukhona ongalungileyo okhulisa izinsuku zakhe enubbuni yakhe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ngikubonile"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ezinsukwini"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "zokuphazima kwami loko"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kukhona"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "olungileyo"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ovela emandleleni"
+    },
+    {
+      "surface": "בצדקו",
+      "gloss": "enobulungiswa bakhe"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "futhi kukhona"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ongalungileyo"
+    },
+    {
+      "surface": "מאריך",
+      "gloss": "okhulisa izinsuku zakhe"
+    },
+    {
+      "surface": "ברעתו",
+      "gloss": "enubbuni yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:58:20.822242888Z",
+  "model": "glm-5.3"
+}

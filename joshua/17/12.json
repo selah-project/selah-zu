@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 17:12",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Kodwa amadodana kaMenasheshe awazange akwazi ukuxosha ⟨את⟩ iziDolophu lezi, futhi iKhanani qikelela ukuhlala ezweni elithile.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kodwa-awazange"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "akwazi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "kaMenasheshe"
+    },
+    {
+      "surface": "להוריש",
+      "gloss": "ukuxosha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iziDolophu lezi"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "iziDolophu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "futhi-qikelela"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "iKhanani"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ukuhlala"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "elithile"
+    }
+  ],
+  "timestamp": "2026-08-31T08:49:35.987922875Z",
+  "model": "glm-5.3"
+}

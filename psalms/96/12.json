@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 96,
+  "translation": "Insaba ijabule kakhulu, nako konke okuyo; ngaleso sikhathi konke izihlahla zesiganga zizokukhala ngenjabulo.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "ijabule kakhulu"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Insaba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nako konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okuyo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ngaleso sikhathi"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "zizokukhala ngenjabulo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "izihlahla"
+    },
+    {
+      "surface": "יער",
+      "gloss": "zesiganga"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:40.989782776Z",
+  "model": "glm-5.3"
+}

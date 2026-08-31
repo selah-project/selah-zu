@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 23:21",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "USHawuli wathi: Nibusisiwe ngoYahwe, ngoba nenzele umusa ⟨kumina⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "USHawuli"
+    },
+    {
+      "surface": "ברוכים",
+      "gloss": "Nibusisiwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni-"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ngoYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "חמלתם",
+      "gloss": "nenzele umusa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kumina"
+    }
+  ],
+  "timestamp": "2026-08-31T10:19:50.949943228Z",
+  "model": "glm-5.3"
+}

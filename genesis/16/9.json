@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi isithunywa sikaYahwe sathi kuyena: Buyela esiphathini yakho, futhi zithobe phansi kwezandla zayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "futhi wathi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "isithunywa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "buyela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "esiphathini yakho"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "futhi zithobe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phansi"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "wezandla zayo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:07:23.886792603Z",
+  "model": "glm-5.3"
+}

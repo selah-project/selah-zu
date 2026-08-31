@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 132:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 132,
+  "translation": "Izitha zakhe ngizozigqoka ngezembethe zobuhlungu; kodwa phezu kwakhe inkazimulo yakhe izohlakazeka.",
+  "tokens": [
+    {
+      "surface": "אויביו",
+      "gloss": "Izitha zakhe"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "ngizozigqoka ngezembethe"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "zobuhlungu"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "kodwa phezu kwakhe"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "izohlakazeka"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "inkazimulo yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:24.330303442Z",
+  "model": "glm-5.3"
+}

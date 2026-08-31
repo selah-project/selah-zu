@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 116,
+  "translation": "Kuwe ngizibulala izibulalo zezenkosi zokubonga, futhi ngegama likaYahwe ngizobiza.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "ngizibulala izibulalo"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "izibulalo"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "zokubonga"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "futhi ngegama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ngizobiza"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:27.908999400Z",
+  "model": "glm-5.3"
+}

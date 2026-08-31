@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 6:13",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi ngizohlala phakathi kwabantwana baka-Israeli, futhi angeke ngishiye ⟨את⟩ abantu bami abakwa-Israeli.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "futhi ngizohlala"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kwabantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "baka-Israeli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi angeke"
+    },
+    {
+      "surface": "אעזב",
+      "gloss": "ngishiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bami abakwa-Israeli"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "abakwa-Israeli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:50:06.212035790Z",
+  "model": "glm-5.3"
+}

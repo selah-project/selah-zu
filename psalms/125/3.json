@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 125:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 125,
+  "translation": "Ngokuba isiphontso sobubi asisoze siphumule phezu kwezabelo zalaba lungileyo, ukuze abalungile bangathumeli izandla zabo ebubini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asisoze"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "siphumule"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "isiphontso"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "sobubi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "kwesabelo"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "zalaba lungileyo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "banga-"
+    },
+    {
+      "surface": "ישלחו",
+      "gloss": "thumeli"
+    },
+    {
+      "surface": "הצדיקים",
+      "gloss": "abalungile"
+    },
+    {
+      "surface": "בעולתה",
+      "gloss": "ebubini"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "izandla zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:27.248739662Z",
+  "model": "glm-5.3"
+}

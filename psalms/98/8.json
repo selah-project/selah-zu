@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 98,
+  "translation": "Imifula ishiye izandla ziyakhafuza; intaba zidansela zisonke, zikhala injabulo.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "Imifula"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "ishiye izandla ziyakhafuza"
+    },
+    {
+      "surface": "כף",
+      "gloss": "izandla"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "zisonke"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "intaba"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "zidansela, zikhala injabulo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:48.691127307Z",
+  "model": "glm-5.3"
+}

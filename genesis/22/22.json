@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "no-⟨את⟩ uKeshedi, no-⟨את⟩ uChazo, no-⟨את⟩ uPildashi, no-⟨את⟩ uYidlaphi, no-⟨את⟩ uBethueli",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uKeshedi"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "uKeshedi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uChazo"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "uChazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uPildashi"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "uPildashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uYidlaphi"
+    },
+    {
+      "surface": "ידלqpף",
+      "gloss": "uYidlaphi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uBethueli"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "uBethueli"
+    }
+  ],
+  "timestamp": "2026-08-31T01:10:41.795727831Z",
+  "model": "glm-5.3"
+}

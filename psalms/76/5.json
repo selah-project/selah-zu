@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 76,
+  "translation": "Ukhanyile wena, umkhulu kunezintaba zokuthwebula.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "ukhanyile"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "umkhulu"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "kunezintaba"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "zokuthwebula"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:38.309675141Z",
+  "model": "glm-5.3"
+}

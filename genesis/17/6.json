@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 17:6",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Ngizokwenza ungabi nabantwana abaningi kakhulu, ngizukwenza ube yizizwe, futhi abukhosi buyophuma kuwena.",
+  "tokens": [
+    {
+      "surface": "והפרתי",
+      "gloss": "Ngizokwenza ungabi nabantwana"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kuwena",
+      "marks": "uwena"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ונתתיך",
+      "gloss": "ngizukwenza ube"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "yizizwe"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "abukhosi"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuwena"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "buyophuma"
+    }
+  ],
+  "timestamp": "2026-08-31T08:48:34.643815300Z",
+  "model": "glm-5.3"
+}

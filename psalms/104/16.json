@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 104,
+  "translation": "Izihlahla zikaYahwe zisuthile, izihlahla zamacedari aseLebanoni ezizithwalile.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "zisuthile"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "izihlahla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "zikaYahwe"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "zamacedari"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "aseLebanoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "zazithwalile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:51.653021643Z",
+  "model": "glm-5.3"
+}

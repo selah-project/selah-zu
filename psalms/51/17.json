@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 51:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 51,
+  "translation": "u-Adonayi, vula amatheko ami, nomlomo wami uzotula udumo lwakho.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "amatheko ami"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "vula"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "nomlomo wami"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "uzotula"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "udumo lwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:08.958415704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Nizodla inyama yamadodana enu, nenye yamadodakazi enu niyoyidla.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "nizodla"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "amadodana enu"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "nenye"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "yamadodakazi enu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "niyoyidla"
+    }
+  ],
+  "timestamp": "2026-08-31T02:06:33.537346715Z",
+  "model": "glm-5.3"
+}

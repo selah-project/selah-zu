@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 26:5",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi uzophendula uthi phambi kukaYahwe u-Elohim wakho: UM-Aramu osehlayo wayenguyise wami, wehla waya eMitsrayim, wahlala khona ngabantu abambalwa, waba khona isizwe esikhulu, esinamandla, nesiningi.",
+  "tokens": [
+    {
+      "surface": "וענית",
+      "gloss": "uzophendula"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "u-Elohim wakho"
+    },
+    {
+      "surface": "ארמי",
+      "gloss": "uM-Aramu"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "osehlayo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise wami"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "wehla"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "waya eMitsrayim"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "ngabantu"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "abambalwa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "esikhulu"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "esinamandla"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "nesiningi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:42:31.649311689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kephe nina anazithandeli ukukhanya; khona-ke naphikisana nomlomo kaYahwe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kephe nina"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "anazithandeli"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "ukukhanya"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "naphikisana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nomlomo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "nomlomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:17:08.113914840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 7:3",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi mina ngizokwenza liqinile ⟨את⟩ inhliziyo kaParo, ngiyophinda-phinda izimpawu zami nezimangaliso zami ezweni lakwaMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "futhi mina"
+    },
+    {
+      "surface": "אקשה",
+      "gloss": "ngizokwenza liqinile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inhliziyo kaParo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "ngiyophinda-phinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izimpawu zami"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "izimpawu zami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nezimangaliso zami"
+    },
+    {
+      "surface": "מופתי",
+      "gloss": "nezimangaliso zami"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "lakwaMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:29:02.040974577Z",
+  "model": "glm-5.3"
+}

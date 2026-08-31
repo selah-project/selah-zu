@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Anisiki umkhawulo wezinwele zekhanda lenu, futhi ungalimazi ⟨את⟩ umkhawulo wesibe lakho.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ani-"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "siki (ukusika umkhawulo)"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "umkhawulo"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "wezinwele zekhanda lenu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi una-"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "limazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umkhawulo wesibe lakho"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "umkhawulo"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "wesibe lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T02:01:21.597345322Z",
+  "model": "glm-5.3"
+}

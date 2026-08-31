@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "u-Ezere oyinhloko, u-Ovadyahu owesibili, u-Eliyabu owesithathu.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "u-Ezere"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "oyinhloko"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "u-Ovadyahu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "owesibili"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "u-Eliyabu"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "owesithathu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:24:20.846524586Z",
+  "model": "glm-5.3"
+}

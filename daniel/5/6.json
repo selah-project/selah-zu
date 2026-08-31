@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 5:6",
+  "book": "daniel",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Ngaleso sikhathi ubuso benkosi bashintshwa, nemicabango yayo yamangala; amalunga ezinkaba zayo athuka, amadolo ayo aqhinga elodwa kwelodwa.",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Ngaleso sikhathi"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "זיוהי",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "שנוהי",
+      "gloss": "bashintshwa"
+    },
+    {
+      "surface": "ורעינהי",
+      "gloss": "nemicabango yayo"
+    },
+    {
+      "surface": "יבהלונה",
+      "gloss": "yamangala"
+    },
+    {
+      "surface": "וקטרי",
+      "gloss": "amalunga"
+    },
+    {
+      "surface": "חרצה",
+      "gloss": "ezinkabeni"
+    },
+    {
+      "surface": "משתרין",
+      "gloss": "athuka"
+    },
+    {
+      "surface": "וארכבתה",
+      "gloss": "amadolo ayo"
+    },
+    {
+      "surface": "דא",
+      "gloss": "elodwa"
+    },
+    {
+      "surface": "לדא",
+      "gloss": "kwelodwa"
+    },
+    {
+      "surface": "נקשן",
+      "gloss": "aqhinga"
+    }
+  ],
+  "timestamp": "2026-08-31T08:01:24.698502139Z",
+  "model": "glm-5.3"
+}

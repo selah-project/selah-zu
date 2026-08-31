@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 9:28",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Abakhonzi bakhe bamlalisela esitulweni sehashi beya iYerushalayimi, bammngcwaba engcwabeni lakhe kanye noobaba bakhe edolobheni likaDavide.",
+  "tokens": [
+    {
+      "surface": "וירכבו",
+      "gloss": "bamlalisela esitulweni sehashi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abakhonzi bakhe"
+    },
+    {
+      "surface": "ירושלמה",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "bammngcwaba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "engcwabeni lakhe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanye no-"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "noobaba bakhe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "likaDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T06:07:00.451874529Z",
+  "model": "glm-5.3"
+}

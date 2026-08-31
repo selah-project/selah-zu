@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Siyabingelela uYahwe kuze kube phakade. Amen, futhi amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Siyabingelela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "futhi amen"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:24.142700546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 22:14",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Uma umnikazi wayo ekhona nayo, akayibuyiseli; uma iyinto yenqashi, ifika ngenqashi yayo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "umnikazi wayo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ekhona naye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "akayibuyiseli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "into yenqashi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ifika"
+    },
+    {
+      "surface": "בשכרו",
+      "gloss": "ngenqashi yayo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:43.311332614Z",
+  "model": "glm-5.3"
+}

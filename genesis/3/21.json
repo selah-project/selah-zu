@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "uYahwe uElohim wayenza u-Adamu nankosikazi wakhe izingubo zesikhumba, wazembatha.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wayenza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "u-Adamu"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "nankosikazi wakhe"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "izingubo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "zesikhumba"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "wazembatha"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:29.044159768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Dani naNafutali, Gadi naAsheri.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Dani"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "naNafutali"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "naAsheri"
+    }
+  ],
+  "timestamp": "2026-08-31T01:26:13.541949766Z",
+  "model": "glm-5.3"
+}

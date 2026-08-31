@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 77:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 77,
+  "translation": "Ngesiku esinzima ndalanda u-Adonayi; isandla sami ebusuku saphrekeka, sangaphumuli; umphefumulo wami wala ukududuza.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ngesiku"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "enzima"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ndalanda"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "isandla sami"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "saphrekeka"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "sangaphumuli"
+    },
+    {
+      "surface": "מאנה",
+      "gloss": "wala"
+    },
+    {
+      "surface": "הנחם",
+      "gloss": "ukududuza"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumulo wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:51.194371053Z",
+  "model": "glm-5.3"
+}

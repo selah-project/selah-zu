@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 42:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Lokhu ngiyakhumbula, futhi ngiphulukisa phezu kwami inefeshi yami, ngokuba ngihamba emhumeni, ngihamba kancane nabo eze ekhaya likaElohim, ngezwi lokuzuluqa nenkonjalo, imhumeni ehlasela umkhosi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Lokhu"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ngiyakhumbula"
+    },
+    {
+      "surface": "ואשפכה",
+      "gloss": "futhi ngiphulukisa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אעבר",
+      "gloss": "ngihamba"
+    },
+    {
+      "surface": "בסך",
+      "gloss": "emhumeni"
+    },
+    {
+      "surface": "אדדם",
+      "gloss": "ngihamba kancane nabo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "eze"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ekhaya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "likaElohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ngezwi"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "lokuzuluqa"
+    },
+    {
+      "surface": "ותודה",
+      "gloss": "nenkonjalo"
+    },
+    {
+      "surface": "המון",
+      "gloss": "imhumeni"
+    },
+    {
+      "surface": "חוגג",
+      "gloss": "ehlasela umkhosi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:40.596337591Z",
+  "model": "glm-5.3"
+}

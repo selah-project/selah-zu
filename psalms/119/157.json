@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 157,
+  "ref": "psalms 119:157",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Baningi abalandelayo bami nabadlangalalade bami; eziyibhalo zakho angazigugi.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "baningi"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "abalandelayo bami"
+    },
+    {
+      "surface": "וצרי",
+      "gloss": "nabadlangalalade bami"
+    },
+    {
+      "surface": "מעדותיך",
+      "gloss": "eziyibhalo zakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "-zigugi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:40.652799592Z",
+  "model": "glm-5.3"
+}

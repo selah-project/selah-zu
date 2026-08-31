@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Futhi uMoshe no-Aharon bafika phambi kwethende lokuhlangana.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "bafika"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "no-Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "kwethende"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lokuhlangana"
+    }
+  ],
+  "timestamp": "2026-08-31T02:17:36.475710224Z",
+  "model": "glm-5.3"
+}

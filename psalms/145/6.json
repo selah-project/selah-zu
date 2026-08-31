@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 145:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 145,
+  "translation": "Futhi amandla ezinto zakho ezisabhisayo bayokhuluma ⟨ngawo⟩, ubukhulu bakho ngizobuyekeza.",
+  "tokens": [
+    {
+      "surface": "ועזוז",
+      "gloss": "Futhi amandla"
+    },
+    {
+      "surface": "נוראתיך",
+      "gloss": "ezinto zakho ezisabhisayo"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bayokhuluma"
+    },
+    {
+      "surface": "וגדולתיך",
+      "gloss": "ubukhulu bakho"
+    },
+    {
+      "surface": "אספרנה",
+      "gloss": "ngizobuyekeza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:13.023912006Z",
+  "model": "glm-5.3"
+}

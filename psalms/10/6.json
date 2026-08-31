@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Uthi enhliziyweni yakhe: Angeke ngizamazeka; kusukela kudla kuya kudla angeke ngibe entlungweni.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Uthi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "enhliziyweni yakhe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "Angeke"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ngizamazeka"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kusukela kudla"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kuya kudla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ngibe entlungweni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:18.485820440Z",
+  "model": "glm-5.3"
+}

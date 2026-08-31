@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 37:1",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Ianja kaYahwe yafika phezu kwami, wangiphumisa ngomoya kaYahwe, wangibekaphakathi kobuso bentaba obuvundlile, futhi bubugcwele amathambo.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "yafika"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ianja"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ויוצאני",
+      "gloss": "wangiphumisa"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ngomoya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ויניחני",
+      "gloss": "wangibekaphakathi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "הבקעה",
+      "gloss": "ubuso bentaba obuvundlile"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "bugcwele"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "amathambo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:56:11.310593706Z",
+  "model": "glm-5.3"
+}

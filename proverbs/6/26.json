@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 6:26",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ngokuba ngenxa yenkosikazi eyizoni ⟨umuntu uyehla ula⟩ kusukela kusiku lokudla; kodwa inkosikazi yomuntu iyazibambelela inefeshi elihlabalasa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ngenxa ye-"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "inkosikazi"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "eyizoni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kusukela"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "kusiku (isiko lokudla)"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "lokudla"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "kodwa inkosikazi ka-"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "inefeshi"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "elihlabalasa"
+    },
+    {
+      "surface": "תצוד",
+      "gloss": "iyazibambelela (iyazingela)"
+    }
+  ],
+  "timestamp": "2026-08-31T06:49:25.887248863Z",
+  "model": "glm-5.3"
+}

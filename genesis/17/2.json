@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 17:2",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Ngingayisa isivumelwano sami phakathi kwami nawe, ngingakwandisa ⟨את⟩ wena kakhulu kakhulu.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "ngingayisa"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "isivumelwano sami"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "phakathi kwami"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "וארבה",
+      "gloss": "ngingakwandisa"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ wena",
+      "marks": "wena"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:08:14.670798042Z",
+  "model": "glm-5.3"
+}

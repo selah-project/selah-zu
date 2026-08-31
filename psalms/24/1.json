@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 24:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "KuDavide, umculo. KuYahwe ⟨ingeyakhe⟩ umhlaba nokuqheleza kwawo, umhlaba-jikelezi nabahlala kuso.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "KuDavide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umculo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "KuYahwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ומלואה",
+      "gloss": "nokuqheleza kwawo"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "umhlaba-jikelezi"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "nabahlala"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuso"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:05.446903765Z",
+  "model": "glm-5.3"
+}

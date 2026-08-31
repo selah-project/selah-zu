@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 1:25",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngiyobuyisela isandla sami kuwe, futhi ngiyokuhlanzela inkimbi yakho njengobheraxi, futhi ngiyosusa wonke amathin akho.",
+  "tokens": [
+    {
+      "surface": "ואשיבה",
+      "gloss": "futhi ngiyobuyisela"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "isandla sami"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ואצרף",
+      "gloss": "futhi ngiyokuhlanzela"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "njengobheraxi"
+    },
+    {
+      "surface": "סיגיך",
+      "gloss": "inkimbi yakho"
+    },
+    {
+      "surface": "ואסירה",
+      "gloss": "futhi ngiyosusa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "בדיליך",
+      "gloss": "amathin akho"
+    }
+  ],
+  "timestamp": "2026-08-31T04:15:30.001435595Z",
+  "model": "glm-5.3"
+}

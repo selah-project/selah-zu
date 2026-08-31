@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 102,
+  "translation": "Ngokuba uYahwe wakhela iZiyoni, wabonakala enkazimulweni yakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wakhela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iZiyoni"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "wabonakala"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "enkazimulweni yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:20.525130853Z",
+  "model": "glm-5.3"
+}

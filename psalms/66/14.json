@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 66,
+  "translation": "ezazivulekile izindebe zami, nomlomo wami wakhuluma ekuhluphekeni kwami.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ezazivulekile"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "azivulekile"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "izindebe zami"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "nomlomo wami wakhuluma"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umlomo wami"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ekuhluphekeni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:17.769485049Z",
+  "model": "glm-5.3"
+}

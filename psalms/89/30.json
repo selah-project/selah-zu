@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 89:30",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Futhi ngizomisa inzalo yakhe kuze kube ku-phakade, nentrono yakhe njengezinsuku zamazulu.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "Futhi ngizomisa"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kuze kube ku-phakade"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "inzalo yakhe"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "nentrono yakhe"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "njengezinsuku"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:33.616667555Z",
+  "model": "glm-5.3"
+}

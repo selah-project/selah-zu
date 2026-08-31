@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 12:5",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Isimvu esiphelele, isilisa, indodana yonyaka, sibe yenu; kusukela ezimveni noma kusukela ezimbuzini niyoyithatha.",
+  "tokens": [
+    {
+      "surface": "שה",
+      "gloss": "isimvu"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "esiphelele"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "isilisa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "yonyaka"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sibe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yenu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kusukela"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ezimveni"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "noma kusukela"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ezimbuzini"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "niyoyithatha"
+    }
+  ],
+  "timestamp": "2026-08-31T01:32:19.134332145Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 22:23",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Ngiyochaza igama lakho kubafowethu; phakathi komphakathi ngiyokudumisa wena.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "ngiyochaza"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "kubafowethu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "umphakathi"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "ngiyokudumisa wena"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:17.198745553Z",
+  "model": "glm-5.3"
+}

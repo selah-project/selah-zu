@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 3:5",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Laba ⟨babalinganiswe⟩ bazalwa kuyena eYerushalayimi: uShimeya, noShobhabhi, noNatani, noShelomo — okune — kwaBhati-Shuwa indodakazi kaAmmiyeli;",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "laba bazalwa"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "bazalwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "בירושלים",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "uShimeya"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "noShobhabhi"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "noNatani"
+    },
+    {
+      "surface": "ושלמה",
+      "gloss": "noShelomo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "okune"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "kwaBhati-Shuwa"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Bhati-Shuwa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "kaAmmiyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:51.819227384Z",
+  "model": "glm-5.3"
+}

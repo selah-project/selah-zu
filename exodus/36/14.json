@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 36:14",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Wenze amakhethini ezimbuzi ohlangothini lwesigubhu, lwesibaya esiphezu kombhalo wezinkonzo; amakhethini ayishumi nanye wawenza ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "amakhethini"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ezimbuzi"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "ohlangothini lwesigubhu esiphumela phezulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ephezulu kwesisombululo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "esiphumo sezinkonzo"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ayishumi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "nanye"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "amakhethini"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wawenza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "amakhethini ayishumi nanye"
+    }
+  ],
+  "timestamp": "2026-08-31T10:52:54.922948958Z",
+  "model": "glm-5.3"
+}

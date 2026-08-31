@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "UDavide wezwa esigangatheni ukuthi uNabali usikaimpumla zakhe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wezwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "esigangatheni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "usikaimpumla"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "uNabali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izimvu zakhe"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "izimvu zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:03:34.192961168Z",
+  "model": "glm-5.3"
+}

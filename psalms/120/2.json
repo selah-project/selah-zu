@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 120,
+  "translation": "uYahwe, sithele umphefumulo wami emilomeni yamanga, enhlamvweni yokwenkohliso.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "sithele"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumulo wami"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "emilomeni"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yamanga"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "enhlamvweni"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "yokwenkohliso"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:56.980153041Z",
+  "model": "glm-5.3"
+}

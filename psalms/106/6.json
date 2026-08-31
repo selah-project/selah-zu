@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 106:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Sone izono nomabomu ethu; senza okungalungile, senza okubi.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Sone izono"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "omabomu ethu"
+    },
+    {
+      "surface": "העוינו",
+      "gloss": "senza okungalungile"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "senza okubi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:58.086073133Z",
+  "model": "glm-5.3"
+}

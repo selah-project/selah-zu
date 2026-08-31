@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 3:10",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi amatoho akho agcwala ubukhosi, newayini elitsha izikhongozana zakho ziphule ngazo.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "futhi agcwala"
+    },
+    {
+      "surface": "אסמיך",
+      "gloss": "amatoho akho"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ubukhosi"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "newayini elitsha"
+    },
+    {
+      "surface": "יקביך",
+      "gloss": "izikhongozana zakho"
+    },
+    {
+      "surface": "יפרצו",
+      "gloss": "ziphule ngazo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:47:14.169356556Z",
+  "model": "glm-5.3"
+}

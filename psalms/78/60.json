@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 78:60",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Wayeshiya indlu yakhe eyisiShilo, itenti ayehlala kuyo phakathi kwabantu.",
+  "tokens": [
+    {
+      "surface": "ויטש",
+      "gloss": "Wayeshiya"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "indlu yakhe"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "eyisiShilo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "itenti"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ayehlala kuyo"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "phakathi kwabantu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:39.225414764Z",
+  "model": "glm-5.3"
+}

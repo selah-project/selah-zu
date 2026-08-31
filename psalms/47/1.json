@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 47,
+  "translation": "Kumqondisi; ingoma yabantwana bakaKorahi; umculo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "yabantwana"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "bakaKorahi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umculo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:02.357428049Z",
+  "model": "glm-5.3"
+}

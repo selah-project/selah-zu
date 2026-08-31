@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 29:24",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Futhi abadukayo ngomoya bazakuqonda ukuqonda, ababulungisayo bazafunda ukufundiswa.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "futhi bazakuqonda"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "abadukayo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ngomoya"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ukuqonda"
+    },
+    {
+      "surface": "ורוגנים",
+      "gloss": "ababulungisayo"
+    },
+    {
+      "surface": "ילמדו",
+      "gloss": "bazafunda"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ukufundiswa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:25:43.807324070Z",
+  "model": "glm-5.3"
+}

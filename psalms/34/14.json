@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Londa ulwimi lwakho ukwenzakala, nomilo lwakho ukukhuluma amanga.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Londa"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ulwimi lwakho"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ukwenzakala"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "nomilo lwakho"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ukukhuluma"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "amanga"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:22.274006385Z",
+  "model": "glm-5.3"
+}

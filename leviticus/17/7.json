@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 17:7",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Futhi ngeke besephinda bebalethe ⟨את⟩ izipholo zabo kwizimbuzi zamazimu aba zibalele ngemva zawo; umthetho ophakade lowo uzoba yiwona kubona, kozukulwana zawo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "futhi ngeke"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "bephinda bebalethe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "se"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izipholo zabo"
+    },
+    {
+      "surface": "זבחיהם",
+      "gloss": "izipholo zabo"
+    },
+    {
+      "surface": "לשעירם",
+      "gloss": "kwizimbuzi zamazimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "זנים",
+      "gloss": "zibalele"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ngemva zawo"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "umthetho"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ophakade"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "uzoba yiwona"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "kozukulwana zawo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:00:36.646156785Z",
+  "model": "glm-5.3"
+}

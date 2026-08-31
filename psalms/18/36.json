@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 18:36",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "wanikeza isihlangu sokusindisa kwakho, yedla lakho lingisekela, futhi ukuthobeka kwakho kungandisekisa kakhulu.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "wanikeza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kumina"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "isihlangu"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "sokusindisa kwakho"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "yedla lakho"
+    },
+    {
+      "surface": "תסעדני",
+      "gloss": "lingixhasa"
+    },
+    {
+      "surface": "וענותך",
+      "gloss": "futhi ukuthobeka kwakho"
+    },
+    {
+      "surface": "תרבני",
+      "gloss": "kungandisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:39.197911521Z",
+  "model": "glm-5.3"
+}

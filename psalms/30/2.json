@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 30:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Ngiyakukhuphula uYahwe, ngokuba ungikhuphile, futhi awunjalo Izitha zami ukuthi zijabule kuze kube yimi.",
+  "tokens": [
+    {
+      "surface": "ארוממך",
+      "gloss": "Ngiyakukhuphula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "דליתני",
+      "gloss": "ungikhuphile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi awunjalo"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "ukuthi zijabule"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "Izitha zami"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuze kube yimi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:31.589046679Z",
+  "model": "glm-5.3"
+}

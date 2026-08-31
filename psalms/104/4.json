@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 104:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 104,
+  "translation": "Enza abathunyi bakhe — imimoya, abasebenzi bakhe — ilangabi lemlilo.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Enza"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "abathunyi bakhe"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "imimoya"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "abasebenzi bakhe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "להט",
+      "gloss": "olangabayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:20.961207441Z",
+  "model": "glm-5.3"
+}

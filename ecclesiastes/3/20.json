@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Konke kuhamba endaweni eyodwa; konke kwakukhona ku-uthuli, futhi konke kubuyela ku-uthuli.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "kuhamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eyodwa"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kwakukhona"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "uthuli"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "futhi konke"
+    },
+    {
+      "surface": "שב",
+      "gloss": "kubuyela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "uthuli"
+    }
+  ],
+  "timestamp": "2026-08-31T07:45:20.355901780Z",
+  "model": "glm-5.3"
+}

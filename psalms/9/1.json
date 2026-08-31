@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 9:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Kumqondisi ⟨we⟩ngoma ethi Almuth Laben, umkhuleko kaDavidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "Almuth"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Laben"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umkhuleko"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavidi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:51:44.359104128Z",
+  "model": "glm-5.3"
+}

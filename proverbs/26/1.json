@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Njengaqhwa ehlobo, nanjengomvula esikhathini sokuvuna, ngokufanayo inkazimulo ayifanele isiphukuphuku.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "njengaqhwa"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "ehlobo"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "nanjengomvula"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "esikhathini sokuvuna"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngokufanayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi-"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "fanele"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "isiphukuphuku"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "inkazimulo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:02:06.865249295Z",
+  "model": "glm-5.3"
+}

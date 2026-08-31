@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 1:5",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Bamthola u-Adoni-Bezek eBezeki, balwa naye, babetha ⟨את⟩ iKhanani ⟨את⟩ nephelezi iPherizi.",
+  "tokens": [
+    {
+      "surface": "וימצאו",
+      "gloss": "Bamthola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Adoni-Bezek"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "בבזק",
+      "gloss": "eBezeki"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "balwa naye"
+    },
+    {
+      "surface": "בו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "babetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKhanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "iKhanani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iPherizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "iPherizi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:00:38.284350230Z",
+  "model": "glm-5.3"
+}

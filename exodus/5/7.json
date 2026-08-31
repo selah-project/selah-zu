@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 5:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Ningangezi ukunikeza abantu utshani lokwenza izitini, njengasezinyangeni ezedlule; bona baye baqoqele izono utshani.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ninga(ngezi)"
+    },
+    {
+      "surface": "תאספון",
+      "gloss": "ngezi"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ukunikeza"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "utshani"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "lokwenza"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "izitini"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "njengasezinyangeni"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "ezedlule"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "baya"
+    },
+    {
+      "surface": "וקששו",
+      "gloss": "baye baqoqele"
+    },
+    {
+      "surface": "להם",
+      "gloss": "izono"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "utshani"
+    }
+  ],
+  "timestamp": "2026-08-31T01:29:16.786767193Z",
+  "model": "glm-5.3"
+}

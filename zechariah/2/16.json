@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zechariah 2:16",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi uYahwe uzofa izinandla ⟨את⟩ iYehuda njengesabelo sakhe emhlabeni ongcekile, futhi uzokhetha futhi iYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "ונחל",
+      "gloss": "futhi uzofa izinandla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "iYehuda"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "njengesabelo sakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ongcekile"
+    },
+    {
+      "surface": "ובחר",
+      "gloss": "futhi uzokhetha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "iYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:41:58.116339327Z",
+  "model": "glm-5.3"
+}

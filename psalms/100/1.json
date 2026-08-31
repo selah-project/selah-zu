@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 100,
+  "translation": "Ihlima lokubonga. Mukanipheni uYahwe, wonke umhlaba.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Ihlima lokubonga"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "lokubonga"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Mukanipheni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:31.749536793Z",
+  "model": "glm-5.3"
+}

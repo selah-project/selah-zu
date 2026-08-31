@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 16:13",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Kwaba ngasihlwa, izinkwazi zanyuka zamboza ⟨את⟩ ikamu; ekuseni kwaba nokwelala komthonzima ejikeleze ikamu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ngasihlwa"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "zanyuka"
+    },
+    {
+      "surface": "השלו",
+      "gloss": "izinkwazi"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "zamboza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikamu"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ikamu"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "nokwelala"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "komthonzima"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ejikeleze"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ikamu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:06.002454814Z",
+  "model": "glm-5.3"
+}

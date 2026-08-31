@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 13:16",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Uzobulala ngempela ⟨את⟩ abahlali balelo dolobha ngomlomo wesiphe; uyihlabela ngokuphelele ⟨את⟩ yona, ne-⟨את⟩ konke okukuyo, ne-⟨את⟩ izinkomo zayo ngomlomo wesiphe.",
+  "tokens": [
+    {
+      "surface": "הכה",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "תכה",
+      "gloss": "uzobulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahlali balelo dolobha"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bedolobha"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ngomlomo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "wesiphe"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "uyihlabela ngokuphelele"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yona (idolobha)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne-⟨את⟩",
+      "marks": "konke okukuyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku-"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne-⟨את⟩",
+      "marks": "izinkomo zayo"
+    },
+    {
+      "surface": "בהמתה",
+      "gloss": "izinkomo zayo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ngomlomo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "wesiphe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:37:21.814117275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ibokana elilodwa lezimbuzi njengomnikelo wesono.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ibokana elilodwa lezimbuzi"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "lezimbuzi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "njengomnikelo wesono"
+    }
+  ],
+  "timestamp": "2026-08-31T02:10:09.626135759Z",
+  "model": "glm-5.3"
+}

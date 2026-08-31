@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 12:5",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi walwa noMalanga, waba namandla; wakhala, wamthandazela; eBhayitheli wamthola, futhi lapho wakhuluma nathi;",
+  "tokens": [
+    {
+      "surface": "ושר",
+      "gloss": "walwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no-"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "Malanga"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "waba namandla"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "wakhala"
+    },
+    {
+      "surface": "ויתחנן",
+      "gloss": "wamthandazela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨aye⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iBhayithel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "i"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "wamthola"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "futhi lapho"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nathi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:04.334395667Z",
+  "model": "glm-5.3"
+}

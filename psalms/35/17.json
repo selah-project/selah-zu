@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 35:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "u-Adonayi, kungakanani uzobona? Buyisela inefeshi yami kwiziphazamiso zabo, kumabhubesi ⟨owami oyedwa⟩.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "kungakanani"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "uzobona"
+    },
+    {
+      "surface": "השיבה",
+      "gloss": "buyisela"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "משאיהם",
+      "gloss": "kwiziphazamiso zabo"
+    },
+    {
+      "surface": "מכפירים",
+      "gloss": "kumabhubesi"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "owami oyedwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:10.920406224Z",
+  "model": "glm-5.3"
+}

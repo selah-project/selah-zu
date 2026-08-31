@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 75,
+  "translation": "Kumqondisi wezingoma: 'Ungabhubhisi.' Ingoma ka-Asafi, iculo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi wezingoma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ungabi"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "ubhubhisi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Ingoma"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ka-Asafi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "iculo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:01.266128893Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 6:2",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi uYahwe wathi ku-Yehoshuwa: Bheka, nginike esandleni sakho ⟨את⟩ iYerikho no⟨את⟩ inkosi yayo, izinsizwa ezinamandla zempi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Futhi uYahwe wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Yehoshuwa"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nginike"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "esandleni sakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYerikho"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "iYerikho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "inkosi yayo"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "inkosi yayo"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "izinsizwa ezinamandla"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "zempi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:51:21.541283968Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Yabonakala leli zwi lihle emehlweni ka-Adonayi, ngoba uShelomah wacela ⟨את⟩ leli zwi.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "Yabonakala lihle"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "leli zwi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ka-Adonayi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "wacela"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leli zwi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "leli zwi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:47:22.672856332Z",
+  "model": "glm-5.3"
+}

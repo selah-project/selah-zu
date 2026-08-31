@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Futhi kwaba yimpi phakathi kukaAsa noBaasha inkosi yakwaIsrayeli, insuku zabo zonke.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Futhi kwaba yimpi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kuka"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "uAsa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "no"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "uBaasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yakwaIsrayeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "insuku zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:58:54.548642165Z",
+  "model": "glm-5.3"
+}

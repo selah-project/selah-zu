@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 8:7",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Njalo uthe uYahwe wezimbangela: Bheka, ngisindisa isizwe sami esivela ezweni lokuphuma kwelanga, nasezweni lokuwalwa kwelanga.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Njalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ute"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wezimbangela"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Bheka, mina"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ngisindisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isizwe sami"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "isizwe sami"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "lokuphuma kwelanga"
+    },
+    {
+      "surface": "ומארץ",
+      "gloss": "nasezweni"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "lokuwalwa"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kwelanga"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:31.291482164Z",
+  "model": "glm-5.3"
+}

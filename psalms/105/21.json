@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "Wamenza yinkosi yetempeli lakhe, nobusosi bobizo bakhe sonke.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "wamenza"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "yinkosi yetempeli"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "lakhe"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "nobusosi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bobizo bakhe sonke"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "bobizo bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:24.295420923Z",
+  "model": "glm-5.3"
+}

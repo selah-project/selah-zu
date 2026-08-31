@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 89:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Ngokuba ngubani phakathi kwamazulu ongalingana noYahwe? Ngubani ongafana noYahwe phakathi kwamadodana ka-El?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "phakathi kwamazulu"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "ongalingana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "noYahwe"
+    },
+    {
+      "surface": "ידמה",
+      "gloss": "ongafana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "noYahwe"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "phakathi kwamadodana"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "ka-El"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:22.562463585Z",
+  "model": "glm-5.3"
+}

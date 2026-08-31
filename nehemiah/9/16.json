@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 9:16",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Futhi bona noyihlo babetha baziphakamisa ngokwedlulele, banikeza ama-qolo aqinile futhi abuzwanga iziyalelo zakho.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "futhi bona"
+    },
+    {
+      "surface": "ואבתינו",
+      "gloss": "noyihlo"
+    },
+    {
+      "surface": "הזידו",
+      "gloss": "baziphakamisa ngokwedlulele"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "banikeza ama-qolo aqinile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ama-qolo abo"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "ama-qolo abo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi abuzwanga"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "abuzwanga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "iziyalelo zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T08:16:27.283252515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 78:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Bakhuluma ngokumelene noElohim; bathi: Ngakube u-El uyakwazi ukulungisa itafula esigcawini?",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "bakhuluma ngokumelene"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "noElohim"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "היוכל",
+      "gloss": "ngakube uyakwazi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "ukulungisa"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "itafula"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "esigcawini"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:26.679953953Z",
+  "model": "glm-5.3"
+}

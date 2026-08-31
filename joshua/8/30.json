@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 8:30",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngaleso sikhathi uYehoshuwa wakhela uYahwe, uElohim ka-Israel, i-altari entabeni iye-Ebhali.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ngaleso sikhathi"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "wakhela"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altari"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "iye-Ebhali"
+    }
+  ],
+  "timestamp": "2026-08-31T02:53:19.068447815Z",
+  "model": "glm-5.3"
+}

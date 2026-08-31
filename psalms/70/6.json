@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 70:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 70,
+  "translation": "Ngingoweḅa ngingumuntu ophansi, uElohim, sesha ukwedlula kimi; ungumsizi wami futhi ungumsecule wami; wena uYahwe, ungaphazamisi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ngiṋgoweḅa\/ophansi"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "futhi unginḓuna oḓalwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "sesha ukwedlula"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "umsizi wami"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "futhi umsecule wami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungaphazamisi"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "ukulibala"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:55.266633894Z",
+  "model": "glm-5.3"
+}

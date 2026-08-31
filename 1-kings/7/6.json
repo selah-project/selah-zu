@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 7:6",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi wenza ⟨את⟩ umdidiyelo wezinsika: ubude bawo bamakhubhu angamatshumi amahlanu, bese ububanzi bawo amakhubhu angamatshumi amathathu; futhi umdidiyelo wawuphambisana nazo, futhi izinsika nousongo phambi kwazo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umdidiyelo wezinsika"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "umdidiyelo"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "wezinsika"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "amashumi amahlanu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amakhubhu"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ubude bawo"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "namashumi amathathu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amakhubhu"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ububanzi bawo"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "futhi umdidiyelo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "phambi kwazo"
+    },
+    {
+      "surface": "ועמדים",
+      "gloss": "nezinsika"
+    },
+    {
+      "surface": "ועב",
+      "gloss": "nousongo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "phambi kwazo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:50:40.766117306Z",
+  "model": "glm-5.3"
+}

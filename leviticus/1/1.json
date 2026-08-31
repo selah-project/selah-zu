@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Wabizela uMoshe, uYahwe wayekhuluma kaye ethendesini lokuhlangana, ethi:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Wabizela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wayekhuluma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kaye"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "ethendesini"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lokuhlangana"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:51:03.742475019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Makangincance ngezincanciso zomlomo wakhe, ngoba uthando lwakho luhle kune-wayini.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "Makangincance"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "ngezincanciso"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "zomlomo wakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "luhle"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "uthando lwakho"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "kune-wayini"
+    }
+  ],
+  "timestamp": "2026-08-31T07:33:45.483336825Z",
+  "model": "glm-5.3"
+}

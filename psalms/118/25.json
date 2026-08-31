@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 118,
+  "translation": "Ngiyacula kuwe, uYahwe, siphilise manje; ngiyacula kuwe, uYahwe, sibusise ngempumelelo manje.",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "ngiyacula kuwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "siphilise"
+    },
+    {
+      "surface": "נא",
+      "gloss": "manje"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "ngiyacula kuwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "sibusise ngempumelelo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "manje"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:25.900224893Z",
+  "model": "glm-5.3"
+}

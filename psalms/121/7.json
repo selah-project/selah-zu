@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 121,
+  "translation": "uYahwe uzokugcina kuwo wonke okubi, uzogcina ⟨את⟩ umphefumulo wakho.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "uzokugcina"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuwo wonke"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "uzogcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umphefumulo wakho"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "umphefumulo wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:52.703211143Z",
+  "model": "glm-5.3"
+}

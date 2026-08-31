@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "isizwe esibukhali ubuso, esingazukulisanga ubuso lomdala, futhi nentwana ayizukhululeka.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "esibukhali"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "zukulisanga"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "lomdala"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "nentwana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "zukhululeka"
+    }
+  ],
+  "timestamp": "2026-08-31T02:44:53.839771686Z",
+  "model": "glm-5.3"
+}

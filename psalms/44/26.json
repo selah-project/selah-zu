@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Ngokuba umphefumelo wethu wehlele kumfutho, isisu sethu sinamathisele emhlabeni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "wehlele"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "kumfutho"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "umphefumelo wethu"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "sinamathisele"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "isisu sethu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:30:54.657507106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 20:14",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "U-Avimeleki wathatha izimvu nenkomo, izinceku nezinsizakazi, wanika u-Avrahamu, wabuyisela kuye ⟨את⟩ uSara umkakhe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "U-Avimeleki"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "izimvu"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "nenkomo"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "izinceku"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "nezinsizakazi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wanika"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "u-Avrahamu"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wabuyisela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uSara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "uSara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umkakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:11:10.810745996Z",
+  "model": "glm-5.3"
+}

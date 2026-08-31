@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Mina ngilalile ngilele; ngivukile; ngoba uYahwe ungisekela.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "ngilalile"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "ngilele"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "ngivukile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "ungisekela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:07.110164049Z",
+  "model": "glm-5.3"
+}

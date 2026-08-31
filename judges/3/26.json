@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 3:26",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "KEPHUZU u-Ehudi wanqabela ngesikhathi besibambe isikhathi eside, yena wedlula ⟨את⟩ izithombe, wabalekela eSeirathi.",
+  "tokens": [
+    {
+      "surface": "ואהוד",
+      "gloss": "KEPHUZU u-Ehudi"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "wanqabela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngesikhathi"
+    },
+    {
+      "surface": "התמהמהם",
+      "gloss": "besibambe isikhathi eside"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "wedlula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izithombe"
+    },
+    {
+      "surface": "הפסילים",
+      "gloss": "izithombe"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "wabalekela"
+    },
+    {
+      "surface": "השעירתה",
+      "gloss": "eSeirathi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:02:28.335199069Z",
+  "model": "glm-5.3"
+}

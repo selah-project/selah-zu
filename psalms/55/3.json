@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 55,
+  "translation": "Qiniselela kuimi futhi ngiphendule; ngizulazula ekukhunjulweni kwami futhi ngidumbe.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Qiniselela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuimi"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "futhi ngiphendule"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "ngizulazula"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "ekukhunjulweni kwami"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "futhi ngidumbe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:15.533286315Z",
+  "model": "glm-5.3"
+}

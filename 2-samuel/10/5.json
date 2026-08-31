@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 10:5",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Bamtshela uDavide, wathuma ukuyohlangana nabo, ngoba amadoda abehlazekile kakhulu; inkosi yathi: Hlalani eYeriho kuzokhula izindevu zenu, nibuyele.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "Bamtshela"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wathuma"
+    },
+    {
+      "surface": "לקראתם",
+      "gloss": "ukuyohlangana nabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "היו",
+      "gloss": "abe"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "נכלמים",
+      "gloss": "behlazekile"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Hlalani"
+    },
+    {
+      "surface": "בירחו",
+      "gloss": "eYeriho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "zokhula"
+    },
+    {
+      "surface": "זקנכם",
+      "gloss": "izindevu zenu"
+    },
+    {
+      "surface": "ושבתם",
+      "gloss": "nibuyele"
+    }
+  ],
+  "timestamp": "2026-08-31T03:35:30.769798553Z",
+  "model": "glm-5.3"
+}

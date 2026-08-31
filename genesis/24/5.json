@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 24:5",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Incekuzi yathi kuye: Mhlawumbe umfunti angabi ethanda ukuhamba ngemva yami kulo mhlaba; ingabe ngibuyisele ⟨את⟩ indodana yakho kuwo umhlaba owawuphuma khona?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "incekuzi"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "mhlawumbe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "ithande"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umfunti"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuhamba"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ngemva yami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mhlaba"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lo"
+    },
+    {
+      "surface": "ההשב",
+      "gloss": "ingabe ngibuyisele"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ngibuyisele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indodana yakho"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "indodana yakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owo"
+    },
+    {
+      "surface": "יצאת",
+      "gloss": "owawuphuma"
+    },
+    {
+      "surface": "משם",
+      "gloss": "khona"
+    }
+  ],
+  "timestamp": "2026-08-31T01:12:03.347770674Z",
+  "model": "glm-5.3"
+}

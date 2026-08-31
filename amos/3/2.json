@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "amos 3:2",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Nina nje ngiyanazi ⟨את⟩ phakathi kwazo zonke izibongo zomhlaba; ngakho ngizokushuma phezulu kwani ⟨את⟩ zonke iziphambeko zenu.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "nina nje"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina (isiqu esivelele kwenzima)"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ngiyanazi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "phakathi kwazo zonke"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "izibongo"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "zomhlaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "ngizokushuma phezulu"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "phezulu kwani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke iziphambeko zenu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "עונתיכם",
+      "gloss": "iziphambeko zenu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:29:55.943014267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 10:8",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Bathamsanqa amadoda akho, bathamsanqa lezi zinceku zakho, ezimi phambi kwakho njalo, ezilalela ⟨את⟩ ikhono lakho.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Bathamsanqa"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "amadoda akho"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "bathamsanqa"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "zinceku zakho"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ezimi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "השמעים",
+      "gloss": "ezilalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikhono lakho"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ikhono lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T03:53:08.918219259Z",
+  "model": "glm-5.3"
+}

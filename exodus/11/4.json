@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "UMoshe wasesethi: Kunjalo uthe ugetYahwe: Ngesikhathi sekuphakathi kwabusuku ngizophuma phakathi kwaMitsrayim;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wasesethi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kunjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ugetYahwe"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "Ngesikhathi sekuphakathi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "kwabusuku"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngi"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "ngizophuma"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "kwaMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:31:32.968915487Z",
+  "model": "glm-5.3"
+}

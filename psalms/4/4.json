@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi yazini ukuthi uYahwe uhlukanile umhloli ⟨⟨⟩⟩; uYahwe uzozwa laphengibizayo kuye.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "Futhi yazini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "uhlukanile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "umhloli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨⟨⟩⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "uzozwa"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "laphengibizayo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-08-31T05:46:28.593034511Z",
+  "model": "glm-5.3"
+}

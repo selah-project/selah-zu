@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 6:9",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ngoba bonke babesizisa ukwesaba, bebethi, izandla zabo zizokhishwa amandla emsebenzini, yena lo msebenzi ungeke wenziwe. Manje ke, qinisa ⟨את⟩ izandla zami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngoba"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "מיראים",
+      "gloss": "babesizisa ukwesaba"
+    },
+    {
+      "surface": "אותנו",
+      "gloss": "nathi ⟨את⟩",
+      "marks": "thina"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bebethi"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "zizokhishwa amandla"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "izandla zabo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kusukela"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "emsebenzini"
+    },
+    {
+      "surface": "וloא",
+      "gloss": "futhi angeke"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wenziwe"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "manje ke"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "qinisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izandla zami"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "izandla zami"
+    }
+  ],
+  "timestamp": "2026-08-31T08:13:55.823726797Z",
+  "model": "glm-5.3"
+}

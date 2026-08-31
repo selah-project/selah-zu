@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Kuze kube nini, uYahwe, ungangikhohli? kuze kube phakade? Kuze kube nini uzofihla ⟨את⟩ ubuso bakhe kimi?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kuze kube"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "ungangikhohli"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Kuze kube"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "uzofihla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bakhe"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:11.524132753Z",
+  "model": "glm-5.3"
+}

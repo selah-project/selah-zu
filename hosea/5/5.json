@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 5:5",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Futhi inkazimulo kaSirayeli izofakazela ebusweni bakhe; uSirayeli no-Efrayimu bazokhubazeka ngobubi babo; uYehuda naye uzokhubazeka kanye nabo.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "izofakazela"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "inkazimulo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaSirayeli"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "ebusweni bakhe"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "uSirayeli"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "no-Efrayimu"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "bazokhubazeka"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "ngobubi babo"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "uzokhubazeka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naye"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehuda"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "kanye nabo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:26:47.926211803Z",
+  "model": "glm-5.3"
+}

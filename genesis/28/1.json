@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 28:1",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Wabizela uYitsaka uYaakobu, wamsikisela ⟨את⟩, wamyala, wathi kuye: Ungathathi umfazi ezintombini zaseKenaan.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "Wabizela"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "uYitsaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakobu"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wamsikisela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uYaakobu"
+    },
+    {
+      "surface": "ויצוהו",
+      "gloss": "wamyala"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungathathi"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "thathi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ezintombini"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "iKenaan"
+    }
+  ],
+  "timestamp": "2026-08-31T01:15:51.415789226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 95,
+  "translation": "Musani ukwenza inhliziyo yenu liwanda, njenge-Meribha, njengosuku lwe-Masa, esigodlweni",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musani"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "ukwenza liwanda"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "inhliziyo yenu"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "njenge-Meribha"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "njengosuku"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "lwe-Masa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "esigodlweni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:31.935928287Z",
+  "model": "glm-5.3"
+}

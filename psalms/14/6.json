@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 14:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Izeluleko zompofu niyazihlazisa, kodwa uYahwe yisiphephelo sakhe.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "izeluleko"
+    },
+    {
+      "surface": "עני",
+      "gloss": "zompofu"
+    },
+    {
+      "surface": "תבישו",
+      "gloss": "niyazihlazisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מחסהו",
+      "gloss": "yisiphephelo sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:10.936614492Z",
+  "model": "glm-5.3"
+}

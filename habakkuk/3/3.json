@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "habakkuk 3:3",
+  "book": "habakkuk",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "u-Eloah uza esuka eTeman, nongcwele esuka entabeni yeParan. Selah. Inkazimulo yakhe yamboza amazulu, udumo lwakhe lwazalisa umhlaba.",
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "u-Eloah"
+    },
+    {
+      "surface": "מתימן",
+      "gloss": "esuka eTeman"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "uza"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "nongcwele"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "yeParan"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "yamboza"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "inkazimulo yakhe"
+    },
+    {
+      "surface": "ותהלתו",
+      "gloss": "udumo lwakhe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "lwazalisa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T10:30:20.064782817Z",
+  "model": "glm-5.3"
+}

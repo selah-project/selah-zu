@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 2:12",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi uShelomo wahlala esidlaveleni sikaDavide uyise, futhi umbuso wakhe waqiniswa kakhulu.",
+  "tokens": [
+    {
+      "surface": "ושלמה",
+      "gloss": "Futhi uShelomo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "sidlaveleni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "sikaDavide"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "futhi waqiniswa"
+    },
+    {
+      "surface": "מלכתו",
+      "gloss": "umbuso wakhe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:46:44.737344074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 16:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Ngiyabonga ⟨את⟩ uYahwe onginikelela icebo; futhi ebusuku izinso zami ziyangifundisa.",
+  "tokens": [
+    {
+      "surface": "אברך",
+      "gloss": "ngiyabonga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onginikelela icebo [lowo]"
+    },
+    {
+      "surface": "יעצני",
+      "gloss": "onginikelela icebo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "יסרוני",
+      "gloss": "ziyangifundisa"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "izinso zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:28.357721530Z",
+  "model": "glm-5.3"
+}

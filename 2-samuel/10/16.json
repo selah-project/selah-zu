@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 10:16",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "U-Hadadezer wathuma, wakhishisa ⟨את⟩ i-Aramu engasele ngaphesheya komfula; yafika e-Chelamu. U-Shobaka, induna yempi kaHadadezer, wayengaphambi kwabo.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathuma"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "uHadadezer"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "wakhishisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-Aramu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "i-Aramu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engu-"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "engasele"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ngaphesheya komfula"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "yafika"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "e-Chelamu"
+    },
+    {
+      "surface": "ושובך",
+      "gloss": "uShobaka"
+    },
+    {
+      "surface": "שר",
+      "gloss": "induna"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "yempi"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "kaHadadezer"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "wayengaphambi kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:37:11.347998246Z",
+  "model": "glm-5.3"
+}

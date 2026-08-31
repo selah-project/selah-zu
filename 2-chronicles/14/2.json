@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 14:2",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Wasusa ⟨את⟩ izibingelelo zangaphandle nedolobha eliphezulu, waphula ⟨את⟩ izithombe, wasika ⟨את⟩ izihlahla ze-Ashera.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "wasusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izibingelelo zangaphandle"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "izibingelelo"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "zangaphandle"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "nedolobha eliphezulu"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "waphula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izithombe"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "izithombe"
+    },
+    {
+      "surface": "ויגדע",
+      "gloss": "wasika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izihlahla ze-Ashera"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "izihlahla ze-Ashera"
+    }
+  ],
+  "timestamp": "2026-08-31T08:36:54.522015765Z",
+  "model": "glm-5.3"
+}

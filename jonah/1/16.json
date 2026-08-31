@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jonah 1:16",
+  "book": "jonah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Amadoda ayesaba uYahwe esaba esikhulu, bese beyanela ⟨את⟩ ngomhlathe kuYahwe, baze benza izifungo.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "ayesaba"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "esaba"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "esikhulu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "bese beyanela"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ngomhlathe"
+    },
+    {
+      "surface": "ליהוָה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "וידרו",
+      "gloss": "benza izifungo"
+    },
+    {
+      "surface": "נדרים",
+      "gloss": "izifungo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:35:31.847436332Z",
+  "model": "glm-5.3"
+}

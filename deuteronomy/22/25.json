@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 22:25",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Futhi uma indoda ithola ⟨את⟩ intombazana engiyisiboshwa engadini, futhi indoda ibambe ngamandla ilale nayo, leyo ndoda eyalala nayo ifa yodwa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "futhi uma"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "engadini"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ithola"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intombazana engiyisiboshwa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "intombazana"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "engiyisiboshwa"
+    },
+    {
+      "surface": "והחזיק",
+      "gloss": "ibambe ngamandla"
+    },
+    {
+      "surface": "בה",
+      "gloss": "yona"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "ilale"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ey"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "yalala"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yodwa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:41:59.194808736Z",
+  "model": "glm-5.3"
+}

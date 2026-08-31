@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "futhi hlanganisa ⟨את⟩ wonke umhlangano emnyango wetende yokuhlangana.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "wonke umhlangano"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "umhlangano"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "hlanganisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwe-"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wetende"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuhlangana"
+    }
+  ],
+  "timestamp": "2026-08-31T01:52:58.536388384Z",
+  "model": "glm-5.3"
+}

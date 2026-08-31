@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 17:6",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Futhi amakhoqho ayemlethela isinkwa inyama ekuseni, nesinkwa inyama kantsi; futhi enanheni wayephuzwa kuyo.",
+  "tokens": [
+    {
+      "surface": "והערבים",
+      "gloss": "futhi amakhoqho"
+    },
+    {
+      "surface": "מביאים",
+      "gloss": "ayemlethela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-m"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "isinkwa"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "nesinkwa"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "kantsi"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "futhi e-"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "nanheni"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "wayephuzwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:06:22.109434379Z",
+  "model": "glm-5.3"
+}

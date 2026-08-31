@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 31:11",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "nende ⟨את⟩ amafutha okugcoba nende ⟨את⟩ insimbi yezimunyu zendawo engcwele; njengakho konke engikuyalelayo bazokwenza. ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amafutha okugcoba"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "okugcoba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "insimbi yezimunyu"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "insimbi"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "yezimunyu"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "yendawo engcwele"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "njengakho konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "kuyalelayo"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "bazokwenza"
+    }
+  ],
+  "timestamp": "2026-08-31T01:41:38.614574633Z",
+  "model": "glm-5.3"
+}

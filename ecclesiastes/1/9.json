@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Okwaba yilo ⟨yilo⟩ okuzakuba yona, futhi okwenziweyo ⟨yilo⟩ okuzakwenziwa; futhi akukho okusha ngaphezesela ilanga.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "okwaba"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "yilo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "okuzakuba yona"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "futhi okwenziweyo"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "okwenziwayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "okuzakwenziwa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi akukho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "oku"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "usha"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphezesela"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ilanga"
+    }
+  ],
+  "timestamp": "2026-08-31T07:42:54.328034688Z",
+  "model": "glm-5.3"
+}

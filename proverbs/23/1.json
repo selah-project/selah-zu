@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Uma uhlala ukudla ⟨את⟩ nomphathi, qaphela ngokucophelela okungaphambili kwakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "uhlala"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nomphathi"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "nomphathi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "qaphela"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "ngokucophelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okungaphambili kwakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okung"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambili kwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:59:30.203588099Z",
+  "model": "glm-5.3"
+}

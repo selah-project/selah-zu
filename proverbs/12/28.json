@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Endleleni yolungelo kukhona ukuphila, futhi endleleni yaleyo ndlela akukho ukufa.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "yolungelo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "kukhona ukuphila"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "futhi indlela"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "yeleyo ndlela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ukufa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:53:17.855856047Z",
+  "model": "glm-5.3"
+}

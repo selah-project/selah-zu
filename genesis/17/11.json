@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 17:11",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Futhi nizosokwa ⟨את⟩ ingcebe yenyama yenu, futhi kuzoba uphawu lwesivumelwano phakathi kwami naphakathi kwenu.",
+  "tokens": [
+    {
+      "surface": "ונמלתם",
+      "gloss": "futhi nizosokwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingcebe yenyama yenu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "ערלתכם",
+      "gloss": "ingcebe yenu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "futhi kuzoba"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "uphawu"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "yesivumelwano"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "phakathi kwami"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "naphakathi kwenu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:06:57.055496394Z",
+  "model": "glm-5.3"
+}

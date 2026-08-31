@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 149:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 149,
+  "translation": "Ukuwenza kubona umahlakolo obhaliwe; lobu buhle buwobonakala ⟨kubona⟩ bonke abakhwele bakhe. Dumisani uYah!",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ukuwenza"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "umahlakolo"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "obhaliwe"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "ubuhle"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "buwobonakala"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kubona bonke"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "abakhwele bakhe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dumisani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    }
+  ],
+  "timestamp": "2026-08-31T11:17:34.068251259Z",
+  "model": "glm-5.3"
+}

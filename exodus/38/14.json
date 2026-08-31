@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 38:14",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Izintambo eziyishumi nanhlanu zamakhubhu lapha eqolo elilodwa leliqolo elilodwa lezingcebo ezintathu nezingcebo ezintathu zamakhanda amathathu namakhanda amathathu.",
+  "tokens": [
+    {
+      "surface": "קלעים",
+      "gloss": "izintambo"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "nane"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amakhubhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eqolo"
+    },
+    {
+      "surface": "הכתף",
+      "gloss": "elilodwa leliqolo elilodwa"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "izingcebo zazo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "namakhanda azo"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "amathathu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:45:40.476470821Z",
+  "model": "glm-5.3"
+}

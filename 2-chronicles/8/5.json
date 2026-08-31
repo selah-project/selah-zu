@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Wakha ⟨את⟩ iBeyith-Horon eliphezulu no-⟨את⟩ iBeyith-Horon eliphansi, amadolobha okuqiniswa, ngamadonga, amasango nomigoqo.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iBeyith-Horon eliphezulu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iBeyith"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "eliphezulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "iBeyith-Horon eliphansi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iBeyith"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "Horon"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "eliphansi"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "amadolobha"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "okuqiniswa"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "ngamadonga"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "amasango"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "nomigoqo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:33:46.815177769Z",
+  "model": "glm-5.3"
+}

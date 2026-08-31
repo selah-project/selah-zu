@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 28:4",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "AmaPilishti aqoqana, afika, aqamba ikamu eShunemu; uShawuli waqoqa ⟨את⟩ wonke uYisraeli, baze baqamba ikamu eGilibo.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "aqoqana"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaPilishti"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "afika"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "aqamba ikamu"
+    },
+    {
+      "surface": "בשונם",
+      "gloss": "eShunemu"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "waqoqa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke uYisraeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisraeli"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "baqamba ikamu"
+    },
+    {
+      "surface": "בגלבע",
+      "gloss": "eGilibo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:30:09.051215037Z",
+  "model": "glm-5.3"
+}

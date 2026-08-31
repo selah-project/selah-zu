@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 54:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 54,
+  "translation": "Ngokuba abangaziwe bakhipha intukuthelo basuka baphakamela kum, futhi abagwinsi befuna inefeshi yami; ababeki uElohim phambi kwabo. Selahi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "abangaziwe"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "bakhipha intukuthelo basuka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "baphakamela kum"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "futhi abagwinsi"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "befuna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abanga-"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "beki"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "phambi kwabo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:07.429561338Z",
+  "model": "glm-5.3"
+}

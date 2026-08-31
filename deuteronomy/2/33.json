@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 2:33",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "uYahwe uElohim wethu wamnikeza phambi kwethu; samshaya ⟨את⟩ yena, nabantwana bakhe, nangeso sonke isizwe sakhe.",
+  "tokens": [
+    {
+      "surface": "ויתנהו",
+      "gloss": "wamnikeza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "phambi kwethu"
+    },
+    {
+      "surface": "ונך",
+      "gloss": "samshaya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakhe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "abantwana bakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "sonke isizwe sakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isizwe sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:30:59.685397960Z",
+  "model": "glm-5.3"
+}

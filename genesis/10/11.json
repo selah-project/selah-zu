@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Kulo lonke ichwe lelo, waphuma u-Ashuri, waza wakha ⟨את⟩ iNinive ⟨את⟩ noRehovoti-Iri ⟨את⟩ neKelahi.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ichwe"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "u-Ashuri"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "waza wakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iNinive"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "iNinive"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "uRehovoti-Iri"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "uRehovoti"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "-Iri (isedle)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "iKelahi"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "iKelahi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:07.675496234Z",
+  "model": "glm-5.3"
+}

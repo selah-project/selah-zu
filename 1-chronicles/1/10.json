@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi uKushi wazala ⟨את⟩ uNimrodi; yena waqala ukuba yindoda enamandla ezweni.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "futhi uKushi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uNimrodi"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "uNimrodi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "החל",
+      "gloss": "waqala"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "yindoda enamandla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    }
+  ],
+  "timestamp": "2026-08-31T08:18:55.213607087Z",
+  "model": "glm-5.3"
+}

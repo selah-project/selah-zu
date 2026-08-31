@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 18:5",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "UDavide waphuma kuyo yonke into ayamthumela kuyo uShawuli, wazenzele ngobuhlakani; uShawuli wambeka phezu kwamadoda ayempini; kwakuhle emehlweni wonke umuntu, futhi emehlweni abasebenzi bekaShawuli.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuyo yonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "into"
+    },
+    {
+      "surface": "ישלחנו",
+      "gloss": "ayamthumela kuyo"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "wazenzele ngobuhlakani"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "wambeka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "kwamadoda"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ayempini"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "kwakuhle"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "futhi nakumehlweni"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abasebenzi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "bekaShawuli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:24:04.929467219Z",
+  "model": "glm-5.3"
+}

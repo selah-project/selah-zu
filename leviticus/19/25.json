@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 19:25",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Futhi ngonyaka wesihlanu nidla ⟨את⟩ isithelo sawo, ukuze kwengeke kunina inzuzo yaso; nginguYahwe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "Futhi ngonyaka"
+    },
+    {
+      "surface": "החמישת",
+      "gloss": "wesihlanu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nidla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isithelo sawo"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "isithelo sawo"
+    },
+    {
+      "surface": "להוסיף",
+      "gloss": "ukuze kwengeke"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kunina"
+    },
+    {
+      "surface": "תבואתו",
+      "gloss": "inzuzo yaso"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:01:21.596976529Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 114,
+  "translation": "Phambi kuka-Adonayi, thina mhlaba, zabalaza-ke; phambi kuka-Eloah kaYakobi",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "zabalaza-ke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mhlaba"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "u-Eloah"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kaYakobi"
+    }
+  ],
+  "timestamp": "2026-08-31T11:45:03.893159083Z",
+  "model": "glm-5.3"
+}

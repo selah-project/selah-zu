@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 9:8",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Indlu yonke ka-Ahabu izanyelwa, ngizosika ku-Ahabu onomchama emgodini, nolaliwe, nolahiwe, eYisrayeli.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "izanyelwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ka-Ahabu"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "ngizosika"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "ku-Ahabu"
+    },
+    {
+      "surface": "משתין",
+      "gloss": "onumchama"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "emgodini"
+    },
+    {
+      "surface": "ועצור",
+      "gloss": "nolaliwe"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "nolahiwe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "eYisrayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T04:06:23.264519201Z",
+  "model": "glm-5.3"
+}

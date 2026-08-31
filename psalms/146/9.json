@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 146:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 146,
+  "translation": "uYahwe uyagcina ⟨את⟩ abahamba-bomvu, intandane nendowokazi uyazisukumisa, kodwa indlela yabiyo uyayiqamba.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "uyagcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahamba-bomvu"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "abahamba-bomvu"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "intandane"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "nendowokazi"
+    },
+    {
+      "surface": "יעודד",
+      "gloss": "uyazisukumisa"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "kodwa indlela"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yabiyo"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "uyayiqamba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:07.304579330Z",
+  "model": "glm-5.3"
+}

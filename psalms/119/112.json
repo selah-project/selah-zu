@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 112,
+  "ref": "psalms 119:112",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngiqondisile inhliziyo yami ukwenza imithetho yakho, kuze kube phakade, kuze kufeni.",
+  "tokens": [
+    {
+      "surface": "נטיתי",
+      "gloss": "Ngiqondisile"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inhliziyo yami"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "imithetho yakho"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "kuze kufeni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:52.851191880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 89:50",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Ngingekaphi, u-Adonayi, ikhesedi yakho yasekuqaleni, oyizwisile ngoqiniso kuDavi?",
+  "tokens": [
+    {
+      "surface": "איה",
+      "gloss": "ngingekaphi"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "yasekuqaleni"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "oyizwisile"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuDavi"
+    },
+    {
+      "surface": "באמונתך",
+      "gloss": "ngoqiniso lwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:38.967347150Z",
+  "model": "glm-5.3"
+}

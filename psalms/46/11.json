@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 46:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 46,
+  "translation": "Yekani, nazi ukuthi mina nginguElohim; ngiphakanyiswa ezizweni, ngiphakanyiswa emhlabeni.",
+  "tokens": [
+    {
+      "surface": "הרפו",
+      "gloss": "Yekani"
+    },
+    {
+      "surface": "ודעו",
+      "gloss": "nazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "nginguElohim"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ngiphakanyiswa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ezizweni"
+    },
+    {
+      "surface": "ארום",
+      "gloss": "ngiphakanyiswa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:54.263319214Z",
+  "model": "glm-5.3"
+}

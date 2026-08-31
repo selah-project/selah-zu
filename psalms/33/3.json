@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Culani kuye iculo elitsha; dlalani ngobuhlakani ⟨⟨⟩⟩ ngekhalimba lezwi elikhulu.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Culani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "iculo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "elitsha"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "dlalani ngobuhlakani"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "dlalani isigingci"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ngekhalimba lezwi elikhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:06.323069142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "UMoshe wasuka ethafweni waya ebantwini, wanikina abantu ⟨את⟩, bese bageza izingubo zabo.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "wasuka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "thafweni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waya e-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bantwini"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "wanikina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "bageza"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "izingubo zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:35:04.521184891Z",
+  "model": "glm-5.3"
+}

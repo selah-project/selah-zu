@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 98,
+  "translation": "Culani kuYahwe ngesigingci esinezinzele, ngesigingci esinezinzele nangolwazi oluculwayo.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Culani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ngesigingci esinezinzele"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ngesigingci esinezinzele"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "nangolwazi"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "oluculwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:48.690600451Z",
+  "model": "glm-5.3"
+}

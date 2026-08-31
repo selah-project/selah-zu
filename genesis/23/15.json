@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 23:15",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Nkosi yami, ngizwe: umhlaba ungamakhulu amane eshekele ensimbi — phakathi kwami nawe lokhu kungani? Beka-ke ofile bakho.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Nkosi yami"
+    },
+    {
+      "surface": "שמעני",
+      "gloss": "ngizwe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "amane"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "eshekele"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ensimbi"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "phakathi kwami"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ofile bakho"
+    },
+    {
+      "surface": "מתך",
+      "gloss": "ofile bakho"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "Beka-ke"
+    }
+  ],
+  "timestamp": "2026-08-31T01:11:18.205749466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Kuze kube nini, mvungi, uzolala? Uze kube nini uzovuka eseskweni sakho?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nini"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "mvungi"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "uzolala"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nini"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "uzovuka"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "eseskweni sakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:48:43.106831593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 8:2",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Igama lelondana lakhe lebelethwe kuqala babeyinguYoweli, igama lyesibili linguyingu-Aviya; babe abahluleli eBhere-Sheba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "lelondana lakhe"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "lebelethwe kuqala"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "inguYoweli"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "משנהו",
+      "gloss": "lyesibili lakhe"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "lingu-Aviya"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "abahluleli"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "eBhere"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-Sheba"
+    }
+  ],
+  "timestamp": "2026-08-31T03:15:51.139350835Z",
+  "model": "glm-5.3"
+}

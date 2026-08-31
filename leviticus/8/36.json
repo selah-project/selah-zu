@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 8:36",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "U-Aharon nabantabakhe benza ⟨את⟩ zonke izinto uYahwe engalela ngazo ngesandla sikaMoshe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "benza"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "nabantabakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke izinto"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "izinto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engalela"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "alela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "משה",
+      "gloss": "sikaMoshe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:53:46.310544865Z",
+  "model": "glm-5.3"
+}

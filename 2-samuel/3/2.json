@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 3:2",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi kuzalwe kuDavide amadodana eHebroni, washo umsobomukhulu wakhe uAmnoni, ka-Ajinowami owaziSireyeli.",
+  "tokens": [
+    {
+      "surface": "וילדו",
+      "gloss": "kuzalwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuDavide"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "eHebroni"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "washo"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "umsobomukhulu wakhe"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "uAmnoni"
+    },
+    {
+      "surface": "לאחינעם",
+      "gloss": "ka-Ajinowami"
+    },
+    {
+      "surface": "היזרעאלת",
+      "gloss": "owaziSireyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:32:17.208702340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 45:19",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Futhi wena umyalelwe ukuthi: Lokhu nizikwenze; thathani kinina ezweni laseMitsrayim amawagoni ezizukulwana zenu nakwabafazi benu, futhi nithwale ⟨את⟩ uyihlo wenu nize.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "futhi wena"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "umyalelwe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "nizikwenze"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "thathani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kinina"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "amawagoni"
+    },
+    {
+      "surface": "לטפכם",
+      "gloss": "ezinganeni zenu"
+    },
+    {
+      "surface": "ולנשיכם",
+      "gloss": "nakwabafazi benu"
+    },
+    {
+      "surface": "ונשאתם",
+      "gloss": "futhi nithwale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyihlo wenu"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "uyihlo wenu"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "futhi nize"
+    }
+  ],
+  "timestamp": "2026-08-31T01:24:35.959720410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 118,
+  "translation": "Kuhle ukuthatha isiphephelo kuYahwe kunokuthemba umuntu.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Kuhle"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "ukuthatha isiphephelo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "kunokuthemba"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "umuntu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:39.483791579Z",
+  "model": "glm-5.3"
+}

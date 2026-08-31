@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "u-El ongixhingela amandla, futhi wenza indlela yami ⟨ukuba⟩ ibe yiphelele.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "ongixhingela"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "futhi wenza"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "iphelele"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "indlela yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:39.197271303Z",
+  "model": "glm-5.3"
+}

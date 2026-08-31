@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 114:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 114,
+  "translation": "Ekuphumeni kukaIsrayeli eMitsrayim, indlu kaYaakobivela ⟨kubantu⟩ abakhuluma ilimi elingajwayelekile",
+  "tokens": [
+    {
+      "surface": "בצאת",
+      "gloss": "Ekuphumeni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kukaIsrayeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kaYaakob"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "vela kubantu"
+    },
+    {
+      "surface": "לעז",
+      "gloss": "abakhuluma ilimi elingajwayelekile"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:27.660188081Z",
+  "model": "glm-5.3"
+}

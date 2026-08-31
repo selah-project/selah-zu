@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 23:4",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "U-Elohim wahlangana noBilamu, waserela yena wathi:izinkatha eziyisikhombisa ⟨את⟩ ndizihlele, ndibethisele inkunzi nidlula esibondeni.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "wahlangana"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "uBilamu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinkatha eziyisikhombisa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "eziyisikhombisa"
+    },
+    {
+      "surface": "המזבחת",
+      "gloss": "izinkatha"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "ndizihlele"
+    },
+    {
+      "surface": "ואעל",
+      "gloss": "ndibethisele"
+    },
+    {
+      "surface": "פר",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "nidlula"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "esibondeni"
+    }
+  ],
+  "timestamp": "2026-08-31T02:22:20.558411307Z",
+  "model": "glm-5.3"
+}

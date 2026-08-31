@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Ngabuya mina, ngabona iheveli ngaphansi kwezulu.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "ngabuya"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ngabona"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "iheveli"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kwezulu"
+    }
+  ],
+  "timestamp": "2026-08-31T11:40:56.254478050Z",
+  "model": "glm-5.3"
+}

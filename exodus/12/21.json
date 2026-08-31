@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 12:21",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "UMoshe wabiza wonke amadoda amdala akwaYisraeli, wathi kubo: Zikhaliphaneni nithathele nina izimvu ngezigaba zenu, nizalele uPaseka.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "amadoda amdala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "akwaYisraeli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "משכו",
+      "gloss": "zikhaliphaneni"
+    },
+    {
+      "surface": "וקחו",
+      "gloss": "nithathele"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "izimvu"
+    },
+    {
+      "surface": "למשפחתיכם",
+      "gloss": "ngezigaba zenu"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "nizalele"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "uPaseka"
+    }
+  ],
+  "timestamp": "2026-08-31T01:32:53.505361602Z",
+  "model": "glm-5.3"
+}

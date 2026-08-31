@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Yini, ndodana yami? yini, ndodana yesibeleko sami? yini, ndodana yezithembiso zami?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Yini"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "ndodana yami"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ndodana"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "yesibeleko sami"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ndodana"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "yezithembiso zami"
+    }
+  ],
+  "timestamp": "2026-08-31T07:06:07.066594766Z",
+  "model": "glm-5.3"
+}

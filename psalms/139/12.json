@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 139:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 139,
+  "translation": "kepha ubumnyama abufihleki kuwe, futhi ebusuku bukhanya njengosuku; ubumnyama bujwayelekile njengokukhanya kuwe.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kepha"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ubumnyama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abufihleki"
+    },
+    {
+      "surface": "יחשיך",
+      "gloss": "abufihleki"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "futhi ebusuku"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "njengosuku"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "bukhanya"
+    },
+    {
+      "surface": "כחשיכה",
+      "gloss": "ubumnyama bujwayelekile"
+    },
+    {
+      "surface": "כאורה",
+      "gloss": "njengokukhanya"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:28.807409507Z",
+  "model": "glm-5.3"
+}

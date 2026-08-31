@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 9:1",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Kwathi ngosuku lwesishiyagalombili uMoshe wabiza u-Aharon nabantwana bakhe nabadala baka-Israyeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "lwesishiyagalombili"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ו לבניו",
+      "gloss": "nabantwana bakhe"
+    },
+    {
+      "surface": "ולזקני",
+      "gloss": "nabadala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "baka-Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T01:55:10.463442605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "URehu waphila iminyaka engamashumi amathathu nambili, wabeletha ⟨את⟩ uSerugi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "waphila"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "uRehu"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "nambili"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "amashumi amathathu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wabeletha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uSerugi"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "uSerugi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:22.462221347Z",
+  "model": "glm-5.3"
+}

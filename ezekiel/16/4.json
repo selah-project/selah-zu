@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 16:4",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi mayelana nokuzalwa kwakho, ngosuku oluzalwa ⟨את⟩ wena ngalo, umdondyo wakho awunganqatyulwa, futhi ngamanzi awuzange ugezwa ukuhlelwa, awusolwa ngotshwala, futhi awuzange usongwe.",
+  "tokens": [
+    {
+      "surface": "ומולדותיך",
+      "gloss": "mayelana nokuzalwa kwakho"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "oluzalwa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awunganqatyulwa"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "unganqatyulwa"
+    },
+    {
+      "surface": "שרך",
+      "gloss": "umdondyo wakho"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "futhi ngamanzi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awuzange"
+    },
+    {
+      "surface": "רחצת",
+      "gloss": "ugezwa"
+    },
+    {
+      "surface": "למשעי",
+      "gloss": "ukuhlelwa"
+    },
+    {
+      "surface": "והמלח",
+      "gloss": "awusolwa ngotshwala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awusolwa"
+    },
+    {
+      "surface": "המלחת",
+      "gloss": "usolwa ngotshwala"
+    },
+    {
+      "surface": "והחתל",
+      "gloss": "futhi usongwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awuzange"
+    },
+    {
+      "surface": "חתלת",
+      "gloss": "usongwe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:08:50.323908436Z",
+  "model": "glm-5.3"
+}

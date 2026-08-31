@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 144:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 144,
+  "translation": "Izinkabi zethu ezithwalayo; akukho ukudabuka, futhi akukho okuphumayo, futhi akukho mkhalo ezigwegweni zethu.",
+  "tokens": [
+    {
+      "surface": "אלופינו",
+      "gloss": "izinkabi zethu"
+    },
+    {
+      "surface": "מסבלים",
+      "gloss": "ezithwalayo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ukudabuka"
+    },
+    {
+      "surface": "ו אין",
+      "gloss": "futhi akukho"
+    },
+    {
+      "surface": "יוצאת",
+      "gloss": "okuphumayo"
+    },
+    {
+      "surface": "ו אין",
+      "gloss": "futhi akukho"
+    },
+    {
+      "surface": "צוחה",
+      "gloss": "mkhalo"
+    },
+    {
+      "surface": "ברחבתינו",
+      "gloss": "ezigwegweni zethu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:00.972307314Z",
+  "model": "glm-5.3"
+}

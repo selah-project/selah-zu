@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 32:3",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Futhi intukuthelo yakhe yavutha kwabahlobo bakhe abathathu, ngokuba abatholanga impendulo, yabe bamgwala ⟨את⟩ u-Ayyobhu.",
+  "tokens": [
+    {
+      "surface": "ובשלשת",
+      "gloss": "Futhi kwabathathu"
+    },
+    {
+      "surface": "רעיו",
+      "gloss": "abahlobo bakhe"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "yavutha"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "intukuthelo yakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "abathola"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "impendulo"
+    },
+    {
+      "surface": "וירשיעו",
+      "gloss": "bamgwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Ayyobhu"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "u-Ayyobhu"
+    }
+  ],
+  "timestamp": "2026-08-31T07:24:17.677183483Z",
+  "model": "glm-5.3"
+}

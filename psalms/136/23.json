@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 136:23",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 136,
+  "translation": "Owasisikhumbula esithombileni sethu: ngoba ikhesedi yakhe ihlezi kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "שבשפלנו",
+      "gloss": "esithombileni sethu"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "owasikhumbula"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:53.568630829Z",
+  "model": "glm-5.3"
+}

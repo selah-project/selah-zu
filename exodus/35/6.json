@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Nobuhlwabushe aysini, nesibubunu esiphuzi, nobomvu obunzima, nesikhetho, nezimbuzi wolwa",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "nobuhlwabushe aysini"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "nesibubunu esiphuzi"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "nobomvu obunzima - inhlamvu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "obunzima bomdidi wesisu"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "nesikhetho"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "nezimbuzi wolwa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:43:15.131559933Z",
+  "model": "glm-5.3"
+}

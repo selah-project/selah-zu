@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 8:10",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Futhi uThou wathumela ⟨את⟩ uYoramu indodana yakhe kuDavide inkosi, ukumbuza ngokuphila kwakhe, nokumsisa, ngokuba walwa noHadadezer wammshaya; ngokuba uHadadezer wayengumuntu wezimpi kukaThou; nasandleni sakhe bekukhona izitsha zesiliva nezitsha zegolide nezitsha zethusi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "uThou"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYoramu"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "uYoramu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "ukumbuza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ngokuphila kwakhe"
+    },
+    {
+      "surface": "ולברכו",
+      "gloss": "nokumsisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okokuthi"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "walwa"
+    },
+    {
+      "surface": "בהדדעזר",
+      "gloss": "noHadadezer"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "wammshaya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "wezimpi"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "kukaThou"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wayeng"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "uHadadezer"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "nasandleni sakhe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "bekukhona"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "izitsha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zesiliva"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "nezitsha"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zegolide"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "nezitsha"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "zethusi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:34:08.170224955Z",
+  "model": "glm-5.3"
+}

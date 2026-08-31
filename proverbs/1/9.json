@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngokuba wona yisigubhu somusa ekhanda lakho, nezipendule emomonyeni yakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "isigubhu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "somusa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "wona"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "ekhanda lakho"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "nezipendule"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "emomonyeni yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:46:08.332726693Z",
+  "model": "glm-5.3"
+}

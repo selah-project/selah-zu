@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "u-Yosefu wafa, nabo ⟨abakaki abayizingoni: bonke⟩ abafowabo, nabo ⟨abakaki abayizingoni: bonke⟩ bokuqunjelwa kwaleso sikhathi.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "wafa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "u-Yosefu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nabo bonke"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abafowabo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nabo bonke"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "bokuqunjelwa kwaleso sikhathi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leso"
+    }
+  ],
+  "timestamp": "2026-08-31T11:39:42.482679605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 56,
+  "translation": "Ngosuku engisaba, mina kuwe ngithembela.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Ngosuku"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "engisaba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ngithembela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:21.412936428Z",
+  "model": "glm-5.3"
+}

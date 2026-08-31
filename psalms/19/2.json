@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 19:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Amazulu axoxa inkazimulo ka-El, futhi esibeni sezandla zakhe sisazisa iswele.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "Amazulu"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "axoxa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "inkazimulo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka-El"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "futhi esibeni"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "sezandla zakhe"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "sisazisa"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "iswele"
+    }
+  ],
+  "timestamp": "2026-08-31T08:51:48.736590004Z",
+  "model": "glm-5.3"
+}

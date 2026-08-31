@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngihamba ngendlela yokulunga, phakathi kwezindlela zokwahlulela.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "ngendlela"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "yokulunga"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "Ngihamba"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "kwezindlela"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "zokwahlulela"
+    }
+  ],
+  "timestamp": "2026-08-31T08:55:50.404505564Z",
+  "model": "glm-5.3"
+}

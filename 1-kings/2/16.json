@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 2:16",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "“Manje-ke, ikelo elilodwa engilicela kuwe — ungangiphenduli kamva ⟨את⟩ ubuso bami.” Yathi kuye: “Khuluma.”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Manje-ke"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "ikelo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "engi"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "licela"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "kuwe ⟨את⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תשבי",
+      "gloss": "phenduli kamva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "obuso bami"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obuso bami"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Khuluma"
+    }
+  ],
+  "timestamp": "2026-08-31T03:46:38.631252031Z",
+  "model": "glm-5.3"
+}

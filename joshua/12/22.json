@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "inkosi yeKedeshi, eyodwa; inkosi yeYokneami ⟨phansi⟩ koKarmeli, eyodwa;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "inkosi ye-"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iKedeshi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eyodwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi ye-"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "iYokneami"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "koKarmeli"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eyodwa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:53:49.108262185Z",
+  "model": "glm-5.3"
+}

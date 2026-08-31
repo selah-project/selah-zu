@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 21:20",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Kepha uArnan wabuyela emuva, wabona isithunywa; nabantwana bakhe abane ababe naye babhucule — bafihla; yena uArnan wayegayela okusanhlamvu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wabuyela emuva"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "uArnan"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isithunywa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "isithunywa"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "abane"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "nantwana bakhe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ababe naye"
+    },
+    {
+      "surface": "מתחבאים",
+      "gloss": "befihlakele"
+    },
+    {
+      "surface": "וארנן",
+      "gloss": "yena uArnan"
+    },
+    {
+      "surface": "דש",
+      "gloss": "wayegayela"
+    },
+    {
+      "surface": "חטים",
+      "gloss": "okusanhlamvu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:27:15.653045821Z",
+  "model": "glm-5.3"
+}

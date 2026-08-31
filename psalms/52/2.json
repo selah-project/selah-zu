@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 52,
+  "translation": "Ekwenzeni umkhankaso wokufika kukaD—Ekufikeni kukaDoegi i-Edomi, wasitshela uShawuli, wathi kuye: uDawidi ungena endlini kaAhimeleki.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Ekufikeni"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "kukaDoegi"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "i-Edomi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "wasitshela"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ungena"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlini"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "kaAhimeleki"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:25.354783259Z",
+  "model": "glm-5.3"
+}

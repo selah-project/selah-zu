@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 25:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Zonke izindlela zikaYahwe ziyingcwele ngezikhesedi neqiniso kubagcini besivumelwano sakhe nezinkomba zakhe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "izindlela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "zikaYahwe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ngezikhesedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "neqiniso"
+    },
+    {
+      "surface": "לנצרי",
+      "gloss": "kubagcini"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "besivumelwano sakhe"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "nezinkomba zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:52.274062808Z",
+  "model": "glm-5.3"
+}

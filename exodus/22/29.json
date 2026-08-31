@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 22:29",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Ngokufanayo uzokwenza ngenkomo yakho, ngezimvu zakho; izinsuku eziyisikhombisa izohlala ⟨nom⟩ unina; ngosuku lwesishiyagalombili uzoyinika Mina.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Ngokufanayo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzokwenza"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "ngenkomo yakho"
+    },
+    {
+      "surface": "לצאנך",
+      "gloss": "ngezimvu zakho"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "eziyisikhombisa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "izohlala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨nom⟩"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "unina"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "lwesishiyagalombili"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "uzoyinika"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Mina"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:36.241530606Z",
+  "model": "glm-5.3"
+}

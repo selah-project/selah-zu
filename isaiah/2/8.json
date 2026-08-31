@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 2:8",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Umhlaba wabo wazaliswa izithombe ezingeyona lutho; izisebenzi zezandla zabo zipendukela phansi, kokho okwenziwe izintambo zabo.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "wazaliswa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "umhlaba wabo"
+    },
+    {
+      "surface": "אלילים",
+      "gloss": "izithombe ezingeyona lutho"
+    },
+    {
+      "surface": "למעשה",
+      "gloss": "izisebenzi"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "zezandla zabo"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "zipendukela phansi"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "kokho"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "okwenziwe"
+    },
+    {
+      "surface": "אצבעתיו",
+      "gloss": "izintambo zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:15:52.680600033Z",
+  "model": "glm-5.3"
+}

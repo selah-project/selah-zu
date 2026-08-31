@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 26:16",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Mina ngizakwenza lokhu kini: ngizakumisa phezu kwenu ukwesaba kanye nesifo esidalaza nomkhuhlane oboza, okudalaza amehlo futhi okudinisa umphefumulo; niyolima inzala yenu ngeze, izitha zenu ziyoyidla.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "futhi mina"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ngizakwenza"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "והפקדתי",
+      "gloss": "futhi ngizakumisa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "phezu kwenu"
+    },
+    {
+      "surface": "בהלה",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isifo esidalaza"
+    },
+    {
+      "surface": "השחפת",
+      "gloss": "isifo esidalaza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "umkhuhlane"
+    },
+    {
+      "surface": "הקדחת",
+      "gloss": "nomkhuhlane"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "okudalaza"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "amehlo"
+    },
+    {
+      "surface": "ומדיבת",
+      "gloss": "futhi okudinisa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "umphefumulo"
+    },
+    {
+      "surface": "וזרעתם",
+      "gloss": "futhi niyolima"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ngeze"
+    },
+    {
+      "surface": "זרעכם",
+      "gloss": "inzala yenu"
+    },
+    {
+      "surface": "ואכלהו",
+      "gloss": "futhi bayoyidla"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "izitha zenu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:05:57.725830160Z",
+  "model": "glm-5.3"
+}

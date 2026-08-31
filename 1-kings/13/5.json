@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 13:5",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Yaye i-altare yaphukiswa, futhi umlotha wathathelwa phansi e-altareni, njengophawu olwenzayo umuntu ka-uElohim ngelika-uYahwe.",
+  "tokens": [
+    {
+      "surface": "והמזבח",
+      "gloss": "yaye i-altare"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "yaphukiswa"
+    },
+    {
+      "surface": "וישפך",
+      "gloss": "futhi wathathelwa phansi"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "umlotha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "i-altareni"
+    },
+    {
+      "surface": "כמופת",
+      "gloss": "njengophawu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olwenzayo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wanika"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ka-uElohim"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ngelika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:56:09.929077818Z",
+  "model": "glm-5.3"
+}

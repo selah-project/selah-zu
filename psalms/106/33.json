@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 106:33",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Ngokuba bamenza ubukhuni emoyeni wakhe, wakhuluma ngezebe zakhe ngokungalungile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "bamenza ubukhuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umoya wakhe"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "umoya wakhe"
+    },
+    {
+      "surface": "ויבטא",
+      "gloss": "wakhuluma ngokungalungile"
+    },
+    {
+      "surface": "בשפתיו",
+      "gloss": "ngezebe zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:03.301090181Z",
+  "model": "glm-5.3"
+}

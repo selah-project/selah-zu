@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Kwathi ngemva kwalokho, inhliziyo kaDavide yamshaya ngokuba esike ⟨את⟩ icala lehembe elinguShawuli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ngemva"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kwalo kho"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "yamshaya"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku-"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "esike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icala lehembe"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "icala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eli-"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "linguShawuli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:26:11.161188059Z",
+  "model": "glm-5.3"
+}

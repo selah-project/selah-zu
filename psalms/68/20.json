@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 68:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 68,
+  "translation": "Barakiwe u-Adonayi, nsuku zonke usithwalela; u-El yedwa ungumsindisi wethu. Selah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Barakiwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nsuku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "יַעֲמָס",
+      "gloss": "usithwalela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "si-"
+    },
+    {
+      "surface": "האל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "umsindisi wethu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T11:45:13.328545959Z",
+  "model": "glm-5.3"
+}

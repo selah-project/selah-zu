@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 20:16",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Futhi owesifazane osondela kunoma yisiphi isilwane ukuze alale ⟨את⟩ nalo, uyobulala ⟨את⟩ owesifazane no⟨את⟩ isilwane; bobabela bafa ngokufa; igazi labo liyoba kibo.",
+  "tokens": [
+    {
+      "surface": "ואשה",
+      "gloss": "futhi owesifazane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "osondela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "noma yisiphi"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "isilwane"
+    },
+    {
+      "surface": "לרבעה",
+      "gloss": "ukuze alale nalo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nalo"
+    },
+    {
+      "surface": "והרגת",
+      "gloss": "uyobulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "owesifazane"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "owesifazane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "isilwane"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "isilwane"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ngokufa"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bafa"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "igazi labo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kibo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:03:18.333057533Z",
+  "model": "glm-5.3"
+}

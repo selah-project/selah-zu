@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 42:4",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Kodwa uBinyamin umfowakawoYosef, uYaakob akamthumelang nabafowabo, ngoba eshilo ukuthi: Mhlawumbe ungahlangana nomonakalo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uBinyamin"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "uBinyamin"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "umfowakawe"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosef"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akamthumelanga"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "(akamthumelanga)"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nabafowabo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abafowabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "eshilo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "mhlawumbe"
+    },
+    {
+      "surface": "יקראנו",
+      "gloss": "ungahlangana na-"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "umonakalo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:22:30.238776392Z",
+  "model": "glm-5.3"
+}

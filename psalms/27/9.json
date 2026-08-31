@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 27:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Ungafihli ubuso bakho kimi; ungasusi isiguli sakho ngekwaza; wawusisizo sami. Ugangibeki lapho, futhi ungingeki, Elohim wokuzisindisa kwami.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "fihli"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תט",
+      "gloss": "susi"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ngekwaza"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "isiguli sakho"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "usizo lwami"
+    },
+    {
+      "surface": "היית",
+      "gloss": "wawu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תטשני",
+      "gloss": "ngibeki"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi unga"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ngingeki"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "wokuzisindisa kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:16.919375892Z",
+  "model": "glm-5.3"
+}

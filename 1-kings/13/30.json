@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 13:30",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Wayibeka ⟨את⟩ idumbu lakhe engcwabeni lakhe, baze balila ngaye, beathi: “Howu, mnewethu!”",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "wayibeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idumbu lakhe"
+    },
+    {
+      "surface": "נבלתו",
+      "gloss": "idumbu lakhe"
+    },
+    {
+      "surface": "בקברו",
+      "gloss": "engcwabeni lakhe"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "balila ngaye"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ngaye"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "Howu"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mnewethu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:56:13.744331300Z",
+  "model": "glm-5.3"
+}

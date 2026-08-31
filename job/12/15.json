@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 12:15",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Bhezu, ubambele amanzi athome; futhi uzithumela, zizophendukela umhlabeni.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bhezu"
+    },
+    {
+      "surface": "יעצר",
+      "gloss": "ubambele"
+    },
+    {
+      "surface": "במים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "futhi ziyoma"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "futhi uzithumela"
+    },
+    {
+      "surface": "ויהפכו",
+      "gloss": "futhi ziphendukela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T07:13:42.679322368Z",
+  "model": "glm-5.3"
+}

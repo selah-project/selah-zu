@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 10:10",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Bese abantwana bakuIsrayeli bedadiza kuYahwe bethi: Soni ngawe, ngokuba siyeke ⟨את⟩ uElohim wethu, sala sikhonza ⟨את⟩ amaBaali.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "bedadiza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakuIsrayeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bethi"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "Soni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ngawe"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "siyeke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim wethu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "ונעבד",
+      "gloss": "sala sikhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaBaali"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "amaBaali"
+    }
+  ],
+  "timestamp": "2026-08-31T03:04:49.483826773Z",
+  "model": "glm-5.3"
+}

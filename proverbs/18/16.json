@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Isipho somuntu simenza isikhala, simqondisa phambi kwabakhulu.",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "isipho"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "somuntu"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "sibanza isikhala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "abakhulu"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "simqondisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:55:48.628059549Z",
+  "model": "glm-5.3"
+}

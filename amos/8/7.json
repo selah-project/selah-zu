@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 8:7",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "uYahwe uqambisile isifungo ngezikhalo zikaYaakob: Ngingasoze ngikhohliwe unaphakade yiziphi izenzo zabo.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "uqambisile isifungo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בגאון",
+      "gloss": "ngezikhalo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ukaYaakob"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngingasoze"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ngikhohliwe"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "unaphakade"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ziphi"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "izenzo zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:33:38.543716716Z",
+  "model": "glm-5.3"
+}

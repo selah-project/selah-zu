@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 143:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 143,
+  "translation": "Futhi ngezikhesedi zakho ubabulale ababulali bami, uzitshale zonke izitha zinefeshi yami, ngomba ⟨ngoba⟩ mina ngisegendisa yakho.",
+  "tokens": [
+    {
+      "surface": "ובחסדך",
+      "gloss": "Futhi ngezikhesedi zakho"
+    },
+    {
+      "surface": "תצמית",
+      "gloss": "ubabulale"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ababulali bami"
+    },
+    {
+      "surface": "והאבדת",
+      "gloss": "uzitshale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "izitha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "zinefeshi yami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ngisegendisa yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:35.130023624Z",
+  "model": "glm-5.3"
+}

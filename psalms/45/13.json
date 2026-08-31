@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Ndodakazi weTsori uzofika ngenkonzo; abacebileyo basembathweni bazocela ubuso bakho.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "futhi ndodakazi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "iTsori"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "ngenkonzo"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "bazocela"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "abacebileyo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "basembathweni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:05.205209083Z",
+  "model": "glm-5.3"
+}

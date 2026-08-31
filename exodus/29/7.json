@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 29:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Uzothatha ⟨את⟩ amafutha okugcoba, uzowathela ekhanda lakhe, uzomgcoba ⟨את⟩ yena.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "uzothatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amafutha okugcoba"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "okugcoba"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "uzowathela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ekhanda"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "lakhe"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "uzomgcoba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "u-Aharoni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:41:18.653162440Z",
+  "model": "glm-5.3"
+}

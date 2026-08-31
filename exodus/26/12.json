@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 26:12",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi okunye okusele ezikhathini zetheyini zentente, isiqinga sesikhathi esisele, sizohamba phezu kwasemuva komisigido.",
+  "tokens": [
+    {
+      "surface": "וסרח",
+      "gloss": "futhi sizohamba"
+    },
+    {
+      "surface": "העדף",
+      "gloss": "okusele"
+    },
+    {
+      "surface": "ביריעת",
+      "gloss": "ezikhathini zetheyini"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "zentente"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "isiqinga"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "sesikhathi"
+    },
+    {
+      "surface": "העדפת",
+      "gloss": "esisele"
+    },
+    {
+      "surface": "תסרח",
+      "gloss": "sizohamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "asemuva"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "komisigido"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:11.263317257Z",
+  "model": "glm-5.3"
+}

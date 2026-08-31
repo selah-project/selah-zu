@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 4:14",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "UMehonothayi wazala ⟨את⟩ iOfray; futhi uSerayah wazala ⟨את⟩ uYowabu uyise wegwala labasebenzi ngazo zombili izandla, ngoba babengabasebenzi ngazo zombili izandla.",
+  "tokens": [
+    {
+      "surface": "ומעונתי",
+      "gloss": "futhi uMehonothayi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iOfray"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "iOfray"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "futhi uSerayah"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYowabu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYowabu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise we-"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "igwala"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "labasebenzi ngazo zombili izandla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "abasebenyi ngazo zombili izandla"
+    },
+    {
+      "surface": "היו",
+      "gloss": "babengabo"
+    }
+  ],
+  "timestamp": "2026-08-31T09:01:17.396680824Z",
+  "model": "glm-5.3"
+}

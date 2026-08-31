@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 23:15",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "uDavid wafisa, wathi: Ngubani ozongiphuzisa amanzi othini weBeyth-Lechem, osegangeni?",
+  "tokens": [
+    {
+      "surface": "ויתאוה",
+      "gloss": "wafisa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavid"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "ozongiphuzisa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "othini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "we-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Beyth-Lechem"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ose-"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "esigangeni"
+    }
+  ],
+  "timestamp": "2026-08-31T03:45:18.994849957Z",
+  "model": "glm-5.3"
+}

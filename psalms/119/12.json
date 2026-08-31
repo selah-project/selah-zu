@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ubusisekile wena, uYahwe; ngifundise izimiso zakho.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ubusisekile"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ngifundise"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "izimiso zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:36.932967163Z",
+  "model": "glm-5.3"
+}

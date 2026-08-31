@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Kwathi ekupheleni kwezinsuku, nanhe yomile, ngokuba bewungekho umvula emhlabeni.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwensuku"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "yomile"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "inanhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "be-"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wungekho"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "umvula"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:06:22.109616051Z",
+  "model": "glm-5.3"
+}

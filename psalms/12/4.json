@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Asibe uYahwe zonke izindebe ezilumbatheza, ulwimi olukhuluma izinto ezinkulu.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "Asibe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "izindebe"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "ezilumbatheza"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ulwimi"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "olukhuluma"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "izinto ezinkulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:52.917844766Z",
+  "model": "glm-5.3"
+}

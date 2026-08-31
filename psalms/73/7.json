@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 73:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Izimoto zabo ziphuma kulolu hlaza, izinto ezibonwayo zentliziyo zidlula konke.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "ziphuma"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "kulolu hlaza"
+    },
+    {
+      "surface": "עינמו",
+      "gloss": "izimoto zabo"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "zidlula"
+    },
+    {
+      "surface": "משכיות",
+      "gloss": "izinto ezibonwayo"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "zentliziyo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:03.991877796Z",
+  "model": "glm-5.3"
+}

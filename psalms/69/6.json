@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 69:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "uElohim, wena uyayazi ubuwula bami, nomacala ami awafihlekile kuwe.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "uyayazi"
+    },
+    {
+      "surface": "לאולתי",
+      "gloss": "ubuwula bami"
+    },
+    {
+      "surface": "ואשמותי",
+      "gloss": "nomacala ami"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awa-"
+    },
+    {
+      "surface": "נכחדו",
+      "gloss": "fihlekile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:14.598549565Z",
+  "model": "glm-5.3"
+}

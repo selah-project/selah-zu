@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Ngaphandle kwezinkuni zokushiswa zasekuseni, okuyizo eziyisinkuni zokushiswa zesisindo, nizokwenza ⟨את⟩ lezi.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "ngaphandle kwe-"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "inkuni yokushiswa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "asekuseni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okuyi-"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "inkuni yokushiswa ye-"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "esisindo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "nizokwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lezi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "lezi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:16:11.786596880Z",
+  "model": "glm-5.3"
+}

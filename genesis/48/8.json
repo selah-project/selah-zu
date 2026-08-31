@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 48,
+  "translation": "Futhi u-Israyeli wabona ⟨את⟩ amadodana kaYosefu, wase ethi: Le ngobani?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israyeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadodana kaYosefu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "kaYosefu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wase ethi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Le"
+    }
+  ],
+  "timestamp": "2026-08-31T01:24:45.247875177Z",
+  "model": "glm-5.3"
+}

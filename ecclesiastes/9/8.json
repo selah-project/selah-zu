@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Zonke izikhathi impahla yakho ibe mhlophe, futhi amafutha avela ekhanda lakho angangenwa yintuli ⟨ayekile⟩.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "עת",
+      "gloss": "izikhathi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "impahla yakho"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "mhlophe"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "futhi amafutha"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ekhanda lakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musi\/angangenwe"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "yintuli\/aphungeke"
+    }
+  ],
+  "timestamp": "2026-08-31T07:49:01.602742645Z",
+  "model": "glm-5.3"
+}

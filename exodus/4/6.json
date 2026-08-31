@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 4:6",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "ULYahwe wathi kuyena futhi: Genisa ngesandla sakho esifubeni lwakho. Wafaka isandla sakhe esifubeni lwakhe, wasikhhipha, bheka, isandla sakhe sasinentshele efana neqala.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "Genisa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngesandla (isicelo esithi \"nxa\")"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "esifubeni lwakho"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "Wafaka"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "esifubeni lwakhe"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "wasikhhipha"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "מצרעת",
+      "gloss": "sasinentshele"
+    },
+    {
+      "surface": "כשלג",
+      "gloss": "efana neqala"
+    }
+  ],
+  "timestamp": "2026-08-31T01:28:25.208578168Z",
+  "model": "glm-5.3"
+}

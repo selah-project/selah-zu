@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 3:1",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi umfana uShemueli wayekhonza ⟨את⟩ uYahwe phambi kuka-Eli, futhi izwi likaYahwe lalingatholakali kalula ezinsukwini ezayo; bekungekho okubonwayo okuphukile.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "futhi umfana"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemueli"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "wayekhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "u-Eli"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "futhi izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "lali"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "lingatholakali kalula"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ezinsukwini"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ezayo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "bekungekho"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "okubonwayo"
+    },
+    {
+      "surface": "נפרץ",
+      "gloss": "okuphukile"
+    }
+  ],
+  "timestamp": "2026-08-31T03:15:15.869140808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Nomsulwa uzibonakalisa ngokumsulwa; nendoda eqambekile uyazigedgedzela.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "omsulwa"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "uzibonakalisa ngokumsulwa"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "futhi no-"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "eqambekile"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "uyazigedgedzela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:59.523059804Z",
+  "model": "glm-5.3"
+}

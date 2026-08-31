@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Inkosi yanweba u-Estere ⟨את⟩ induku yegolide, u-Estere wavuka wama phambi kwenkosi.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "yanweba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "u-Estere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "induku yegolide"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "induku yobukhosi"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "yegolide"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "wavuka"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "u-Estere"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "wama"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:54:28.682409183Z",
+  "model": "glm-5.3"
+}

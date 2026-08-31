@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 83:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 83,
+  "translation": "Ngokuba bhekisisa, izitha zakho ziyakhala ngokukhala okukhulu, labazondayo bakhoiph' amaqhaza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bhekisisa"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "izitha zakho"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "ziyakhala ngokukhala okukhulu"
+    },
+    {
+      "surface": "ומשנאיך",
+      "gloss": "labazondayo bakho"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "bakhoiph'"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "amaqhaza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:46.853722975Z",
+  "model": "glm-5.3"
+}

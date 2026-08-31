@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 15:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Umdwebo kaDavide. uYahwe, ngubani ozoza ngendlu yakho yesibusiso? ngubani ophumela eNtabeni ingcwele yakho?",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Umdwebo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ozoza"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "ngendlu yakho yesibusiso"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ophumela"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "eNtabeni"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "ingcwele yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T08:51:45.423397406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 6:4",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Abalala emabhedeni ezinso zezinkonyane, basabalala emacansini abo, badla izimvu ezinkulu ezivikweni, namankonyane asendlunkulu yenkomo;",
+  "tokens": [
+    {
+      "surface": "השכבים",
+      "gloss": "Abalala"
+    },
+    {
+      "surface": "על",
+      "gloss": "ema-"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "bhedeni"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ezinso zezinkonyane ⟨ivory⟩"
+    },
+    {
+      "surface": "וסרחים",
+      "gloss": "basabalala"
+    },
+    {
+      "surface": "על",
+      "gloss": "ema-"
+    },
+    {
+      "surface": "ערשותם",
+      "gloss": "cansini abo"
+    },
+    {
+      "surface": "ואכלים",
+      "gloss": "badla"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "izimvu ezinkulu"
+    },
+    {
+      "surface": "מצאן",
+      "gloss": "ezivikweni"
+    },
+    {
+      "surface": "ועגלים",
+      "gloss": "namankonyane"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "asendlunkulu"
+    },
+    {
+      "surface": "מרבק",
+      "gloss": "yenkomo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:33:30.473723622Z",
+  "model": "glm-5.3"
+}

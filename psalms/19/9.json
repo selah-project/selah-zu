@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 19:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Izinhlelo zikaYahwe zilungile, ziyajabulisa inhliziyo; umyalo kaYahwe umhle, uwukhanyisa amehlu.",
+  "tokens": [
+    {
+      "surface": "פקודי",
+      "gloss": "izinhlelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "zilungile"
+    },
+    {
+      "surface": "משמחי",
+      "gloss": "ziyajabulisa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "umyalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "umhle"
+    },
+    {
+      "surface": "מאירת",
+      "gloss": "uwukhanyisa"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "amehlu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:16.041881656Z",
+  "model": "glm-5.3"
+}

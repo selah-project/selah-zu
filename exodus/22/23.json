@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 22:23",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Futhi kulwaka usizi lwami, ngiyobulala ngekhanda ⟨את⟩ ngekhanda elikhulu, futhi abafazi benu bayoba ngabafelokazi, izingane zenu zibe ngentandane.",
+  "tokens": [
+    {
+      "surface": "וחרה",
+      "gloss": "kulwaka"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "usizi lwami"
+    },
+    {
+      "surface": "והרגתי",
+      "gloss": "ngiyobulala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ngekhanda"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "bayoba"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "abafazi benu"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "ngabafelokazi"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "izingane zenu"
+    },
+    {
+      "surface": "יתמים",
+      "gloss": "ngentandane"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:01.463745414Z",
+  "model": "glm-5.3"
+}

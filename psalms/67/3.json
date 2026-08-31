@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 67,
+  "translation": "Ukuze kwaziwe emhlabeni indlela yakho, kuzo zonke izizwe insindiso yakho.",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "Ukuze kwaziwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "indlela yakho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuzo"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "zonke izizwe"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "insindiso yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:44.448837547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 12:12",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Kuzokwenzeka ukuthi lapho abantu baseMitsrayim bebona ⟨את⟩ wena, bazothi: Lo ngumfazi wakhe; bazongibulala ⟨את⟩ mina, baze ⟨את⟩ wena bakugcina uphila.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Kuzokwenzeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bebona"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wena",
+      "marks": "wena"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "abantu baseMitsrayim"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "bazothi"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ngumfazi wakhe"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Lo"
+    },
+    {
+      "surface": "והרגו",
+      "gloss": "bazongibulala"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mina",
+      "marks": "mina"
+    },
+    {
+      "surface": "ואתך",
+      "gloss": "⟨את⟩ futhi wena",
+      "marks": "wena"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "bakugcina uphila"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:44.877801084Z",
+  "model": "glm-5.3"
+}

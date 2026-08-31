@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 7:29",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi amasele azakukhwelela kuwe, nakubantu bakho, nakwonke izinceku zakho.",
+  "tokens": [
+    {
+      "surface": "ובכה",
+      "gloss": "futhi kuwe"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "nakubantu bakho"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "nakwonke"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "izinceku zakho"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "azakukhwelela"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "amasele"
+    }
+  ],
+  "timestamp": "2026-08-31T01:29:35.107643220Z",
+  "model": "glm-5.3"
+}

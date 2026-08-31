@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Ama-elsi ayishumi ubude bopulangi, ne-ama ema-elsi nesigamu sobukhulu bepulangi elilodwa.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ayishumi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama-elsi"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ubude"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "bopulangi"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ne-ama ema-elsi"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "nesigamu"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "se-ama ema-elsi"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "sobukhulu"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "bepulangi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "elilodwa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:48.305492982Z",
+  "model": "glm-5.3"
+}

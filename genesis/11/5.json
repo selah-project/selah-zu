@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Wase wehla uYahwe ukubona ⟨את⟩ idolobha no-⟨את⟩ ithafula, okwakhiwe yizingane zabantu.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "wase wehla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idolobha"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "idolobha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "ithafula"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "ithafula"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "okwakhiwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yizingane"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "zabantu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:44.729005789Z",
+  "model": "glm-5.3"
+}

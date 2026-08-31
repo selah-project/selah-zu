@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 86:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 86,
+  "translation": "Phendukela kimi, ungisize ngomusa; nikeza amandla akho isebedla lakho, lusulele indodana yensebeli yakho.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "Phendukela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ungisize ngomusa"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "nikeza"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "amandla akho"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "isebedla lakho"
+    },
+    {
+      "surface": "והושיעה",
+      "gloss": "lusulele"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "yensebeli yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:40.016462447Z",
+  "model": "glm-5.3"
+}

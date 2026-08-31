@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "I-Aramu yabona ukuthi icushuliwe phambi kuka-Israeli, yaqoqana ndawonye.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "i-Aramu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "icushuliwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kuka-Israeli"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "yaqoqana"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ndawonye"
+    }
+  ],
+  "timestamp": "2026-08-31T03:37:11.347825724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Kwathi ekuseni uDawidi wabhala incwadi eya kuYoavu, wayithumela ngesandla sikaUriya.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "wabhala"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "incwadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eya ku-"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYoavu"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wayithumela"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla sa-"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "uUriya"
+    }
+  ],
+  "timestamp": "2026-08-31T03:36:55.337398273Z",
+  "model": "glm-5.3"
+}

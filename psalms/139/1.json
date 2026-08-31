@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 139:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 139,
+  "translation": "Kumqondisi. Indandatho kaDavide. uYahwe, ungihlolyile futhi ⟨ungi⟩yazi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "indandatho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "חקרתני",
+      "gloss": "ungihlolyile"
+    },
+    {
+      "surface": "ותדע",
+      "gloss": "futhi ungiyazi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:42.189146660Z",
+  "model": "glm-5.3"
+}

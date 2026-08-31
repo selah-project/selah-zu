@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Bese behamba behashi eTsalmora, bahlala eFunoni.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "bese behamba behashi"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "eTsalmora"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "bahlala"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "eFunoni"
+    }
+  ],
+  "timestamp": "2026-08-31T02:27:52.759019033Z",
+  "model": "glm-5.3"
+}

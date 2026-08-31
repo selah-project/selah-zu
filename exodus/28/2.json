@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 28:2",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Futhi wenzela u-Aharon umfowenu izingubo ezingcwele, ngenkazimulo nangobuhle.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "wenzela"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "izingubo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ezingcwele"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "umfowenu"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "ngenkazimulo"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "nangobuhle"
+    }
+  ],
+  "timestamp": "2026-08-31T01:40:50.687677392Z",
+  "model": "glm-5.3"
+}

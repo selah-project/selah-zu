@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Umhlaba wavuleka wamunca uDathani, wabamboza ihlelo laka-Abhiramu.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "wavuleka"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "wamunca"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "uDathani"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "wabamboza"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ihlelo"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "ka-Abhiramu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:31.366636643Z",
+  "model": "glm-5.3"
+}

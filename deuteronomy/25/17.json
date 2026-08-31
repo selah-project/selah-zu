@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Khumbula ⟨את⟩ lokhu u-Amaleki awukwenzela khona endleleni, ekuphumeni kwenu eMitsrayim.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Khumbula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "awukwenzela khona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "u-Amaleki"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "ekuphumeni kwenu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T02:42:08.595599355Z",
+  "model": "glm-5.3"
+}

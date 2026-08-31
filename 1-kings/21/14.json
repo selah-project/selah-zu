@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 21:14",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Bathumela ku-Ishebhele bathi: uNabothi omnqiwe ngamatshe, wasweleka.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "bathumela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Ishebhele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "סקל",
+      "gloss": "omnqiwe ngamatshe"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "uNabothi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wasweleka"
+    }
+  ],
+  "timestamp": "2026-08-31T04:00:53.008494925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 56:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 56,
+  "translation": "Kumqondisi, ngejezi elithulileyo elikude. Isihlabelo sikaDavide, umikhathamu, ekubambeni kwamaFilishti ⟨את⟩ eGathi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "יונת",
+      "gloss": "ijezi"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "elithulileyo"
+    },
+    {
+      "surface": "רחקים",
+      "gloss": "elikude"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "umikhathamu"
+    },
+    {
+      "surface": "באחז",
+      "gloss": "ekubambeni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "amaFilishti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaFilishti"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "eGathi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:08.286520930Z",
+  "model": "glm-5.3"
+}

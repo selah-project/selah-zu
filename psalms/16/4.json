@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 16:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Izinsizi zabo ziyaqiniswa kubalwelwa; akuzokhululwa izipho zabo zegazi, futhi amagama abo angeke ngiwaphakamise ⟨את⟩ emlonyeni wami.",
+  "tokens": [
+    {
+      "surface": "ירבו",
+      "gloss": "ziyaqiniswa"
+    },
+    {
+      "surface": "עצבותם",
+      "gloss": "izinsizi zabo"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "kwezinye"
+    },
+    {
+      "surface": "מהרו",
+      "gloss": "balahle kakhulu"
+    },
+    {
+      "surface": "בל",
+      "gloss": "akuzokhululwa"
+    },
+    {
+      "surface": "אסיך",
+      "gloss": "ngezipho zami zensizi"
+    },
+    {
+      "surface": "נסכיהם",
+      "gloss": "izipho zabo zensizi"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "zokopha"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "futhi angeke"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ngiphakamise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagama abo"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "amagama abo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "kwezindebe zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:43.139427623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 33:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Ukubasindisa umphefumelo wabo ekufeni, nokubaphilisa esindlweni.",
+  "tokens": [
+    {
+      "surface": "להציל",
+      "gloss": "Ukubasindisa"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ekufeni"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "umphefumelo wabo"
+    },
+    {
+      "surface": "ולחיותם",
+      "gloss": "nokubaphilisa"
+    },
+    {
+      "surface": "ברעב",
+      "gloss": "esindlweni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:59.533286293Z",
+  "model": "glm-5.3"
+}

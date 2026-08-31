@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 2:17",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Wathi: Khuluma, ngiyakucela, kuShelomohi inkosi, ngokuba ngeke aphendule ⟨את⟩ ubuso bakho, futhi anginike ⟨את⟩ u-Abishagi iShunamithi ukuba yinkosikazi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "khuluma"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngiyakucela"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kuShelomohi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "aphendule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bakho"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "anginike"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Abishagi"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "u-Abishagi"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "iShunamithi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ukuba yinkosikazi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:22:03.242954127Z",
+  "model": "glm-5.3"
+}

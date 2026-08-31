@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 13:20",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Wafa u-Elisha, bamlahla emathuneni. Amabutho kaMowabhi wayengena ⟨ohlangathini⟩ enyakeni eqala umkhombe wayo.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "wafa"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "u-Elisha"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "bamlahla emathuneni"
+    },
+    {
+      "surface": "וגדודי",
+      "gloss": "amabutho"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "kaMowabhi"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "wayengena"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ohlangathini ⟨emhlabeni⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ngasekuqaleni"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "enyakeni"
+    }
+  ],
+  "timestamp": "2026-08-31T04:10:23.092737255Z",
+  "model": "glm-5.3"
+}

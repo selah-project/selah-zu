@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 18:10",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "futhi lenze okubi emehlweni ami, ingalaleli izwi lami, bese ngiguqula umqondo ngokuhle engakuthembisa ukukulungisa ⟨את⟩ yena.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "futhi lenze"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni ami"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ingalaleli"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ukulalela"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "izwi lami"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "bese ngiguqula umqondo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokuhle"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "lokulungile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engaku-"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "kuthembisa"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "ukukulungisa"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "yena (isizwe\/sizwe lesi)"
+    }
+  ],
+  "timestamp": "2026-08-31T04:46:51.356429903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 12:15",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi uma ningalaleli izwi likaYahwe, niphikisa ⟨את⟩ mlomo kaYahwe, isandla sikaYahwe sizoba kunina nakubaba benu.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "futhi uma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ningalaleli"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ningalaleli"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "niphikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mlomo kaYahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mlomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "sizoba"
+    },
+    {
+      "surface": "יד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kunina"
+    },
+    {
+      "surface": "ובאבתיכם",
+      "gloss": "nakubaba benu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:18:52.625372365Z",
+  "model": "glm-5.3"
+}

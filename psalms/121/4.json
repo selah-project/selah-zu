@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 121,
+  "translation": "Bheka, akancoti futhi angelali, umgcini ka-Israyeli.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aka-"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ncoti"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi ange-"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "lali"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "umgcini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:18.363569610Z",
+  "model": "glm-5.3"
+}

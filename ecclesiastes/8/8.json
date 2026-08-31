@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 8:8",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Akukho muntu onamandla phezu komoya ukubamba ⟨את⟩ umoya; futhi awukho ubukhosi ngosuku lokufa; futhi akukho ukukhululwa embuwaneni; futhi ububi angeke budonse ⟨את⟩ umnikazi waso.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "muntu"
+    },
+    {
+      "surface": "שליט",
+      "gloss": "onamandla"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "phezu komoya"
+    },
+    {
+      "surface": "לכלוא",
+      "gloss": "ukubamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umoya"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi akukho"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "ubukhosi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "המות",
+      "gloss": "lokufa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi akukho"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "ukukhululwa"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "embuwaneni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi angeke"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "budonse"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnikazi waso"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "umnikazi waso"
+    }
+  ],
+  "timestamp": "2026-08-31T07:48:01.139207934Z",
+  "model": "glm-5.3"
+}

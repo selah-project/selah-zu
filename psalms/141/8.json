@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 141:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 141,
+  "translation": "Ngoba amehlo ami abheke kuwe, uYahwe, u-Adonayi; ngithemba kuwe; ungabi nangokudalulwa komphefumulo wami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo ami"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ngithemba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "תער",
+      "gloss": "ukudalulwa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "omphefumulo wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:28.938546276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 12:8",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Nganikeza ⟨את⟩ indlu yenkosikazi yakho? Cha: nganikeza ⟨את⟩ indlu yenkosi yakho, futhi ⟨את⟩ izingane zensizwa zakho esifubeni sakho; nganikeza ⟨את⟩ indlu ka-Israyeli noYehuda; uma kungadingekile, futhi ngizongenekela njalonjalo.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "nganikeza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yenkosi yakho"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "yenkosi yakho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "izingane zensizwa zakho"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "izingane zensizwa"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "zensizwa yakho"
+    },
+    {
+      "surface": "בחיקך",
+      "gloss": "esifubeni sakho"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "nganikeza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu ka-Israyeli"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israyeli"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "noYehuda"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kungadingekile"
+    },
+    {
+      "surface": "ואספה",
+      "gloss": "futhi ngizongenekela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "we"
+    },
+    {
+      "surface": "כהנה",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "וכהנה",
+      "gloss": "njalo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:37:53.835936831Z",
+  "model": "glm-5.3"
+}

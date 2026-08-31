@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 17:32",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "UDavide wathi kuShawuli: Musa ukuthi inhliziyo yomuntu iwile ngaye; inkonzo yakho iyo ilwe noMfelishiti lo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ukuthi iwile"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yomuntu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ngaye"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "inkonzo yakho"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "iyo"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "ilwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "uMfelishiti"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:23:26.419153492Z",
+  "model": "glm-5.3"
+}

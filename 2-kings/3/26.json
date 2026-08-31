@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 3:26",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Inkosi yeMowabu yabona ukuthi impi yaba namandla kune; wathatha ⟨את⟩ amadoda angamakhulu ayisikhombisa ezokukhokhelisa amasilizi, ukuphula indlela eya kuyinkosi yeEdomu, kodwa abengakwazi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "yeMowabu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "yaba namandla"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kune"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "impi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "amadoda angamakhulu ayisikhombisa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ayisikhombisa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "ezokukhokhelisa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "amasilizi"
+    },
+    {
+      "surface": "להבקיע",
+      "gloss": "ukuphula indlela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kuyinkosi"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "yeEdomu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "abengakwazi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:04:33.384844115Z",
+  "model": "glm-5.3"
+}

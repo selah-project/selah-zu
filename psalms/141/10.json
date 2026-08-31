@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 141,
+  "translation": "Abehlakazekile bawele emibameni yabo bobungebhuni; mina ngizawela ukuze ngidlule.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "Awele"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "emibameni yabo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abehlakazekile bobungebhuni"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "bonke bodwa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "ngidlule"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:55.187470007Z",
+  "model": "glm-5.3"
+}

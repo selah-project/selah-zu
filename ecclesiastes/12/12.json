@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi ngaphezu kwalezo, ndodana yami, qaphela: ukwenza izincwadi eziningi akunampela, nokukhuluma kakhulu kuyadinisa inyama.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "futhi ngaphezu"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "kwalezo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ndodana yami"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "qaphela"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "izincwadi"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "eziningi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akun"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "ampela"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "nokukhuluma"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "kuyadinisa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    }
+  ],
+  "timestamp": "2026-08-31T07:50:18.707910635Z",
+  "model": "glm-5.3"
+}

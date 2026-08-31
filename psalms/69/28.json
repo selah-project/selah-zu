@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 69:28",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Faka icala phezu kwecala labo, futhi bangangeni kokulungile kwakho.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "faka"
+    },
+    {
+      "surface": "עון",
+      "gloss": "icala"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "icala labo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi banga-"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ngeni"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "kokulungile kwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:37.581359060Z",
+  "model": "glm-5.3"
+}

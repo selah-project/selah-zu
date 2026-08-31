@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 20:16",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Thatha ingubo yakhe, ngokuba wenzela owesizwe esingelasizwe isibambiso; futhi ngenxa yabohlwa abasiwo abakubo, thatha isithombo sakhe.",
+  "tokens": [
+    {
+      "surface": "לקח",
+      "gloss": "thatha"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "ingubo yakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "wenzela isibambiso"
+    },
+    {
+      "surface": "זר",
+      "gloss": "owesizwe esingelasizwe"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "ngenxa ya"
+    },
+    {
+      "surface": "נכרים",
+      "gloss": "abohlwa abasiwo abakubo"
+    },
+    {
+      "surface": "חבלהו",
+      "gloss": "thatha isithombo sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:58:54.617794185Z",
+  "model": "glm-5.3"
+}

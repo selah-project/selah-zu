@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Futhi abantwana bakwa-Israyeli bayenze ⟨את⟩ iPasika esikhathini sayo esinqunyiwe.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Futhi bayenze"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iPasika"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "iPasika"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "esikhathini sayo esinqunyiwe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:13:50.796671335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 15:3",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "⟨את⟩ injoyi uzoyikhokhelisa; kodwa lokho okuzoba kukho lawe, ⟨את⟩ umfowenu isandla sakho sizosisusa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "injoyi"
+    },
+    {
+      "surface": "הנכרי",
+      "gloss": "injoyi"
+    },
+    {
+      "surface": "תגש",
+      "gloss": "uzoyikhokhelisa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kodwa lokho oku-"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "zoba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kukho lawe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfowenu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "umfowenu"
+    },
+    {
+      "surface": "תשמט",
+      "gloss": "sizosisusa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    }
+  ],
+  "timestamp": "2026-08-31T10:17:33.970352152Z",
+  "model": "glm-5.3"
+}

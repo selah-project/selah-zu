@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 115,
+  "translation": "Awekho abafi ababiza udumo bukaYah, noma nalabo abehla endlweni yokuzwakalayo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Awekho"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "abafi"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ababiza udumo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kaYah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "noma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nalabo bonke"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "abehla"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "endlweni yokuzwakalayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:08.398207246Z",
+  "model": "glm-5.3"
+}

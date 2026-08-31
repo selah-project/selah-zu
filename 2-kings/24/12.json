@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 24:12",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "WAYEphuma uYehoyakhini, inkosi yakwaYehuda, eya enkosi yaseBhabheli — yena nomama wakhe nezinceku zakhe noziphathi zakhe nabakhuphukisi bakhe; wayemthatha ⟨את⟩ inkosi yaseBhabheli, ngomnyaka wesishiyagalombili wobukhosi bakhe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "wayephuma"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "uYehoyakhini"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yakwaYehuda"
+    },
+    {
+      "surface": "על",
+      "gloss": "eya ku-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "enkosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "yaseBhabheli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "nomama wakhe"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "nezinceku zakhe"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "noziphathi zakhe"
+    },
+    {
+      "surface": "וסריסיו",
+      "gloss": "nabakhuphukisi bakhe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wayemthatha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (uYehoyakhini)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "yaseBhabheli"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "ngomnyaka"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "wesishiyagalombili"
+    },
+    {
+      "surface": "למלכו",
+      "gloss": "wobukhosi bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:51:22.741474984Z",
+  "model": "glm-5.3"
+}

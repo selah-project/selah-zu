@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 55,
+  "translation": "Ekungcwele nasekuseni nanasemini ngizophawula futhi ngizakhala, wayezwa izwi lami.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Ekungcwele"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "nasekuseni"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "nanasemini"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ngizophawula"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "futhi ngizakhala"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "wayezwa"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "izwi lami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:53.584877284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 20:21",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Ifa elitholwa ngokushesha ekuqaleni; ukuphela kwalo akuzukubusisiwa.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "מבחלת",
+      "gloss": "elitholwa ngokushesha"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "ekuqaleni"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "ukuphela kwalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akuzu-"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "kubusisiwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:57:16.080962002Z",
+  "model": "glm-5.3"
+}

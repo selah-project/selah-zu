@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 18:3",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Njengomsebenzi wezwe laseMitsrayim enihlala kuwo, aniwenzi; njengomsebenzi wezwe laseKanana enginigenisa ⟨khona⟩ ⟨את⟩, aniwenzi; futhi emasikweni abo anihambi.",
+  "tokens": [
+    {
+      "surface": "כמעשה",
+      "gloss": "Njengomsebenzi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "wezwe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ena-"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "nihlala"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani-"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "wenzi"
+    },
+    {
+      "surface": "וכמעשה",
+      "gloss": "futhi njengomsebenzi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "wezwe"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "laseKanana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "nigenisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "khona (nikwenzile zonke lezi)"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "khona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani-"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "wenzi"
+    },
+    {
+      "surface": "ובחקתיהם",
+      "gloss": "futhi emasikweni abo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani-"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "hambi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:59:22.955094805Z",
+  "model": "glm-5.3"
+}

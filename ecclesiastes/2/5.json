@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ngazenzela izivande namapardesi, futhi ngahlalahlaza kuzo izihlahla zonke izithelo.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Ngazenzela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "izivande"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "namapardesi"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "futhi ngahlalahlaza"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuzo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "izihlahla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "izithelo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:45:24.351991843Z",
+  "model": "glm-5.3"
+}

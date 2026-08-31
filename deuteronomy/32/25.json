@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Ngaphandle inkemba izokhishela izingane, futhi ngaphakathi emakamelo ukwesaba; noninsizwa nonntombazana engakashadi, umntwana ochitha ubisi kanye nomuntu osegugeni.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "izokhishela izingane"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "inkemba"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "futhi emakamelo"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "insizwa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "ntombazana engakashadi"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "umntwana ochitha ubisi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanye no-"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "osegugeni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:01:48.233146421Z",
+  "model": "glm-5.3"
+}

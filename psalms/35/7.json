@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Ngoba amahhala bafihla ngi isibaya, iniwe yabo, amahhala bakhowuda umphefumelo wami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngoba"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "amahhala"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "bafihla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngi"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "isibaya"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "iniwe yabo"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "amahhala"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "bakhowuda"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "umphefumelo wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:59.035016925Z",
+  "model": "glm-5.3"
+}

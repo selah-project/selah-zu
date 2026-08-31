@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 21:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Ngoba uzobenza ukuthi babeluke ngesinquma, ngezintambo zakho zebhosi uzolungiselela ebubanzweni babo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "תשיתמו",
+      "gloss": "uzobenza ukuthi babeluke"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "ngesinquma"
+    },
+    {
+      "surface": "במיתריך",
+      "gloss": "ngezintambo zakho zebhosi"
+    },
+    {
+      "surface": "תכונן",
+      "gloss": "uzolungiselela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ebubanzweni"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "babo"
+    }
+  ],
+  "timestamp": "2026-08-31T11:45:01.552880496Z",
+  "model": "glm-5.3"
+}

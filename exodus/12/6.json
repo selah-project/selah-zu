@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 12:6",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi kuyoba yisilondolozi kuqala ngeyishumi nane yalo nyanga, futhiyoze umhlangano wonke wumphakathi kaIsrayeli alahle ⟨את⟩ phakathi kwezikhathi zokushona kwelanga.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "futhi kuyoba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuqala (nikuqala)"
+    },
+    {
+      "surface": "למשמרת",
+      "gloss": "njengesilondolozi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yoze"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ne- (eyishumi nane)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ishumi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "yalo nyanga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le (lona)"
+    },
+    {
+      "surface": "ושחטו",
+      "gloss": "futhi alahle"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "umhlangano wonke wumphakathi kaIsrayeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "umhlangano"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "wumphakathi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaIsrayeli"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwe-"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "zikhathi zokushona kwelanga"
+    }
+  ],
+  "timestamp": "2026-08-31T10:52:48.764782695Z",
+  "model": "glm-5.3"
+}

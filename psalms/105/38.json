@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 105:38",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "iMitsrayim yajabula ekushayweni kwabo, ngokuba ukwesaba kwabo kwawe phezu kwawo.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "yajabula"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "ekushayweni kwabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "kwawe"
+    },
+    {
+      "surface": "פחדם",
+      "gloss": "ukwesaba kwabo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "phezu kwawo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:23.227135457Z",
+  "model": "glm-5.3"
+}

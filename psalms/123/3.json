@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 123:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 123,
+  "translation": "Sisize, Yahwe, sisize, ngoba sizolisile ishlengo esiningi.",
+  "tokens": [
+    {
+      "surface": "חננו",
+      "gloss": "sisize"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "sisize"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "רב",
+      "gloss": "esiningi kakhulu"
+    },
+    {
+      "surface": "שבענו",
+      "gloss": "sizolisile"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "ishlengo (isiphoxo)"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:26.355781898Z",
+  "model": "glm-5.3"
+}

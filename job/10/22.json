@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 10:22",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "izwe lobumnyama obunzulu, njengobumnyama obugcwele, isithunzi-sokufa, ngaphandle kokuthi kube khona uhhlelo, futhi okukhanyayo kul njengobumnyama obunzulu.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "עיפתה",
+      "gloss": "lobumnyama obunzulu"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenga-"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "obumnyama obugcwele"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "isithunzi-sokufa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngaphandle kokuthi kube khona"
+    },
+    {
+      "surface": "סדרים",
+      "gloss": "uhhlelo"
+    },
+    {
+      "surface": "ותפע",
+      "gloss": "futhi okukhanyayo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kul njenga-"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "obumnyama obunzulu"
+    }
+  ],
+  "timestamp": "2026-08-31T07:12:10.427587587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 81,
+  "translation": "Nisidlidelengeleni umhlaba-ovela ngenyanga, ngothusi, ngosuku lomkhosi wethu.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "Nisidlidelengeleni"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ngomhlaba-ovela ngenyanga"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "uthusi"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "ngothusi"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "lomkhosi wethu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:50.164812056Z",
+  "model": "glm-5.3"
+}

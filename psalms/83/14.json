@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 83,
+  "translation": "u-Elohayi wami, babeka njengengulube eguqaguay—njengomswakama phambi komoya.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "u-Elohayi wami"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "babeka njengengulube eguqaguay"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "njengengulube eguqaguay"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "njengomswakama"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:53.821384040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 37:2",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Wayesethumela u-Elkiyamu owayephezulu kendlu, noShebna umbhali, nezelamuni zamapristi, bonke bezingcabhle ngeziphunyana, kuyena uYeshaYahu indodana ka-Amotsi, mphrofethi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wayesethumela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Elkiyamu"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "u-Elkiyamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ophethe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezulu kwa-"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kendlu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uShebna"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "uShebna"
+    },
+    {
+      "surface": "הסופר",
+      "gloss": "umbhali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izelamuni zamapristi"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "izelamuni"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "zamapristi"
+    },
+    {
+      "surface": "מתכסים",
+      "gloss": "bezingcabhle"
+    },
+    {
+      "surface": "בשקים",
+      "gloss": "ngeziphunyana"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "uYeshaYahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "u-Amotsi"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "mphrofethi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:28:57.102130423Z",
+  "model": "glm-5.3"
+}

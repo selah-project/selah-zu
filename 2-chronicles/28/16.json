@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Ngeso sikhathi inkosi u-Akhazi yathumela kumakhosi ase-Ashuri ukuze bamsize yena.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ngeso sikhathi"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ngeso"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "yathumela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "u-Akhazi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "makhosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ase-Ashuri"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "ukuze bamsize"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T08:43:40.225230666Z",
+  "model": "glm-5.3"
+}

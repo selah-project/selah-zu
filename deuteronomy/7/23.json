@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 7:23",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi uYahwe uElohim wakho uzobanikela phambi kwakho, abakhubaze ngukhubazeko olukhulu kuze kubhelale onakele ngokuphelele.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "uzobanikela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "והמם",
+      "gloss": "abakhubaze"
+    },
+    {
+      "surface": "מהומה",
+      "gloss": "ngukhubazeko"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "olukhulu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "השמדם",
+      "gloss": "kubhelale onakele ngokuphelele"
+    }
+  ],
+  "timestamp": "2026-08-31T02:33:24.600284602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 21:8",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Ingwane yakhula yanqunywa amabele; u-Avraham wenza umrhanelo omkhulu ngosulu lokunqunywa kwamabele ⟨את⟩ uYitschak.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "yakhula"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "Ingwane"
+    },
+    {
+      "surface": "ויגמל",
+      "gloss": "yanqunywa amabele"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "umrhanelo"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "omkhulu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosulu"
+    },
+    {
+      "surface": "הגמל",
+      "gloss": "lokunqunywa kwamabele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "uYitschak"
+    }
+  ],
+  "timestamp": "2026-08-31T05:54:31.440091539Z",
+  "model": "glm-5.3"
+}

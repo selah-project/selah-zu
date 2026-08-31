@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Osukwini lonke ihlazo lami liphambi kwami, futhi buhlungu ubuso bami bubambe ngami.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "Osukwini"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "ihlazo lami"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "liphambi kwami"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "futhi buhlungu ubuso bami"
+    },
+    {
+      "surface": "פני",
+      "gloss": "(ubuso bami)"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "bubambe ngami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:59.751345701Z",
+  "model": "glm-5.3"
+}

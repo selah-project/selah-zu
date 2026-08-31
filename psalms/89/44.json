@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Futhi ubuyisele uqhoqhoqho lomkonto wakhe, yena ungamvusanga emzabalazweni.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ubuyisele"
+    },
+    {
+      "surface": "צור",
+      "gloss": "uqhoqhoqho"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "lomkonto wakhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yena ungamvusanga"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "(umvuse)"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "emzabalazweni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:46.289411063Z",
+  "model": "glm-5.3"
+}

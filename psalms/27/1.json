@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 27:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "KaDavide: uYahwe ⟨ungu⟩ukukhanya kwami nensindiso yami — ngubani ongingamsaba? uYahwe ⟨ungu⟩isiphephelo sampilo yami — ngubani ongingamwesaba?",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "KaDavide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ukukhanya kwami"
+    },
+    {
+      "surface": "וישעי",
+      "gloss": "nensindiso yami"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ongingamsaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "isiphephelo"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "sampilo yami"
+    },
+    {
+      "surface": "ממי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "אפחד",
+      "gloss": "ongingamwesaba"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:17.433580592Z",
+  "model": "glm-5.3"
+}

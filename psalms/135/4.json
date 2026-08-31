@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 135,
+  "translation": "ngoba uYaakobu ukhethele uYah wakhe; iYisrayeli njengesiphephandulo sakhe esikhethekileyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakobu"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ukhethele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wakhe"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisrayeli"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "njengesiphephandulo sakhe esikhethekileyo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:43.681747063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 10:27",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Inkosi yenza ⟨את⟩ isiliva sibe seYerushalayimi njengamatshe, futhi ⟨את⟩ amacedru wanika njengomkhukhu aseShabalaleni, ngokweziningi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yenza (wanika)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiliva"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "seYerushalayimi"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "njengamatshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amacedru"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "amacedru"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wanika"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "njengomkhukhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "aseShabalaleni"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ngokweziningi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:05:53.294448970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 8:8",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "UMoshe no-Aharon aphuma kuParo; uMoshe wakhala kuYahwe ngedaba lamasele abekela uParo.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "aphuma"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "no-Aharon"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "wakhala"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "daba"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "lamasele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a-"
+    },
+    {
+      "surface": "שם",
+      "gloss": "beka"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ela uParo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:01.817601445Z",
+  "model": "glm-5.3"
+}

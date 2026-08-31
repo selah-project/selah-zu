@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 144:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 144,
+  "translation": "Phulaza ubani bese uwabhebhetheza; thumela amaye akho bese uwazabalaza.",
+  "tokens": [
+    {
+      "surface": "ברוק",
+      "gloss": "Phulaza-ubani"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "ubani"
+    },
+    {
+      "surface": "ותפיצם",
+      "gloss": "bese uwabhebhetheza"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "thumela"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "amaye akho"
+    },
+    {
+      "surface": "ותהמם",
+      "gloss": "bese uwazabalaza"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:44.157723417Z",
+  "model": "glm-5.3"
+}

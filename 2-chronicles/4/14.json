@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi ⟨את⟩ izisekelo wazenza, futhi ⟨את⟩ izindwane wazenza phezulu kwezisekelo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izisekelo"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "izisekelo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wazenza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izindwane"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "izindwane"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wazenza"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "kwezisekelo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:32:08.169744282Z",
+  "model": "glm-5.3"
+}

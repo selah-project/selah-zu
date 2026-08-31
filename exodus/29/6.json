@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Futhi uzofaka umqhelezenhloko ehhovu lakhe, futhi uzobeka ⟨את⟩ umqhele onguyenziwe oyincwadi engcwele phezulu komqhelezenhloko.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "futhi uzofaka"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "umqhelezenhloko"
+    },
+    {
+      "surface": "על",
+      "gloss": "ehhovu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "lakhe"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "futhi uzobeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umqhele onguyenziwe oyincwadi engcwele"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "umqhele onguyenziwe oyincwadi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "engcwele"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezulu kwa-"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "umqhelezenhloko"
+    }
+  ],
+  "timestamp": "2026-08-31T10:12:27.474390883Z",
+  "model": "glm-5.3"
+}

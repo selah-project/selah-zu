@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 30:30",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Isikhumba sami samnyama ngiphelele, namathambo ami ashisile ngokoma.",
+  "tokens": [
+    {
+      "surface": "עורי",
+      "gloss": "isikhumba sami"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "samnyama"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ngiphelele"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "namathambo ami"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ashisile"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ngo-"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "koma"
+    }
+  ],
+  "timestamp": "2026-08-31T07:23:34.630690112Z",
+  "model": "glm-5.3"
+}

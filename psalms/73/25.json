@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Ubani ongunaye ⟨⟨njengawe⟩⟩ emazulwini? Futhi ndaye ngawena, angifuni ⟨muntu⟩ emhlabeni.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ubani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ongunaye"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "emazulwini"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "futhi ndaye ngawena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angifuni"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "angifunanga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:00.515484752Z",
+  "model": "glm-5.3"
+}

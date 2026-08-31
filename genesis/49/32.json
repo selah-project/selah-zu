@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 49:32",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "ukuthengwa komvela nomhumo okuso, kubantwana baKethe",
+  "tokens": [
+    {
+      "surface": "מקנה",
+      "gloss": "ukuthengwa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "komvela"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "nomhumo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "okuso"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ku-⟨את⟩",
+      "marks": "bantwana baKethe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bantwana"
+    },
+    {
+      "surface": "חת",
+      "gloss": "baKethe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:26:12.515671724Z",
+  "model": "glm-5.3"
+}

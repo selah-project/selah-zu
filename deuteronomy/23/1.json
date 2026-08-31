@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Akamelwe indoda ukuthatha ⟨את⟩ umfazi kayihlo, futhi akamelwe ukususa isiphambosi sikayihlo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "akamelwe"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ukuthatha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfazi kayihlo"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kayihlo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi akamelwe"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "ukususa"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "isiphambosi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "sikayihlo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:42:40.781246192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi bazophendula bathi: Izandla zethu ayizange zichithe ⟨את⟩ leligazi, naméhlo ethu awazange abone.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "bazophendula"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "Izandla zethu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayizange"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "zichithe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leligazi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "leligazi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eli"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "naméhlo ethu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awazange"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "abone"
+    }
+  ],
+  "timestamp": "2026-08-31T02:39:34.672834312Z",
+  "model": "glm-5.3"
+}

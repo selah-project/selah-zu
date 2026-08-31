@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 119:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Susa kum inhlazo nokuqhelelana phansi, ngokuba iziqiniseko zakho ngizigcinile.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Susa"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "inhlazo"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "nokuqhelelana phansi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "isiqiniseko zakho"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "ngizigcinile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:52.693770030Z",
+  "model": "glm-5.3"
+}

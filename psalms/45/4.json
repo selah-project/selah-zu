@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Zibophele inkemba yakho ethangathini, qhawe; inkazimulo yakho nophawu lwakho olukhulu.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "Zibophele"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "inkemba yakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "thangathini"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "qhawe"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "inkazimulo yakho"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "nophawu lwakho olukhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:23.348394883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 69:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Bangesidleni sami bafaka inswelabungo, futhi engikomile bangiphuzisa iviniga.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "bafaka"
+    },
+    {
+      "surface": "בברותי",
+      "gloss": "esidleni sami"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "inswelabungo"
+    },
+    {
+      "surface": "ולצמאי",
+      "gloss": "futhi engikomile"
+    },
+    {
+      "surface": "ישקוני",
+      "gloss": "bangiphuzisa"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "iviniga"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:51.854218907Z",
+  "model": "glm-5.3"
+}

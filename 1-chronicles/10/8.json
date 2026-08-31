@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 10:8",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Kwaze kwaba ngemva kosuku, aza amaFilisthi okwenzula ⟨את⟩ abafokozileyo, athola ⟨את⟩ uShawuli no⟨את⟩ madodana akhe eweziwe entabeni yaseGilibhoa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwaze kwaba"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ngemva kosuku"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "aza"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaFilisthi"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "okwenzula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abafokozileyo"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "abafokozileyo"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "athola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShawuli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "madodana akhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "madodana akhe"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "eweziwe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "גלבע",
+      "gloss": "yaseGilibhoa"
+    }
+  ],
+  "timestamp": "2026-08-31T08:23:10.490110028Z",
+  "model": "glm-5.3"
+}

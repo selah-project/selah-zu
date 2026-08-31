@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 2:20",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "u-Esther akazange achaza ubuhlobo bakhe no-⟨את⟩ abantu bakhe, njengoba uMoridakayi amyalele; u-Esther wayewenza ⟨את⟩ umyalelo kaMoridakayi, njengalokhu wayekhuliswa esondweni layo ⟨את⟩ yena.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "akazange"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "u-Esther"
+    },
+    {
+      "surface": "מגדת",
+      "gloss": "achaza"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "ubuhlobo bakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bakhe"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "amyalele"
+    },
+    {
+      "surface": "עליה",
+      "gloss": ""
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "uMoridakayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umyalelo kaMoridakayi"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "umyalelo"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ukaMoridakayi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "u-Esther"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wayewenza"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengalokhu"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "wayekhuliswa"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "esondweni"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena"
+    }
+  ],
+  "timestamp": "2026-08-31T07:52:41.434379177Z",
+  "model": "glm-5.3"
+}

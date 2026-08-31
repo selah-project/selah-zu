@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 13:9",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Awukhona yini wonke umhlaba phambi kwakho? Hlukanisana nami, ngiyacula; uma kukhona ukuqoshwa kwesokunxele, mina ngizophendukela kwesokudla; futhi uma kukhona ukuqoshwa kwesokudla, mina ngizophendukela kwesokunxele.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "awukhona yini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "הפרד",
+      "gloss": "hlukanisana"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngiyacula"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "nami"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "השמאל",
+      "gloss": "esokunxele"
+    },
+    {
+      "surface": "ואימנה",
+      "gloss": "mina ngizophendukela kwesokudla"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "futhi uma"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "esokudla"
+    },
+    {
+      "surface": "ואשמאילה",
+      "gloss": "mina ngizophendukela kwesokunxele"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:26.235259202Z",
+  "model": "glm-5.3"
+}

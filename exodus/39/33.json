@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 39:33",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Baleza ⟨את⟩ ithebhulekule kuMoshe, ⟨את⟩ itende nazo ⟨את⟩ zonke izinto zalo, iziqhoqhoqho zalo, amabhodi alo, izingobo zalo, izintombezane zalo, nezisekelo zalo.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "Baleza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithebhulekule"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ithebhulekule"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itende"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "itende"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nazo ⟨את⟩",
+      "marks": "zonke izinto zalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "izinto zalo"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "iziqhoqhoqho zalo"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "amabhodi alo"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "izingobo zalo"
+    },
+    {
+      "surface": "ועמדיו",
+      "gloss": "izintombezane zalo"
+    },
+    {
+      "surface": "ואדניו",
+      "gloss": "nezisekelo zalo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:49:23.726014082Z",
+  "model": "glm-5.3"
+}

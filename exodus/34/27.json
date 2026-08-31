@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 34:27",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "uYahwe wathi kuMoshe: Bhala kuwe ⟨את⟩ lawa mazwi, ngokuba ngokomlayo walawa mazwi nganqaba isivumelwano ⟨את⟩ nawe ⟨את⟩ ne-Israel.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "bhala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lawa mazwi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lawa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngoko-"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mlayo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "walawa mazwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "-lawa"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "nganqaba isivumelwano"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "isivumelwano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    }
+  ],
+  "timestamp": "2026-08-31T01:44:43.675807207Z",
+  "model": "glm-5.3"
+}

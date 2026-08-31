@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 45:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "inkosi ijakukudele ubuhle bakho, ngokuba yinkosi yakho; khuzeka kuye.",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "ijakukudele"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "יפיך",
+      "gloss": "ubuhle bakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "inkosi yakho"
+    },
+    {
+      "surface": "והשתחוי",
+      "gloss": "khohlela kuye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:18.169046637Z",
+  "model": "glm-5.3"
+}

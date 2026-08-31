@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 41:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Ngokubambisana bahlebezela ngami bonke abazondi; ngami bacubungula okubi kimi.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Ngokubambisana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngami"
+    },
+    {
+      "surface": "יתלחשו",
+      "gloss": "bahlebezela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "abazondi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngami"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "bacubungula"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:56.996080829Z",
+  "model": "glm-5.3"
+}

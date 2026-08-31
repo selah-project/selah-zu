@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 15:14",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Izizwe zizwa, zothukuthuka; ubuhlungu bosizayo babambele abahlali beFilistiya.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "zizwa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Izizwe"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "zothukuthuka"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ubuhlungu bosizayo"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "babambele"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "beFilistiya"
+    }
+  ],
+  "timestamp": "2026-08-31T01:32:48.320275410Z",
+  "model": "glm-5.3"
+}

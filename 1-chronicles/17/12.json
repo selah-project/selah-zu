@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Yena uzakwakhela mina indlu, futhi ngizokhazimulisa ⟨את⟩ isihlalo sakhe sokubusa kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "uzakwakhela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "futhi ngizokhazimulisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isihlalo sakhe sokubusa"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "isihlalo sakhe sokubusa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T08:27:52.345245686Z",
+  "model": "glm-5.3"
+}

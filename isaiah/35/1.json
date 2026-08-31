@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 35:1",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Indawo yomgede kuzothokoza, nendawo yomile; i-arava iyoncuma futhi ivutha njengehabatsseleti.",
+  "tokens": [
+    {
+      "surface": "יששום",
+      "gloss": "kuzothokoza"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "indawo yomgede"
+    },
+    {
+      "surface": "וציה",
+      "gloss": "nendawo yomile"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "iyoncuma"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "i-arava"
+    },
+    {
+      "surface": "ותפרח",
+      "gloss": "ivutha"
+    },
+    {
+      "surface": "כחבצלת",
+      "gloss": "njengehabatsseleti"
+    }
+  ],
+  "timestamp": "2026-08-31T04:27:45.020737675Z",
+  "model": "glm-5.3"
+}

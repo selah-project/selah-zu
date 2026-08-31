@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 21:24",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "⟨את⟩ iAyaloni nezinkambu zayo, ⟨את⟩ iGath-Rimmon nezinkambu zayo — amadolobha amane.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iAyaloni"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "iAyaloni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "izinkambu zayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "izinkambu zayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iGath-Rimmon"
+    },
+    {
+      "surface": "גת",
+      "gloss": "iGath"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "iRimmon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "izinkambu zayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "izinkambu zayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "amadolobha"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "amane"
+    }
+  ],
+  "timestamp": "2026-08-31T02:58:05.638687217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 68:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 68,
+  "translation": "Izitha zikaElohim ezingamashumi amashumi ezinkulungwane, izinkulungwane zokushintshana; iNkosi yethu u-Adonayi ihamba phakathi kwazo, njengaseSINAYI, endaweni engcwele.",
+  "tokens": [
+    {
+      "surface": "רכב",
+      "gloss": "izitha ezihamba ngesibaya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ukaElohim"
+    },
+    {
+      "surface": "רבתים",
+      "gloss": "ezingamashumi amashumi ezinkulungwane"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "izinkulungwane"
+    },
+    {
+      "surface": "שנאן",
+      "gloss": "zokushintshana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "phakathi kwazo"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "njengaseSINAYI"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "endaweni engcwele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:52.624420407Z",
+  "model": "glm-5.3"
+}

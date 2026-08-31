@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "uYaakov wabhala kubo: Bazalwane bami, nivela phi? Baphendula bathi: Sivela eHarani.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wabhala"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakov"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Bazalwane bami"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "nivela phi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni-"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "baphendula bathi"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "eHarani"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "si-"
+    }
+  ],
+  "timestamp": "2026-08-31T08:48:52.769212737Z",
+  "model": "glm-5.3"
+}

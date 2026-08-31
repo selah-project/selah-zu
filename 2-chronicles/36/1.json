@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 36:1",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Abantu benhlaba-yonke bathatha ⟨את⟩ uYeho-achazi indodana kaYoshiyahu, bamenza inkosi esikhundleni soyise eYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "bathatha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "benhlaba-yonke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYeho-achazi"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "uYeho-achazi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "kaYoshiyahu"
+    },
+    {
+      "surface": "וימליכהו",
+      "gloss": "bamenza inkosi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "esikhundleni"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "soyise"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "eYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:39:28.912034136Z",
+  "model": "glm-5.3"
+}

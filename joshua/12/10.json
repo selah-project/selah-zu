@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "inkosi yeYerushalayimi eyodwa; inkosi yeChevroni eyodwa;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "yeYerushalayimi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eyodwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "yeChevroni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eyodwa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:53:43.042155813Z",
+  "model": "glm-5.3"
+}

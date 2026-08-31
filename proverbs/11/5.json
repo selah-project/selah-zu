@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 11:5",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Ubulungiswa bobunye-obuphelele buyalungisa indlela yakhe; kepha ekoni yakhe yona, yona engenalungelo iyo ehwa.",
+  "tokens": [
+    {
+      "surface": "צדקת",
+      "gloss": "ubulungiswa"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "obuphelele"
+    },
+    {
+      "surface": "תישר",
+      "gloss": "buyalungisa"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "indlela yakhe"
+    },
+    {
+      "surface": "וברשעתו",
+      "gloss": "kepha ekoni yakhe"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "iyo ehwa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yona engenalungelo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:51:31.818006896Z",
+  "model": "glm-5.3"
+}

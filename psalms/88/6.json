@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 88:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 88,
+  "translation": "Phakathi kwabafileyo ngikhululekile ⟨abakaki abayizingoni⟩, njengabahlabelekile abalele engbakweni, ongabakhumbuli ⟨abakaki abayizingoni⟩ nasinye isikhathi; nabo besilahlwa ngisandla sakho, bahlukaniswa nawe.",
+  "tokens": [
+    {
+      "surface": "במתים",
+      "gloss": "phakathi kwabafileyo"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "ngikhululekile ⟨abakaki abayizingoni⟩"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenga-"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "abahlabelekile"
+    },
+    {
+      "surface": "שכבי",
+      "gloss": "abalele"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "engbakweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onga-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "זכרתם",
+      "gloss": "bakhumbuli"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nasinye isikhathi"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "nabo"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ngisandla sakho"
+    },
+    {
+      "surface": "נגזרו",
+      "gloss": "bahlukaniswa nawe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:05.065303172Z",
+  "model": "glm-5.3"
+}

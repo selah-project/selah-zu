@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Kodwa ongasabhali uphahlaza izinto ezingasabhaliyo, futhi yena phezu kwezinto ezingasabhaliyo uzukile.",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "kodwa ongasabhali"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "izinto ezingasabhaliyo"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "uphahlaza"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "futhi yena"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "ezinto ezingasabhaliyo"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "uzukile"
+    }
+  ],
+  "timestamp": "2026-08-31T04:26:13.460815617Z",
+  "model": "glm-5.3"
+}

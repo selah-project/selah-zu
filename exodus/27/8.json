@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 27:8",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Okungenalutho, ngezibani, uzokwenza ⟨את⟩ yona; njengoba kwakukhombisa ⟨את⟩ wena entabeni, kanjalo bazoyenza.",
+  "tokens": [
+    {
+      "surface": "נבוב",
+      "gloss": "okungenalutho"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ngezibani"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzokwenza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "i-altari (yona)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "kwakukhombisa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "bazoyenza"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:48.593370115Z",
+  "model": "glm-5.3"
+}

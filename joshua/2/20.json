@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 2:20",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi uma ukhomba leli zwi lethu, thina sizukhululeka ngalesifungo sakho es wakusifungisa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Futhi uma"
+    },
+    {
+      "surface": "תגידי",
+      "gloss": "ukhomba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leli zwi lethu"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "leli zwi lethu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "thina sizukhululeka"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "nangenacala"
+    },
+    {
+      "surface": "משבעתך",
+      "gloss": "ngalesifungo sakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "es"
+    },
+    {
+      "surface": "השבעתנו",
+      "gloss": "wakusifungisa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:50:47.401733081Z",
+  "model": "glm-5.3"
+}

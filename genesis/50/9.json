@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Futhi kwanyuka naye nezinqola futhi nabahhashi; futhi ihempi yaba ⟨inkulu⟩ kakhulu.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "futhi kwanyuka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futhi na-"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "izinqola"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futhi na-"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "abahhashi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "futhi yaba"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ihempi"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "⟨inkulu⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:26:49.665303428Z",
+  "model": "glm-5.3"
+}

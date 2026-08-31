@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 18:21",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "uYahwe wangenzela okuhle njengokulunga kwami; njengokuhlanzeka kwezandla zami ubuyelise kimi.",
+  "tokens": [
+    {
+      "surface": "יגמלני",
+      "gloss": "wangenzela okuhle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "njengokulunga kwami"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "njengokuhlanzeka"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kwezandla zami"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ubuyelise"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:43.627105825Z",
+  "model": "glm-5.3"
+}

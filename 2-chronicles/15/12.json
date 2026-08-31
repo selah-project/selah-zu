@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 15:12",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Bangena esivumanweni sokufuna ⟨את⟩ uYahwe, uElohim wabokhokho babo, ngenhliziyo yabo yonke nangomphefumelo wabo wonke.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Bangena"
+    },
+    {
+      "surface": "בברית",
+      "gloss": "esivumanweni"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "sokufuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אבותיהם",
+      "gloss": "wabokhokho babo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "לבבם",
+      "gloss": "inhliziyo yabo yonke"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "nange-"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "umphefumelo wabo wonke"
+    }
+  ],
+  "timestamp": "2026-08-31T08:37:21.657139196Z",
+  "model": "glm-5.3"
+}

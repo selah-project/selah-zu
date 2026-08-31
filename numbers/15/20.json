@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 15:20",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Okokuqala kokusoba kwenu, inkwenkwezi yenkwa, niyiphakamise njengesipho esiphakanyisiwe; njengesipho esiphakanyisiwe senkhundla yokucheba, kunjalo niyiphakamise ⟨את⟩ yona.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Okokuqala koku-"
+    },
+    {
+      "surface": "ערסתכם",
+      "gloss": "soba kwenu"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "inkwenkwezi yenkwa"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "niyiphakamise"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "njengesipho esiphakanyisiwe"
+    },
+    {
+      "surface": "כתרומת",
+      "gloss": "njengesipho esiphakanyisiwe se-"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "nkhundla yokucheba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kunjalo"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "niyiphakamise"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yona"
+    }
+  ],
+  "timestamp": "2026-08-31T02:17:08.426129828Z",
+  "model": "glm-5.3"
+}

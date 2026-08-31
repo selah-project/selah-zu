@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Mina ngizwa, kodwa angaqondi; ngasethi: u-Adonayi wami, yini ukuphela kwalokhu?",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ngizwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa anga-"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "qondi"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "ngasethi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi wami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ukuphela"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "walokhu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:07:47.345831718Z",
+  "model": "glm-5.3"
+}

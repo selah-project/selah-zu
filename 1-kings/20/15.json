@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 20:15",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Wabala ⟨את⟩ abafana bezikhulu zemifundaze; aba ngamakhulu amabili namashumi amathathu nambili; ngemuva kwabo wabala ⟨את⟩ sonke isizwe, wonke amadodana akwa-Israyeli, ezingizinkulungwane eziyisikhombisa.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "Wabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abafana bezikhulu zemifundaze"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "abafana"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "bezikhulu"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "zemifundaze"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "aba"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "amakhulu amabili"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "nambili"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "namashumi amathathu"
+    },
+    {
+      "surface": "ואחריהם",
+      "gloss": "ngemuva kwabo"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "wabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "sonke isizwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "akwa-Israyeli"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "eziyisikhombisa"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "izinkulungwane"
+    }
+  ],
+  "timestamp": "2026-08-31T04:00:39.548535199Z",
+  "model": "glm-5.3"
+}

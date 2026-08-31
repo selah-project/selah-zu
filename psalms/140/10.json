@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 140:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 140,
+  "translation": "Ihloko yabalengelezile, inkinga yomlomo wabo izobambozela.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "ihloko"
+    },
+    {
+      "surface": "מסבי",
+      "gloss": "abalengelezile"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "inkinga"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "yomlomo wabo"
+    },
+    {
+      "surface": "יכסומו",
+      "gloss": "izobambozela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:32.697915746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 22:18",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "futhi kuzinzalweni zako izizwe zonke zomhlaba zizuzisa, ngoba ulalele ⟨izwi⟩ lami.",
+  "tokens": [
+    {
+      "surface": "והתברכו",
+      "gloss": "zizuzisa"
+    },
+    {
+      "surface": "בזרעך",
+      "gloss": "kuzinzalweni zako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zomhlaba"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ulalele"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "izwi lami"
+    }
+  ],
+  "timestamp": "2026-08-31T05:54:47.500258876Z",
+  "model": "glm-5.3"
+}

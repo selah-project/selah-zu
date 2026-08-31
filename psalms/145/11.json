@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 145:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 145,
+  "translation": "Inkazimulo yobukhosi bakho bayayikhuluma, namandla akho bayawakhuluma.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "Inkazimulo"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "yobukhosi bakho"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bayayikhuluma"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "namandla akho"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bayawakhuluma"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:31.744115152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 73:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Njengesiphupho esiphuma esiboniweyo, u-Adonayi, uvusa uyozidla ngobuvila isithombe sabo.",
+  "tokens": [
+    {
+      "surface": "כחלום",
+      "gloss": "Njengesiphupho"
+    },
+    {
+      "surface": "מהקיץ",
+      "gloss": "esiphuma esiboniweyo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "uvusa"
+    },
+    {
+      "surface": "צלמם",
+      "gloss": "isithombe sabo"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "uyozidla ngobuvila"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:12.588603036Z",
+  "model": "glm-5.3"
+}

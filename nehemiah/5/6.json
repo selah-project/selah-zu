@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Laba ngumlilo wulaka olukhulu kimi, ngekuthi ngizw⟨e⟩ ⟨את⟩ umkhuhle wabo nange ⟨את⟩ lamazwi.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "kwaba ngumlilo wulaka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "olukhulu kakhulu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ngekuthi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ngizwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umkhuhle wabo"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "umkhuhle wabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange ⟨את⟩",
+      "marks": "lamazwi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    }
+  ],
+  "timestamp": "2026-08-31T08:14:01.290484056Z",
+  "model": "glm-5.3"
+}

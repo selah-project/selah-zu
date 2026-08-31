@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 52:10",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 52,
+  "translation": "Inkosi yaseBhabhiloni yabhula ⟨את⟩ amadodana kaTsidkiyahu emehlweni akhe; futhi ⟨את⟩ bonke abaholi bakwaYuda wawabhula eRiblahi.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "yabhula"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "yaseBhabhylonini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadodana kaTsidkiyahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "kaTsidkiyahu"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "emehlweni akhe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "futhi nanjalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonke abaholi bakwaYuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abaholi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bakwaYuda"
+    },
+    {
+      "surface": "שחט",
+      "gloss": "wawabhula"
+    },
+    {
+      "surface": "ברבלתה",
+      "gloss": "eRiblahi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:03:09.242002225Z",
+  "model": "glm-5.3"
+}

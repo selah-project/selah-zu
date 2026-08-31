@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 1:13",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ninikele (—) nina niyakhethela amadoda ahlakaniphile, anokuqonda, aziwayo ezizweni zenu, ngiyo beziba ngamakhanda (—) phezulu kwenu.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "nikele-ni"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina niyakhethela"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ahlakaniphile"
+    },
+    {
+      "surface": "ונבנים",
+      "gloss": "anokuqonda"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "aziwayo"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "ezizweni zenu"
+    },
+    {
+      "surface": "ואשימם",
+      "gloss": "ngiyo baziba"
+    },
+    {
+      "surface": "בראשיכם",
+      "gloss": "ngamakhanda phezulu kwenu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:30:12.968393237Z",
+  "model": "glm-5.3"
+}

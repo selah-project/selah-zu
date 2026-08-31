@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Ndakhuluma nasehlunge ⟨את⟩ konke amazwi kaYahwe ⟨את⟩ okwangibonisile.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "Ndakhuluma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na-"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ehlunge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke amazwi kaYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwa-"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ngibonisile"
+    }
+  ],
+  "timestamp": "2026-08-31T05:06:24.906987808Z",
+  "model": "glm-5.3"
+}

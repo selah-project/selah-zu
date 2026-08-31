@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Futhi kwaba ngamadodana kuBela: uAdari, noGera, no-Abihudi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "kuBela"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "uAdari"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "noGera"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "no-Abihudi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:22:08.503287038Z",
+  "model": "glm-5.3"
+}

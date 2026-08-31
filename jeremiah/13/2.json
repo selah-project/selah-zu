@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Ngithenge ibhande, ngendlela yokho ⟨את⟩ ebhandeni, njengesinyathelo sikaYahwe, bese ngilibamba ezinqenyeni zami.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "Ngithenge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibhande"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "ebhandeni"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "njengesinyathelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "bese ngilibamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezi-"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "nqenyeni zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:10:05.131468491Z",
+  "model": "glm-5.3"
+}

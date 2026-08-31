@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 77:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 77,
+  "translation": "Izwi lezulu lakho lalingesiqhingini; izibani zakazela izwe; umhlaba waphaphazeka, wenyuka wehla.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Izwi"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "lezulu lakho"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "lingesiqhingini"
+    },
+    {
+      "surface": "האירו",
+      "gloss": "zakazela"
+    },
+    {
+      "surface": "ברקים",
+      "gloss": "izibani"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "waphaphazeka"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "wenyuka wehla"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:36.459908293Z",
+  "model": "glm-5.3"
+}

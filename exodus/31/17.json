@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 31:17",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Phakathi kwami nphakathi kwezinsizwa zika-Israyeli yisiphawu kuze kube phakade, ngokuba izinsuku eziyisithupha uYahwe wadala ⟨את⟩ izulu ⟨את⟩ nomhlaba, ngosuku lwesikhombisa waphumula wabuyiselwa umoya.",
+  "tokens": [
+    {
+      "surface": "ביני",
+      "gloss": "phakathi kwami"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nphakathi kwezinsizwa zika-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "izinsizwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israyeli"
+    },
+    {
+      "surface": "אות",
+      "gloss": "yisiphawu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "eziyisithupha"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wadala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izulu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "izulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nomhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nomhlaba"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "lwesikhombisa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "waphumula"
+    },
+    {
+      "surface": "וינפש",
+      "gloss": "wabuyiselwa umoya"
+    }
+  ],
+  "timestamp": "2026-08-31T01:43:10.334726149Z",
+  "model": "glm-5.3"
+}

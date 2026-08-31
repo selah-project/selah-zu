@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "No-⟨את⟩ i-arnevet, ngoba iyaphakamisa i-gerah, kodwa uphawu lenyawo aluqandanga — ingcwele yona kini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "i-arnevet"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "i-arnevet"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "iyaphakamisa"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "i-gerah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "kodwa uphawu lenyawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alu-"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "qandanga"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "ingcwele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-08-31T01:54:23.029007332Z",
+  "model": "glm-5.3"
+}

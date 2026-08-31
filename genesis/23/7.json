@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Wayasuka u-Avraham, wasaba ngokuzithoba kubantu bomhlaba, kubantwana bakwaChethi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wayasuka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "wasaba ngokuzithoba"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "kubantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bomhlaba"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kubantwana bakwa-"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chethi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:11:40.204620724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngoba kuyo yonke into ethandwayo kukhona isikhathi nokuqunjelwa, ngoba ububi bomuntu bunzima kakhulu phezu kwakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuyo yonke"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "into ethandwayo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kukhona"
+    },
+    {
+      "surface": "עת",
+      "gloss": "isikhathi"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "nokuqunjelwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "bomuntu"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "bunzima kakhulu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:48:01.138895160Z",
+  "model": "glm-5.3"
+}

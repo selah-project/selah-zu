@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 35:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Ngiyakubonga emhlanganweni omkhulu; phakathi kwabantu abanamandla ngiyakudumisa.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ngiyakubonga"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "emhlanganweni"
+    },
+    {
+      "surface": "רב",
+      "gloss": "omkhulu"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "phakathi kwabantu"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "abanamandla"
+    },
+    {
+      "surface": "אהללך",
+      "gloss": "ngiyakudumisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:10.920655228Z",
+  "model": "glm-5.3"
+}

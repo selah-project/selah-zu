@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 143:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 143,
+  "translation": "Ngenxa yegama lakho, uYahwe, ungiphilise; ngokulunga kwakho khuphula inefeshi yami ekudingisweni.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ngenxa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yegama lakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "ungiphilise"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ngokulunga kwakho"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "khuphula"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "ekudingisweni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:35.129789636Z",
+  "model": "glm-5.3"
+}

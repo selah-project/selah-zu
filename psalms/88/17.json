@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 88:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 88,
+  "translation": "Phezu kwami adlulile ukwesabisa kwakho; ukutshisa kolaka lwakho kubhubhisile.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "adlulile"
+    },
+    {
+      "surface": "חרוניך",
+      "gloss": "ukutshisa kolaka lwakho"
+    },
+    {
+      "surface": "בעותיך",
+      "gloss": "ukwesabisa kwakho"
+    },
+    {
+      "surface": "צמתותני",
+      "gloss": "kubhubhisile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:27.148775052Z",
+  "model": "glm-5.3"
+}

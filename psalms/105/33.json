@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 105:33",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "Wabetha ividyam yabo nomuni wabo, waphaza izihlahla zomkhawulo wabo.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Wabetha"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "ividyam yabo"
+    },
+    {
+      "surface": "ותאנתם",
+      "gloss": "nomuni wabo"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "waphaza"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "izihlahla"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "zomkhawulo wabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:11.066401029Z",
+  "model": "glm-5.3"
+}

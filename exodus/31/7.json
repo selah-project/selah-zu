@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 31:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "⟨את⟩ ithenti yokuhlangana, no⟨את⟩ i-aroni lobufakazi, no⟨את⟩ iphuleti lokuxolelwa eliphezu kwalo, no⟨את⟩ konke izinto zethenti —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithenti yokuhlangana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ithenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuhlangana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "i-aroni lobufakazi"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "i-aroni"
+    },
+    {
+      "surface": "לעדת",
+      "gloss": "lobufakazi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iphuleti lokuxolelwa"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "iphuleti lokuxolelwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eli"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "konke izinto zethenti"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "izinto"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "zethenti"
+    }
+  ],
+  "timestamp": "2026-08-31T01:42:40.769710735Z",
+  "model": "glm-5.3"
+}

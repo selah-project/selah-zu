@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 1:16",
+  "book": "ruth",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "URuthi wathi: Ungangiphazamisi ukukushiya, ukubuyela emuva emva kwakho; ngoba lapho uya khona, ngingiya khona; lapho ulala khona, ngingilala khona; abantu bakho ngabantu bami, no-Elohim wakho ngu-Elohim wami.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "רות",
+      "gloss": "uRuthi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תפגעי",
+      "gloss": "phazamisi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngi"
+    },
+    {
+      "surface": "לעזבך",
+      "gloss": "ukukushiya"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ukubuyela emuva"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "emva kwakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "uya khona"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ngingiya khona"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "nalapho"
+    },
+    {
+      "surface": "תליני",
+      "gloss": "ulala khona"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ngingilala khona"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ngabantu bami"
+    },
+    {
+      "surface": "ואלהיך",
+      "gloss": "no-Elohim wakho"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ngu-Elohim wami"
+    }
+  ],
+  "timestamp": "2026-08-31T07:38:59.140591483Z",
+  "model": "glm-5.3"
+}

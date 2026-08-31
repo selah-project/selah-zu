@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Wahlanganisa ⟨את⟩ amahlandla amahlanu, elilodwa ku-elinye, futhi amahlandla amahlanu ahlanganiswa elilodwa ku-elinye.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "Wahlanganisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amahlandla amahlanu"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "amahlanu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "amahlandla"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "elinye"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "futhi amahlanu"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "amahlandla"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ahlanganiswa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "elinye"
+    }
+  ],
+  "timestamp": "2026-08-31T01:45:47.102504903Z",
+  "model": "glm-5.3"
+}

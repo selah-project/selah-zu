@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 1:15",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Wakhuluma isithunywa sikaYahwe kuEliya: Yehla naye, ungabi nesaba yena. Wavuka, wayehla naye kuyinkosi.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Wakhuluma"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "isithunywa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "uEliya"
+    },
+    {
+      "surface": "רד",
+      "gloss": "Yehla"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "kuyena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "nesaba"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "Wavuka"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "wayehla"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "kuyena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:04:01.699058141Z",
+  "model": "glm-5.3"
+}

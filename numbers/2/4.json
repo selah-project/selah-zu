@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Nabutho bakhe nababalwa babo — amane namashumi ayisikhombisa ezinkulungwaneni namakhulu ayisithupha.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "nabutho bakhe"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "nababalwa babo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "amane"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "namashumi ayisikhombisa"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezinkulungwaneni"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "namakhulu ayisithupha"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:07:42.191016833Z",
+  "model": "glm-5.3"
+}

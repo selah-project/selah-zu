@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Futhi uYahwe uzobanikela phambi kwenu, nizobenza njengomyalo wonke enginiwumyalele ⟨abakaki abayizingoni⟩ ⟨את⟩ nina.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "uzobanikela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "nizobenza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "njengowonke"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "umyalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "niwumyalele"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    }
+  ],
+  "timestamp": "2026-08-31T02:47:37.924440765Z",
+  "model": "glm-5.3"
+}

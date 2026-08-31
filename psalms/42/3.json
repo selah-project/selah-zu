@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 42:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Inefeshi yami yomile ilangazelela uElohim, ilangazelela u-El ophilayo. Ngingena nini ngibone ubuso bukaElohim?",
+  "tokens": [
+    {
+      "surface": "צמאה",
+      "gloss": "yomile ilangazelela"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ophilayo"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nini"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ngingena"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ngibone"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bukaElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:18.887346782Z",
+  "model": "glm-5.3"
+}

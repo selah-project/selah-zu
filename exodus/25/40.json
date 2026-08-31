@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 25:40",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Bheka futhi wenze ngesibonelo sabo, okwakuboniswa wena entabeni.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "futhi wenze"
+    },
+    {
+      "surface": "בתבניתם",
+      "gloss": "ngesibonelo sabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwaku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "kuboniswa"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:00.729415954Z",
+  "model": "glm-5.3"
+}

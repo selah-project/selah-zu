@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Bazange bagcine isivumelwano sika-Elohim, futhi bazange bavuma ukuhamba emthethweni wakhe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "bazange"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "bagcine"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "isivumelwano"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sika-Elohim"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "futhi emthethweni wakhe"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "bazange bavuma"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuhamba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:30.105139901Z",
+  "model": "glm-5.3"
+}

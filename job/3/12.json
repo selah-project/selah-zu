@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Kungani amadolo aqambele kimi? noma izibe, ukuze ngincelise?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Kungani"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "aqambele kimi"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "amadolo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "noma"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "izibe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "ngincelise"
+    }
+  ],
+  "timestamp": "2026-08-31T07:07:23.374267395Z",
+  "model": "glm-5.3"
+}

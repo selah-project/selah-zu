@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Yizwa, uYahwe, unganakekeli ⟨ngomusa⟩; uYahwe, yiba ungisizayo.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Yizwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "unganakekeli ⟨ngomusa⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yiba"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "ungisizayo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ungisizayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:14.485409138Z",
+  "model": "glm-5.3"
+}

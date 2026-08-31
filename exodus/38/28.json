@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 38:28",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Futhi ⟨את⟩ inkulungwane namakhulu ayisikhombisa nesihlanu nesikhombisa wawenza izikhonda zezinkambu, wazikhuphela iintloko zawo, wazibophelela ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Futhi ⟨את⟩",
+      "marks": "inkulungwane namakhulu ayisikhombisa nesihlanu nesikhombisa"
+    },
+    {
+      "surface": "האלף",
+      "gloss": "inkulungwane"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ayisikhombisa"
+    },
+    {
+      "surface": "המאות",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "nesihlanu"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "nesikhombisa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wawenza"
+    },
+    {
+      "surface": "וזים",
+      "gloss": "izikhonda"
+    },
+    {
+      "surface": "לעמודים",
+      "gloss": "zezinkambu"
+    },
+    {
+      "surface": "וצפה",
+      "gloss": "wazikhuphela"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "iintloko zawo"
+    },
+    {
+      "surface": "וחשק",
+      "gloss": "wazibophelela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izona (izinkambu)"
+    }
+  ],
+  "timestamp": "2026-08-31T05:58:49.953760041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 25:22",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi ngizohlangana nawe lapho, ngizokhuluma ⟨את⟩ nawe ngaphezu kwekhaporethi, phakathi kwezi-kerubhi ezimbili, ezi ⟨את⟩ se phezu kwe-aroni yobufakazi — ⟨את⟩ koni engiyakuyala ⟨את⟩ kuwe, kubantwabenkosi u-Israyeli.",
+  "tokens": [
+    {
+      "surface": "ונועדתי",
+      "gloss": "futhi ngizohlangana"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "ודברתי",
+      "gloss": "ngizokhuluma"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ngaphezu kwe-"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ikhaporethi"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "phakathi kwe-"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ezi-kerubhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi-"
+    },
+    {
+      "surface": "על",
+      "gloss": "se phezu kwe-"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "i-aroni"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "yobufakazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "ngiyakuyala"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "kuwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwabenkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:51.820959939Z",
+  "model": "glm-5.3"
+}

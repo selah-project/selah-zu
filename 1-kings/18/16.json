@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 18:16",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "U-Obhadiyahu waya ehamba ezhlanganisa no-Ahabhu, wamxelela; u-Ahabhu waya ehamba ezhlanganisa no-Eliyahu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "u-Obhadiyahu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ehamba ezhlanganisa no-"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "u-Ahabhu"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "wamxelela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "u-Ahabhu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ehamba ezhlanganisa no-"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "u-Eliyahu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:59:51.325769808Z",
+  "model": "glm-5.3"
+}

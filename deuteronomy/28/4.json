@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 28:4",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Ubusisiwe izithelo zebele lakho, nezithelo zomhlaba wakho, nezithelo ezinweni zakho — amawane eenkomweni zakho, namawane ezimvu zakho.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ubusisiwe"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "izithelo"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "zebele lakho"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "nezithelo"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "zomhlaba wakho"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "nezithelo"
+    },
+    {
+      "surface": "בהמתך",
+      "gloss": "ezinweni zakho"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "amawane"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "eenkomweni zakho"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "namawane"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "ezimvu zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T02:44:35.353143959Z",
+  "model": "glm-5.3"
+}

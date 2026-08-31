@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Indawo yokuhlala kwabo yayisuka eMeshah, lapho-uhamba uya eSefarah, intaba yasempumalanga.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yayisi"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "indawo yokuhlala kwabo"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "kusuka eMeshah"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "lapho-uhamba uya"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "eSefarah"
+    },
+    {
+      "surface": "הר",
+      "gloss": "intaba"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "yasempumalanga"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:01.035455523Z",
+  "model": "glm-5.3"
+}

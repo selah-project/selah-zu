@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 55,
+  "translation": "Bheka, ngizohamba ngikude ngizula, ngile endleini. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "ngihamba ngikude"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "ngizula"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ngile"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "endleini"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:44.586119749Z",
+  "model": "glm-5.3"
+}

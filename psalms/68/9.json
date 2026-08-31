@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 68:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 68,
+  "translation": "Umhlaba wazamazama, namazulu adonza ngaphambi kukaElohim — lowo uSinayi — ngaphambi kukaElohim, uElohim kaYisraeli.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "wazamazama"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nakho"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "נטפו",
+      "gloss": "adonza"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngaphambi kuka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "uSinayi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngaphambi kuka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaYisraeli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:51.661027407Z",
+  "model": "glm-5.3"
+}

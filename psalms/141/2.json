@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 141:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 141,
+  "translation": "Thobelwe umthandazo wami ⟨njeng⟩⟨e⟩ insensi phambi kwakho; ukuphakanyiswa kwamadla ami ⟨njeng⟩⟨e⟩ umnikelo wasebusuku.",
+  "tokens": [
+    {
+      "surface": "תכון",
+      "gloss": "Thobelwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "umthandazo wami"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "insensi"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "ukuphakanyiswa"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "amadla ami"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "umnikelo"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "wasebusuku"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:34.793474312Z",
+  "model": "glm-5.3"
+}

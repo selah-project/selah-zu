@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 52,
+  "translation": "Uzigaba ngani ngobubi, wena mqhawe? ⟨⟨I⟩⟩khesedi ka-El ihlala usuku lonke.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ngani"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "uzigaba"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ngobubi"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "wena mqhawe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka-El"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "usuku"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:25.355057479Z",
+  "model": "glm-5.3"
+}

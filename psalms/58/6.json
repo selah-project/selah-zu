@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 58,
+  "translation": "Engazwa izwi labalalazetshi, noma lowo ohlehlisa ngamazwi okuzindlela ehlakaniphile kakhulu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "engaqugi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "zwa"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "labalalazetshi"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "ohlehlisa"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "ngamazwi okuzindlela"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "ehlakaniphile kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:25.784133503Z",
+  "model": "glm-5.3"
+}

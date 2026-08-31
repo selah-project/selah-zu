@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Esekaleni indwendwe alalanga ngaphandle; iminyango yami ngiyivula kumhambi.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "Esekaleni ngaphandle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "lalanga"
+    },
+    {
+      "surface": "גר",
+      "gloss": "indwendwe"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "iminyango yami"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "kumhambi"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ngiyivula"
+    }
+  ],
+  "timestamp": "2026-08-31T07:24:05.823094085Z",
+  "model": "glm-5.3"
+}

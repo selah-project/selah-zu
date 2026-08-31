@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 42:4",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Zwa, ngingicela, mina ngizophawula; ngizophendukisa umbuzo kuwe, uyazisela mina.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Zwa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngingicela"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ngizophawula"
+    },
+    {
+      "surface": "אשאלך",
+      "gloss": "ngizophendukisa umbuzo kuwe"
+    },
+    {
+      "surface": "והודיעני",
+      "gloss": "uyazisela mina"
+    }
+  ],
+  "timestamp": "2026-08-31T07:32:10.124495591Z",
+  "model": "glm-5.3"
+}

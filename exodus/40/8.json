@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Futhi uzohlehla insamu emkhawuleni wonke, futhi uzobeka ⟨את⟩ icalu lesango lensamu.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "futhi uzohlehla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insamu"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "insamu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "emkhawuleni wonke"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "futhi uzobeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icalu lesango"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "icalu"
+    },
+    {
+      "surface": "שער",
+      "gloss": "lesango"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "lensamu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:49:39.975291522Z",
+  "model": "glm-5.3"
+}

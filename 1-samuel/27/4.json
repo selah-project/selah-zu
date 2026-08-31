@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Kwaziswa uSawuli ukuthi uDavide ubalekele eGathi, wasengenzi futhi lutho lokumfuna.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kwaziswa"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "uSawuli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ubalekele"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "גת",
+      "gloss": "eGathi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wasengenzi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "lutho lokunye"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "ukumfuna"
+    }
+  ],
+  "timestamp": "2026-08-31T03:30:36.209255527Z",
+  "model": "glm-5.3"
+}

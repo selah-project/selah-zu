@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 25:4",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi uYahweh wathi kuMoshe: Thatha ⟨את⟩ bonke abaholi bentaba, futhi bazunge ngasesibhakabhakeni phambi kukaYahweh ngaphesheva, ukuze intukuthelo yenkosi kaYahweh ithinte phansi kuIsrayeli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahweh"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Thatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonke abaholi bentaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "abaholi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bentaba"
+    },
+    {
+      "surface": "והוקע",
+      "gloss": "bazunge ngasesibhakabhakeni"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "phambi kukaYahweh"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahweh"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "phambini"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ngaphesheva"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ithinte phansi"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "intukuthelo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "yenkosi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahweh"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "kuIsrayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T02:22:27.014988702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi uzocega oli phezu kwalo, futhi uzobeka umsa phezu kwalo; inikelo yilo.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "futhi uzocega"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "phezu kwalo"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oli"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "futhi uzobeka"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "phezu kwalo"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "umsa"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "inikelo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:50:46.304149450Z",
+  "model": "glm-5.3"
+}

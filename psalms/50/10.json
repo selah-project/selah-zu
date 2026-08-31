@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Ngokuba ingilazi yami yonke inyamazana yesihlahla, izilwane ezintabeni eziyinkulungwane.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "inyamazana"
+    },
+    {
+      "surface": "יער",
+      "gloss": "yesihlahla"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "izilwane"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "ezintabeni"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "eziyinkulungwane"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:35.018604274Z",
+  "model": "glm-5.3"
+}

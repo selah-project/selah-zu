@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngemilomo yami ngichazele zonke izinkantolo zomlomo wakho.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "Ngemilomo yami"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "ngichazele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "izinkantolo"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "zomlomo wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:27.260404023Z",
+  "model": "glm-5.3"
+}

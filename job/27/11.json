@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Nginganifundisa ngasesandleni so-El; lokhu okukunaye uShadayi angeke ngikufihle.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "Nginganifundisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ninga(ni)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngasesandleni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "so-El"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokhu oku"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kukunaye"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "uShadayi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "ngikufihle"
+    }
+  ],
+  "timestamp": "2026-08-31T07:22:43.826988671Z",
+  "model": "glm-5.3"
+}

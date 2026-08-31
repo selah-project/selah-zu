@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 34:1",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "uDina indodakazi kaLeyi, leyo abyelwe uYakobi, waphuma ukuze abone izintombi zomhlaba.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "uDina"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "kaLeyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leyo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "abyelwe"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "uYakobi"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ukuze abone"
+    },
+    {
+      "surface": "בבנות",
+      "gloss": "izintombi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zomhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T01:18:46.423285718Z",
+  "model": "glm-5.3"
+}

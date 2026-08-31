@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 6:1",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi iYerikho yayivaliwe, futhi yavaliwe ngaphandle ngenxa yezinyane zika-Israel; akekho ophumayo futhi akekho ongenayo.",
+  "tokens": [
+    {
+      "surface": "ויריחו",
+      "gloss": "Futhi iYerikho"
+    },
+    {
+      "surface": "סגרת",
+      "gloss": "yayivaliwe"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "futhi yavaliwe ngaphandle"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa yez"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zinyane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israel"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akekho"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "ophumayo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi akekho"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ongenayo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:51:21.541049421Z",
+  "model": "glm-5.3"
+}

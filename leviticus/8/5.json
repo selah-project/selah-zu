@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "UMoshe wathi ebandleni: Le yinto uYahwe ayibizile ukuthi yenziwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ebandleni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "yinto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engo-"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ayibizile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukuthi yenziwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:54:41.291408862Z",
+  "model": "glm-5.3"
+}

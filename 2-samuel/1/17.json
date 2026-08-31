@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "UDavide walila ngale ⟨isilandelezo⟩ sangoku, ngokukaShawuli nangokukaYehonatani indodana yakhe.",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "walila ngokujula"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isilandelezo"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "isilandelezo sokulila"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokuka-"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nangokuka-"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "uYehonatani"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:49:35.783358451Z",
+  "model": "glm-5.3"
+}

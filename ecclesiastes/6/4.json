@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ngokuba ifika ngeza futhi ihamba ebumnyameni, futhi igama layo liyafihlwa ebumnyameni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "ngeza"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ifika"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ebumnyameni"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ihamba"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ebumnyameni"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama layo"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "liyafihlwa"
+    }
+  ],
+  "timestamp": "2026-08-31T07:48:50.648039802Z",
+  "model": "glm-5.3"
+}

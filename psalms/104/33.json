@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 104:33",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 104,
+  "translation": "Ngizocula kuYahwe ekuhlaleni kwami; ngizodlala umdanso ku-Elohim wami ngingasaphenduki.",
+  "tokens": [
+    {
+      "surface": "אשירה",
+      "gloss": "Ngizocula"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "ekuhlaleni kwami"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ngizodlala umdanso"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "ku-Elohim wami"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "ngingasaphenduki"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:15.301520763Z",
+  "model": "glm-5.3"
+}

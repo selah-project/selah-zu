@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 78:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Futhi babese bebeke ku-Elohim ithemba labo, bengakhohlwa izenzo zo-El, futhi belonda imiyalo yakhe.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "babese bebeke"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ku-Elohim"
+    },
+    {
+      "surface": "כסלם",
+      "gloss": "ithemba labo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bengakhohlwa"
+    },
+    {
+      "surface": "ישכחו",
+      "gloss": "bengakhohlwa"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "izenzo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "zo-El"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "imiyalo yakhe"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "belonda"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:17.805159622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 18:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Yase ihlehla yakhala indawo, futhi izisekelo zezintaba zakhathazeka, zanyakaziswa, ngoba wayenesiphetho.",
+  "tokens": [
+    {
+      "surface": "ותגעש",
+      "gloss": "yakhala"
+    },
+    {
+      "surface": "ותרעש",
+      "gloss": "yaseihlehla"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "ומוסדי",
+      "gloss": "izisekelo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "zezintaba"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "zakhathazeka"
+    },
+    {
+      "surface": "ויתגעשו",
+      "gloss": "zanyakaziswa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "wayinesiphetho"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:14.867333790Z",
+  "model": "glm-5.3"
+}

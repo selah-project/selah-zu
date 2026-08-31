@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 50:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Uma ngilambile, angikuxwayisi; ngokuba umhlaba ungunaphakade, kanye nokugcwele kwawo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "ארעב",
+      "gloss": "ngilambile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angi-"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngikuxwayisi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "unganaphakade"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "kanye nokugcwele kwawo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:35.018918726Z",
+  "model": "glm-5.3"
+}

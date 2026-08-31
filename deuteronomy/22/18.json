@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Futhi abangane bedolobha lelo bazothatha ⟨את⟩ indoda baze bayihlunya ⟨את⟩ yena.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "bazothatha"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abangane"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bedolobha"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indoda"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "baze bayihlunya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T02:41:44.677724177Z",
+  "model": "glm-5.3"
+}

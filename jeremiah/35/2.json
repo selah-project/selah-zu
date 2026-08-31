@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 35:2",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Hamba uye endlini yabaRekabi, ukhulume ⟨naye⟩, ubalethe endlini kaYahwe, engxenyeni eyodwa yezigodlo, ubaphhuzise uwini.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Hamba uye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndlini ya"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "baRekabi"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ukhulume"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨naye⟩",
+      "marks": "baRekabi"
+    },
+    {
+      "surface": "והבאותם",
+      "gloss": "ubalethe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlini ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "eyodwa"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "ezigodlo"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "ubaphhuzise"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ⟨baphuzise⟩",
+      "marks": "uwini"
+    },
+    {
+      "surface": "יין",
+      "gloss": "uwini"
+    }
+  ],
+  "timestamp": "2026-08-31T04:53:27.642907657Z",
+  "model": "glm-5.3"
+}

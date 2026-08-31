@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 7:8",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "⟨Iso⟩ elingangibona ngeke lingiboni⟩ langa; amehlo akho ⟨aqikelela⟩ kimi — ⟨kodwa⟩ angisabi ‹khona›.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "תשורני",
+      "gloss": "elingiboni"
+    },
+    {
+      "surface": "עין",
+      "gloss": "iso"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "elangibonayo"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "amehlo akho"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "angisabi khona"
+    }
+  ],
+  "timestamp": "2026-08-31T10:33:47.737450369Z",
+  "model": "glm-5.3"
+}

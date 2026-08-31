@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 84:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 84,
+  "translation": "Bathabile abahlala ⟨ezindlini⟩ zakho; bazoqhubeka bephakamisa wena. Sewela.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Bathabile"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "abahlala"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ezindlini zakho"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "bazoqhubeka"
+    },
+    {
+      "surface": "יהללוך",
+      "gloss": "bephakamisa wena"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sewela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:18.578488390Z",
+  "model": "glm-5.3"
+}

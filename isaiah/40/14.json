@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 40:14",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "⟨את⟩ ubani owayebonisana naye wayemqondisa, wayemfundisa endleleni yokwahlulela, wayemfundisa ulwazi, nomgwaqo wokuqonda wawumenzela wazi?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ubani"
+    },
+    {
+      "surface": "נועץ",
+      "gloss": "obonisana naye"
+    },
+    {
+      "surface": "ויבינהו",
+      "gloss": "wayemqondisa"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "wayemfundisa"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "yokwahlulela"
+    },
+    {
+      "surface": "וילמדהו",
+      "gloss": "wayemfundisa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "nomgwaqo"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "wokuqonda"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "wawumenzela wazi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:30:00.009125202Z",
+  "model": "glm-5.3"
+}

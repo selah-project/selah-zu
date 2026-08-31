@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 78:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Waqhekezana amadwala ehlathini, wabanathisa njengobunzima obukhulu.",
+  "tokens": [
+    {
+      "surface": "יבקע",
+      "gloss": "Waqhekezana"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "amadwala"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ehlathini"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "wabanathisa"
+    },
+    {
+      "surface": "כתהמות",
+      "gloss": "njengobunzima obujulile"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "obukhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:00.082986867Z",
+  "model": "glm-5.3"
+}

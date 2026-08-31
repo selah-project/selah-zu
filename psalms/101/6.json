@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 101:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 101,
+  "translation": "Amehe ami abheke abaqotho bomhlaba, ukuze bahle nami; ohamba ngendlela engenacala, yena uzongikhonza.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "amehe ami"
+    },
+    {
+      "surface": "בנאמני",
+      "gloss": "abaqotho"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bomhlaba"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ukuze bahle"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "nami"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ohamba"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ngendlela"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "engenacala"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ישרתני",
+      "gloss": "uzongikhonza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:02.582712155Z",
+  "model": "glm-5.3"
+}

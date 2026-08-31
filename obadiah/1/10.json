@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "obadiah 1:10",
+  "book": "obadiah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngenxa yokwedlula odwa kumfowenu Yakobo, ihlazo liyakufihla, futhi uzobingelelwa kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "מחמס",
+      "gloss": "ngenxa yokwedlula"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "kumfowenu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobo"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "liyakufihla"
+    },
+    {
+      "surface": "בושׁה",
+      "gloss": "ihlazo"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "futhi uzobingelelwa"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T08:50:58.868365569Z",
+  "model": "glm-5.3"
+}

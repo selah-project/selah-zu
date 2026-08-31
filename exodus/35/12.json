@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "⟨את⟩ i-arike no⟨את⟩ izibambo zayo, ⟨את⟩ isihlalo sokuxolelwa, no⟨את⟩ icipho lesikhashana;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-arike"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "i-arike"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "izibambo zayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isihlalo sokuxolelwa"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "isihlalo sokuxolelwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "icipho"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "lesikhashana"
+    }
+  ],
+  "timestamp": "2026-08-31T01:43:55.542732544Z",
+  "model": "glm-5.3"
+}

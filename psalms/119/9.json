@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 119:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngeyiphi into intsha ingcwalisa indlela yayo? Ngokuyigcina njengokwezwi lakho.",
+  "tokens": [
+    {
+      "surface": "במה",
+      "gloss": "ngeyiphi into"
+    },
+    {
+      "surface": "יזכה",
+      "gloss": "ingcwalisa"
+    },
+    {
+      "surface": "נער",
+      "gloss": "intsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlela yayo"
+    },
+    {
+      "surface": "ארחו",
+      "gloss": "indlela yayo"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ukuyigcina"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "njengokwezwi lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:36.932383801Z",
+  "model": "glm-5.3"
+}

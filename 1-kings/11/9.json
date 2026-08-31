@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 11:9",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi uYahwe wathukuthela ngakuShelomoh, ngoba inhliziyo yakhe yanukwa eceleni kukaYahwe, uElohim ka-Israyeli, obonakala kuye kabili.",
+  "tokens": [
+    {
+      "surface": "ויתאנף",
+      "gloss": "wathukuthela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "ngakuShelomoh"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "yanukwa"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "inhliziyo yakhe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "eceleni kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iIsrayeli"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "obonakalayo"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "kabili"
+    }
+  ],
+  "timestamp": "2026-08-31T03:55:13.486171796Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 103,
+  "translation": "Umuntu osindayo — izinsuku zakhe zinjengotshani; njengesibuni somhlaba, kanjalo uqhakamba.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "umuntu osindayo"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "njengotshani"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "izinsuku zakhe"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "njengesibuni"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "somhlaba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "uqhakamba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:10.305840660Z",
+  "model": "glm-5.3"
+}

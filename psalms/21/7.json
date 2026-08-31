@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 21:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Ngokuba umenzela izibusiso kuze kube phakade, umjabulisa injabulo ⟨ngemva kw⟩⟨את⟩ ubuso bakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "תשיתהו",
+      "gloss": "umenzela"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "izibusiso"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "תחדהו",
+      "gloss": "umjabulisa"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "injabulo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bakho"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:23.301113358Z",
+  "model": "glm-5.3"
+}

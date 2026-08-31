@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 12:20",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Ngeke nidle okuvuthiwe; ezindaweni zenu zonke nizodla amaswidi angcolile.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "מחמצת",
+      "gloss": "okuvuthiwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nidle"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ezindaweni zenu zonke"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "ezindaweni zenu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nizodla"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amaswidi angcolile"
+    }
+  ],
+  "timestamp": "2026-08-31T01:33:17.167553542Z",
+  "model": "glm-5.3"
+}

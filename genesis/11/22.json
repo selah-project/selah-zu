@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "USerugu waphila iminyaka engamashumi amathathu, wazala ⟨את⟩ uNakhori.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "waphila"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "USerugu"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "amashumi amathathu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uNakhori"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "uNakhori"
+    }
+  ],
+  "timestamp": "2026-08-31T05:54:35.003090643Z",
+  "model": "glm-5.3"
+}

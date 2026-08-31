@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 3:16",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Indoda yayo yahamba ⟨את⟩ naye, ihamba ilila ngemva kwakhe, ya kuBahurimi; u-Abineri wathi kuye: Hamba, buyela. Wabuyela.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yahamba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩naye"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "indoda yayo"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ihamba"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "ilila"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "ngemva kwakhe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ya ku"
+    },
+    {
+      "surface": "בחרים",
+      "gloss": "Bahurimi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "u-Abineri"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "buyela"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wabuyela"
+    }
+  ],
+  "timestamp": "2026-08-31T03:33:00.401450486Z",
+  "model": "glm-5.3"
+}

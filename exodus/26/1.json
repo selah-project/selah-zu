@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 26:1",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi ⟨את⟩ ithenti uyayenza ngezindwangu ezishumi: ngesilini esihle esiqoshwayo, neluhlaza-sibhakabhaka, nebubende, nobomfu-bomvu; ngamakherubi, umsebenzi wendabuki, uyawenza ⟨את⟩ wona.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "ithenti"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ithenti"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uyayenza"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ezishumi"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ngezindwangu"
+    },
+    {
+      "surface": "שש",
+      "gloss": "isilini esihle"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "esiqoshwayo"
+    },
+    {
+      "surface": "ותכלת",
+      "gloss": "neluhlaza-sibhakabhaka"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "nebubende"
+    },
+    {
+      "surface": "ותלעת",
+      "gloss": "nobomfu-"
+    },
+    {
+      "surface": "שני",
+      "gloss": "bomvu"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "amakherubi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "wendabuki"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uyawenza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wona",
+      "marks": "wona (izindwangu ezishumi)"
+    }
+  ],
+  "timestamp": "2026-08-31T01:40:15.127652561Z",
+  "model": "glm-5.3"
+}

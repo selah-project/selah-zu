@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 116,
+  "translation": "Buyela, mumphefumulo wami, ekuphumuleni kwakho, ngoba uYahwe wakwenzela okuhle.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Buyela"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mumphefumulo wami"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "ekuphumuleni kwakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "wakwenzela okuhle"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "kuye wena"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:37.860837385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 52:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 52,
+  "translation": "Kepha mina, njengomuthi woliehhi oluhlaza endlwini kaElohim, ngithembela ikhesedi likaElohim kuze kube phakade nakuze kube ninde.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kepha mina"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "njengomuthi woliehhi"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "oluhlaza"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ngithembela"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "likaElohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nakuze kube ninde"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:34.708965794Z",
+  "model": "glm-5.3"
+}

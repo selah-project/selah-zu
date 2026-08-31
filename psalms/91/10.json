@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 91,
+  "translation": "Okungalungile ngeke kukufikelele, nesiciwo ngeke sondela etendeni lakho.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "kukufikelele"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "okungalungile"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "nesiciwo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "sondela"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "etendeni lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:38.949390470Z",
+  "model": "glm-5.3"
+}

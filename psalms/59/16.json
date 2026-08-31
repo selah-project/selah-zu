@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 59:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 59,
+  "translation": "Bona behambe bezula ukudla, uma bengakhululekanga, bahlale ebusuku bakhala.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Bona"
+    },
+    {
+      "surface": "ינועון",
+      "gloss": "behambe bezula"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "bengakhululekanga"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "bahlale ebusuku bakhala"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:47.114452907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 51:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 51,
+  "translation": "Ngizofundisa abayeleyo izindlela zakho, futhi abonileyo bazobuya kuwe.",
+  "tokens": [
+    {
+      "surface": "אלמדה",
+      "gloss": "ngizofundisa"
+    },
+    {
+      "surface": "пошעים",
+      "gloss": "abayeleyo"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "izindlela zakho"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "futhi abonileyo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "bazobuya"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:47.457677216Z",
+  "model": "glm-5.3"
+}

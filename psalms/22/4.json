@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Futhi wena ungongcwele, uhlale ⟨phezu⟩kwezindumiso zika-Israyeli.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Futhi wena"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ungongcwele"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "uhlale"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "⟨phezu⟩kwezindumiso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zika-Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:20.221654756Z",
+  "model": "glm-5.3"
+}

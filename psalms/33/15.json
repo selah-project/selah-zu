@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Lowo oyakha izinhliziyo zabo zondliwe ndawonye, lowo oqonda wonke imisebenzi yabo.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Lowo oyakha"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "izinhliziyo zabo"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "lowo oqonda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "imisebenzi yabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:52.421454232Z",
+  "model": "glm-5.3"
+}

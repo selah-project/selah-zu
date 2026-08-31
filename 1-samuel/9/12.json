@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 9:12",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Bese aziphendula ⟨את⟩ ⟨abasendlini, bazibonile⟩ zathi: 'Ulikhona; bheka, usephambi kwakho; shesha manje, ngokuba namuhla ufikile edolobheni, ngokuba abantu banomnikelo namuhla endaweni ephakeme.'",
+  "tokens": [
+    {
+      "surface": "ותענינה",
+      "gloss": "Bese aziphendula"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "abasendlini, bazibonile (uShawuli nomsizana wakhe)"
+    },
+    {
+      "surface": "ותאמרנה",
+      "gloss": "zathi"
+    },
+    {
+      "surface": "יש",
+      "gloss": "Ulikhona"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "usephambi kwakho"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "shesha"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ufikile"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "umnikelo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "בבמה",
+      "gloss": "endaweni ephakeme"
+    }
+  ],
+  "timestamp": "2026-08-31T03:18:36.807107042Z",
+  "model": "glm-5.3"
+}

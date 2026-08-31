@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 98:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 98,
+  "translation": "U-Yahwe wazisela izindaba zensindiso yakhe; emehlweni wezizwe aveze ukulunga kwakhe.",
+  "tokens": [
+    {
+      "surface": "הודיע",
+      "gloss": "wazisela izindaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "ensindiso yakhe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "emehlweni we-"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "aveze"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ukulunga kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:33.298568121Z",
+  "model": "glm-5.3"
+}

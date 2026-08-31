@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 104:31",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 104,
+  "translation": "Makube yinkazimulo kaYahwe kuze kube phakade; uYahwe ajabule emsebenzini wakhe.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "makube"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "inkazimulo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ajabule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "במעשיו",
+      "gloss": "emsebenzini wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:39.389329206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 7:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "uYahwe uyoqamba amacala ezizwe; ngihulele, uYahwe, ngokobulungiswa bami nangokobumsulwa okusekilimi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "uyoqamba amacala"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ezizwe"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "ngihulele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "ngokobulungiswa bami"
+    },
+    {
+      "surface": "וכתמי",
+      "gloss": "nangokobumsulwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "okusekilimi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:31.336117689Z",
+  "model": "glm-5.3"
+}

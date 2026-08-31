@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 9:13",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Balahlandla ngemva kokunzima kwenhliziyo yabo, nangemva kweziBaali abazafundisa ngazo oyisebomvu babo.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "balahlandla"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ngemva kwa-"
+    },
+    {
+      "surface": "שררות",
+      "gloss": "ukunzima kwenhliziyo"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "yenhliziyo yabo"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "baze bangemva kwa-"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "weziBaali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abaza-"
+    },
+    {
+      "surface": "למדום",
+      "gloss": "azafundisa ngazo"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "oyisebomvu babo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:42:54.627446199Z",
+  "model": "glm-5.3"
+}

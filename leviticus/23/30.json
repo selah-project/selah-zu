@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 23:30",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Futhi yonke umphefumulo olwenzayo noma yimuphi umsebenzi ngosuku lokuphela olunje, mina ngiyokhubaza ⟨את⟩ umphefumulo lowo phakathi kwabantu balo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Futhi yonke"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "umphefumulo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olwenzayo"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "enza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "noma yimuphi"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ngokuphela kuka-"
+    },
+    {
+      "surface": "היום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "olunje"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "futhi mina ngiyokhubaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umphefumulo lowo"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "umphefumulo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "bantu balo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:04:43.593109564Z",
+  "model": "glm-5.3"
+}

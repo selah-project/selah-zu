@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Abantu bakhala kuMoshe; uMoshe wathandaza kuYahwe, futhi umlilo wacisha.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "bakhala ngokuphezulu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "wathandaza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "wacisha"
+    },
+    {
+      "surface": "האש",
+      "gloss": "umlilo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:14:13.267081900Z",
+  "model": "glm-5.3"
+}

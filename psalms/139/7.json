@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 139,
+  "translation": "Ngingakuphi ukuya kude nomoya wakho? Futhi ngingakuphi ukubaleka ebusweni bakho?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "ngingakuphi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ukuya"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "kude nomoya wakho"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "futhi ngingakuphi"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ebusweni bakho"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "ukubaleka"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:21.613927215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngokuba lapho kukhona izwi lombuso, khona kukhona amandla okubusa; futhi ubani ongasho kuyena: Wenza yini?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "lapho kukhona"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "lombuso"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "amandla okubusa"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "futhi ubani"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ongasho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wenza"
+    }
+  ],
+  "timestamp": "2026-08-31T07:48:10.707875995Z",
+  "model": "glm-5.3"
+}

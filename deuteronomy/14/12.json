@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi lezi ngezikho ezidlwayo kuzo: iquphe, iPeresi, neAzniya.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "futhi lezi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezidlwayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngezikho"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ezidlwayo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kuzo"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "iquphe"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "iPeresi"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "neAzniya"
+    }
+  ],
+  "timestamp": "2026-08-31T02:36:18.094585341Z",
+  "model": "glm-5.3"
+}

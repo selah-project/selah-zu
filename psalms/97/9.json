@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 97,
+  "translation": "Ngokuba wena, uYahwe, ungu-Elyon phezu komhlaba wonke; unyukile kakhulu phezu kwazo zonke onkulunkulu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ungu-Elyon"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "komhlaba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "unyukile"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kwazo zonke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "onkulunkulu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:37.356515360Z",
+  "model": "glm-5.3"
+}

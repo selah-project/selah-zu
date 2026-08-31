@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 23:32",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Isabatha sokuphumula yilo kinina; futhi nizothobisa ⟨את⟩ umphefumulo wenu; ngosuku lwesishiyagalolunye ngenyanga ekusihlwini, kusuka ekusihlwini kufikela ekusihlwini nizogcina isabatha yenu.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Isabatha"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "sokuphumula"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kinina"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "futhi nizothobisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umphefumulo wenu"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "umphefumulo wenu"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "ngosuku lwesishiyagalolunye"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ngenyanga"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ekusihlwini"
+    },
+    {
+      "surface": "מערב",
+      "gloss": "kusuka ekusihlwini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikela"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ekusihlwini"
+    },
+    {
+      "surface": "תשבתו",
+      "gloss": "nizogcina"
+    },
+    {
+      "surface": "שבתכם",
+      "gloss": "isabatha yenu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:04:43.593426460Z",
+  "model": "glm-5.3"
+}

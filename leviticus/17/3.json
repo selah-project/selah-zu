@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Noma yimuphi umuntu wendlu ka-Israyeli ohlaba inkomoshi noma iwundlu noma imbuzi enkampeni, noma ohlaba ngaphandle kwenkampo,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "noma yimuphi"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "wendlu ka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ohlaba"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inkomoshi"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "iwundlu"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "עז",
+      "gloss": "imbuzi"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "enkampeni"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ohlaba"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwenkampo"
+    }
+  ],
+  "timestamp": "2026-08-31T11:05:19.058601330Z",
+  "model": "glm-5.3"
+}

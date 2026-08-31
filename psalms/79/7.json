@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 79,
+  "translation": "Ngokuba badlile ⟨את⟩ uYaqaba, futhi ⟨את⟩ indawo yakhe yokuhlala bayenza yaba yintjhaphulwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "badlile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYaqaba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaqaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "indawo yakhe yokuhlala"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "indawo yakhe yokuhlala"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "bayenza yaba yintjhaphulwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:53.789310985Z",
+  "model": "glm-5.3"
+}

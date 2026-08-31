@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 78:21",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Ngakho-ke uYahwe wayezwile wathukuthela, futhi umlilo wavutha kuYakobi, nolaka lwakhuphuka phezulu ku-Israyeli.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ngakho-ke"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wayezwile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "wathukuthela"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "futhi umlilo"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "wavutha"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "kuYakobi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "futhi no-"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ulaka"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "lwakhuphuka phezulu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ku-Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:28.519819239Z",
+  "model": "glm-5.3"
+}

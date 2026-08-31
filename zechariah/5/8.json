@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Wathi: Le inkohlakalo; wamphonsa yena ⟨את⟩ phakathi kwe-eyifa, waphonsa ⟨את⟩ itshe le-lead emlonyeni wayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "inkohlakalo"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "wamphonsa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yena (ingosisi)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "phakathi kwe"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "i-eyifa"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "waphonsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itshe le-lead"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "itshe"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "le-lead"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "mlonyeni wayo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:42:35.772810024Z",
+  "model": "glm-5.3"
+}

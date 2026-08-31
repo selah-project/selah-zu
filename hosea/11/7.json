@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 11:7",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi abantu bami basazekile ngokubuya kwami; noma bese bememezela oPhezulu, ndawonye ababe mukhulu.",
+  "tokens": [
+    {
+      "surface": "ועמי",
+      "gloss": "futhi abantu bami"
+    },
+    {
+      "surface": "תלואים",
+      "gloss": "basazekile\/bamathiselwe"
+    },
+    {
+      "surface": "למשובתי",
+      "gloss": "ngokubuya kwami"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "noma ku\/ese"
+    },
+    {
+      "surface": "על",
+      "gloss": "oPhezulu"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "bememeza kuye"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ababe"
+    },
+    {
+      "surface": "ירומם",
+      "gloss": "mukhulu\/phakamisa"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:31.167292793Z",
+  "model": "glm-5.3"
+}

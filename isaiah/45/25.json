@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 45:25",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "KuYahwe ⟨bona⟩ bazakululeka futhi bazidumise bonke abezwelayo baka-Israeli.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "KuYahwe"
+    },
+    {
+      "surface": "יצדקו",
+      "gloss": "bazakululeka"
+    },
+    {
+      "surface": "ויתהללו",
+      "gloss": "futhi bazidumise"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "abezwelayo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israeli"
+    }
+  ],
+  "timestamp": "2026-08-31T04:30:53.776175963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 38:1",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Kwenzakale ngaleso sikhathi uYehudha wehla ⟨את⟩ kubafowabo, waqondisa kuye indoda yase-Adulamu igama layo lingu-Chira.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwenzakale"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ngaleso sikhathi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leso"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "wehla"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehudha"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "kubafowabo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "kubafowabo"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "waqondisa kuye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "עדלמי",
+      "gloss": "yase-Adulamu"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "igama layo"
+    },
+    {
+      "surface": "חירה",
+      "gloss": "lingu-Chira"
+    }
+  ],
+  "timestamp": "2026-08-31T01:20:13.883618182Z",
+  "model": "glm-5.3"
+}

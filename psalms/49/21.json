@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 49:21",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Umuntu esesisindweni, kodwa ezingaqondi, ufana neziklabheshi ezinhliziyokhala, ziyafela.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "esisindweni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa ezingaqondi"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ukuqonda"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "ufana"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "ngeziklabheshi"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "ziyafela"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:03.339801148Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "U-El oyisabekayo kakhulu emkhandlwini wabangcwele, futhi oyedangala phezu kwabo bonke abazingelene naye.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "U-El"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "oyisabekayo"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "emkhandlwini"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "wabangcwele"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "futhi oyedangala"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kwabo bonke"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "abazingelene naye"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:22.562692753Z",
+  "model": "glm-5.3"
+}

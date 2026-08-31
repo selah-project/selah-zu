@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "micah 1:12",
+  "book": "micah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngoba umhlali weMaroti ulangazelele okuhle; ngoba okubi kwehle kusuka ⟨את⟩ kuYahwe, kwafika emnyango weYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "ulangazelele"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "umhlali"
+    },
+    {
+      "surface": "מרות",
+      "gloss": "weMaroti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "kwehle"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "emnyango we"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:35:31.192591675Z",
+  "model": "glm-5.3"
+}

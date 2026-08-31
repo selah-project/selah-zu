@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 9:3",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Izinkabi zikaKishi umfazi wenkabi uShawuli zahamba-zilahlekile, uKishi uyise kaShawuli wathi kuShawuli indodana yakhe: Thatha ngesicelo ⟨את⟩ oyedwa wezinsizwa oze naye, vuka uye ufunze ⟨את⟩ izinkabi.",
+  "tokens": [
+    {
+      "surface": "ותאבדנה",
+      "gloss": "zahamba-zilahlekile"
+    },
+    {
+      "surface": "האתנות",
+      "gloss": "izinkabi"
+    },
+    {
+      "surface": "לקיש",
+      "gloss": "kaKishi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kaShawuli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "uKishi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Thatha"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngesicelo"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ oze naye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyedwa wezinsizwa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "oyedwa"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "wezinsizwa"
+    },
+    {
+      "surface": "וקום",
+      "gloss": "vuka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "uye"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "ufunze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinkabi"
+    },
+    {
+      "surface": "האתנת",
+      "gloss": "izinkabi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:20:06.091538146Z",
+  "model": "glm-5.3"
+}

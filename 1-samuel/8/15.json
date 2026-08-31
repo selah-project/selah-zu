@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 8:15",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Futhi imbewu yenu nezipho zezivini zenu uzothatha ishumi langaphakathi, anike ama-eunushi akhe nangezinceku zakhe.",
+  "tokens": [
+    {
+      "surface": "וזרעיכם",
+      "gloss": "imbewu yenu futhi"
+    },
+    {
+      "surface": "וכרמיכם",
+      "gloss": "nezipho zezivini zenu"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "uzothatha ishumi langaphakathi"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "anike"
+    },
+    {
+      "surface": "לסריסיו",
+      "gloss": "ama-eunushi akhe"
+    },
+    {
+      "surface": "ולעבדיו",
+      "gloss": "ngezinceku zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:15:31.360533641Z",
+  "model": "glm-5.3"
+}

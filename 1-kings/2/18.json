@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Wathi uBath-Sheba: Kuhle; mina ngizokhuluma ngawe ⟨ku⟩-nkosi yomhlaba inkosi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "uBath-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Kuhle"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ngizokhuluma"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ngawe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:22:01.645177297Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 11:22",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "⟨את⟩ lezi phakathi kwazo niyozidla: ⟨את⟩ i-arobhe ngohlobo lwayo, no⟨את⟩ i-salseam ngohlobo lwayo, no⟨את⟩ i-jargoli ngohlobo lwayo, no⟨את⟩ i-jagabi ngohlobo lwayo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lezi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "phakathi kwazo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "niyozidla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-arobhe"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "i-arobhe"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ngohlobo lwayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "i-salseam"
+    },
+    {
+      "surface": "הסלעם",
+      "gloss": "i-salseam"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ngohlobo lwayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "i-jargoli"
+    },
+    {
+      "surface": "החרגל",
+      "gloss": "i-jargoli"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ngohlobo lwayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "i-jagabi"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "i-jagabi"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ngohlobo lwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:14:04.378556783Z",
+  "model": "glm-5.3"
+}

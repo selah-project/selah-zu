@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Wathi kubona: Cha, kodwa unakho lomhlaba nize ukulubona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Cha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "unakho"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lomhlaba"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "nize"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ukulubona"
+    }
+  ],
+  "timestamp": "2026-08-31T01:21:49.783679680Z",
+  "model": "glm-5.3"
+}

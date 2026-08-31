@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 25:4",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Kodwa ngomnyaka wesikhombisa kuzoba isabatha lesiphumulo elizweni — isabatha likaYahwe; insimu yakho awuzuzali, ivory yakho awuzulungi.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "ngomnyaka"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "wesikhombisa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "isabatha"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "lesiphumulo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuzoba"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "elizweni"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "isabatha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "insimu yakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "zuzali"
+    },
+    {
+      "surface": "וכרמך",
+      "gloss": "ivory yakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "zulungi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:05:04.634677285Z",
+  "model": "glm-5.3"
+}

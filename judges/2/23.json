@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 2:23",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "U-Yahwe wasala ezishiyela ⟨את⟩ lezi izizwe, angazixosha masinyane, waze wangazinika esandleni sikaYehoshuwa.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "wazishiyela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lezi izizwe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ukuze ungabi"
+    },
+    {
+      "surface": "הורישם",
+      "gloss": "ukuzixosha"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "masinyane"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi cha"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "wazinika"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "sikaYehoshuwa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:59:58.097346024Z",
+  "model": "glm-5.3"
+}

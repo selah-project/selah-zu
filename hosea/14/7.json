@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 14:7",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Izitshalo zawo zizahamba, ubukhazikhazi bazo buzaba njengomnquma, futhi iphunga lalo lizaba njengale-Lebanoni.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "zizahamba"
+    },
+    {
+      "surface": "ינקותיו",
+      "gloss": "Izitshalo zawo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "futhi buzaba"
+    },
+    {
+      "surface": "כזית",
+      "gloss": "njengomnquma"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "ubukhazikhazi bazo"
+    },
+    {
+      "surface": "וריח",
+      "gloss": "futhi iphunga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lalo"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "njengale-Lebanoni"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:18.157005661Z",
+  "model": "glm-5.3"
+}

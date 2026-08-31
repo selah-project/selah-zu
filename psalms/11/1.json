@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 11:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Kumqondisi, ingoma kaDavide. KuYahwe ngiphephile; nithini kumphefumulo wami: Hambahamba, inyoni, entabeni?",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ingoma kaDavide"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ngiphephile"
+    },
+    {
+      "surface": "איך",
+      "gloss": "nithini"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "nithini"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kumphefumulo wami"
+    },
+    {
+      "surface": "נודו",
+      "gloss": "Hambahamba"
+    },
+    {
+      "surface": "הרכם",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "inyoni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:34.687823689Z",
+  "model": "glm-5.3"
+}

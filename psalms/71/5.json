@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 71,
+  "translation": "Ngokuba wena ulithemba lami, u-Adonayi uYahwe, ulisiphephelo sami kusukela ebushanweni bami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "lithemba lami"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "lisiphephelo sami"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "kusukela ebushanweni bami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:12.905592977Z",
+  "model": "glm-5.3"
+}

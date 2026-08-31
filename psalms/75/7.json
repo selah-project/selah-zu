@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 75,
+  "translation": "Ngokuba akusiki empumalanga nangasentshonalanga, futhi akusiki ehlane lezintaba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akusiki"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "empumalanga"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "nangasentshonalanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi akusiki"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "ehlane"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "lezintaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:49.823978852Z",
+  "model": "glm-5.3"
+}

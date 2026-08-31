@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 39:21",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Futhi uYahwe waba ⟨את⟩ uYosefu, wanikeza ikhesedi kuyena, wabeka umusa wakhe emehlweni somphathi wentolongo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "wanikeza"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "umusa wakhe"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umphathi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wentolongo"
+    },
+    {
+      "surface": "הסהר",
+      "gloss": "intolongo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:19:49.950680821Z",
+  "model": "glm-5.3"
+}

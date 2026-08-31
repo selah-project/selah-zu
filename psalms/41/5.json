@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Mina ngathi: uYahwe, ngihawukele; philisa umphefumulo wami, ngoba ngihone kuwe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ngathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ngihawukele"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "philisa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumulo wami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ngihone"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:56.995380963Z",
+  "model": "glm-5.3"
+}

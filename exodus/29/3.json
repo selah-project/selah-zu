@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 29:3",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Futhi uzobeka ⟨את⟩ kwesoﬁya esisodwa, bese ulehisa ngasoﬁya ⟨את⟩ lezo zinto, kanye ⟨את⟩ ngenkomoshi yoﬁro kanye ⟨את⟩ nezimpongo ezimbili.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "futhi uzobeka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "izinkwa ezenziwe ngeﬂawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwe-"
+    },
+    {
+      "surface": "סל",
+      "gloss": "soﬁya"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "esisodwa"
+    },
+    {
+      "surface": "והקרבת",
+      "gloss": "bese ulehisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izinkwa ezisesoﬁya"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "ngasoﬁya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inkomoshi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "inkomoshi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izimpongo ezimbili"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "האילם",
+      "gloss": "izimpongo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:42:28.494940486Z",
+  "model": "glm-5.3"
+}

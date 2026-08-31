@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Khahleba uYahwe ⟨את⟩ ngemali yakho, nasokuqala konke kwezithelo zakho.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Khahleba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "ngemali yakho"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "nasokuqala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "kwezithelo zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:47:14.169109229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 147,
+  "translation": "AKuthandi ⟨ngamandla⟩ amabhewu, akuthandi ekuzimbeleni komuntu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Akuthandi"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "⟨ngamandla⟩"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "amabhewu"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "akuthandi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akuthandi"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "ekuzimbeleni"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "komuntu"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "akuthandi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:11.515343570Z",
+  "model": "glm-5.3"
+}

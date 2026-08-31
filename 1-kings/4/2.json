@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 4:2",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi lezi zazingizinhlakanzi ezayingezakhe: u-Azaryahu, indodana kaTsadoki, umpristi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "futhi lezi"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "izinhlakanzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezazinge"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zakhe"
+    },
+    {
+      "surface": "עזריהו",
+      "gloss": "u-Azaryahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "uTsadoki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:47:38.125082444Z",
+  "model": "glm-5.3"
+}

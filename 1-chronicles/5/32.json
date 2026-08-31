@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "U-Uzzi wazala ⟨את⟩ uZerachiyahu; uZerachiyahu wazala ⟨את⟩ uMerayothi.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "U-Uzzi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uZerachiyahu"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "uZerachiyahu"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "uZerachiyahu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMerayothi"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "uMerayothi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:20:13.592568937Z",
+  "model": "glm-5.3"
+}

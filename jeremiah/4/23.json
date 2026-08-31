@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Ngibone ⟨את⟩ umhlaba, futhi bheka, uwutho-hu nowubu-hu; futhi ngabheka emazulwini, futhi awunawo ukukhanya kwawo.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ngibone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "futhi bheka"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "utho-hu"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "ubu-hu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi ngabheka ku-"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi awunawo"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "ukukhanya kwawo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:55:24.648921654Z",
+  "model": "glm-5.3"
+}

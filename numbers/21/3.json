@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 21:3",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi uYahwe wezwa izwi lakaYisrayeli, wanikeza ⟨את⟩ uKanani; [uYisrayeli] wababhobozela ngokuphelele laba nemicabango yomuzi wabo; indawo leyo yanikwa igama iChorma.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wezwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "izwi laka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayeli"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wanikeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uKanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "uKanani"
+    },
+    {
+      "surface": "ויחרם",
+      "gloss": "wababhobozela ngokuphelele"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩ laba",
+      "marks": "uKanani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nomicabango yomuzi ⟨את⟩"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "yomuzi wabo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "yanikwa igama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "iChorma"
+    }
+  ],
+  "timestamp": "2026-08-31T02:19:20.597828156Z",
+  "model": "glm-5.3"
+}

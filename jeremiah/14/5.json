@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Noba impala ensimini yazalza ngabeke ithonyane layo, ngoba abukho utshani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "noba"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "impala"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ensimini"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "yazalza"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "ngabeke ithonyane layo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abukho"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨bukho⟩"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "utshani"
+    }
+  ],
+  "timestamp": "2026-08-31T04:44:22.109673861Z",
+  "model": "glm-5.3"
+}

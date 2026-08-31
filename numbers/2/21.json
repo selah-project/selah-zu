@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 2:21",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Nohamba lwakhe nababalwa babo ⟨abantu⟩ bamashumi amabili nambili ngenani elingamakhulu angamatatsu amabili.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "nohamba lwakhe"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "nababalwa bavo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "amabili"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "namashumi amathathu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "izinkulungwane"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "namakhulu amabili"
+    }
+  ],
+  "timestamp": "2026-08-31T11:39:22.864974252Z",
+  "model": "glm-5.3"
+}

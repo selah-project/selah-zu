@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 106:43",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Izikhathi eziningi wasindisa, kodwa bona babephikisa ngezenzo zocango lwabo, bachithwa ngenxa yokungalungi kwabo",
+  "tokens": [
+    {
+      "surface": "פעמים",
+      "gloss": "izikhathi"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "eziningi"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "wasindisa"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ימרו",
+      "gloss": "babephikisa"
+    },
+    {
+      "surface": "בעצתם",
+      "gloss": "ngezenzo zocango lwabo"
+    },
+    {
+      "surface": "וימכו",
+      "gloss": "bachithwa"
+    },
+    {
+      "surface": "בעונם",
+      "gloss": "ngenxa yokungalungi kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:58.767798251Z",
+  "model": "glm-5.3"
+}

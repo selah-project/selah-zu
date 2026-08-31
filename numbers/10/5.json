@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 10:5",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Nizokhisa iterimophu, bese amakamu ahlelelasa empumalanga ahamba.",
+  "tokens": [
+    {
+      "surface": "ותקעתם",
+      "gloss": "nizokhisa"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "iterimophu"
+    },
+    {
+      "surface": "ונסעו",
+      "gloss": "bese ahamba"
+    },
+    {
+      "surface": "המחנות",
+      "gloss": "amakamu"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "ahlelelasa"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "empumalanga"
+    }
+  ],
+  "timestamp": "2026-08-31T02:13:05.395862671Z",
+  "model": "glm-5.3"
+}

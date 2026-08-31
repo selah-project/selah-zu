@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 148,
+  "translation": "Izintaba, nazo zonke izinduli; izihlahla zezithombo, nazo zonke amacedaru;",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "Izintaba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nazo zonke"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "izinduli"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "izihlahla"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "zezithombo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nazo zonke"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "amacedaru"
+    }
+  ],
+  "timestamp": "2026-08-31T06:45:21.575179296Z",
+  "model": "glm-5.3"
+}

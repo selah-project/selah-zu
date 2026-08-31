@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 133:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 133,
+  "translation": "Njengomswakama weChermon owhela ezintabeni zeTsiyoni, ngokuthi lapho uYahwe wayalela ⟨את⟩ isibusiso, impilo kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "כטל",
+      "gloss": "Njengomswakama"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "weChermon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "owhela"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "ezintabeni"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "zeTsiyoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibusiso"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "isibusiso"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "impilo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:06.472580373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 11:16",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "noShabbethayi noYozabadi, ⟨ababengaphezu⟩ komsebenzi wangaphandle wentaba zika-Elohim, ⟨bebingowezinhloko⟩ zamaLevi.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "noShabbethayi"
+    },
+    {
+      "surface": "ויוזבד",
+      "gloss": "noYozabadi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "komsebenzi"
+    },
+    {
+      "surface": "החיצנה",
+      "gloss": "wangaphandle"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "wentaba zika-"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ka-Elohim"
+    },
+    {
+      "surface": "מראשי",
+      "gloss": "ezinhlokweni zama-"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "amaLevi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:17:09.706673933Z",
+  "model": "glm-5.3"
+}

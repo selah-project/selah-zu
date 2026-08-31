@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Umlomo wakhe ugcwele iziqaleyo nobuxoki nobudlova; phansi kolimi lwakhe ubunzima nobubi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "iziqaleyo"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "umlomo wakhe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ugcwele"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "nobuxoki"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "nobudlova"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phansi"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "kolimi lwakhe"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ubunzima"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "nobubi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:18.486094170Z",
+  "model": "glm-5.3"
+}

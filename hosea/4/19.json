@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "hosea 4:19",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Umoya umengeze ⟨את⟩ yena ezincwadini zayo, futhi bazokhathazeka ngezinkonzo zabo ezibulelayo.",
+  "tokens": [
+    {
+      "surface": "צרר",
+      "gloss": "umengeze"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "yena (ona) — isiqu esiphawuliwe esisho 'yona'"
+    },
+    {
+      "surface": "בכנפיה",
+      "gloss": "ezincwadini zayo"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "futhi bazokhathazeka"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "ngamadini abo (izibingelelo)"
+    }
+  ],
+  "timestamp": "2026-08-31T10:29:31.134800853Z",
+  "model": "glm-5.3"
+}

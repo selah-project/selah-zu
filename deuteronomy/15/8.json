@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 15:8",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "kepha vula ⟨את⟩ isandla sakho ngokugcwele kuye, futhi mnike ngokuboleka ngokwanele kokuntulekayo, lokhu akuntulekile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kepha"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ngokugcwele"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "vula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sakho"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "והעבט",
+      "gloss": "futhi mnike"
+    },
+    {
+      "surface": "תעביטנו",
+      "gloss": "ngokuboleka"
+    },
+    {
+      "surface": "די",
+      "gloss": "ngokwanele"
+    },
+    {
+      "surface": "מחסרו",
+      "gloss": "kokuntulekayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "akuntulekile"
+    },
+    {
+      "surface": "לו",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-08-31T02:37:31.727874079Z",
+  "model": "glm-5.3"
+}

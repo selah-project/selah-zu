@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 41:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Futhi uma eya ukungibona, inkohliso iyakhuluma; inhliziyo yakhe iqoqa ububi kuyena; uma ephuma ngaphandle, uyakhuluma.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Futhi uma"
+    },
+    {
+      "surface": "בא",
+      "gloss": "eza"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ukungibona"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "inkohliso"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "uyakhuluma"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inhliziyo yakhe"
+    },
+    {
+      "surface": "יקבץ",
+      "gloss": "iqoqa"
+    },
+    {
+      "surface": "און",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ephuma"
+    },
+    {
+      "surface": "לחוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "uyakhuluma"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:56.995866260Z",
+  "model": "glm-5.3"
+}

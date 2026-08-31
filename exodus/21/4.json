@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 21:4",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Uma iNkosi yakhe inika yena umfazi, lo mfazi azalela yena amadodana noma amadodakazi; lo mfazi nengane zakhe ziyoba leNkosi yakhe, yena uzophuma ngesiqu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "iNkosi yakhe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "inika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "וילדה",
+      "gloss": "azalela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "amadodakazi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "lo mfazi"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "nengane zakhe"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ziyoba"
+    },
+    {
+      "surface": "לאדניה",
+      "gloss": "leNkosi yakhe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uzophuma"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "ngesiqu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:49.255248665Z",
+  "model": "glm-5.3"
+}

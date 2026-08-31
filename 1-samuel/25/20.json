@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 25:20",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Kwathi ⟨kwenzeka⟩ yena ehamba ngehashi elihola lihleli phezulu, ehlela esitheleni semfula phakathi kwentaba, futhi bheka, uDavide namanzi akhe behlela ukuya kuyona; wabahlangana ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kwathi ⟨kwenzeka⟩"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "רכבת",
+      "gloss": "ehamba ngehashi elihola lihleli phezulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "lihashi elihola"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "ehlela"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "esitheleni semfula"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "phakathi kwentaba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "futhi bheka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "namanzi akhe"
+    },
+    {
+      "surface": "ירדים",
+      "gloss": "behlela"
+    },
+    {
+      "surface": "לקראתה",
+      "gloss": "ukuya kuyona"
+    },
+    {
+      "surface": "ותפגש",
+      "gloss": "wabahlangana"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona (uDavide namanzi akhe)"
+    }
+  ],
+  "timestamp": "2026-08-31T11:40:35.205257718Z",
+  "model": "glm-5.3"
+}

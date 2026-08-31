@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 37:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "futhi uzokhipha ulungiswa lwakho njengokukhanya, nomthetho wakho njengesikhathi sasemini.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "futhi uzokhipha"
+    },
+    {
+      "surface": "כאור",
+      "gloss": "njengokukhanya"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ulungiswa lwakho"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "nomthetho wakho"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "njengesikhathi sasemini"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:40.516293722Z",
+  "model": "glm-5.3"
+}

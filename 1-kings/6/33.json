@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 6:33",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi ngendlela efanayo yenza emnyango wehekhala imizuzu yezinkuni zomhloli, isiqephu sesine ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "futhi ngendlela efanayo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "wehekhala"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "imizuzu"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yezinkuni"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "zomhloli"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "isiqephu sesine"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "isiqephu sesine"
+    }
+  ],
+  "timestamp": "2026-08-31T03:49:22.627636202Z",
+  "model": "glm-5.3"
+}

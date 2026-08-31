@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Uzoletha uYahwe inkonzo yegethumbuzo enziwe ngalezi zinto, uyidlethe kumpristi, ayidlethe esibhingeni.",
+  "tokens": [
+    {
+      "surface": "והבאת",
+      "gloss": "Uzoletha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkonzo yegethumbuzo"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "inkonzo yegethumbuzo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "enziwe"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "enziwe"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ngalezi zinto"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "והקריבה",
+      "gloss": "uyidlethe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "והגישה",
+      "gloss": "ayidlethe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "esibhingeni"
+    }
+  ],
+  "timestamp": "2026-08-31T05:57:56.052332973Z",
+  "model": "glm-5.3"
+}

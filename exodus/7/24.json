@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi bonke abaseMitsrayim bakhumba eduze iNile besho amanzi okunatha, ngoba abazange bakwazi ukunatha amanzi aNile.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "bakhumba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "abaseMitsrayim"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "eduze"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "iNile"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "okunatha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abazange"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bakwazi"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "ukunatha"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "amanzi a-"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "Nile"
+    }
+  ],
+  "timestamp": "2026-08-31T01:28:12.219285091Z",
+  "model": "glm-5.3"
+}

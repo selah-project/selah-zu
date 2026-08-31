@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Le ndoda empofu yamemeza, uYahwe wezwa, wasindisela kuzo zonke izinhlekelele zakhe.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "עני",
+      "gloss": "empofu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "yamemeza"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wezwa"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "izinhlekelele zakhe"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "wasindisela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:22.649390441Z",
+  "model": "glm-5.3"
+}

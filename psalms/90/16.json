@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 90:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 90,
+  "translation": "Makhonjiseke izinceku zakho umsebenzi wakho, nobukhazikhazi bakho phezu kwezingane zabo.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "Makhonjiseke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "izinceku zakho"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "umsebenzi wakho"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "nobukhazikhazi bakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwezi-"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "ngane zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:52.955941617Z",
+  "model": "glm-5.3"
+}

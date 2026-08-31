@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 15:12",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Njengenani ⟨elo-⟩ ozolungisa ⟨ukwenza⟩, ngendlela-leyo yenzani kwesinye-isinye, njengenani labo.",
+  "tokens": [
+    {
+      "surface": "כמספר",
+      "gloss": "njengenani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elo-"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ozolungisa ukwenza"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ngendlela-leyo"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "yenzani"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "kwesinye-isinye"
+    },
+    {
+      "surface": "כמספרם",
+      "gloss": "njengenani labo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:15:10.744654914Z",
+  "model": "glm-5.3"
+}

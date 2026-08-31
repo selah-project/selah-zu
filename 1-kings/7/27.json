@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 7:27",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Wayenzele ⟨את⟩ izinkundla eziyishumi zethusi; ubude bwenkundla eyodwa babungamakhubhu amane, ububanzi bayo babungamakhubhu amane, ubude bayo obusezansi babungamakhubhu amathathu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wayenzele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinkundla eziyishumi zethusi"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "izinkundla"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "eziyishumi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "zethusi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "amane"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "amakhubhu"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ubude"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "benkundla"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "eyodwa"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "futhi amane"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "amakhubhu"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ububanzi bayo"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "futhi amathathu"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "amakhubhu"
+    },
+    {
+      "surface": "קומתה",
+      "gloss": "ubude bayo obusezansi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:50:41.079194371Z",
+  "model": "glm-5.3"
+}

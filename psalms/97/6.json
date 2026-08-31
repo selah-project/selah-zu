@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 97:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 97,
+  "translation": "Amazulu amemeza ukulunga kwakhe, wonke amazwe abona inkazimulo yakhe.",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "amemeza"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ukulunga kwakhe"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "abona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "amazwe"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "inkazimulo yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:31.476300170Z",
+  "model": "glm-5.3"
+}

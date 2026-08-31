@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 5:6",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Yase isandla sikaYahwe saba nzima kubantu baseAshdodi, sabatshabalalisa, sabashaya ⟨את⟩ ngesiphumo sokuvuvukala — ⟨את⟩ iAshdodi nazo ⟨את⟩ imikhawulo yayo.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "saba nzima"
+    },
+    {
+      "surface": "יד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "האשדודים",
+      "gloss": "abantu baseAshdodi"
+    },
+    {
+      "surface": "וישמם",
+      "gloss": "sabatshabalalisa"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "sabashaya"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona (abantu baseAshdodi)"
+    },
+    {
+      "surface": "בעפלים",
+      "gloss": "ngesiphumo sokuvuvukala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iAshdodi"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "iAshdodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nazo ⟨את⟩",
+      "marks": "imikhawulo yayo"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "imikhawulo yayo"
+    }
+  ],
+  "timestamp": "2026-08-31T11:06:04.950253661Z",
+  "model": "glm-5.3"
+}

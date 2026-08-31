@@ -1,0 +1,141 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 8:30",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "UMoshe wathatha esemafutini okugcoba nasengazini elalingaphezu kwesivande, wazithwasa ku-Aharon, phezu kwezingembatho zakhe, nakubantabakhe, nasemambathweni abantabakhe naye; wamngcwaba ⟨את⟩ u-Aharon ⟨את⟩ izingembatho zakhe, ⟨את⟩ nabantabakhe ⟨את⟩ nemambatho abantabakhe naye.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "esemafutini"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "okugcoba"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "nasengazini"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "elalingaphezu kwesivande"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwa-"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "isivande"
+    },
+    {
+      "surface": "ויז",
+      "gloss": "wazithwasa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "izingembatho zakhe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "naku-"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bantabakhe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nase-"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "emambathweni"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abantabakhe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "wamngcwaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingembatho zakhe"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "izingembatho zakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ na-",
+      "marks": "bantabakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bantabakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "emambathweni abantabakhe"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "emambathweni"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abantabakhe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    }
+  ],
+  "timestamp": "2026-08-31T01:54:43.566447143Z",
+  "model": "glm-5.3"
+}

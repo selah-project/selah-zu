@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Konke ukuzabalaza komuntu kumi komlomo wakhe, futhi inefeshi ayizaliswa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ukuzabalaza"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "komuntu"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "komlomo wakhe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "inefeshi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi-"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "zaliswa"
+    }
+  ],
+  "timestamp": "2026-08-31T07:47:12.663320408Z",
+  "model": "glm-5.3"
+}

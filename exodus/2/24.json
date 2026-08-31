@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 2:24",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "uElohim wezwa ⟨את⟩ ukudubula kwabo; uElohim wakhumbula ⟨את⟩ isivumelwano sakhe, ⟨את⟩ u-Avraham, ⟨את⟩ u-Yitschak, no⟨את⟩ u-Yaakob.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wezwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukudubula kwabo"
+    },
+    {
+      "surface": "נאקתם",
+      "gloss": "ukudubula kwabo"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "wakhumbula"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isivumelwano sakhe"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "isivumelwano sakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "u-Yitschak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "u-Yaakob"
+    }
+  ],
+  "timestamp": "2026-08-31T01:27:00.241826387Z",
+  "model": "glm-5.3"
+}

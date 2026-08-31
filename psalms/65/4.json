@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 65:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 65,
+  "translation": "Izindaba zokoni zangingqoba kunami; ukhoselo lwethu — wena uzozifihla.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "izindaba"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "zokoni"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "zangingqoba"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kunami"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "ukhoselo lwethu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תכפרם",
+      "gloss": "uzozifihla"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:40.665190989Z",
+  "model": "glm-5.3"
+}

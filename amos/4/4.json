@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 4:4",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Yizani eBheti-eli nizoni, yizani eGilgali niphenduke kakhulu, futhi nizise ekuseni izipulumo zenu, ngamalanga amathathu izikhupha zenu.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Yizani"
+    },
+    {
+      "surface": "בית",
+      "gloss": "eBheti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-eli"
+    },
+    {
+      "surface": "ופשעו",
+      "gloss": "nizoni"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "eGilgali"
+    },
+    {
+      "surface": "הרבו",
+      "gloss": "niphenduke kakhulu"
+    },
+    {
+      "surface": "לפשע",
+      "gloss": "izoni"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "futhi nizise"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "זבחיכם",
+      "gloss": "izipulumo zenu"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "ngamalanga amathathu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "amalanga"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "izikhupha zenu"
+    }
+  ],
+  "timestamp": "2026-08-31T05:31:59.293986069Z",
+  "model": "glm-5.3"
+}

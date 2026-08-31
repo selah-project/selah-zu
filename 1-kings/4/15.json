@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "u-Ahimaatsi eNafutali; yena futhi wathatha ⟨את⟩ iBhashimathi indodakazi kaShelomoh aba yindikimabi (umfazi).",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "u-Ahimaatsi"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "eNafutali"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iBhashimathi"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "iBhashimathi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "kaShelomoh"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "aba yindikimabi (umfazi)"
+    }
+  ],
+  "timestamp": "2026-08-31T03:46:54.698735491Z",
+  "model": "glm-5.3"
+}

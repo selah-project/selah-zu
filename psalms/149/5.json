@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 149:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 149,
+  "translation": "Abangcwele bayaqhudela ngenkazimulo, bacula ngenjabulo emibhedini yabo.",
+  "tokens": [
+    {
+      "surface": "יעלזו",
+      "gloss": "bayaqhudela"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "abangcwele"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "ngenkazimulo"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bacula ngenjabulo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "emibhedini yabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:45:47.020563172Z",
+  "model": "glm-5.3"
+}

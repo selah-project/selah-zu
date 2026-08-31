@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 86,
+  "translation": "Osukwini lwenkingizi yami ngizakubiza, ngoba ungizuluphula.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "osukwini"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "lwenkingizi yami"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "ngizakubiza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ungizuluphula"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:07.864469538Z",
+  "model": "glm-5.3"
+}

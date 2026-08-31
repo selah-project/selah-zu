@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 5:25",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Futhi uDavide wentseka kanjalo, njengoba uYahwe aqinisile umthetho kuye; washaya ⟨את⟩ amaFilisti kusuka eGeba kuze kufike eGezeri.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "waba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "walayisha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "washaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaFilisti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaFilisti"
+    },
+    {
+      "surface": "מגבע",
+      "gloss": "kusuka eGeba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "באך",
+      "gloss": "ukufika kwakho"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "eGezeri"
+    }
+  ],
+  "timestamp": "2026-08-31T11:40:26.331500236Z",
+  "model": "glm-5.3"
+}

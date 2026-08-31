@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 9:14",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": " Yekeni ukungilahla, ukuze ngibatshabalalise, futhi ngisuse igama labo ngaphansi kwamazulu, futhi ngikwenze wena ukuba ube yisizwe esinamandla futhi esikhulu kakhulu kunalabo.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "yekeni"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ukungilahla"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "futhi ngibatshabalalise"
+    },
+    {
+      "surface": "ואמחה",
+      "gloss": "futhi ngisuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama labo"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "igama labo"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ngaphansi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kwamazulu"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "futhi ngikwenze"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ wena",
+      "marks": "wena"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ukuba ube yisizwe"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "esinamandla"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "futhi esikhulu"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kunalabo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:34:54.267721585Z",
+  "model": "glm-5.3"
+}

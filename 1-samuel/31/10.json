@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 31:10",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Bese befaka ⟨את⟩ izikhali zakhe endlini ye-Ashtarothi, futhi ⟨את⟩ umzimba wakhe wabanamathisela odongeni lweBethe-Shani.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "bese befaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izikhali zakhe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "izikhali zakhe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlini"
+    },
+    {
+      "surface": "עשתרות",
+      "gloss": "ye-Ashtarothi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "umzimba wakhe"
+    },
+    {
+      "surface": "גויתו",
+      "gloss": "umzimba wakhe"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "wabanamathisela"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "odongeni lwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iBethe-"
+    },
+    {
+      "surface": "שן",
+      "gloss": "Shani"
+    }
+  ],
+  "timestamp": "2026-08-31T03:32:02.739099236Z",
+  "model": "glm-5.3"
+}

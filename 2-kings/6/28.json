@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 6:28",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Inkosi yathi kuyena: Kunjani na? Yaphendula wathi: Owaysfazane lo uthi kimi, Nika indodana yakho ⟨את⟩ siyoyidla namuhla, ⟨את⟩ indodana yami siyoyidla kusasa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kunjani na"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "yaphendula wathi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "owesifazane"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lo"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "תני",
+      "gloss": "Nika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indodana yakho"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "indodana yakho"
+    },
+    {
+      "surface": "ונאכלנו",
+      "gloss": "siyoyidla"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indodana yami"
+    },
+    {
+      "surface": "בני",
+      "gloss": "indodana yami"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "siyoyidla"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "kusasa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:07:34.102480253Z",
+  "model": "glm-5.3"
+}

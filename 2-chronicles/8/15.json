@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 8:15",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Futhi abasuki emyalweni yenkosi ngabapristi naLevi, nakho konke okwenziwayo nakwezingebo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "futhi abasuki"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "abasuki"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "emyalweni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yenkosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "naLevi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nakho konke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwenziwayo"
+    },
+    {
+      "surface": "ולאצרות",
+      "gloss": "nakwezingebo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:34:57.085917906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 44:1",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Wangibuyisela ⟨את⟩ ngendlela yesango lesigodlo sangaphandle, elibheke empumalanga; futhi lalivaliwe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wangibuyisela"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "indlela yesango lesigodlo"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ngendlela"
+    },
+    {
+      "surface": "שער",
+      "gloss": "yesango"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "lesigodlo"
+    },
+    {
+      "surface": "החיצון",
+      "gloss": "sangaphandle"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "elibheke"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "empumalanga"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "futhi li-"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "livaliwe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:24:25.262318474Z",
+  "model": "glm-5.3"
+}

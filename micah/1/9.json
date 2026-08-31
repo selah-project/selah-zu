@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 1:9",
+  "book": "micah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngoba imikhuhlane yayo ingaphulwa; ngoba ifike kuYehudha, isithinte umnyango wabantu bami, kuYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אנושה",
+      "gloss": "ingaphulwa"
+    },
+    {
+      "surface": "מכותיה",
+      "gloss": "imikhuhlane yayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ifike"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehudha"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "isithinte"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שער",
+      "gloss": "umnyango"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bami"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:35:31.191809179Z",
+  "model": "glm-5.3"
+}

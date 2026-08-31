@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 20:10",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Futhi usuku olwesikhombisa yiShabathi kuYahwe uElohim wakho; awuzukwenza noma yimuphi umsebenzi — wena, nonyana wakho, nontombazane yakho, isikhonzi sakho owesilisa, nesikhonzi sakho owesifazane, nezinkomo zakho, nomvakazi wakho osemasangweni akho.",
+  "tokens": [
+    {
+      "surface": "ויום",
+      "gloss": "futhi usuku"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "olwesikhombisa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "yiShabathi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awuzukwenza"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "noma yimuphi"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "nonyana wakho"
+    },
+    {
+      "surface": "ובתך",
+      "gloss": "nontombazane yakho"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "isikhonzi sakho owesilisa"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "nesikhonzi sakho owesifazane"
+    },
+    {
+      "surface": "ובהמתך",
+      "gloss": "nezinkomo zakho"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "nomvakazi wakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "semasangweni akho"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:00.470597106Z",
+  "model": "glm-5.3"
+}

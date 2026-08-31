@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 23:16",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Nomgubho wokwethwa, izibulo zemisebenzi yakho ozozilima ensimini; nomgubho wokuqoqa, ekupheleni konyaka, ngesikhathi uqoqele ⟨את⟩ imisebenzi yakho ensimini.",
+  "tokens": [
+    {
+      "surface": "וחג",
+      "gloss": "nomgubho"
+    },
+    {
+      "surface": "הקציר",
+      "gloss": "wokwethwa"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "izibulo"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "zemisebenzi yakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "zozilima"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ensimini"
+    },
+    {
+      "surface": "וחג",
+      "gloss": "nomgubho"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "wokuqoqa"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "konyaka"
+    },
+    {
+      "surface": "באספך",
+      "gloss": "ngesikhathi uqoqela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imisebenzi yakho"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "imisebenzi yakho"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "nsimini"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:40.276359781Z",
+  "model": "glm-5.3"
+}

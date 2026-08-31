@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Umuntu angeqiniswa yobubi, kodwa impande yabalungile angeke iqhekeze.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ange"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "eqiniswa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "yobubi"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "kodwa impande"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "yabalungile"
+    },
+    {
+      "surface": "בל",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "iqhekeze"
+    }
+  ],
+  "timestamp": "2026-08-31T06:52:29.101863108Z",
+  "model": "glm-5.3"
+}

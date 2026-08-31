@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Nithethele, nibe ngabangcwele, ngokuba mina nginguYahwe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "nithethele"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "nibe"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ngabangcwele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:01:42.447513297Z",
+  "model": "glm-5.3"
+}

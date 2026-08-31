@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 78:44",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Waguqula imithombo yabo yaba yigazi, nasemigelezweni yabo benganatwa.",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "Waguqula"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "yaba yigazi"
+    },
+    {
+      "surface": "יאריהם",
+      "gloss": "imithombo yabo"
+    },
+    {
+      "surface": "ונזליהם",
+      "gloss": "nasemigelezweni yabo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "benga-"
+    },
+    {
+      "surface": "ישתיון",
+      "gloss": "natwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:39.626925797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Sibushekile uYahwe, ngoba wezwa izwi lezicelo zami.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "sibushekile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wezwa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "lezicelo zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:13.531572679Z",
+  "model": "glm-5.3"
+}

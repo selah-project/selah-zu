@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Futhi ngempela yedwa ungdadewazi, umntwana kamina yena; kodwa akanas umntwana kanina; waba ngomkami.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Futhi"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "ngempela yedwa"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ungdadewazi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umntwana"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "kamina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akanas"
+    },
+    {
+      "surface": "בת",
+      "gloss": "umntwana"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "kanina"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ng-"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "omkami"
+    }
+  ],
+  "timestamp": "2026-08-31T01:10:36.728340986Z",
+  "model": "glm-5.3"
+}

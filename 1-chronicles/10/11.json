@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Bazwa bonke abantu baseYaveshi aseGiladi ⟨את⟩ konke okwakwenzile amaFelishti kuShawuli.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "Bazwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "abantu baseYaveshi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "aseGiladi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwakwenzile"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "okwakwenzile"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaFelishti"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kuShawuli"
+    }
+  ],
+  "timestamp": "2026-08-31T08:22:44.251792861Z",
+  "model": "glm-5.3"
+}

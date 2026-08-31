@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 12:16",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi u-Avram wathola okuhle ngenxa yalowo; wayenezimvu, izinkomo, amabhokisi amaduna, izigqila zesilisa, izigqila zesifazane, amabhokisi amakhazi, namakhameli.",
+  "tokens": [
+    {
+      "surface": "ולאברם",
+      "gloss": "futhi u-Avram"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "wathola okuhle"
+    },
+    {
+      "surface": "בעבורה",
+      "gloss": "ngenxa yalowo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "wayene"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "izimvu"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "izinkomo"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "amabhokisi amaduna"
+    },
+    {
+      "surface": "ועבדים",
+      "gloss": "izigqila zesilisa"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "izigqila zesifazane"
+    },
+    {
+      "surface": "ואתנת",
+      "gloss": "amabhokisi amakhazi"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "amakhameli"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:27.315576108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 5:10",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Futhi ⟨את⟩ eyesibili uzokwenza umhlatshelo wokushiswa njengokumiselwe, futhi umpristi uzokwenza ukubuyisana ngaye ngeso-sono sakhe ao onile kuso, futhi kuzoxolelwa yena.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eyesibili"
+    },
+    {
+      "surface": "השני",
+      "gloss": "eyesibili"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uzokwenza"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "umhlatshelo wokushiswa"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "njengokumiselwe"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "futhi uzokwenza ukubuyisana"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ngaye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "מחטאתו",
+      "gloss": "ngeso-sono sakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "onile"
+    },
+    {
+      "surface": "ונסלח",
+      "gloss": "futhi kuzoxolelwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T01:52:37.288849320Z",
+  "model": "glm-5.3"
+}

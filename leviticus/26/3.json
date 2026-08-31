@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 26:3",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Uma niyahamba ezimisweni zami, futhi niligcina ⟨את⟩ imiyalo yami, futhi niyayenza ⟨את⟩ yona,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "ezimisweni zami"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "niyahamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imiyalo yami"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "imiyalo yami"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "niligcina"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "niyayenza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yona (imiyalo yami)"
+    }
+  ],
+  "timestamp": "2026-08-31T10:14:36.840293991Z",
+  "model": "glm-5.3"
+}

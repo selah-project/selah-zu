@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Okusizwe nakwaziyo yithina, obaba bethu basixoxela.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Oku-"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "sizwe"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "nakwaziyo yithina"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "obaba bethu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "basixoxela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:22.287580269Z",
+  "model": "glm-5.3"
+}

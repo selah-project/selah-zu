@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 3:3",
+  "book": "ruth",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Zihlambule, ugcobile ukuzigeza ngamafutha, ugqoke izingubo zakho, wehlele enkundleni; ungavumi ukwaziswa kuyena indoda, kuze kuphele ukudla nokunatha kwakhe.",
+  "tokens": [
+    {
+      "surface": "ורחצת",
+      "gloss": "zihlambule"
+    },
+    {
+      "surface": "וסכת",
+      "gloss": "ugcobile ukuzigeza ngamafutha"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ugqoke"
+    },
+    {
+      "surface": "שמלתך",
+      "gloss": "izingubo zakho"
+    },
+    {
+      "surface": "עליך",
+      "gloss": ""
+    },
+    {
+      "surface": "וירדתי",
+      "gloss": "wehlele"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "enkundleni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungavumi"
+    },
+    {
+      "surface": "תודעי",
+      "gloss": "ukwaziswa"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kuyena indoda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kuphele"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "kwakhe"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "nokunatha"
+    }
+  ],
+  "timestamp": "2026-08-31T07:38:18.464349390Z",
+  "model": "glm-5.3"
+}

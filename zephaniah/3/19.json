@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "zephaniah 3:19",
+  "book": "zephaniah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Bheka, ngaleso sikhathi ngizophatha ⟨את⟩ bonke abakucindezelayo; ngizosindisa ⟨את⟩ eyohamba nolahlile, lomxoshiwe ngizombaqoqa; ngibabeka ukuba babe yindumiso neligama emhlabeni wonke lapho bebuhlazo khona.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Bheka, mina"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ngizophatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonke abakucindezelayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "מעניך",
+      "gloss": "abakucindezelayo"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ngaleso sikhathi"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "leso"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "futhi ngizosindisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eyohamba nolahlile"
+    },
+    {
+      "surface": "הצלעה",
+      "gloss": "eyohamba nolahlile"
+    },
+    {
+      "surface": "והנדחה",
+      "gloss": "lomxoshiwe"
+    },
+    {
+      "surface": "אקבץ",
+      "gloss": "ngizombaqoqa"
+    },
+    {
+      "surface": "ושמתים",
+      "gloss": "ngibabeka"
+    },
+    {
+      "surface": "לתהלה",
+      "gloss": "ukuba babe yindumiso"
+    },
+    {
+      "surface": "ולשם",
+      "gloss": "neligama"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "emhlabeni wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "lapho bebuhlazo khona"
+    }
+  ],
+  "timestamp": "2026-08-31T05:40:14.586564927Z",
+  "model": "glm-5.3"
+}

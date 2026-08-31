@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 30:35",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Uzoyenza ⟨את⟩ ingcensi — inhlanganisela, umsebenzi wokulungisa, usolunye — ihlanzekile, ingcwele.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Uzoyensa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ingcensi"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ingcensi"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "inhlanganisela"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "wokulungisa"
+    },
+    {
+      "surface": "ממלח",
+      "gloss": "usolunye"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ihlanzekile"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ingcwele"
+    }
+  ],
+  "timestamp": "2026-08-31T01:42:02.712270562Z",
+  "model": "glm-5.3"
+}

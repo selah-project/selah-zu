@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 13:8",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Wayelinda izinsukwana eziyisikhombisa kuze kube usuku olumisiweyo uShemuweli ayemisile; kepha uShemuweli weza eGilgali, futhi abantu bahlakazeka kude naye.",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "Wayelinda"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "eziyisikhombisa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "usuku olumisiweyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kepha"
+    },
+    {
+      "surface": "בא",
+      "gloss": "weza"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "eGilgali"
+    },
+    {
+      "surface": "ויפץ",
+      "gloss": "bahlakazeka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "kude naye"
+    }
+  ],
+  "timestamp": "2026-08-31T06:02:21.192860944Z",
+  "model": "glm-5.3"
+}

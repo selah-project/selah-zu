@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Bashiyela khona ⟨את⟩ onkulunkulu babo, uDavide waphenduka wathi, basishiswa ngomlilo.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "bashiyela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onkulunkulu babo"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "onkulunkulu babo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "waphenduka wathi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "basishiswa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngomlilo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:24:44.844386761Z",
+  "model": "glm-5.3"
+}

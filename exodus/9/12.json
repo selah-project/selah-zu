@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "uYahwe wayeqinisa ⟨את⟩ inhliziyo kaParo, yaze yamukela kubona, njengokusho kukaYahwe kuMoshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "wayeqinisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inhliziyo kaParo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaze"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yamukela"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokusho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kusho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ukaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:08.692256666Z",
+  "model": "glm-5.3"
+}

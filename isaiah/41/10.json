@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 41:10",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Ungesabi, ngoba mina ngikanye nawe; ungabheki ngasleyo, ngoba mina ngingu-Elohim wakho; ngakusiziza, yebo ngakusiza, yebo ngakusekela ngesandla sokunene sokulunga kwami.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ungi-"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "esabi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ngikanye nawe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תשתע",
+      "gloss": "bheki ngasleyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ngingu-Elohim wakho"
+    },
+    {
+      "surface": "אמצתיך",
+      "gloss": "ngakusiziza"
+    },
+    {
+      "surface": "אף",
+      "gloss": "yebo"
+    },
+    {
+      "surface": "עזרתיך",
+      "gloss": "ngakusiza"
+    },
+    {
+      "surface": "אף",
+      "gloss": "yebo"
+    },
+    {
+      "surface": "תמכתיך",
+      "gloss": "ngakusekela"
+    },
+    {
+      "surface": "בימין",
+      "gloss": "ngesandla sokunene"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "sokulunga kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T04:29:24.949019342Z",
+  "model": "glm-5.3"
+}

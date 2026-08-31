@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi ilanga alalibonanga, futhi alalazanga; kunokuthula okungaphezulu kulokhu kunalokho.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "alibonanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi-cha"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "alalazanga"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ukuthula"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "kulokhu"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kunalokho"
+    }
+  ],
+  "timestamp": "2026-08-31T07:47:12.662773367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "uYahwe wasesetha kuMoshe: Ngibonile ⟨את⟩ abantu aba, futhi bheka, bangabantu abanzima entanyeni ngempela.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wasesetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Ngibonile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu aba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "aba"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "futhi bheka"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "abanzima"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "entanyena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ngempela"
+    }
+  ],
+  "timestamp": "2026-08-31T01:43:52.605243402Z",
+  "model": "glm-5.3"
+}

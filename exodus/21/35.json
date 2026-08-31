@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 21:35",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi uma inkomathi yomuntu igwaza ⟨את⟩ inkomathi yesakhamuzi sakhe yafa, bazothengisa ⟨את⟩ inkomathi ephilile baze bahlukanise ⟨את⟩ imali yayo; futhi ⟨את⟩ enye enjengaleyo (eyofile) bayizohlahlumba bedwa.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "futhi uma"
+    },
+    {
+      "surface": "יגף",
+      "gloss": "igwaza"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inkomathi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yomuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkomathi yesakhamuzi sakhe"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inkomathi"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "yesakhamuzi sakhe"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "yafa"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "bazothengisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkomathi ephilile"
+    },
+    {
+      "surface": "השור",
+      "gloss": "inkomathi"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ephilile"
+    },
+    {
+      "surface": "וחצו",
+      "gloss": "bahlukanise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imali yayo"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "imali yayo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "enjengaleyo (eyofile)"
+    },
+    {
+      "surface": "המת",
+      "gloss": "enjengaleyo (eyofile)"
+    },
+    {
+      "surface": "יחצון",
+      "gloss": "bayizohlahlumba bedwa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:28.351904819Z",
+  "model": "glm-5.3"
+}

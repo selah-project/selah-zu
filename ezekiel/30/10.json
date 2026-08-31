@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 30:10",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Kanjalo usho u-Adonayi uYahwe: Futhi ngiyokumisa ⟨את⟩ ubuningi baseMitsrayim esandleni sikaNevukhadnetsari inkosi yeBhabheli.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kanjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "usho"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "futhi ngiyokumisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuningi baseMitsrayim"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ubuningi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "baseMitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni sa-"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "ukaNevukhadnetsari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "yeBhabheli"
+    }
+  ],
+  "timestamp": "2026-08-31T05:16:11.606495277Z",
+  "model": "glm-5.3"
+}

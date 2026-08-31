@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 5:1",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "UMoshe wabiza iYisrael yonke, wayesethi kubo: Lalela, iYisrael, ⟨את⟩ izimiso no⟨את⟩ izahlulelo engizikhuluma ezindlebeni zenu namuhla, ukuze nifunde ⟨את⟩ izimiso lezo, nizigcine nizenze.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisrael"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesethi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Lalela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisrael"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izimiso"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "izimiso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "izahlulelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "engi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngizikhuluma"
+    },
+    {
+      "surface": "באזניכם",
+      "gloss": "ezindlebeni zenu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    },
+    {
+      "surface": "ולמדתם",
+      "gloss": "nifunde"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izimiso nozahlulelo"
+    },
+    {
+      "surface": "ושמרתם",
+      "gloss": "nizigcine"
+    },
+    {
+      "surface": "לעשתם",
+      "gloss": "nizenze"
+    }
+  ],
+  "timestamp": "2026-08-31T02:32:05.153280487Z",
+  "model": "glm-5.3"
+}

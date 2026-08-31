@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 102:25",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 102,
+  "translation": "Ngentshilo: u-El wami, ungangihulumisi phakathi kwamalanga ami; emizukulwaneni yemizukulwana iminyaka yakho.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ngentshilo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "u-El wami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תעלני",
+      "gloss": "ngihulumisi"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "kwamalanga ami"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "emizukulwaneni"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "yemizukulwana"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "iminyaka yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:19.932394342Z",
+  "model": "glm-5.3"
+}

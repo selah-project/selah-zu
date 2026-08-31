@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 3:10",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "INkosi yasho: indodana kaShelomo yaba nguRehabhayamu; u-Aviya indodana yakhe, u-Asa indodana yakhe, uYehoshafati indodana yakhe.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomo"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "uRehabhayamu"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "u-Aviya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "u-Asa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "uYehoshafati"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:53.800084393Z",
+  "model": "glm-5.3"
+}

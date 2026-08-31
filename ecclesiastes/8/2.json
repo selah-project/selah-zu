@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Mina ⟨ngiyakweluleza⟩: ucine izwi lombuso, ngenxa yesifungo sikaElohim.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "פי",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "lombuso"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ucine"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi ngenxa"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "yesifungo"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "sikaElohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T07:48:10.707580194Z",
+  "model": "glm-5.3"
+}

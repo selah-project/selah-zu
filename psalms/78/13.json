@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Waqhekezana olwandle, wabadlulisa; wamisa amanzi njengesivunguvungu.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "Waqhekezana"
+    },
+    {
+      "surface": "ים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "wabadlulisa"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge-"
+    },
+    {
+      "surface": "נד",
+      "gloss": "isivunguvungu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:00.082473003Z",
+  "model": "glm-5.3"
+}

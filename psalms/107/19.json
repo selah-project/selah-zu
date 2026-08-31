@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Bakhala kuYahwe esiboshweni sabo; ezimeni zezinqindi zabo ubasindisa.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "bakhala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "esiboshweni"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sabo"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "ezimeni zezinqindi zabo"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "ubasindisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:01.164648598Z",
+  "model": "glm-5.3"
+}

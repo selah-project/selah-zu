@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "hosea 2:25",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ngizoyisela yona ⟨את⟩ kumina emhlabeni, ngizozigcaza ⟨את⟩ eyayengazigcwezi, ngizothi kabalanga bantu bami, wena ungabantu bami, yena uzothi, u-Elohim wami.",
+  "tokens": [
+    {
+      "surface": "וזרעתיה",
+      "gloss": "ngizoyisela yona"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kumina"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "ngizozigcaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eyayengazigcwezi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "eyayengazigcwezi (Lo-Ruhamah)"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "eyazigcwezi (Lo-Ruhamah)"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ngizothi"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "kabalanga (Lo-Ami)"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bami"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "uzothi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "u-Elohim wami"
+    }
+  ],
+  "timestamp": "2026-08-31T05:26:10.684761137Z",
+  "model": "glm-5.3"
+}

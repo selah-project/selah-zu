@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 11:25",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Waba yisitha kwa-Israeli wonke amanziu kaShelomo, kanye ⟨את⟩ okubi okwakwenza uHadadi; waba nenkani na-Israeli, wabusa phezu kwa-Aramu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "isitha"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kwa-Israeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "amanziu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "kaShelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "okubi"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwakwenza"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "uHadadi"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "waba nenkani"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "na-Israeli"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wabusa"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "kwa-Aramu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:55:24.956992987Z",
+  "model": "glm-5.3"
+}

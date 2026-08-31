@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 7:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Yahwe uElohim wami, ngikholise kuwe; ngisindise kubona bonke abangihlalabay' futhi ungikhulule.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wami"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ngikholise"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ngisindise"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kubona bonke"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "abangihlalabay'"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "futhi ungikhulule"
+    }
+  ],
+  "timestamp": "2026-08-31T05:46:23.490638158Z",
+  "model": "glm-5.3"
+}

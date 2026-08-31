@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 3:2",
+  "book": "micah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "abazondi okuhle, bathanda okubi; abaphanga izikhumba zabo kubo, nenyama yabo kumathambo abo.",
+  "tokens": [
+    {
+      "surface": "שנאי",
+      "gloss": "abazondi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "bathanda"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "גזלי",
+      "gloss": "abaphanga"
+    },
+    {
+      "surface": "עורם",
+      "gloss": "izikhumba zabo"
+    },
+    {
+      "surface": "מעליהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "ושארם",
+      "gloss": "nenyama yabo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עצמותם",
+      "gloss": "amathambo abo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:36:24.930747063Z",
+  "model": "glm-5.3"
+}

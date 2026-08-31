@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 4:11",
+  "book": "lamentations",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "uYahwe wacedula ⟨את⟩ ukukhayisa kwakhe, wathela ukushisa kolaka lwakhe, wabasa umlilo eTziyoni, wawudla umqulu wayo.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "wacedula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukukhayisa kwakhe"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "ukukhayisa kwakhe"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "wathela"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "ukushisa kolaka"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "lwakhe"
+    },
+    {
+      "surface": "ויצת",
+      "gloss": "wabasa"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "eTziyoni"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "wawudla"
+    },
+    {
+      "surface": "יסודתיה",
+      "gloss": "umqulu wayo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:42:43.198686327Z",
+  "model": "glm-5.3"
+}

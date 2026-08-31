@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 29:10",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Manje-ke vukani kuseni, wena nezinceku zenkosi yakho eza- ⟨⟨את⟩ njengawe⟩, nivuke kuseni, sekukhanya kini, nihambane.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "manje-ke"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "vukani kuseni"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kuseni"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "nezinceku"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "zenkosi yakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi-"
+    },
+    {
+      "surface": "באו",
+      "gloss": "eza"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ njengawe"
+    },
+    {
+      "surface": "והשכמתם",
+      "gloss": "nivuke kuseni"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "kuseni"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "sekukhanya"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "nihambane"
+    }
+  ],
+  "timestamp": "2026-08-31T06:04:39.275966348Z",
+  "model": "glm-5.3"
+}

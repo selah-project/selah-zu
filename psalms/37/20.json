@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 37:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Ngokuba ababi bayanyamalala, futhi izitha zikaYahwe njengobuhle bezimvu bathathekalisa; banyamalala njengokumsa, banyamalala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bayanyamalala"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "futhi izitha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "zikaYahwe"
+    },
+    {
+      "surface": "כיקר",
+      "gloss": "njengobuhle"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "bezimvu"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "bathathekalisa"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "njengokumsa"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "banyamalala"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:49.581074539Z",
+  "model": "glm-5.3"
+}

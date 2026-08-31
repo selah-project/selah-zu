@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 18:20",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Intliziyo yompristi yajabula, wathatha ⟨את⟩ i-efodi no⟨את⟩ iteraphimi no⟨את⟩ isithombe, wangena phakathi kwabantu.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "yajabula"
+    },
+    {
+      "surface": "לב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "yompristi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-efodi"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "i-efodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iteraphimi"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "iteraphimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "isithombe"
+    },
+    {
+      "surface": "הפסל",
+      "gloss": "isithombe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:12:45.550567802Z",
+  "model": "glm-5.3"
+}

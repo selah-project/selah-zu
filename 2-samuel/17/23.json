@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 17:23",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "U-Ahitofeli wabona ukuthi umculo wakhe awuwenzekile, wafaka isidlela sehashi ⟨את⟩ imbongolo, wasuka wahamba waya endlini yakhe, edolobheni lakhe, wabeka umyalo endlini yakhe, wazibambelela ngendwangu wafa, wabekwa engcwabeni likayise.",
+  "tokens": [
+    {
+      "surface": "ואחיתפל",
+      "gloss": "u-Ahitofeli"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aku-"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "wenzekile"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "umculo wakhe"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "wafaka isidlela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbongolo"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "imbongolo"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "wasuka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waya ku-"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "indlini yakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "dolobheni lakhe"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "wabeka umyalo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "indlini yakhe"
+    },
+    {
+      "surface": "ויחנק",
+      "gloss": "wazibambelela ngendwangu"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wafa"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "wabekwa engcwabeni"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "engcwabeni"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "likayise"
+    }
+  ],
+  "timestamp": "2026-08-31T03:40:30.657634766Z",
+  "model": "glm-5.3"
+}

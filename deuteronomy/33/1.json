@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Futhi le yingcwele-inkonisyo yangalesi siqeshana: leziyalo ezaqinisekiswa nguMoshe, umuntu ka-Elohim, ekukhonziseni izingane zakwa-Israyeli ngaphambi kokushona kwakhe.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Futhi le"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "lesi siqeshana sanikelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okuyilokho"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "wanikeza isiqeshana"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ka-u-Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingane"
+    },
+    {
+      "surface": "בני",
+      "gloss": "izingane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zakwa-Israyeli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ngaphambi kuka-"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "ukufa kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:47:01.097606375Z",
+  "model": "glm-5.3"
+}

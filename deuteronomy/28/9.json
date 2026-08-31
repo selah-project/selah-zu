@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 28:9",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "U-Yahwe uzakuyimisa wena ukuba ube yizeswe lakhe elingcwele, njengoba wafungisela wena, uma uligcina ⟨את⟩ umyalo ka-Yahwe u-Elohim wakho, uhambe ezindleleni zakhe.",
+  "tokens": [
+    {
+      "surface": "יקימך",
+      "gloss": "uzakuyimisa wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lakhe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ukuba ube yizeswe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "elingcwele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "wafungisela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "uligcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umyalo ka-Yahwe u-Elohim wakho"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "umyalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ka-Yahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "u-Elohim wakho"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "uhambe"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "ezindleleni zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:44:01.335962454Z",
+  "model": "glm-5.3"
+}

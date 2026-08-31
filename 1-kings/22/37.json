@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 22:37",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Inkosi yafa, yaziswa eShomeroni, bambelela ⟨את⟩ inkosi eShomeroni.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "yafa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "yaziswa"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "eShomeroni"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "bambelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "eShomeroni"
+    }
+  ],
+  "timestamp": "2026-08-31T04:02:23.138381840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 33:7",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Futhi ngiyabuyisela ⟨את⟩ ukuthunjwa kukaYehuda, naye ⟨את⟩ ukuthunjwa kukaIsrayeli, futhi ngiyabakhela njengasekuqaleni.",
+  "tokens": [
+    {
+      "surface": "והשבתי",
+      "gloss": "Futhi ngiyabuyisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuthunjwa"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ukuthunjwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kukaYehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "ukuthunjwa"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ukuthunjwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kukaIsrayeli"
+    },
+    {
+      "surface": "ובנתים",
+      "gloss": "futhi ngiyabakhela"
+    },
+    {
+      "surface": "כבראשנה",
+      "gloss": "njengasekuqaleni"
+    }
+  ],
+  "timestamp": "2026-08-31T04:53:22.773433823Z",
+  "model": "glm-5.3"
+}

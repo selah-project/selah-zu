@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Awuwobi nabanye o-Elohim abanye ebusweni bami.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Awu-"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "wobi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "o-Elohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "abanye"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "פני",
+      "gloss": "busweni bami"
+    }
+  ],
+  "timestamp": "2026-08-31T02:31:34.678978486Z",
+  "model": "glm-5.3"
+}

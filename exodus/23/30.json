@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Kancane kancane ngizobaxosha ngaphambi kwakho, uze ukhule ube yindlalifa ka-⟨את⟩ umhlabi.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "Kancane"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kancane"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "ngizobaxosha"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "ngaphambi kwakho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "uze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ukhule"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "ukhule\/uzalise"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "ube yindlalifa ka-"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlabi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlabi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:38:39.180155013Z",
+  "model": "glm-5.3"
+}

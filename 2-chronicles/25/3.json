@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 25:3",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Kwathi lapho umbuso usimele kuyena, wabulala ⟨את⟩ izinkonzi zakhe, ababethi ⟨את⟩ inkosi uyise.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "usimele"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "umbuso"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "wabulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinkonzi zakhe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "izinkonzi zakhe"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ababethi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    }
+  ],
+  "timestamp": "2026-08-31T08:42:41.423639192Z",
+  "model": "glm-5.3"
+}

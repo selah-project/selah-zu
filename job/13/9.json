@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 13:9",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Ingabe kulungile ukuthi ehlole ⟨את⟩ nina? Noma njengokudlekisa umuntu, niyamdlekisa yena?",
+  "tokens": [
+    {
+      "surface": "הטוב",
+      "gloss": "ingabe kulungile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "ehlole"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "אם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "כהתל",
+      "gloss": "njengokudlekisa"
+    },
+    {
+      "surface": "באנוש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "תהתלו",
+      "gloss": "niyamdlekisa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T07:13:41.205984916Z",
+  "model": "glm-5.3"
+}

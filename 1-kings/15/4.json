@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 15:4",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Kodwa ngenxa kaDavide, uYahwe uElohim wakhe wamnika isibani eYerushalayimi, ukumisa ⟨את⟩ indodana yakhe emva kwakhe, nokwenzela ⟨את⟩ iYerushalayimi imi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Kodwa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa ka-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wamnika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "uElohim wakhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "m-"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "isibani"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "להקים",
+      "gloss": "ukumisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indodana yakhe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "emva kwakhe"
+    },
+    {
+      "surface": "ולהעמיד",
+      "gloss": "nokwenzela ... imi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYerushalayimi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:59:01.205581073Z",
+  "model": "glm-5.3"
+}

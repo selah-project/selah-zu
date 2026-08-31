@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 81,
+  "translation": "Ngoba isimiso kuYisra'eli yilo; umthetho wezika uElohim kaYaakova.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngoba"
+    },
+    {
+      "surface": "חק",
+      "gloss": "isimiso"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kuYisra'eli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "umthetho"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "wezika uElohim"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kaYaakova"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:45.082732606Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Makube yisiphetho sakhe ukwahlukaniswa ngokuphelele; ezizukulwaneni ezilandelayo magama abo masisuleke.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "makube"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "isiphetho sakhe"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "ukwahlukaniswa ngokuphelele"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ezizukulwaneni"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ezilandelayo"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "masisuleke"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "magama abo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:16.948350955Z",
+  "model": "glm-5.3"
+}

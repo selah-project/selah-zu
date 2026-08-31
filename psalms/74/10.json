@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 74:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 74,
+  "translation": "Kuze kube nini, u-Elohim, isitha siyayehlaba, isitha sokulwa sinYALELA igama lakho kuze kube phakade?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "יחרף",
+      "gloss": "siyayehlaba"
+    },
+    {
+      "surface": "צר",
+      "gloss": "isitha"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "sinYALELA"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "isitha sokulwa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:08.201903666Z",
+  "model": "glm-5.3"
+}

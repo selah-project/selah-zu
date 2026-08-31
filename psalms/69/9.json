@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 69:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Ngaba ngumfokazi kubafowabami, futhi ngaba ngungikude ezaneni lomama wami.",
+  "tokens": [
+    {
+      "surface": "מוזר",
+      "gloss": "ngumfokazi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ngaba"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "kubafowabami"
+    },
+    {
+      "surface": "ונכרי",
+      "gloss": "futhi ngaba ngungikude"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ezaneni"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "lomama wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:04.289539604Z",
+  "model": "glm-5.3"
+}

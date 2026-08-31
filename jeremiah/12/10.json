@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 12:10",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Abalusi abaningi bayonza ilevini lami, bayihlaza ngezinyawo ⟨את⟩ ingxenye yami; bayenza ⟨את⟩ ingxenye yami ethandekayo ibe yinhlanhlenge enalutho.",
+  "tokens": [
+    {
+      "surface": "רעים",
+      "gloss": "abalusi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "abaningi"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "bayonza"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "ilevini lami"
+    },
+    {
+      "surface": "בססו",
+      "gloss": "bayihlaza ngezinyawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingxenye yami"
+    },
+    {
+      "surface": "חלקתי",
+      "gloss": "ingxenye yami"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "bayenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingxenye yami ethandekayo"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "ingxenye"
+    },
+    {
+      "surface": "חמדתי",
+      "gloss": "yami ethandekayo"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "ibe yinhlanhlenge"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "enalutho"
+    }
+  ],
+  "timestamp": "2026-08-31T04:44:52.032377465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 55,
+  "translation": "Inhliziyo yami iyazigegisa ngaphakathi kwami, futhi izibhamu zokufa zihlehle phezu kwami.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "inhliziyo yami"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "iyazigegisa"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ngaphakathi kwami"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "futhi izibhamu"
+    },
+    {
+      "surface": "מות",
+      "gloss": "zokufa"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "zihlehle"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:32.700264395Z",
+  "model": "glm-5.3"
+}

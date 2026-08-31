@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 40:2",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "uParo wanasizonda izinceku zakhe ezimbili, umphathi wabaphuzi nomphathi wababhaki.",
+  "tokens": [
+    {
+      "surface": "ויקצף",
+      "gloss": "wanasizonda"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "izinceku zakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umphathi"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "wabaphuzi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nange-"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umphathi"
+    },
+    {
+      "surface": "האופים",
+      "gloss": "wababhaki"
+    }
+  ],
+  "timestamp": "2026-08-31T01:20:49.295374123Z",
+  "model": "glm-5.3"
+}

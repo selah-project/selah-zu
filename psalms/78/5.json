@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 78:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Wayesemisa ubufakazi kuYakobi, futhi wabeka umthetho kuIsrayeli, okwayeyala ngakho ⟨את⟩ ooyise bethu, ukuze bakuveze kubantwana babo.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wayesemisa"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ubufakazi"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "kuYakobi"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "futhi umthetho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kuIsrayeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okuyi-"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayeyala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ooyise bethu"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "ooyise bethu"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "ukuze bakuveze"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "kubantwana babo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:17.804720075Z",
+  "model": "glm-5.3"
+}

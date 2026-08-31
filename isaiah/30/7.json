@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 30:7",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Futhi iMitsrayim iyize, ilutho lwenyongo; angeke isize ngento yodwa; ngakho-ke ngabiza le: uRahabi ogezela ithule.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "Futhi iMitsrayim"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "iyize"
+    },
+    {
+      "surface": "וריק",
+      "gloss": "ilutho lwenyongo"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "angeke isize"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ngabiza"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "uRahabi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ongezela⟩"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "othule"
+    }
+  ],
+  "timestamp": "2026-08-31T04:26:31.171818813Z",
+  "model": "glm-5.3"
+}

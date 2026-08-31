@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 20:26",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Futhi ungenyuki ngezitebhisi e-altareni lami, ukuze inganxeba lakho lingabonakali phezu kwaso.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Futhi ugenyuki"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "ungenyuki"
+    },
+    {
+      "surface": "במעלת",
+      "gloss": "ngezitebhisi"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "altareni lami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lingabonakali"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "lingabonakali"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "inganxeba lakho"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwaso"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:35.751557863Z",
+  "model": "glm-5.3"
+}

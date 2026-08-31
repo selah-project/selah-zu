@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 89:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Amazulu ayokudumisa izimangaliso zakho, Yahwe, nokwethembeka kwakho emhlanganweni wabangcwele.",
+  "tokens": [
+    {
+      "surface": "ויודו",
+      "gloss": "ayokudumisa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "izimangaliso zakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "no"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ukwethembeka kwakho"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "emhlanganweni"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "wabangcwele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:22.562207107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 25:15",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi ⟨את⟩ ihelesi zomlilo, ne-⟨את⟩ izitsha zokuchitha — engolide igolide, nesisiliva isiliva — inhloko yabasizi yazithatha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihelesi zomlilo"
+    },
+    {
+      "surface": "המחתות",
+      "gloss": "ihelesi zomlilo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izitsha zokuchitha"
+    },
+    {
+      "surface": "המזרקות",
+      "gloss": "izitsha zokuchitha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwakuthi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "nokwakuthi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "yazithatha"
+    },
+    {
+      "surface": "רב",
+      "gloss": "inhloko"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "yabasizi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:15:34.399740719Z",
+  "model": "glm-5.3"
+}

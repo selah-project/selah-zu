@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 10:18",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Naye ⟨את⟩ uArvadi naye ⟨את⟩ uTsemari naye ⟨את⟩ uKhamathi, bese emva kwalokho zisakazekile imindeni yomKenanani",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "uArvadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "uArvadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "uTsemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "uTsemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "uKhamathi"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "uKhamathi"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "bese emva kwalokho"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "zisakazekile"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "imindeni"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "yomKenanani"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:05.462054850Z",
+  "model": "glm-5.3"
+}

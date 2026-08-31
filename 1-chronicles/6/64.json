@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "1-chronicles 6:64",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "No⟨את⟩ iKedemothi nemitsha yayo, no⟨את⟩ iMephaathi nemitsha yayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iKedemothi"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "iKedemothi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "imitsha yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nemitsha yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iMephaathi"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "iMephaathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "imitsha yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nemitsha yayo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:21:41.804230558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 28:4",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Wabizela izinkomo eziyimihlolo futhi wabhema izimpuphu ezinukisayo emazweni aphakeme nasemagcekeni aphakeme, nasemahlathini aphezulu emithini yonke enempunga.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "wabizela"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "wabhema"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "emazweni aphakeme"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nasema-"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "magcekeni aphakeme"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "nasemahlathini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "umthi"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "enempunga"
+    }
+  ],
+  "timestamp": "2026-08-31T10:57:42.124229743Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 81:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 81,
+  "translation": "Ngesikhathi esibucayi ngasusa umthwalo ohlomela lwakhe; izandla zakhe zaphuma esitsheni.",
+  "tokens": [
+    {
+      "surface": "הסירותי",
+      "gloss": "ngasusa"
+    },
+    {
+      "surface": "מסבל",
+      "gloss": "umthwalo"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "ohlomela lwakhe"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "izandla zakhe"
+    },
+    {
+      "surface": "מדוד",
+      "gloss": "esitsheni"
+    },
+    {
+      "surface": "תעברנה",
+      "gloss": "zaphuma"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:45.083335665Z",
+  "model": "glm-5.3"
+}

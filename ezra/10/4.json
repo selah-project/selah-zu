@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Vuka, ngoba udaba uluwena; thina sinawe; qina wenze.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "vuka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "uluwena"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "udaba"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sinawe"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "qina"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "wenze"
+    }
+  ],
+  "timestamp": "2026-08-31T08:12:57.756912869Z",
+  "model": "glm-5.3"
+}

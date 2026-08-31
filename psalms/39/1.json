@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Kumulayeli wezinkomishi, ku-Yedutuni; ingoma yesicongo, kaDavide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumulayeli wezinkomishi"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "ku-Yedutuni"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ingoma yesicongo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:12.771533914Z",
+  "model": "glm-5.3"
+}

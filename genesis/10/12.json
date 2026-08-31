@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ne⟨את⟩ uReseni phakathi kweNinive nakweKelahi — yona yidolobha elikhulu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "uReseni"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "uReseni"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "iNinive"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nakwa-"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "iKelahi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "yidolobha"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "elikhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:07.675636976Z",
+  "model": "glm-5.3"
+}

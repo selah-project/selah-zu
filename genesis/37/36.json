@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 37:36",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "AmaMedani ayemthengisele ⟨את⟩ eMitsrayim, kuLifotifari, isirisilika uParo, induna yabapheki.",
+  "tokens": [
+    {
+      "surface": "והמדנים",
+      "gloss": "amaMedani"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ayemthengisele"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (uYosefu)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "לפוטיפר",
+      "gloss": "kuLifotifari"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "isirisi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "induna"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "yabapheki"
+    }
+  ],
+  "timestamp": "2026-08-31T10:11:08.173669752Z",
+  "model": "glm-5.3"
+}

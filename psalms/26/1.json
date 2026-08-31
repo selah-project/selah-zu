@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 26:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "KukaDavide. Ngisole uYahwe, ngokuthi mina ngihambile ngokwengeqo yami, futhi kuYahwe ngithembile, angeke ngigobhozi.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "KukaDavide"
+    },
+    {
+      "surface": "שפטני",
+      "gloss": "Ngisole"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "ngokwengeqo yami"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ngihambile"
+    },
+    {
+      "surface": "וביהוה",
+      "gloss": "futhi kuYahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ngithembile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "אמעד",
+      "gloss": "ngigobhozi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:58.074307109Z",
+  "model": "glm-5.3"
+}

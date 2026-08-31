@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 6:15",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Abafowabu baze bahamba ngobugwala njengomfudlana, njengomkhomane wemifudlana abadlulayo.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "abafowabu"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "baze bahamba ngobugwala"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "umfudlana"
+    },
+    {
+      "surface": "כאפיק",
+      "gloss": "njengomkhomane"
+    },
+    {
+      "surface": "נחלים",
+      "gloss": "wemifudlana"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "abadlulayo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:57:08.520977230Z",
+  "model": "glm-5.3"
+}

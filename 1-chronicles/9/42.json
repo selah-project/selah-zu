@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Futhi u-Akhazi wazala ⟨את⟩ uYaara; uYaara wazala ⟨את⟩ u-Alemeti, ⟨את⟩ u-Azmaveti, ⟨את⟩ noZimri; uZimri wazala ⟨את⟩ uMotsa.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "futhi u-Akhazi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYaara"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "uYaara"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "futhi uYaara"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Alemeti"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "u-Alemeti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Azmaveti"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "u-Azmaveti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no-",
+      "marks": "uZimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "uZimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "futhi uZimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMotsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "uMotsa"
+    }
+  ],
+  "timestamp": "2026-08-31T08:22:29.733330819Z",
+  "model": "glm-5.3"
+}

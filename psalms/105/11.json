@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 105:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "ethi, kuwe ngizinika ⟨את⟩ ilizwe laseKhenana, ingxenye yesizukulwane senu.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ngizinika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwe laseKhenana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "laseKhenana"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ingxenye"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "yesizukulwane senu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:16.574774996Z",
+  "model": "glm-5.3"
+}

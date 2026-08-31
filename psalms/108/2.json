@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 108:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 108,
+  "translation": "⟨I⟩ninzele inhliziyo yami, uElohim; ngiyacula, futhi ngiyadumisa, nokho inkazimulo yami.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "⟨I⟩ninzele"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inhliziyo yami"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ngiyacula"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "futhi ngiyadumisa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nokho"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "inkazimulo yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:16.482515694Z",
+  "model": "glm-5.3"
+}

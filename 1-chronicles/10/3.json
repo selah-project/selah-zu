@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Impi yabe isaqinile kuShawuli, abashumayeli bentaba-ukudubula bamthola ngomqolo, yabe isidina ngabashumayeli.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "yabe isaqinile"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "impi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "bamthola"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "abashumayeli"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "ngomqolo"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "yabe isidina"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "abashumayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T08:23:43.701872270Z",
+  "model": "glm-5.3"
+}

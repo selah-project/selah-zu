@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 11:19",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Nizofundisa ⟨את⟩ wona ⟨את⟩ amadodana enu ukukhuluma ngazo, nxa uhlala endlini yakho, nxa uhamba endleleni, nxa ulala n nxa uvuka.",
+  "tokens": [
+    {
+      "surface": "ולמדתם",
+      "gloss": "Nizofundisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "amazwi (amadodana enu awafundiswa)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadodana enu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "amadodana enu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ukukhuluma"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ngazo"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "nxa uhlala"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "endlini yakho"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "nxa uhamba"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "nxa ulala"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "nxa uvuka"
+    }
+  ],
+  "timestamp": "2026-08-31T06:01:52.057572480Z",
+  "model": "glm-5.3"
+}

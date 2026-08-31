@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Abantwana baka-Elifazi babengaba nguTeyimani, u-Omari, uTsefowu, noGatamu, noKenazi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "babengaba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Abantwana"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "baka-Elifazi"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "nguTeyimani"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "u-Omari"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "uTsefowu"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "noGatamu"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "noKenazi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:17:59.740150527Z",
+  "model": "glm-5.3"
+}

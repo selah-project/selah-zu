@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 9:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Isitha siphelile, izindawo ezilahliwe ziyothula kuze kube phakade; futhi izixwe wazinqumula; ukukhunjulwa kwabo kuphelile — bona.",
+  "tokens": [
+    {
+      "surface": "האויב",
+      "gloss": "Isitha"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "siphelile"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "izindawo ezilahliwe"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "וערים",
+      "gloss": "futhi izixwe"
+    },
+    {
+      "surface": "נתשת",
+      "gloss": "wazinqumula"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "kuphelile"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ukukhunjulwa kwabo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:07.086977867Z",
+  "model": "glm-5.3"
+}

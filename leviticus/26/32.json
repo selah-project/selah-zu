@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 26:32",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi ngizokhubaza mina ⟨את⟩ ilizwe, futhi izitha zenu ezihlala kulo zizothukuthelela ku-⟨⟨Ishe⟩⟩.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "futhi ngizokhubaza"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "ושממו",
+      "gloss": "zizothukuthela"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "izitha zenu"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "ezihlala"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kulo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:06:33.537993080Z",
+  "model": "glm-5.3"
+}

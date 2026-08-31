@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 25:1",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi uIsrayeli wahlala eShitimi, futhi abantu baqala ukwenza ubufebe nabantabasable bomuzi waseMowabhi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "בשטים",
+      "gloss": "eShitimi"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "baqala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "ukwenza ubufebe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨na⟩"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "abantabasable"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "aseMowabhi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:22:27.014387598Z",
+  "model": "glm-5.3"
+}

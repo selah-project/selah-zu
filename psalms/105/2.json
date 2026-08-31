@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "IMbongiseni, nimlabe ngezinkwelo; niciçele ngawo wonke amasha olaka lwakhe.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "IMbongiseni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "m-"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "nimlabe ngezinkwelo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "m-"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "niciçele"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngawo wonke"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "amasha olaka lwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:18.702247795Z",
+  "model": "glm-5.3"
+}

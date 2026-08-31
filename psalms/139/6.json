@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 139,
+  "translation": "ULwazi ⟨lwakho⟩ lungumhlola ngangimi; luphakeme kakhulu, angikwazi ukulufinyelela lona.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "lungumhlola"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ngangimi"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "luphakeme kakhulu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angikwazi"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ukulufinyelela"
+    },
+    {
+      "surface": "לה",
+      "gloss": "lona"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:21.613760909Z",
+  "model": "glm-5.3"
+}

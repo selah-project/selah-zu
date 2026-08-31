@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 10:9",
+  "book": "daniel",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ndazwa ⟨את⟩ izwi lamazwi akhe; futhi ngesikhathi ngizwa ⟨את⟩ izwi lamazwi akhe, mina ngaba ngilale ubuthwathwa ngobuso bami, nobuso bami babheka phansi emhlabathini.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Ndazwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "lamazwi akhe"
+    },
+    {
+      "surface": "וכשמעי",
+      "gloss": "futhi ngesikhathi ngizwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "lamazwi akhe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ngaba"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "ngilale ubuthwathwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ng"
+    },
+    {
+      "surface": "פני",
+      "gloss": "obuso bami"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "nobuso bami"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "phansi emhlabathini"
+    }
+  ],
+  "timestamp": "2026-08-31T08:05:28.222816836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 3:3",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Kuphela wanamathela ezonweni zikaYarobhuami indodana kaNevati, ezawayisela ngazo ⟨את⟩ Israyeli esonweni; akazange asuke kuzona.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Kuphela"
+    },
+    {
+      "surface": "בחטאות",
+      "gloss": "ezonweni"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "zikaYarobhuami"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "kaNevati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezawayisela"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "wayisela esonweni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Israyeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "דבק",
+      "gloss": "wanamathela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akazange"
+    },
+    {
+      "surface": "סר",
+      "gloss": "asuke"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kuzona"
+    }
+  ],
+  "timestamp": "2026-08-31T04:03:43.898042385Z",
+  "model": "glm-5.3"
+}

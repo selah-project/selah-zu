@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Bazisa kuMardokayi ⟨את⟩ izindlela zamazwi ka-Estere.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "Bazisa"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kuMardokayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izindlela zamazwi ka-Estere"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "izindlela zamazwi"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ka-Estere"
+    }
+  ],
+  "timestamp": "2026-08-31T07:50:57.395792155Z",
+  "model": "glm-5.3"
+}

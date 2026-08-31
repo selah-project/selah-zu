@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 15:16",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Futhi kwaba khona impi phakathi ko-Asa noBhasha, inkosi yakwa-Israyeli, yonke insuku zabo.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "Futhi impi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kwaba khona"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi ko"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Asa"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "no"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bhasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yakwa-Israyeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "insuku zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:57:56.309776140Z",
+  "model": "glm-5.3"
+}

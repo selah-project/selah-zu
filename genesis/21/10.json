@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 21:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Wathi ku-Avraham: Xosha le ndodakazi inkonzo n⟨את⟩ indodana yayo, ngokuba indodana yale ndodakazi inkonzo iyonqaba ukufa ndawo ndawo indodana yami, uYitschak.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ku-Avraham"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "Xosha"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "le ndodakazi inkonzo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indodana yayo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "indodana yayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "yonqaba ukufa ndawo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "yale ndodakazi inkonzo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndawo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "indodana yami"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndawo"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "uYitschak"
+    }
+  ],
+  "timestamp": "2026-08-31T01:10:38.839049388Z",
+  "model": "glm-5.3"
+}

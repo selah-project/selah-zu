@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Kuze ngafika ezindawweni ezingcwele zika-uElohim; ngabe ngisondla ngokwazi ngasekupheleni kwabo.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ngafika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ezindawweni ezingcwele"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "ezindawweni ezingcwele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "ngisondla ngokwazi"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "ngasekupheleni kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:12.587940886Z",
+  "model": "glm-5.3"
+}

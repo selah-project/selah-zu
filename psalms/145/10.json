@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 145:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 145,
+  "translation": "Bonke izenzo zakho ziyakudumisa, wena uYahwe; nabakholwayo bakho bayakusibonisa inceshi.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ziyakudumisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Bonke"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "izenzo zakho"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "nabakholwayo bakho"
+    },
+    {
+      "surface": "יברכוכה",
+      "gloss": "bayakusibonisa inceshi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:31.743945843Z",
+  "model": "glm-5.3"
+}

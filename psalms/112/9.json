@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 112:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 112,
+  "translation": "Sachitha, sanike abampofu; ubulungiswa bakhe buma kuze kube phakade; uphondo lwakhe luyophakanyiswa ngokwesithakazelo.",
+  "tokens": [
+    {
+      "surface": "פזר",
+      "gloss": "Sachitha"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "sanike"
+    },
+    {
+      "surface": "לאביונים",
+      "gloss": "abampofu"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ubulungiswa bakhe"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "buma"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "קרנו",
+      "gloss": "uphondo lwakhe"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "luyophakanyiswa"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "ngokwesithakazelo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:35.721801785Z",
+  "model": "glm-5.3"
+}

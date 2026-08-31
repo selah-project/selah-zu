@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 112,
+  "translation": "Ingcebo nezithombo zizoba endlwini yakhe, lolungelo lwakhe luma kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Ingcebo"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "nezithombo"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "endlwini yakhe"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "lolungelo lwakhe"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "luma"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:06.444406706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 37:5",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "uYosefu waphupha iphupmo, waphupha libizwa ⟨את⟩ yena walibika kubafowabo, base bongeza ukumzonda ⟨את⟩ yena.",
+  "tokens": [
+    {
+      "surface": "ויחלם",
+      "gloss": "waphupha"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "iphupho"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "walibika"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "kubafowabo"
+    },
+    {
+      "surface": "ויוספו",
+      "gloss": "base bongeza"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kokungeziwe"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ukumzonda"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "uYosefu (lowo ohlukanisiwe)"
+    }
+  ],
+  "timestamp": "2026-08-31T08:49:19.356349895Z",
+  "model": "glm-5.3"
+}

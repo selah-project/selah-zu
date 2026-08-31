@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 84,
+  "translation": "uYahwe uElohim wamabutho, yizwa ukuthandazeli kwami; ngena indlebe, wena uElohim kaYaakobi. Selahi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamabutho"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "yizwa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ukuthandazeli kwami"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "ngena indlebe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:29.638393126Z",
+  "model": "glm-5.3"
+}

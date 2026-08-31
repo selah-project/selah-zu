@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ngiyibonile i⟨z⟩inceku ezihamba phezulu kwamahhashi, nezikhulu zihamba njengezinceku emhlabeni.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ngiyibonile"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "izinceku"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezulu kwa-"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "amahhashi"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "nezikhulu"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "zihamba"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "njengezinceku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T08:57:50.558110005Z",
+  "model": "glm-5.3"
+}

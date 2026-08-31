@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 31:16",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Futhi abantwana bakwaIsrayeli bayigcina ⟨את⟩ isabatha, ukwenza ⟨את⟩ isabatha ezizukulwaneni zabo, isivumelwano samaphakade.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "bayigcina Futhi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaIsrayeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isabatha"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "isabatha"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isabatha"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "isabatha"
+    },
+    {
+      "surface": "לדרתם",
+      "gloss": "ezizukulwaneni zabo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "isivumelwano"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "samaphakade"
+    }
+  ],
+  "timestamp": "2026-08-31T01:42:08.126210761Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 4:4",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "uYahwe wathi kuMoshe: Olula isandla sakho ubambele umsila wayo. Wawulula isandla sakhe, wabamba ngamandla, yaba yinduku esandleni sakhe sepalme.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Olula"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "ubambele"
+    },
+    {
+      "surface": "בזנבו",
+      "gloss": "umsila wayo"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wawulula"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "wabamba ngamandla"
+    },
+    {
+      "surface": "בו",
+      "gloss": "-yo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "yinduku"
+    },
+    {
+      "surface": "בכפו",
+      "gloss": "esandleni sakhe sepalme"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:37.402361935Z",
+  "model": "glm-5.3"
+}

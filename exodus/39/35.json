@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "⟨את⟩ isiphendu sofakazi, ⟩n⟨⟨את⟩ izingodi zaso, ⟩no⟨⟨את⟩ ikhava lokuxolelwa",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiphendu sofakazi"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "isiphendu"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "sofakazi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izingodi zaso"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "izingodi zaso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikhava lokuxolelwa"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ikhava lokuxolelwa"
+    }
+  ],
+  "timestamp": "2026-08-31T05:57:56.021295762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 14:6",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Umgijimi izwi lohlakaniphe efulathela, kodwa ulwazi kumqonayi lula.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "efulathela"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "umgijimi izwi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "lohlakaniphe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "angeke athole"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "kodwa ulwazi"
+    },
+    {
+      "surface": "לנבון",
+      "gloss": "kumqonayi"
+    },
+    {
+      "surface": "נקל",
+      "gloss": "lula"
+    }
+  ],
+  "timestamp": "2026-08-31T06:52:01.152939608Z",
+  "model": "glm-5.3"
+}

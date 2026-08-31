@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 6:49",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi abantwana bakwa-Israyeli banika abaLevi ⟨את⟩ izindawo eziseduze nendawo yazo yokudla izimvu.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "banika"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "abaLevi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izindawo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "izindawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indawo yazo yokudla izimvu"
+    },
+    {
+      "surface": "מגרשיהם",
+      "gloss": "nokudla kwazo izimvu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:21:26.217025136Z",
+  "model": "glm-5.3"
+}

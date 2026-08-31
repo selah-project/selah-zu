@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Ngokuba ngangingumntwana kayihlo, buthaka nongaqedi ngaphambi kwama siki.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umntwana"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ngangingu-"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "kayihlo"
+    },
+    {
+      "surface": "רך",
+      "gloss": "buthaka"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "nongaqedi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ngaphambi kwa-"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ama siki"
+    }
+  ],
+  "timestamp": "2026-08-31T06:47:58.426877263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 64,
+  "translation": "uElohim uzobadubula ngehlathi kungazelele; kwasuka kube yizilonda zabo.",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "uzobadubula"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "ngehlathi"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "kungazelele"
+    },
+    {
+      "surface": "היו",
+      "gloss": "kube"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "yizilonda zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:07.101104895Z",
+  "model": "glm-5.3"
+}

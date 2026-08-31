@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Futhi babenakho efini yabo iBeersheba neSheba neMoladha.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "futhi babenakho"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yabo"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "efini"
+    },
+    {
+      "surface": "באר",
+      "gloss": "iBeersheba"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "iBeersheba"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "neSheba"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "neMoladha"
+    }
+  ],
+  "timestamp": "2026-08-31T02:57:25.862528384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Ngaleso sikhathi ngathi: Bheka, ngifikile; kumgqambo wesibonakalide kubihiwe ngami.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ngaleso sikhathi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ngathi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ngifikile"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "kumgqambo"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "wesibonakalide"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "kubihiwe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:29.591239501Z",
+  "model": "glm-5.3"
+}

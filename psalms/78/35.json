@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 78:35",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Bakhumbula ukuthi uElohim yindlela yabo yeqiniso, no-El Elyon umhlabisi.",
+  "tokens": [
+    {
+      "surface": "ויזכרו",
+      "gloss": "Bakhumbula"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "indwane yabo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no-El"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyon"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "umhlabisi wabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:12.145269088Z",
+  "model": "glm-5.3"
+}

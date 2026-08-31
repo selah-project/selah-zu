@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 143:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 143,
+  "translation": "UMoya wami wadidizela phezu kwami; ngaphakathi kwami inhliziyo yami yadangala.",
+  "tokens": [
+    {
+      "surface": "ותתעטף",
+      "gloss": "wadidizela"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "uMoya wami"
+    },
+    {
+      "surface": "בתוכי",
+      "gloss": "ngaphakathi kwami"
+    },
+    {
+      "surface": "ישתומם",
+      "gloss": "yadangala"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inhliziyo yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:37.550180264Z",
+  "model": "glm-5.3"
+}

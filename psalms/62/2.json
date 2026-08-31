@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 62,
+  "translation": "Kuphela kuElohim umphefumelo wami ucele phansi ngokuzola; kuyena impilo yami ingaphuma.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kuphela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ucele phansi ngokuzola"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumelo wami"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "impilo yami engaphuma"
+    }
+  ],
+  "timestamp": "2026-08-31T11:51:27.224278425Z",
+  "model": "glm-5.3"
+}

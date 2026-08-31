@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 31:8",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Futhi uYehizkiyahu nabaholi befika, babona ⟨את⟩ izingqungquthela, basiblessa ⟨את⟩ uYahwe no ⟨את⟩ isizwe sakhe i-Israyeli.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Futhi befika"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "uYehizkiyahu"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "nabaholi"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "babona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingqungquthela"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "izingqungquthela"
+    },
+    {
+      "surface": "ויברכו",
+      "gloss": "basiblessa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no ⟨את⟩",
+      "marks": "isizwe sakhe i-Israyeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isizwe sakhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i-Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T08:44:05.526810154Z",
+  "model": "glm-5.3"
+}

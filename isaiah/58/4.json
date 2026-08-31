@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 58:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 58,
+  "translation": "Bheka, nizila ukuze nipikisane nokuqabukelana, futhi ukushaywa ngesibunu sobubi, nizila ukwenza okulungileyo ngosuku lwanamuhla ukuze niphakamise phezulu ilizwi labo.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "ukuze nipikisane"
+    },
+    {
+      "surface": "ומצה",
+      "gloss": "nokuqabukelana"
+    },
+    {
+      "surface": "תצומו",
+      "gloss": "nizila"
+    },
+    {
+      "surface": "ולהכות",
+      "gloss": "nokushaywa"
+    },
+    {
+      "surface": "באגרף",
+      "gloss": "ngesibunu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "sobubi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "תצומו",
+      "gloss": "niyazila"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "njengalelosuku"
+    },
+    {
+      "surface": "להשמיע",
+      "gloss": "ukuzwakalisa"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "קולכם",
+      "gloss": "izwi labo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:36:38.846627905Z",
+  "model": "glm-5.3"
+}

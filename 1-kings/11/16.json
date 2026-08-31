@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 11:16",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "(Ngoba izinyanga eziyisithupha uYoabhi wahlala khona, nabonke iYisraeli, kuze kwacishwa bonke amadoda e-Edomu.)",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngoba"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "eziyisithupha"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "izinyanga"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYoabhi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nabonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisraeli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "הכרית",
+      "gloss": "kwacishwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "e-Edomu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:55:38.156339314Z",
+  "model": "glm-5.3"
+}

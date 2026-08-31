@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 3:24",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Bafika enkampeni kaSrayeli, uSrayeli wasuka washaya ⟨את⟩ uMowabhe, baze babaleka phambi kwabo; bangena kuyo ⟨emhlabeni wakhe⟩ ukushaya ⟨את⟩ uMowabhe.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "bafika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "enkampeni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaSrayeli"
+    },
+    {
+      "surface": "ויקמו",
+      "gloss": "wasuka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uSrayeli"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "washaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMowabhe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "uMowabhe"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "babaleka"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "phambi kwabo"
+    },
+    {
+      "surface": "ויבו",
+      "gloss": "bangena"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "והכות",
+      "gloss": "ukushaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMowabhe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "uMowabhe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:04:18.849200979Z",
+  "model": "glm-5.3"
+}

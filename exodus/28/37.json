@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 28:37",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Futhi uzobofa ingxenye ⟨את⟩ engokotini obusathathwini obuhlaza soketshe, futhi izoba emqhachazeni, ngaphambili nobuso bomqhaza lona uzoba.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "uzobofa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ingxenye"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "ingxenye"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "soketshe obuhlaza"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "futhi izoba"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "omqhazeni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngokuya"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ngaphambili"
+    },
+    {
+      "surface": "פני",
+      "gloss": "nobuso"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "bomqhaza"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uzoba"
+    }
+  ],
+  "timestamp": "2026-08-31T01:40:47.434122124Z",
+  "model": "glm-5.3"
+}

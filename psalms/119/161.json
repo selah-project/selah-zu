@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 161,
+  "ref": "psalms 119:161",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Abadali bangisizela ⟨ngenhla⟩ ngingenayisizathu, kodwa izwi lakho linenhliziyo yami ukwesaba.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "abadali"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "bangisizela"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ngingenayisizathu"
+    },
+    {
+      "surface": "ומדבריך",
+      "gloss": "kodwa izwi lakho"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "nenhliziyo yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:13.252382784Z",
+  "model": "glm-5.3"
+}

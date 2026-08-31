@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "uKhetseroni — umndeni wakwaKhetseroni; uKarmi — umndeni wakwaKarmi.",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "uKhetseroni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umndeni"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "wakwaKhetseroni"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "uKarmi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umndeni"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "wakwaKarmi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:22:29.266922753Z",
+  "model": "glm-5.3"
+}

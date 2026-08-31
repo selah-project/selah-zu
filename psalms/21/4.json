@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 21:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Ngokuba ngamacebo okubusisa okuhle umhlangabezile, usibeke inhlokweni yakhe isikhoma segolide elihlantzile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "תקדמנו",
+      "gloss": "umhlangabezile"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ngamacebo okubusisa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "usibeke"
+    },
+    {
+      "surface": "לראשו",
+      "gloss": "inhlokweni yakhe"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "isikhoma"
+    },
+    {
+      "surface": "פז",
+      "gloss": "igolide elihlantzile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:11.895185247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 45:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Lalela, ndodakazi, ubone, uveze indlebe yakho; ukhohowe isizwe sakho nendlu kayihlo.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Lalela"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ndodakazi"
+    },
+    {
+      "surface": "וראי",
+      "gloss": "ubone"
+    },
+    {
+      "surface": "והטי",
+      "gloss": "uveze"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "indlebe yakho"
+    },
+    {
+      "surface": "ושכחי",
+      "gloss": "ukhohowe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "isizwe sakho"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "nendlu"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "kayihlo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:18.168810205Z",
+  "model": "glm-5.3"
+}

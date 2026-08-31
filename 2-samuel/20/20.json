@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 20:20",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "GuYowabu wasephendula wase ethi: Kuyaqhiwa kumi, kuyaqhiwa kimi, ukuthi ngimise noma ngitshale.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "wasephendula"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "guYowabu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wase ethi"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "Kuyaqhiwa"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "kuyaqhiwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אבלע",
+      "gloss": "ngimise"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ngitshale"
+    }
+  ],
+  "timestamp": "2026-08-31T03:41:42.403686051Z",
+  "model": "glm-5.3"
+}

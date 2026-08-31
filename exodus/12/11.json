@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 12:11",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi njalo niyakudla ⟨את⟩ kona: izinqubeni zenu ziboshiwe, izingcwaba zenu ezinyaweni zenu, nomsonga wenu esandleni samu; futhi niyakudla ⟨את⟩ kona ngesikhashana — yilo iPesakh likaYahwe.",
+  "tokens": [
+    {
+      "surface": "וככה",
+      "gloss": "futhi njalo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "niyakudla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kona"
+    },
+    {
+      "surface": "מתניכם",
+      "gloss": "izinqubeni zenu"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "ziboshiwe"
+    },
+    {
+      "surface": "נעליכם",
+      "gloss": "izingcwaba zenu"
+    },
+    {
+      "surface": "ברגליכם",
+      "gloss": "ezinyaweni zenu"
+    },
+    {
+      "surface": "ומקלכם",
+      "gloss": "nomsonga wenu"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "esandleni samu"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "futhi niyakudla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kona"
+    },
+    {
+      "surface": "בחפזון",
+      "gloss": "ngesikhashana"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "iPesakh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "likaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:31:54.261678152Z",
+  "model": "glm-5.3"
+}

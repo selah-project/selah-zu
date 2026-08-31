@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Futhi umfundisi ubona ⟨את⟩ isilumo ngosuku lwesikhombisa, futhi bheka ineteku alisanji, futhi akukho kulo unwele luphuzi, futhi ukubonakala kweneteku akujulile kunesikhumba.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Futhi ubona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umfundisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isilumo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "isilumo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "lwesikhombisa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "futhi bheka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "alisanji"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ineteku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi cha"
+    },
+    {
+      "surface": "היה",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kulo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "unwele"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "luphuzi"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "futhi ukubonakala"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "kweneteku"
+    },
+    {
+      "surface": "אין",
+      "gloss": "aku-"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "julile"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kunesikhumba"
+    },
+    {
+      "surface": "העור",
+      "gloss": "isikhumba"
+    }
+  ],
+  "timestamp": "2026-08-31T01:57:46.486280798Z",
+  "model": "glm-5.3"
+}

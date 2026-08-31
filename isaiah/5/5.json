@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 5:5",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Manje-ke nje, ngizokwazisa ⟨את⟩ nina ⟨את⟩ lokhu engikwenzayo elivini lami: ukususa umuzi walo, futhi luzoba yinto yokushiswa; ukubhidliza inkotha yalo, futhi luzoba yindawo yokunyathwa.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Manje-ke"
+    },
+    {
+      "surface": "אודיעה",
+      "gloss": "ngizokwazisa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nje"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokhu (okwenzayo)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kwenzayo"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "elivini lami"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ukususa"
+    },
+    {
+      "surface": "משוכתו",
+      "gloss": "umuzi walo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "futhi luzoba"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "yinto yokushiswa"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ukubhidliza"
+    },
+    {
+      "surface": "גדרו",
+      "gloss": "inkotha yalo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "futhi luzoba"
+    },
+    {
+      "surface": "למרמס",
+      "gloss": "yindawo yokunyathwa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:18:35.625740547Z",
+  "model": "glm-5.3"
+}

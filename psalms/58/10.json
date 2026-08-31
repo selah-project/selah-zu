@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 58:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 58,
+  "translation": "Ngaphambi kokuba izitsha zenu zizwe iqhoboshi, uzosusela njengesiphepho — okuphilayo kanye nokwatukuthelayo.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "ngaphambi kokuba"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "zizwe"
+    },
+    {
+      "surface": "סירתיכם",
+      "gloss": "izitsha zenu"
+    },
+    {
+      "surface": "אטד",
+      "gloss": "iqhoboshi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge-"
+    },
+    {
+      "surface": "חי",
+      "gloss": "okuphilayo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenga-"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "ukwatukuthela"
+    },
+    {
+      "surface": "ישערנו",
+      "gloss": "uzosusela ngesiphepho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:11.931204133Z",
+  "model": "glm-5.3"
+}

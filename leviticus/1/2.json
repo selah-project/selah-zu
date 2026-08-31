@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 1:2",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Khuluma kubantwana bakwa-Israyeli, uthi kubo: umuntu kunina uma eletha isinikelo kuYahwe, ezilwaneni — ezinkomeni nasezimfunyeni — nizonikeza ⟨את⟩ isinikelo senu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Khuluma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "uma"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "eletha"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kunina"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "isinikelo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "izilwaneni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ezinkomeni"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "nase"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ezimfunyeni"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "nizonikeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isinikelo senu"
+    },
+    {
+      "surface": "קרבנכם",
+      "gloss": "isinikelo senu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:51:03.742733174Z",
+  "model": "glm-5.3"
+}

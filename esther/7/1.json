@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Inkosi yafika, noHaman, ukuziphuzela ndawonye no-Esther inkosikazi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yafika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "noHaman"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ukuziphuzela"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndawonye no-"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esther"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "inkosikazi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:55:06.548203217Z",
+  "model": "glm-5.3"
+}

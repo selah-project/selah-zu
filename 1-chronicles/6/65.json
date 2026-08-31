@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "1-chronicles 6:65",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi esigabeni sikaGadi: ⟨את⟩ iRamaothi eGileyadi nangemikhakha yayo evulekile, noMahanayimi nangemikhakha yawo evulekile.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "futhi esigabeni sika-"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iRamaothi"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "iRamaothi"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "eGileyadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "imikhakha yayo evulekile"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "imikhakha yayo evulekile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "uMahanayimi"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "uMahanayimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "imikhakha yawo evulekile"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "imikhakha yawo evulekile"
+    }
+  ],
+  "timestamp": "2026-08-31T08:21:17.739132466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ukuwazi ⟨ukuhlakanipha⟩ nokwaluleka, ukuqonda amazwi ekuqondiseni",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "Ukuwazi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ukuhlakanipha"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "nokwaluleka"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "ukuqonda"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ekuqondiseni"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:56.503551071Z",
+  "model": "glm-5.3"
+}

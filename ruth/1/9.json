@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ruth 1:9",
+  "book": "ruth",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "uYahwe anunike ⟨⟨ukuthi⟩⟩ nithole umphumulo, ngasinye isifazane endlini yomyeni waso; wasuncamela, zona zawakhuphula izwi zawakhala.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "anunike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nin"
+    },
+    {
+      "surface": "ומצאן",
+      "gloss": "nithole"
+    },
+    {
+      "surface": "מנוחה",
+      "gloss": "umphumulo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "isifazane ngasinye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlini"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "yomyeni waso"
+    },
+    {
+      "surface": "ותשק",
+      "gloss": "wasuncamela"
+    },
+    {
+      "surface": "להן",
+      "gloss": "zona"
+    },
+    {
+      "surface": "ותשאנה",
+      "gloss": "zawakhuphula"
+    },
+    {
+      "surface": "קולן",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "ותבכינה",
+      "gloss": "zawakhala"
+    }
+  ],
+  "timestamp": "2026-08-31T08:57:37.679904691Z",
+  "model": "glm-5.3"
+}

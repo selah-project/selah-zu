@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 118,
+  "translation": "Makusho ⟨abakaki abayizingoni⟩ abamesabayo uYahwe: ngokuba ikhesedi yakhe mi ■⟨abakaki abayizingoni⟩ kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "makusho"
+    },
+    {
+      "surface": "נא",
+      "gloss": "manje"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "abamesabayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:56:43.810303044Z",
+  "model": "glm-5.3"
+}

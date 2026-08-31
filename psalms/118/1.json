@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 118:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 118,
+  "translation": "Yibani abangabongi uYahwe, ngoba ⟨uy⟩ uhle, ngoba ikhesedi yakhe yaphakade.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Yibani abangabongi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨uy⟩ uhle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "yaphakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:42.441194245Z",
+  "model": "glm-5.3"
+}

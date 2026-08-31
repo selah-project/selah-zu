@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 129,
+  "translation": "uYahwe ulungile, wasika izintambo zababi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ulungile"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "wasika"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "izintambo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zababi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:04.466666186Z",
+  "model": "glm-5.3"
+}

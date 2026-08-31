@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 28:4",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Anike wena ⟨את⟩ isibusiso sikaAvraham, kuwe nakusizukulwane sakho ⟨את⟩ nawe, ukuze ulifumane ilifa ⟨את⟩ ilizwe lokuhamba kwakho, elinika uElohim uAvraham.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Anike"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibusiso sikaAvraham"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "isibusiso"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "sikaAvraham"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ולזרעך",
+      "gloss": "nakusizukulwane sakho"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "nawe ⟨את⟩"
+    },
+    {
+      "surface": "לרשתך",
+      "gloss": "ukuze ulifumane ilifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwe lokuhamba kwakho"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "מגריך",
+      "gloss": "lokuhamba kwakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eli"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "elinika"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "uAvraham"
+    }
+  ],
+  "timestamp": "2026-08-31T01:15:51.416377618Z",
+  "model": "glm-5.3"
+}

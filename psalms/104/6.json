@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 104:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 104,
+  "translation": "Amanzi ajulile njengembatho uwugqokile; phezu kwezintaba amanzi ayema.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "amanzi ajulile"
+    },
+    {
+      "surface": "כלבוש",
+      "gloss": "njengembatho"
+    },
+    {
+      "surface": "כסיתו",
+      "gloss": "uwugqokile"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "izintaba"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ayema"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:56.461514055Z",
+  "model": "glm-5.3"
+}

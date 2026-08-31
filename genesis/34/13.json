@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 34:13",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Abantwana bakaYa'akov baphendula ⟨את⟩ uShekhem no⟨את⟩ uKhamori uyise ngenkohliso, bakhuluma, ngoba yena wayengcolisa ⟨את⟩ uDina udadewabo",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "baphendula"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "bakaYa'akov"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "uShekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uKhamori"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "uKhamori"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "ngenkohliso"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "bakhuluma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "wayengcolisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "uDina"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "udadewabo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:18:30.104741573Z",
+  "model": "glm-5.3"
+}

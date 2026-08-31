@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "UMbusi uShelomohi wathuma waya wathatha uChiramu ⟨את⟩ eTzori.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathuma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "uMbusi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomohi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "waya wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uChiramu"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "uChiramu"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "eTzori"
+    }
+  ],
+  "timestamp": "2026-08-31T03:51:05.400278944Z",
+  "model": "glm-5.3"
+}

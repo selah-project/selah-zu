@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 40:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Isiswe nomnikelo awuwuthandanga; izindlebe uzivulele ⟨ngami⟩; isiswe esishiswayo nenkonzo yesono awuzange uwusizuke.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "isiswe"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "nomnikelo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "wuthandanga"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "izindlebe"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "uzivulele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨ngami⟩"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "isiswe esishiswayo"
+    },
+    {
+      "surface": "וחטאה",
+      "gloss": "nenkonzo yesono"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "zange uwusizuke"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:29.591096524Z",
+  "model": "glm-5.3"
+}

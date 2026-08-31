@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 8:45",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "uzwe emazulwini ⟨את⟩ isicelo sabo no⟨את⟩ isikhonzo sabo, wenze icala labo.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "uzwe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "amazulwini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isicelo sabo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "isicelo sabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "isikhonzo sabo"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "isikhonzo sabo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "icala labo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:53:08.901570379Z",
+  "model": "glm-5.3"
+}

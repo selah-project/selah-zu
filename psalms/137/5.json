@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 137:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 137,
+  "translation": "Ngingakukhohlwa wena, iYerushalayimi, ilande inkombiso yami eyokudla.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "אשכחך",
+      "gloss": "ngingakukhohlwa wena"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ilande"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "inkombiso yami eyokudla"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:31.657914407Z",
+  "model": "glm-5.3"
+}

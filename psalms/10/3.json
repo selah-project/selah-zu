@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 10:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ngokuba olaka uzikhukumeza ngesifiso senefeshi yakhe, futhi owenza inzuzo engenasizotha ethokoza, uyazidla uYahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "הלל",
+      "gloss": "uzikhukumeza"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "olaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngesifiso"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "sisifiso"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "senefeshi yakhe"
+    },
+    {
+      "surface": "ובצע",
+      "gloss": "owenza inzuzo engenasizotha"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ethokoza"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "uyazidla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:15.672464961Z",
+  "model": "glm-5.3"
+}

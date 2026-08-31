@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 3:3",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Bayala ⟨את⟩ abantu bethi: Ngesikhathi nibona ⟨את⟩ isikhongozelo sencwadi yesivumelwano sikaYahwe uElohim wenu, nabapristi abaLevi besisweleyo, nina niyohamba endaweni yenu, nihamba ngemva kwaso.",
+  "tokens": [
+    {
+      "surface": "ויצוו",
+      "gloss": "bayala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bethi"
+    },
+    {
+      "surface": "כראותכם",
+      "gloss": "ngesikhathi nibona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isikhongozelo"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isikhongozelo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "yesivumelwano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "nabapristi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "abaLevi"
+    },
+    {
+      "surface": "נשאים",
+      "gloss": "besisweleyo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-so",
+      "marks": "isikhongozelo"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "תסעו",
+      "gloss": "niyohamba"
+    },
+    {
+      "surface": "ממקומכם",
+      "gloss": "endaweni yenu"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "nihamba"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ngemva kwaso"
+    }
+  ],
+  "timestamp": "2026-08-31T02:49:57.221346703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Ngubani lo, inkosi yenkazimulo? UYahwe wamandla nomqambi, uYahwe umqambi wempi.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "yenkazimulo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "wamandla"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "nomqambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "umqambi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wempi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:11.869710307Z",
+  "model": "glm-5.3"
+}

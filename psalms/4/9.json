@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 4:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Ngokuthula ndawonye ngiyohlala ngiçotshele, futhi ngizolele; ngoba wena, uYahwe, wedwa, ngokwesizotha ungihlalelisa.",
+  "tokens": [
+    {
+      "surface": "בשלום",
+      "gloss": "ngokuthula"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ngiyohlala ngiçotshele"
+    },
+    {
+      "surface": "ואישן",
+      "gloss": "futhi ngizolele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לבדד",
+      "gloss": "wedwa"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ngokwesizotha"
+    },
+    {
+      "surface": "תושיבני",
+      "gloss": "ungihlalelisa"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:11.336498981Z",
+  "model": "glm-5.3"
+}

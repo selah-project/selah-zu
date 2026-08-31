@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "⟨את⟩ Isimvu elilodwa uzokwenza ekuseni, futhi ⟨את⟩ isimvu lesibili uzokwenza phakathi kwezinkathi zentambama.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isimvu elilodwa"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "isimvu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzokwenza"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isimvu lesibili"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "isimvu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "lesibili"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzokwenza"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "izinkathi zentambama"
+    }
+  ],
+  "timestamp": "2026-08-31T01:41:30.181529776Z",
+  "model": "glm-5.3"
+}

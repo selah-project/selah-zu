@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 32:18",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Waphendula wathi: akulona izwi lokukhala lokunqoba, futhi akulona izwi lokukhala lokwehliswa-phansi; izwi lokucula engilizwayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "waphendula wathi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akulona"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "lokukhala"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "lokunqoba"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi akulona"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "lokukhala"
+    },
+    {
+      "surface": "חלושה",
+      "gloss": "lokwehliswa-phansi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "lokucula"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "engi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "lizwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:44:04.930109194Z",
+  "model": "glm-5.3"
+}

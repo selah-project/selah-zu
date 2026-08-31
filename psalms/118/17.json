@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 118,
+  "translation": "Angifi, ngizophila, futhi ngizotshela imisebenzi kaYah.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Angifi — angizi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "angifi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngizophila — futhi\/okokuthi"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ngizophila"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "futhi ngizotshela"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "imisebenzi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "kaYah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:58.355939716Z",
+  "model": "glm-5.3"
+}

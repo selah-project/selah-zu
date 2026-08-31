@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 35:24",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Ngesikhathi samangalela ngokulunga kwakho, uYahwe uElohim wami, banganjabuli kimi.",
+  "tokens": [
+    {
+      "surface": "שפטני",
+      "gloss": "ngesikhathi samangalela"
+    },
+    {
+      "surface": "כצדקך",
+      "gloss": "ngokulunga kwakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wami"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "banganjabuli"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "banganjabuli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:30:52.658111199Z",
+  "model": "glm-5.3"
+}

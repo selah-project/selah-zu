@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 19:23",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Ngalolo suku kuzokhona umgwaqo osuka eMitsrayim uya eAshuru, futhi iAshuru izongena eMitsrayim, futhi iMitsrayim eAshuru, futhi iMitsrayim izokhonza ndawonye neAshuru ⟨את⟩ iAshuru.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ngalolu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "suku"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kuzokhona"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "umgwaqo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "osuka eMitsrayim"
+    },
+    {
+      "surface": "אשורה",
+      "gloss": "uya eAshuru"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "izongena"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "iAshuru"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "futhi iMitsrayim"
+    },
+    {
+      "surface": "באשור",
+      "gloss": "eAshuru"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "izokhonza ndawonye"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iAshuru"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "neAshuru"
+    }
+  ],
+  "timestamp": "2026-08-31T04:21:39.264061503Z",
+  "model": "glm-5.3"
+}

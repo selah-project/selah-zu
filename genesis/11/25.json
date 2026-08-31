@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 11:25",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "UNachori waphila, emva kokubeletha ⟨את⟩ uTerahi, iminyaka engu-19 nengama-100, wabeletha amadodana namadodakazi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "waphila"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "UNachori"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "okubeletha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uTerahi"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "uTerahi"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "isishiyagalolunye"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "eshumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "nengama-"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "100"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wabeletha"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "namadodakazi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:08.479817449Z",
+  "model": "glm-5.3"
+}

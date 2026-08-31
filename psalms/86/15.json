@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 86,
+  "translation": "Wena-ke, u-Adonayi, u-El onesihawu nenomusa, ungena musa ngokushesha, unobuningi bekhesedi neqiniso.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Wena-ke"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "onesihawu"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "nenomusa"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ungen musa ngokushesha"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "(amazwi) ukukhayeza"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "unobuningi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "bekhesedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "neqiniso"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:40.016278820Z",
+  "model": "glm-5.3"
+}

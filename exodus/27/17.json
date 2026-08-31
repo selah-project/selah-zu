@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 27:17",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Wonke amakholomu echibiyela, emaphakathi nawo konke, aboshwe ngensimbi yesiliva; izinhlanganisi zazo zesiliva, futhi izingcishugi zazo zensimbi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "amakholomu"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "echibiyela"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "emaphakathi nawo konke"
+    },
+    {
+      "surface": "מחשקים",
+      "gloss": "aboshwe ngensimbi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "yesiliva"
+    },
+    {
+      "surface": "ואויהם",
+      "gloss": "izinhlanganisi zazo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zesiliva"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "izingcishugi zazo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "zensimbi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:55.409966506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Sukuma, uYahwe; ungavumela umuntu ukuthi amandise amandla; izizwe ziyahlulelwa phambi kobuso bakho.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sukuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungavumela"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "ukuthi amandise amandla"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "ziyahlulelwa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kobuso bakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:25.546966707Z",
+  "model": "glm-5.3"
+}

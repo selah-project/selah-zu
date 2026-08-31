@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 26:11",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Akekho lokho ku-uYahwe ukuthi ngicandule isandla sami kuMashiya ka-uYahwe; bese thatha ngesicelo ⟨את⟩ umculo osezinhlangothini zakhe, nathi ⟨את⟩ isitya sezamanzi, sibe siyahamba.",
+  "tokens": [
+    {
+      "surface": "חלילה",
+      "gloss": "Akekho lokho"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ku- mina"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ku-uYahwe"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "ukuthi ngicandule"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "isandla sami"
+    },
+    {
+      "surface": "במשיח",
+      "gloss": "kuMashiya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ka-uYahwe"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "bese"
+    },
+    {
+      "surface": "קח",
+      "gloss": "thatha"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngesicelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umculo"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "umculo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "מראשתו",
+      "gloss": "sezinhlangothini zakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nathi ⟨את⟩",
+      "marks": "isitya sezamanzi"
+    },
+    {
+      "surface": "צפחת",
+      "gloss": "isitya"
+    },
+    {
+      "surface": "המים",
+      "gloss": "sezamanzi"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "sibe siyahamba"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    }
+  ],
+  "timestamp": "2026-08-31T03:30:00.927430305Z",
+  "model": "glm-5.3"
+}

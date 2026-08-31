@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 26:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Ngizohlanza izandla zami ngokuhlanzeka, bese ngizungezela ⟨את⟩ i-altare lakho, uYahwe.",
+  "tokens": [
+    {
+      "surface": "ארחץ",
+      "gloss": "Ngizohlanza"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "ngokuhlanzeka"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "izandla zami"
+    },
+    {
+      "surface": "ואסבבה",
+      "gloss": "bese ngizungezela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-altare lakho"
+    },
+    {
+      "surface": "מזבחך",
+      "gloss": "i-altare lakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:55.493236628Z",
+  "model": "glm-5.3"
+}

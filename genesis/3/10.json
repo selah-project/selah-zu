@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Wathi: Ngizwe ⟨את⟩ izwi lakho esivandeni, ngasaba ngoba ngihamba nesilelesi, ndazifihla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi lakho"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "izwi lakho"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Ngizwe"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "esivandeni"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "ngasaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "nesilelesi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngihamba"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "ndazifihla"
+    }
+  ],
+  "timestamp": "2026-08-31T01:01:41.226075382Z",
+  "model": "glm-5.3"
+}

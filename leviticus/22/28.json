@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Inkomo noma iwundlu, yona ⟨את⟩ nendodana yayo angeke niyihlabe ngosuku olulodwa.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "inkomo"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "שה",
+      "gloss": "iwundlu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "yona ⟨את⟩",
+      "marks": "inkomo\/iwundlu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nendodana yayo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "nihlabe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "olulodwa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:01:40.240286763Z",
+  "model": "glm-5.3"
+}

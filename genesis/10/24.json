@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Futhi u-Arfakhshadi wazala ⟨את⟩ u-Shelakhi, u-Shelakhi wazala ⟨את⟩ u-Everu.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "Futhi u-Arfakhshadi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Shelakhi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "u-Shelakhi"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "u-Shelakhi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Everu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "u-Everu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:04:58.391815116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 88,
+  "translation": "Ungibekile emgodini osezansi kakhulu, ebumnyameni, obunzulu bamanzi.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "ungibekile"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "emgodini"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "osezansi kakhulu"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "ebumnyameni"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "obunzulu bamanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:58.472798720Z",
+  "model": "glm-5.3"
+}

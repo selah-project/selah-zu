@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 3:27",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "NoKehati: umndeni ka-Amuramu, nomndeni ka-Yitshari, nomndeni ka-Chevroni, nomndeni ka-Uzieli; lezi yizindlu zikaKehati.",
+  "tokens": [
+    {
+      "surface": "ולקהת",
+      "gloss": "noKehati"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umndeni ka-"
+    },
+    {
+      "surface": "העמרמי",
+      "gloss": "Amuramu"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "nomndeni ka-"
+    },
+    {
+      "surface": "היצהרי",
+      "gloss": "Yitshari"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "nomndeni ka-"
+    },
+    {
+      "surface": "החברני",
+      "gloss": "Chevroni"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "nomndeni ka-"
+    },
+    {
+      "surface": "העזיאלי",
+      "gloss": "Uzieli"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yizi-"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "zindlu"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "zikaKehati"
+    }
+  ],
+  "timestamp": "2026-08-31T02:08:25.046881419Z",
+  "model": "glm-5.3"
+}

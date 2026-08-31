@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Alikho ukuphila okuphelele enyameni yami ngenxa yokucasuka kwakho; alikho ukuthula emathambo ami ngenxa yesono sami.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Alikho"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "ukuphila okuphelele"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "enyameni yami"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa ye"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "yokucasuka kwakho"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alikho"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ukuthula"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "emathambo ami"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa ye"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "yesono sami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:34.755564228Z",
+  "model": "glm-5.3"
+}

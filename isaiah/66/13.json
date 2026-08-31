@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 66:13",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 66,
+  "translation": "Njengomuntu umama akamniphulukisayo, ngifananayo mina ngizoniphulukisa, futhi eYerushalayimi nizoniphulukiswa.",
+  "tokens": [
+    {
+      "surface": "כאיש",
+      "gloss": "njengomuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngaqo"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "umama akhe"
+    },
+    {
+      "surface": "תנחמנו",
+      "gloss": "amniphulukisayo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngifananayo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אנחמכם",
+      "gloss": "ngizoniphulukisa"
+    },
+    {
+      "surface": "ובירושלם",
+      "gloss": "futhi eYerushalayimi"
+    },
+    {
+      "surface": "תנחמו",
+      "gloss": "nizoniphulukiswa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:38:25.595324786Z",
+  "model": "glm-5.3"
+}

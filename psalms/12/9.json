@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 12:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Ngakwesokudla nangesokunxele ababi behamba-behamba, lapho ubudenge bukhuphuka phakathi kwabantwana abantu.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "ngakwesokudla nangesokunxele"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "יתהלכון",
+      "gloss": "behamba-behamba"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "lapho ubudenge bukhuphuka"
+    },
+    {
+      "surface": "זלות",
+      "gloss": "ubudenge"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwabantwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:44.743040639Z",
+  "model": "glm-5.3"
+}

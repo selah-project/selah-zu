@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 42:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "uElohim wami, phezu kwami inefeshi yami idukile; ngakho-ke ngiyakukhumbula kusuka ezweni lweYardeni, nakumaHermoni, esigodlweni saseMitsari.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wami"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "תשתוחח",
+      "gloss": "idukile"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "אזכרך",
+      "gloss": "ngiyakukhumbula"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kusuka ezweni"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "lweYardeni"
+    },
+    {
+      "surface": "וחרמונים",
+      "gloss": "nakumaHermoni"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "esigodlweni"
+    },
+    {
+      "surface": "מצער",
+      "gloss": "saseMitsari"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:40.596753390Z",
+  "model": "glm-5.3"
+}

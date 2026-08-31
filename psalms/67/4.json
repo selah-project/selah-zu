@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 67:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 67,
+  "translation": "Izizwe makakudumise, uElohim; izizwe zonke makakudumise.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "makakudumise"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "Izizwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "makakudumise"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "zonke"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:44.449000779Z",
+  "model": "glm-5.3"
+}

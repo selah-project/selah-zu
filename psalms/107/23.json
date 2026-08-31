@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 107:23",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Abehla olwandle ezimbotsheni, abenza umsebenzi emanzini amakhulu.",
+  "tokens": [
+    {
+      "surface": "יורדי",
+      "gloss": "abehla"
+    },
+    {
+      "surface": "הים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "ezimbotsheni"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "abenza"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "emanzini"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "amakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:52.299865836Z",
+  "model": "glm-5.3"
+}

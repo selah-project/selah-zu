@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ababi bayophendukela ⟨e⟩iSheoleni, zonke izizwe ezikhohlayo uElohim.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "bayophendukela"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Ababi"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "⟨e⟩iSheoleni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "ezikhohlayo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:25.546640033Z",
+  "model": "glm-5.3"
+}

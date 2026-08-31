@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Futhi umpristi uzobuka ⟨את⟩ umonakalo, amvala ⟨את⟩ umonakalo izinsuku eziyisikhombisa.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "futhi uzobuka"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umonakalo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "umonakalo"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "amvala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umonakalo"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "umonakalo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "eziyisikhombisa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    }
+  ],
+  "timestamp": "2026-08-31T01:57:20.374166213Z",
+  "model": "glm-5.3"
+}

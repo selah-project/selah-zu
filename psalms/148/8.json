@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 148,
+  "translation": "Umlilo nezihlakala, iqhwa nesivuthwane somsusa, umoya wesivunguvungu esenza izwi lakhe.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Umlilo"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "nezihlakala"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "iqhwa"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "nesivuthwane somsusa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "wesivunguvungu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "esenza"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "izwi lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:22.122853300Z",
+  "model": "glm-5.3"
+}

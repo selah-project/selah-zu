@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 24:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Wathatha incwadi yesivumelwano, wayifunda ezindlebeni zesizwe; basese bethi: Konke okukhulunywe uYahwe sizokwenza, futhi sizolalela.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "incwadi"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "yesivumelwano"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wayifunda"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ezindlebeni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "zesizwe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ukukhulunywe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "sizokwenza"
+    },
+    {
+      "surface": "ונשמע",
+      "gloss": "futhi sizolalela"
+    }
+  ],
+  "timestamp": "2026-08-31T01:38:44.500215223Z",
+  "model": "glm-5.3"
+}

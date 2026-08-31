@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 40:8",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Bamchazela bathi: Sichithile ubuthongo, kodwa akekho ochaza ⟨את⟩ bu. U-Yosefu wathi kubo: Ingabe ukuchazwa akuvela ku-Elohim? Ngiyicela, ndichazele.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Bamchazela bathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ubuthongo"
+    },
+    {
+      "surface": "חלמנו",
+      "gloss": "Sichithile"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "kodwa ukuchazwa"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akekho"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uchaza bu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "U-Yosefu"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Ingabe"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "akuvela ku-Elohim"
+    },
+    {
+      "surface": "פתרנים",
+      "gloss": "ukuchazwa"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "ndichazele"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Ngiyicela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimina"
+    }
+  ],
+  "timestamp": "2026-08-31T01:19:57.188761913Z",
+  "model": "glm-5.3"
+}

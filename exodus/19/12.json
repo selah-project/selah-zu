@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 19:12",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Futhi uzobeka umkhawulo ⟨את⟩ abantwini jikelele, usho: Qaphelani ukwenyuka entabeni noma ukuthinta umkhawulo wayo; noma ngubani othinta intaba uzofa ngempela ukufa.",
+  "tokens": [
+    {
+      "surface": "והגבלת",
+      "gloss": "uzobeka umkhawulo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwini"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantwini"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "jikelele"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "usho"
+    },
+    {
+      "surface": "השמרו",
+      "gloss": "Qaphelani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨abakaki abayizingoni: nina⟩"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ukwenyuka"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "noma ukuthinta"
+    },
+    {
+      "surface": "בקצהו",
+      "gloss": "umkhawulo wayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "noma ngubani"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "othinta"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "intaba"
+    },
+    {
+      "surface": "מות",
+      "gloss": "uzofa ngempela"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ukufa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:34:43.111634067Z",
+  "model": "glm-5.3"
+}

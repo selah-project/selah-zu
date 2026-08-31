@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 37:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Inkemba yazo izongena enhliziyweni yazo, futhi ubutho bazo buzophukile.",
+  "tokens": [
+    {
+      "surface": "חרבם",
+      "gloss": "Inkemba yazo"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "izongena"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "enhliziyweni yazo"
+    },
+    {
+      "surface": "וקשתותם",
+      "gloss": "futhi ubutho bazo"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "buzophukile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:36.471335758Z",
+  "model": "glm-5.3"
+}

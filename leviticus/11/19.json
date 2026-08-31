@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 11:19",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "ne-⟨את⟩ i-hasidah, ne-⟨את⟩ i-anafah ngesinhlobo sayo, ne-⟨את⟩ i-dukiphati, ne-⟨את⟩ umlambo (ibhethamdle)",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne-⟨את⟩",
+      "marks": "i-hasidah"
+    },
+    {
+      "surface": "החסידה",
+      "gloss": "i-hasidah"
+    },
+    {
+      "surface": "האנפה",
+      "gloss": "i-anafah"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ngesinhlobo sayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne-⟨את⟩",
+      "marks": "i-dukiphati"
+    },
+    {
+      "surface": "הדוכיפת",
+      "gloss": "i-dukiphati"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne-⟨את⟩",
+      "marks": "ibhethamdle"
+    },
+    {
+      "surface": "העטלף",
+      "gloss": "ibhethamdle"
+    }
+  ],
+  "timestamp": "2026-08-31T05:57:39.076931467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 26:42",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Ngizokhumbula isivumelwano sami sika-Yaakov, futhi ⟨את⟩ isivumelwano sami sika-Yitschak, futhi ⟨את⟩ isivumelwano sami sika-Avraham ngisakhumbula, nomhlaba ngizowukhumbula.",
+  "tokens": [
+    {
+      "surface": "וזכרתי",
+      "gloss": "ngizokhumbula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isivumelwano sami sika-Yaakov"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "isivumelwano sami"
+    },
+    {
+      "surface": "יעקוב",
+      "gloss": "sika-Yaakov"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isivumelwano sami sika-Yitschak"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "isivumelwano sami"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "sika-Yitschak"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isivumelwano sami sika-Avraham"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "isivumelwano sami"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "sika-Avraham"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ngisakhumbula"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "nomhlaba"
+    },
+    {
+      "surface": "אזכר",
+      "gloss": "ngizowukhumbula"
+    }
+  ],
+  "timestamp": "2026-08-31T10:14:45.203014063Z",
+  "model": "glm-5.3"
+}

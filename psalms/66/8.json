@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 66:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 66,
+  "translation": "Zukulwani izizwe, uElohim wethu; fen' abantu bazwe izwi lidumayo layo.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Zukulwani"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "והשמיעו",
+      "gloss": "fen' abantu bazwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "lidumayo layo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:22.335005124Z",
+  "model": "glm-5.3"
+}

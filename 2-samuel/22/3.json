@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 22:3",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "u-Elohim weNdlela yami — ngiyababela kuye; uyivikelo lami, nolaka lokusindiswa kwami, iphahla eliphakeme lami, nesisokoto sami; umsindisi wami, ungisindisa ekukhalipheni.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "u-Elohim we-"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "idwala lami"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ngiyababela"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "uyivikelo lami"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "nolaka"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "lokusindiswa kwami"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "iphahla eliphakeme lami"
+    },
+    {
+      "surface": "ומנוסי",
+      "gloss": "nesisokoto sami"
+    },
+    {
+      "surface": "משעי",
+      "gloss": "umsindisi wami"
+    },
+    {
+      "surface": "מחמס",
+      "gloss": "ekukhalipheni"
+    },
+    {
+      "surface": "תשעני",
+      "gloss": "ungisindisa"
+    }
+  ],
+  "timestamp": "2026-08-31T03:43:37.804412774Z",
+  "model": "glm-5.3"
+}

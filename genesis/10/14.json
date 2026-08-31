@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 10:14",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Nange-⟨את⟩ amaPathrusim nange-⟨את⟩ amaKasluchim, okuyilapho khona aphuma khona amaFilishtim, nange-⟨את⟩ amaKafthorim.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "nange-⟨את⟩",
+      "marks": "amaPathrusim"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "amaPathrusim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange-⟨את⟩",
+      "marks": "amaKasluchim"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "amaKasluchim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okuyilapho"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "aphuma"
+    },
+    {
+      "surface": "משם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaFilishtim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange-⟨את⟩",
+      "marks": "amaKafthorim"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "amaKafthorim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:04:59.212772987Z",
+  "model": "glm-5.3"
+}

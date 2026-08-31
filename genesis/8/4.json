@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Isikebhke sabeka phansi esukwini wesikhombisa, ngosuku lwesishiyagalombili lesuku, kwezintaba zase-Ararati.",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "sabeka phansi"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "isikebhe"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "esukwini"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "wesikhombisa"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "(ngesishiyagalombili)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(lwesishiyagalombili)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "lesuku"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwezintaba"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "ezintaba"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "ase-Ararati"
+    }
+  ],
+  "timestamp": "2026-08-31T05:55:19.572374717Z",
+  "model": "glm-5.3"
+}

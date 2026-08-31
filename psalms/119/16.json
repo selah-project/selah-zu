@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 119:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ezimisweni zakho ngizithokozisa; ngingakhohlwa izwi lakho.",
+  "tokens": [
+    {
+      "surface": "בחקתיך",
+      "gloss": "Ezimisweni zakho"
+    },
+    {
+      "surface": "אשתעשע",
+      "gloss": "ngizithokozisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ninga"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "khohlwa"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "izwi lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:27.260983404Z",
+  "model": "glm-5.3"
+}

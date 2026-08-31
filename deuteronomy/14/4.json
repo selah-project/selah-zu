@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Le yizilwane eniyozidla: inkomo, iwundlu lwemvu, newundlu lwembuzi.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "izilwane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eni-"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "eniyozidla"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inkomo"
+    },
+    {
+      "surface": "שה",
+      "gloss": "iwundlu"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "lwemvu"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "newundlu"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "lwembuzi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:36:28.433605839Z",
+  "model": "glm-5.3"
+}

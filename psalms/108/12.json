@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 108:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 108,
+  "translation": "Awungasishiyanga yini, wena uElohim? Awuphumanga yini, uElohim, namabutho ethu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Awu- yini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "ungasishiyanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "Awu-"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "uphumanga yini"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בצבאתינו",
+      "gloss": "namabutho ethu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:54.488078801Z",
+  "model": "glm-5.3"
+}

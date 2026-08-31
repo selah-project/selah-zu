@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "No-⟨את⟩ i-shafan, ngoba uyaphakamisa i-gerah, kodwa uphawu lesandla (unyawo) aluqandi — ngokungcola ungcwele yena kini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "i-shafan"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "i-shafan"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "uyaphakamisa"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "i-gerah"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "kodwa uphawu lenyawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alu-"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "qandi"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ungcwele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-08-31T01:54:23.028757280Z",
+  "model": "glm-5.3"
+}

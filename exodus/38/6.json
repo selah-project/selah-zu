@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Wenza ⟨את⟩ izingodo zomuthi we-acacia, wayezibeka ngensimbi yethusi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingodo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "izingodo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "omuthi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "we-acacia"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "wayezibeka ngensimbi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yethusi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "yethusi"
+    }
+  ],
+  "timestamp": "2026-08-31T11:04:55.716370873Z",
+  "model": "glm-5.3"
+}

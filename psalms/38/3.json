@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Ngoba izeze zakho zakhohla kimi, futhi isandla sakho sabambelela phezu kwami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngoba"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "izeze zakho"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "zakhohla"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "futhi ... sabambelela"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:34.755405815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 2:4",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi uSathani waphendula ⟨את⟩ uYahwe wathi: Isikhumba ngesikhumba, yonke into enomuntu uyinikeza ngenxa yokuphila kwakhe.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "waphendula"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "uSathani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "עור",
+      "gloss": "Isikhumba"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "nge"
+    },
+    {
+      "surface": "עור",
+      "gloss": "isikhumba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "into"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "enomuntu"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "uyinikeza"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "yokuphila kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:08:14.534109116Z",
+  "model": "glm-5.3"
+}

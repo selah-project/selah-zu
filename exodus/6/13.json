@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 6:13",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "UYahwe wakhuluma kuMoshe naku-Aharoni, wabamyalela ⟨mayelana nabantwana bakwa-Israyeli nakayiParo inkosi yaseMitsrayim⟩ ukukhipha ⟨את⟩ abantwana bakwa-Israyeli ezweni laseMitsrayim.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naku-"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharoni"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "wabamyalela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "mayelana na-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naka-"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yaseMitsrayim"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ukukhipha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakwa-Israyeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:28:14.110653459Z",
+  "model": "glm-5.3"
+}

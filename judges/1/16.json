@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 1:16",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Abantwana bakaKeni, umkhwe kaMoshe, banyukela edolobheni lezikhundla-zamabalwa bahamba ⟨את⟩ abantwana bakwaYehuda, baya ehlanzeni lakwaYehuda eliseNqabulwanga eduze ne-Aradi; baya bahlala ⟨את⟩ abantu.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "קיני",
+      "gloss": "bakaKeni"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "umkhwe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kaMoshe"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "banyukela"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "lezikhundla-zamabalwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakwaYehuda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bakwaYehuda"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ehlanzeni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lakwaYehuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okuseduze"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "eliseNqabulwanga"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "ne-Aradi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "baya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "bahlala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:04:08.670498777Z",
+  "model": "glm-5.3"
+}

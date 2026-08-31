@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Ukuba ngangingithi, ngizokhuluma kanje, bheka, ngangingathembeki ezizukulwaneni zezingane zakho.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ngangingithi"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ngizokhuluma"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "kanje"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ezizukulwaneni"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "zezingane zakho"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "ngangingathembeki"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:47.964852293Z",
+  "model": "glm-5.3"
+}

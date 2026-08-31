@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 11:1",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Ngenxa yokuthi iSirayeli wayengumfana, ngamthanda, futhi eMitsrayim ngabiza indodana yami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngenxa yokuthi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "umfana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iSirayeli"
+    },
+    {
+      "surface": "ואהבהו",
+      "gloss": "ngamthanda"
+    },
+    {
+      "surface": "וממצרים",
+      "gloss": "futhi eMitsrayim"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ngabiza"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "indodana yami"
+    }
+  ],
+  "timestamp": "2026-08-31T05:28:55.390855280Z",
+  "model": "glm-5.3"
+}

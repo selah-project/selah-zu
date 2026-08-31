@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Futhi lokhu kuwuphawu kuwe ⟨את⟩ oluvela kuYahwe, ukuthi uYahwe uzokwenza ⟨את⟩ lolu wo mkhankaso aluwenzileyo.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "Futhi lokhu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "האות",
+      "gloss": "uwuphawu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ oluvela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uzokwenza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lolu wo mkhankaso"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "umkhankaso"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lolu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aluwenzileyo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alushoyo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:27:37.906359542Z",
+  "model": "glm-5.3"
+}

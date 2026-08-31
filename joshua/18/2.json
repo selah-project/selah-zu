@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 18:2",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Futhi kwashiywa phakathi kwabantwana bakwa-Israyeli abangazibalanga ⟨את⟩ ifa labo — izinhlanga ezisikhombisa.",
+  "tokens": [
+    {
+      "surface": "ויותרו",
+      "gloss": "kwashiywa"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "phakathi kwabantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abanga-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga- (cha)"
+    },
+    {
+      "surface": "חלקו",
+      "gloss": "zibalanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifa labo"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "ifa labo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ezisikhombisa"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "izinhlanga"
+    }
+  ],
+  "timestamp": "2026-08-31T02:57:14.197024149Z",
+  "model": "glm-5.3"
+}

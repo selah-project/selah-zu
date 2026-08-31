@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 54:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 54,
+  "translation": "Ngokuba ngasemuva kwazo zonke izinkinga ūsindisile, iso lami libonile izitha zami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kwazo zonke"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "izinkinga"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ūsindisile"
+    },
+    {
+      "surface": "ובאיבי",
+      "gloss": "izitha zami"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "libonile"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "iso lami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:07.832350251Z",
+  "model": "glm-5.3"
+}

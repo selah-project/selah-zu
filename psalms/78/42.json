@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Bengakhumbuli ⟨את⟩ isandla sakhe, usuku lapho ayebakhulula khona kusitheni.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Benga-"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "khumbuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sakhe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "ayebakhulula khona"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "צר",
+      "gloss": "isitheni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:39.626625804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Kumqondisi wezinkomishi, nge-Nehiloti, ingoma kaDavide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi wezinkomishi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "Nehiloti"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ingoma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:53.762321389Z",
+  "model": "glm-5.3"
+}

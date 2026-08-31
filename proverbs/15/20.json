@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Indodana eluhlaza ekhono ijabulisa uyise, kodwa indoda entshonalanga yendaba yehla ukhohla unina.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Indodana"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "eluhlaza ekhono"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ijabulisa"
+    },
+    {
+      "surface": "אב",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "kodwa indoda entshonalanga yendaba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨yendaba⟩"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "yehla ukhohla"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "unina"
+    }
+  ],
+  "timestamp": "2026-08-31T06:54:07.002690091Z",
+  "model": "glm-5.3"
+}

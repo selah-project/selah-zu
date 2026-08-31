@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 14:17",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Inkosi yeSodomu yaphuma ukumhlangana naye, emva kokubuyela kwakhe ekushayweni kuka-⟨את⟩ uKedarlaomeri no-⟨את⟩ izinkosi ezazingaye, esigwazini sikaShavehi, yilesi esigwazini senkosi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yaphuma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "iSodomu"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ukumhlangana naye"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva kuka-"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "ukubuyela kwakhe"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "ekushayweni kuka-"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uKedarlaomeri"
+    },
+    {
+      "surface": "כדרלעמר",
+      "gloss": "uKedarlaomeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izinkosi"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "izinkosi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi-"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ezingu-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "esigwazini"
+    },
+    {
+      "surface": "שוה",
+      "gloss": "iShavehi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilesi"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "esigwazini"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "senkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:06:22.167361198Z",
+  "model": "glm-5.3"
+}

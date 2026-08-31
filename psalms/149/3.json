@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 149,
+  "translation": "Babe igama lakhe ngomdanso; ngeghuba nekhithari bazobele ⟨ngaye⟩.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Babe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "ngomdanso"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ngeghuba"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "nekhithari"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "bazobele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ngaye⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:41.336725130Z",
+  "model": "glm-5.3"
+}

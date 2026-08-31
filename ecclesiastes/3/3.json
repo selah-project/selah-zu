@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Isikhathi sokubulala, nesikhathi sokwelapha; isikhathi sokudiliza, nesikhathi sokwakha;",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Isikhathi"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "sokubulala"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nesikhathi"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "sokwelapha"
+    },
+    {
+      "surface": "עת",
+      "gloss": "isikhathi"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "sokudiliza"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nesikhathi"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "sokwakha"
+    }
+  ],
+  "timestamp": "2026-08-31T07:44:31.379596759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 5:5",
+  "book": "micah",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Futhi bazokhubaza ⟨את⟩ izwe le-Ashshur ngekemishi, no⟨את⟩ izwe leNimrodi emasangweni ayo; futhi uzasipholisa e-Ashshur, uma engena ezweni lethu, nasemaqedeni ethu.",
+  "tokens": [
+    {
+      "surface": "ורעו",
+      "gloss": "bazokhubaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwe le-Ashshur"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "le-Ashshur"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ngekemishi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "izwe leNimrodi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "leNimrodi"
+    },
+    {
+      "surface": "בפתחיה",
+      "gloss": "emasangweni ayo"
+    },
+    {
+      "surface": "והציל",
+      "gloss": "futhi uzasipholisa"
+    },
+    {
+      "surface": "מאשור",
+      "gloss": "e-Ashshur"
+    },
+    {
+      "surface": "כי",
+      "gloss": "uma"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "engena"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ezweni lethu"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "nase"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "emaqedeni ethu"
+    },
+    {
+      "surface": "בגבולנו",
+      "gloss": "eziqhenyenzi zakithi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:36:30.502829738Z",
+  "model": "glm-5.3"
+}

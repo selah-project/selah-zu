@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 23:6",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Ingabe ngokunyathela ngamandla uzongilwa kimi? Cha; kuphela yena uzobeka kimi ⟨ithemba⟩.",
+  "tokens": [
+    {
+      "surface": "הברב",
+      "gloss": "ngokunyathela ngamandla"
+    },
+    {
+      "surface": "כח",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "uzongilwa"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Cha"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "uzobeka"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:19:34.014969879Z",
+  "model": "glm-5.3"
+}

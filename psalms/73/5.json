@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Ekuhluphekeni kwabantu abafayo angekho yena, futhi abantu abajwayelekile angeke bathintwe yona.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "ekuhluphekeni"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "abafayo"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "angekho yena"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "futhi abantu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abajwayelekile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "bathintwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:03.991430007Z",
+  "model": "glm-5.3"
+}

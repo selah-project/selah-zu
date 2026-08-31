@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 4:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Ngiyabizayo ngiphendule, uElohim wolungiso lwami; esiboshweni wandikhulula; ngihawukela futhi ulalele ithandazo lami.",
+  "tokens": [
+    {
+      "surface": "בקראי",
+      "gloss": "Ngiyabizayo"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ngiphendule"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "צדקי",
+      "gloss": "wolungiso lwami"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "esiboshweni"
+    },
+    {
+      "surface": "הרחבת",
+      "gloss": "wandikhulula"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ngihawukela"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "futhi ulalele"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ithandazo lami"
+    }
+  ],
+  "timestamp": "2026-08-31T05:46:28.592679340Z",
+  "model": "glm-5.3"
+}

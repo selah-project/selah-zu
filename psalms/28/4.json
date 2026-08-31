@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 28:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Nika ⟨ku⟩bona njengokwenzayo kwabo, futhi njengobubi bokwenza bwabo; njengomsebenzi wezandla zabo nika ⟨ku⟩bona; buyisela umvuzo wabo kubona.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "nika"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ku-bona"
+    },
+    {
+      "surface": "כפעלם",
+      "gloss": "njengokwenzayo kwabo"
+    },
+    {
+      "surface": "וכרע",
+      "gloss": "futhi njengobubi"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "bokwenza bwabo"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "njengomsebenzi"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "wezandla zabo"
+    },
+    {
+      "surface": "תן",
+      "gloss": "nika"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ku-bona"
+    },
+    {
+      "surface": "השב",
+      "gloss": "buyisela"
+    },
+    {
+      "surface": "גמולם",
+      "gloss": "umvuzo wabo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubona"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:31.657132059Z",
+  "model": "glm-5.3"
+}

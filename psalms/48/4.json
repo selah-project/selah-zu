@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 48,
+  "translation": "uElohim phakathi kwezinqaba zayo uziqamba njengesiphephelo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "phakathi kwezinqaba zayo"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "uziqamba"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "njengesiphephelo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:20.308904217Z",
+  "model": "glm-5.3"
+}

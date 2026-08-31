@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 15:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Okungabizi nto emehlweni akhe kuyanyatshwa, kodwa lowo esaba uYahwe uyamhlonipha; ofungile ukwenzakala futhi akashintshi.",
+  "tokens": [
+    {
+      "surface": "נבזה",
+      "gloss": "okungabizi nto"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "emehlweni akhe"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "kuyanyatshwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abasaba uYahwe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "abasaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "uyabahlonipha"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ofungile"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ukwenzakala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi cha"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "akashintshi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:51:59.340230309Z",
+  "model": "glm-5.3"
+}

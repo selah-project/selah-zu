@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Futhi uzothatha ⟨את⟩ isibankwa sokugcwaliswa, ubilise inyama yaso endaweni engcwele.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Futhi ⟨את⟩",
+      "marks": "isibankwa"
+    },
+    {
+      "surface": "איל",
+      "gloss": "isibankwa"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "sokugcwaliswa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uzothatha"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "futhi uzolibilisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama yaso"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "inyama yaso"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "engcwele"
+    }
+  ],
+  "timestamp": "2026-08-31T01:42:10.414212932Z",
+  "model": "glm-5.3"
+}

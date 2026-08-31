@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi endlini yomkhosi wokudla ungangeni ukuzihlala ⟨את⟩ nabo, ukudla nokuphuza.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "futhi endlini"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "yomkhosi wokudla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ngeni"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ukuzihlala"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ nabo",
+      "marks": "ukudla nokuphuza"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "nokuphuza"
+    }
+  ],
+  "timestamp": "2026-08-31T04:44:48.611520511Z",
+  "model": "glm-5.3"
+}

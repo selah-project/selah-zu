@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Kwathi-ke, ekupheleni kukaMoshe ukubhala ⟨את⟩ amazwi ale tora esibukwini, kuze kwaphela ngokuphelele.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi-ke"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kukaMoshe"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "ukubhala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazwi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "a-tora"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "sibukwini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "kwaphela ngokuphelele"
+    }
+  ],
+  "timestamp": "2026-08-31T02:47:37.154625980Z",
+  "model": "glm-5.3"
+}

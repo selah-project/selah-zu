@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 30:10",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "UDavidi wazilandela, yena namadoda amane-amakhulu; amadoda amabili-amakhulu ema, abadiniwe, ngokwedlula ⟨את⟩ umfudlana weBhesori.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "wazilandela"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavidi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "amane"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "ema"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "amabili-amakhulu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "פגרו",
+      "gloss": "abadiniwe"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ukwedlula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfudlana weBhesori"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "umfudlana"
+    },
+    {
+      "surface": "הבשור",
+      "gloss": "weBhesori"
+    }
+  ],
+  "timestamp": "2026-08-31T03:28:36.391153689Z",
+  "model": "glm-5.3"
+}

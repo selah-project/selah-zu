@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 58:10",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 58,
+  "translation": "futhi ukhokhela umhlaba-mpofu onguwemphefumulo wakho, wanelisa umphakathi ocecile ngekhanda onguwemphefumulo; khona-ke ukukhanya kwakho kuzaphuma esibhakabhakeni esisizinda, futhi ubumnyama bakho kuzakuba njengasemini emaphakathi.",
+  "tokens": [
+    {
+      "surface": "ותפק",
+      "gloss": "ukhokhela"
+    },
+    {
+      "surface": "לרעב",
+      "gloss": "umhlaba-mpofu"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "onguwemphefumulo wakho"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "futhi umphakathi"
+    },
+    {
+      "surface": "נענה",
+      "gloss": "ocecile ngekhanda"
+    },
+    {
+      "surface": "תשביע",
+      "gloss": "wanelisa"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "kuzaphuma khanya"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "esibhakabhakeni esisizinda"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ukukhanya kwakho"
+    },
+    {
+      "surface": "ואפלתך",
+      "gloss": "futhi ubumnyama bakho"
+    },
+    {
+      "surface": "כצהרים",
+      "gloss": "njengasemini emaphakathi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:08:31.279283347Z",
+  "model": "glm-5.3"
+}

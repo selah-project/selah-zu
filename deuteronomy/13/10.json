@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 13:10",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Ngoba uku-bulala uzombulala — isandla sakho singaba ngisokuqala phezu kwakhe, ekuqhubekisa ukumbulala; khona-ke isandla sonke isizwe singalandela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngomba"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "uku-bulala"
+    },
+    {
+      "surface": "תהרגנו",
+      "gloss": "zombulala"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ngaba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "phezu kwakhe"
+    },
+    {
+      "surface": "בראשונה",
+      "gloss": "ngisokuqala"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ekuqhubekisa ukumbulala"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "khona-ke isandla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "singalandela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:00:55.673877551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Ngilindele, ngilindele uYahwe, wathama ngakimi, wazwa umkhala wami.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Ngilindele"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ngilindele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "wathama"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngakimi"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "wazwa"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "umkhala wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:11.271914900Z",
+  "model": "glm-5.3"
+}

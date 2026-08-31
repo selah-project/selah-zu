@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 138:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 138,
+  "translation": "Bazocula ngezindlela zikaYahwe, ngokuba inkazimulo kaYahwe inkulu.",
+  "tokens": [
+    {
+      "surface": "וישירו",
+      "gloss": "bazocula"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ngezindlela zika-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "inkulu"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "inkazimulo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:09.350771716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 13:4",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Futhi wonke u-Israeli wazuva ukuthi: uShawuli uhlasele ⟨את⟩ iposi yempi yaseFilistiyi, futhi u-Israeli usaba yiphunga elibi kumaseFilistiyi; bese abantu bedaniswa bemuka bayoSawuli eGiligali.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Futhi wonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israeli"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "wazuva"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "uhlasela"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iposi yempi yaseFilistiyi"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "iposi yempi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "yaseFilistiyi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "נבאש",
+      "gloss": "usaba yiphunga elibi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israeli"
+    },
+    {
+      "surface": "בפלשתים",
+      "gloss": "kumaseFilistiyi"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "bese... bedaniswa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "bemuka bayo-"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uSawuli"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "eGiligali"
+    }
+  ],
+  "timestamp": "2026-08-31T06:03:45.787655459Z",
+  "model": "glm-5.3"
+}

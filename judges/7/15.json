@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 7:15",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Kwathi lapho uGidhoni ezwa ⟨את⟩ ukuxoxwa kwephupho nange-⟨את⟩ ukuxazululwa kwalo, wakhuleka, wabuyela ekhampini yakwa-Israyeli, wathi: Phakamani, ngoba uYahwe unike ngesandla zenu ⟨את⟩ ikhampu yamaMidiyani.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "lapho ezwa"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "uGidhoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuxoxwa kwephupho"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ukuxoxwa"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "kwephupho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange-⟨את⟩",
+      "marks": "ukuxazululwa kwalo"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ukuxazululwa kwalo"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "wakhuleka"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wabuyela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ekhampini"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yakwa-Israyeli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "קומו",
+      "gloss": "phakamani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "unike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "ngesandla zenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikhampu yamaMidiyani"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ikhampu"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "yamaMidiyani"
+    }
+  ],
+  "timestamp": "2026-08-31T06:04:12.217571139Z",
+  "model": "glm-5.3"
+}

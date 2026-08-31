@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 44:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Ngizochafambisa amanzi kumuzwa-omile, nokugeleza ezweni-omile; ngizochafambisa umoya wami kukhabo lakho, nesibusiso sami ezinsizweni zakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "ngizochafambisa"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "umuzwa-omile"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "nokugeleza"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "ezweni-omile"
+    },
+    {
+      "surface": "אצק",
+      "gloss": "ngizochafambisa"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "umoya wami"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "kukhabo lakho"
+    },
+    {
+      "surface": "וברכתי",
+      "gloss": "nesibusiso sami"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צאצאיך",
+      "gloss": "ezinsizweni zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T10:24:59.413497160Z",
+  "model": "glm-5.3"
+}

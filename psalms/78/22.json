@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Ngoba abazange bakholwe kuElohim, futhi abazanga bathembela ensindisweni yakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngoba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abazange"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "bakholwe"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi abazanga"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "bathembela"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "ensindisweni yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:28.520086264Z",
+  "model": "glm-5.3"
+}

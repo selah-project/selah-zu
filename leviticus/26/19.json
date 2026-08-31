@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 26:19",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi ngizophula ⟨את⟩ ubukhosi bamandla enu, futhi ngizonikeza izulu lenu libe njengensimbi, nomhlaba wenu ube njengothusi.",
+  "tokens": [
+    {
+      "surface": "ושברתי",
+      "gloss": "futhi ngizophula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubukhosi bamandla enu"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ubukhosi"
+    },
+    {
+      "surface": "עזכם",
+      "gloss": "bamandla enu"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "futhi ngizonikeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izulu lenu"
+    },
+    {
+      "surface": "שמיכם",
+      "gloss": "izulu lenu"
+    },
+    {
+      "surface": "כברזל",
+      "gloss": "libe njengensimbi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "nomhlaba wenu"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "nomhlaba wenu"
+    },
+    {
+      "surface": "כנחשה",
+      "gloss": "ube njengothusi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:06:34.322815274Z",
+  "model": "glm-5.3"
+}

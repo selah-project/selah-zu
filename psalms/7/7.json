@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 7:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Sukuma, uYahwe, olaka lwako; phakama ngenxa yokwethukuthela kwabashushisi bami; futhi vukela mina, ngecalulo oluyalele.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sukuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "olaka lwako"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "phakama"
+    },
+    {
+      "surface": "בעברות",
+      "gloss": "ngenkathi yokwethukuthela"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "abashushisi bami"
+    },
+    {
+      "surface": "ועורה",
+      "gloss": "futhi vukela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ngecalulo"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "oluyalele"
+    }
+  ],
+  "timestamp": "2026-08-31T05:46:33.870499686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "USarah wabona ⟨את⟩ indodana kaHagari laseMitsrayim, eyayizalele u-Avraham, ihlekisa.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "USarah"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indodana"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "kaHagari"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eyayizalele"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "izalele"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "ihlekisa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:10:38.838779848Z",
+  "model": "glm-5.3"
+}

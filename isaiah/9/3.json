@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 9:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ngokuba ⟨את⟩ ijoka lomthwalo wakhe, no⟨את⟩ isibambo somqala wakhe — induku yomphoqi wakhe — uyichithile njengosuku lweMidiyani.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ijoka lomthwalo wakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ijoka"
+    },
+    {
+      "surface": "סבלו",
+      "gloss": "lomthwalo wakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isibambo somqala wakhe"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "isibambo"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "somqala wakhe"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "induku"
+    },
+    {
+      "surface": "הנגש",
+      "gloss": "yomphoqi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wakhe"
+    },
+    {
+      "surface": "החתת",
+      "gloss": "uyichithile"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "njengosuku"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "lweMidiyani"
+    }
+  ],
+  "timestamp": "2026-08-31T06:09:44.545123634Z",
+  "model": "glm-5.3"
+}

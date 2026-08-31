@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 1:10",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi ngiyothumela umlilo ogwadini lweTsori, uzodla amabhetshu ayo.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Futhi ngiyothumela"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "ogwadini lwe-"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Tsori"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "uzodla"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "amabhetshu ayo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:30:56.211679404Z",
+  "model": "glm-5.3"
+}

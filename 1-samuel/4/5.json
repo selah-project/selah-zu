@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 4:5",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Kwaba njalo lapho i-arki yesivumelwano sikaYahwe ifika enkampini, kunye wonke uIsrayeli wakhala umkhosi omkhulu, uMkhosi omkhulu, umhlaba wadana.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba njalo"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "lapho ifika"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "i-arki"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "yesivumelwano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ukaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "nkampini"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "wakhala umkhosi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "omkhulu"
+    },
+    {
+      "surface": "ותהם",
+      "gloss": "wadana"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T03:15:50.991802003Z",
+  "model": "glm-5.3"
+}

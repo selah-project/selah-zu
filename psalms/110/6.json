@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 110:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 110,
+  "translation": "Uzokahlulela ezizweni; uzogcwalisa izidumbu; washaya iqhala phezu komhlaba omkhulu.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "uzokahlulela"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ezizweni"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "uzogcwalisa"
+    },
+    {
+      "surface": "גויות",
+      "gloss": "izidumbu"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "washaya"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "iqhala"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "omkhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:15.718729651Z",
+  "model": "glm-5.3"
+}

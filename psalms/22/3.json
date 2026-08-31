@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "uElohim wami, ngiyabiza emini, kodwa ungangiphenduli; nasebusuku, futhi anginalo ukuthula.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wami"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ngiyabiza"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "emini"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa ungangiphenduli"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ungangiphenduli"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "nasebusuku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi anginalo"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ukuthula"
+    },
+    {
+      "surface": "לי",
+      "gloss": "anginalo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:20.221491524Z",
+  "model": "glm-5.3"
+}

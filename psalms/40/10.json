@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 40:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Ngikhangele indaba enhle yokulunga phakathi kwendawo yokuhlangana enkulu; bheka, milomo yami angiyilibazisi, uYahwe, wena uyazi.",
+  "tokens": [
+    {
+      "surface": "בשרתי",
+      "gloss": "ngikhangele indaba enhle"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "yokulunga"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "phakathi kwendawo yokuhlangana"
+    },
+    {
+      "surface": "רב",
+      "gloss": "enkulu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "milomo yami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angiyi-"
+    },
+    {
+      "surface": "אכלא",
+      "gloss": "ukuyilibazisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "uyazi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:58.375442797Z",
+  "model": "glm-5.3"
+}

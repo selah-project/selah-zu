@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 8:5",
+  "book": "song-of-songs",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngubani le esenyukela esigodini, elelela phezu kwesithandwa sakhe? Ngaphansi komuthi wama-apula ngikuvuse lapho; lapho unyoko wakuthwala; lapho unyoko owakubeletha wakuthwala.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "esenyukela"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sigodini"
+    },
+    {
+      "surface": "מתרפקת",
+      "gloss": "elelela"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "דודה",
+      "gloss": "sithandwa sakhe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi kwe-"
+    },
+    {
+      "surface": "התפוח",
+      "gloss": "umuthi wama-apula"
+    },
+    {
+      "surface": "עוררתיך",
+      "gloss": "ngikuvuse"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "חבלתך",
+      "gloss": "wakuthwala"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "unyoko"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "חבלה",
+      "gloss": "wakuthwala"
+    },
+    {
+      "surface": "ילדתך",
+      "gloss": "owakubeletha"
+    }
+  ],
+  "timestamp": "2026-08-31T07:37:03.672938229Z",
+  "model": "glm-5.3"
+}

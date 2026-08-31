@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "UShelomohi wayimtshela ⟨את⟩ yonke imibuzo yakhe; lalikhona liyafihla ebusweni bukhosi obungagcwele lona alangingitshela yona.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "wayimtshela"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuyena (indhlovukazi)"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "UShelomohi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke imibuzo yakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "imibuzo yakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lalikhona"
+    },
+    {
+      "surface": "היה",
+      "gloss": "liyafihla"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "li"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "eliyafihliwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ebusweni bukhosi obungagcwele"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "bukhosi obungagcwele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alanging"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "tshela"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yona"
+    }
+  ],
+  "timestamp": "2026-08-31T03:53:25.219930791Z",
+  "model": "glm-5.3"
+}

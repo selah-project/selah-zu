@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 22:6",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Wa-Avraham wathatha ⟨את⟩ izinkuni zensizelo, wayibeka ku-Yitshaki indodana yakhe; wathatha esandleni sakhe ⟨את⟩ umlilo ⟨את⟩ nepheshe, bahamba bobabili ndawonye.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinkuni zensizelo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "izinkuni"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "zensizelo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wayibeka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "u-Yitshaki"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "esandleni sakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umlilo"
+    },
+    {
+      "surface": "האש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ipheshe"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "ipheshe"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "bahamba"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bobabili"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ndawonye"
+    }
+  ],
+  "timestamp": "2026-08-31T01:11:14.879183280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 102:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 102,
+  "translation": "Izinsuku zonke izitha zami zingihlayiza; abangiswelayo befunga ngami.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "zingihlayiza"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "izitha zami"
+    },
+    {
+      "surface": "מהוללי",
+      "gloss": "abangiswelayo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngami"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "befunga"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:25.833049047Z",
+  "model": "glm-5.3"
+}

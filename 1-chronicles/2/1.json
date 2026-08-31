@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Lababaningi baka-Israyeli: uReyuveni, uShimeyoni, uLeyvi, noYehudha, uYisaskhara, noZevuluni.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "lababaningi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abaningana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israyeli"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "uReyuveni"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "uShimeyoni"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "uLeyvi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "noYehudha"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "uYisaskhara"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "noZevuluni"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:32.974233808Z",
+  "model": "glm-5.3"
+}

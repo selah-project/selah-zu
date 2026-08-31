@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 21:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Mkhulu ukukhanya kwakhe esindisweni sakho; inkazimulo Nobukhosi ububeke phezu kwakhe.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Mkhulu"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ukukhanya kwakhe"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "esindisweni sakho"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "inkazimulo"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "Nobukhosi"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "ububeke"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:23.300904306Z",
+  "model": "glm-5.3"
+}

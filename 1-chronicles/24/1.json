@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 24:1",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Futhi kwabakwa-Aharon kunezinhlelo zabo: amadodana ka-Aharon ayenguNadabi no-Abihu, u-Elazari no-Itamari.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "Futhi kwabantwana bakwa-"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "מחלקותם",
+      "gloss": "izinhlelo zabo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana ka-"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Nadabi"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "no-Abihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Elazari"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "no-Itamari"
+    }
+  ],
+  "timestamp": "2026-08-31T08:28:40.704483749Z",
+  "model": "glm-5.3"
+}

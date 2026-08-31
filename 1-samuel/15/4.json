@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 15:4",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Wazisa uShawuli ⟨את⟩ abantu, wababala eTelayimi: izigidi amakhulu amabili ezinyawo, nezigidi ezishumi ⟨את⟩ amadoda akwaYuda.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "Wazisa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "wababala"
+    },
+    {
+      "surface": "בטלאים",
+      "gloss": "eTelayimi"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "amakhulu amabili"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "izigidi"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ezinyawo"
+    },
+    {
+      "surface": "ועשרת",
+      "gloss": "nezigidi ezishumi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "izigidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ amadoda",
+      "marks": "amadoda akwaYuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "akwaYuda"
+    }
+  ],
+  "timestamp": "2026-08-31T06:04:20.774364741Z",
+  "model": "glm-5.3"
+}

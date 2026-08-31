@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Izinkuni eziyishumi ubude bengqindi elilodwa, nangobubanzi ingqindi elilodwa nesigamu sangqindi elilodwa, ngokweqindi elilodwa.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "eshumi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "izingqindi"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ubude"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "inqindi"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "nangqindi elilodwa"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "nesigamu"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "songqindi elilodwa"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ububanzi"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "eqindini"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "elilodwa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:46:13.500859073Z",
+  "model": "glm-5.3"
+}

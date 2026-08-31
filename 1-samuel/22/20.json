@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 22:20",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Kodwa indododana eyodwa ka-Ahimelekhi indodana ka-Ahitubi, ibizo layo lingu-Abiyathari, yaphunyuka, yabalekela uDavide.",
+  "tokens": [
+    {
+      "surface": "וימלט",
+      "gloss": "yaphunyuka"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indododana"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eyodwa"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "ka-Ahimelekhi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "אחטוב",
+      "gloss": "ka-Ahitubi"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ibizo layo"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "ingu-Abiyathari"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "yabalekela"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T03:26:52.309140248Z",
+  "model": "glm-5.3"
+}

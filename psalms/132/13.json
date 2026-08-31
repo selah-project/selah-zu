@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 132,
+  "translation": "Ngokuba uYahwe ukhethe iTziyoni; uyifisile ⟨את⟩ yaba yindawo yokuhlala ⟨ku⟩ye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ukhethe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "iTziyoni"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "uyifisile"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "yaba yindawo yokuhlala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨ku⟩ye"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:32.858583044Z",
+  "model": "glm-5.3"
+}

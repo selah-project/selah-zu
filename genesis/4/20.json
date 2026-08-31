@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "UAda wazala ⟨את⟩ uYabhale; yena waba uyise wokuhlala ematendeni nokwabelana nempahla yezinkomo.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "uAda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYabhale"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "uYabhale"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "היה",
+      "gloss": "waba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wokuhlala"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ematendeni"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "nokwabelana nempahla yezinkomo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:45.534223745Z",
+  "model": "glm-5.3"
+}

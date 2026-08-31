@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kwasuka inkosi entsha phezu kweMitsrayim, engazi ⟨את⟩ uYosefu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "kwasuka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi entsha"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "entsha"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:25:26.605744293Z",
+  "model": "glm-5.3"
+}

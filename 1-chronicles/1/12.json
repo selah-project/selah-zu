@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "No ⟨את⟩ abantwana baPathrusi no ⟨את⟩ abantwana baKaslukhi, lapho abantwana baFalishti baphuma khona, no ⟨את⟩ abantwana baKafthori.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no ⟨את⟩",
+      "marks": "abantwana baPathrusi"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "abantwana baPathrusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no ⟨את⟩",
+      "marks": "abantwana baKaslukhi"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "abantwana baKaslukhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "baphuma khona"
+    },
+    {
+      "surface": "משם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "abantwana baFalishti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no ⟨את⟩",
+      "marks": "abantwana baKafthori"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "abantwana baKafthori"
+    }
+  ],
+  "timestamp": "2026-08-31T08:18:55.213936974Z",
+  "model": "glm-5.3"
+}

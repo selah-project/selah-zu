@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 1:1",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Nenduna uDavide isemdala, ingene eminyakeni; bambekela ngemigubo kodwa wahlala ungenankungu.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "nenduna"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "isemdala"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ingene"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "eminyakeni"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "bambekela"
+    },
+    {
+      "surface": "בבגדים",
+      "gloss": "ngemigubo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa cha"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "unkenankungu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T03:45:45.429775885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 144:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 144,
+  "translation": "Sikhulule, usisindise esandleni sezizwe zangaphandle, labo umlomo wazo ukhuluma amanga, nokunene kwazo kungukunene kokukhohlisa.",
+  "tokens": [
+    {
+      "surface": "פצני",
+      "gloss": "Sikhulule"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "usisindise"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "bezizwe zangaphandle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "labo"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "umlomo wazo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ukhuluma"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "amanga"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "nokunene kwazo"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "kungukunene"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "kokukhohlisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:52.873160083Z",
+  "model": "glm-5.3"
+}

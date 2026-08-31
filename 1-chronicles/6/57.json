@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-chronicles 6:57",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi kumndeni wesizwe sikaYissaskar ⟨את⟩ iKedeshi nemifula yayo, ⟨את⟩ iDaberathi nemifula yayo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "futhi kumndeni wesizwe"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "sikaYissaskar"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKedeshi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iKedeshi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "nemifula yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nemifula yayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iDaberathi"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "iDaberathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "nemifula yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nemifula yayo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:21:29.715881309Z",
+  "model": "glm-5.3"
+}

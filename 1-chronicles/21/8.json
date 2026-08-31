@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 21:8",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "UDavide wathi kuElohim: Ngihonile kakhulu ngoba ngenzile ⟨את⟩ le ndaba; manje ngiyacela susa ⟨את⟩ icala likhonzakalo lwakho, ngoba ngizithambile kakhulu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ngihonile"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ngenzile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le ndaba"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "indaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "susa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngiyacela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icala"
+    },
+    {
+      "surface": "עוון",
+      "gloss": "icala"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "khonzakalo lwakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "נסכלתי",
+      "gloss": "ngizithambile"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T09:01:27.553474050Z",
+  "model": "glm-5.3"
+}

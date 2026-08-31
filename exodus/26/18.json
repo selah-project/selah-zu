@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 26:18",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Uzokwakha ⟨את⟩ amapulangwe othentiweyo, amashumi amabili apulangwe ngasezansi ngaseningizimu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uzokwakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amapulangwe"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "amapulangwe"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "othentiweyo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amashumi amabili"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "apulangwe"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ngasezansi"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ngaseningizimu"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ngaseningizimu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:12:27.031603670Z",
+  "model": "glm-5.3"
+}

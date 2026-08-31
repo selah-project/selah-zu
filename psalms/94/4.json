@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 94,
+  "translation": "Bayachitha, bakhuluma inkohlakalo enzima, bonke abasebenzi okungcola bezizenza izikhulu.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Bayachitha"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bakhuluma"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "inkohlakalo enzima"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "bezizenza izikhulu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "abasebenzi"
+    },
+    {
+      "surface": "און",
+      "gloss": "okungcola"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:51.466753429Z",
+  "model": "glm-5.3"
+}

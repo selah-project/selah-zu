@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 2:10",
+  "book": "jonah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ngingela mina, ngezwi lokubonga ngizinkonza ngomnikelo kuwe; okungiphothile ngizikhalipha; insindiso ingeyenkosi uYahwe.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kodwa mina"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ngezwi"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "lokubonga"
+    },
+    {
+      "surface": "אזבחה",
+      "gloss": "ngizinkonza ngomnikelo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okungiphothile"
+    },
+    {
+      "surface": "נדרתי",
+      "gloss": "ngazibophelela"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "ngizikhalipha"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "insindiso"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ingeyenkosi uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:34:39.152727975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 107:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Futhi mabanikela ngezinkonzo ezisuka ebongweni, futhi mazichaze izenzo zakhe ngokujabula.",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "futhi mabanikela ngezinkonzo"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ezinkonzo"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "ezisuka ebongweni"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "futhi mazichaze"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "izenzo zakhe"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ngokujabula"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:52.299670614Z",
+  "model": "glm-5.3"
+}

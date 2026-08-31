@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 30:3",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "UDavide nabantu bakhe bafika edolobheni, bheba, lishisiwe ngomlilo; abafazi babo, amadodana abo, namadodakazi abo bathathwa izithopo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "bafika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "nabantu bakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dolobheni"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bheba"
+    },
+    {
+      "surface": "שרופה",
+      "gloss": "lishisiwe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngomlilo"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "abafazi babo"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "amadodana abo"
+    },
+    {
+      "surface": "ובנתיהם",
+      "gloss": "namadodakazi abo"
+    },
+    {
+      "surface": "נשבו",
+      "gloss": "bathathwa izithopo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:29:48.459666921Z",
+  "model": "glm-5.3"
+}

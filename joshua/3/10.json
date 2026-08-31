@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 3:10",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "uYehoshuwa wasekhuluma: Ngezinto zileyo nizoyazi ukuthi u-El ophilile ul phakathi kwenu, futhi uzoyehlisa ngempela phambi kwenu ⟨את⟩ iKhanani, no⟨את⟩ iChithi, no⟨את⟩ iChivi, no⟨את⟩ iPerizi, no⟨את⟩ iGirgashi, neAmori neYevusi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wasekhuluma"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "ngesinto le"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "nizoyazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ophilile"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "phakathi kwenu"
+    },
+    {
+      "surface": "והורש",
+      "gloss": "futhi uzoyehlisa"
+    },
+    {
+      "surface": "יוריש",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKhanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "iKhanani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iChithi"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "iChithi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iChivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "iChivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iPerizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "iPerizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iGirgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "iGirgashi"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "neAmori"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "neYevusi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:48:54.537310588Z",
+  "model": "glm-5.3"
+}

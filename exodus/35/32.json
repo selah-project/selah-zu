@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 35:32",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Nokucazulisela imiklamo yokwenza ngegolide, nangesiliva, nangensimbi.",
+  "tokens": [
+    {
+      "surface": "ולחשב",
+      "gloss": "nokucazulisela"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "imiklamo"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "yokwenza"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "ngegolide"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "nangesiliva"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "nangensimbi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:45:39.452661923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Hamba, udle ngokujabula ukudla kwakho, uphuze ngentombi enhle iwethu yakho, ngokuba uElohim sekujabulile ⟨ngemisebenzi yakho⟩.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "udle"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ngokujabula"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ukudla kwakwo"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "uphuze"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ngentombi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "enhle"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "iwethu yakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "se-"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "ujabulile"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imisebenzi yakho"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "imisebenzi yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T07:49:01.602571380Z",
+  "model": "glm-5.3"
+}

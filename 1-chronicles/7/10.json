@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 7:10",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Nabantwana bakaYediyaeli: uBilhani; nabantwana bakaBilhani: uYeyushi, noBhenyamini, noEhudi, noKenegana, noZithani, noTharishishi, no-Ahishahari.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "nabantwana"
+    },
+    {
+      "surface": "ידיעאל",
+      "gloss": "bakaYediyaeli"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "uBilhani"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "nabantwana"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "bakaBilhani"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "uYeyushi"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "noBhenyamini"
+    },
+    {
+      "surface": "ואהוד",
+      "gloss": "noEhudi"
+    },
+    {
+      "surface": "וכנענה",
+      "gloss": "noKenegana"
+    },
+    {
+      "surface": "וזיתן",
+      "gloss": "noZithani"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "noTharishishi"
+    },
+    {
+      "surface": "ואחישחר",
+      "gloss": "no-Ahishahari"
+    }
+  ],
+  "timestamp": "2026-08-31T08:21:48.718438573Z",
+  "model": "glm-5.3"
+}

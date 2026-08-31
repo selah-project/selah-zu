@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 125:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 125,
+  "translation": "IYerushalayimi — izintaba ezizungezile ngakuyo; futhi uYahwe uzunguzele abantu bakhe, kusukela manje kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "ירושלם",
+      "gloss": "IYerushalayimi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "izintaba"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ezizungezile"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ngakuyo"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "futhi uYahwe"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "uzungezele"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kusukela manje"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:27.248540179Z",
+  "model": "glm-5.3"
+}

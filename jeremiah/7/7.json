@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "ngiyakunquma ukuthi ngihlale ⟨את⟩ nani endaweni le, emhlabeni enginawu oyihlo, kusukela ku-olamu kanye kuze kube ku-olamu.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "ngihlale"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nani"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "enginawu"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nganikela"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "oyihlo"
+    },
+    {
+      "surface": "למן",
+      "gloss": "kusukela"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ku-olamu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ku-olamu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:41:05.406811048Z",
+  "model": "glm-5.3"
+}

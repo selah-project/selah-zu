@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 21:25",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi u-Avraham wamangalela ⟨את⟩ u-Avimelekhi ngesizathu somthombo wamanzi, obathathwa ngamandla yizinceku zaKa-Avimelekhi.",
+  "tokens": [
+    {
+      "surface": "והוכח",
+      "gloss": "futhi wamangalela"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avimelekhi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "u-Avimelekhi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngesizathu"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "(esizathweni)"
+    },
+    {
+      "surface": "באר",
+      "gloss": "somthombo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wamanzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oba"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "obathathwa ngamandla"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yizinceku"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "zaKa-Avimelekhi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:10:48.430333612Z",
+  "model": "glm-5.3"
+}

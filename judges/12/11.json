@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 12:11",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Emva kwakhe u-Eloni owoZebuluni wahlola ⟨את⟩ uIsrayeli; wahlola ⟨את⟩ uIsrayeli iminyaka eyishumi.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "wahlola"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "Emva kwakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uIsrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "u-Eloni"
+    },
+    {
+      "surface": "הזבולני",
+      "gloss": "owoZebuluni"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "wahlola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uIsrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "eyishumi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iminyaka"
+    }
+  ],
+  "timestamp": "2026-08-31T03:07:29.375874318Z",
+  "model": "glm-5.3"
+}

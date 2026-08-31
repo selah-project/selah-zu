@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Uzakwenza indlela yokufika kwenkemba, eRabba yezizukulwane zakwa-Amoni, naseYudha eYerushalayimi eqinisiwe.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "uzakwenza"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "yokufika"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "inkemba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eRabba yezizukulwane zakwa-Amoni"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "eRabba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yezizukulwane"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "zakwa-Amoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "eYudha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "eYudha"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "eqinisiwe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:11:36.967594518Z",
+  "model": "glm-5.3"
+}

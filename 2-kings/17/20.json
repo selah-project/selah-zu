@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 17:20",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "U-Yahwe wasala yonke imbewu yika-Israeli, wabahlekisa, wanikeza abathwebuli abazuzisayo, kwaze kwaba sekuthi wabaphonsa ebusweni bakhe.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "wasala yonke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "imbewu ka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "ויענם",
+      "gloss": "wabahlekisa"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "wanikeza"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "abathwebuli abazuzisayo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwaze kwaba sekuthi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "השליכם",
+      "gloss": "wabaphonsa"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ebusweni bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:11:49.536956128Z",
+  "model": "glm-5.3"
+}

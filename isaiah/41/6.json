@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 41:6",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Indoda iyamsiza ⟨את⟩ umakhelwane wayo, futhi ethi kumfowabo: Qina.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umakhelwane wayo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "umakhelwane wayo"
+    },
+    {
+      "surface": "יעזרו",
+      "gloss": "iyamsiza"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "futhi kumfowabo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "Qina"
+    }
+  ],
+  "timestamp": "2026-08-31T04:30:04.966869459Z",
+  "model": "glm-5.3"
+}

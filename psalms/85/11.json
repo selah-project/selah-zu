@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 85,
+  "translation": "Ikhesedi nenqiniso zahlangana; ulungile nokuthula zamuncu.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "nenqiniso"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "zahlangana"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ulungile"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "nokuthula"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "zamuncu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:12.066792611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 71,
+  "translation": "Ungangibeki eceleni esikhathini sokuguga; lapho amandla ami ephela, ungangishiya.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ungangi"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "ngibeki eceleni"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "esikhathini"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "sokuguga"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "lapho…ephela"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "amandla ami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungangi"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ngishiya"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:58.366246360Z",
+  "model": "glm-5.3"
+}

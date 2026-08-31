@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 36:3",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Bese umkosi weMitsrayim emsusa eYerushalayimi, waze walahlisa ishlalo ⟨את⟩ umhlaba ngamakhulu amabili nangu-1? — kulotshwe: amakhulu amabili nangu-1? (qaphela: ngokwenombolo) — asibambe: waze walahlisa ishlalo ⟨את⟩ umhlaba ikikhulu lezinkulungwane eziyikhulu zesiliva ngezikikhulu zegolide.",
+  "tokens": [
+    {
+      "surface": "ויסירהו",
+      "gloss": "bese emsusa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umkosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "ויענש",
+      "gloss": "waze walahlisa ishlalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ikhulu"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "amakhulu amabili nangu-1? cha — 'izikikhulu' (amakhulu)"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zesiliva"
+    },
+    {
+      "surface": "וככר",
+      "gloss": "ngezikikhulu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zegolide"
+    }
+  ],
+  "timestamp": "2026-08-31T08:47:53.855422591Z",
+  "model": "glm-5.3"
+}

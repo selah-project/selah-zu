@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Owesifazane wakhulelwa, wazala indodana; wambona ⟨את⟩ ukuthi muhle yena, wamfihla izinyanga ezintathu.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "wakhulelwa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "owesifazane"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "wambona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ukuthi muhle yena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "muhle"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "wamfihla"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "izinyanga"
+    }
+  ],
+  "timestamp": "2026-08-31T01:27:02.588264238Z",
+  "model": "glm-5.3"
+}

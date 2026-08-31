@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Yaakob wathumela, wabiza uRakheli noLea esivandeni, ezinkunjeni zakhe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "uRakheli"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "noLea"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "esivandeni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "zinkunjeni zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:16:48.047787352Z",
+  "model": "glm-5.3"
+}

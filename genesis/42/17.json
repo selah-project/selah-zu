@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Wabaqoqela ⟨את⟩ bona esigodbini sokugcinwa izinsuku ezintathu.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "wabaqoqela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "esigodbini sokugcinwa"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    }
+  ],
+  "timestamp": "2026-08-31T11:04:50.193996041Z",
+  "model": "glm-5.3"
+}

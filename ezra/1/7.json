@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 1:7",
+  "book": "ezra",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi inkosi uKoreshi yakhipha ⟨את⟩ izitsha zendlu kaYahwe, uNebukadnetstsar ayekhiphe eYerushalayimi, wayazibeka endlwini yonkulunkulu bakhe.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "futhi inkosi"
+    },
+    {
+      "surface": "כורש",
+      "gloss": "uKoreshi"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "yakhipha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izitsha"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "izitsha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lezo"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "ayekhipha"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "uNebukadnetstsar"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "wayazibeka"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "yonkulunkulu bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:59:08.622781918Z",
+  "model": "glm-5.3"
+}

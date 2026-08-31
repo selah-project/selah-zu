@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 4:16",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Yala abapristi ⟨את⟩ abathwali be-aron yesibonakaliso ukuthi banyuke baphume eYordanini.",
+  "tokens": [
+    {
+      "surface": "צוה",
+      "gloss": "yala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abapristi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "abathwali"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "be-aron"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "yesibonakaliso"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "banyuke"
+    },
+    {
+      "surface": "מן",
+      "gloss": "baphume"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "eYordanini"
+    }
+  ],
+  "timestamp": "2026-08-31T02:48:51.982088140Z",
+  "model": "glm-5.3"
+}

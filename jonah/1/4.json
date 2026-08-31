@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 1:4",
+  "book": "jonah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kodwa uYahwe wasiphonsa umoya omkhulu olwandle, laba khona isiphepho esikhulu olwandle, inqanawa yayingathi izobhampalazeka.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הטיל",
+      "gloss": "wasiphonsa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "omkhulu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lwandle"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "laba khona"
+    },
+    {
+      "surface": "סער",
+      "gloss": "isiphepho"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "esikhulu"
+    },
+    {
+      "surface": "בים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "והאניה",
+      "gloss": "inqanawa"
+    },
+    {
+      "surface": "חשבה",
+      "gloss": "yayingathi"
+    },
+    {
+      "surface": "להשבר",
+      "gloss": "izobhampalazeka"
+    }
+  ],
+  "timestamp": "2026-08-31T05:36:02.003443399Z",
+  "model": "glm-5.3"
+}

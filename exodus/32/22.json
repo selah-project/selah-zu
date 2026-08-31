@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "U-Aharon wasethi: Angabi ulaka ← lokuduma kolaka → kankosi wami; wena uyayazi ⟨את⟩ lebantu, ukuthi luhlezi ebubini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "← lokuduma →"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ulaka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "kankosi wami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "uyayazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lebantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lebantu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ebubini"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "luhlezi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:43:22.731169394Z",
+  "model": "glm-5.3"
+}

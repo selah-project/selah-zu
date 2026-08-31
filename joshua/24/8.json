@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 24:8",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Ngingenisa ⟨את⟩ ninodwa ezweni labaEmori abahlala ngaseceleni koMfula iYardeni; balwa nani, ngabanike ngesandleni senu, nanaba yizindlu zabo, ngabatshabalalisa phambi kwenu.",
+  "tokens": [
+    {
+      "surface": "ואבאה",
+      "gloss": "ngingenisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninodwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "izweni"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "labaEmori"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "abahlala"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ngaseceleni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "koMfula iYardeni"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "balwa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nani"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ngabanika"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bona"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "ngesandleni senu"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "nanaba yizindlu zabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwe labo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "izwe labo"
+    },
+    {
+      "surface": "ואשמידם",
+      "gloss": "ngabatshabalalisa"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "phambi kwenu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:00:32.802792807Z",
+  "model": "glm-5.3"
+}

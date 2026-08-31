@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 64:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 64,
+  "translation": "Ukudubula ezifihweni kolungileyo; kungazelele bayamdubula, futhi abasabi.",
+  "tokens": [
+    {
+      "surface": "לירות",
+      "gloss": "ukudubula"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ezifihweni"
+    },
+    {
+      "surface": "תם",
+      "gloss": "kolungileyo"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "kungazelele"
+    },
+    {
+      "surface": "ירהו",
+      "gloss": "bayamdubula"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi aba-"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "sabi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:07.100269176Z",
+  "model": "glm-5.3"
+}

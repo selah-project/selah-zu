@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 132:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 132,
+  "translation": "uYahwe wafungela uDavhide ngokwenele; ngeke abuyele kulo: ngowezitho zomsila wakho ngizokumisa isihlalo sobukhosi kuwe.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "wafungela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "uDavhide"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ngokwenele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "abuyele"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kulo"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ngowezitho"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "zomsila wakho"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ngizokumisa"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "isihlalo sobukhosi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:20.165990451Z",
+  "model": "glm-5.3"
+}

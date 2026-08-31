@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 11:7",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Kanti izingxenye ezimbili kini, bonke abaphumayo ngeSabatha, bazolondoloza ⟨את⟩ isivikelo sendlu kaYahwe eduze nenkosi.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "izingxenye ezimbili"
+    },
+    {
+      "surface": "הידות",
+      "gloss": "kini"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "יצאי",
+      "gloss": "abaphumayo"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ngeSabatha"
+    },
+    {
+      "surface": "ושמרו",
+      "gloss": "bazolondoloza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isivikelo"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "isivikelo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "sendlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eduze na"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nenkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:09:15.159390468Z",
+  "model": "glm-5.3"
+}

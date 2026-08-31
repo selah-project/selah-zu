@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 69:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Bebaningi ngaphezu kwezinwele zokhaya lami abangizondayo mahhala; banamandla abafisintshebese, abangiyoni ngamanga; lokho engangizange ngakweba, khona-ke ngibuyisa.",
+  "tokens": [
+    {
+      "surface": "רבו",
+      "gloss": "Bebaningi"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "ngaphezu kwezinwele"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "zokhaya lami"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "abangizondayo"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mahhala"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "banamandla"
+    },
+    {
+      "surface": "מצמיתי",
+      "gloss": "abafisintshebese"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "abangiyoni"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ngamanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engangizange"
+    },
+    {
+      "surface": "גזלתי",
+      "gloss": "ngakweba"
+    },
+    {
+      "surface": "אז",
+      "gloss": "khona-ke"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ngibuyisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:14.598094163Z",
+  "model": "glm-5.3"
+}

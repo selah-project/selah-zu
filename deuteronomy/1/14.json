@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Nanu naphendula ⟨את⟩ kimi, nanithi: Kuhle indaba oyikhulumileyo ukuyenza.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "naniphendula"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "kimi"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "nanithi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Kuhle"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "indaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyi"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "khulumileyo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukuyenza"
+    }
+  ],
+  "timestamp": "2026-08-31T10:17:08.566139290Z",
+  "model": "glm-5.3"
+}

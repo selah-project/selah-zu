@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 63:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 63,
+  "translation": "Umphefumulo wami unamathela ngemva kwakho; mina isandla sakho sokudla siyangisiza.",
+  "tokens": [
+    {
+      "surface": "דבקה",
+      "gloss": "unamathela"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumulo wami"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ngemva kwakho"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "תמכה",
+      "gloss": "siyangisiza"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "isandla sakho sokudla"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:51.405355456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 21:20",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "uElohim waba ⟨את⟩ ⟨naye⟩, wakhula, wahlala ehlathini, waba ngumshayi-webhululu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨naye⟩",
+      "marks": "nomfana"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "nomfana"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "wakhula"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ehlathini"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "esikhulu"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "umshayi-webhululu"
+    }
+  ],
+  "timestamp": "2026-08-31T05:54:37.993766556Z",
+  "model": "glm-5.3"
+}

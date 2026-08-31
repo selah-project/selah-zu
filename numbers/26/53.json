@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 26:53",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Kwalaba ⟨את⟩ umhlaba uzohlukaniswa njengefa ngenani lamagama",
+  "tokens": [
+    {
+      "surface": "לאלה",
+      "gloss": "kwalaba"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "uzohlukaniswa",
+      "marks": "⟨את⟩ umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "njengefa"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ngenani"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "lamagama"
+    }
+  ],
+  "timestamp": "2026-08-31T10:16:23.401678107Z",
+  "model": "glm-5.3"
+}

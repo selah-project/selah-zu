@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 31:4",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Amanzi ayakhulisa, iThihemu layaphakamisa ngemiKhambi yayo ehamba jikeleze indima esadliwayo, laletha imikhonzo yayo kuyo yonke imithi yasezansi.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "Amanzi"
+    },
+    {
+      "surface": "גדלוהו",
+      "gloss": "ayakhulisa"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "iThihemu"
+    },
+    {
+      "surface": "רממתהו",
+      "gloss": "layaphakamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imikhambi yayo"
+    },
+    {
+      "surface": "נהרתיה",
+      "gloss": "imikhambi yayo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "jikeleze"
+    },
+    {
+      "surface": "מטעה",
+      "gloss": "indima esadliwayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imikhonzo yayo"
+    },
+    {
+      "surface": "תעלתיה",
+      "gloss": "imikhonzo yayo"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "laletha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "imithi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "yasezansi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:16:42.477624890Z",
+  "model": "glm-5.3"
+}

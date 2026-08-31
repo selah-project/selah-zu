@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 12:15",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "UNathani wahamba waya endlwini yakhe; uYahwe washayela ⟨את⟩ umntwana owesifazane kaUriya ozalela uDavide, wagula kakhulu.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "uNathani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waya"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "endlwini yakhe"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "washayela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umntwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "umntwana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ozalela"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "owesifazane"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "kaUriya"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ויאנש",
+      "gloss": "wagula kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:37:42.353213734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "futhi umpristi amkhawulezise ⟨את⟩ yena, futhi amise yena phambi kukaYahwe.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "futhi amkhawulezise"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yena (umfazi)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "futhi amise yena"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:11:00.679102355Z",
+  "model": "glm-5.3"
+}

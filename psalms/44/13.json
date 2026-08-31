@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 44:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Udayisela abantu bakho mahhala, futhi awukhulisi ngefaluxa zabo.",
+  "tokens": [
+    {
+      "surface": "תמכר",
+      "gloss": "Udayisela"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "mahhala"
+    },
+    {
+      "surface": "הון",
+      "gloss": "inhlazo-imali"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi awu-"
+    },
+    {
+      "surface": "רבית",
+      "gloss": "khulisi"
+    },
+    {
+      "surface": "במחיריהם",
+      "gloss": "ngefaluxa zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:59.750786715Z",
+  "model": "glm-5.3"
+}

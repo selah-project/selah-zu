@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Bonke abatholakalayo bazobhoshwa ngekhanda, bonke ababambeleleyo bazowa ngekhanda.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Bonke"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "abatholakalayo"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "bazobhoshwa ngekhanda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "futhi bonke"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "ababambeleleyo"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "bazowa"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ngekhanda"
+    }
+  ],
+  "timestamp": "2026-08-31T04:19:40.475686685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 10:24",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "uParo wamemeza uMoshe, wathi: Hambani, khonzani ⟨את⟩ uYahwe; kumelwe izimvu zenu nenkomo zenu zisale; namanxezankazi enu aya nani.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wamemeza"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Hambani"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "khonzani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kumelwe-kuphela"
+    },
+    {
+      "surface": "צאנכם",
+      "gloss": "izimvu zenu"
+    },
+    {
+      "surface": "ובקרכם",
+      "gloss": "nenkomo zenu"
+    },
+    {
+      "surface": "יצג",
+      "gloss": "zisale"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naye-namanxezankazi"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "amanxezankazi enu"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "aya"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nani"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:09.955281764Z",
+  "model": "glm-5.3"
+}

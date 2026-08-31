@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 135,
+  "translation": "Ngoba mina ngiyazi ukuthi uYahwe mkhulu, noNkosi yethu ⟨u-Adonayi⟩ phezu kwako konke onkulunkulu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ngiyazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mkhulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "noNkosi yethu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "phezu kwako konke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "onkulunkulu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:56:35.976441005Z",
+  "model": "glm-5.3"
+}

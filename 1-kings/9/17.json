@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "UShelomoh wasakha ⟨את⟩ iGezer nange-⟨את⟩ iBeyithi-Khoroni engezansi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wasakha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "UShelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iGezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "iGezer"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange-⟨את⟩",
+      "marks": "iBeyithi-Khoroni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iBeyithi"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Khoroni"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "engezansi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:53:12.007276378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 22:9",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Futhi bazogcina ⟨את⟩ ukugcinwa kwami, ukuze bangathwali phansi kwako isono futhi bafe ngako, ngoba bayayenzela ingcwele; nginguYahwe oyingcwelezelayo.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "bazogcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukugcinwa kwami"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "ukugcinwa kwami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ukuze bangathwali"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "bangathwali"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phansi kwako"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "isono"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "baze bafe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngako"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "יחללהו",
+      "gloss": "bayayenzela ingcwele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מקדשם",
+      "gloss": "oyingcwelezelayo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:01:44.649154443Z",
+  "model": "glm-5.3"
+}

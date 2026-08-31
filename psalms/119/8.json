@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "⟨את⟩ imithetho yakho ngiyigcina; ungangishi'yeki kwaze kwaba phakade.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imithetho yakho"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "imithetho yakho"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ngiyigcina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungangi-"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "shi'yeki"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwaze kwaba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:52.183650574Z",
+  "model": "glm-5.3"
+}

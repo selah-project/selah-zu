@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 3:5",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "U-Yehoshuwa wasithi kubantu: Zingcwalisani, ngoba ngomuso uYahwe uzokwenzela izimangaliso phakathi kwenu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wasithi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "u-Yehoshuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "התקדשו",
+      "gloss": "Zingcwalisani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ngomuso"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uzokwenza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "phakathi kwenu"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "izimangaliso"
+    }
+  ],
+  "timestamp": "2026-08-31T02:50:22.336192720Z",
+  "model": "glm-5.3"
+}

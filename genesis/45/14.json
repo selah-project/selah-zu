@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 45:14",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Wayeqhaqha efela emqameni kaBinyamin umfowabo, wayakhala; futhi uBinyamin wakhala emqameni wakhe.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "wayeqhaqha efela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "צוארי",
+      "gloss": "emqameni"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "kaBinyamin"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umfowabo"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "wayakhala"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "futhi uBinyamin"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "wakhala"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "emqameni wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:24:15.789173484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 9:24",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "UNokhu wavuka esivini sakhe, wayazi ⟨את⟩ lokho okwenzelwe yindodana yakhe encane.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "wavuka"
+    },
+    {
+      "surface": "נח",
+      "gloss": "UNokhu"
+    },
+    {
+      "surface": "מיינו",
+      "gloss": "esivini sakhe"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "wayazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokho okwenzelwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho okwenzelwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "(okwenzelwe)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-elwe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "encane"
+    }
+  ],
+  "timestamp": "2026-08-31T01:03:42.305714138Z",
+  "model": "glm-5.3"
+}

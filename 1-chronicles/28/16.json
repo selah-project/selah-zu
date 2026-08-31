@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 28:16",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Futhi igolide ⟨את⟩ ngesisindo sezitafula zokulungiselela, itafula netafula, nesiliva sezitafula zesiliva.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "igolide"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "ngesisindo"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "sezitafula"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "zokulungiselela"
+    },
+    {
+      "surface": "לשלחן",
+      "gloss": "itafula"
+    },
+    {
+      "surface": "ושלחן",
+      "gloss": "netafula"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "nesiliva"
+    },
+    {
+      "surface": "לשלחנות",
+      "gloss": "sezitafula"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "zesiliva"
+    }
+  ],
+  "timestamp": "2026-08-31T08:30:28.162317831Z",
+  "model": "glm-5.3"
+}

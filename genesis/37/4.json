@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 37:4",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "abafowenu babona ukuthi uyise wayemthanda ⟨את⟩ ngaphezu kwawo wonke abafowenu, basonta-⟨את⟩, bengakwazi ukukhuluma naye ngokuthula.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "babona"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abafowenu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (uYosefu)"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "wayemthanda"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngaphezu kwawo wonke"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abafowenu"
+    },
+    {
+      "surface": "וישנאו",
+      "gloss": "basonta"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (uYosefu)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bengakwazi"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "⟨bengakwazi⟩"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ukukhuluma naye"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "ngokuthula"
+    }
+  ],
+  "timestamp": "2026-08-31T01:19:30.184615454Z",
+  "model": "glm-5.3"
+}

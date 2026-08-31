@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 68:25",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 68,
+  "translation": "Babonile izindlela zakho, uElohim, izindlela zika-El wami, inkosi yami, ⟨endaweni⟩ engcwele.",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "Babonile"
+    },
+    {
+      "surface": "הליכותיך",
+      "gloss": "izindlela zakho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "izindlela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ka-El wami"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "inkosi yami"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "⟨endaweni⟩ engcwele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:47.935731386Z",
+  "model": "glm-5.3"
+}

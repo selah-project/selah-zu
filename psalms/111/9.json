@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 111:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 111,
+  "translation": "Uthumele inkululeko esizweni sakhe; wayalela isivumelwano sakhe kuze kube phakade; ingcwele futhi okwesabiswa ⟨yi⟩ igama lakhe.",
+  "tokens": [
+    {
+      "surface": "פדות",
+      "gloss": "inkululeko"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "uthumele"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "esizweni sakhe"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "isivumelwano sakhe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ingcwele"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "futhi okwesabiswa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:33.014013554Z",
+  "model": "glm-5.3"
+}

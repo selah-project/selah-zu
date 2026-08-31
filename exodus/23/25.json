@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 23:25",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Futhi nizokhonza ⟨את⟩ uYahwe uElohim wenu, uzobusisa ⟨את⟩ isinkwa sakho nolwazi lwakho; futhi ngiyosusa isifo phakathi kwenu.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "futhi nizokhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "וברך",
+      "gloss": "uzobusisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isinkwa sakho"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "isinkwa sakho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amanzi akho"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "amanzi akho"
+    },
+    {
+      "surface": "והסרתי",
+      "gloss": "futhi ngiyosusa"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "isifo"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "phakathi kwenu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:38:08.747142611Z",
+  "model": "glm-5.3"
+}

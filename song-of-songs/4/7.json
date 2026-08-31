@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Uluhle konke, sthandwa sami, futhi awunamdabu kuwe.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "konke"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "Uluhle"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "sthandwa sami"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "futhi awunamdabu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awuna-"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:32:47.960701761Z",
+  "model": "glm-5.3"
+}

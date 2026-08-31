@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "nokuthi uYaakob walezela uyise nonina, wayeseya ePadan-Arami.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "walezela"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "unina"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wayeseya"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "ePadan-"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Arami"
+    }
+  ],
+  "timestamp": "2026-08-31T01:14:46.033702981Z",
+  "model": "glm-5.3"
+}

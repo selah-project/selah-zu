@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 25:12",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi indawo eqinileyo yesiqongo sezitulu zakho uyayehlisa, uyayehlisa phansi, uyayisa emhlabeni, yaze yafika ⟨emthundwini⟩.",
+  "tokens": [
+    {
+      "surface": "ומבצר",
+      "gloss": "futhi indawo eqinileyo"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "yesiqongo esiphakeme"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "sezitulu zakho"
+    },
+    {
+      "surface": "השח",
+      "gloss": "uyayehlisa"
+    },
+    {
+      "surface": "השפיל",
+      "gloss": "uyayehlisa phansi"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "uyayisa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yaze yafika"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "emthundwini"
+    }
+  ],
+  "timestamp": "2026-08-31T10:24:27.680678693Z",
+  "model": "glm-5.3"
+}

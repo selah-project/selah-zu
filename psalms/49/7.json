@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 49:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Abathembela emandleni abo, futhi bencaza ngeningi lengcebo yabo.",
+  "tokens": [
+    {
+      "surface": "הבטחים",
+      "gloss": "abathembela"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "mandleni abo"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "futhi ngeningi"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "lengcebo yabo"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "bencaza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:14.551978665Z",
+  "model": "glm-5.3"
+}

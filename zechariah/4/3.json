@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi kunezihlahla zamafutha olivo ezimbili eduze kwalo, elilodwa ngasekunene kwegobolondo, nelilodwa ngasekhohlo lalo.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "izihlahla zamafutha olivo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "eduze kwalo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "ngasekunene"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "kwegobolondo"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "nelilodwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngase-"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "khohlo lalo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:42:25.906864118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 35:4",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Mina ngizophendula ⟨amazwi⟩ kuwe, no⟨את⟩ bangane bakho ⟨nawe⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אשיבך",
+      "gloss": "ngizophendula kuwe"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bangane bakho"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "bangane bakho"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nawe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:56:29.185152489Z",
+  "model": "glm-5.3"
+}

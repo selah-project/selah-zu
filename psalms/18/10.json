@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Wanakisisa amazulu wehla, futhi ubumnyama obukhulu babungaphansi kwezinyawo zakhe.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "wanakisisa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "wehla"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "futhi ubumnyama obukhulu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi kwe-"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "zinyawo zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T11:51:23.303029243Z",
+  "model": "glm-5.3"
+}

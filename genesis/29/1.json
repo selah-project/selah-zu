@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "WaYaaqobhe waphakamisa izinyawo zakhe, waya ezweni lamadodana empumalanga.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "waphakamisa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaaqobhe"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "izinyawo zakhe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "empumalanga"
+    }
+  ],
+  "timestamp": "2026-08-31T08:49:02.062935877Z",
+  "model": "glm-5.3"
+}

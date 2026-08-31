@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 21:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Isandla sakho sizothola zonke izitha zakho; isandla sakho sokudla sizothola abazondayo.",
+  "tokens": [
+    {
+      "surface": "תמצא",
+      "gloss": "sizothola"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "izitha zakho"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "isandla sakho sokudla"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "sizothola"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "abazondayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:35.976676217Z",
+  "model": "glm-5.3"
+}

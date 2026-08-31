@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 52:24",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 52,
+  "translation": "Indhuna yabahlabi yathatha ⟨את⟩ uSerayah umpristi oyinhloko, no⟨את⟩ uTsefanyah umpristi owesibili, kanye ⟨את⟩ nothishatu abagadi bethoho.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "yathatha"
+    },
+    {
+      "surface": "רב",
+      "gloss": "indhuna"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "yabahlabi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uSerayah"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "uSerayah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "oyinhloko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uTsefanyah"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "uTsefanyah"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "owesibili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nothishatu abagadi bethoho"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "nothishatu"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "abagadi"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "bethoho"
+    }
+  ],
+  "timestamp": "2026-08-31T05:03:09.872256386Z",
+  "model": "glm-5.3"
+}

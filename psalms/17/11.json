@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 17:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Izinawo zethu manje basizungezile; amehlo abo abekile ukusisukela phansi emhlabeni.",
+  "tokens": [
+    {
+      "surface": "אשרינו",
+      "gloss": "izinawo zethu"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "basizungezile"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "amehlo abo"
+    },
+    {
+      "surface": "ישיתו",
+      "gloss": "abekile"
+    },
+    {
+      "surface": "לנטות",
+      "gloss": "ukusisukela phansi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:08.648692792Z",
+  "model": "glm-5.3"
+}

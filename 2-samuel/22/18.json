@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 22:18",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Wangisindisa ebunzimeni bezitha zami, kubazondi bami, ngoba babenamandla kunami.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "Wangisindisa"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "ezitheni zami"
+    },
+    {
+      "surface": "עז",
+      "gloss": "obunzima"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "kubazondi bami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "babenamandla"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kunama"
+    }
+  ],
+  "timestamp": "2026-08-31T03:44:27.919955704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 4:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Wathi: Buyisela isandla sakho esifubeni lwakho. Wabuyisela isandla sakhe esifubeni lwakhe, wasikhhipha esifubeni lwakhe, bheka, sasibuyele njengenyama yakhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "השב",
+      "gloss": "Buyisela"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "חיקך",
+      "gloss": "sifubeni lwakho"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "Wabuyisela"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "חיקו",
+      "gloss": "sifubeni lwakhe"
+    },
+    {
+      "surface": "ויוצאה",
+      "gloss": "wasikhhipha"
+    },
+    {
+      "surface": "מחיקו",
+      "gloss": "esifubeni lwakhe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "sasibuyele"
+    },
+    {
+      "surface": "כבשרו",
+      "gloss": "njengenyama yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:28:25.208728898Z",
+  "model": "glm-5.3"
+}

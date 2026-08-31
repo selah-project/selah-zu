@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Ngokuba uphupho luza ngenxa yenkinga eningi, futhi izwi lomhlanya luza ngenxa yamazwi amaningi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "בא",
+      "gloss": "luza"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "uphupho"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ngenxa yenkomba eningi"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "inkomba eningi"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "futhi izwi"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "lomhlanya"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ngenxa ye"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "amazwi amaningi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:45:38.617689581Z",
+  "model": "glm-5.3"
+}

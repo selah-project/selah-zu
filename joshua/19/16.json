@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 19:16",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Le yindlelwandaba yabantwana bakwaZebuluni ngokwezindawana zabo: le dolobha nalezindawo zawo;",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Le"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "yindlelwandaba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "bakwaZebuluni"
+    },
+    {
+      "surface": "למשפחותם",
+      "gloss": "ngokwezindawana zabo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "le dolobha"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "le"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "nezindawo zawo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:57:19.351246273Z",
+  "model": "glm-5.3"
+}

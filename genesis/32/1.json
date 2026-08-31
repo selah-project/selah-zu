@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 32:1",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "ULavan wavuka ekuseni, wasuna amadodana akhe namadodakazi akhe, wabathakazela ⟨את⟩ ⟨abо⟩; waya, uLavan wabuyela endaweni yakhe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "wavuka ekuseni"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "uLavan"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "וינשק",
+      "gloss": "wasuna"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "amadodana akhe"
+    },
+    {
+      "surface": "ולבנותיו",
+      "gloss": "namadodakazi akhe"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wabathakazela"
+    },
+    {
+      "surface": "אתהם",
+      "gloss": "⟨את⟩",
+      "marks": "abо (amadodana namadodakazi)"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wabuyela"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "uLavan"
+    },
+    {
+      "surface": "למקמו",
+      "gloss": "endaweni yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:17:07.278394726Z",
+  "model": "glm-5.3"
+}

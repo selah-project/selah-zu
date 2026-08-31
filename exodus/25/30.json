@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Uzobeka phezu kwetafula isinkwa sobuso phambi kwami njalo.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "Uzobeka"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kw-"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "etafula"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "isinkwa"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "sobuso"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwami"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:40:15.890438998Z",
+  "model": "glm-5.3"
+}

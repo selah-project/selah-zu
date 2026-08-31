@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 42:10",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Futhi uYahwe wabuyisela ⟨את⟩ isimo sikaJobu esingaphambilini, lapho ethandaza ngabahlobo bakhe; futhi uYahwe wengeza ⟨את⟩ konke okwakuyesikaJobu — okuphindwe kabili.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "futhi uYahwe"
+    },
+    {
+      "surface": "שב",
+      "gloss": "wabuyisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isimo sikaJobu esingaphambilini"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "isimo esingaphambilini"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "sikaJobu"
+    },
+    {
+      "surface": "בהתפללו",
+      "gloss": "lapho ethandaza"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ngabahlobo"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "bakhe"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "futhi wengeza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke okwakuyesikaJobu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "לאיוב",
+      "gloss": "okwakuyesikaJobu"
+    },
+    {
+      "surface": "למשנה",
+      "gloss": "okuphindwe kabili"
+    }
+  ],
+  "timestamp": "2026-08-31T07:35:42.394312767Z",
+  "model": "glm-5.3"
+}

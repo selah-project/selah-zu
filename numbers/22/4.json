@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 22:4",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "IMowabi yathi kubaphathi bamadala bakwaMidiyani: 'Manje umbutho uzokhapula ⟨את⟩ koni okuseduze nathi, njengokukhapula kwenkomo ⟨את⟩ uluhlaza zasimini.' UBalaki unyana kaTsipori wayengunkosi yaseMowabi ngaleso sikhathi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "iMowabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abaphathi bamadala"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "bakwaMidiyani"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "ילחכו",
+      "gloss": "uzokhapula"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "umbutho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koni okuseduze nathi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koni"
+    },
+    {
+      "surface": "סביבתינו",
+      "gloss": "okuseduze nathi"
+    },
+    {
+      "surface": "כלחך",
+      "gloss": "njengokukhapula kwe-"
+    },
+    {
+      "surface": "השור",
+      "gloss": "inkomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uluhlaza zasimini"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "uluhlaza"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zasimini"
+    },
+    {
+      "surface": "ובלק",
+      "gloss": "uBalaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana ka-"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsipori"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wayengunkosi"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "yaseMowabi"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ngaleso sikhathi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "-leso"
+    }
+  ],
+  "timestamp": "2026-08-31T02:20:44.915696842Z",
+  "model": "glm-5.3"
+}

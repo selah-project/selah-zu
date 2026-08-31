@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 59,
+  "translation": "Amandla ami, kuwe ngizibekela indlela; ngoba uElohim yindawo yami ephezule nesiphephelo sami.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "Amandla ami"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ngizibekela indlela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "isiphephelo sami esiphakeme"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:03.399228846Z",
+  "model": "glm-5.3"
+}

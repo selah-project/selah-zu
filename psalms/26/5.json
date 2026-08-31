@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Ngiyizondile ibandlaabezimbi, futhi nababi angeke ngihlale nabo.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Ngiyizondile"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ibandla"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "abezimbi"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "futhi na-"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ngihlale"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:55.492909884Z",
+  "model": "glm-5.3"
+}

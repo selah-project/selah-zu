@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 7:31",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Njengomhlabeli, umpristi uzoshisa ⟨את⟩ amafutha ⟨kwi-altare⟩, futhi ifudla lizoba ngu-Aharon nabantwana bakhe.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "uzoshisa njengomhlabeli"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amafutha"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "⟨kwi-altare⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "futhi lizoba"
+    },
+    {
+      "surface": "החזה",
+      "gloss": "ifudla"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ngu-Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "nabantwana bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:52:21.829191575Z",
+  "model": "glm-5.3"
+}

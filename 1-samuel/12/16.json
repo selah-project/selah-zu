@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 12:16",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Namanje yimani, nibone ⟨את⟩ leli daba elikhulu uYahwe alenzayo emehlweni enu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "na-"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "התיצבו",
+      "gloss": "yimani"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "nibone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leli daba elikhulu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "daba"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "elikhulu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "alenzayo (eso)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "alenzayo"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "emehlweni enu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:18:52.625535597Z",
+  "model": "glm-5.3"
+}

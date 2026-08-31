@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Beka ukwesaba kubona, uYahwe, ukuze izizwe zazi ukuthi ngabantu abafayo kuphela yilabo. Selah.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Beka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "azi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "abantu abafayo kuphela"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yilabo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:42.982319390Z",
+  "model": "glm-5.3"
+}

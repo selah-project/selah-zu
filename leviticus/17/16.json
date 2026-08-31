@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Kepha uma ezingahlanzi izingubo zakhe, noma enzalweni yakhe engagi, uzabe nesono lakhe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kepha uma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engahlanzi"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "ezingahlanzi"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "noma enzalweni yakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engagi"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "engagi"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "uzabe nesono lakhe"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "sono lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:57:59.905251501Z",
+  "model": "glm-5.3"
+}

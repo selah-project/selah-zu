@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Izimvu nezikhomo, zonke; nakanjalo nezilwane zasimlanga.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "Izimvu"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "nezikhomo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nakanjalo"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "nezilwane"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "zasimlanga"
+    }
+  ],
+  "timestamp": "2026-08-31T06:14:36.207252838Z",
+  "model": "glm-5.3"
+}

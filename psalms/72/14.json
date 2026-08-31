@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 72:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 72,
+  "translation": "Emenyezweni nobudlova uyosikhulula ukuphila kwabo, igazi labo liyobiza emehlweni akhe.",
+  "tokens": [
+    {
+      "surface": "מתוך",
+      "gloss": "emenyezweni"
+    },
+    {
+      "surface": "ומחמס",
+      "gloss": "nobudlova"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "uyosikhulula"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ukuphila kwabo"
+    },
+    {
+      "surface": "וייקר",
+      "gloss": "liyobiza"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "igazi labo"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "emehlweni akhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:21.595318522Z",
+  "model": "glm-5.3"
+}

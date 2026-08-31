@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 65,
+  "translation": "Kumqondisi. Ingoma kaDavi. Umculo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ingoma yesigubhu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "umculo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:40.664468352Z",
+  "model": "glm-5.3"
+}

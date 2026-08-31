@@ -1,0 +1,108 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 8:25",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Wathatha ⟨את⟩ amafutha, no-⟨את⟩ insibe, no-⟨את⟩ wonke amafutha akule zwanze, no-⟨את⟩ icala lekhephu, no-⟨את⟩ izinso ezimbili no-⟨את⟩ amafutha azo, no-⟨את⟩ uthanga olunesandla sokudla.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amafutha"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "insibe"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "insibe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "wonke amafutha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "akule"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwes"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "zwanze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "icala lekhephu"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "icala"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "lekhephu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "izinso ezimbili"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "izinso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "amafutha azo"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "amafutha azo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "uthanga"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "uthanga"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "olunesandla sokudla"
+    }
+  ],
+  "timestamp": "2026-08-31T01:55:25.745457055Z",
+  "model": "glm-5.3"
+}

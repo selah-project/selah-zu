@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 11:13",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Kodwa ⟨את⟩ wonke umbuso angeke ngiwudabule; isizwe esisodwa ngizonika indodana yakho, ngenxa kaDawidi inkonzi yami, nangenxa kweYerushalayimi engiyikhethile.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Kodwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke umbuso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "umbuso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "אקרע",
+      "gloss": "ngiwudabule"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "esisodwa"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ngizonika"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "indodana yakho"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa ka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "inkonzi yami"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "nangenxa kwe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "yikhethile"
+    }
+  ],
+  "timestamp": "2026-08-31T03:55:38.155704823Z",
+  "model": "glm-5.3"
+}

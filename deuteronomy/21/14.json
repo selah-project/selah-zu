@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 21:14",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi kwenzeke, uma ungathandi yona, umkhulula ngokwe⟨nefeshi⟩ yakhe; kodwa ngokuthengisa, awumthengisi ngesiliva, awumcindezeli yona, ngokuba umhlazulile.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kwenzeke"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ungathandi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "yona"
+    },
+    {
+      "surface": "ושלחתה",
+      "gloss": "umkhulula"
+    },
+    {
+      "surface": "לנפשה",
+      "gloss": "ngokwenefeshi yakhe"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "kodwa ngokuthengisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "תמכרנה",
+      "gloss": "awumthengisi"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ngesiliva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "תתעמר",
+      "gloss": "awumcindezeli"
+    },
+    {
+      "surface": "בה",
+      "gloss": "yona"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "עניתה",
+      "gloss": "umhlazulile"
+    }
+  ],
+  "timestamp": "2026-08-31T02:40:27.728044426Z",
+  "model": "glm-5.3"
+}

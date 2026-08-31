@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Njengako konke okuYahwe wayeyala ⟨את⟩ uMoshe, kanjalo abantwana bakwa-Israyeli benza ⟨את⟩ yonke imisebenzi.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "njengako konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayeyala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke imisebenzi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "imisebenzi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:49:38.159474868Z",
+  "model": "glm-5.3"
+}

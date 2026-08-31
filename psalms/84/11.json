@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 84:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 84,
+  "translation": "Ngokuba usuku olulodwa ezindlini zakho lungcono kunezinkulungwane eziningi; ngikhethile ukuma esigokeni sekhaya likaElohim wami, kunokuhlala ezihlahleni zokungalungile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lungcono"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku olulodwa"
+    },
+    {
+      "surface": "בחצריך",
+      "gloss": "ezindlini zakho"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "kunezinkulungwane eziningi"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ngikhethile"
+    },
+    {
+      "surface": "הסתופף",
+      "gloss": "ukuma esigokeni"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sekhaya la"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Elohim wami"
+    },
+    {
+      "surface": "מדור",
+      "gloss": "kunokuhlala"
+    },
+    {
+      "surface": "באהלי",
+      "gloss": "ezihlahleni za"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ukungalungile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:29.638836864Z",
+  "model": "glm-5.3"
+}

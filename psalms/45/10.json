@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 45:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Amadodakazi amakhosi ahlezi kakhulu ezindaweni zakho ezinhle; inkosikazi ikhona esandleni sakho sokudla, igqokile ngegolide le-Ophiri.",
+  "tokens": [
+    {
+      "surface": "בנות",
+      "gloss": "amadodakazi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "ביקרותיך",
+      "gloss": "ezindaweni zakho ezinconyiwayo"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "imi"
+    },
+    {
+      "surface": "שגל",
+      "gloss": "inkosikazi"
+    },
+    {
+      "surface": "לימינך",
+      "gloss": "esandleni sakho sokudla"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "ngegolide"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "le-Ophiri"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:18.168550165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 42:16",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "WAyyove waphila emva kwalokho iminyaka engikhulu namashumi amane, wabona ⟨את⟩ amadodana akhe no⟨את⟩ amadodana amadodana akhe, izizukulwane ezine.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "waphila"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "u-Ayyove"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "kwalesi"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ikhulu"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "namashumi amane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadodana akhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "amadodana akhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "amadodana amadodana akhe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "amadodana akhe"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ezine"
+    },
+    {
+      "surface": "דרות",
+      "gloss": "izizukulwane"
+    }
+  ],
+  "timestamp": "2026-08-31T07:32:06.781344206Z",
+  "model": "glm-5.3"
+}

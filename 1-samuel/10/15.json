@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Wathi umalume kaShawuli: Xoxa ngesihawu ndixoxele ukuthi uShemueli wanithi ini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "umalume"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kaShawuli"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "xoxa"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngesihawu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ndixoxele"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wanithi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemueli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:19:03.733308817Z",
+  "model": "glm-5.3"
+}

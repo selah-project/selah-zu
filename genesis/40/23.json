@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Kodwa umphathi wabathanzi akakhumbuli ⟨את⟩ uYosefu, wamkhohlahla ⟨yize⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kodwa akakhumbuli"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "khumbula"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umphathi"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "wabathanzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "wamkhohlahla"
+    }
+  ],
+  "timestamp": "2026-08-31T05:55:44.409103909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "i-Israel yalahle okuhle; isitha siyoyilandela.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "yalahle"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i-Israel"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "isitha"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "siyoyilandela"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:10.367121728Z",
+  "model": "glm-5.3"
+}

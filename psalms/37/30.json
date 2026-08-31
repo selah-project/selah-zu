@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Umlomo wolungile uyazihlaziya ⟨⟨ukuhlakula⟩⟩ ukuhlakanipha, ulimi lwakhe luyakhuluma ⟨⟨umthetho⟩⟩ icala.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "umlomo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "wolungile"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "uyazihlaziya"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ukuhlakanipha"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ulimi lwakhe"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "luyakhuluma"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "icala"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:23.159464692Z",
+  "model": "glm-5.3"
+}

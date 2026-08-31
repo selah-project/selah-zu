@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 3:21",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi ngizinikeza ⟨את⟩ umusa lo muntu emehlweni abaMitsrayim, futhi kuzakwenzeka ukuthi nihamba, ningeke nihamba ningenalutho.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "futhi ngizinikeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umusa"
+    },
+    {
+      "surface": "חן",
+      "gloss": "umusa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lo muntu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lesi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "abaMitsrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "futhi kuzakwenzeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "nihamba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ningeke"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "nihamba"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ningenalutho"
+    }
+  ],
+  "timestamp": "2026-08-31T01:27:41.912379088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 2:20",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "I-Adam wanikeza amagama zonke izilwane ezifuywayo, nezinyoni zezulu, nazo zonke izilwane zensimbi; kodwa ku-Adam awutholakalanga umsize ohlangabezana naye.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wanikeza amagama"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "i-Adam"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "izilwane ezifuywayo"
+    },
+    {
+      "surface": "ו לעוף",
+      "gloss": "nezinyoni"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "zezulu"
+    },
+    {
+      "surface": "ו לכל",
+      "gloss": "nazo zonke"
+    },
+    {
+      "surface": "חית",
+      "gloss": "izilwane"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zensimbi"
+    },
+    {
+      "surface": "ו לאדם",
+      "gloss": "kodwa ku-Adam"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga- (awu-)"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "tholakalanga"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "umsize"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "ohlangabezana naye"
+    }
+  ],
+  "timestamp": "2026-08-31T10:10:14.963382853Z",
+  "model": "glm-5.3"
+}

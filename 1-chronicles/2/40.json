@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "uElasaha wazala ⟨את⟩ uSismayi, uSismayi wazala ⟨את⟩ uShalumi.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "uElasaha"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uSismayi"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "uSismayi"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "uSismayi"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShalumi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "uShalumi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:28.363307913Z",
+  "model": "glm-5.3"
+}

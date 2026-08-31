@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 6:30",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Kwathi lapho inkosi izwa ⟨את⟩ amazwi owesifazane, yadabula ⟨את⟩ izingubo zayo; yadlula phezu kombango, abantu bayabona, bheka, iseshi laphansi phezu kwesinyama sayo ngaphakathi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "lapho izwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazwi owesifazane"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "owesifazane"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "yadabula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingubo zayo"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "izingubo zayo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yadlula"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "—"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "kombango"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "bayabona"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "השק",
+      "gloss": "iseshi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "kwesinyama sayo"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ngaphakathi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:05:42.832494317Z",
+  "model": "glm-5.3"
+}

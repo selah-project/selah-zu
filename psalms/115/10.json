@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 115:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 115,
+  "translation": "Bethu bethi-Aharoni, thembani kuYahwe; yena ungowasizo lwabo nesiphephelo sabo.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "bethu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "bethi-Aharoni"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "thembani"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "owasizo lwabo"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "nesiphephelo sabo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:14.904269516Z",
+  "model": "glm-5.3"
+}

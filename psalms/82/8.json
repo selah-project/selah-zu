@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 82,
+  "translation": "Sukuma, uElohim, wehlulele ⟨את⟩ umhlaba; ngokuba wena uzoyifa zonke izizwe.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sukuma"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "wehlulele"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "uzoyifa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "izizwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:58.346212086Z",
+  "model": "glm-5.3"
+}

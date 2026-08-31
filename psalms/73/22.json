@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Mina bengilahlekile futhi bengingazi; bengiyizilwane ezingazi lutho ⟨kumina wakho⟩.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "בער",
+      "gloss": "bengilahlekile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi bengingazi"
+    },
+    {
+      "surface": "אדע",
+      "gloss": ""
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "izilwane ezingazi lutho"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bengi-"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨kumina wakho⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:26.326010564Z",
+  "model": "glm-5.3"
+}

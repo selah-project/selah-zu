@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 26:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi uzokwenza izicucu zezimbuzi zohhambo phezu kwesigodlo; izicucu ezishiyishumi nanye uzozenza ⟨את⟩ zo.",
+  "tokens": [
+    {
+      "surface": "וְעָשִׂ֨יתָ֙",
+      "gloss": "futhi uzokwenza"
+    },
+    {
+      "surface": "יְרִיעֹ֣ת",
+      "gloss": "izicucu"
+    },
+    {
+      "surface": "עִזִּ֔ים",
+      "gloss": "zezimbuzi"
+    },
+    {
+      "surface": "לְאֹ֖הֶל",
+      "gloss": "zohhambo"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הַמִּשְׁכָּ֑ן",
+      "gloss": "kwesigodlo"
+    },
+    {
+      "surface": "עַשְׁתֵּ֥י",
+      "gloss": "ezishiyi"
+    },
+    {
+      "surface": "עֶשְׂרֵ֥ה",
+      "gloss": "nishumi nanye"
+    },
+    {
+      "surface": "יְרִיעֹ֖ת",
+      "gloss": "izicucu"
+    },
+    {
+      "surface": "תַּעֲשֶׂ֥ה",
+      "gloss": "uzozenza"
+    },
+    {
+      "surface": "אֹתָֽם",
+      "gloss": "⟨את⟩",
+      "gloss_note": "",
+      "marks": "zo (izicucu)"
+    }
+  ],
+  "timestamp": "2026-08-31T10:52:47.738960603Z",
+  "model": "glm-5.3"
+}

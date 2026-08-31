@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 118:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 118,
+  "translation": "Isandla sokudla sikaYahwe siphezulu, isandla sokudla sikaYahwe senza amandla.",
+  "tokens": [
+    {
+      "surface": "ימין",
+      "gloss": "isandla sokudla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "רוממה",
+      "gloss": "siphezulu"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "isandla sokudla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "senza"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "amandla"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:40.412552560Z",
+  "model": "glm-5.3"
+}

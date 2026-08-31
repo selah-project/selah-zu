@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Futhi, endleleni, njengesiphukuphuku esihambayo, inhliziyo yakhe iyasilela, futhi kubonke usho ukuthi yena ungumhlanya.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "njengesiphukuphuku esihambayo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ihamba"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inhliziyo yakhe"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "iyasilela"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "futhi usho"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kubonke"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ungumhlanya"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T07:49:52.993738525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 38:23",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Uthi uYehudha: Thathela yena, ukuze singabi yinhlekisa; bheka, ngithumele leli bhokana, wena awuyitholanga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehudha"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "thathela"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yena"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ukuze singabi"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "si-"
+    },
+    {
+      "surface": "לבוז",
+      "gloss": "yinhlekisa"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ngithumele"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "leli bhokana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awa-"
+    },
+    {
+      "surface": "מצאתה",
+      "gloss": "yitholanga"
+    }
+  ],
+  "timestamp": "2026-08-31T01:20:45.747823259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 27:15",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Ngokuba angeke ngibathumele — isibonakaliso sikaYahwe — kepha baphrofetha ngegama lami ngamanga, ukuze nginidukise, nife; nina, nabaphrofethi abaphrofethayo kini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "ngibathumele"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "isibonakaliso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "kepha"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "baphrofetha"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ngegama lami"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ngamanga"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "הדיחי",
+      "gloss": "nginidukise"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ninidukise"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "nife"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "nabaphrofethi"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "abaphrofethayo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-08-31T06:10:30.201860046Z",
+  "model": "glm-5.3"
+}

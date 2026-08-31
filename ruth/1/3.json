@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ruth 1:3",
+  "book": "ruth",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Washona u-Elimeleki, induna kaNoomi, yaphela yena ⟨את⟩ nomadodana akhe amabili.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "washona"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "u-Elimeleki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "induna"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "kaNoomi"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "yaphela"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "nomadodana amabili"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "madodana akhe"
+    }
+  ],
+  "timestamp": "2026-08-31T11:39:04.276419567Z",
+  "model": "glm-5.3"
+}

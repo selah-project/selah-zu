@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Nange-⟨את⟩ iBaalahathi, nange-⟨את⟩ iThamara esigodini sendlela, ezweni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "nange-⟨את⟩",
+      "marks": "iBaalahathi"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "iBaalahathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange-⟨את⟩",
+      "marks": "iThamara"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "iThamara"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "esigodini sendlela"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    }
+  ],
+  "timestamp": "2026-08-31T03:53:12.007487107Z",
+  "model": "glm-5.3"
+}

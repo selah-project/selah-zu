@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 72,
+  "translation": "Intaba zizalethela ukuthula abantu, neziqongo ngobulungiswa.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "zizalethela"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "intaba"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ukuthula"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "neziqongo"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "ngobulungiswa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:13.970495037Z",
+  "model": "glm-5.3"
+}

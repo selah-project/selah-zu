@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "aze uYahwe uElohim wakho asitshela ⟨את⟩ indlela esizohamba ngayo, no-⟨את⟩ lentoni esizoyenza;",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "aze asitshela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlela"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ese-"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "sizohamba"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ngayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "lentoni"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lentoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ese-"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "sizoyenza"
+    }
+  ],
+  "timestamp": "2026-08-31T04:57:24.041087604Z",
+  "model": "glm-5.3"
+}

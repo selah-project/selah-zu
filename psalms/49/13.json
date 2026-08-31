@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 49:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Kodwa umuntu engasebenzi naso isithombo, ahlali ubuhle bakhe; ufana nezilwane ezingcwatshiwe.",
+  "tokens": [
+    {
+      "surface": "ואדם",
+      "gloss": "kodwa umuntu"
+    },
+    {
+      "surface": "ביקר",
+      "gloss": "ubuhle bakhe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "engasebenzi naso"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ahlali"
+    },
+    {
+      "surface": "נמשל",
+      "gloss": "ufana"
+    },
+    {
+      "surface": "כבהמות",
+      "gloss": "nezilwane"
+    },
+    {
+      "surface": "נדמו",
+      "gloss": "ezingcwatshiwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:14.316499017Z",
+  "model": "glm-5.3"
+}

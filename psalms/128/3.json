@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 128:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 128,
+  "translation": "Unkosikazi wakhe ⟨njenge⟩zameli ezithwala izithelo ezimpondo zendlu yakhe; izingane zakhe ⟨njenge⟩zitshalo zamanzi zezibani ezungeze itafula lakhe.",
+  "tokens": [
+    {
+      "surface": "אשתך",
+      "gloss": "Unkosikazi wakhe"
+    },
+    {
+      "surface": "כגפן",
+      "gloss": "⟨njenge⟩zameli"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ezithwala izithelo"
+    },
+    {
+      "surface": "בירכתי",
+      "gloss": "ezimpondo zangaphakathi"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "zendłu yakhe"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "izingane zakhe"
+    },
+    {
+      "surface": "כשתלי",
+      "gloss": "⟨njenge⟩zitshalo"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "zamanzi zezibani"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ezungeze"
+    },
+    {
+      "surface": "לשלחנך",
+      "gloss": "itafula lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:50.144124781Z",
+  "model": "glm-5.3"
+}

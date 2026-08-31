@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 67:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 67,
+  "translation": "uElohim asixhasise futhi asibusise; akhanyise ubuso bakhe ⟨את⟩ ngathi. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "asixhasise"
+    },
+    {
+      "surface": "ויברכנו",
+      "gloss": "futhi asibusise"
+    },
+    {
+      "surface": "יאר",
+      "gloss": "akhanyise"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ngathi",
+      "marks": "ngathi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:44.448654967Z",
+  "model": "glm-5.3"
+}

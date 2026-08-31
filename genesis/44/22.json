@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 44:22",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Thina sathi enkosini yami: Umfana awnakho ukushiya ⟨את⟩ uyise; uma eshiya ⟨את⟩ uyise, uyofa.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "sathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "nkosi yami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke\/awnakho"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "akwazi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "umfana"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "ukushiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyise"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "uma eshiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyise"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "uyofa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:22:12.089001526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi uParo waphenduka wangena endlwini yakhe, futhi wazange abeke inhliziyo yakhe nakulokhu.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "futhi waphenduka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "endlwini yakhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi wazange"
+    },
+    {
+      "surface": "שת",
+      "gloss": "abeke"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inhliziyo yakhe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na-"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "kulokhu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:28:12.219153080Z",
+  "model": "glm-5.3"
+}

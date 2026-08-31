@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 61:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 61,
+  "translation": "Ekupheleni komhlaba ngizakubizela wena; ε times esibindini sami ezigcwele, ungiholele elele eliphezulu kunami.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "Ekupheleni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "komhlaba"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ngizabiza"
+    },
+    {
+      "surface": "בעטף",
+      "gloss": "ε times"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "isibindi sami"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "elele"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "eliphezulu"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kunami"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ungiholele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:32.511420516Z",
+  "model": "glm-5.3"
+}

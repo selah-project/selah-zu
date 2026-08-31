@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "uYahwe, msindise inkosi; asiphendule osukwenzayo isimemezelo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "msindise"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "asiphendule"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "osukwenzayo isimemezelo"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "esimembulula"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:25.848758032Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 28:2",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Futhi lezi zibusiso zonke zizofika phezu kwakho, zizokufinyelela, ngoba ulalela izwi lokaYahwe uElohim wakho.",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "futhi zizofika"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "phezu kwakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הברכות",
+      "gloss": "lezi zibusiso"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "והשיגך",
+      "gloss": "zizokufinyelela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ulalela"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T02:44:35.352841591Z",
+  "model": "glm-5.3"
+}

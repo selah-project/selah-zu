@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Kwathi lapho uYoavu ebhekelele idolobha, wabeka ⟨את⟩ uUriya endaweni ayeyazi ukuthi khona kunamadoda aqinileyo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "ebhekelela"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYoavu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "idolobha"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uUriya"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "uUriya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eyazi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wayazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "aqinileyo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    }
+  ],
+  "timestamp": "2026-08-31T03:36:55.337739476Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "No ⟨את⟩ uBhasemati indodakazi likaYishmaeli, udadewabo uNebhayothi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no ⟨את⟩",
+      "marks": "uBhasemati"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "uBhasemati"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi lika-"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Yishmaeli"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "udadewabo"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "uNebhayothi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:18:06.535348986Z",
+  "model": "glm-5.3"
+}

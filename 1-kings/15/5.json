@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 15:5",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Ngoba uDavide wenza ⟨את⟩ okulungile emehlweni kaYahwe, futhi akaphendukanga emacaleni kunazo zonke izinto ayalele ngazo, zonke izinsuku zokuphila kwakhe — kuphela ngendaba ka-Uriya umuhhithe.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okulungile"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "okulungile"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi akaphendukanga"
+    },
+    {
+      "surface": "סר",
+      "gloss": "ephendukile emacaleni"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kunazo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "izinto"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ayalele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "zokuphila kwakhe"
+    },
+    {
+      "surface": "רק",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ngendaba"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ka-Uriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "umuhhithe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:22:10.563918876Z",
+  "model": "glm-5.3"
+}

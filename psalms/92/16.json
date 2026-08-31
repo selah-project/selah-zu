@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 92,
+  "translation": "Ukuveza ukuthi uYahwe uqotho, yindwane yami, futhi akukho bunyansi kuyena.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "Ukuveza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "uqotho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "yindwane yami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi akukho"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "bunyansi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuyena"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:04.020533802Z",
+  "model": "glm-5.3"
+}

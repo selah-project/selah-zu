@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Bese abantwana baka-Israyeli bakhonzela ⟨את⟩ u-Egloni inkosi yaseMowabi iminyaka engu-shumi neshiyagalombili.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "bakhonzela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "baka-Israyeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Egloni"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "u-Egloni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "yaseMowabi"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "eshiyagalombili"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "neshumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    }
+  ],
+  "timestamp": "2026-08-31T03:03:22.488946214Z",
+  "model": "glm-5.3"
+}

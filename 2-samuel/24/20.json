@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 24:20",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "U-Aravna wabukela phansi, wabona ⟨את⟩ inkosi no⟨את⟩ amadoda ayo edlula kuye; u-Aravna waphuma, waqhwaba phambi yenkosi, ubuso bakhe buya emhlabeni.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "wabukela phansi"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "u-Aravna"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "amadoda ayo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "amadoda ayo"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "edlula"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "ארונה",
+      "gloss": "u-Aravna"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "waqhwaba"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "phambi yenkosi"
+    },
+    {
+      "surface": "אפיו",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-08-31T03:45:24.211843625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Imifula yamanzi ihlele ezweni lami emehlweni, ngoba abayigcini ithora yakho.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "Imifula"
+    },
+    {
+      "surface": "מים",
+      "gloss": "yamanzi"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ihlele"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "emehlweni ami"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "abayigcini"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ithora yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:10.320202342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Ngiye ngamenza undlunkulu, ophakeme kunawo wonke amakhosi omhlaba.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ngiye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "undlunkulu"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "ngamenza"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ophakeme kunawo wonke"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "omhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:50.380164467Z",
+  "model": "glm-5.3"
+}

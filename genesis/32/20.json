@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 32:20",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Wayala futhi ⟨את⟩ eyesibili, futhi ⟨את⟩ eyesithathu, futhi ⟨את⟩ bonke abahamba ngemva kwezithoqo, esithi: Ngalendlela nizokhuluma no-Esawu ninkimina nimthola ⟨את⟩ yena.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "wayala"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eyesibili"
+    },
+    {
+      "surface": "השני",
+      "gloss": "eyesibili"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eyesithathu"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "eyesithathu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonke abahamba ngemva kwezithoqo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "abahamba"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ngemva kwa"
+    },
+    {
+      "surface": "העדרים",
+      "gloss": "izithoqo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ngalendlela"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "nizokhuluma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "u-Esawu"
+    },
+    {
+      "surface": "במצאכם",
+      "gloss": "ninkimina nimthola"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (u-Esawu)"
+    }
+  ],
+  "timestamp": "2026-08-31T01:17:36.265784343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-kings 8:51",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "ngoba bona ⟨ngaba⟩ abantu bakho nokufa kwakho, obawakhupha eMitsrayim, phakathi kwekhiye lesitshe elimnyama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "nokufa kwakho"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oba"
+    },
+    {
+      "surface": "הוצאת",
+      "gloss": "obawakhupha"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "כור",
+      "gloss": "ikhiye"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "lesitshe elimnyama"
+    }
+  ],
+  "timestamp": "2026-08-31T03:52:01.404801392Z",
+  "model": "glm-5.3"
+}

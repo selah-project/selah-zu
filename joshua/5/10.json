@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 5:10",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Wayezingela abantwana bakwaSirayeli eGiligalini, bese benza ⟨את⟩ iPesaka ngosuku lweyishumi nane ngenyanga, ntambama, ezilweni zaseYeriho.",
+  "tokens": [
+    {
+      "surface": "ויחנו",
+      "gloss": "wayezingela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaSirayeli"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "eGiligalini"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "bese benza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iPesaka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "iPesaka"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "weyine"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "neshumi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "osuku"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ngenyanga"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ntambama"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "ezilweni"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "zaseYeriho"
+    }
+  ],
+  "timestamp": "2026-08-31T02:48:57.393281186Z",
+  "model": "glm-5.3"
+}

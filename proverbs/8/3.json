@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Eceleni kwezango, emlonyeni wedolobha, emnyango weminyango ikhala ngelizwi eliphakeme.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "eceleni kwezango"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "izango"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "emlonyeni"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "wedolobha"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "emnyango weminyango"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "iminyango"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "ikhala ngelizwi eliphakeme"
+    }
+  ],
+  "timestamp": "2026-08-31T06:49:07.174626588Z",
+  "model": "glm-5.3"
+}

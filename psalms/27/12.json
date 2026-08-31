@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 27:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Unganginiki ekufisweni kwabahlupha bami; ngoba abafakazi bobuxoki bavukile ngami, baphuma umoya wobudlova.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תתנני",
+      "gloss": "nginiki"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ekufisweni"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "kwabahlupha bami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "bavukile"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngami"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "abafakazi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "bobuxoki"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "baphuma umoya"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "wobudlova"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:16.919954295Z",
+  "model": "glm-5.3"
+}

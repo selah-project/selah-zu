@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 93,
+  "translation": "Isihlalo sakho samiswa kusukela ngaleso sikhathi, kusukela kuMandlebe unganqamuki, wena ⟨ungu⟩ owasemaqhubelweni.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "samiswa"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "isihlalo sakho"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "kusukela ngaleso sikhathi"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "kusukela kuMandlebe unganqamuki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:00.705679248Z",
+  "model": "glm-5.3"
+}

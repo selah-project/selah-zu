@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Suka kokubi wenze okuhle, funa ukuthula ulandele.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Suka"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "kokubi"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "funa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ukuthula"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "ulandele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:22.274132109Z",
+  "model": "glm-5.3"
+}

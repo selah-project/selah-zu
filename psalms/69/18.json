@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 69:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Ungafihli ubuso bakho esidlwini sakho, ngoba ngisecandweni lomuzwa; shesha, ngiphendule.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ungafihli"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ufihle"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "מעבדך",
+      "gloss": "esisdlwini sakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ngisecandweni lomuzwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "shesha"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ngiphendule"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:56.026984859Z",
+  "model": "glm-5.3"
+}

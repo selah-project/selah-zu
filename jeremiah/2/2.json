@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 2:2",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Hamba, ubize ezindlebeni zaseYerushalayimi, ukuze uthi: Kunjalo uthe uYahwe: Ngikhumbula ngawe ikhesedi lobusha bakho, uthando lokwendisa kwakho, ukuhamba kwakho ngemva kwami esitheni, ezweni elingatshaliwe.",
+  "tokens": [
+    {
+      "surface": "הלך",
+      "gloss": "Hamba"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "ubize"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ezindlebeni"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "zaseYerushalayimi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kunjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "Ngikhumbula"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ngawe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "obusha bakho"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "uthando"
+    },
+    {
+      "surface": "כלולתיך",
+      "gloss": "lokwendisa kwakho"
+    },
+    {
+      "surface": "לכתך",
+      "gloss": "ukuhamba kwakho"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ngemva kwami"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "esitheni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "elinga-"
+    },
+    {
+      "surface": "זרועה",
+      "gloss": "tshaliwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:38:51.771819522Z",
+  "model": "glm-5.3"
+}

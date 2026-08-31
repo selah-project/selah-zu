@@ -1,0 +1,132 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 12:3",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Nangu mi; nibhekisela ngami phambi kukaYahwe nangaphambi kukaMashiya wakhe: ⟨את⟩ inkunzi yenkoku yamuphi engiyithathile, nesibaya samuphi engiyithathile; futhi ngamuphi engimphuzulile, ⟨את⟩ ngamuphi engimphethile; nasandleni samuphi engithathe isiphephelo sokuvimba ngaso amehlo ami — bengiyobuyisela kini.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "nangu mi"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "nibhekisela"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngami"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "futhi phambi kuka"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "uMashiya wakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkunzi yenkoku"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inkunzi yenkoku"
+    },
+    {
+      "surface": "מי",
+      "gloss": "yamuphi"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "engiyithathile"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "nesibaya"
+    },
+    {
+      "surface": "מי",
+      "gloss": "samuphi"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "engiyithathile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "ngamuphi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngamuphi"
+    },
+    {
+      "surface": "עשקתי",
+      "gloss": "engimphuzulile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngamuphi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngamuphi"
+    },
+    {
+      "surface": "רצותי",
+      "gloss": "engimphethile"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "nasandleni"
+    },
+    {
+      "surface": "מי",
+      "gloss": "samuphi"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "engithathe"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "isiphephelo"
+    },
+    {
+      "surface": "ואעלים",
+      "gloss": "sokuvimba ngaso"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo ami"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngaso"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "bengiyobuyisela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-08-31T03:20:27.190235206Z",
+  "model": "glm-5.3"
+}

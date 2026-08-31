@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 2:7",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi uYahwe uElohim walumbeka indoda ngomhlabathi othuli, walifaka kumapundu akhe umphefumelo wokuphila; indola... indoda yaba yumphefumlo ophilayo.",
+  "tokens": [
+    {
+      "surface": "וייצר",
+      "gloss": "futhi walumbeka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indoda"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "othuli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngomhlabathi o"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "mhlabathi"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "walifaka"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "kumapundu akhe"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "umphefumelo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wokuphila"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "yumphefumlo"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ophilayo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:01:52.088807404Z",
+  "model": "glm-5.3"
+}

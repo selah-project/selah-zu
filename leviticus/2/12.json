@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 2:12",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Iselo sokuuqala nizozilethela kuYahwe ⟨את⟩ zona; kepha e-altareni azikwazi ukunyuka, zibe {{}}⟨njeng⟩⟩iphunga elithokozisayo.",
+  "tokens": [
+    {
+      "surface": "קרבן",
+      "gloss": "iselo"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "sokuuqala"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "nizozilethela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "zona"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kepha e-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altareni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "azikwazi"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ukunyuka"
+    },
+    {
+      "surface": "לריח",
+      "gloss": "ibe ⟨njeng⟩iphunga"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "elithokozisayo"
+    }
+  ],
+  "timestamp": "2026-08-31T11:26:46.643581853Z",
+  "model": "glm-5.3"
+}

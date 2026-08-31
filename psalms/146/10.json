@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 146,
+  "translation": "uYahwe uzobusa kuze kube phakade, u-Elohim wakho, iZiyoni, kuze kolunye nesizukulwana — dumisani uYah!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "uzobusa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "u-Elohim wakho"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iZiyoni"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kuze kolunye"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nesizukulwana"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dumisani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:07.304874434Z",
+  "model": "glm-5.3"
+}

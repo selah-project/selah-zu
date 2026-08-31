@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 94,
+  "translation": "Lowo ozalayo indlebe, akanazi ukuzwa yini? Lowo obumba iso, akanaboni yini?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Lowo ozalayo"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "indlebe"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "akanazi... yini"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ukuzwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Lowo"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "obumba"
+    },
+    {
+      "surface": "עין",
+      "gloss": "iso"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "akanaboni yini"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ukubona"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:41.668785017Z",
+  "model": "glm-5.3"
+}

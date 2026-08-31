@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 62,
+  "translation": "Kanye ukhulume uElohim, kubili lokhu ngikuzwile: ukuthi amandla aku-Elohim.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Kanye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ukhulume"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "kubili"
+    },
+    {
+      "surface": "זו",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ngikuzwile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "aku-Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:02.330281737Z",
+  "model": "glm-5.3"
+}

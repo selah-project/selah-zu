@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 1:15",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngathatha ⟨את⟩ amakhanda ezizwe zenu, amadoda ahlakaniphile aziwayo, ngabenza ⟨את⟩ wona amakhanda phezulu kwenu — amakhosi wezinkulungwane, namakhosi wezikhulwane, namakhosi wezingamashumi amahlanu, namakhosi weziyishumi, nosohlwayo ezizweni zenu.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "ngathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amakhanda ezizwe zenu"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "amakhanda"
+    },
+    {
+      "surface": "שבטיכם",
+      "gloss": "ezizwe zenu"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ahlakaniphile"
+    },
+    {
+      "surface": "וידעים",
+      "gloss": "aziwayo"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ngabenza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wona amakhanda phezulu kwenu"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "amakhanda"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "phezulu kwenu"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "wezinkulungwane"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "namakhosi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "wezikhulwane"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "namakhosi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "wezingamashumi amahlanu"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "namakhosi"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "weziyishumi"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "nosohlwayo"
+    },
+    {
+      "surface": "לשבטיכם",
+      "gloss": "ezizweni zenu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:30:12.968788292Z",
+  "model": "glm-5.3"
+}

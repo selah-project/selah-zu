@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 21:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi uma indoda ithengisa ⟨את⟩ indodakazi yayo ukuba yinceku yesisifazane, akaphumi njengokuphuma bezinceku zesilisa.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "futhi uma"
+    },
+    {
+      "surface": "ימכר",
+      "gloss": "ithengisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indodakazi yayo"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "indodakazi yayo"
+    },
+    {
+      "surface": "לאמה",
+      "gloss": "ukuba yinceku yesisifazane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akaphumi"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "phuma"
+    },
+    {
+      "surface": "כצאת",
+      "gloss": "njengokuphuma"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "bezinceku zesilisa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:47.916025633Z",
+  "model": "glm-5.3"
+}

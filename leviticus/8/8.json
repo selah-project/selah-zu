@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Wabeka phezu kwakhe ⟨את⟩ i-chosheni, wafaka ku-chosheni ⟨את⟩ i-Urimi no⟨את⟩ amaThumimi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-chosheni"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "i-chosheni"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wafaka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "i-chosheni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-Urimi"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "i-Urimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "amaThumimi"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "amaThumimi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:54:41.292047473Z",
+  "model": "glm-5.3"
+}

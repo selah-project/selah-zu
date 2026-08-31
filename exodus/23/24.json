@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 23:24",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Ungaqheli kuvela kwamakhosi abo, ungabakhumushi, ungazenzanga izenzo zabo; ngokuba uzakuzituhaza ngokuzituhaza, uzakuwadabula ngokuwadabula izingqinamba zabo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "qheli"
+    },
+    {
+      "surface": "לאלהיהם",
+      "gloss": "kuvela kwamakhosi abo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ungabakhumushi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ungazenzanga"
+    },
+    {
+      "surface": "תעבדם",
+      "gloss": "bakhumushi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "zenzanga"
+    },
+    {
+      "surface": "כמעשיהם",
+      "gloss": "izenzo zabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "uzakuzituhaza"
+    },
+    {
+      "surface": "תהרסם",
+      "gloss": "ngokuzituhaza"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "uzakuwadabula"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "ngokuwadabula"
+    },
+    {
+      "surface": "מצבתיהם",
+      "gloss": "izingqinamba zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:49:11.669310447Z",
+  "model": "glm-5.3"
+}

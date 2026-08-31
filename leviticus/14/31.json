@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 14:31",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Lokhu isandla lakhe elikufinyelelayo: ⟨את⟩ elilodwa njengesono, no⟨את⟩ elilodwa njengokushiswa, ehlotshaniswa nomnikelo wokudla; futhi umpristi uzakubuyisana ngalowo ehlanzwayo phambi kukaYahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elilodwa njengesono"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "elikufinyelelayo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla lakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elilodwa njengesono"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "isono"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "elilodwa njengokushiswa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ukushiswa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ehlotshaniswa na"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "omnikelo wokudla"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "futhi uzakubuyisana"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "על",
+      "gloss": "nga"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "lalowo ehlanzwayo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:56:13.454228193Z",
+  "model": "glm-5.3"
+}

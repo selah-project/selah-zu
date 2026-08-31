@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 40:9",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Isiphathi esikhulu samakomishi sachazela uYosefu ⟨את⟩ iphupho laso, sathi kuye: Ephupheni lami, bheka, umuthi wegilebhisi umi phambi kwami.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "sachazela"
+    },
+    {
+      "surface": "שר",
+      "gloss": "isiphathi esikhulu"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "samakomishi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iphupho laso"
+    },
+    {
+      "surface": "חלמו",
+      "gloss": "iphupho laso"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "kuYosefu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "בחלומי",
+      "gloss": "ephupheni lami"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "umuthi wegilebhisi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T01:20:11.111444644Z",
+  "model": "glm-5.3"
+}

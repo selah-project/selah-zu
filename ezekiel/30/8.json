@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 30:8",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Futhi bayakwazi ukuthi nginguYahwe, ngokubekela iMitsrayimumlilo, kwaphuka onke abasizayo bayo.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "futhi bayakwazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "בתתי",
+      "gloss": "ngokubekela"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "kwaphuka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "abasizayo bayo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:27:37.159254510Z",
+  "model": "glm-5.3"
+}

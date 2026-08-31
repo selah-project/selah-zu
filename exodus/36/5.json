@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 36:5",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Bathi kuMoshe, bethi: Abantu banengisa ukuletha, ngaphezu kokwanele komsebenzi womsebenzi oYahwe awuyale ukwenza ⟨את⟩ wona.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Bathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bethi"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "banengisa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ukuletha"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ngaphezu kokwanele"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "komsebenzi"
+    },
+    {
+      "surface": "למלאכה",
+      "gloss": "womsebenzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "awuyale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wona (umsebenzi)"
+    }
+  ],
+  "timestamp": "2026-08-31T01:49:09.041743709Z",
+  "model": "glm-5.3"
+}

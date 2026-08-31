@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 16:3",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Bheka, mina ngiyakushisa ngokuphelele uBaasha nendlu yakhe, futhi ngizonikeza ⟨את⟩ indlu yakho njengendlu kaYarobheamu indodana kaNebhati:",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "bheka mina"
+    },
+    {
+      "surface": "מבעיר",
+      "gloss": "ngiyakushisa ngokuphelele"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ngemuva kuka- \/ ngokuphelele"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "uBaasha"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "futhi ngemuva kwa-"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "indlu yakhe"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "futhi ngizonikeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yakho"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "indlu yakho"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "njengendlu"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "kaYarobheamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "kaNebhati"
+    }
+  ],
+  "timestamp": "2026-08-31T03:58:35.285174613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 10:4",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ngokuba uma wena uyenqaba ukuthuma ⟨את⟩ abantu bami, bheka, mina ngilethela kusasa izinambuzane emkhawuleni wakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "uyenqaba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ukuthuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bami"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bami"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bheka, mina"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "ngilethela"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "kusasa"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "izinambuzane"
+    },
+    {
+      "surface": "בגבלך",
+      "gloss": "emkhawuleni wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T01:31:41.690081182Z",
+  "model": "glm-5.3"
+}

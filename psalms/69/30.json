@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 69:30",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Ngingoweḷula nangenhlungu; lusizo lwakho lokusindisa, Elohim, luyongiphakamisela phezulu.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ngingoweḷula"
+    },
+    {
+      "surface": "עני",
+      "gloss": "of physical, emotional, or circumstantial distress"
+    },
+    {
+      "surface": "וכואב",
+      "gloss": "nangenhlungu"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "lusizo lwakho lokusindisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "luyongiphakamisela phezulu"
+    }
+  ],
+  "timestamp": "2026-08-31T11:45:23.970054596Z",
+  "model": "glm-5.3"
+}

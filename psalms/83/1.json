@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 83,
+  "translation": "Ingoma, umkhuleko, kuka-Asafe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ingoma"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umkhuleko"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "kuka-Asafe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:46.853269808Z",
+  "model": "glm-5.3"
+}

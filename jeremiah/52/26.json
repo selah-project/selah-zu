@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 52:26",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 52,
+  "translation": "uNebuzaradan, induna yabasiki-bhokhodi, wathatha ⟨את⟩ bona, wabaletha ⟨את⟩ bona ku inkosi yeBhabheli, eRiblahi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "uNebuzaradan ... bona"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "uNebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "induna"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "yabasiki-bhokhodi"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wabaletha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ku inkosi yeBhabheli ... bona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "yeBhabheli"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "eRiblahi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:51:19.044081500Z",
+  "model": "glm-5.3"
+}

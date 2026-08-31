@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 95,
+  "translation": "Ngokuba u-El omkhulu nguYahwe, nanjengenkosi enkulu phezu kwayo wonke ⟨abakaki abayizingoni⟩ onkulunkulu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "omkhulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "nanjengenkosi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "enkulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "onkulunkulu"
+    }
+  ],
+  "timestamp": "2026-08-31T11:06:29.947095105Z",
+  "model": "glm-5.3"
+}

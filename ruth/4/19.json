@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "uChetsironi wazala ⟨את⟩ uRama, uRama wazala ⟨את⟩ u-Aminadhabhi.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "uChetsironi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uRama"
+    },
+    {
+      "surface": "רם",
+      "gloss": "uRama"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "uRama"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Aminadhabhi"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "u-Aminadhabhi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:37:58.343207834Z",
+  "model": "glm-5.3"
+}

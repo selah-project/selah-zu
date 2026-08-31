@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 28:12",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Kwasekubona yena lowo wesifazane ⟨את⟩ uShemuweli, wakhala ngezwi elikhulu, wayesephendula yena lowo wesifazane kuShawuli, ethi: Kungani ungikhohlisile? Wena nguShawuli.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "kwasekubona"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "lowo wesifazane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShemuweli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "ותזעק",
+      "gloss": "wakhala"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ngezwi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "elikhulu"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wayesephendula"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "lowo wesifazane"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "רמיתני",
+      "gloss": "ungikhohlisile"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "nguShawuli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:28:12.579867216Z",
+  "model": "glm-5.3"
+}

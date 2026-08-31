@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi uzozibopha njengophawu esandleni sakho, futhi zizoba yiziphawu phakathi kwamehlo ako.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "futhi uzozibopha"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "njengophawu"
+    },
+    {
+      "surface": "על",
+      "gloss": "esa-"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ndleni sakho"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "futhi zizoba"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "yiziphawu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "mehlo ako"
+    }
+  ],
+  "timestamp": "2026-08-31T02:31:27.712727590Z",
+  "model": "glm-5.3"
+}

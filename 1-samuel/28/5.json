@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 28:5",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "UShawuli wabona ⟨את⟩ ihempi lamaFilisti, wesaba, futhi inhliziyo yakhe yakhathazeka kakhulu.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "UShawuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihempi lamaFilisti"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "ihempi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "lamaFilisti"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wesaba"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "yakhathazeka"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inhliziyo yakhe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:30:20.291493950Z",
+  "model": "glm-5.3"
+}

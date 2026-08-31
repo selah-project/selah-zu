@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 123,
+  "ref": "psalms 119:123",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Amehlo ami aphela ngokusindiswa kwakho nangokwenye yamanye amazwi obulungisa bakho.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "amehlo ami"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "aphela"
+    },
+    {
+      "surface": "לישועתך",
+      "gloss": "ngokusindiswa kwakho"
+    },
+    {
+      "surface": "ולאמרת",
+      "gloss": "nangokwenye yamanye amazwi"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "obulungisa bakho"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:24.164090432Z",
+  "model": "glm-5.3"
+}

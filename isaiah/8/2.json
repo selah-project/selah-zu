@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 8:2",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngingayifaka iziqiniseko ezingathembekile ⟨את⟩ u-Uriya umpristi, no⟨את⟩ uZekariya indodana kaYeberekiahu.",
+  "tokens": [
+    {
+      "surface": "ואעידה",
+      "gloss": "ngizofakaza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "ofakazi"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "ezithembekile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Uriya umpristi"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "u-Uriya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uZekariya"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "uZekariya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "יברכיהו",
+      "gloss": "kaYeberekiahu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:18:30.432092502Z",
+  "model": "glm-5.3"
+}

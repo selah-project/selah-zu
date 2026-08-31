@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 64:10",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 64,
+  "translation": "Indlu yethu engcwele nobuhle bethu, lapho abokho bethu bebidumisa khona, yaba into eshayisiwe ngomlilo; yonke into ethokozisayo kithi yaba yitshazamlilo.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "קדשנו",
+      "gloss": "yethu engcwele"
+    },
+    {
+      "surface": "ותפארתנו",
+      "gloss": "nobuhle bethu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "הללוך",
+      "gloss": "bedumisa wena"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "abokho bethu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "לשרפת",
+      "gloss": "eshayisiwe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ngomlilo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nayonke"
+    },
+    {
+      "surface": "מחמדינו",
+      "gloss": "into ethokozisayo yethu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "yitshazamlilo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:38:01.765788475Z",
+  "model": "glm-5.3"
+}

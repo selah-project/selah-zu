@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Ngoba abakhulumi ukuthula; phezu kwabathule bomhlaba amazwi enkohliso ayacabangwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ukuthula"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "abakhulumi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "abathule"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "enkohliso"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "ayacabangwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:10.921021366Z",
+  "model": "glm-5.3"
+}

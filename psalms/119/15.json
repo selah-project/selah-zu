@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 119:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ezimiselweni zakho ngizicabangela, futhi ngizibheke izindlela zakho.",
+  "tokens": [
+    {
+      "surface": "בפקדיך",
+      "gloss": "Ezimiselweni zakho"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ngizicabangela"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "futhi ngizibheke"
+    },
+    {
+      "surface": "ארחתיך",
+      "gloss": "izindlela zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:27.260807879Z",
+  "model": "glm-5.3"
+}

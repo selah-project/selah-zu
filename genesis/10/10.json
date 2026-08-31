@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Futhi ekuqaleni kombuso wakhe kwakunguBhabheli nangesiErekhi nangesiAkadi nangesiKalinahi, ezweni laseShinari.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "futhi kwakungu-"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ekuqaleni"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "ombuso wakhe"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "iBhabheli"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "nangesiErekhi"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "nangesiAkadi"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "nangesiKalinahi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "laseShinari"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:07.675325248Z",
+  "model": "glm-5.3"
+}

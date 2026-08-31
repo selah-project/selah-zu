@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Golisa kuYahwe — ⟨uzomkhulula⟩, ⟨uzomsindisa⟩, ngokuba uthanda yena.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Golisa ku"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "⟨uzomkhulula⟩"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "⟨uzomsindisa⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "uthanda"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:25.236716317Z",
+  "model": "glm-5.3"
+}

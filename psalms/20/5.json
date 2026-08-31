@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Akunikele njengokwenhliziyo yakho, azalise wonke icebo lakho.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Akunikele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "njengokwenhliziyo yakho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "icebo lakho"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "azalise"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:21.431168031Z",
+  "model": "glm-5.3"
+}

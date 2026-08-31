@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 135,
+  "translation": "Izindlebe zinazo, kepha azizwa; futhi akukho moya emlonyeni wabo.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "Izindlebe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "zinazo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kepha"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "azizwa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨kunye⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "moya"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "emlonyeni wabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:02.560034983Z",
+  "model": "glm-5.3"
+}

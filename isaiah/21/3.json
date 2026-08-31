@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 21:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Ngakho-ke izinqunu zami zagcwaliswa ukudideka; izinzwa zangibamba njengezinzwa zomfazi ozalayo; ngadideka ngokuzwa, ngaphaphazeka ngokubona.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "-ke"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "zagcwaliswa"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "izinqunu zami"
+    },
+    {
+      "surface": "חלחלה",
+      "gloss": "ukudideka"
+    },
+    {
+      "surface": "צירים",
+      "gloss": "izinzwa"
+    },
+    {
+      "surface": "אחזוני",
+      "gloss": "zangibamba"
+    },
+    {
+      "surface": "כצירי",
+      "gloss": "njengezinzwa"
+    },
+    {
+      "surface": "יולדה",
+      "gloss": "zomfazi ozalayo"
+    },
+    {
+      "surface": "נעויתי",
+      "gloss": "ngadideka"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ngokuzwa"
+    },
+    {
+      "surface": "נבהלתי",
+      "gloss": "ngaphaphazeka"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ngokubona"
+    }
+  ],
+  "timestamp": "2026-08-31T04:22:25.620764241Z",
+  "model": "glm-5.3"
+}

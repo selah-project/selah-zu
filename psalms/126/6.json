@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 126:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 126,
+  "translation": "Ehamba uya­hamba elila, ethwala isiqedo sezimbewu ezithunyiweyo; uza kubuya ngekuhlabelela, ethwala izigquthu zakhe.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "uyahamba"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "elila"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ethwala"
+    },
+    {
+      "surface": "משך",
+      "gloss": "isiqedo sezimbewu"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "ezithunyiweyo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "uza kubuya"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ngokuza"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ngekuhlabelela"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ethwala"
+    },
+    {
+      "surface": "אלמתיו",
+      "gloss": "izigquthu zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:36.519089451Z",
+  "model": "glm-5.3"
+}

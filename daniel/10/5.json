@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 10:5",
+  "book": "daniel",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "NgiPhakamisa amehlo ami ⟨את⟩ ngiBona futhi bheka, umuntu oyedwa ogqoke izinembe zebhande, ubambo lwakhe luxhonxiswe ngegolide ye-Uphazi.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ngiPhakamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amehlo ami"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo ami"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ngiBona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "oyedwa"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "ogqoke"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "izinembe zebhande"
+    },
+    {
+      "surface": "ומתניו",
+      "gloss": "ubambo lwakhe"
+    },
+    {
+      "surface": "חגרים",
+      "gloss": "luxhonxiswe"
+    },
+    {
+      "surface": "בכתם",
+      "gloss": "ngegolide"
+    },
+    {
+      "surface": "אופז",
+      "gloss": "ye-Uphazi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:05:45.266991168Z",
+  "model": "glm-5.3"
+}

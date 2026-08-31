@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 80:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 80,
+  "translation": "Makube isandla sakho phezu komuntu wasokudla sakho, phezu komntwana womuntu oqinisile wena ngokwakho.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "makube"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "komuntu"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "wasokudla sakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "komntwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "womuntu"
+    },
+    {
+      "surface": "אמצת",
+      "gloss": "oqinisile"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena ngokwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:18.484054137Z",
+  "model": "glm-5.3"
+}

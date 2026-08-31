@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Isihlangu sami siku⟨kho⟩ uElohim, umsindisi weziqotho entliziyweni.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "isihlangu sami"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "umsindisi"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "weziqotho"
+    },
+    {
+      "surface": "לב",
+      "gloss": "entliziyweni"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:31.336474956Z",
+  "model": "glm-5.3"
+}

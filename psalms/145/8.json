@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 145:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 145,
+  "translation": "Umnene onesihawu ⟨ngu⟩uYahwe, ḥanun⟨ḥanun⟩ — correction: uhamba ngokunesabho ngolaka, enekhesedi elikhulu.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Umnene"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "onesihawu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "uhamba ngokinesabho"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ngolaka"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ene"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "khesedi elikhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:13.024235886Z",
+  "model": "glm-5.3"
+}

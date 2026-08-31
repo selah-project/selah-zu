@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 18:3",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "U-Ahab, inkosi yakwa-Israyeli, wathi kuYehoshafati, inkosi yakwaYuda: Uzuhamba nami uye e-Ramotothi-Giligadi? Wathi kuyena: Njengami, ungathi wena; njengabantu bakho, abantu bami; futhi ngikuthi empi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "u-Ahab"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yakwa-Israyeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "uYehoshafati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yakwaYuda"
+    },
+    {
+      "surface": "התלך",
+      "gloss": "uzuhamba"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "nami"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "iRamotothi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Giligadi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "njengami"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ungathi wena"
+    },
+    {
+      "surface": "וכעמך",
+      "gloss": "njengabantu bakho"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bami"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "nabantu bakho"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "empi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:38:08.684328024Z",
+  "model": "glm-5.3"
+}

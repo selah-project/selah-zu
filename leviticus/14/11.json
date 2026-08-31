@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 14:11",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi umprisi ohlanzisa uzomisa ⟨את⟩ indoda ehlanziswa ⟨את⟩ ndawonye nazo zonke izinto, phambi kukaYahwe, emnyango wetenti yokuhlangana.",
+  "tokens": [
+    {
+      "surface": "והעמיד",
+      "gloss": "futhi uzomisa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umprisi"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "ohlanzisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indoda ehlanziswa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "ehlanziswa"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "⟨את⟩ ndawonye nazo",
+      "marks": "izinto zonke (zonke izinto)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ukaYahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wetenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuhlangana"
+    }
+  ],
+  "timestamp": "2026-08-31T01:56:48.192440219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 118,
+  "translation": "Amandla ami nedumo nguYah, futhi waba yisiphephelo sami.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "amandla ami"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "nedumo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "nguYah"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "futhi waba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yimi"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "isiphephelo sami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:40.412190613Z",
+  "model": "glm-5.3"
+}

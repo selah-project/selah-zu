@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 37:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "futhi iIsrayeli wayemthanda ⟨את⟩ uYosefu ngaphezu kwawo wonke amadodana akhe, ngokuba yena wayengumyeni wokugugela kwakhe; wamzenzela ingubo enamabala.",
+  "tokens": [
+    {
+      "surface": "וישראל",
+      "gloss": "futhi iIsrayeli"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "wayemthanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngaphezu kwawo wonke"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "amadodana akhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umyeni"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "wokugugela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwakhe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "wamzenzela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "m"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ingubo"
+    },
+    {
+      "surface": "פסים",
+      "gloss": "enamabala"
+    }
+  ],
+  "timestamp": "2026-08-31T01:19:30.184443211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 145,
+  "translation": "uYahwe ⟨uyathanda⟩ ⟨okuhle⟩ kuwo wonke, nezinceku zakhe ezithambileyo phezu kwazo zonke izenzo zakhe.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "⟨okuhle⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuwo wonke"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "nezinceku zakhe ezithambileyo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "izenzo zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:31.743670995Z",
+  "model": "glm-5.3"
+}

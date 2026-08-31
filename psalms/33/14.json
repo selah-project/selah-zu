@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 33:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Endaweni yokuhlala kwakhe wabheka ngokucophelela kuwo wonke abahlali bomhlaba.",
+  "tokens": [
+    {
+      "surface": "ממכון",
+      "gloss": "Endaweni"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "yokuhlala kwakhe"
+    },
+    {
+      "surface": "השגיח",
+      "gloss": "wabheka ngokucophelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bomhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:52.421325644Z",
+  "model": "glm-5.3"
+}

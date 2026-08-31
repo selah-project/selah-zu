@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngaleso sikhathi inkosi yaphakamisa uShadraki, uMeyishaki no-Avedi-Nego ezweni lashele iBhabheli.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Ngaleso sikhathi"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "yaphakamisa"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "uShadraki"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "uMeyishaki"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "no-"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "u-Avedi-Nego"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "iBhabheli"
+    }
+  ],
+  "timestamp": "2026-08-31T08:01:08.250014825Z",
+  "model": "glm-5.3"
+}

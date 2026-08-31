@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 10:5",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Zimile njengomshini wezinga okubekiwe ngesandla, kodwa azikhulumi; kumelwe zithwalwe, ngoba azihambi. Musani ukuzesaba lawo, ngoba aziyonakalisa, futhi nokwenza okuhle akukho ⟨את⟩ kuzo.",
+  "tokens": [
+    {
+      "surface": "כתמר",
+      "gloss": "njengomshini wezinga"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "okubekiwe ngesandla"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa cha"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "azikhulumi"
+    },
+    {
+      "surface": "נשוא",
+      "gloss": "ukuthwalwa"
+    },
+    {
+      "surface": "ינשוא",
+      "gloss": "kumelwe zithwalwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "יצעדו",
+      "gloss": "azihambi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musani"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ukuzesaba"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "lawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "aziyonakalisa"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "futhi no-"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "ukwenza okuhle"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "izithombe (kuzo)"
+    }
+  ],
+  "timestamp": "2026-08-31T04:42:25.224343797Z",
+  "model": "glm-5.3"
+}

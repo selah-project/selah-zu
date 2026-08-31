@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 48:11",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 48,
+  "translation": "Ngenxa yami, ngenxa yami ngizokwenza, ngoba indumiso yami ingachithwa kanjani? Futhi ikhavodi yami angeyi omunye angeyinike.",
+  "tokens": [
+    {
+      "surface": "למעני",
+      "gloss": "ngenxa yami"
+    },
+    {
+      "surface": "למעני",
+      "gloss": "ngenxa yami"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ngizokwenza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kanjani"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "ingachithwa"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "futhi ikhavodi yami"
+    },
+    {
+      "surface": "לאחר",
+      "gloss": "omunye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ange-"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "angeyinike"
+    }
+  ],
+  "timestamp": "2026-08-31T04:31:16.927152244Z",
+  "model": "glm-5.3"
+}

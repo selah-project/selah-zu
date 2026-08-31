@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 58,
+  "translation": "Kumconishi ⟨wezinsizwa⟩: ungabhubhisi; ingoma kaDavide, umkhombotho.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumconishi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungabhubhisi ⟨wezinsizwa⟩"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": ""
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "umkhombotho"
+    }
+  ],
+  "timestamp": "2026-08-31T09:47:13.414904876Z",
+  "model": "glm-5.3"
+}

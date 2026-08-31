@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi abantwana baka-Aharon umpristi bayabeka umlilo e-ialtari, baza belungelela izinkuni phezu komlilo.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "bayabeka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "baka-Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ialtari"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "belungelela"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "izinkuni"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "האש",
+      "gloss": "komlilo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:50:33.445735094Z",
+  "model": "glm-5.3"
+}

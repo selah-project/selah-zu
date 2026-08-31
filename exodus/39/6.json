@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 39:6",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Bazenza ⟨את⟩ amatshe o-shohamu, ajikelezweizinhlaka zegolide, ahlaziywe ngokuhlaziya kwenkomba, ngamagama amadodana ka-Israyeli.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Bazenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatshe o-shohamu"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "amatshe"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "o-shohamu"
+    },
+    {
+      "surface": "מסבת",
+      "gloss": "ajikelezwe"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "izinhlaka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zegolide"
+    },
+    {
+      "surface": "מפתחת",
+      "gloss": "ahlaziywe"
+    },
+    {
+      "surface": "פתוחי",
+      "gloss": "ngokuhlaziya"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "kwenkomba"
+    },
+    {
+      "surface": "על",
+      "gloss": "nga"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T01:47:10.093616330Z",
+  "model": "glm-5.3"
+}

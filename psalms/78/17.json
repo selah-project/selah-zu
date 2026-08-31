@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 78:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Bayengeza-ke futhi ukona kuyena, ukuzama ukumelana no-Elyoni esiveni esomileyo.",
+  "tokens": [
+    {
+      "surface": "ויוסיפו",
+      "gloss": "bayengeza-ke futhi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "ukona"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "למרות",
+      "gloss": "ukuzama ukumelana"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "no-Elyoni"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "esiveni esomileyo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:26.679401183Z",
+  "model": "glm-5.3"
+}

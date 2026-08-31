@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 3:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Sukuma, uYahwe; nsindisa, uElohim wami; ngoba ushaye ⟨את⟩ bonke abangihlayizi ehlombe, amazinyo abangcolile uwabhidlize.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Sukuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "nsindisa"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "ushaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonke abangihlayizi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "abangihlayizi"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "ehlombe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "amazinyo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abangcolile"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "uwabhidlize"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:07.110529209Z",
+  "model": "glm-5.3"
+}

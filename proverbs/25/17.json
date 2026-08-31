@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 25:17",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Yenza ibhozo lenyawo yakho ⟨ezindlini⟩ zomhlobo wakho, ukuze angagcwalisi ngawe, aze akukhanyele.",
+  "tokens": [
+    {
+      "surface": "הקר",
+      "gloss": "yenza ibhozo (wenza into ibe ngenani\/ibibalise)"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "inyawo yakho"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ezindlini zomhlobo wakho"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "umhlobo wakho"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ukuze angeke"
+    },
+    {
+      "surface": "ישבעך",
+      "gloss": "angagcwalisi ngawe"
+    },
+    {
+      "surface": "ושנאך",
+      "gloss": "aze akukhanyele"
+    }
+  ],
+  "timestamp": "2026-08-31T07:01:53.729526138Z",
+  "model": "glm-5.3"
+}

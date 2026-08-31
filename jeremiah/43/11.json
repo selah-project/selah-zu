@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 43:11",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "Ayofika, ashaye ⟨את⟩ izwe laseMitsrayim: abekelwe ukufa — ukufa; abekelwe ukubanjwa — ukubanjwa; abekelwe inkemba — inkemba.",
+  "tokens": [
+    {
+      "surface": "ובאה",
+      "gloss": "ayofika"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "ashaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwe laseMitsrayim"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abekelwe"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ukufa"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ukufa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "abekelwe"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "ukubanjwa"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "ukubanjwa"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "abekelwe"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "inkemba"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "inkemba"
+    }
+  ],
+  "timestamp": "2026-08-31T04:59:10.577908096Z",
+  "model": "glm-5.3"
+}

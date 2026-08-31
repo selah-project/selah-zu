@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Wazigeza ngengolide ehlanzekileyo, wazenzele isibopho segolide jikelele.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "wazigeza ngo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "itafula (ngolide)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ehlanzekileyo"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wazenzele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "iwona"
+    },
+    {
+      "surface": "זר",
+      "gloss": "isibopho"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "segolide"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "jikelele"
+    }
+  ],
+  "timestamp": "2026-08-31T01:45:47.238200832Z",
+  "model": "glm-5.3"
+}

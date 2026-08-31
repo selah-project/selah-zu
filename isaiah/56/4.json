@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 56:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 56,
+  "translation": "Ngoba njalo usho uYahwe kubageshwa abagcina ⟨את⟩ izinsabatha zami, bakhethe okuthandwa yimi, futhi bambelele ebsungulweni bami:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "כה",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "usho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לסריסים",
+      "gloss": "kubageshwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "abagcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinsabatha zami"
+    },
+    {
+      "surface": "שבתותי",
+      "gloss": "izinsabatha zami"
+    },
+    {
+      "surface": "ובחרו",
+      "gloss": "bakhethe"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "oku-"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "thandwa yimi"
+    },
+    {
+      "surface": "ומחזיקים",
+      "gloss": "futhi bambelele"
+    },
+    {
+      "surface": "בבריתי",
+      "gloss": "ebsungulweni bami"
+    }
+  ],
+  "timestamp": "2026-08-31T04:35:02.177629357Z",
+  "model": "glm-5.3"
+}

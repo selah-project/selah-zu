@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Kukhona isizukulwane esisola uyise, futhi ⟨את⟩ unina awusibelekeli.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "isizukulwane"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "esisola"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "unina"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "unina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awusibelekeli"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "sibelekela"
+    }
+  ],
+  "timestamp": "2026-08-31T07:02:58.847593851Z",
+  "model": "glm-5.3"
+}

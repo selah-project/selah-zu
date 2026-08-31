@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 139:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 139,
+  "translation": "Ngokuba wena wangidala izinso zami, wangihlanganisa esiswini sikanina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "קנית",
+      "gloss": "wangidala"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "izinso zami"
+    },
+    {
+      "surface": "תסכני",
+      "gloss": "wangihlanganisa"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "esiswini"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "sikanina"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:08.346322897Z",
+  "model": "glm-5.3"
+}

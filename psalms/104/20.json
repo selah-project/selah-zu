@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 104,
+  "translation": "Uyabeka ubumnyama, kubuye kubusuku; kubusuku kuzula zonke izilwane zasehlathini.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "Uyabeka"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ubumnyama"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kubuye kubusuku"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "kubusuku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kubusuku"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "kuzula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "izilwane"
+    },
+    {
+      "surface": "יער",
+      "gloss": "zasehlathini"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:29.522168278Z",
+  "model": "glm-5.3"
+}

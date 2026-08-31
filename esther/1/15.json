@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 1:15",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngokomthetho, ⟨kufanele⟩ yenziwa ini ⟨ku⟩inkosikazi uVashti, ngoba yalenga ukwenza ⟨את⟩ umyalo wenkosi u-Achashverosh owawusetjhini ⟨abahlanzi⟩?",
+  "tokens": [
+    {
+      "surface": "כדת",
+      "gloss": "ngokomthetho"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yenziwa"
+    },
+    {
+      "surface": "במלכה",
+      "gloss": "inkosikazi"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "uVashti"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "lalunga"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umyalo"
+    },
+    {
+      "surface": "מאמר",
+      "gloss": "umyalo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "u-Achashverosh"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "etjhini"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "abahlanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T11:45:27.284599102Z",
+  "model": "glm-5.3"
+}

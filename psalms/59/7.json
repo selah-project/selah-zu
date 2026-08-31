@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 59,
+  "translation": "Babuyela ebusuku, bephaphazela njenginja, futhi bizophenduka-endaweni zizungeza idolobha.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "babuyela"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "bephaphazela"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "njenginja"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "futhi bazungeza"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "idolobha"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:06.595595363Z",
+  "model": "glm-5.3"
+}

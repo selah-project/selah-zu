@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 45:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Ngiyokukhumbulisa igama lakho kuzo zonke izizukulwana nezizukulwana; ngakho-ke izizwe ziyokudumisa kuze kube phakade nanamhla lanxa.",
+  "tokens": [
+    {
+      "surface": "אזכירה",
+      "gloss": "ngiyokukhumbulisa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "דר",
+      "gloss": "izizukulwana"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nezizukulwana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ke"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "יהודך",
+      "gloss": "ziyokudumisa"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nanamhla lanxa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:56.208606975Z",
+  "model": "glm-5.3"
+}

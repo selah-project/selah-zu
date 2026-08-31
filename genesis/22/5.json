@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 22:5",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "ULeast u-Avraham wathi kwizinsizwa zakhe: Hlalani lapha ngehhashi; mina nentombazana-⟨umfana⟩ siyozunguza siye kuleyo ndawo, sizakhuleka, sibuye kini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "izinsizwa zakhe"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Hlalani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "פה",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "gehhashi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "והנער",
+      "gloss": "nomfana"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "siyozunguza"
+    },
+    {
+      "surface": "עד",
+      "gloss": "siye"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kuleyo ndawo"
+    },
+    {
+      "surface": "ונשתחוה",
+      "gloss": "sizakhuleka"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "sibuye"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-08-31T11:05:06.480292265Z",
+  "model": "glm-5.3"
+}

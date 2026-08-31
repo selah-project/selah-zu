@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Izindlela zakho, uYahwe, ngazisaze; lindlela zakho ngifundise.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Izindlela zakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "ngazisaze"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "lindlela zakho"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ngifundise"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:44.642131838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Laba yizingane zikaGileadi: u-Iyezeri, umndeni wama-Iyezeri; uHeleki, umndeni wamaHeleki.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Laba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "izingane zika"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Gileadi"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "u-Iyezeri"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umndeni"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "wama-Iyezeri"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "uHeleki"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umndeni"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "wamaHeleki"
+    }
+  ],
+  "timestamp": "2026-08-31T02:23:40.498132884Z",
+  "model": "glm-5.3"
+}

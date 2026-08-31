@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Bengani ukuqaphela ukwenza njengokuba uYahwe uElohim wenu aninike ⟨את⟩ enu; ungaphenduki kwesokudla nangesokunxele.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "Bengani"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukuqaphela ukwenza"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokuba"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "aninike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "enu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "phenduki"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "kwesokudla"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "nangesokunxele"
+    }
+  ],
+  "timestamp": "2026-08-31T02:32:10.714566305Z",
+  "model": "glm-5.3"
+}

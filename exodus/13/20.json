@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 13:20",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Bahamba esuka eSukothi, bahlala bendawo yobuwashi eEthamu, ekugcineni kwehlathini.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Bahamba esuka"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "eSukothi"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "bahlala bendawo yobuwashi"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "eEthamu"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "ekugcineni"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "kwehlathini"
+    }
+  ],
+  "timestamp": "2026-08-31T01:33:41.489975911Z",
+  "model": "glm-5.3"
+}

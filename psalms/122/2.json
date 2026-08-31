@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 122,
+  "translation": "Izinyawo zethu zigcine zimi ⟨ngempela⟩ emasangweni akho, iYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "zigcine zimi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "Izinyawo zethu"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "emasangweni akho"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:24.740097712Z",
+  "model": "glm-5.3"
+}

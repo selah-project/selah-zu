@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 51,
+  "translation": "Ngokuba awufuni iskelo, bengingazinike; ungamukelelanga isielo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "funi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "iskelo"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "bengingazinike"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "isielo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungamukelelanga"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ungamukelelanga"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:08.958701309Z",
+  "model": "glm-5.3"
+}

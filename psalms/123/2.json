@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 123:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 123,
+  "translation": "Bheka, njengemeqo abahlweli abhele isandla sezibamba-zabo, njengemeqo impahla-yomuzi ibhele isandla senkosikazi-yayo, njengalo nekhanda amehlo ethu abhele kuYahwe uElohim wethu, kuze kube asisize.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "njengemeqo"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "abahlweli (abahlwel' abansundu)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "abhele"
+    },
+    {
+      "surface": "יד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "אדוניהם",
+      "gloss": "sezibamba-zabo (iziphathimandla-zabo)"
+    },
+    {
+      "surface": "כעיני",
+      "gloss": "njengemeqo"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "impahla-yomuzi (akhonjwayomuzi)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ibhele"
+    },
+    {
+      "surface": "יד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "senkosikazi-yayo (somuzi-wakhe)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njengalo"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "amehlo ethu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "abhele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "שיחננו",
+      "gloss": "asisize"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:26.355586606Z",
+  "model": "glm-5.3"
+}

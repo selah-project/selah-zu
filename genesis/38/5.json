@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Yafutha ⟨futha⟩ wazala indodana, wambiza ngegama lakhe uShela; wayeseKhezibi lapho emzala. ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "wafaka futha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwafutha"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lakhe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "uShela"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "wayese"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "eKhezibi"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "lapho emzala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T10:10:58.664383194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 10:5",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Kulaba zahlukana iziqhingi zezizwe emazweni azo, umuntu ngolimi lwakhe, ngokwezindlu zabo, ezizweni zabo.",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "Kulaba"
+    },
+    {
+      "surface": "נפרדו",
+      "gloss": "zahlukana"
+    },
+    {
+      "surface": "איי",
+      "gloss": "iziqhingi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "zezizwe"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "emazweni azo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ללשנו",
+      "gloss": "ngolimi lwakhe"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngokwezindlu zabo"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "ezizweni zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:04:30.655142068Z",
+  "model": "glm-5.3"
+}

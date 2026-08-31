@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "uElohim umahloli olungile, no-El onasatywandwa ngalanga ngalinye.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "umahloli"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "olungile"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no-El"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "onasatywandwa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngalanga ngalinye (ngakho konke)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngalanga ngalinye"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:31.336591740Z",
+  "model": "glm-5.3"
+}

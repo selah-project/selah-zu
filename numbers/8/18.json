@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 8:18",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Bengithatha ⟨את⟩ amaLevi esikhundleni sonke umntwana wokuqalwa wabantwana bakwa-Israyeli.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "bengithatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaLevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "amaLevi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "esikhundleni sa-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "umntwana wokuqalwa"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "wabantwana ba-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kwa-Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T02:13:32.105116660Z",
+  "model": "glm-5.3"
+}

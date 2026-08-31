@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Ocindezela indlala ukuze azithusele, onikela umnika-ugceleyo, uzoza eswedini.",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "ocindezela"
+    },
+    {
+      "surface": "דל",
+      "gloss": "indlala"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "ukuze azithusele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uye"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "onikela"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "umnika-ugceleyo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "eswedini"
+    }
+  ],
+  "timestamp": "2026-08-31T06:58:35.354295119Z",
+  "model": "glm-5.3"
+}

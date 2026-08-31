@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 119:30",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Indlela yokukholwa ngikhethile, izinqumo zakhe ngibekile ⟨phambi kwami⟩.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "yokukholwa"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ngikhethile"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "izinqumo zakhe"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ngibekile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:20.722859116Z",
+  "model": "glm-5.3"
+}

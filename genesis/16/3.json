@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 16:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "USarayi, umkami ka-Avramu, wathatha ⟨את⟩ uHagara iMitsrayimi, isifazane esikhonza, ekupheleni kweminyaka eyishumi u-Avramu ehlela ezweni laseKenaani, wamnikeza ⟨ye⟩ ku-Avramu indoda yakhe, yena aba umkami.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "USarayi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umkami"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ka-Avramu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uHagara"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "uHagara"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "iMitsrayimi"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "isifazane esikhonza"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "eyishumi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kweminyaka"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ehlela"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "u-Avramu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "laseKenaani"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "wamnikeza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ku-Avramu"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "ku-Avramu"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "indoda yakhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "aba umkami"
+    }
+  ],
+  "timestamp": "2026-08-31T01:07:27.953747990Z",
+  "model": "glm-5.3"
+}

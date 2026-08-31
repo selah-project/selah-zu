@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 3:1",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "UMoshe wayelusa ⟨את⟩ izimvu zikaYitro umkhwenywe wakhe, umpristi waseMidiyani; wayesihola ⟨את⟩ izimvu ziyaphesheya kwendlela, wavele wayafika entabeni yuElohim, iHorebe.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "uMoshe wayelusa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wayelusa"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "elusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izimvu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "izimvu"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "zikaYitro"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "umkhwenywe wakhe"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "waseMidiyani"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "wayesihola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izimvu"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "izimvu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ziyaphesheya kwe"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wavele wayafika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ntabeni"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "yuElohim"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "iHorebe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:27:06.945437826Z",
+  "model": "glm-5.3"
+}

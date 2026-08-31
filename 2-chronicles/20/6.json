@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 20:6",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Wathi: uYahwe, uElohim wabokhokho bethu, awuwena yini uElohim osezulwini, wena ulawula zonke izinhlaka zezizwe, esandleni sakho kunamandla namageza, futhi akukho ⟨ozongisela⟩ nawe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wa-"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "bokhokho bethu"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "awu- yini"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "uwena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "osezulwini"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "ulawula"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "z-"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "onke izinhlaka"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "zezizwe"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "esandleni sakho"
+    },
+    {
+      "surface": "כח",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "namageza"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨ozongisela⟩ nawe"
+    },
+    {
+      "surface": "להתיצב",
+      "gloss": "ozongisela"
+    }
+  ],
+  "timestamp": "2026-08-31T10:38:45.993243129Z",
+  "model": "glm-5.3"
+}

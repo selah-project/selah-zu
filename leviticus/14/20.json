@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 14:20",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi umpristi uzonyusa ⟨את⟩ umhlatshelo oshisiwe no⟨את⟩ umnikelo wokudla esivivini, futhi umpristi uzokwenza ukubuyisana ngaye, aze ahlanzwe.",
+  "tokens": [
+    {
+      "surface": "והעלה",
+      "gloss": "futhi uzonyusa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlatshelo oshisiwe"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "umhlatshelo oshisiwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "umnikelo wokudla"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "umnikelo wokudla"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "esivivini"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "futhi uzokwenza ukubuyisana"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ngaye"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "aze ahlanzwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:56:34.103772804Z",
+  "model": "glm-5.3"
+}

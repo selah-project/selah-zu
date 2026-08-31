@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 27:6",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Futhi uzokwenza izingono ze-altari, izingono zezingodo ze-acasia, futhi uzozigqamba ⟨את⟩ ngesimbi ensundu.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "futhi uzokwenza"
+    },
+    {
+      "surface": "בדים",
+      "gloss": "izingono"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "ze-altari"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "izingono"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "zezingodo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ze-acasia"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "futhi uzozigqamba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ukuzigqamba ngesimbi ensundu"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ngesimbi ensundu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:48.593080250Z",
+  "model": "glm-5.3"
+}

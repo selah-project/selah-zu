@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 18:50",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Ngakho-ke ngizokubonga phakathi kwezizwe, uYahwe, futhi egameni lakho ngizocula.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ngaka-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "-ho-ke"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ngizokubonga"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "phakathi kwezizwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ולשמך",
+      "gloss": "futhi egameni lakho"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ngizocula"
+    }
+  ],
+  "timestamp": "2026-08-31T08:51:54.043524190Z",
+  "model": "glm-5.3"
+}

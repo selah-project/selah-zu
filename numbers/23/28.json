@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 23:28",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "IBalaki wathatha ⟨את⟩ uBhilami, wasa phezulu kwePeori, esibhekele ubuso behlane.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "IBalaki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uBhilami"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "uBhilami"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "הפעור",
+      "gloss": "kwePeori"
+    },
+    {
+      "surface": "הנשקף",
+      "gloss": "esibhekele"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "הישימן",
+      "gloss": "behlane"
+    }
+  ],
+  "timestamp": "2026-08-31T02:21:31.700464782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 14:26",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi abantu befika emthini, bheka, uju obugelezayo, kodwa akekho owafikisa isandla sakhe emlonyeni wakhe, ngoba abantu babesaba ⟨את⟩ isifungo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "futhi-bafika"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "היער",
+      "gloss": "umthi-lesikhathi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "obugelezayo"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "uju"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kodwa-akekho"
+    },
+    {
+      "surface": "משיג",
+      "gloss": "owafikisa"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla-sakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "umlomo-wakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "babesaba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isifungo"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "isifungo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:03:31.790207932Z",
+  "model": "glm-5.3"
+}

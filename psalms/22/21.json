@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Khokha inefeshi yami emkhondweni, noma yedwa yami esandleni senja.",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "Khokha"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "emkhondweni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "senja"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "noma yedwa yami"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:38.518439366Z",
+  "model": "glm-5.3"
+}

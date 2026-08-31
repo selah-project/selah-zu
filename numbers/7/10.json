@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 7:10",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi abaholi bazisele ⟨את⟩ isizuko se-altari ngosuku lokugcotshwa kwayo ⟨את⟩ yona; futhi abaholi bazisele ⟨את⟩ umnikelo wabo phambi kwe-altari.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "bazisele"
+    },
+    {
+      "surface": "הנשאים",
+      "gloss": "abaholi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isizuko se-altari"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "isizuko"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "se-altari"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "המשח",
+      "gloss": "lokugcotshwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona",
+      "marks": "i-altari"
+    },
+    {
+      "surface": "ויקריבו",
+      "gloss": "bazisele"
+    },
+    {
+      "surface": "הנשיאם",
+      "gloss": "abaholi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnikelo wabo"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "umnikelo wabo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kwe-altari"
+    }
+  ],
+  "timestamp": "2026-08-31T02:11:52.781415665Z",
+  "model": "glm-5.3"
+}

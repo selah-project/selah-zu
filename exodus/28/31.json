@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Futhi uzokwenza ⟨את⟩ imeyili ye-efodi yonke ngombala oluhlaza-sasibhakabhaka.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "futhi-uzokwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imeyili"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "imeyili"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ye-efodi"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "yonke-ngokuphelele"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ngombala-oluhlaza-sasibhakabhaka"
+    }
+  ],
+  "timestamp": "2026-08-31T01:41:59.621834164Z",
+  "model": "glm-5.3"
+}

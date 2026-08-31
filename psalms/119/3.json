@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Yebo, abenzi bubungozi angezenza lutho, ohamba ezindleleni zakhe;",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Yebo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ange"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "abenzi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ubungozi lutho"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "ohamba ezindleleni zakhe"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "hamba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:51.585472690Z",
+  "model": "glm-5.3"
+}

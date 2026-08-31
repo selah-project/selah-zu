@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 35:15",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Manje, ngesikhathi intukuthelo yakhe ingakazeqedi, futhi enganakile ubukhohwa obukhulu.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngesikhathi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "inga-"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "kazeqedi"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "intukuthelo yakhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi enga-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nakile"
+    },
+    {
+      "surface": "בפש",
+      "gloss": "ubukhohwa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "obukhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T07:27:09.517704577Z",
+  "model": "glm-5.3"
+}

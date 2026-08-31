@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Amazwi kaQohelethi, indodana kaDavide, inkosi eYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Amazwi"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "kaQohelethi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "eYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:57:57.623591919Z",
+  "model": "glm-5.3"
+}

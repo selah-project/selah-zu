@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 19:24",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "uYahwe wathesa phezu kweSodoma nakweGomora isibhamu nomlilo, okuvela ⟨את⟩ kuYahwe, ezulwini.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "המטיר",
+      "gloss": "wathesa"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "kweSodoma"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nakwe"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "Gomora"
+    },
+    {
+      "surface": "גפרית",
+      "gloss": "isibhamu"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "nomlilo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ku-",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "zulwini"
+    }
+  ],
+  "timestamp": "2026-08-31T01:07:47.112464208Z",
+  "model": "glm-5.3"
+}

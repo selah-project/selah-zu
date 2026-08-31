@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Futhi uma beyishayela kuzo, wonke umbandla uzoqoqwa kuwe, esangweni sotende wokuhlangana.",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "uma beyishayela"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "kuzo"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "uzoqoqwa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "umbandla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "sangweni"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "sotende"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wokuhlangana"
+    }
+  ],
+  "timestamp": "2026-08-31T02:13:30.866426587Z",
+  "model": "glm-5.3"
+}

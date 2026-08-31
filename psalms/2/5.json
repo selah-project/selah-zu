@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ngeso sikhathi uzokhuluma kubona enrage yakhe, futhi enrage yakhe enukwatshajweni wakhe uzobasabisa.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ngeso sikhathi"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "uzokhuluma"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "enrage yakhe"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "futhi enukwatshajweni wakhe"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "uzobasabisa"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:50.840853704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 19:10",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Futhi izinto eziphakamisayo zayo zizodindilizwa; bonke abenzi bemali yokusebenza bazoba sedangeni emphefumulweni.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "bazoba"
+    },
+    {
+      "surface": "שתתיה",
+      "gloss": "izinto eziphakamisayo zayo"
+    },
+    {
+      "surface": "מדכאים",
+      "gloss": "zodindilizwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "abenzi"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "bemali yokusebenza"
+    },
+    {
+      "surface": "אגמי",
+      "gloss": "sedangeni"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "emphefumulweni"
+    }
+  ],
+  "timestamp": "2026-08-31T04:21:42.170315534Z",
+  "model": "glm-5.3"
+}

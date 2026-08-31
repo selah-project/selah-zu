@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 54:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 54,
+  "translation": "Bheka, uElohim ⟨ungu⟩umsizi wami; u-Adonayi ulabo abasekelayo inefeshi yami.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "umsizi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "wami"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "בסמכי",
+      "gloss": "ulabo abasekelayo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:07.429822007Z",
+  "model": "glm-5.3"
+}

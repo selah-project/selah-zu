@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 20:7",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Bayekhethela ⟨את⟩ iKhedeshi eGalili, entabeni yeNafithali, futhi ⟨את⟩ iShekhem, entabeni ye-Efrayimu, futhi ⟨את⟩ iKiriath-arba, yona iChevroni, entabeni yeYuda.",
+  "tokens": [
+    {
+      "surface": "ויקדשו",
+      "gloss": "Bayekhethela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKhedeshi"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "iKhedeshi"
+    },
+    {
+      "surface": "בגליל",
+      "gloss": "eGalili"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "yeNafithali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "iShekhem"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "iShekhem"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ye-Efrayimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "iKiriath-arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "iKiriath-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "-arba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "iChevroni"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yeYuda"
+    }
+  ],
+  "timestamp": "2026-08-31T02:59:21.538489665Z",
+  "model": "glm-5.3"
+}

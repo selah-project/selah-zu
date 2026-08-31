@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 17:9",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "futhi engayisela emnyango wetenti yokuhlangana ukuyenziela ⟨את⟩ kuYahwe — lowo mudoda uyokusikiwa ebantwini bakhe.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "futhi engayisela ku-"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wetenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuhlangana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nga- (cha)"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "ayisi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukuyenziela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kuYahwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ונכרת",
+      "gloss": "uyokusikiwa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lowo mudoda"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "מעמיו",
+      "gloss": "ebantwini bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:00:18.809637562Z",
+  "model": "glm-5.3"
+}

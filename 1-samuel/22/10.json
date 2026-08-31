@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 22:10",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Wabuza kuYahwe ⟦ngakhe⟧, wanikeza yena ukudla, futhi wanikeza yena ⟨את⟩ inkemba kaGolyathi uFilishti.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "Wabuza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "וצידה",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wanikeza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inkemba kaGolyathi"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "inkemba"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "kaGolyathi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "uFilishti"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wanikeza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T03:26:02.489445868Z",
+  "model": "glm-5.3"
+}

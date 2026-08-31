@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Futhi eHorebi nanicasule ⟨את⟩ uYahwe, waze wacasuka uYahwe nani ukunibhubhisa ⟨את⟩ nina.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "futhi eHorebi"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "nanicasule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "waze wacasuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "nani"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "ukunibhubhisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    }
+  ],
+  "timestamp": "2026-08-31T02:34:28.098274567Z",
+  "model": "glm-5.3"
+}

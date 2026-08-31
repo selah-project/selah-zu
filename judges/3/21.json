@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 3:21",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Yaze u-Ehudi wakhipha ⟨את⟩ isandla sakhe sobunxele, wathatha ⟨את⟩ inkabi kusilubeni sakhe sokudla, wayichoma esiswini sakhe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wakhipha"
+    },
+    {
+      "surface": "אהוד",
+      "gloss": "u-Ehudi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla"
+    },
+    {
+      "surface": "יד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "שמאלו",
+      "gloss": "sakhe sobunxele"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkabi"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "inkabi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "isilubeni"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "sakhe sokudla"
+    },
+    {
+      "surface": "ויתקעה",
+      "gloss": "wayichoma"
+    },
+    {
+      "surface": "בבטנו",
+      "gloss": "esiswini sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:02:34.592428029Z",
+  "model": "glm-5.3"
+}

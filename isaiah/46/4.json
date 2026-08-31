@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 46:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 46,
+  "translation": "Fino ekugugeni mina yilokhu, kanye ekuthatheni isiphambano mina ngizathwala; mina ngakwenza, futhi mina ngizabekezela, kanyekomana ngizabekezela futhi ngizasindisa.",
+  "tokens": [
+    {
+      "surface": "ועד",
+      "gloss": "Fino e-"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "ekugugeni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilokhu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kanye e-"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "ekuthatheni isiphambano"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "ngizathwala"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ngakwenza"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "futhi mina"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ngizabekezela"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kanyekomana mina"
+    },
+    {
+      "surface": "אסבל",
+      "gloss": "ngizabekezela"
+    },
+    {
+      "surface": "ואמלט",
+      "gloss": "futhi ngizasindisa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:32:27.331464359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 13:13",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Naye uYarobhami wazungezisa ⟨את⟩ indawo yokubetha ngasekhaya ukuze ingene ngemuva kwabo; bayaba phambi kweYehuda, kanti indawo yokubetha ngasekhaya yaba ngemuva kwabo.",
+  "tokens": [
+    {
+      "surface": "וירבעם",
+      "gloss": "Naye uYarobhami"
+    },
+    {
+      "surface": "הסב",
+      "gloss": "wazungezisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indawo yokubetha ngasekhaya"
+    },
+    {
+      "surface": "המארב",
+      "gloss": "indawo yokubetha ngasekhaya"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ukuze ingene"
+    },
+    {
+      "surface": "מאחריהם",
+      "gloss": "ngemuva kwabo"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "bayaba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "iYehuda"
+    },
+    {
+      "surface": "והמארב",
+      "gloss": "kanti indawo yokubetha ngasekhaya"
+    },
+    {
+      "surface": "מאחריהם",
+      "gloss": "ngemuva kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:36:59.489421849Z",
+  "model": "glm-5.3"
+}

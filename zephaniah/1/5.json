@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 1:5",
+  "book": "zephaniah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Naye ⟨את⟩ abakhhothamayo emaphahleni ezindlu kuwotherbhosto wezulu, naye ⟨את⟩ abakhhothamayo abafungisa kuYahwe, nabafungisa nguMalkamu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abakhhothamayo"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "abakhhothamayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "הגגות",
+      "gloss": "amaphahla ezindlu"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "kumbutho"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wezulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abakhhothamayo"
+    },
+    {
+      "surface": "המשתחוים",
+      "gloss": "abakhhothamayo"
+    },
+    {
+      "surface": "הנשבעים",
+      "gloss": "abafungisayo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "והנשבעים",
+      "gloss": "nabafungisayo"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "nguMalkamu"
+    }
+  ],
+  "timestamp": "2026-08-31T05:39:50.895995017Z",
+  "model": "glm-5.3"
+}

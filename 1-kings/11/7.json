@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 11:7",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Ngeso sikathi uShelomoh wasakha indawo yokuphakama yokunqula uKemoshi, isidina sawo wonke ama-Moabu, olwandle olungaseZiqhingini, futhi futhi wakha nokhoMolekhi, isidina sabantwana baseMoni.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ngeso sikathi"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "wasakha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "במה",
+      "gloss": "indawo yokuphakama yokunqula"
+    },
+    {
+      "surface": "לכמוש",
+      "gloss": "ukuze kunqulwe uKemoshi"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "isidina"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "sawo wonke ama-Moabu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "olwandle olungaseZiqhingini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "--"
+    },
+    {
+      "surface": "על",
+      "gloss": "--"
+    },
+    {
+      "surface": "פני",
+      "gloss": "--"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iZiqhingini"
+    },
+    {
+      "surface": "ולמלך",
+      "gloss": "futhi nokhoMolekhi"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "isidina"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "baseMoni"
+    }
+  ],
+  "timestamp": "2026-08-31T03:54:50.973912160Z",
+  "model": "glm-5.3"
+}

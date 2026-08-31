@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 9:9",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Inkosi yabiza uTsiba, isikhonzi sikaShawuli, wayesethi kuye: Konke okwakukhona kokawuShawuli nakokho wonke umuzi wakhe, ngakunika indodana yenkosi yakho.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yabiza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "uTsiba"
+    },
+    {
+      "surface": "נער",
+      "gloss": "isikhonzi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ukaShawuli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesethi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwakukhona"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kwakukhona"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kokawuShawuli"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "nakokho wonke"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "umuzi wakhe"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nganinika"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "indodana yenkosi"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T03:34:35.670760740Z",
+  "model": "glm-5.3"
+}

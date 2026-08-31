@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Nanoma yindoda ngezinto zayo ezingcwele ⟨את⟩ ziya kuba yezakhe; okunoma yini okuyindlela ethile ayinikeza umpriest, kuya kuba yezakhe-umpriest.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "nanoma yindoda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezinto zazo ezingcwele"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "ezinto zayo ezingcwele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ziya kuba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yindoda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ethile"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ayinikeza"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "umpriest"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuya kuba"
+    }
+  ],
+  "timestamp": "2026-08-31T05:59:14.029557218Z",
+  "model": "glm-5.3"
+}

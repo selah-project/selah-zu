@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 102:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 102,
+  "translation": "Wena uzovuka, uzohawukela iZiyoni, ngokuba isikhathi sokuyihlabela umusa sifikile, ngokuba isikhathi esinqunyiwe sifike.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "uzovuka"
+    },
+    {
+      "surface": "תרחם",
+      "gloss": "uzohawukela"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iZiyoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "עת",
+      "gloss": "isikhathi"
+    },
+    {
+      "surface": "לחננה",
+      "gloss": "sokuyihlabela umusa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "בא",
+      "gloss": "sifike"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "isikhathi esinqunyiwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:37.323965631Z",
+  "model": "glm-5.3"
+}

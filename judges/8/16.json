@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 8:16",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Wathatha ⟨את⟩ abadala bedolobha, no⟨את⟩ izithswana zasendle, no⟨את⟩ amacashazana; wabadlulisela ngazo ⟨את⟩ abantu baseSukothi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abadala bedolobha"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abadala"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bedolobha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "izithswana zasendle"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "izithswana"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "zasendle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "amacashazana"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "amacashazana"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "wabadlulisela"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ngazo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu baseSukothi"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "baseSukothi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:06:20.765806852Z",
+  "model": "glm-5.3"
+}

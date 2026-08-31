@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Omulabi ufisa isibambo sabalungabi; kodwa impandeabalungile inikeza ithombo.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "ufisa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "omulabi"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "isibambo"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "sabalungabi"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "kodwa impande"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abalungile"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "inikeza ithombo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:52:18.881209154Z",
+  "model": "glm-5.3"
+}

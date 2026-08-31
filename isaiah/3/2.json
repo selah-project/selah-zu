@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "umqambi-mpi nomuntu wempi, umgwebi nenbhiya, isiboni-moya nomdala —",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "umqambi-mpi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "nomuntu"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "wempi"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "umgwebi"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "nenbhiya"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "isiboni-moya"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "nomdala"
+    }
+  ],
+  "timestamp": "2026-08-31T04:16:39.317426338Z",
+  "model": "glm-5.3"
+}

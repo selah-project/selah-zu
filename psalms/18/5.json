@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Amadayidi okufa angihlanganise, nezinhlanzi zabangela banganisaba.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "anganisahlanganisa"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "amadayidi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "okufa"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "nezinhlanzi"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "zabalaza"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "ziyanisaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:14.866686029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Amazwi omlomo komenziwo buhle anomusa; kepha imilomo yesilima imlaya yena uqobo.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "omlomo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "omenziwo buhle\/ohlekane"
+    },
+    {
+      "surface": "חן",
+      "gloss": "anomusa\/buhle"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "kepha imilomo"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "yesilima"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "imlaya yena"
+    }
+  ],
+  "timestamp": "2026-08-31T07:48:56.173149452Z",
+  "model": "glm-5.3"
+}

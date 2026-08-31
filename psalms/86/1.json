@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 86:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 86,
+  "translation": "IThembiso laseZweni: Isithandwa somculo sikaDavida. Thoba indlebe yakho, Yahwe, ungiphendule, ngoba ngiligwala futhi ngiswela mina.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Isithandwa somculo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "laseZweni sikaDavida"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "Thoba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "indlebe yakho"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ungiphendule"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ngiligwala"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "futhi ngiswela"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:07.336737975Z",
+  "model": "glm-5.3"
+}

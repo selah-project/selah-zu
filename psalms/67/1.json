@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 67:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 67,
+  "translation": "Kumqondisi ngezinsimbi zokucweba. Indumiso, iculo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ngezinsimbi zokucweba"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Indumiso"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "iculo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:44.448358396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "uYahwe uzolwela nina; nina nithule.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "uzolwela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "futhi nina"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "nithule"
+    }
+  ],
+  "timestamp": "2026-08-31T01:33:26.400083275Z",
+  "model": "glm-5.3"
+}

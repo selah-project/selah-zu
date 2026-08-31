@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 21:32",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Uma inkunzi igaxa iziguli noma inzikazi, izokhokha amashekeli angamatshumi amathathu isiliva enkosi yazo, futhi inkunzi izakhelwa amatshe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "iziguli"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "igaxa"
+    },
+    {
+      "surface": "השור",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "inzikazi"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "amatshumi amathathu"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "amashekeli"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "izokhokha"
+    },
+    {
+      "surface": "לאדניו",
+      "gloss": "enkosi yazo"
+    },
+    {
+      "surface": "והשור",
+      "gloss": "futhi inkunzi"
+    },
+    {
+      "surface": "יסקל",
+      "gloss": "izakhelwa amatshe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:58.044047480Z",
+  "model": "glm-5.3"
+}

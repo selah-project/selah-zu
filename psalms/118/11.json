@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 118:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 118,
+  "translation": "Bazungisele, futhi bazungisele; ngegama likaYahwe ngiyozinqamula.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Bazungisele"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "bazungisele"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ngegama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨qa⟩"
+    },
+    {
+      "surface": "אמילם",
+      "gloss": "ngiyozinqamula"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:40.278510843Z",
+  "model": "glm-5.3"
+}

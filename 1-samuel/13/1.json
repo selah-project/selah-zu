@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 13:1",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "UShawuli wayengunyana wonyaka owodwa ebuseni kwakhe, wabusa iminyaka emibili phezu kuka-Israyeli.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "wonyaka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ebuseni kwakhe"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "okwesibili"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iminyaka emibili"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wabusa"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kuka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T10:19:41.848915619Z",
+  "model": "glm-5.3"
+}

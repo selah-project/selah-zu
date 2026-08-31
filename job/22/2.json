@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Ingabe umuntu uzuzisa ⟨ku-⟩El, noma umhlakaniphi uzuzisa yena?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "Ingabe ku-El"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "uzuzisa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "noma"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "uzuzisa"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "umhlakaniphi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:19:36.192007985Z",
+  "model": "glm-5.3"
+}

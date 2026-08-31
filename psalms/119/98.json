@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 98,
+  "ref": "psalms 119:98",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Kusuka ezitheni zakho umyalelo wakho uyingenisa ukuhlakanipha kimi, ngokuba uyami kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "מאיבי",
+      "gloss": "Kusuka ezitheni zakho"
+    },
+    {
+      "surface": "תחכמני",
+      "gloss": "uyingenisa ukuhlakanipha kimi"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "umyalelo wakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "היא",
+      "gloss": "u-"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:31.347501244Z",
+  "model": "glm-5.3"
+}

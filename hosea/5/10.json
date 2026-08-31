@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 5:10",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Abeholi beYuda baba njengabasusabhulukhwe umkhawulo; kubona ngizophulukisa ukhaso lami njengamanzi.",
+  "tokens": [
+    {
+      "surface": "היו",
+      "gloss": "baba"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Abeholi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "beYuda"
+    },
+    {
+      "surface": "כמסיגי",
+      "gloss": "njengabasusabhulukhwe"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "umkhawulo"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "ngizophulukisa"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "njengamanzi"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "ukhaso lami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:13:12.961932839Z",
+  "model": "glm-5.3"
+}

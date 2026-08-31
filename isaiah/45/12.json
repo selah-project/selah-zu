@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 45:12",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Mina ngazenza ⟨את⟩ umhlabathi, nomuntu phezu kwawo ngamdabukisa; mina, izandla zami zatambulisa amazulu, wonke amabutho awo ngawaziwisa.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ngazenza"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlabathi"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "nomuntu"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "phezu kwawo"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "ngamdabukisa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "izandla zami"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "zatambulisa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "amabutho awo"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ngawaziwisa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:31:30.154242347Z",
+  "model": "glm-5.3"
+}

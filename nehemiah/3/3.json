@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 3:3",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi ⟨את⟩ isango lezinhlanzi bayakha amadodana aseSenahe; bona balayela izinti zalo, futhi bahlanganisa amasango alo, izibambo zalo namagwidi alo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isango lezinhlanzi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "isango"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "lezinhlanzi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "bayakha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "aseSenahe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "קרוהו",
+      "gloss": "balayela"
+    },
+    {
+      "surface": "ויעמידו",
+      "gloss": "bahlanganisa"
+    },
+    {
+      "surface": "דלתתיו",
+      "gloss": "amasango alo"
+    },
+    {
+      "surface": "מנעוליו",
+      "gloss": "izibambo zalo"
+    },
+    {
+      "surface": "ובריחיו",
+      "gloss": "namagwidi alo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:14:46.860113228Z",
+  "model": "glm-5.3"
+}

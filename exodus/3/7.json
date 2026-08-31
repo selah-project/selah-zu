@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 3:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi uYahwe wathi: Ngibonile ngempela ⟨את⟩ ukuphazimiseka kobantu bami abaseMitsrayim; futhi ⟨את⟩ ukukhala kwabo ngikuzwile ngenxa yabagcwebuli balo, ngokuba ngiyazi ⟨את⟩ izinhlupho zawo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ngibonile ngempela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuphazimiseka kobantu bami"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ukuphazimiseka"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kobantu bami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "seMitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "ukukhala kwabo"
+    },
+    {
+      "surface": "צעקתם",
+      "gloss": "ukukhala kwabo"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ngikuzwile"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa ya-"
+    },
+    {
+      "surface": "נגשיו",
+      "gloss": "abagcwebuli balo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ngiyazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinhlupho zawo"
+    },
+    {
+      "surface": "מכאביו",
+      "gloss": "izinhlupho zawo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:18.172753928Z",
+  "model": "glm-5.3"
+}

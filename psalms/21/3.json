@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 21:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Isifiso senhliziyo yakhe usinike lona, futhi icelo kamlomo wakhe awuzange uluvimbe. Selah.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Isifiso"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "senhliziyo yakhe"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "usinike"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lona"
+    },
+    {
+      "surface": "וארשת",
+      "gloss": "futhi icelo"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "kamlomo wakhe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "awuzange"
+    },
+    {
+      "surface": "מנעת",
+      "gloss": "uluvimbe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:11.894927861Z",
+  "model": "glm-5.3"
+}

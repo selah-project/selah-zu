@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 11:11",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "uSheymu waphila emva kokuzala ⟨את⟩ u-Arpakshadi iminyaka engamakhulu amahlanu, wazala amadodana namadodakazi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "waphila"
+    },
+    {
+      "surface": "שם",
+      "gloss": "uSheymu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kokuzala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Arpakshadi"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "u-Arpakshadi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "amahlanu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "namadodakazi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:07.902392528Z",
+  "model": "glm-5.3"
+}

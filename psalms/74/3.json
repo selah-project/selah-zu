@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 74:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 74,
+  "translation": "Phakamisa izinyawo zakho ezimphefumlweni zokonakala okungunaphakade; konke okwebi okwenzwe isitha endaweni engcwele.",
+  "tokens": [
+    {
+      "surface": "הרימה",
+      "gloss": "phakamisa"
+    },
+    {
+      "surface": "פעמיך",
+      "gloss": "izinyawo zakho"
+    },
+    {
+      "surface": "למשאות",
+      "gloss": "ezimphefumlweni zokonakala"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "okungunaphakade"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "okwebi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "isitha"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "endaweni engcwele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:10.638918220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 15:11",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "No-Avshalom bahamba amadoda angamakhulu amabili avela eYerushalayimi, abamenyiwe, behamba ngokulula, futhi bengazi lutho konke.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "u-Avshalom"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "bahamba"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "angamakhulu amabili"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "avela eYerushalayimi"
+    },
+    {
+      "surface": "קראים",
+      "gloss": "abamenyiwe"
+    },
+    {
+      "surface": "והלכים",
+      "gloss": "behamba"
+    },
+    {
+      "surface": "לתמם",
+      "gloss": "ngokulula"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi bengazi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bengazi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lutho"
+    }
+  ],
+  "timestamp": "2026-08-31T03:39:52.219839504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 11:8",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi ngacisha ⟨את⟩ abalusi abathathu enyangeni eyodwa; futhi inefeshi yami yacindezeleka ngabo, futhi inefeshi yabo yayizonda mina.",
+  "tokens": [
+    {
+      "surface": "ואכחד",
+      "gloss": "Futhi ngacisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abalusi abathathu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "abathathu"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "abalusi"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "enyangeni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eyodwa"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "futhi yacindezeleka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ngabo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "futhi-ke"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "inefeshi yabo"
+    },
+    {
+      "surface": "בחלה",
+      "gloss": "yayizonda"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mina"
+    }
+  ],
+  "timestamp": "2026-08-31T05:44:48.477930761Z",
+  "model": "glm-5.3"
+}

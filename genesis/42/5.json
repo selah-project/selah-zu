@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 42:5",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Bafika abantwana bakwa-Israyeli ukuthenga okudlayo phakathi kwabafikayo, ngokuthi indlala yayingiseningi ezweni lakwa-Khanani.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Bafika"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ukuthenga okudlayo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "kwabafikayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yayingiseningi ⟨yayingile⟩"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "indlala"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "lakwa-Khanani"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:42.157050068Z",
+  "model": "glm-5.3"
+}

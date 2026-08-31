@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 16:1",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "uYahwe wakhuluma kuMoshe, emva kokufa kwezinsizwa ezimbili zika-Aharoni, ekusondeleni kwabo phambi kukaYahwe, bafa.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva koku-"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "izinsizwa zika-"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharoni"
+    },
+    {
+      "surface": "בקרבתם",
+      "gloss": "ekusondeleni kwabo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "bafa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:00:40.490689009Z",
+  "model": "glm-5.3"
+}

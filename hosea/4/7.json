@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 4:7",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Ngokwanda kwabo kanjalo benza isono kimi; inkazimulo yabo ngiyayiguqula ibe yiswedwa.",
+  "tokens": [
+    {
+      "surface": "כרבם",
+      "gloss": "Ngokwanda kwabo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "benza isono"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "inkazimulo yabo"
+    },
+    {
+      "surface": "בקלון",
+      "gloss": "ibe yiswedwa"
+    },
+    {
+      "surface": "אמיר",
+      "gloss": "ngiyayiguqula"
+    }
+  ],
+  "timestamp": "2026-08-31T05:26:46.036260372Z",
+  "model": "glm-5.3"
+}

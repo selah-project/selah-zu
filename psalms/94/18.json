@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 94,
+  "translation": "Uma ngisho ukuthi unyawo lwami luhlehlile, ikhesedi yakho, uYahwe, lingixhasa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ngisho"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "luhlehlile"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "unyawo lwami"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "lingixhasa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:01.109182261Z",
+  "model": "glm-5.3"
+}

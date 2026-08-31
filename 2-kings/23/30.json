@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 23:30",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Izinceku zakhe zamuka ngendlela efuleywe ngumuntu, efile, eMegido, zamlethela eYerushalayimi zamngcwaba engcwabeni lakhe; futhi abantu bomhlaba bathatha ⟨את⟩ uYehoahazi, indodana kaYehoshiyahu, bamgcoba bammenza inkosi esikhundleni sikayise.",
+  "tokens": [
+    {
+      "surface": "וירכבהו",
+      "gloss": "zamukela ngendlela"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "izinceku zakhe"
+    },
+    {
+      "surface": "מת",
+      "gloss": "efile"
+    },
+    {
+      "surface": "ממגדו",
+      "gloss": "eMegido"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "zamlethela"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "zamngcwaba"
+    },
+    {
+      "surface": "בקברתו",
+      "gloss": "engcwabeni lakhe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "bathatha"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bomhlaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYehoahazi"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "uYehoahazi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "uYehoshiyahu"
+    },
+    {
+      "surface": "וימשחו",
+      "gloss": "bamgcoba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "bammenza inkosi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "esikhundleni sika-"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    }
+  ],
+  "timestamp": "2026-08-31T04:14:06.826272757Z",
+  "model": "glm-5.3"
+}

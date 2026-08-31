@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Kusuka eZiyoni, esiphelele sobuhle, uElohim wakhanya.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "Kusuka eZiyoni"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "esiphelele"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "sobuhle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "wakhanya"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:42.490034353Z",
+  "model": "glm-5.3"
+}

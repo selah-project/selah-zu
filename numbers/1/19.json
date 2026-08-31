@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Njengoba uYahwe wayengumthetho kuMoshe, wanibala endle yaseSinayi.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Njengoba"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayengumthetho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kuMoshe"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "wanibala"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "endle"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "yaseSinayi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:07:28.491194541Z",
+  "model": "glm-5.3"
+}

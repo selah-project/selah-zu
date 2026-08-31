@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 10:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ngaphandle kokuthi baguqe nangeziboshwa, futhi phansi kwabulawe bawe. Nakho konke lokhu ulaka lwakhe alubuyanga, futhi isandla sakhe sisandiwe.",
+  "tokens": [
+    {
+      "surface": "בלתי",
+      "gloss": "ngaphandle kokuthi"
+    },
+    {
+      "surface": "כרע",
+      "gloss": "baguqe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "nange-"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ziboshwa"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "futhi phansi"
+    },
+    {
+      "surface": "הרוגים",
+      "gloss": "kwabulawe"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "bawe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nakho konke"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "שב",
+      "gloss": "alubuyanga"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ulaka lwakhe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "sisandiwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:20:11.490704853Z",
+  "model": "glm-5.3"
+}

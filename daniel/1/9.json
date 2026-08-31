@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 1:9",
+  "book": "daniel",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi uElohim wanikeza ⟨את⟩ uDaniyeli ikhesedi nezihawu phambi kwenduna yezizakhamizi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wanikeza"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDaniyeli"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "uDaniyeli"
+    },
+    {
+      "surface": "לחסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "ולרחמים",
+      "gloss": "nezihawu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "שר",
+      "gloss": "induna"
+    },
+    {
+      "surface": "הסריסים",
+      "gloss": "yezizakhamizi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:57:49.661616105Z",
+  "model": "glm-5.3"
+}

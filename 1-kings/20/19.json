@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 20:19",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Laba baphuma endlini yesigodi — abafana abenkosi zezifunda — nomkhumbi wangemva kwabo.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "laba"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "baphuma"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ndlini yesigodi"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "abafana"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abenkosi"
+    },
+    {
+      "surface": "המדינות",
+      "gloss": "zezifunda"
+    },
+    {
+      "surface": "והחיל",
+      "gloss": "nomkhumbi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "wangemva kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:01:00.426284256Z",
+  "model": "glm-5.3"
+}

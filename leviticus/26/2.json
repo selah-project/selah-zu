@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "⟨את⟩ izinsuku zami zokuphumula niyazigcina, nendawo yami engcwele niyayoyika; nginguYahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinsuku zami zokuphumula"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "izinsuku zami zokuphumula"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "niyazigcina"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "nendawo yami engcwele"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "niyayoyika"
+    },
+    {
+      "surface": "אני",
+      "gloss": "na"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:05:44.599545711Z",
+  "model": "glm-5.3"
+}

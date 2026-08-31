@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Cha, anjalo abelungisileyo; kodwa bafana nomothwa isiphepho esibudlafula.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Cha, a-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "abelungisileyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "bafana nomothwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "budlafula"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "isiphepho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:04.731904563Z",
+  "model": "glm-5.3"
+}

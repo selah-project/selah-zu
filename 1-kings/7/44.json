@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "no⟨את⟩ ulwandle olulodwa, no⟨את⟩ izinkomo ezinye nambili ngaphansi kolwandle,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ulwandle olulodwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "olulodwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izinkomo ezinye nambili"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "izinkomo"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ezinye nambili"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "nambili"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kolwandle"
+    }
+  ],
+  "timestamp": "2026-08-31T03:49:32.233945604Z",
+  "model": "glm-5.3"
+}

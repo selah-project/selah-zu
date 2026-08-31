@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 3:2",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Kodwa umbuso wonke umhlaba: abantu behlisa izinkomo ezigcotshiwe ezindaweni eziphakeme, ngokuba ayikakhwelwa indlu ngegama likaYahwe kuze kufike lezo zinsuku.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "behlisa izinkomo ezigcotshiwe"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ezindaweni eziphakeme"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayikakhona"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "kwakhiwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ngegama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kufike"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "lezo zinsuku"
+    },
+    {
+      "surface": "ההם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-31T10:22:00.472307809Z",
+  "model": "glm-5.3"
+}

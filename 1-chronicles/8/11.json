@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Futhi noHushimi wazala uAbhitubhu no-Eliphali.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "noHushimi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uAbhitubhu"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "uAbhitubhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "u-Eliphali"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "u-Eliphali"
+    }
+  ],
+  "timestamp": "2026-08-31T08:22:12.824002847Z",
+  "model": "glm-5.3"
+}

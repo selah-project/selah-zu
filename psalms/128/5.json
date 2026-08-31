@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 128:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 128,
+  "translation": "uYahwe makusise kusukela eTsiyoni, futhi ubone ⟨ukuhle⟩ kweYerushalayimi zonke izinsuku zokuphila kwakho.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "makusise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "kusukela eTsiyoni"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "futhi ubone"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "⟨ukuhle⟩"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "kweYerushalayimi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "zokuphila kwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:20.767236804Z",
+  "model": "glm-5.3"
+}

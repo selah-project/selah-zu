@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ndodana yami, gcina amazwi ami, imiyalo yami iyifihle ⟨את⟩ kuwe.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ndodana yami"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "gcina"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "amazwi ami"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "imiyalo yami"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "iyifihle"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:49:45.170213286Z",
+  "model": "glm-5.3"
+}

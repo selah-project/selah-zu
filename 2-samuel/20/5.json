@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 20:5",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Wayeseya uAmasha ukubiza ⟨את⟩ iYehuda, kodwa waphuza ngaphezu kwesikhathi esibekiwe okwambekela yona.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wayeseya"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "uAmasha"
+    },
+    {
+      "surface": "להזעיק",
+      "gloss": "ukubiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "iYehuda"
+    },
+    {
+      "surface": "וייחר",
+      "gloss": "kodwa waphuza"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngaphezu kwa-"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "isikhathi esibekiwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwa-"
+    },
+    {
+      "surface": "יעדו",
+      "gloss": "ambekela yona"
+    }
+  ],
+  "timestamp": "2026-08-31T03:43:28.761906889Z",
+  "model": "glm-5.3"
+}

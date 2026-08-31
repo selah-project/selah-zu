@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 74,
+  "translation": "Unganiki inyamazane inefeshi yokhoobe lwakho; ungakhohlwa inyamazane yezimpofu zakho kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Unga"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "niki"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "inyamazane"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "inefeshi"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "yokhoobe lwakho"
+    },
+    {
+      "surface": "חית",
+      "gloss": "inyamazane"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "yezimpofu zakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungakhohlwa"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": ""
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:45.884955910Z",
+  "model": "glm-5.3"
+}

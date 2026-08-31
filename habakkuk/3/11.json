@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 3:11",
+  "book": "habakkuk",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ilanga nenyanga zimi ezindaweni zazo; ekukhanyeni kwemivi yakho zihamba, ekukhanyeni kombane womkhonto wakho.",
+  "tokens": [
+    {
+      "surface": "שמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "nenyanga"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "zimi"
+    },
+    {
+      "surface": "זבלה",
+      "gloss": "ezindaweni zazo"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ekukhanyeni"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "kwemivi yakho"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "zihamba"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "ekukhanyeni"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "ombane"
+    },
+    {
+      "surface": "חניתך",
+      "gloss": "womkhonto wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T05:39:41.922754021Z",
+  "model": "glm-5.3"
+}

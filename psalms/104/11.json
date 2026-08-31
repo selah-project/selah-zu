@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 104,
+  "translation": "Iphisela zonke izilwane zensimi; iziduli zasendle zicekela ukoma kwazo.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "iphisela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "izilwane"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "zensimi"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "zicekela"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "iziduli zasendle"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "ukoma kwazo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:35.301821849Z",
+  "model": "glm-5.3"
+}

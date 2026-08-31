@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 11:3",
+  "book": "daniel",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi izozuma inkosi enamandla, futhi izobusa ubukhosi obukhulu, futhi izokwenza njengokuthandekayo kuyo.",
+  "tokens": [
+    {
+      "surface": "ועמד",
+      "gloss": "Futhi izozuma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "enamandla"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "futhi izobusa"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "ubukhosi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "obukhulu"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "futhi izokwenja"
+    },
+    {
+      "surface": "כרצונו",
+      "gloss": "njengokuthandekayo kuyo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:06:56.793517367Z",
+  "model": "glm-5.3"
+}

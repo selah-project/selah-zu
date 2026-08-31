@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "psalms 119:82",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Amehlo ami ayaphela ngezenzakalo zakho, ngithi: nizuzisa nini?",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "ayaphela"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo ami"
+    },
+    {
+      "surface": "לאמרתך",
+      "gloss": "ngezenzakalo zakho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngithi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nini"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "nizuzisa nini"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:23.863486827Z",
+  "model": "glm-5.3"
+}

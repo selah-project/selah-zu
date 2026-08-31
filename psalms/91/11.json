@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 91:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 91,
+  "translation": "Ngokuba uzakuletha izithunywa zakhe ngawe, ukukugcina ezindleleni zakho zonke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "izithunywa zakhe"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "uzakuletha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "לשמרך",
+      "gloss": "ukukugcina"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ezindleleni zakho zonke"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:38.949516963Z",
+  "model": "glm-5.3"
+}

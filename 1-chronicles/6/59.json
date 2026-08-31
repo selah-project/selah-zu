@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "1-chronicles 6:59",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi kumndeni wesizwe sikaAsheri ⟨את⟩ iMashali nemifula yayo, no⟨את⟩ i-Abdoni nemifula yayo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "futhi kumndeni wesizwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "sikaAsheri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iMashali"
+    },
+    {
+      "surface": "משל",
+      "gloss": "iMashali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "nemifula yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nemifula yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "i-Abdoni"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "i-Abdoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "nemifula yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "nemifula yayo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:21:29.716324488Z",
+  "model": "glm-5.3"
+}

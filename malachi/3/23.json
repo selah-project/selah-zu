@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "malachi 3:23",
+  "book": "malachi",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Bheka, mina ngithumela kuni ⟨את⟩ u-Eliya umprofethi, ngaphambi kokufika kosuku lukauYahwe olukhulu neloyisabekayo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ngithumela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Eliya umprofethi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "u-Eliya"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "umprofethi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ngaphambi"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "kokufika"
+    },
+    {
+      "surface": "יום",
+      "gloss": "osuku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lukauYahwe"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "olukhulu"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "neloyisabekayo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:48.326985965Z",
+  "model": "glm-5.3"
+}

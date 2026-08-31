@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 34:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "UMPhefumulo wakhe wanamathela kuDina indodakazi kaYakobi, wamthanda ⟨את⟩ intombi, wakhuluma ⟨את⟩ entweni yomoya ezweni elizansi, wakhuluma ezinhliziyweni zentombi yakhe.",
+  "tokens": [
+    {
+      "surface": "ותדבק",
+      "gloss": "wanamathela"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "umphefumulo wakhe"
+    },
+    {
+      "surface": "בדינה",
+      "gloss": "kuDina"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kaYakobi"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "wamthanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intombi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "intombi"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "לב",
+      "gloss": "isenhliziyweni"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "yentombi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:18:46.423716884Z",
+  "model": "glm-5.3"
+}

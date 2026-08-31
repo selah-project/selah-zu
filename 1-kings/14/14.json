@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 14:14",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi uYahwe uzovusa kuye inkosi phezu kukaIsrayeli ezosika ⟨את⟩ indlu kaYarobeam lolusuku — futhi yini na, ngisho manje!",
+  "tokens": [
+    {
+      "surface": "והקים",
+      "gloss": "uzovusa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kukaIsrayeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engo"
+    },
+    {
+      "surface": "יכרית",
+      "gloss": "ezosika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu kaYarobeam"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "kaYarobeam"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "futhi yini"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ngisho"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "manje"
+    }
+  ],
+  "timestamp": "2026-08-31T03:59:22.666656876Z",
+  "model": "glm-5.3"
+}

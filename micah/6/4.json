@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 6:4",
+  "book": "micah",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ngokuba ngakukhipha ezweni laseMitsrayim, ngakukhulula endlwini yezigqila, futhi ngathuma ngaphambi kwakho ⟨את⟩ uMoshe, u-Aharon, noMriyamu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "העלתיך",
+      "gloss": "ngakukhipha"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "futhi endlwini"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "yezigqila"
+    },
+    {
+      "surface": "פדיתיך",
+      "gloss": "ngakukhulula"
+    },
+    {
+      "surface": "ואשלח",
+      "gloss": "futhi ngathuma"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ngaphambi kwakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "noMriyamu"
+    }
+  ],
+  "timestamp": "2026-08-31T05:38:31.282239684Z",
+  "model": "glm-5.3"
+}

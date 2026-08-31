@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 16:13",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Ngenxa yazo zonke izono zikaBaasha, nezano zika-Elahi indodana yakhe, lapho beona ngazo, futhi lapho benza u-Israel ⟨את⟩ ononile, ukutyhwesa intukuthelo uYahwe, uElohim ka-Israel, ngamathomba abo amangaki.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "izono"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "zikaBaasha"
+    },
+    {
+      "surface": "וחטאות",
+      "gloss": "nezano"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "zika-Elahi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "beona"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "futhi lapho"
+    },
+    {
+      "surface": "החטיאו",
+      "gloss": "benza ononile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israel"
+    },
+    {
+      "surface": "להכעיס",
+      "gloss": "ukutyhwesa intukuthelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israel"
+    },
+    {
+      "surface": "בהבליהם",
+      "gloss": "ngamathomba abo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:58:27.732493325Z",
+  "model": "glm-5.3"
+}

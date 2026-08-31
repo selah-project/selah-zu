@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 76:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 76,
+  "translation": "Zithembisani nize nizifezekise kuYahwe uElohim wenu; bonke abasondezela eduze kwakhe bazoletha izipho kuWo ⟨okwesabeka⟩.",
+  "tokens": [
+    {
+      "surface": "נדרו",
+      "gloss": "zithembisani"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "nize nizifezekise"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "abasondezela eduze kwakhe"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "bazoletha"
+    },
+    {
+      "surface": "שי",
+      "gloss": "izipho"
+    },
+    {
+      "surface": "למורא",
+      "gloss": "kuWo okwesabeka"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:09.531568991Z",
+  "model": "glm-5.3"
+}

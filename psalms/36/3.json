@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 36:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Ngokuba intshontsho ithambisa kuyena emehlweni akhe, ukuze ububi bakhe budingidwe, abunanyanyelwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "החליק",
+      "gloss": "ithambisa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "emehlweni akhe"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ukuze ... budingidwe"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ububi bakhe"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "abunanyanyelwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:16.674491535Z",
+  "model": "glm-5.3"
+}

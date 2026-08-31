@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 8:5",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "I-igile lakho, iShomeroni, liyekile; inyongo yami ivuthwe kubo; kuze kube nini ngeke bakwazi ukungcola?",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "liyekile"
+    },
+    {
+      "surface": "עגלך",
+      "gloss": "i-igile lakho"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "iShomeroni"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ivuthwe"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "inyongo yami"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "bakwazi"
+    },
+    {
+      "surface": "נקין",
+      "gloss": "ukungcola"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:32.551975977Z",
+  "model": "glm-5.3"
+}

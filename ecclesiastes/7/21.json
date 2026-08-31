@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Nakuba kuzo zonke izinto abazikhulumayo, ungaziniki inhliziyo yakho, ukuze ungazwanga ⟨את⟩ isikhonzi sakho esikukhuluma kabi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nakuba"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "izinto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "abazikhulumayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "uzinike"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "inhliziyo yakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungazwanga"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "uzwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isikhonzi sakho"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "isikhonzi sakho"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "esikukhuluma kabi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:47:40.705925546Z",
+  "model": "glm-5.3"
+}

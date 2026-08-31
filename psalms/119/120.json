@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 120,
+  "ref": "psalms 119:120",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Inyama yami iyaminyana ngaphambi kokwesaba kwakho, futhi ngiyasaba izinqumo zakho.",
+  "tokens": [
+    {
+      "surface": "סמר",
+      "gloss": "iyaminyana"
+    },
+    {
+      "surface": "מפחדך",
+      "gloss": "ngaphambi kokwesaba kwakho"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "inyama yami"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "futhi izinqumo zakho"
+    },
+    {
+      "surface": "יראתי",
+      "gloss": "ngiyasaba"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:32.223897480Z",
+  "model": "glm-5.3"
+}

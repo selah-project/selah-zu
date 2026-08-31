@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 9:15",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Futhi abaqhubi balesi sigodi bayadukisa, futhi abaqhubiwe bapheliswa.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "Futhi ba-"
+    },
+    {
+      "surface": "מאשרי",
+      "gloss": "abaqhubi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "balesi sigodi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "מתעים",
+      "gloss": "bayadukisa"
+    },
+    {
+      "surface": "ומאשריו",
+      "gloss": "futhi abaqhubiwe"
+    },
+    {
+      "surface": "מבלעים",
+      "gloss": "bapheliswa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:19:34.799687971Z",
+  "model": "glm-5.3"
+}

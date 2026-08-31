@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 125,
+  "ref": "psalms 119:125",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Umkhonzi wakho mina; ngiphe ukuqonda, ukuze ngazi iziqiniseko zakho.",
+  "tokens": [
+    {
+      "surface": "עבדך",
+      "gloss": "Umkhonzi wakho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "ngiphe ukuqonda"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "ukuze ngazi"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "isiqiniseko sakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:14.780295605Z",
+  "model": "glm-5.3"
+}

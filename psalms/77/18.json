@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 77:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 77,
+  "translation": "Amafu achithe amanzi; izulu lanikeza izwi; yebo, izimbolo zakho zihamba",
+  "tokens": [
+    {
+      "surface": "זרמו",
+      "gloss": "achithe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "amafu"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "lanikeza"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "izulu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "yebo"
+    },
+    {
+      "surface": "חצציך",
+      "gloss": "izimbolo zakho"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "zihamba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:36.459699940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Uma unikela umfuyane wakho isikweletu samayini-noma-yini, ungangi ⟨ngena⟩ endlini yakhe ukuyokuthatha isiguqo sakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "unikela isikweletu"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "umfuyane wakho"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "isikweletu"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "samayini-noma-yini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungangi"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "⟨ngena⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "endlini yakhe"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "ukuthatha isiguqo"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "isiguqo sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:00:43.862453130Z",
+  "model": "glm-5.3"
+}

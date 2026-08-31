@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 121,
+  "translation": "Angavumeli unyaweni lwakhe ukuhluleka; umgcini wakhe akanantsomi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Anga-"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "vumeli"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "ukuhluleka"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "unyaweni lwakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "a-"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "nantsomi"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "umgcini wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:18.363408892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Wathi: Yenzekela iKhenana isiqalekiso; lowomsebenzi wabasebenzi uzoba yingxenye yezalwane zakhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "isiqalekiso"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "iKhenana"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "lowomsebenzi"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "wabasebenzi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uzoba"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "yingxenye yezalwane zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:03:17.770807275Z",
+  "model": "glm-5.3"
+}

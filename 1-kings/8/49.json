@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-kings 8:49",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "uzwe ezulwini, indawo yokuhlala kwakho, ⟨את⟩ umthandazo wabo no⟨את⟩ isicelo sabo, wenze isahlukaniso sabo.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "uzwe"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "indawo yokuhlala"
+    },
+    {
+      "surface": "שבתך",
+      "gloss": "kwakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umthandazo wabo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "umthandazo wabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "isicelo sabo"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "isicelo sabo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "isahlukaniso sabo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:52:01.404380354Z",
+  "model": "glm-5.3"
+}

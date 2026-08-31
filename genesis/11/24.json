@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "UNakhori waphila iminyaka enguishayilolunye nangamashumi amabili ngesishiyagalolunye, wazala ⟨את⟩ uTarachi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "waphila"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "UNakhori"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "nesishiyagalolunye"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "namashumi amabili"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uTarachi"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "uTarachi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:54:35.004369750Z",
+  "model": "glm-5.3"
+}

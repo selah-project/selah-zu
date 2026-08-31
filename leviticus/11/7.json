@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "No-⟨את⟩ i-chazir, ngoba uqanda uphawu lenyawo, futhi ushicilela umqobo uphawu lenyawo, kodwa i-gerah ayiyiphakamisi — ngokungcola ungcwele yena kini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "i-chazir"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "i-chazir"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "uqanda"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "uphawu lenyawo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "futhi ushicilela"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "umqobo"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "uphawu lenyawo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "kodwa yena"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "i-gerah"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi-"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "phakamisi"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ungcwele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-08-31T01:54:23.029172311Z",
+  "model": "glm-5.3"
+}

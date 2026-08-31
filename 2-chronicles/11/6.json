@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Wakha ⟨את⟩ uBheyith-Lekhem no⟨את⟩ u-Eytamu no⟨את⟩ uThokowa.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uBheyith-Lekhem"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uBheyith-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lekhem"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "u-Eytamu"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "u-Eytamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uThokowa"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "uThokowa"
+    }
+  ],
+  "timestamp": "2026-08-31T08:34:13.268220509Z",
+  "model": "glm-5.3"
+}

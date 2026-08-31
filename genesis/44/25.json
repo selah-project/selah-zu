@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Uyihlo wethu wathi: Phindani, sithengeleni kancane ukudla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "uyihlo wethu"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Phindani"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "sithengeleni"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kancane"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ukudla"
+    }
+  ],
+  "timestamp": "2026-08-31T01:23:36.102693800Z",
+  "model": "glm-5.3"
+}

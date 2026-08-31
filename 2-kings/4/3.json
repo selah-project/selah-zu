@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "WATHI: Hamba,cela ngokwakho izitsha ngaphandle, ⟨את⟩ kubona bonke abakhelene nawe — izitsha ezingenalutho; unganciphisi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "cela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ngokwakho"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "izitsha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "abakhelene nawe bonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "abakhelene nawe"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "izitsha"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "ezingenalutho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "nciphisi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:05:02.320090303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi ngesinye isandla sikaYahwe sasibona phezu kwabo ukubachitha phakathi kokwelashwa, kuze kwaphela bonke.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Futhi ngesinye isandla"
+    },
+    {
+      "surface": "יד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "sasibona"
+    },
+    {
+      "surface": "בם",
+      "gloss": "phezu kwabo"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "ukubachitha"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kokwelashwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "kwaphela bonke"
+    }
+  ],
+  "timestamp": "2026-08-31T02:29:39.045265297Z",
+  "model": "glm-5.3"
+}

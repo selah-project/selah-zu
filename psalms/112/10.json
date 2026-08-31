@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 112:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 112,
+  "translation": "Umubi uyobona, azisusele; amazinyo akhe uyokleklisa, adideka; isifiso sababi siyochithwa.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Umubi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "uyobona"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "azisusele"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "amazinyo akhe"
+    },
+    {
+      "surface": "יחרק",
+      "gloss": "uyokleklisa"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "adideka"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "isifiso"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sababi"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "siyochithwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:35.722118192Z",
+  "model": "glm-5.3"
+}

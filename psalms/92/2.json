@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 92,
+  "translation": "Kuhle ukubonga uYahwe, nokucula indumiso ngeligama lakho, Elyoni.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kuhle"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "ukubonga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ולזמר",
+      "gloss": "nokucula indumiso"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "ngeligama lakho"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Elyoni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:24.650622579Z",
+  "model": "glm-5.3"
+}

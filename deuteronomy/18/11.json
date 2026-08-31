@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 18:11",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Nobopha izibopho, nobuza ithonga nolwazi okufihlakele, nocela kubafileyo.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "Nobopha"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "izibopho"
+    },
+    {
+      "surface": "ושאל",
+      "gloss": "nobuza"
+    },
+    {
+      "surface": "אוב",
+      "gloss": "ithonga"
+    },
+    {
+      "surface": "וידעני",
+      "gloss": "nolwazi okufihlakele"
+    },
+    {
+      "surface": "ודרש",
+      "gloss": "nocela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "abafileyo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:39:36.560473187Z",
+  "model": "glm-5.3"
+}

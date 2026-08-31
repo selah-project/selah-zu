@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 139,
+  "ref": "psalms 119:139",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Izela yami indicibile, ngoba izitha zami zikhohliwe amazwi akho.",
+  "tokens": [
+    {
+      "surface": "צמתתני",
+      "gloss": "indicibile"
+    },
+    {
+      "surface": "קנאתי",
+      "gloss": "Izela yami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "zikhohliwe"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "amazwi akho"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "izitha zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:56.058116925Z",
+  "model": "glm-5.3"
+}

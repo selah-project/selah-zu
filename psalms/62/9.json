@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 62:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 62,
+  "translation": "Thembeni kuyena ngaso sonke isikhathi, hini bantu, chithani izinhliziyo zenu phambi kwakhe; uElohim ⟨uyi⟩siphephelo sethu. Selah.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "Thembeni"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngaso sonke"
+    },
+    {
+      "surface": "עת",
+      "gloss": "isikhathi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "hini bantu"
+    },
+    {
+      "surface": "שפכו",
+      "gloss": "chithani"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "izinhliziyo zenu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "isiphephelo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sethu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:02.329582359Z",
+  "model": "glm-5.3"
+}

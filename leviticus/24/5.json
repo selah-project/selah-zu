@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Futhi uzothatha ubhungu, ubhake ⟨את⟩ izinkwa eziyishumi nambili; isithuba ezimbili kuyoba yikhekhe elilodwa.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "futhi uzothatha"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ubhungu"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "ubhake"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "izinkwa eziyishumi nambili"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ishumi"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "izinkwa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "izithuba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuyoba yi-"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "ikhekhe"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "elilodwa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:04:00.862635198Z",
+  "model": "glm-5.3"
+}

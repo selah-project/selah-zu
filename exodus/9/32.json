@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ukhoti nekusila aziwashaywanga, ngoba zisengakakhuli.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "ukhoti"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "nekusila"
+    },
+    {
+      "surface": "לא",
+      "gloss": "azi-"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "washaywanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אפילות",
+      "gloss": "zisengakakhuli"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "zi-"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:52.755304542Z",
+  "model": "glm-5.3"
+}

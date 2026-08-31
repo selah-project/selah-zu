@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 62:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 62,
+  "translation": "Ngesiqiniso, ngokwedukisa kwakhe bacebise ukumbethisa phansi; bayathanda amanga, ngomlomo wabo bayabusisa, kodwa esifubeni sabo bayiqalekisa. Selah.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ngesiqiniso"
+    },
+    {
+      "surface": "משאתו",
+      "gloss": "ngokwedukisa kwakhe"
+    },
+    {
+      "surface": "יעצו",
+      "gloss": "bacebise"
+    },
+    {
+      "surface": "להדיח",
+      "gloss": "ukumbethisa phansi"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "bayathanda"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "amanga"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ngomlomo wakhe"
+    },
+    {
+      "surface": "יברכו",
+      "gloss": "bayabusisa"
+    },
+    {
+      "surface": "ובקרבם",
+      "gloss": "kodwa esifubeni sabo"
+    },
+    {
+      "surface": "יקללו",
+      "gloss": "bayiqalekisa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:56.643227570Z",
+  "model": "glm-5.3"
+}

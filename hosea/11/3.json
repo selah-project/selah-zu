@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 11:3",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi mina ngayifundisa iEfuremu ukuhamba, ngibambelela ngezandla zabo, kepha abazange bazi ukuthi mina ngabaphilisa.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Futhi mina"
+    },
+    {
+      "surface": "תרגלתי",
+      "gloss": "ngayifundisa ukuhamba"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "iEfuremu"
+    },
+    {
+      "surface": "קחם",
+      "gloss": "ngibambelela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "זרועתיו",
+      "gloss": "izandla zabo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kepha abazange"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "רפאתים",
+      "gloss": "ngabaphilisa"
+    }
+  ],
+  "timestamp": "2026-08-31T05:28:55.400407842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 90,
+  "translation": "Ngaphambi kokuba izintaba zazalwa, nangaphambi kokuba uzala umhlaba nomhlaba-jikelele, kusukela kudala kuze kube phakade wena⟨ungu⟩-El.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "ngaphambi kokuba"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "izintaba"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "zazalwa"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "uzala"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "nomhlaba-jikelele"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "kusukela kudala"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:58.497442949Z",
+  "model": "glm-5.3"
+}

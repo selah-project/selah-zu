@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 25:55",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Ngokuba kimi abantwana bakaYisrayeli izinceku; izinceku zami yibo engikhishile ⟨את⟩ bona emhlabeni waseMitsrayim; nginguYahwe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaYisrayeli"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "izinceku"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "izinceku zami"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yibo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lezo"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "engikhishile"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bona (abantwana bakaYisrayeli)"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "waseMitsrayim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:04:50.111448036Z",
+  "model": "glm-5.3"
+}

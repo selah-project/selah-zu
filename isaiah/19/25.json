@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 19:25",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "okuyilowo uYahwe wamabutho ambhekisile ngokuthi: Siyabhekiswa abantu bami iMitsrayim, nomsebenzi wezandla zami iAshuru, nefa lami uIsrayeli.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "okuyilowo"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "ambhekisile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamabutho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Siyabhekiswa"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bami"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "nomsebenzi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "wezandla zami"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "iAshuru"
+    },
+    {
+      "surface": "ונחלתי",
+      "gloss": "nefa lami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T04:20:45.729559428Z",
+  "model": "glm-5.3"
+}

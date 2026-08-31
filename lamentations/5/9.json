@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Ngemiphefumelo yethu sihlanganisa isinkwa sethu, ngenxa yomkhondo wentabane.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "ngemiphefumelo yethu"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "sihlanganisa"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "isinkwa sethu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa ye-"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "umkhondo"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "wentabane"
+    }
+  ],
+  "timestamp": "2026-08-31T07:43:27.202272924Z",
+  "model": "glm-5.3"
+}

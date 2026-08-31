@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "futhi ngizobhala emawebhuni ⟨את⟩ amazwi ayebekho emawebhuni okuqala owawabhida, uwabekhe esiphahleni.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "futhi ngizobhala"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "kwamawebhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazwi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwaku"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ayebekho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "kwamawebhu"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "okuqala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owawu"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "wabhida"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "futhi uwabekhe"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "esiphahleni"
+    }
+  ],
+  "timestamp": "2026-08-31T02:34:28.345808476Z",
+  "model": "glm-5.3"
+}

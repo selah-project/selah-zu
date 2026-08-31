@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 5:5",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Wayesephitha uParo: Bhekani, maningi manje abantu bemhlaba, ningabashiyelela ⟨את⟩ kumthwalo wabo omkhulu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesephitha"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bhekani"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "maningi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "emhlaba"
+    },
+    {
+      "surface": "והשבתם",
+      "gloss": "ningabashiyelela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "abantu (kumthwalo wabo omkhulu)"
+    },
+    {
+      "surface": "מסבלתם",
+      "gloss": "kumthwalo wabo omkhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:11:50.515420530Z",
+  "model": "glm-5.3"
+}

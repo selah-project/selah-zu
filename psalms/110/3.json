@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 110:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 110,
+  "translation": "Abantu bakho bazozinikela ngokwabo osukwini lwamandla akho, ezinhlelweni zokhokho; kusukela esibelekweni sekusasa, kwakulwe ilanga lethu lokhokho olungajabulileyo.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "נדבת",
+      "gloss": "bazozinikela ngokwabo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "osukwini"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "lwamandla akho"
+    },
+    {
+      "surface": "בהדרי",
+      "gloss": "ezinhlelweni"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "zokhokho"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "kusukela esibelekweni"
+    },
+    {
+      "surface": "משחר",
+      "gloss": "isekuseni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kwakulwe"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "lokukhokho kwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:50.044266294Z",
+  "model": "glm-5.3"
+}

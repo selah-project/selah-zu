@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Indlela yabo ibe yubumnyama nobushelelezi, nengelosi kaYahwe ibalandela.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "indlela yabo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ubumnyama"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "nobushelelezi"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "nengelosi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "ibalandela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:59.034850619Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 63,
+  "translation": "Inkondlo kaDawidi, ngesikhathi esendleweni leYehuda.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Inkondlo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDawidi"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "ngesikhathi eses"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "endleweni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "leYehuda"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:52.981408693Z",
+  "model": "glm-5.3"
+}

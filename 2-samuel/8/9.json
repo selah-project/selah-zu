@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Futhi uThou inkosi yaseChamathi wazwa ukuthi uDavide washaya ⟨את⟩ wonke amabutho kaHadadezer.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wazwa"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "uThou"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "yaseChamathi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "washaya"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke amabutho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "amabutho"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "kaHadadezer"
+    }
+  ],
+  "timestamp": "2026-08-31T03:34:08.169945847Z",
+  "model": "glm-5.3"
+}

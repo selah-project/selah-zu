@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Ikherubi elilodwa ngale ngesiphetho, nelilodwa ikherubi ngale ngesiphetho; e-isifihlo-sona wakha ⟨את⟩ amakherubi ezikweni zombili zaso.",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "Ikherubi elilodwa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ngesiphetho"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ngale"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "nelilodwa ikherubi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ngesiphetho"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ngale"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "isifihlo-sona"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amakherubi"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "amakherubi"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ezikweni zombili"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "zaso"
+    }
+  ],
+  "timestamp": "2026-08-31T01:45:50.479590504Z",
+  "model": "glm-5.3"
+}

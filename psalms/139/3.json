@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 139:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 139,
+  "translation": "Indlela yami nokulala kwami uyihlwaya, futhi wonke amaqhaza ami uwazi kahle.",
+  "tokens": [
+    {
+      "surface": "ארחי",
+      "gloss": "indlela yami"
+    },
+    {
+      "surface": "ורבעי",
+      "gloss": "nokulala kwami"
+    },
+    {
+      "surface": "זרית",
+      "gloss": "uyihlwaya"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "futhi wonke"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "amaqhaza ami"
+    },
+    {
+      "surface": "הסכנתה",
+      "gloss": "uwazi kahle"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:42.189609327Z",
+  "model": "glm-5.3"
+}

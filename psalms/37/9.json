@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 37:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Ngokuba abenzi bokubi bazosikeka phansi, kepha abalindele uYahwe, ngabo bazoyifa ⟨umhlaba⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "abenzi bokubi"
+    },
+    {
+      "surface": "יכרתון",
+      "gloss": "bazosikeka phansi"
+    },
+    {
+      "surface": "וקוי",
+      "gloss": "abalindele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ngabo"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "bazoyifa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:52.885994372Z",
+  "model": "glm-5.3"
+}

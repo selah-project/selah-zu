@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 94,
+  "translation": "Ubusisiwe lowo muntu omqeqeshayo, wena uYah, futhi omfundisa ngomthetho wakho.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ubusisiwe"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "lowo muntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "mqeqeshayo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "futhi ngomthetho wakho"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "omfundisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:41.669363490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 94:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 94,
+  "translation": "Eziningeni zezindinga zami ngaphakathi kwami, izinkonzweni zakho zidumisa inefeshi yami.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "Eziningeni"
+    },
+    {
+      "surface": "שרעפי",
+      "gloss": "zezindinga zami"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ngaphakathi kwami"
+    },
+    {
+      "surface": "תנחומיך",
+      "gloss": "izinkonzweni zakho"
+    },
+    {
+      "surface": "ישעשעו",
+      "gloss": "zidumisa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:01.109319930Z",
+  "model": "glm-5.3"
+}

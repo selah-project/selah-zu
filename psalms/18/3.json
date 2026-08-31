@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 18:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "uYahwe indwenge yami, nesibaya sami, nesiphephelo sami; u-Eloah wami, idwala lami, ngiyakhuleleka kulo; isihlangu sami, nenkuni yesindiso yami, indawo yami ephezulu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "indwenge yami"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "nesibaya sami"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "nesiphephelo sami"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "u-Eloah wami"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "idwala lami"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ngiyakhuleleka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kulo"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "isihlangu sami"
+    },
+    {
+      "surface": "וקרן",
+      "gloss": "nenkuni yesindiso"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "yesindiso yami"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "indawo yami ephezulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:21.677992523Z",
+  "model": "glm-5.3"
+}

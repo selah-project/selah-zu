@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "uElohim wayenyukela kuyena, endaweni lapho wayekhuluma ⟨את⟩-naye khona.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wayenyukela"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wayekhuluma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-naye",
+      "marks": "naye (uYaaqov)"
+    }
+  ],
+  "timestamp": "2026-08-31T10:10:48.809083962Z",
+  "model": "glm-5.3"
+}

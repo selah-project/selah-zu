@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "wayibulala; futhi uMoshe wachitha ⟨את⟩ igazi phezulu kombhede, emzileni wonke.",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "wayibulala"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "wachitha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igazi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "igazi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kombhede"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "emzileni wonke"
+    }
+  ],
+  "timestamp": "2026-08-31T05:57:46.157914991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "uYahwe wakhuluma kuMoshe ⟨ukuthi⟩",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ukuthi⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:44.972994343Z",
+  "model": "glm-5.3"
+}

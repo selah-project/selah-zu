@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 8:19",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Isithelo sami singcono kunesigolide, kunesigolide eqotho; futhi inzuzo yami ingcono kunensimbi ekhethekile.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ingcono"
+    },
+    {
+      "surface": "פריי",
+      "gloss": "isithelo sami"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "kunesigolide"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "kunesigolide eqotho"
+    },
+    {
+      "surface": "ותבואתי",
+      "gloss": "futhi inzuzo yami"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "kunensimbi"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "ekhethekile"
+    }
+  ],
+  "timestamp": "2026-08-31T08:55:50.404272484Z",
+  "model": "glm-5.3"
+}

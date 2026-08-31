@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 13:12",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Futhi uDavide wayesaba ⟨את⟩ uElohim ngalolo suku, esithi: Ngingangena kanjani kimina ⟨את⟩ aroni kaElohim?",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "wayesaba"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalolo suku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lalolo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "היך",
+      "gloss": "kanjani"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ngingangena"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "aroni kaElohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kaElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T08:24:17.595644496Z",
+  "model": "glm-5.3"
+}

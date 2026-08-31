@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 150,
+  "ref": "psalms 119:150",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Besondela abalandelayo bebula ngenhlekelele; bephakeme kude nomthetho wakho.",
+  "tokens": [
+    {
+      "surface": "קרבו",
+      "gloss": "besondela"
+    },
+    {
+      "surface": "רדפי",
+      "gloss": "abalandelayo"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "bebula ngenhlekelele"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "kude nomthetho wakho"
+    },
+    {
+      "surface": "רחקו",
+      "gloss": "bephakeme kude"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:58.360371147Z",
+  "model": "glm-5.3"
+}

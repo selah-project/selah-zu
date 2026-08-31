@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Saba yizinsizwa ezinganina, ⟨asinalo⟩ uyihlo; oonyoko bethu bafana nabafelokazi abantu basekhaya.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "izinsizwa ezinganina"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "saba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "asinalo"
+    },
+    {
+      "surface": "אב",
+      "gloss": "uyihlo"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "oonyoko bethu"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "bafana nabafelokazi abantu basekhaya"
+    }
+  ],
+  "timestamp": "2026-08-31T07:45:43.750043474Z",
+  "model": "glm-5.3"
+}

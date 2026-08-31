@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 40:10",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Futhi uzogcoba ⟨את⟩ i-altare yezinhlawulo ezishiswa kanye ⟨את⟩ wonke izinto zayo, uyenze ngcwele i-altare, futhi i-altare izokhanyiswa ibe ingcwele engcwele kunawo wonke (kodesh kadashim).",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "uzogcoba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-altare"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yezinhlawulo ezishiswa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kanye ⟨את⟩",
+      "marks": "wonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "izinto zayo"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "uyenze ngcwele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-altare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "izokhanyiswa ibe"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ingcwele"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "engcwele kunawo wonke (kodesh kadashim)"
+    }
+  ],
+  "timestamp": "2026-08-31T01:49:56.220579477Z",
+  "model": "glm-5.3"
+}

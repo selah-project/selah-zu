@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "U-Yoktani wazala ⟨את⟩ i-Almodadi ⟨את⟩ no-Shelefi ⟨את⟩ no-Hatsaramavethi ⟨את⟩ no-Yerahi.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "U-Yoktani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-Almodadi"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "i-Almodadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "no-Shelefi"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "no-Shelefi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "no-Hatsaramavethi"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "no-Hatsaramavethi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "no-Yerahi"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "no-Yerahi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:15.361815225Z",
+  "model": "glm-5.3"
+}

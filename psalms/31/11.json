@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 31:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Ngokuba impilo yami iphelelile ⟨ngokudangele⟩, iminyaka yami ngokukhalazela; amandla ami aqhamuke ngena yami, amathambo ami anciphe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "iphelelile"
+    },
+    {
+      "surface": "ביגון",
+      "gloss": "ngokudangele"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "impilo yami"
+    },
+    {
+      "surface": "ושנותי",
+      "gloss": "iminyaka yami"
+    },
+    {
+      "surface": "באנחה",
+      "gloss": "ngokukhalazela"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "aqhamuke"
+    },
+    {
+      "surface": "בעוני",
+      "gloss": "ngena yami"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "amandla ami"
+    },
+    {
+      "surface": "ועצמי",
+      "gloss": "amathambo ami"
+    },
+    {
+      "surface": "עששו",
+      "gloss": "anciphe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:36.553459407Z",
+  "model": "glm-5.3"
+}

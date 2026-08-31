@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Amatshe esihahamu, namatshe okusethwa, wo-i-efodi nase-chosheni;",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "amatshe"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "esihahamu"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "namatshe"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "okusethwa"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "wo-i-efodi"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "nase-chosheni"
+    }
+  ],
+  "timestamp": "2026-08-31T10:12:22.355205056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "UHaranu wafa ebusweni bukaTerahi uyise, ezweni lwakhe lokubelethelwa, eBhabhuloni yaseKashidi.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "wafa"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "uHaranu"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ebusweni"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "bukaTerahi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "lokubelethelwa kwakhe"
+    },
+    {
+      "surface": "באור",
+      "gloss": "eBhabhuloni"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "yaseKashidi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:08.480358903Z",
+  "model": "glm-5.3"
+}

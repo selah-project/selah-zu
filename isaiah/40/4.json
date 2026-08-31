@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 40:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Wonke igodi lizukusiwa, futhi yonke intaba nophahla zokhishwa phansi; futhi kuzoba okweqhosha ngokuqondileyo, futhi izindawo ezinzima zibe yindawo ethe phansi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Wonke"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "igodi"
+    },
+    {
+      "surface": "ינשא",
+      "gloss": "lizukusiwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "futhi yonke"
+    },
+    {
+      "surface": "הר",
+      "gloss": "intaba"
+    },
+    {
+      "surface": "וגבעה",
+      "gloss": "nophahla"
+    },
+    {
+      "surface": "ישפלו",
+      "gloss": "zokhishwa phansi"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "futhi kuzoba"
+    },
+    {
+      "surface": "העקב",
+      "gloss": "okweqhosha"
+    },
+    {
+      "surface": "למישור",
+      "gloss": "ngokuqondileyo"
+    },
+    {
+      "surface": "והרכסים",
+      "gloss": "futhi izindawo ezinzima"
+    },
+    {
+      "surface": "לבקעה",
+      "gloss": "zibe yindawo ethe phansi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:30:34.957465530Z",
+  "model": "glm-5.3"
+}

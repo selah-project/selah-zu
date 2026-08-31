@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 4:2",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "KWASEKUTHI u-Elisha athe kuyena: Ngizenzeni wena? Tshela mina: unani ekhaya? Yathi yena: Alikho ilutho elisendlini yezigqaza zakho, ngaphandle komsaka wolamula.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "kwasekuthi... athe"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "u-Elisha"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni-"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ngizenzeni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "tshela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni-"
+    },
+    {
+      "surface": "יש",
+      "gloss": "unani"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "kwakho"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ekhaya"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "yathi yena"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alikho ilutho"
+    },
+    {
+      "surface": "לשפחתך",
+      "gloss": "ezigqaza zakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "esendlini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kwe-"
+    },
+    {
+      "surface": "אסוך",
+      "gloss": "umsaka wolamula"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "olamula"
+    }
+  ],
+  "timestamp": "2026-08-31T04:05:02.319838365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 23:9",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "futhi uYahwe wakhuluma kuMoshe ⟨ukuthi⟩",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ukuthi⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T10:53:10.288405056Z",
+  "model": "glm-5.3"
+}

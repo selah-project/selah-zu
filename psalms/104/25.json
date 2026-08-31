@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 104,
+  "translation": "Lapha ugwala, omkhulu nojananga ngezandla; kikhona okunyakazayo engenabinombolo, izidalwa eziphilayo ezincane kanye nezinkulu.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Lapha"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ugwala"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "omkhulu"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "nojananga"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ngezandla"
+    },
+    {
+      "surface": "שם",
+      "gloss": "kikhona"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "okunyakazayo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "engenabinombolo"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "inombolo"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "izidalwa eziphilayo"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "ezincane"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanye"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "nezinkulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:40.728503922Z",
+  "model": "glm-5.3"
+}

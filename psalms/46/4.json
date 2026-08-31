@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 46:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 46,
+  "translation": "Amanya lawo ayaduma, ayashisa futhi ayagcwala impumputhu, izintaba zizamazama ngokukhukumala kwawo. Selahi",
+  "tokens": [
+    {
+      "surface": "יהמו",
+      "gloss": "ayaduma"
+    },
+    {
+      "surface": "יחמרו",
+      "gloss": "ayashisa futhi ayagcwala impumputhu"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "Amanya lawo"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "zizamazama"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "izintaba"
+    },
+    {
+      "surface": "בגאותו",
+      "gloss": "ngokukhukumala kwawo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:05.578348893Z",
+  "model": "glm-5.3"
+}

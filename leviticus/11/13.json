@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 11:13",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi lezi nizozithuka kwezinyoni: azidliwe, yizinto ezithukwayo: ⟨את⟩ iNkankala, no⟨את⟩ iPeresi, no⟨את⟩ iAziniya;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "lezi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "nizozithuka"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwe"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ezinyoni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "azi-"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "dliwe"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "izinto ezithukwayo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "zi-"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iNkankala"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "iNkankala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iPeresi"
+    },
+    {
+      "surface": "הפרס",
+      "gloss": "iPeresi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iAziniya"
+    },
+    {
+      "surface": "העזניה",
+      "gloss": "iAziniya"
+    }
+  ],
+  "timestamp": "2026-08-31T01:53:38.026688356Z",
+  "model": "glm-5.3"
+}

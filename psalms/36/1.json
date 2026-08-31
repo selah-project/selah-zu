@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Kumkhuleli, ngesikhonzi sikaYahwe, ngoDavide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumkhuleli"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ngesikhonzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ngoDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:16.674050311Z",
+  "model": "glm-5.3"
+}

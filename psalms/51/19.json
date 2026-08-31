@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 51:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 51,
+  "translation": "Izinkonzo ezuncishwe zika-Elohim ⟨izingoni: umoya⟩; inhliziyo ephukile necindilewe, u-Elohim, awuzukungabazi.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "izinkonzo ezuncishwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ka-Elohim"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "ophukile"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "ephukile"
+    },
+    {
+      "surface": "ונדכה",
+      "gloss": "necindilewe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awuz"
+    },
+    {
+      "surface": "תבזה",
+      "gloss": "ukungabazi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:54.882392633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "neKholoni nemiyebo yayo, neDhebhiri nemiyebo yayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iKholoni"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "iKholoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imiyebo yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nemiyebo yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iDhebhiri"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "iDhebhiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imiyebo yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nemiyebo yayo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:58:01.242785149Z",
+  "model": "glm-5.3"
+}

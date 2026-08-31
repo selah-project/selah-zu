@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 11:10",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "UMoshe wasizwa ⟨את⟩ abantu belila ngezindlu zabo zokuzalwa, umuntu ngamunye emnyango wetenti yakhe; futhi inzinya kaYahwe yashesha kakhulu, futhi emehlweni kaMoshe kwaba okubi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wasizwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "belila"
+    },
+    {
+      "surface": "למשפחתיו",
+      "gloss": "ngezindlu zabo zokuzalwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu ngamunye"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "wetenti yakhe"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "yashesha"
+    },
+    {
+      "surface": "אף",
+      "gloss": "inzinya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "futhi emehlweni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kaMoshe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwaba okubi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:15:37.754470089Z",
+  "model": "glm-5.3"
+}

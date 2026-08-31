@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 11:11",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi ziyoba isiphambeko kuni; enyameni yazo aniyukudla, futhi ⟨את⟩ izidumbu zazo niyazibeka njengesiphambeko.",
+  "tokens": [
+    {
+      "surface": "ושקץ",
+      "gloss": "futhi isiphambeko"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ziyoba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "מבשרם",
+      "gloss": "enyameni yazo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aniyu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "kudla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izidumbu zazo"
+    },
+    {
+      "surface": "נבלתם",
+      "gloss": "izidumbu zazo"
+    },
+    {
+      "surface": "תשקצו",
+      "gloss": "niyazibeka njengesiphambeko"
+    }
+  ],
+  "timestamp": "2026-08-31T01:53:47.630164166Z",
+  "model": "glm-5.3"
+}

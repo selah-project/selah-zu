@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 14:18",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Inkosi yaphendula yathi kuleso mfazi: \"Ungafihli, ngingiyicela, kumina into engiyibuza ⟨את⟩ kuwe.\" Umfazi wathi: \"Makhulunke ngingiyicela iNkosi yakho, inkosi.\"",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yaphendula"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungafihli"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngingiyicela"
+    },
+    {
+      "surface": "תכחדי",
+      "gloss": "ufihle"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kumina"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "into"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engiyibuza"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ngibuza"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "into (ε-object)"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "makhulunke"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngingiyicela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "iNkosi yakho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:41:12.228822499Z",
+  "model": "glm-5.3"
+}

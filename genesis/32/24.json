@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 32:24",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Wathatha wona, wabadlulisa ⟨את⟩ umfula, wadlulisa ⟨את⟩ konke okwayakhe.",
+  "tokens": [
+    {
+      "surface": "ויקחם",
+      "gloss": "wathatha wona"
+    },
+    {
+      "surface": "ויעברם",
+      "gloss": "wabadlulisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfula"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "umfula"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "wadlulisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke okwayakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ok"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    }
+  ],
+  "timestamp": "2026-08-31T01:16:19.407578049Z",
+  "model": "glm-5.3"
+}

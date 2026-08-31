@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 21:32",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "UMoshe wathuma ⟨abahloli⟩ ukuba bahlole ⟨את⟩ iYaazer; bathatha imizana yayo, bahlakaza ⟨את⟩ amaEmori ayelapho.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathuma"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לרגל",
+      "gloss": "ukuba bahlole"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYaazer"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "iYaazer"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "bathatha"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "imizana yayo"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "bahlakaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaEmori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amaEmori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aye-"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    }
+  ],
+  "timestamp": "2026-08-31T02:19:59.699130231Z",
+  "model": "glm-5.3"
+}

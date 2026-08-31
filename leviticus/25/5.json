@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 25:5",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "⟨את⟩ imithombo yesitsha sakho ngeyokhotha ngeyokhotha uyakhiqiza ungayivuni, ⟨futhi⟩ ⟨את⟩ amatamatisi avela emanzini angaziqoqi, isikhathi sokuphumula sonke kuvunwe iminyaka engu-7 umhlaba uyophumula.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imithombo yesitsha sakho"
+    },
+    {
+      "surface": "ספיח",
+      "gloss": "okhulayo ngokwaso"
+    },
+    {
+      "surface": "קצירך",
+      "gloss": "yesitsha sakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungavi"
+    },
+    {
+      "surface": "תקצור",
+      "gloss": "ungayivuni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨futhi⟩ ⟨את⟩",
+      "marks": "amatamatisi ezivini zakho ezingaphathwanga"
+    },
+    {
+      "surface": "ענבי",
+      "gloss": "amatamatisi"
+    },
+    {
+      "surface": "נזירך",
+      "gloss": "ezivini zakho ezingaphathwanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungavi"
+    },
+    {
+      "surface": "תבצור",
+      "gloss": "ungawaqoqi"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "unyaka"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "wokuphumula okuphelele"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uyoba"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "omhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T02:04:19.822941480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 97,
+  "translation": "Umlilo uyaqamba phambi kwakhe, futhi utshisa izitha zakhe ezizonqenile.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Umlilo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "uyaqamba"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "futhi utshisa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ezizonqenile"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "izitha zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:35.237748565Z",
+  "model": "glm-5.3"
+}

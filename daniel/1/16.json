@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 1:16",
+  "book": "daniel",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Umelaphi wabe esethatha ⟨את⟩ isidlo sabo newayini okwakhiwa abaphuzwayo, wanikeza izitshalo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wabe ese"
+    },
+    {
+      "surface": "המלצר",
+      "gloss": "umelaphi"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isidlo sabo"
+    },
+    {
+      "surface": "פתבגם",
+      "gloss": "isidlo sabo"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "newayini"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "okwakhiwa abaphuzwayo"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "wanikeza"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    },
+    {
+      "surface": "זרענים",
+      "gloss": "izitshalo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:54:25.721194630Z",
+  "model": "glm-5.3"
+}

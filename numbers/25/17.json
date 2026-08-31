@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Bazinzanisani ⟨את⟩ abaMidiyani, nibeshaya ⟨את⟩ bona.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "Bazinzanisani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaMidiyani"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "abaMidiyani"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "nibeshaya"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bona"
+    }
+  ],
+  "timestamp": "2026-08-31T02:21:20.981798567Z",
+  "model": "glm-5.3"
+}

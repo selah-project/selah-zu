@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 22:5",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Kodwa uma ningawazwa lawa mazwi ⟨את⟩, ngaye ngifunge, kusho uYahwe, lokhu leli ndlu lizoba yintandane.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kodwa uma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ningawazwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazwi (lawa mazwi)"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "lawo mazwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lawa"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngaye"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ngifunge"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kusho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "yintandane"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lizoba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "leli ndlu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    }
+  ],
+  "timestamp": "2026-08-31T10:26:14.040758893Z",
+  "model": "glm-5.3"
+}

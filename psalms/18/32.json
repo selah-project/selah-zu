@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Ngokuba ngubani u-Eloah ngaphandle kukaYahwe? Futhi ngubani iladi ngaphandle kukaElohim wethu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "u-Eloah"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ngaphandle kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "Futhi ngubani"
+    },
+    {
+      "surface": "צור",
+      "gloss": "iladi"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ngaphandle kuka-"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:50.656326966Z",
+  "model": "glm-5.3"
+}

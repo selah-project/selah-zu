@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 28:20",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Ngokuba umbhede umfushane kakhulu wokuba umuntu aze awulume, isikhumba sokumboza sinexande kakhulu wokuzungeza ngaso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "umfushane kakhulu"
+    },
+    {
+      "surface": "המצע",
+      "gloss": "umbhede"
+    },
+    {
+      "surface": "מהשתרע",
+      "gloss": "wokuba umuntu awulume"
+    },
+    {
+      "surface": "והמסכה",
+      "gloss": "isikhumba sokumboza"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "sinexande kakhulu"
+    },
+    {
+      "surface": "כהתכנס",
+      "gloss": "wokuzungeza ngaso"
+    }
+  ],
+  "timestamp": "2026-08-31T04:24:48.616695632Z",
+  "model": "glm-5.3"
+}

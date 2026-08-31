@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 3:12",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngolusu lolo ngizovusa ku-Eli ⟨את⟩ konke engikukhulumile ngendlu yakhe — ngiqale, ngiqedise.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ngolusu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lolo"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ngizovusa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "u-Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ngikukhulumile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nga"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "indlu yakhe"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ngiqale"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "ngiqedise"
+    }
+  ],
+  "timestamp": "2026-08-31T06:03:39.308705349Z",
+  "model": "glm-5.3"
+}

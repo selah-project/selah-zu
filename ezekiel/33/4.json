@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 33:4",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Ozwayo uzwa ⟨את⟩ izwi lashopholo, ungagcinanga; inkemba ingena imthatha yena; igazi lakhe liyoba kukhanda lakhe:",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "uzwa"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "ozwayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi lashopholo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "השופר",
+      "gloss": "lashopholo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "gcinanga"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "ingena"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "inkemba"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "imthatha yena"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "igazi lakhe"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "kukhanda lakhe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "liyoba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:13:27.970572686Z",
+  "model": "glm-5.3"
+}

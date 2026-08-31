@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Kodwa ngowezithelo zomuthi osezingeni lẹvesi lensimbi esiphakathi kwesivande, uElohim wathi: Ningedli kuzo, futhi ningazithinti, hhavanya nifile.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "kodwa ngowezithelo"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "omuthi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ongaphakathi"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "kwesivande"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ningadli"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuzo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi ningazi"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "thinti"
+    },
+    {
+      "surface": "בו",
+      "gloss": "zona"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hhavanya"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "nifile"
+    }
+  ],
+  "timestamp": "2026-08-31T10:10:18.939653424Z",
+  "model": "glm-5.3"
+}

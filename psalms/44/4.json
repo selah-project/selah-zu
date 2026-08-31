@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 44:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Ngokuba abazange bazuze umhlaba ngezinkemba zabo, lomsindo wawo awubasindisi; kodwa isandla sakho sokudla, lomsindo lwakho, nokukhanya kobuso bakho — ngokuba uwabambelele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abazange"
+    },
+    {
+      "surface": "בחרבם",
+      "gloss": "ngezinkemba zabo"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "bazuze"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "וזרועם",
+      "gloss": "lomsindo wawo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awubasindisi"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "sindisa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "isandla sakho sokudla"
+    },
+    {
+      "surface": "וזרועך",
+      "gloss": "lomsindo lwakho"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "nokukhanya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kobuso bakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "רציתם",
+      "gloss": "uwabambelele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:32.563688717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 43:2",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "Kwathi lapho seqedile ukudla ⟨את⟩ ukudla abakulethe kumiMitsrayim, uyise wathi kubo: Buyelani, sithengeleni ukudla okuncane.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "seqedile"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukudla"
+    },
+    {
+      "surface": "השבר",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abaku-"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "kulethe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kumiMitsrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Buyelani"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "sithengeleni"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "-ethu"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "okuncane"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ukudla"
+    }
+  ],
+  "timestamp": "2026-08-31T01:22:20.910123962Z",
+  "model": "glm-5.3"
+}

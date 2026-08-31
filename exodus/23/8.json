@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 23:8",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Futhi isipho sokhotheshwa ungasingeni ngokuthi uthathe, ngoba isipho sokhotheshwa simbulala abasobala, futhi siqukambisa amazwi abalungile.",
+  "tokens": [
+    {
+      "surface": "ושחד",
+      "gloss": "futhi isipho sokhotheshwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ungathathi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "isipho sokhotheshwa"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "simbulala"
+    },
+    {
+      "surface": "פקחים",
+      "gloss": "abasobala"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "futhi siqukambisa"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abalungile"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:19.977730564Z",
+  "model": "glm-5.3"
+}

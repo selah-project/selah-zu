@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Ungafunisela umfowakho nenzuzo: inzuzo yemali, inzuzo yokudla, inzuzo yento yonwa engafuniswa inzuzo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "funisela... inzuzo"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "umfowakho"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "inzuzo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "yemali"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "inzuzo"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "yokudla"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "inzuzo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yento"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engafuniswa"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "inzuzo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:42:35.697584090Z",
+  "model": "glm-5.3"
+}

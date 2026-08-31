@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 12:35",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Laba bantwana bakwa-Israyeli benza njengokusho kukaMoshe, bathaba-nza imali yesiliva nezinto zegolide nezimpahla kuMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "bantwana bakwa-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "njengokusho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "bathaba-nza"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "kuMitsrayim"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "izinto zesiliva"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "siliva"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "izinto zegolide"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "nezimpahla"
+    }
+  ],
+  "timestamp": "2026-08-31T01:32:53.962785763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 11:12",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Wayikhhipha ⟨את⟩ indodana yenkosi, wayibeka phezu kwayo ⟨את⟩ isikhunzi kanye ⟨את⟩ ubufakazi, bayenza inkosi ⟨את⟩ futhi bame naye, bamgcotsha; bashaya izandla bathi: Maphila inkosi!",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "wayikhhipha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indodana yenkosi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yenkosi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wayibeka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isikhunzi"
+    },
+    {
+      "surface": "הנזר",
+      "gloss": "isikhunzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ubufakazi"
+    },
+    {
+      "surface": "העדות",
+      "gloss": "ubufakazi"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "bayenza inkosi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ futhi bame naye"
+    },
+    {
+      "surface": "וימשחהו",
+      "gloss": "bamgcotsha"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "bashaya"
+    },
+    {
+      "surface": "כף",
+      "gloss": "izandla"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "Maphila"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:10:30.265019872Z",
+  "model": "glm-5.3"
+}

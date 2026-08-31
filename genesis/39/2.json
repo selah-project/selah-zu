@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 39:2",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Laba uYahwe wayengeduze noYosefu ⟨את⟩, waba yindoda eyaphumelela, waba esendlini yenkosi yakhe uMmitsri.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "laba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "noYosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "noYosefu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yindoda"
+    },
+    {
+      "surface": "מצליח",
+      "gloss": "eyaphumelela"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "esendlini"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "yenkosi yakhe"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "uMmitsri"
+    }
+  ],
+  "timestamp": "2026-08-31T01:20:44.665122501Z",
+  "model": "glm-5.3"
+}

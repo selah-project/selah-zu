@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 95:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 95,
+  "translation": "Lapho oyihlo benzi-ndaba-nami, bendivivinya, yize babebona umsebenzi wami.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Lapho"
+    },
+    {
+      "surface": "נסוני",
+      "gloss": "bendingela"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "oyihlo"
+    },
+    {
+      "surface": "בחנוני",
+      "gloss": "bendivivinya"
+    },
+    {
+      "surface": "גם",
+      "gloss": "yize"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "babebona"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "umsebenzi wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:17.438730203Z",
+  "model": "glm-5.3"
+}

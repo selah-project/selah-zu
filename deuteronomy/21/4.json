@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 21:4",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi abadala balelo sidolobha behlelise ⟨את⟩ le nthole kuwumfula oqinile ongaze walinywa futhi ongaze watshalwa, bese beyikhuma intamo khona ⟨את⟩ le nthole emfuleni.",
+  "tokens": [
+    {
+      "surface": "והורדו",
+      "gloss": "behlelise"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abadala"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "besidolobheni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nthole"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "le nthole"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "umfula"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "oqinile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ongaze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kalungile"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "walinywa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "watshalwa"
+    },
+    {
+      "surface": "וערפו",
+      "gloss": "beyikhume intamo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nthole"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "le nthole"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "emfuleni"
+    }
+  ],
+  "timestamp": "2026-08-31T02:41:00.645025260Z",
+  "model": "glm-5.3"
+}

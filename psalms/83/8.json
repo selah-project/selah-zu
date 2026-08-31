@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 83,
+  "translation": "IGevalu no-Amoni no-Amaleki; iPalesheti kanye nabahlali bako-Tsori.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "IGevalu"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "no-Amoni"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "no-Amaleki"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "iPalesheti"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanye na"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "צור",
+      "gloss": "bako-Tsori"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:30.952455948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 20:11",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Inkosi kaIsrayeli yaphendula yathi: Khuluma, ungazidwebi umqophi wamasoka njengowezulula amasoka.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yaphendula"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaIsrayeli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "Khuluma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungazi"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "dwebi"
+    },
+    {
+      "surface": "חגר",
+      "gloss": "umqophi wamasoka"
+    },
+    {
+      "surface": "כמפתח",
+      "gloss": "njengowezulula amasoka"
+    }
+  ],
+  "timestamp": "2026-08-31T04:00:08.745191386Z",
+  "model": "glm-5.3"
+}

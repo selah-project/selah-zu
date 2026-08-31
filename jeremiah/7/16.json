@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 7:16",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi wena, ungathandazeli abantu laba, futhi ungaphakamisi ngabo isikhalo nokuthandazo, futhi ungancameli kimi, ngoba angikuzwa ⟨את⟩ wena.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Futhi wena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungabhedi-"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "ungathandazeli"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ngenxa ya-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "laba"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi ungabhedi"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ungaphakamisi"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "ngabo"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "isikhalo"
+    },
+    {
+      "surface": "ותפלה",
+      "gloss": "nokuthandazo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi ungabhedi"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "ungancameli"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "angikho"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngikuzwa"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    }
+  ],
+  "timestamp": "2026-08-31T04:41:54.721530931Z",
+  "model": "glm-5.3"
+}

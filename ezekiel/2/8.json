@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 2:8",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Kodwa wena, ndodana komuntu, yizwa lokho engikukhuluma kuwe; ungabi ngongalalele njengaleyo nyuvesi engalalele — vulaumlomo wakho, udle lokho engikunika sona.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kodwa wena"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ndodana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "komuntu"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yizwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "engi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "khuluma"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ng"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "ongalalele"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "njengaleyo nyuvesi"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "engalalele"
+    },
+    {
+      "surface": "פצה",
+      "gloss": "vula"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "umlomo wakho"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "udle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "engi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "kunika"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "sona kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:04:02.718601193Z",
+  "model": "glm-5.3"
+}

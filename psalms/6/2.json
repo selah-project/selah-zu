@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 6:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "uYahwe, ungangichoki ebusweni bentukuthele yakho, futhi ungangifundisi ekhohlelakwini kwakho.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungangi"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ebusweni bentukuthele yakho"
+    },
+    {
+      "surface": "תוכיחני",
+      "gloss": "choki"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi ungangi"
+    },
+    {
+      "surface": "בחמתך",
+      "gloss": "ekhohlelakwini kwakho"
+    },
+    {
+      "surface": "תיסרני",
+      "gloss": "fundisi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:45.571867790Z",
+  "model": "glm-5.3"
+}

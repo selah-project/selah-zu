@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 27:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Ngokuba uYahwe uyakungifihla esibayeni ngosuku lokubi; uyakungifihla esifihweni sethenda lakhe; ngaphezulu kwedwala uyakungiphakamisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "יצצפנני",
+      "gloss": "uyakungifihla"
+    },
+    {
+      "surface": "בסכה",
+      "gloss": "esibayeni"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "lokubi"
+    },
+    {
+      "surface": "יסתרני",
+      "gloss": "uyakungifihla"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "esifihweni"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "sethenda lakhe"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "ngaphezulu kwedwala"
+    },
+    {
+      "surface": "ירוממני",
+      "gloss": "uyakungiphakamisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:22.296173351Z",
+  "model": "glm-5.3"
+}

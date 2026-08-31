@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Akabuyi ezweni laseMitsrayim, futhi iAshuru yona inkosi yakhe, ngoba bala ukubuya.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "akabuyi"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "buya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eza\/ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "futhi iAshuru"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "inkosi yakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "bala\/baphikile"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ukubuya"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:31.166799114Z",
+  "model": "glm-5.3"
+}

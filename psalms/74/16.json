@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 74,
+  "translation": "Yakho insini, futhi yakho ubusuku; wena ulungiselele ukukhanya nelanga.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Yakho"
+    },
+    {
+      "surface": "יום",
+      "gloss": "insini"
+    },
+    {
+      "surface": "אף",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yakho"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ubusuku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "ulungiselele"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "ukukhanya"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "nelanga"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:50.579801265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Izinkondlo, icro lesidezeno lendlu, likaDavide.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Izinkondlo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "icro"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "lesidezeno"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "lendlu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "likaDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:31.588742425Z",
+  "model": "glm-5.3"
+}

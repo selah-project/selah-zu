@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 16:19",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "uYahwe, amandla ami, nesiphephelo sami, nendawo yokubalekela yami osukwini lokuhlupheka, izizwe zizofika kuwe kumakhethango omhlaba, zisithi: ngempela obaba bethu bamukela amanga, yinto engenalutho, futhi alinalutho kuyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "amandla ami"
+    },
+    {
+      "surface": "ומעזי",
+      "gloss": "nesiphephelo sami"
+    },
+    {
+      "surface": "ומנוסי",
+      "gloss": "nendawo yokubalekela yami"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "osukwini"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "lokuhlupheka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "zizofika"
+    },
+    {
+      "surface": "מאפסי",
+      "gloss": "kumakhethango"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "zisithi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "amanga"
+    },
+    {
+      "surface": "נחלו",
+      "gloss": "bamukela"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "obaba bethu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "yinto engenalutho"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi alinalutho"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "מועיל",
+      "gloss": "olusizayo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:45:25.687519744Z",
+  "model": "glm-5.3"
+}

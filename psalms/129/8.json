@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 129:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 129,
+  "translation": "Futhi abadlulayo abathi, 'Isibusiso sikaYahwe singaphezu kwenu; sibusise ⟨את⟩ nini ngegama likaYahwe.'",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "futhi aba-"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "thi"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "dlulayo"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "isibusiso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "singaphezu kwenu"
+    },
+    {
+      "surface": "ברכנו",
+      "gloss": "sibusise"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nini"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ngegama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:11.612116441Z",
+  "model": "glm-5.3"
+}

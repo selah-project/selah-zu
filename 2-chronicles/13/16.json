@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 13:16",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Labadodana bensi-Israeli babaleka ebubunzima beYehuda, uElohim wayabanikeza esandleni sabo.",
+  "tokens": [
+    {
+      "surface": "וינוסו",
+      "gloss": "babaleka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abadodana bensi-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ebubunzini be-"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "iYehuda"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "wayabanikeza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "esandleni sabo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:36:59.490005844Z",
+  "model": "glm-5.3"
+}

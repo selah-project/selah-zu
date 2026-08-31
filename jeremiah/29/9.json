@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 29:9",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Ngoba ngamanga bona bayaprofetha kini ngegama lami; angibathumanga, isiboniso sikaYahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "ngamanga"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "bayaprofetha"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ngegama lami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "ngibathumanga"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "isiboniso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:51:16.490723467Z",
+  "model": "glm-5.3"
+}

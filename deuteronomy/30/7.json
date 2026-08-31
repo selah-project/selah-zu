@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 30:7",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Futhi uYahwe uElohim wakho uzakubeka ⟨את⟩ lezi ziqalekiso zonke phezu kwezitha zakho nangaphezu kwabakudelayo, abakulandelayo.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "uzakubeka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lezi ziqalekiso zonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "האלות",
+      "gloss": "lezi ziqalekiso"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "izitha zakho"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nangaphezu kwa-"
+    },
+    {
+      "surface": "שנאיך",
+      "gloss": "abakudelayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abaku-"
+    },
+    {
+      "surface": "רדפוך",
+      "gloss": "landelayo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:45:31.244733857Z",
+  "model": "glm-5.3"
+}

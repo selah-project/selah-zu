@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 70,
+  "translation": "uElohim, ukuze ungisindise, uYahwe, usizo lwami — shesha!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "ukuze ungisindise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "usizo lwami"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "shesha"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:19.830044741Z",
+  "model": "glm-5.3"
+}

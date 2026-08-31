@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Wayelinganisa ⟨את⟩ iphosi lesango, ngasendlwini, umhlanga oyedwa.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "Wayelinganisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iphosi lesango"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "iphosi"
+    },
+    {
+      "surface": "השער",
+      "gloss": "lesango"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ngasendlwini"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "umhlanga"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "oyedwa"
+    }
+  ],
+  "timestamp": "2026-08-31T05:22:03.550831948Z",
+  "model": "glm-5.3"
+}

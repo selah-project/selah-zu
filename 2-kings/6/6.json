@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 6:6",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Indoda ka-Elohim yathi: Lawa kuphi? Yase iyambonisa ⟨את⟩ indawo, wasika umuthi, waphonsa lapho, yase intanta insimbi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Indoda"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ka-Elohim"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "kuphi"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "lawa"
+    },
+    {
+      "surface": "ויראהו",
+      "gloss": "wambonisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indawo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "ויקצב",
+      "gloss": "wasika"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "umuthi"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "waphonsa"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "yase intanta"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "insimbi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:04:10.783051093Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Thokozela kuYahwe, futhi uzakunika izicelo zentliziywakho.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "Thokozela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "uzakunika"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kuwe⟩"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "izicelo"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "zentliziywakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:40.558111534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 107:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Wabathoba ngemisebenzi eminzima izinhliziyo zabo; bawela, futhi bekungekho umsizi.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "Wabathoba"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "ngemisebenzi eminzima"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "izinhliziyo zabo"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "bawela"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi bekungekho"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "umsizi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:52.204266306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 9:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Futhi abazi igama lakho bayakuthemba kuwe, ngoba awulahlanganiselanga abakufunayo, uYahwe.",
+  "tokens": [
+    {
+      "surface": "ויבטחו",
+      "gloss": "futhi bayakuthemba"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "abazi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akunjalo\/awu-"
+    },
+    {
+      "surface": "עזבת",
+      "gloss": "ulahlanganisile"
+    },
+    {
+      "surface": "דרשיך",
+      "gloss": "abakufunayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:22.496792868Z",
+  "model": "glm-5.3"
+}

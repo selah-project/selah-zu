@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 5:5",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Futhi uYehudha nangesiZrayeliwahlala bekhaliphile, munye nomunye ngaphansi kwesihlabathi sakhe samagilevhangala nangaphansi kwesihlabathi sakhe samagwenya,kusukela eDhaniye kaze kufike eBhere-Sheba,yonke imihla yakaShelomo.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehudha"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "nangesiZrayeli"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "bekhaliphile"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munye nomunye"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi"
+    },
+    {
+      "surface": "גפנו",
+      "gloss": "kwesihlabathi sakhe samagilevhangala"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "nangaphansi"
+    },
+    {
+      "surface": "תאנתו",
+      "gloss": "kwesihlabathi sakhe samagwenya"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "kusukela eDhaniye"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kaze kufike"
+    },
+    {
+      "surface": "באר",
+      "gloss": "eBhere-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "imihla"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "yakaShelomo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:49:07.093575193Z",
+  "model": "glm-5.3"
+}

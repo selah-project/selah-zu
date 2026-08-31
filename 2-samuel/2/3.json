@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 2:3",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi amadoda akhe ayedla naye, uDawidi wawaholisela lapha phezulu, indoda nendlu yayo; bahlala emizini yaseKhevrona.",
+  "tokens": [
+    {
+      "surface": "ואנשיו",
+      "gloss": "amadoda akhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayedla"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "waholisela"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda ngalodwa"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "nendlu yayo"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "bahlala"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "emizini"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Khevrona"
+    }
+  ],
+  "timestamp": "2026-08-31T03:32:40.445408896Z",
+  "model": "glm-5.3"
+}

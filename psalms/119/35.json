@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 119:35",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngiholele endleleni yemiyalo yakho, ngoba ngiyithokozile ⟨kuyona⟩.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "Ngiholele"
+    },
+    {
+      "surface": "בנתיב",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "yemiyalo yakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨kuyona⟩"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ngiyithokozile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:40.190100175Z",
+  "model": "glm-5.3"
+}

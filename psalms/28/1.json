@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 28:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "KuDavidi. Kuwe, uYahwe, ngiyabiza; idiwa lami, ungabi thule kimi, kuze ungabi thule kimi, bengingabalwa nabahlayo emgodini.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "kuDavidi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ngiyabiza"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "idiwa lami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "thule"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "תחשה",
+      "gloss": "ungabi thule"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ונמשלתי",
+      "gloss": "bengingabalwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nabahlayo"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "abahlayo"
+    },
+    {
+      "surface": "בור",
+      "gloss": "emgodini"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:48.899446026Z",
+  "model": "glm-5.3"
+}

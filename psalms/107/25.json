@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 107:25",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Wathi yena, wamisa umoya wasembungezela, futhi wezakhiwo zawo zenyukela — amagagadu alo ewela phezulu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "wasembungezela"
+    },
+    {
+      "surface": "ותרומם",
+      "gloss": "wezakhiwo zawo zenyukela"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "amagagadu alo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:02.265970864Z",
+  "model": "glm-5.3"
+}

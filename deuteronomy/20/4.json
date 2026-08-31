@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 20:4",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "ngokuba uYahwe uElohim enu yena ohamba nenu ukulwela nani, embukeni ngabaswenu, ukusindisa ⟨את⟩ nina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim enu"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "yena ohamba"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nenu"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "ukulwela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nani"
+    },
+    {
+      "surface": "עם",
+      "gloss": "embukeni"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "abaswenu"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "ukusindisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩nina",
+      "marks": "nina"
+    }
+  ],
+  "timestamp": "2026-08-31T02:40:04.391324542Z",
+  "model": "glm-5.3"
+}

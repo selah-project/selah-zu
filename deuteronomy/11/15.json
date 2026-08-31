@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "futhi nginike utshani esimini yakho izinkomo zakho, futhi udle futhi uze ugutshe;",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "futhi nginike"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "utshani"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "esimini yakho"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "izinkomo zakho"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "udle"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "uze ugutshe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:34:53.821320610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "UThi uYahwe kuKayini: Iphi uHabhele umfowenu? Wathi: Angazi — ngiyini umgadi womfowethu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "UThi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "קין",
+      "gloss": "uKayini"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Iphi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "uHabhele"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "umfowenu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Anga-"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ngazi"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "umgadi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "womfowethu"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngiyini"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:29.234519002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 7:11",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi uzogcina ⟨את⟩ umyalo naye ⟨את⟩ izimiso naye ⟨את⟩ izahlulelo engikuyala ngazo namuhla, ukuze uzenze.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "futhi uzogcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umyalo"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "umyalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "izimiso"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "izimiso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "izahlulelo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "izahlulelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ngikuyala"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "ukuze uzenze"
+    }
+  ],
+  "timestamp": "2026-08-31T10:17:16.789432916Z",
+  "model": "glm-5.3"
+}

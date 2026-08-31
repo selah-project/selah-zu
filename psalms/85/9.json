@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 85:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 85,
+  "translation": "Ngiyozwa lokhu u-El uYahwe azokusho, ngoba uzokhuluma ukuthula ebantwini bakhe nakubahle bakhe, futhi banganabuyela ebufosini.",
+  "tokens": [
+    {
+      "surface": "אשמעה",
+      "gloss": "Ngiyozwa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "azokusho"
+    },
+    {
+      "surface": "האל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "uzokhuluma"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ukuthula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ebantwini"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bakhe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naku"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "bahle bakhe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi banganabuyela"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "banganabuyela"
+    },
+    {
+      "surface": "לכסלה",
+      "gloss": "ebufosini"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:12.066416206Z",
+  "model": "glm-5.3"
+}

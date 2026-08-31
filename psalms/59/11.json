@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 59:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 59,
+  "translation": "uElohim wezikhesedi zami uzongihlanganisela; uElohim uzongibonisa izitha zami.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wa-"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "zikhesedi zami"
+    },
+    {
+      "surface": "יקדמני",
+      "gloss": "uzongihlanganisela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "uzongibonisa"
+    },
+    {
+      "surface": "בשררי",
+      "gloss": "izitha zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:03.399409330Z",
+  "model": "glm-5.3"
+}

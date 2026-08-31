@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 73:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Befa umlomo wabo ezulwini, ulimi lwabo luhamba emhlabeni.",
+  "tokens": [
+    {
+      "surface": "שתו",
+      "gloss": "befa"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "umlomo wabo"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "ulimi lwabo"
+    },
+    {
+      "surface": "תהלך",
+      "gloss": "luhamba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:39.517800595Z",
+  "model": "glm-5.3"
+}

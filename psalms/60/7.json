@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 60:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 60,
+  "translation": "Ukuze abathandwa bakho babhedulwe; sula ngesandla sakho sokudla, ⟨usiphendule⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ukuze"
+    },
+    {
+      "surface": "יחלצון",
+      "gloss": "babhedulwe"
+    },
+    {
+      "surface": "ידידיך",
+      "gloss": "abathandwa bakho"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "sula"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ngesandla sakho sokudla"
+    },
+    {
+      "surface": "ועננו",
+      "gloss": "⟨usiphendule⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:42.495529682Z",
+  "model": "glm-5.3"
+}

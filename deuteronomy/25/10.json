@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi igama lakhe lizobizwa kwisrayeli: Indlu yesicathulu esikhishiwe.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "futhi lizobizwa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kwisrayeli"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Indlu"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "yesicathulu esikhishiwe"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "isicathulu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:41:38.800759553Z",
+  "model": "glm-5.3"
+}

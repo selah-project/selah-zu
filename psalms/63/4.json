@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 63,
+  "translation": "Ngoba ikhesedi yakho lingcono kunokuphila; imilepe yami izokudumisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngoba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lingcono"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "kunokuphila"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "imilepe yami"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "izokudumisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:52.982223947Z",
+  "model": "glm-5.3"
+}

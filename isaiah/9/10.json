@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 9:10",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Futhi uYahwe waphakamisa izitha zikaRetsini ⟨את⟩ phezu kwakhe, futhi izitha zakhe ⟨את⟩ wazibutha ndawonye.",
+  "tokens": [
+    {
+      "surface": "וישגב",
+      "gloss": "futhi waphakamisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izitha zikaRetsini"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "izitha"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "zikaRetsini"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izitha zakhe"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "izitha zakhe"
+    },
+    {
+      "surface": "יסכסך",
+      "gloss": "wazibutha ndawonye"
+    }
+  ],
+  "timestamp": "2026-08-31T04:19:02.764330193Z",
+  "model": "glm-5.3"
+}

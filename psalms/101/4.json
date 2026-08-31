@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 101,
+  "translation": "Isibindi esiqhoshe sizosuka kimi; okubi angisazi.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "Isibindi"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "esiqhoshe"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "sizosuka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angi"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "sazi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:10.091765520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 57:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 57,
+  "translation": "Inefeshi yami isephakathi kwezibhubesi; ngiyolala phakathi kwabelangayo, abantwana bantu, amazabo ngumhlabisomuntu nemicibisholo, lolwabo ngumkonto ohehayo.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi kw"
+    },
+    {
+      "surface": "לבאם",
+      "gloss": "ezibhubesi"
+    },
+    {
+      "surface": "אשכבה",
+      "gloss": "ngiyolala"
+    },
+    {
+      "surface": "להטים",
+      "gloss": "abelangayo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "amazabo"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "umhlabisomuntu"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "nemicibisholo"
+    },
+    {
+      "surface": "ולשונם",
+      "gloss": "lolwabo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "umkonto"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "ohehayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:00.471978698Z",
+  "model": "glm-5.3"
+}

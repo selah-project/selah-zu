@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 114:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 114,
+  "translation": "Nina, zintaba, ukuthi niyazigxumela njengezimpondo? Nina, zinduli, njengezinkunzi zemifuno?",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "zintaba"
+    },
+    {
+      "surface": "תרקדו",
+      "gloss": "niyazigxumela"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "njengezimpondo"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "zinduli"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "njengezinkunzi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "zemifuno"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:09.665334304Z",
+  "model": "glm-5.3"
+}

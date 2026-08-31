@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Wayeseya indoda endlini kaLevi, wathatha ⟨את⟩ indodakazi kaLevi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wayeseya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "endlini"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "kaLevi"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indodakazi kaLevi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "kaLevi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:27:02.587989250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Isinkwa senkosi yakhe — ezintweni ezingcwele kakhulu nasezintweni ezingcwele uyakudla ⟨את⟩ ⟨ukudla okungcwele kakhulu⟩",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "isinkwa"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "iNkosi yakhe"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "ezincwele kakhulu kwezincwele"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "izinto ezingcwele kakhulu"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "futhi eziyasezintweni"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ezingcwele"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "uyakudla"
+    }
+  ],
+  "timestamp": "2026-08-31T11:51:11.443697945Z",
+  "model": "glm-5.3"
+}

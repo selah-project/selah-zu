@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 27:22",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "UMoshe wenza njengoba uYahwe kwakumyalele ⟨את⟩, wathatha uYehoshuwa, wamisa ⟨את⟩ phambi kuka-Elazari umpristi nophambi kwebandla lonke.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "kwakumyalele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYehoshuwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "ויעמדהו",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "u-Elazari"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "nophambi kwe-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ebandla"
+    }
+  ],
+  "timestamp": "2026-08-31T10:16:05.660776973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Laba kwafika izwi lukaYahwe kuYona indodana ka-Amittayi, elithi:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwafika"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lukaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "uYona"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "ka-Amittayi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "elithi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:36:02.002747932Z",
+  "model": "glm-5.3"
+}

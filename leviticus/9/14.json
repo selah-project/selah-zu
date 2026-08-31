@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 9:14",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Wageza ⟨את⟩ izitho zangaphakathi ⟨את⟩ nemilenze, wazitshisa phezu kwesinikelo esishiswayo, e-altareni.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "wageza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izitho zangaphakathi"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "izitho zangaphakathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imilenze"
+    },
+    {
+      "surface": "הכרעים",
+      "gloss": "imilenze"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "wazitshisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "isinikelo esishiswayo"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "e-altareni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:53:41.028095118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 3:15",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "UShemuweli walala kuze kusasa ekuseni, wavula ⟨את⟩ izinkomishi zomuzi kaYahwe; uShemuweli wayesaba ukwazisa ⟨את⟩ umbono ku- Eli.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "walala"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "kusasa ekuseni"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "wavula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinkomishi"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "izinkomishi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omuzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ושמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "wayesaba"
+    },
+    {
+      "surface": "מהגיד",
+      "gloss": "ukwazisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umbono"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "umbono"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:16:00.374498356Z",
+  "model": "glm-5.3"
+}

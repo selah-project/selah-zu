@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 38:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Ngokuba mina ngilungele ukuwa, ubuhlungu bami buhlala busengiphambili njalo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "ngilungele ukuwa"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ngilungele"
+    },
+    {
+      "surface": "ומכאובי",
+      "gloss": "ubuhlungu bami"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "busebusengiphambili"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:28.207667383Z",
+  "model": "glm-5.3"
+}

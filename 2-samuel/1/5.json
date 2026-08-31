@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 1:5",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "UDavide wathi kumfana ozingitshelayo: Uyaziqhuba kanjani ukuthi uShawuli noYehonathani indodana yakhe sebefile?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "umfana"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "ozingitshelayo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kanjani"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "uyaziqhuba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "מת",
+      "gloss": "sebefile"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "noYehonathani"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:31:35.659782019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Induna yendlu yoyise yemindeni yakwaKehati kungu-Elitsafani, indodana ka-Uzziyeli.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "induna"
+    },
+    {
+      "surface": "בית",
+      "gloss": "yendlu"
+    },
+    {
+      "surface": "אב",
+      "gloss": "yoyise"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "yemindeni ya-"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "kwaKehati"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "Elitsafani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Uzziyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T05:59:45.587459180Z",
+  "model": "glm-5.3"
+}

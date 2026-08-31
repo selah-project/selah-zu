@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Konke ukudla kwenefeshi yabo kwayidana, bafike emasangweni okufa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "kwayidana"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "kwenefeshi yabo"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "bafike"
+    },
+    {
+      "surface": "עד",
+      "gloss": "e"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "emasangweni"
+    },
+    {
+      "surface": "מות",
+      "gloss": "okufa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:01.164486203Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 109:31",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Ngokuba ⟨uYahwe⟩ uyezimile ngakwesokudla kwesiSwi, ukumsindisa kubagwebi bomphefumulo wakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "uyeziimile"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "ngakwesokudla kwa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "esiSwi"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "ukumsindisa"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "kubagwebi"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "omphefumulo wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:15.368086495Z",
+  "model": "glm-5.3"
+}

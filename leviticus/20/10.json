@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 20:10",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Futhi umuntu ozophinga ⟨את⟩ umfazi womuntu, lowo ophinga ⟨את⟩ umfazi womakhelwane wakhe, ngokufa uzofa, yena ophingayo nalowo ophinga naye.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "futhi umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ozophinga"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "ophinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfazi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "womuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowo ophinga"
+    },
+    {
+      "surface": "ינאף",
+      "gloss": "ophinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfazi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "womakhelwane wakhe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ngokufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "uzofa"
+    },
+    {
+      "surface": "הנאף",
+      "gloss": "yena ophingayo"
+    },
+    {
+      "surface": "והנאפת",
+      "gloss": "nalowo ophinga naye"
+    }
+  ],
+  "timestamp": "2026-08-31T02:02:03.770938717Z",
+  "model": "glm-5.3"
+}

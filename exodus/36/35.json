@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 36:35",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Wayenza ⟨את⟩ isikhenci ngesibhakabhaka esiphephile, nobubende obumpofu, nobomvu obufana lomhluzi, nefayinhi elihlotshiwe; umsebenzi womklami wayenziwa ⟨את⟩ ngayo ngo⟨את⟩ amakherubi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Wayenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isikhenci"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "isikhenci"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ngesibhakabhaka esiphephile"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "nobubende obumpofu"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "nobomvu obufana lomhluzi"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ubomvu lomhluzi"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "nefayinhi"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "elihlotshiwe"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "womklami"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wayenziwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ ngayo ngo",
+      "marks": "amakherubi"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "amakherubi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:46.962955899Z",
+  "model": "glm-5.3"
+}

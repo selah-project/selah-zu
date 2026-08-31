@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 31:50",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Uma ungaxhaphaza ⟨את⟩ amadodakazi ami, numa uthatha abafazi ngaphezu kwamadodakazi ami — akukho ndoda nathi; bheka, uElohim uyifakazi phakathi kwami nawe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ungaxhaphaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadodakazi ami"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "amadodakazi ami"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "numa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uthatha"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "abafazi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu kwa-"
+    },
+    {
+      "surface": "בנתי",
+      "gloss": "amadodakazi ami"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ndoda"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nathi"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "uyifakazi"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "phakathi kwami"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "nawe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:17:37.456435499Z",
+  "model": "glm-5.3"
+}

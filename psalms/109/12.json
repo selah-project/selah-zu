@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Ungabi khona kuye odonelayo ikhesedi, futhi ungabi khona onisa izintandane zakhe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "khona"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "משך",
+      "gloss": "odonelayo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi ungabi"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "khona"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "onisa"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "izintandane zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:13.902522922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi uma nithi: Sizodla ini ngonyaka wesikhombisa? Yize ngeke sitshalile futhi ngeke siqoqe ⟨את⟩ okuzalwa yithoni?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "futhi uma"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "nithi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "sizodla"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ngonyaka"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "wesikhombisa"
+    },
+    {
+      "surface": "הן",
+      "gloss": "yize"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "sitshalile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi ngeke"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "siqoqe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okuzalwa yithoni"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "okuzalwa yithoni"
+    }
+  ],
+  "timestamp": "2026-08-31T02:04:47.566354964Z",
+  "model": "glm-5.3"
+}

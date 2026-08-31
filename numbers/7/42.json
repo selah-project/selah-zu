@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ngosuku lesithupu, inkosi yezingane zikaGad, uElyasafu indodana kaDeuweli.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ngosuku"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "lesithupu"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "yezingane"
+    },
+    {
+      "surface": "גד",
+      "gloss": "zikaGad"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "uElyasafu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "kaDeuweli"
+    }
+  ],
+  "timestamp": "2026-08-31T02:10:50.886252064Z",
+  "model": "glm-5.3"
+}

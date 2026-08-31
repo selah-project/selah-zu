@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 105:28",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "Wathumela ubumnyama, wabumnyamisa; futhi abazange baphikisane ⟨את⟩ izwi lakhe.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Wathumela"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ubumnyama"
+    },
+    {
+      "surface": "ויחשך",
+      "gloss": "wabumnyamisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi abazange"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "baphikisane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi lakhe"
+    },
+    {
+      "surface": "דברוו",
+      "gloss": "izwi lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:40.523215249Z",
+  "model": "glm-5.3"
+}

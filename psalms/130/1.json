@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 130:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 130,
+  "translation": "Igesi lokwenyuka. Kusukela ezindaweni ezijulile ngikubizile, wena uYahwe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "iyesi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lokwenyuka"
+    },
+    {
+      "surface": "ממעמקים",
+      "gloss": "kusukela ezindaweni ezijulile"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ngikubizile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:32.623270332Z",
+  "model": "glm-5.3"
+}

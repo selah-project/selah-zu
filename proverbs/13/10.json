@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Kuphela ngokuzidela kuvela impikiswano; kodwa ⟨את⟩ abaya ebucelweni bokuceba kukhona ukuhlakaniphile.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "ngokuzidela"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "kuvela"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "impikiswano"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abaya ebucelweni bokuceba"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "abaya ebucelweni bokuceba"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ukuhlakaniphile"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:57.401575463Z",
+  "model": "glm-5.3"
+}

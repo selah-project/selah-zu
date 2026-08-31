@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 22:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "u-El wami, u-El wami, wasishiye ngenxa yani? Kude ⟨ku⟩sindiso lwami, amazwi okukhalela kwami.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "u-El wami"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "u-El wami"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ngenxa yani"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "wasishiye"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "Kude"
+    },
+    {
+      "surface": "מישועתי",
+      "gloss": "⟨ku⟩sindiso lwami"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "okukhalela kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:20.221297349Z",
+  "model": "glm-5.3"
+}

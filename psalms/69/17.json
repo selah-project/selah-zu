@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 69:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Ngiphendule uYahwe, ngoba ikhesedi yakho yilungile; ngokwenani elikhulu lezikhalo zakho zibusise kuwe, ubhekise ⟨⟨ubuso bakho⟩⟩ kimi.",
+  "tokens": [
+    {
+      "surface": "ענני",
+      "gloss": "ngiphendule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "yilungile"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ngokwenani elikhulu"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "lezikhalo zakho"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ubhekise ubuso bakho"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:56.026671246Z",
+  "model": "glm-5.3"
+}

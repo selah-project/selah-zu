@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Uye wamisa ukukhanya kwakhe, futhi uhlonze isihlalo sokubusa sakhe phansi emhlabeni.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "ukukhanya kwakhe"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "futhi isihlalo sokubusa sakhe"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "uhlonze phansi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:09.151037693Z",
+  "model": "glm-5.3"
+}

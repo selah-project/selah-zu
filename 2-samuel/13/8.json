@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 13:8",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Wayeshe uThamar hamba endlwini kaAmnoni umfowabo, yena elele; wathatha ⟨את⟩ umgwaqo, wawucingo, wenza imikumbi phambi kwezimpumi zakhe, wabhaka ⟨את⟩ imikumbi.",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "wayeshe hamba"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "uThamar"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "kaAmnoni"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "umfowabo"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "elele"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umgwaqo"
+    },
+    {
+      "surface": "הבצק",
+      "gloss": "umgwaqo"
+    },
+    {
+      "surface": "ותלוש",
+      "gloss": "wawucingo"
+    },
+    {
+      "surface": "ותלבב",
+      "gloss": "wenza imikumbi"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "phambi kwezimpumi zakhe"
+    },
+    {
+      "surface": "ותבשל",
+      "gloss": "wabhaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imikumbi"
+    },
+    {
+      "surface": "הלבבות",
+      "gloss": "imikumbi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:37:40.577577104Z",
+  "model": "glm-5.3"
+}

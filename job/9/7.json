@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 9:7",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Othi kelanga, lingakhanyi; futhi izinkanyezi uzibekela ngophawu.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "Othi kwe-"
+    },
+    {
+      "surface": "לחרס",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "linga-"
+    },
+    {
+      "surface": "יזרח",
+      "gloss": "khanyi"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "futhi nge-"
+    },
+    {
+      "surface": "כוכבים",
+      "gloss": "izinkanyezi"
+    },
+    {
+      "surface": "יחתם",
+      "gloss": "uzibekela ngophawu"
+    }
+  ],
+  "timestamp": "2026-08-31T07:10:53.015971917Z",
+  "model": "glm-5.3"
+}

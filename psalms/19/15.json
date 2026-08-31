@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 19:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Amafomu ami omlomo, necebo lehliziyo yami, abe yinto enhle phambi kwakho, uYahwe, idolobha lami nelihlinzayo lami.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "abe"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "yinto enhhle"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "amafomu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "omlomo wami"
+    },
+    {
+      "surface": "והגיון",
+      "gloss": "necebo lehliziyo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yami"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "idolobha lami — intaba yamabuye"
+    },
+    {
+      "surface": "וגאלי",
+      "gloss": "nelihlinzayo lami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:07.902512279Z",
+  "model": "glm-5.3"
+}

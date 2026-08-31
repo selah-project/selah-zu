@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Njalo kuzokwenziwa inkunzi yenkomo elilodwa, noma ihlwanzi elilodwa, noma iwundlu kwezimvu noma kwezimbuzi.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "Njalo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kuzokwenziwa"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "inkunzi yenkomo"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "ihlwanzi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "iwundlu"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "kwezimvu"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "kwezimbuzi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:15:14.668669817Z",
+  "model": "glm-5.3"
+}

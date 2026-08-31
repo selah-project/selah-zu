@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 37:28",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Ngokuba uYahwe uthanda ulawelelo, futhi akayeki ⟨את⟩ abakhe engcwele; kuze kube phakade bayagcinwa; futhi inzalo yababi inqunywa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "uthanda"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ulawelelo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi aka-"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "yeki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abakhe engcwele"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "abakhe engcwele"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "נשמרו",
+      "gloss": "bayagcinwa"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "futhi inzalo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yababi"
+    },
+    {
+      "surface": "נכרת",
+      "gloss": "inqunywa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:49.703169757Z",
+  "model": "glm-5.3"
+}

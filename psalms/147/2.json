@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 147,
+  "translation": "UYahwe wakha iYerushalayimi, aqoqa abahlakazekile baka-Israeli.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "abahlakazekile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "baka-Israeli"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "aqoqa"
+    }
+  ],
+  "timestamp": "2026-08-31T08:55:10.360644520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Abafowabo bamzona; uyise ke wazigcina ⟨את⟩ indaba.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "bamzona"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abafowabo"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "wazigcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indaba"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "indaba"
+    }
+  ],
+  "timestamp": "2026-08-31T01:18:47.930873387Z",
+  "model": "glm-5.3"
+}

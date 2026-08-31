@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 128,
+  "translation": "Bheka, ngempela ngalo len.ndlela uyabusiswa umuntu oyedesabe uYahwe.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngalo len.ndlela"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "uyabusiswa"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "oyedesabe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:50.144382866Z",
+  "model": "glm-5.3"
+}

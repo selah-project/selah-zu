@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 14:26",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "uYahwe wathi kuMoshe: Tambisa isandla sakho phezu kolwandle, ukuze amanzi abuyele phezu kwaMitsrayim, phezu kwezibhamu zawo nasemapheya awo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "tambisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sakho"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu ko-"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lwandle"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "abuyele"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "zibhamu zawo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nase-"
+    },
+    {
+      "surface": "פרשיו",
+      "gloss": "mapheya awo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:33:16.267708097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi uzothatha ukuhlanza ⟨את⟩ indlu izinyoni ezimbili, nomuthi wekhedari, noshani obomvu, nesisipo.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "uzothatha"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "ukuhlanza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "izinyoni"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "nomuthi"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "wekhedari"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "noshani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "obomvu"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "nesisipo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:55:54.348535011Z",
+  "model": "glm-5.3"
+}

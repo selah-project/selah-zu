@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 20:18",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Bonke abantu babona ⟨את⟩ ukuduma ⟨את⟩ nezibani ⟨את⟩ izwi lashophara ⟨את⟩ nentaba eyayimosa; intaba beyinhweba umusi; abantu babona baza bazamazama, bema kude.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "babona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuduma"
+    },
+    {
+      "surface": "הקולת",
+      "gloss": "ukuduma"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izibani"
+    },
+    {
+      "surface": "הלפידם",
+      "gloss": "izibani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izwi lashophara"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "השפר",
+      "gloss": "lashophara"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "intaba"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "nentaba"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "eyayimosa"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "babona"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וינעו",
+      "gloss": "bazamazama"
+    },
+    {
+      "surface": "ויעמדו",
+      "gloss": "bema"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kude"
+    }
+  ],
+  "timestamp": "2026-08-31T01:35:33.873949452Z",
+  "model": "glm-5.3"
+}

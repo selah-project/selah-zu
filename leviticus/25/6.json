@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 25:6",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi ukuphumula komhlaba kuyokuba yisipho sokudla kuwe, kumsebenzi wakho, nanceba wakho osezandleni zakho, nasezigulini zakho zonke zokhuni, nakumakhosi akho okhala ohamba lawe.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "futhi kuyokuba yinkundla"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ukuphumula"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "komhlaba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ולעבדך",
+      "gloss": "nakumsebenzi wakho othile"
+    },
+    {
+      "surface": "ולאמתך",
+      "gloss": "nankosikazi wakho odla kwi-handmaid"
+    },
+    {
+      "surface": "ולשכירך",
+      "gloss": "nakhiye wakho oselashwa ngemali yonke"
+    },
+    {
+      "surface": "ולתושבך",
+      "gloss": "nakwabahlala lawe bahamba nje"
+    },
+    {
+      "surface": "הגרים",
+      "gloss": "ohamba kanzima"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "lawe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:04:19.823151021Z",
+  "model": "glm-5.3"
+}

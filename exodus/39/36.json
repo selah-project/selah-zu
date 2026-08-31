@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "⟨את⟩ itafula, ⟨את⟩ wonke izitsha zalo, ⟩no⟨⟨את⟩ ukudla kwezinkwa ebuso",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itafula"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "itafula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke izitsha zalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "izitsha zalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ukudla kwezinkwa ebuso"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ukudla kwezinkwa"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ebuso"
+    }
+  ],
+  "timestamp": "2026-08-31T05:57:56.021748510Z",
+  "model": "glm-5.3"
+}

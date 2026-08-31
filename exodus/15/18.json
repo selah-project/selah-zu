@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "uYahwe uyobusa kuze kube phakade nanaphakade.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "uyobusa"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nanaphakade"
+    }
+  ],
+  "timestamp": "2026-08-31T01:33:42.834042318Z",
+  "model": "glm-5.3"
+}

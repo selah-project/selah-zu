@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 46:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 46,
+  "translation": "Ngakho-ke angeke nesaba uma umhlaba ushintshwa, noma zinyakaziswa izintaba ezweni olumpunga olunzulu",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "-ke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "נירא",
+      "gloss": "nesaba"
+    },
+    {
+      "surface": "בהמיר",
+      "gloss": "uma ushintshwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ובמוט",
+      "gloss": "noma zinyakaziswa"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "izintaba"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ezweni olumpunga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "olunzulu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:05.578099329Z",
+  "model": "glm-5.3"
+}

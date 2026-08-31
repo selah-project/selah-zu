@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 48:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 48,
+  "translation": "Njengoba sizwile, njalo sibonile, emzini kaYahwe wamabutho, emzini kaElohim wethu; uElohim uyakumisa lo muzi kuze kube phakade namanje. Selahi.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "sizwile"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "sibonile"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "emzini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamabutho"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "emzini"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "kaElohim wethu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "uyakumisa lo muzi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade namanje"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-08-31T11:45:15.254447910Z",
+  "model": "glm-5.3"
+}

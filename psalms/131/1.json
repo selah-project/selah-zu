@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 131:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 131,
+  "translation": "Igesi lokwenyuka, likaDavide. uYahwe, ihliziyo yami ayiphakemile, futhi amehlo ami awaphakemile; futhi angihambile ezintweni ezinkulu nasezimangalisini ezingle ngazo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Igesi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lokwenyuka"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "likaDavide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayiphakemile"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ukuphakama"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ihliziyo yami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi awaphakemile"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "ukuphakama"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo ami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi angihambile"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ngihambile"
+    },
+    {
+      "surface": "בגדלות",
+      "gloss": "ezintweni ezinkulu"
+    },
+    {
+      "surface": "ובנפלאות",
+      "gloss": "nasezimangalisini"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ezingle ngazo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:42.490242720Z",
+  "model": "glm-5.3"
+}

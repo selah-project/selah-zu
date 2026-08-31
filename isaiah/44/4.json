@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Futhi bozikhula phakathi kutshani, njengezihlahla ezibomvana ezisemunyeni wamanzi.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "bozikhula"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "utshani"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "njengezihlahla ezibomvana"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-\/eduze kwa-"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "emunyeni"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wamanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:30:56.520719997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 136,
+  "translation": "⟨את⟩ inyanga nezinkanyezi ukuba zibusise ngobusuku, ngokuthi ikhesedi lakhe lihlezi kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyanga"
+    },
+    {
+      "surface": "הירח",
+      "gloss": "inyanga"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "nezinkanyezi"
+    },
+    {
+      "surface": "לממשלות",
+      "gloss": "ukuba zibusise"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ngobusuku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:00.334925902Z",
+  "model": "glm-5.3"
+}

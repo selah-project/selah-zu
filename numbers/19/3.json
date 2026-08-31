@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 19:3",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Naniyanike ⟨את⟩ u-Elazari umpristi, ayikhuphule ⟨את⟩ leyo nkomazi ehlanze yomkhambi, ayibulale ⟨את⟩ phambi kwakhe.",
+  "tokens": [
+    {
+      "surface": "ונתתם",
+      "gloss": "Naniyanike"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "leyo nkomazi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "u-Elazari"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "ayikhuphule"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "leyo nkomazi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ehlanze"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "yomkhambi"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ayibulale"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "leyo nkomazi"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:20:23.113811423Z",
+  "model": "glm-5.3"
+}

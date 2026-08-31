@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 145:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 145,
+  "translation": "Idumo likaDavide. Ngingakuphakamisa, u-Elohim wami, inkosi, futhi ngizibusisa igama lakho kuze kube phakade naphakade.",
+  "tokens": [
+    {
+      "surface": "תהלה",
+      "gloss": "idumo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "likaDavide"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ngingakuphakamisa"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "u-Elohim wami"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ואברכה",
+      "gloss": "futhi ngizubonisa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "naphakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:45:07.349370976Z",
+  "model": "glm-5.3"
+}

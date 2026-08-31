@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 69:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Wena uyayazi ihlazo lami nesihlonipho sami esiphansi, nesithuko sami; phambi kwakho konke izitha zami.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "uyayazi"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ihlazo lami"
+    },
+    {
+      "surface": "ובשתי",
+      "gloss": "nesihlonipho sami esiphansi"
+    },
+    {
+      "surface": "וכלמתי",
+      "gloss": "nesithuko sami"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "izitha zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:56.027331929Z",
+  "model": "glm-5.3"
+}

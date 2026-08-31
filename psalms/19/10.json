@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 19:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Ukwesaba uYahwe kungcocekile, kumi kuze kube phakade; izahlulelo zikaYahwe ziyanembela, zilungile ndawonye.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "טהורה",
+      "gloss": "kungcocekile"
+    },
+    {
+      "surface": "עומדת",
+      "gloss": "kumi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "izahlulelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ziyanembela"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "zilungile"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ndawonye"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:16.042200857Z",
+  "model": "glm-5.3"
+}

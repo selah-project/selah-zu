@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Ukhiqizo okhiqiziweko lukaDavide. Ngigcinile u-El, ngokuthi ngithakele kuwe.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "okhiqiziweko"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "lukaDavide"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Ngigcine"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ngithakele"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:43.138603009Z",
+  "model": "glm-5.3"
+}

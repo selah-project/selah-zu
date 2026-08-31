@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 141:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 141,
+  "translation": "Ungaqamusi intliziyo yami kwenye into embi, ukwenza izenzo zobubi ndawonye ⟨את⟩ amadoda asebenza ububwengu; futhi ungadli ekudleni okumnandi kwabo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תט",
+      "gloss": "qamusi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yami"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kwenye into"
+    },
+    {
+      "surface": "רע",
+      "gloss": "embi"
+    },
+    {
+      "surface": "להתעולל",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "עללות",
+      "gloss": "izenzo"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "zobubi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadoda"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "asebenza"
+    },
+    {
+      "surface": "און",
+      "gloss": "ububwengu"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "futhi unga"
+    },
+    {
+      "surface": "אלחם",
+      "gloss": "dli"
+    },
+    {
+      "surface": "במנעמיהם",
+      "gloss": "ekudleni okumnandi kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:17.195015533Z",
+  "model": "glm-5.3"
+}

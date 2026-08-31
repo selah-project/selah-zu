@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 4:15",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi abadala bomhlangano bazobeka ⟨את⟩ izandla zabo phezulu kwekhanda likanomshunalalele phambi kukaYahwe; futhi uzomhlaba ⟨את⟩ inkomishi phambi kukaYahwe.",
+  "tokens": [
+    {
+      "surface": "וסמכו",
+      "gloss": "Futhi bazobeka"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abadala ba-"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "bomhlangano"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izandla zabo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "izandla zabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezulu kwe-"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "khanda la-"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "kanomshunalalele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "futhi uzomhlaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "incomishi (nomshunalalele)"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "incomishi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:51:53.106672037Z",
+  "model": "glm-5.3"
+}

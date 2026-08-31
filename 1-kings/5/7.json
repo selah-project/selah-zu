@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 5:7",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Futhi labo ababeke ngasese bambondla ⟨את⟩ inkosi uShelomo,naye ⟨את⟩ bonke abasondele etafuleni lenkosi uShelomo,munye nomunye enyangweni yakhe;akubalahlanga lutho.",
+  "tokens": [
+    {
+      "surface": "ויכלכלו",
+      "gloss": "bambondla"
+    },
+    {
+      "surface": "הנצבים",
+      "gloss": "labo ababeke ngasese"
+    },
+    {
+      "surface": "האלה",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi uShelomo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "bonke abasondele etafuleni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "abasondele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "etafuleni"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "etafuleni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "lenkosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munye nomunye"
+    },
+    {
+      "surface": "חדשו",
+      "gloss": "enyangweni yakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aku-"
+    },
+    {
+      "surface": "יעדרו",
+      "gloss": "balahlanga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lutho"
+    }
+  ],
+  "timestamp": "2026-08-31T03:49:07.094044565Z",
+  "model": "glm-5.3"
+}

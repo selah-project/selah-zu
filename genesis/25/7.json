@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 25:7",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi lezi yizinsuku zeminyaka yokuphila kuka-Avraham ayephila kuyo: iminyaka engu-100 neminyaka engu-70 neminyaka engu-5.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "futhi lezi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "שני",
+      "gloss": "zeminyaka"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "yokuphila"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ka-Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayephila"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ephila kuzo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "engu-100"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "neminyaka engu-70"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "neminyaka"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "engu-5"
+    }
+  ],
+  "timestamp": "2026-08-31T01:12:58.465699346Z",
+  "model": "glm-5.3"
+}

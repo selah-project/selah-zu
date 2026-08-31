@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 7:7",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi umdidiyelo wesihlalo, lapho ehlulela khona — umdidiyelo wokwahlulela — wawenziwe; futhi wawusongwe ngomuthi wezedi kusukela esisekweni kuya esisekweni.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Futhi umdidiyelo"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "wesihlalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ehlulela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "umdidiyelo"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "wokwahlulela"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "וספון",
+      "gloss": "futhi wawusongwe"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "ngomuthi wezedi"
+    },
+    {
+      "surface": "מהקרקע",
+      "gloss": "kusukela esisekweni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuya"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "esisekweni"
+    }
+  ],
+  "timestamp": "2026-08-31T03:50:40.766287454Z",
+  "model": "glm-5.3"
+}

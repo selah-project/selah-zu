@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 8:20",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Futhi ⟨את⟩ ihlama walihlaba ngezinto ezihlaba ngazo, futhi uMoshe wadlulisela elangeni ⟨את⟩ ikhanda, ⟨את⟩ izingxenye, no ⟨את⟩ amafuta.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihlama"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ihlama"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "walihlaba"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "ngezinto ezihlaba"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "wadlulisela elangeni"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikhanda"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ikhanda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izingxenye"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "izingxenye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amafuta"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "amafuta"
+    }
+  ],
+  "timestamp": "2026-08-31T05:57:46.158130609Z",
+  "model": "glm-5.3"
+}

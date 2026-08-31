@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 10:25",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ngoba kusesikhashana esincane kakhulu, futhi isidlwane sizaphela, futhi intukuthelo yami phezu kokubhujiswa kwabo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kusesikhashana"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "esincane"
+    },
+    {
+      "surface": "מזער",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "futhi sizaphela"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "isidlwane"
+    },
+    {
+      "surface": "ואפי",
+      "gloss": "futhi intukuthelo yami"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "תבליתם",
+      "gloss": "kokubhujiswa kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:19:18.989085233Z",
+  "model": "glm-5.3"
+}

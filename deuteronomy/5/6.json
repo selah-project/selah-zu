@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Mina nginguYahwe uElohim wakho, owakukhipha eNkosini yaseMitsrayim, endlwanzi yokuthunyelwa.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "wakukhipha"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "yokuthunyelwa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:31:34.678818327Z",
+  "model": "glm-5.3"
+}

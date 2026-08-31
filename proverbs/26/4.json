@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Ungamphenduli isiphukuphuku ngokwesiphukuphuku sawo, hlezi uzofana naye nina.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תען",
+      "gloss": "mphenduli"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "isiphukuphuku"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "ngokwesiphukuphuku sawo"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hlezi"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "uzofana"
+    },
+    {
+      "surface": "לו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na-"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "we (nina)"
+    }
+  ],
+  "timestamp": "2026-08-31T07:02:06.865903970Z",
+  "model": "glm-5.3"
+}

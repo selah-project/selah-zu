@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "uYahwe wakhuluma kuMoshe naku-Aharoni, ethi:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naku-"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharoni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:09:20.469626713Z",
+  "model": "glm-5.3"
+}

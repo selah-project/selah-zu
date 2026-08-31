@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 30:12",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "futhi umyeni wakhe ezwa wathula kuye, angayalanga ⟨את⟩ yena —khona konke izivumelwano zakhe nezonso zibopho azibophele phezu komphefumulo wakhe kuzoma.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "futhi ezwa"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "umyeni wakhe"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "wathula"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "yalanga"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yena",
+      "marks": "khona konke izivumelwano zakhe"
+    },
+    {
+      "surface": "וקמו",
+      "gloss": "zona kuzoma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "נדריה",
+      "gloss": "izivumelwano zakhe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "futhi zonse"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "zibopho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "azibophele"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ozibophele"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "umphefumulo wakhe"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "kuzoma"
+    }
+  ],
+  "timestamp": "2026-08-31T02:25:57.378827524Z",
+  "model": "glm-5.3"
+}

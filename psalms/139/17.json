@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 139:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 139,
+  "translation": "Futhi kimi — zingaki ziyigugu izinkingcibeko zakho, u-El! Zingaki zinamandla isamba sazo!",
+  "tokens": [
+    {
+      "surface": "ולי",
+      "gloss": "futhi kimi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "zingaki"
+    },
+    {
+      "surface": "יקרו",
+      "gloss": "ziyigugu"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "izinkingcibeko zakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "מה",
+      "gloss": "zingaki"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "zinamandla"
+    },
+    {
+      "surface": "ראשיהם",
+      "gloss": "isamba sazo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:50.398756656Z",
+  "model": "glm-5.3"
+}

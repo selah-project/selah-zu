@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 34:27",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Amadodana kaYaakov afika kubafowabo abafelwe,babhujisa idolobha ngenxa yokuthi bengcoliswe umfowabo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kaYaakov"
+    },
+    {
+      "surface": "באו",
+      "gloss": "afika"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "abafelwe"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "babhujisa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "idolobha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngenxa yokuthi"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "bengcoliswe"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "umfowabo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:18:07.620176232Z",
+  "model": "glm-5.3"
+}

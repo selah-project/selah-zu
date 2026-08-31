@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 61,
+  "translation": "Ngokuba wawungisindisele indawo yokuphunyuka, iwobhe lezinga eliphezulu phambi kwezitha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "היית",
+      "gloss": "wawungi-"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "indawo yokuphunyuka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "-ngi"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "iwobhe lezinga"
+    },
+    {
+      "surface": "עז",
+      "gloss": "eliphezulu"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "izitha"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:32.511583958Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 1:1",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "uYahwe wakhuluma noMoshe esigodini saseSayina, etendeni lokuhlangana, ngosuku lokuthinta lwenyanga yesibili, unyaka wesibili kokuphuma kwabo ezweni laseMitsrayim, ethi:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "esigodini"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "saseSayina"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "etendeni"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lokuhlangana"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ngosuku lokuthinta"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "lwenyanga"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yesibili"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "unyaka"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "wesibili"
+    },
+    {
+      "surface": "לצאתם",
+      "gloss": "kokuphuma kwabo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:07:32.897383002Z",
+  "model": "glm-5.3"
+}

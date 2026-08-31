@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 14:20",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Ngokwenhloso yokujikeleza ⟨את⟩ ubuso buledaba, lenze inkonzi yakho uYowabhi ⟨את⟩ lelidaba; futhi iNkosi yami {{ingunobulumende}}—uyehluleka; kodwa ngokomthetho wethu: iNkosi yami inobuhlakani njengobuhlakani bomyalezi ka-Elohim, ukwazi ⟨את⟩ konke okusemhlabeni.",
+  "tokens": [
+    {
+      "surface": "לבעבור",
+      "gloss": "ngokwenhloso yokujikeleza"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "ukujikeleza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso buledaba"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ledaba"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yenze"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "inkonzi yakho"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYowabhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lelidaba"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ledaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "futhi iNkosi yami"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "inobuhlakani"
+    },
+    {
+      "surface": "כחכמת",
+      "gloss": "njengobuhlakani"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "umyalezi"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ka-Elohim"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ukwazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke okusemhlabeni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku-"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "semhlabeni"
+    }
+  ],
+  "timestamp": "2026-08-31T11:43:58.972706438Z",
+  "model": "glm-5.3"
+}

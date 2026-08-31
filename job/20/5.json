@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 20:5",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Ngokuba umquluso lwababi luyasuka ngokushesha, lujabulo loluBususeli lwalomuzuzu nje; (thula-gununduzela ngokomzuzwana)",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "רננת",
+      "gloss": "umquluso (umsindo wokujabula)"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abayimbi"
+    },
+    {
+      "surface": "מקרוב",
+      "gloss": "kufike ngokushesha \/ isikhathi esifushane"
+    },
+    {
+      "surface": "ושמחת",
+      "gloss": "lujabulo"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "loluBususeli ( profiling of) uchukutheleyo ongcolileyo"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "umzuzu omningi \/ ithuzwi elilodwa lemeso"
+    }
+  ],
+  "timestamp": "2026-08-31T07:19:51.006972785Z",
+  "model": "glm-5.3"
+}

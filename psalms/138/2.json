@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 138:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 138,
+  "translation": "Ngiyoguqila etempeleni eyingcwele yakho, ngibonge ⟨את⟩ igama lakho ngenxa yobubele bakho (ikhesedi) nenqiniso lakho; ngokuba ulikhulise ngaphezu kwegama lakho lonke izwi lakho.",
+  "tokens": [
+    {
+      "surface": "אשתחוה",
+      "gloss": "ngiyoguqila"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "etempeleni"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "eyingcwele yakho"
+    },
+    {
+      "surface": "ואודה",
+      "gloss": "ngibonge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lakho"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa ye-"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nenxa ye-"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "inenqiniso lakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "ulikhulise"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu kwe-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "izwi lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:36.784238575Z",
+  "model": "glm-5.3"
+}

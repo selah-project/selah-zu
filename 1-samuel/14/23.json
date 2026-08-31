@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "uYahwe wasindisa ngalolo suku ⟨את⟩ iSirayeli, impi yadlula ⟨את⟩ iBethi-Aveni.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "wasindisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalolu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "suku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iSirayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iSirayeli"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "impi"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "yadlula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iBethi-Aveni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iBethi"
+    },
+    {
+      "surface": "און",
+      "gloss": "-Aveni"
+    }
+  ],
+  "timestamp": "2026-08-31T03:21:46.480127506Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 3:20",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "iziphetho zasekhanda, nomayelana, namabhande, namathangi okuso, nezimpinda zokwelapha.",
+  "tokens": [
+    {
+      "surface": "הפארים",
+      "gloss": "iziphetho zasekhanda"
+    },
+    {
+      "surface": "והצעדות",
+      "gloss": "nomayelana"
+    },
+    {
+      "surface": "והקשרים",
+      "gloss": "namabhande"
+    },
+    {
+      "surface": "ובתי",
+      "gloss": "namathangi"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "okomphefumulo"
+    },
+    {
+      "surface": "והלחשים",
+      "gloss": "nezimpinda zokwelapha"
+    }
+  ],
+  "timestamp": "2026-08-31T04:17:08.775327342Z",
+  "model": "glm-5.3"
+}

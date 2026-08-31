@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "UMoshe wayekhuluma ⟨את⟩ imikhosi enqunyiwe kaYahwe kubantwana bakwa-Israeli.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wayekhuluma"
+    },
+    {
+      "surface": "משה",
+      "gloss": "UMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imikhosi enqunyiwe kaYahwe"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "imikhosi enqunyiwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israeli"
+    }
+  ],
+  "timestamp": "2026-08-31T02:03:58.646651894Z",
+  "model": "glm-5.3"
+}

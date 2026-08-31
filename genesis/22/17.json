@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 22:17",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "ukuthi ngesiseni ngizakusisa, futhi ngandinisweni ngizadinisa ⟨את⟩ inzala yako njengenkanyezi zezulu, njengomhlabathi oluseluswenilolwandle; inzala yako izoyithumba ⟨את⟩ isango lezitha zalo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ngesiseni"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ngizakusisa"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "futhi ngandinisweni"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ngizadinisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzala yako"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "inzala yako"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "njengenkanyezi ze"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezulu"
+    },
+    {
+      "surface": "וכחול",
+      "gloss": "njengomhlabathi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oluse"
+    },
+    {
+      "surface": "על",
+      "gloss": "esezibhelwaneni"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "esibhelwaneni"
+    },
+    {
+      "surface": "הים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "וירש",
+      "gloss": "izoyithumba"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "inzala yako"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isango lezitha zalo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "isango"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "lezitha zalo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:54:47.499806826Z",
+  "model": "glm-5.3"
+}

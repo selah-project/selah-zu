@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 8:21",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "uShemuyeli wayezwa ⟨את⟩ wonke amagama abantu, wayewakhuluma ezindlebeni zikaYahwe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wayezwa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuyeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke amagama abantu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וידברם",
+      "gloss": "wayewakhuluma"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ezindlebeni zika-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:15:23.826662182Z",
+  "model": "glm-5.3"
+}

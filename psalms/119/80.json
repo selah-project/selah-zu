@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Maba liphelele elinganaki inhliziyo yami emthethweni wakho, ukuze ningihleki.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "maba"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inhliziyo yami"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "liphelele elinganaki"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "emthethweni wakho"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ninga"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ngihleki"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:43.572385610Z",
+  "model": "glm-5.3"
+}

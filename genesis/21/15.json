@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Amanzi aphela kusuka esikhumbeni, wamphonsa phansi ⟨את⟩ umntwana ngaphansi kwenye yezihlahla ezincane.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "aphela"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kusuka"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "esikhumbeni"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "wamphonsa phansi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umntwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "umntwana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi kwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "enye yez"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "izihlahla ezincane"
+    }
+  ],
+  "timestamp": "2026-08-31T01:11:30.935802685Z",
+  "model": "glm-5.3"
+}

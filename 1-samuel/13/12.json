@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 13:12",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "ngase ngithi: Manje amaFilisthi ezwehlela kimi eGiligali, ubuso bukaYahwe engingukululelangi; ngaziphoqa, ndenyusa isipho esishiswayo.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ngase ngithi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "ezwehlela"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaFilisthi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "eGiligali"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "ubuso bu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engingukululelangi"
+    },
+    {
+      "surface": "חליתי",
+      "gloss": "(ukulula)"
+    },
+    {
+      "surface": "ואתאפק",
+      "gloss": "ngaziphoqa"
+    },
+    {
+      "surface": "ואעלה",
+      "gloss": "ndenyusa"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "isipho esishiswayo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:18:56.938180405Z",
+  "model": "glm-5.3"
+}

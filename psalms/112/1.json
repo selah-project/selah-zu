@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 112:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 112,
+  "translation": "Dumisani uYah! Usizi lwendoda eyesaba ⟨את⟩ uYahwe, ethanda kakhulu imiyalo yakhe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumisani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Usizi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lwendoda"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "eyesaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "במצותיו",
+      "gloss": "imiyalo yakhe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ethanda"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:06.444023805Z",
+  "model": "glm-5.3"
+}

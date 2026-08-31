@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Isikhathi sokuzalwa, nesikhathi sokufa; isikhathi sokutshala, nesikhathi sokukhipha okutshaliwe;",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Isikhathi"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "sokuzalwa"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nesikhathi"
+    },
+    {
+      "surface": "למות",
+      "gloss": "sokufa"
+    },
+    {
+      "surface": "עת",
+      "gloss": "isikhathi"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "sokutshala"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nesikhathi"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "sokukhipha"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "okutshaliwe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:44:31.379467333Z",
+  "model": "glm-5.3"
+}

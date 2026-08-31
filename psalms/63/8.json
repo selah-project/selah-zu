@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 63:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 63,
+  "translation": "Ngingaba usizo lwakho, esithunzini sezimpiko zakho ngiyajabula ngicula.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ungabe"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "usizo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lwakho"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "esithunzini"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sezimpiko zakho"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ngiyajabula ngicula"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:35.504438100Z",
+  "model": "glm-5.3"
+}

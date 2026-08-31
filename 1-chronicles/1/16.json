@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "ne-Arvadi ne-Tzemari ne-Khamati",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "iArvadi"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "iArvadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "iTzemari"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "iTzemari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "iKhamati"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "iKhamati"
+    }
+  ],
+  "timestamp": "2026-08-31T08:18:50.053390753Z",
+  "model": "glm-5.3"
+}

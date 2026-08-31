@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 130,
+  "ref": "psalms 119:130",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Isivulelo samazwi akho sikhanyisa; sinikeza ukuqonda abangenaziyo.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "isivulelo"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "samazwi akho"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "sikhanyisa"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "sinikeza ukuqonda"
+    },
+    {
+      "surface": "פתיים",
+      "gloss": "abangenaziyo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:57.406371783Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Ize lezize, uthe uQohelethi, konke kuize.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Ize"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "lezize"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "uQohelethi"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kuize"
+    }
+  ],
+  "timestamp": "2026-08-31T07:50:49.115227872Z",
+  "model": "glm-5.3"
+}

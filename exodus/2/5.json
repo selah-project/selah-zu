@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 2:5",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Indodakazi kaParo yehla ukuhlamba eduze nomfula, nezinsizakazi zakhe zihamba ezandleni zomfula; yabona ⟨את⟩ isikhafu phakathi kwezinkuni, yathuma ⟨את⟩ insizakazi yayo, yathatha.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "yehla"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "לרחץ",
+      "gloss": "ukuhlamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "eduze"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "nomfula"
+    },
+    {
+      "surface": "ונערתיה",
+      "gloss": "nezinsizakazi zakhe"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "zihamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezi-"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ezandleni"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "zomfula"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isikhafu"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "isikhafu"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "הסוף",
+      "gloss": "kwezinkuni"
+    },
+    {
+      "surface": "ותשלח",
+      "gloss": "yathuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insizakazi yayo"
+    },
+    {
+      "surface": "אמתה",
+      "gloss": "insizakazi yayo"
+    },
+    {
+      "surface": "ותקחה",
+      "gloss": "yathatha"
+    }
+  ],
+  "timestamp": "2026-08-31T01:25:59.227519630Z",
+  "model": "glm-5.3"
+}

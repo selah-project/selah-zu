@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 11:1",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "UgetYahwe wasesethi kuMoshe: Ngeza isibotho esisodwa phezu kukaParo naphezu kweMitsrayim; ngemva kwalokho uzonithumela ⟨abakaki abayizingoni:ni⟩ kuleli; lapho esenithumela, uzonixosha ngokuphelele ngempela uzonixosha kuleli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wasesethi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ugetYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ngeza"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "isibotho"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "esisodwa"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ngeza"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kuka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "naphezu kwe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ngemva kwalokho"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "uzonithumela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ -ni",
+      "marks": "ni (inina)"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kuleli"
+    },
+    {
+      "surface": "כשלחו",
+      "gloss": "lapho esenithumela"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ngokuphelele"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "uzonixosha"
+    },
+    {
+      "surface": "יגרש",
+      "gloss": "ngempela uzonixosha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ -ni",
+      "marks": "ni (inina)"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "kuleli"
+    }
+  ],
+  "timestamp": "2026-08-31T01:31:32.967597961Z",
+  "model": "glm-5.3"
+}

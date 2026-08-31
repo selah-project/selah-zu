@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 65:20",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 65,
+  "translation": "Angiyikuba khona lapha kwesaba umntwana onesikhathi esifishane, nendala engagcwalisanga izinsuku zayo; ngokuba umntwana onesikhathi esingu-leminyaka yikhulu uzofa, yona ongcolileyo onesikhathi esingu-leminyaka yikhulu izothathwa njengesidala esinqabile.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "angiyikuba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "khona"
+    },
+    {
+      "surface": "משם",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kwesaba"
+    },
+    {
+      "surface": "עול",
+      "gloss": "umntwana onesikhathi esifishane"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "(ezinsuku)"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "nendala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engaqali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "gcwalisanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinsuku zayo"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "izinsuku zayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "umntwana onesikhathi esingu-leminyaka yikhulu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "onesikhathi esingu-"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ikhulu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "leminyaka"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "uzofa"
+    },
+    {
+      "surface": "והחוטא",
+      "gloss": "yona ongcolileyo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "onesikhathi esingu-"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ikhulu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "leminyaka"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "izothathwa njengesidala esinqabile"
+    }
+  ],
+  "timestamp": "2026-08-31T04:38:02.793711568Z",
+  "model": "glm-5.3"
+}

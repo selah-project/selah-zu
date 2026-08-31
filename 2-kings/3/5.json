@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 3:5",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "KWathi ngemva kokufa kuka-Ahabu, inkosi yaseMowabu yaphahuka kunkosi yaseYisrayeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "KWathi"
+    },
+    {
+      "surface": "כמות",
+      "gloss": "ngemva kokufa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "kuka-Ahabu"
+    },
+    {
+      "surface": "ויפשע",
+      "gloss": "yaphahuka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "yaseMowabu"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "kunkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaseYisrayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T04:03:50.660337085Z",
+  "model": "glm-5.3"
+}

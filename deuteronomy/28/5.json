@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Ubusisiwe isikhwama sakho nesitha sakho sokuknesa.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Ubusisiwe"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "isikhwama sakho"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "nesitha sakho sokuknesa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:00:55.383715850Z",
+  "model": "glm-5.3"
+}

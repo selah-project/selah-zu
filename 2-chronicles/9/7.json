@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 9:7",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ukuthi ukhona amadoda akho, futhi ukhona izinceku zakho lezi ezimile phambi kwakho njalo, ezilalela ⟨את⟩ ubuhlakani bakho.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ukuthi ukhona"
+    },
+    {
+      "surface": "אנשיך",
+      "gloss": "amadoda akho"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "futhi ukhona"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "izinceku zakho"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ezimile"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "ושמעים",
+      "gloss": "ezilalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuhlakani bakho"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ubuhlakani bakho"
+    }
+  ],
+  "timestamp": "2026-08-31T08:34:45.268101882Z",
+  "model": "glm-5.3"
+}

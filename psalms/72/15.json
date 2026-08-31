@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 72:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 72,
+  "translation": "Futhi uyophila, futhi kuyonikezwa igolide laseSheba; bayothandaza ngaye njalo, usuku lonke bayomusisa.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "futhi uyophila"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "kuyonikezwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "laseSheba"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "bayothandaza"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ngaye"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "יברכנהו",
+      "gloss": "bayomusisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:21.595528133Z",
+  "model": "glm-5.3"
+}

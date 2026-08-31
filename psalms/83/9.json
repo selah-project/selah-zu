@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 83,
+  "translation": "Yize iAshuri nahlangana nabo; baba yisandla kubantwaba kaLoti. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "yize"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "iAshuri"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "hlangana"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "nabo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "baba"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "yisandla"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kubantwaba"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "kaLoti"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:52.259811391Z",
+  "model": "glm-5.3"
+}

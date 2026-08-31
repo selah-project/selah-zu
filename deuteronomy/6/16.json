@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ningalingi ⟨את⟩ uYahwe uElohim wenu, njengokulinga kwenu eMassa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ninga-"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "lingi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe uElohim wenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokulinga"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "eMassa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:31:49.754625802Z",
+  "model": "glm-5.3"
+}

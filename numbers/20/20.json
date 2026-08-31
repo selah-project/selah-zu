@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 20:20",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Wase ethi: angeke udlule. Wase uEdomi ephuma ukumhlangabeza ngabantu abaningi nangesandla esiqiniso.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wase ethi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "udlule"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "wase ephuma"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "uEdomi"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "ukumhlangabeza"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "ngabantu"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "abaningi"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "nangesandla"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "esiqiniso"
+    }
+  ],
+  "timestamp": "2026-08-31T02:20:06.487007548Z",
+  "model": "glm-5.3"
+}

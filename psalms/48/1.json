@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 48,
+  "translation": "Iculo, umculo, kwabantwana bakaKorachi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Iculo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umculo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwabantwana"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "bakaKorachi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:20.308165865Z",
+  "model": "glm-5.3"
+}

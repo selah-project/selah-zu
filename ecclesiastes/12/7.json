@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi uthuli lubuyela emhlabeni njengokwakunjalo, nomoya ubuyela kuElohim ⟨owunike⟩.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "lubuyela"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "uthuli"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "njengokwakunjalo"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "nomoya"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ubuyela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "wunike"
+    }
+  ],
+  "timestamp": "2026-08-31T07:50:49.115086851Z",
+  "model": "glm-5.3"
+}

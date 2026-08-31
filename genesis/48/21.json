@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 48,
+  "translation": "U-Yisrayeli wathi ku-Yosefu: Bheka, mina ngiyafa, futhi uElohim uzo ⟨eba⟩ ninaye, futhi uyonibuyisela ⟨את⟩ nina ezweni labokhokho benu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ngiyafa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "futhi ⟨uzoba⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "ninaye"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "uyonibuyisela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "labokhokho benu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:25:09.955275847Z",
+  "model": "glm-5.3"
+}

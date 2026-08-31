@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 24:35",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "uYahwe wabusisa ⟨את⟩ inkosi yami kakhulu, yakhula, wanikeza izimvu nenkomo, isiliva negolide, iziguli nezinceku, amakamelu namadonki.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "wabusisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi yami"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "inkosi yami"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "yakhula"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wanikeza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "izimvu"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "nenkomo"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "ועבדם",
+      "gloss": "iziguli"
+    },
+    {
+      "surface": "ושפחת",
+      "gloss": "nezinceku"
+    },
+    {
+      "surface": "וגמלים",
+      "gloss": "amakamelu"
+    },
+    {
+      "surface": "וחמרים",
+      "gloss": "amadonki"
+    }
+  ],
+  "timestamp": "2026-08-31T01:12:14.017896118Z",
+  "model": "glm-5.3"
+}

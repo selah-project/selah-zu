@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Leli yisizukulwana sabo abamufunayo, abafuna ubuso bakho — uYaakobi. iSelah.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "דור",
+      "gloss": "isizukulwana"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "abamufunayo"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "abafuna"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakobi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "iSelah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:11.869374134Z",
+  "model": "glm-5.3"
+}

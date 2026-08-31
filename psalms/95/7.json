@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 95:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 95,
+  "translation": "NguYahwe uElohim wethu, kanti thina singabantu babelusi bakhe, nesilwane sesandla sakhe; namuhla, uma ezweni lakhe nilalela",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "kanti thina"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "babelusi bakhe"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "nesilwane"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "sesandla sakhe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "ezweni lakhe"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "nilalela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:31.935721400Z",
+  "model": "glm-5.3"
+}

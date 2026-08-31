@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Susa isibhekelo sakho kude nami; ngokuxabana kwesandla sakho nginciphile.",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "susa"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "kude nami"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "isibhekelo sakho"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "ngokuxabana"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "kwesandla sakho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "nginciphile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:37.250529424Z",
+  "model": "glm-5.3"
+}

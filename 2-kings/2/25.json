@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Wayahamba lapha ekuthunjeni waya entabeni yeKarmeli, futhi lapho ekuthunjeni wabuyela eShomeroni.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wayahamba"
+    },
+    {
+      "surface": "משם",
+      "gloss": "lapha ekuthunjeni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waya"
+    },
+    {
+      "surface": "הר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "yeKarmeli"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "futhi lapho ekuthunjeni"
+    },
+    {
+      "surface": "שב",
+      "gloss": "wabuyela"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "eShomeroni"
+    }
+  ],
+  "timestamp": "2026-08-31T04:01:44.396598777Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Amadodana kaEylamu, inkulungwane eyodwa, amakhulu amabili, amashumi amahlanu nane.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "amadodana ka-"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "uEylamu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "inkulungwane eyodwa"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "amakhulu amabili"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "amashumi amahlanu"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "nane"
+    }
+  ],
+  "timestamp": "2026-08-31T08:58:51.076960547Z",
+  "model": "glm-5.3"
+}

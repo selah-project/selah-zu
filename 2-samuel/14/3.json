@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Uyongena ku-inkosi, uzokhuluma kuye ngalomusho; uYowabhu wabeka ⟨את⟩ amagama emlonyeni wayo.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "uyongena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "uzokhuluma"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ngalomusho"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYowabhu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagama"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "emlonyeni wayo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:50:27.103592396Z",
+  "model": "glm-5.3"
+}

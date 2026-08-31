@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 6:13",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "uElohim wayesethi kuNoa: isiphetho sonke inyama sifike phambi kwami, ngokuba umhlaba ugcwaliswe ubudlova ngokwabo; futhi bheka, mina ngiyabatshabalalisa ⟨את⟩ umhlaba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesethi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לנח",
+      "gloss": "kuNoa"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "isiphetho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "בא",
+      "gloss": "sifike"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ugcwaliswe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ubudlova"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "ngokwabo"
+    },
+    {
+      "surface": "והנני",
+      "gloss": "futhi bheka"
+    },
+    {
+      "surface": "משחיתם",
+      "gloss": "ngiyabatshabalalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T05:54:48.207188681Z",
+  "model": "glm-5.3"
+}

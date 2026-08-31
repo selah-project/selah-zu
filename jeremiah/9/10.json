@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 9:10",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Futhi ngizenza ⟨את⟩ iYerushalayimi yizingceke, indawo yokuhlala yezimpisi; futhi amadolobha akwaYehuda ⟨את⟩ ngizawushabalalisa, kungabi nomhlali.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "futhi ngizenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYerushalayimi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "yizingceke"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "indawo yokuhlala"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "yezimpisi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "amadolobha akwaYehuda"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "amadolobha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "akwaYehuda"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ngizawunika"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ukushabalalisa"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "kungabi"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "nomhlali"
+    }
+  ],
+  "timestamp": "2026-08-31T04:42:55.867471501Z",
+  "model": "glm-5.3"
+}

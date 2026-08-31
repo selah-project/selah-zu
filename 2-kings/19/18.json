@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 19:18",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "futhi baphonsa ⟨את⟩ ilanga labo emlilweni, ngoba alizo ilanga lezo, kodwa yimisebenzi yezandla zomuntu, umuthi ngetshe; ngakho bazibhubhise.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "futhi baphonsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilanga labo"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ilanga labo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "emlilweni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alizo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "המה",
+      "gloss": "lezo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yimisebenzi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "yimisebenzi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "yezandla"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "zomuntu"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "umuthi"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ngetshe"
+    },
+    {
+      "surface": "ויאבדום",
+      "gloss": "bazibhubhise"
+    }
+  ],
+  "timestamp": "2026-08-31T04:13:10.857776692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Bheka, ngibizile ngegama uBetsaleli, indodana ka-Uri, indodana kaHuri, owomhlatsha weYehuda:",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ngibizile"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ngegama"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "uBetsaleli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "u-Uri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "חור",
+      "gloss": "uHuri"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "owomhlatsha we-"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "iYehuda"
+    }
+  ],
+  "timestamp": "2026-08-31T01:40:52.426432333Z",
+  "model": "glm-5.3"
+}

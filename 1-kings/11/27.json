@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 11:27",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi le yayinguxhoxho lwakhe ukuphakamisa isandla ⟨ngokumelene⟩ nenkosi: uShelomo wakha ⟨את⟩ iMilo, wavalile ⟨את⟩ umonakalo wase muzini kaDavide uyise.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "uxhoxho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lwakhe"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ukuphakamisa"
+    },
+    {
+      "surface": "יד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "nenkosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iMilo"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "iMilo"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "wavalile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umonakalo"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "umonakalo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wase muzini"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    }
+  ],
+  "timestamp": "2026-08-31T03:55:24.957438472Z",
+  "model": "glm-5.3"
+}

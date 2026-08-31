@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 8:4",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "UParo wabiza uMoshe noAharon, wathi: Thandazani kuYahwe ukuba asuse izintuli kimi nakubantu bami, bengizokukhulula ⟨את⟩ abantu ukuba banikele kuYahwe.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "noAharon"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "העתירו",
+      "gloss": "Thandazani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "ukuba asuse"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "izintuli"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ומעמי",
+      "gloss": "nakubantu bami"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "bengizokukhulula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "banikele"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:58.614635074Z",
+  "model": "glm-5.3"
+}

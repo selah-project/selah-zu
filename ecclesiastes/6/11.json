@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ngokuba kukhona izinto eziningi ezanda ihebula; yini engaphezulu kumuntu?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kukhona"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "izinto"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "eziningi"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "ezanda"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ihebula"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "engaphezulu"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "kumuntu"
+    }
+  ],
+  "timestamp": "2026-08-31T07:47:40.288074246Z",
+  "model": "glm-5.3"
+}

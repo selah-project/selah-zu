@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 57,
+  "translation": "Nyukeliswa phezulu, wena uElohim, ngaphezu kwezulu; phezu konke komhlaba inkazimulo yakho.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "nyukeliswa phezulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kwezulu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "komhlaba"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "inkazimulo yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:07.633652383Z",
+  "model": "glm-5.3"
+}

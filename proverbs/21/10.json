@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Umphefumulo wesibi ufisa okubi; umlingani wakhe awutholi umusa emehlweni akhe.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "Umphefumulo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wesibi"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "ufisa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aku-"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "tholi umusa"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "emehlweni akhe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "umlingani wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:56:59.605757053Z",
+  "model": "glm-5.3"
+}

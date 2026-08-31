@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 2:2",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi abantwana bakwaYehuda nabantwana bakwa-Israyeli bazohlangana ndawonye, bazobekela yonke inhloko eyodwa, futhi bayophakama emhlabeni, ngoba mkhulu usuku lweYizreeli.",
+  "tokens": [
+    {
+      "surface": "ונקבצו",
+      "gloss": "bazohlangana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bakwaYehuda"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "nabantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "bazobekela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "inhloko"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eyodwa"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "bayophakama"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mhlabeni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mkhulu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "lweYizreeli"
+    }
+  ],
+  "timestamp": "2026-08-31T05:27:17.738396619Z",
+  "model": "glm-5.3"
+}

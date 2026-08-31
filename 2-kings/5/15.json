@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 5:15",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Wayesebuya kumuntu kaElohim, yena nayo yonke impi yakhe, wafika wema phambi kwakhe, wathi: Bheka, ngicela ngazi ukuthi akekho uElohim kuwo wonke umhlaba ngaphandle kwe-Israeli; manje ke thatha, ngicela, isibusiso esivela ⟨את⟩ kuncenu yakho.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Wayesebuya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nayo yonke"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "impi yakhe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wafika"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "wema"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngicela"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ngazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akekho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuwo wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngaphandle kwe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ku-Israeli"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "manje ke"
+    },
+    {
+      "surface": "קח",
+      "gloss": "thatha"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngicela"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "isibusiso"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "isibusiso"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "kuncenu yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T04:05:25.979788547Z",
+  "model": "glm-5.3"
+}

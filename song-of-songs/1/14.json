@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Iqoqo lezibhunga zehena lidoda lami, emivini ye-En-Gedhi.",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "iqoqo lezibhunga"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "zehena"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "lidoda lami"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lami"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "emivini"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ye-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "En-Gedhi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:32:37.259104333Z",
+  "model": "glm-5.3"
+}

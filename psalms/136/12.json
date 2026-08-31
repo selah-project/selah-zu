@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 136:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 136,
+  "translation": "Ngesandla esinamandla nangengalo eyandiweyo, ngokuthi ikhesedi lakhe lihlezi kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "ביד",
+      "gloss": "Ngesandla"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "esinamandla"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "nangengalo"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "eyandiweyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:00.335537483Z",
+  "model": "glm-5.3"
+}

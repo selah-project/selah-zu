@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 22:5",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "UDavide wathi: uShelomo, umntanami, ungumfana osemusha ongakhaliphanga, futhi indlu eyakhelwa uYahwe kufanele ikhuliswe kakhulu, ibe yigama nobuhle kuzo zonke izwe; ngakho ngizomlungiselela yena. UDavide wazilungiselela ngokuningi ngaphambi kokufa kwakhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "umntanami"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ungumfana osemusha"
+    },
+    {
+      "surface": "ורך",
+      "gloss": "futhi ungakhaliphanga"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "futhi indlu"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "eyakhelwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "להגדיל",
+      "gloss": "kufunele ikhuliswe"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ibe yigama"
+    },
+    {
+      "surface": "ולתפארת",
+      "gloss": "futhi nobuhle"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "אכינה",
+      "gloss": "ngizomlungiselela"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ויכן",
+      "gloss": "wazilungiselela"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ngokuningi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ngaphambi koku"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "kufa kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:27:43.981477475Z",
+  "model": "glm-5.3"
+}

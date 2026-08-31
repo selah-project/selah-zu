@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 21:23",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi nge-Izebeli ukhulume uYahwe esho: izinja ziyodla ⟨את⟩ u-Izebeli ekhoneni laseYizreeli.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Futhi"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "nge-Izebeli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ukhulume"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esho"
+    },
+    {
+      "surface": "הכלבים",
+      "gloss": "izinja"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ziyodla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Izebeli"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "u-Izebeli"
+    },
+    {
+      "surface": "בחל",
+      "gloss": "ekhoneni"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "laseYizreeli"
+    }
+  ],
+  "timestamp": "2026-08-31T04:00:05.090155886Z",
+  "model": "glm-5.3"
+}

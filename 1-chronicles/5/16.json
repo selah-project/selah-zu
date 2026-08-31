@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 5:16",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Bahlala eGileyadi, eBhashani nasemizaneni yalo, nasemizwaneni yonke yaseSharoni ezimbalweni zazo.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "Bahlala"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "eGileyadi"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "eBhashani"
+    },
+    {
+      "surface": "ובבנתיה",
+      "gloss": "nasemizaneni yalo"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "nase-⟨yonke⟩"
+    },
+    {
+      "surface": "מגרשי",
+      "gloss": "emizwaneni"
+    },
+    {
+      "surface": "שרון",
+      "gloss": "yaseSharoni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "תוצאותם",
+      "gloss": "zimbalweni zazo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:37:31.416217434Z",
+  "model": "glm-5.3"
+}

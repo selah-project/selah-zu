@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 46:4",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 46,
+  "translation": "Ngingihamba ngiye phansi nawe eMitsrayim, futhi ngingiphakamisa ngakho-ke; futhi uYosefi uzobeka isandla sakhe emehlweni akho.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ngi"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "ngihamba ngiye phansi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "futhi ngi"
+    },
+    {
+      "surface": "אעלך",
+      "gloss": "ngiphakamisa ngakho-ke"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ukuphakama"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "futhi uYosefi"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "uzobeka"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "emehlweni akho"
+    }
+  ],
+  "timestamp": "2026-08-31T01:23:53.409501164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi bangangeni ukubona, nangokumunye ukwethwa ⟨את⟩ ingcwele, bafe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Futhi banga-"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ngena"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "кבלע",
+      "gloss": "nangokumunye ukwethwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingcwele"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ingcwele"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "bafe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:09:20.470289562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 11:15",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi abathathu wezikhulu engamashumi amathathu behla ethekwini kuDavi, ethangweni i-Adullamu; futhi impi amaFilishti yahlala esigodlweni sabaRefayimi.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "behla"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "abathathu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "we-"
+    },
+    {
+      "surface": "השלושים",
+      "gloss": "ezikhulu engamashumi amathathu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ezikhulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ethekwini"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "ethekwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "ethangweni"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "i-Adullamu"
+    },
+    {
+      "surface": "ומחנה",
+      "gloss": "futhi impi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaFilishti"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "yahlala"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "esigodlweni"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "sabaRefayimi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:23:33.309303199Z",
+  "model": "glm-5.3"
+}

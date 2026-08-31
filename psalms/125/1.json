@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 125:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 125,
+  "translation": "Igesi lokukhuphuka. Abathembayo kuYahwe bafana nentaba yaseTsiyoni — angeke icishe, ihlale kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Igesi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lokukhuphuka"
+    },
+    {
+      "surface": "הבטחים",
+      "gloss": "Abathembayo"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "כהר",
+      "gloss": "bafana nentaba"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "yaseTsiyoni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "icishe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ihlale"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:27.248194576Z",
+  "model": "glm-5.3"
+}

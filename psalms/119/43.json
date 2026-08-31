@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ungayisusi ephephandabeni lami izwi leqiniso ngokuphelele, ngokuthi ngilindelela izahlulelo zakho.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "yisusi"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "ephephandabeni lami"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "leqiniso"
+    },
+    {
+      "surface": "עד",
+      "gloss": "-"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ngokuphelele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "izahlulelo zakho"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ngilindelela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:50.554711677Z",
+  "model": "glm-5.3"
+}

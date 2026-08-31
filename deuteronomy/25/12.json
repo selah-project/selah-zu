@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "uzoyisika ⟨את⟩ isandla sayo; iso lakhe alihawukeli.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "uzoyisika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sayo"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "isandla sayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angi-"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "hawukeli"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "iso lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T02:41:38.801159917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 3:4",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Inkosi yahamba iye eGibonini ukuzozela khona, ngokuba yona yileyo ibhema elikhulu; izinkomo eziyinkulungwane zokushiswa uShelomoh waziphefumulela phezulu esibhayinini leso.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yahamba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "גבענה",
+      "gloss": "eGibonini"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ukuzozela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "ibhema"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "elikhulu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "inkulungwane"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ezokushiswa"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "waziphefumulela phezulu"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "esibhayinini"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leso"
+    }
+  ],
+  "timestamp": "2026-08-31T10:22:13.273501848Z",
+  "model": "glm-5.3"
+}

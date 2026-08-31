@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 8:11",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Wavikisa ubuso bakhe, wabhekisisa kuye waze wadideka; indoda kaElohim yakhala.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "wavikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bakhe"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wabhekisisa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "waze"
+    },
+    {
+      "surface": "בש",
+      "gloss": "wadideka"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "yakhala"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kaElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T04:07:25.877135652Z",
+  "model": "glm-5.3"
+}

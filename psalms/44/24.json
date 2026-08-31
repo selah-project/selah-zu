@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Vuka! Kungani ulele, Adonayi? Phaphama! Ungasilahli kuze kube phakade,",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Vuka"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kungani"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "ulele"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Adonayi"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Phaphama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ungasilahli"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "(ungasilahli)"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:54.076650858Z",
+  "model": "glm-5.3"
+}

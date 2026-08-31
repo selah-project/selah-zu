@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 27:10",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "namakholomu alo amashumi amabili, neziqukwane zayo amashumi amabili yinsimbi, ama-hooku amakholomu namacansi alo ≪ngensimbi eyayinsi-nsimbi? hayi — amacansi ayensimbi; ama-hooku namasokisi eziyisiliva⟩ — ukulungiswa: namakholomu alo amashumi amabili, neziqukwane zawo amashumi amabili ngezensimbi; ama-hooku amakholomu namabhendi awo ngesiliva.",
+  "tokens": [
+    {
+      "surface": "ועמדיו",
+      "gloss": "namakholomu alo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amashumi amabili"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "neziqukwane zawo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amashumi amabili"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ngezensimbi"
+    },
+    {
+      "surface": "ותווי",
+      "gloss": "nama-hooku"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "amakholomu"
+    },
+    {
+      "surface": "וחשקיהם",
+      "gloss": "namabhendi zawo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ngesiliva"
+    }
+  ],
+  "timestamp": "2026-08-31T11:43:18.887329896Z",
+  "model": "glm-5.3"
+}

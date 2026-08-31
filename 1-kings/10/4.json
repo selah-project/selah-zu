@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Indlovukazi yeSheba yabona ⟨את⟩ yonke ubuhlakani bukaShelomohi, nendlu ayakha yona.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "indlovukazi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "yeSheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke ubuhlakani bukaShelomohi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ubuhlakani"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "bukaShelomohi"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "nendlu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayakha yona"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wakha"
+    }
+  ],
+  "timestamp": "2026-08-31T03:53:25.220054280Z",
+  "model": "glm-5.3"
+}

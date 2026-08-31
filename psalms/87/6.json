@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 87,
+  "translation": "uYahwe uzobala ekubhalweni kwamawela: Lona zalwe lapho. Selah.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "uzobala"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "ekubhalweni"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "kwamawela"
+    },
+    {
+      "surface": "זה",
+      "gloss": "Lona"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "zalwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:04.902397459Z",
+  "model": "glm-5.3"
+}

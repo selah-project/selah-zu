@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 64,
+  "translation": "Kumqondisi wezimvume. Ingoma leyo kaDavide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi wezimvume"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Ingoma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:30.742517112Z",
+  "model": "glm-5.3"
+}

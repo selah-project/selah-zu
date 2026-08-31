@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 56:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 56,
+  "translation": "KuElohim ngiyadumisa izwi; kuYahwe ngiyadumisa izwi.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "KuElohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ngiyadumisa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ngiyadumisa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:40.468239226Z",
+  "model": "glm-5.3"
+}

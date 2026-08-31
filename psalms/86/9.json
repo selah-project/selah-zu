@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 86:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 86,
+  "translation": "Wonke amazwe owo wawenza azokuza futhi azokuzithoba phambi kwakho, u-Adonayi, futhi azokukhulisa igama lakho.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amazwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owo"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wawenza"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "azokuza"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "futhi azokuzithoba"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "ויכבדו",
+      "gloss": "futhi azokukhulisa"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "igama lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:35.515403293Z",
+  "model": "glm-5.3"
+}

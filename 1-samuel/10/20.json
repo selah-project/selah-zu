@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 10:20",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "UShemueli wasondezisa ⟨את⟩ zonke izizwe zika-Israeli, yabe ithathwa isizwe sikaBhenjamini.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "wasondezisa"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemueli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke izizwe zika-Israeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zika-Israeli"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "yabe ithathwa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "sikaBhenjamini"
+    }
+  ],
+  "timestamp": "2026-08-31T06:02:52.822433295Z",
+  "model": "glm-5.3"
+}

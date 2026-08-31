@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 1:21",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Yaze indoda u-Elkanah nayo neyakhe yonke indlu yakwabayi yanabela ukuze yenzele uYahwe ⟨את⟩ izinkomo zezinsuku zonke kanye ⟨את⟩ isithembiso sakhe.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "yanabela"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "u-Elkanah"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "indlu yakhe"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ukwenza izinkomo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinkomo zezinsuku zonke"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "izinkomo"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "zezinsuku zonke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isithembiso sakhe"
+    },
+    {
+      "surface": "נדרו",
+      "gloss": "isithembiso sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:02:27.837837987Z",
+  "model": "glm-5.3"
+}

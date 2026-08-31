@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 21:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Uzobenza njengesitofu somlilo ngesikhathi kobuso kwakho; uYahwe ngolaka lwakhe uzobagwinya, futhi umlilo uzowadla.",
+  "tokens": [
+    {
+      "surface": "תשיתמו",
+      "gloss": "uzobenza"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "njengesitofu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "omlilo"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ngesikhathi"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kobuso kwakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ngolaka lwakhe"
+    },
+    {
+      "surface": "יבלעם",
+      "gloss": "uzobagwinya"
+    },
+    {
+      "surface": "ותאכלם",
+      "gloss": "futhi uzowadla"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:35.976985290Z",
+  "model": "glm-5.3"
+}

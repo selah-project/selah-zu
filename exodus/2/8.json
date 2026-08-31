@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Undodakazi kaParo wathi kuyena: Hamba. Lona intombi-nyana wahamba, wabiza ⟨את⟩ unina womntwana.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "בת",
+      "gloss": "undodakazi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "Hamba"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "intombi-nyana"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unina womntwana"
+    },
+    {
+      "surface": "אם",
+      "gloss": "unina"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "womntwana"
+    }
+  ],
+  "timestamp": "2026-08-31T01:25:59.228074845Z",
+  "model": "glm-5.3"
+}

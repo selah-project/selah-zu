@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 21:23",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Abantu bakwa-Amon bamqambela ichashu, bamba ⟨את⟩ inkosi endlini yakhe.",
+  "tokens": [
+    {
+      "surface": "ויקשרו",
+      "gloss": "bamqambela ichashu"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Abantu baka-"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Amon"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "chashu"
+    },
+    {
+      "surface": "וימיתו",
+      "gloss": "bamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "endlini yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:12:47.278762531Z",
+  "model": "glm-5.3"
+}

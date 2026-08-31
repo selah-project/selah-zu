@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 88:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 88,
+  "translation": "Iso lami liyabhujwa ngenxa yokuhlupheka kwami, ngikubizile, uYahwe, nsuku zonke, nganwebise izandla zami kuwe.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "iso lami"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "liyabhujwa"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ngenxa ye"
+    },
+    {
+      "surface": "עני",
+      "gloss": "yokuhlupheka kwami"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ngikubizile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nsuku"
+    },
+    {
+      "surface": "שטחתי",
+      "gloss": "nganwebise"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "izandla zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:54.890822496Z",
+  "model": "glm-5.3"
+}

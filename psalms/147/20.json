@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 147,
+  "translation": "Akakenzi njalo nakweliphi izwe; futhi nangezahlulelo zakhe abaziwazanga. Dankuni uYah!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Akakenzi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "nakweliphi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "nangezahlulelo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "abaziwazanga"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "Dankuni"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "יה",
+      "gloss": "!"
+    }
+  ],
+  "timestamp": "2026-08-31T06:45:02.425494189Z",
+  "model": "glm-5.3"
+}

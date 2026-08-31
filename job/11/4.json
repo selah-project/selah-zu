@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 11:4",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Uthi: isifundo sami sihlanzekile, futhi bengihlanzekile emehlweni akho.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "זך",
+      "gloss": "ihlanzekile"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "isifundo sami"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "futhi-ihlanzekile"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bengi"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "emehlweni akho"
+    }
+  ],
+  "timestamp": "2026-08-31T07:12:20.406779726Z",
+  "model": "glm-5.3"
+}

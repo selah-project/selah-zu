@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Wathi kubona: Zwanini nina leli phupho engiliphuphe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Zwanini"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nina"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "leli phupho"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi- (okuthile)"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "engiliphuphe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:49:19.356588633Z",
+  "model": "glm-5.3"
+}

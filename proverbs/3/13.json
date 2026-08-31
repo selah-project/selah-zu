@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Injabulo yenziwa yomuntu oyitholile ihlakaniphi, nomuntu ekhiphile ukuqonda.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "injabulo yenziwa yomuntu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "oyitholile"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ihlakaniphi"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "nomuntu"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "ekhiphile"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ukuqonda"
+    }
+  ],
+  "timestamp": "2026-08-31T06:47:30.071049968Z",
+  "model": "glm-5.3"
+}

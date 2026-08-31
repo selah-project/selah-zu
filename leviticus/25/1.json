@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "UYahwe wakhuluma kuMoshe entabeni iSinayi, ⟨ethi⟩",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "iSinayi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ethi⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T02:05:04.634073527Z",
+  "model": "glm-5.3"
+}

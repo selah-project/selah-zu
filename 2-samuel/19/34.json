@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-samuel 19:34",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Inkosi yathi kuBharizelai: Wena, dlula ⟨את⟩ nami, futhi ngizakondla ⟨את⟩ wena kanye nami eYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "ברזלי",
+      "gloss": "uBharizelai"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "dlula"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nami"
+    },
+    {
+      "surface": "וכלכלתי",
+      "gloss": "ngizakondla"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "kanye nami"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "eYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:43:37.304014701Z",
+  "model": "glm-5.3"
+}

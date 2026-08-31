@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Kungani uthe yigodi wami yilokhu, ukuze ngithathe ⟨את⟩ yena kimi ukuba yinkosikazi na? Manje-ke, yilokhu, unyoko; thatha, uye.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kungani"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "ute"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "yigodi wami"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilokhu"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "ukuze ngithathe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ukuba yinkosikazi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Manje-ke"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yilokhu"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "unyoko"
+    },
+    {
+      "surface": "קח",
+      "gloss": "thatha"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "uye"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:31.326478549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Ungabi nomona ngabeni okohlulekile, futhi ungafuni ⟨ukuba⟩ nge⟨את⟩ nabo.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "bi nomona"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "ngabeni"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "okohlulekile"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi ungafuni"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "ukufisa"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nabo",
+      "marks": "nabo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:56:48.181065828Z",
+  "model": "glm-5.3"
+}

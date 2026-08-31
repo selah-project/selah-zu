@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 45:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Ziyathunyelwa ngokujabula nemajubelo; zingena ethempelini lenkosi.",
+  "tokens": [
+    {
+      "surface": "תובלנה",
+      "gloss": "ziyathunyelwa"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "ngokujabula"
+    },
+    {
+      "surface": "וגיל",
+      "gloss": "nemajubelo"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "zingena"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "ethempelini"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "lenkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:05.205984105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "ngoba endaweni lapho bamkhulisela khona, lapha uzofa, futhi ⟨את⟩ leli zwe alisayi kulibona futhi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "bamkhulisela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uShalumu (lowo ohambele)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "uzofa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leli zwe"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "leli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alisayi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "kulibona"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "futhi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:47:09.213618374Z",
+  "model": "glm-5.3"
+}

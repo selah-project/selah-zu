@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 11:10",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Ngepisinde niyokwa; emngceleni wakwa-Israyeli ngiyonigweba; futhi niyokwazi ukuthi mina nguYahwe.",
+  "tokens": [
+    {
+      "surface": "בחרב",
+      "gloss": "ngepisinde"
+    },
+    {
+      "surface": "תפלו",
+      "gloss": "niyokwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "emngceleni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wakwa-Israyeli"
+    },
+    {
+      "surface": "אשפוט",
+      "gloss": "ngiyonigweba"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "ni"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "futhi niyokwazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:06:58.648225603Z",
+  "model": "glm-5.3"
+}

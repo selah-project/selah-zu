@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 3:18",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngosusu ⟨olulolu⟩ u-Adonayi uzolisusa ⟨את⟩ izihombiso ezihamba ngezinyawo, izihombiso zasekhanda, nezimo zenyanga.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ngosuku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "olulolu"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "uzolisusa"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izihombiso ezihamba ngezinyawo"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ubuhle bezihombiso"
+    },
+    {
+      "surface": "העכסים",
+      "gloss": "ezihamba ngezinyawo"
+    },
+    {
+      "surface": "והשביסים",
+      "gloss": "izihombiso zasekhanda"
+    },
+    {
+      "surface": "והשהרנים",
+      "gloss": "nezimo zenyanga"
+    }
+  ],
+  "timestamp": "2026-08-31T04:17:08.775064088Z",
+  "model": "glm-5.3"
+}

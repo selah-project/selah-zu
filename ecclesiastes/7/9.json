@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ungabikhishi umoya wakho ukuze ukwatuke, ngokuthi ukwatura kuyophumula esifubeni sabazisele.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "ukubikhisha"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "umoya wakho"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "ukuzikatula"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ukwatura"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "esifubeni"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "abazisele"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "uyophumula"
+    }
+  ],
+  "timestamp": "2026-08-31T10:34:53.061808174Z",
+  "model": "glm-5.3"
+}

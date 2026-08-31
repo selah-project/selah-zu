@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 49:10",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Ngokuba mina ngigqolile ⟨את⟩ u-Esawu, ngiveze ⟨את⟩ izimfihlo zakhe, futhi angakwazi ukuzifihla; ihlatshiwe imbewu yakhe, nomfowabo nabezindawo zakhe; futhi yena akasekho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "ngigqolile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Esawu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "u-Esawu"
+    },
+    {
+      "surface": "גליתי",
+      "gloss": "ngiveze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izimfihlo zakhe"
+    },
+    {
+      "surface": "מסתריו",
+      "gloss": "izimfihlo zakhe"
+    },
+    {
+      "surface": "ונחבה",
+      "gloss": "ukuzifihla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angakwazi"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "angakwazi"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "ihlatshiwe"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "imbewu yakhe"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "nomfowabo"
+    },
+    {
+      "surface": "ושכניו",
+      "gloss": "nabezindawo zakhe"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "futhi yena akasekho"
+    }
+  ],
+  "timestamp": "2026-08-31T05:01:01.401187352Z",
+  "model": "glm-5.3"
+}

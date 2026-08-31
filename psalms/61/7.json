@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 61,
+  "translation": "Uzongeza izinsuku phezu kwezinsuku zenkosi, iminyaka yayo ibe njengomkhosomuzukulwane nomuzukulwane.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "enkosi"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "uzongeza"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "iminyaka yayo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njengo"
+    },
+    {
+      "surface": "דר",
+      "gloss": "umkhosomuzukulwane"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nomuzukulwane"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:04.277057121Z",
+  "model": "glm-5.3"
+}

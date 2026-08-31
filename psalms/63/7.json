@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 63:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 63,
+  "translation": "Ngingakhumbula ngingenalwazi, emiganeni yami, ezibukweni zasebusuku ngiyacabanga ngawe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "זכרתיך",
+      "gloss": "ngingakhumbula"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "emiganeni yami"
+    },
+    {
+      "surface": "באשמרות",
+      "gloss": "ezibukweni zasebusuku"
+    },
+    {
+      "surface": "אהגה",
+      "gloss": "ngiyacabanga"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ngawe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:35.504281992Z",
+  "model": "glm-5.3"
+}

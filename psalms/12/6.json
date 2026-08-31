@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 12:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Ngenxa yokucindezela kwabampofu, ngenxa yokukhala kwabasweleyo, ngiyovuka manje, kusho uYahwe; ngizombeka ekuphepheni lowo oligiqaza ngalo.",
+  "tokens": [
+    {
+      "surface": "משד",
+      "gloss": "ngenxa yokucindezela"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "kwabampofu"
+    },
+    {
+      "surface": "מאנקת",
+      "gloss": "ngenxa yokukhala"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "kwabasweleyo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ngiyovuka"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kusho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ngizombeka"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "ekuphepheni"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "lowo oligiqaza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ngalo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:56.470076193Z",
+  "model": "glm-5.3"
+}

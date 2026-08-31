@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 14:11",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Ngisamandla namhlanje njengalanga uMoshe engithumela ⟨את⟩ ngalo; njengamandla ami ngaleso sikhathi, ngunjalo namandla ami manha, yokulwa, nokuphuma nokungena.",
+  "tokens": [
+    {
+      "surface": "עודני",
+      "gloss": "ngisamandla"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "nginamandla"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njenga-"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalanga"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "engithumela"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mina"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ככחי",
+      "gloss": "njengamandla ami"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ngaleso sikhathi"
+    },
+    {
+      "surface": "וככחי",
+      "gloss": "nangokwamandla ami"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "manha"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "yokulwa"
+    },
+    {
+      "surface": "ולצאת",
+      "gloss": "nokuphuma"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "nokungena"
+    }
+  ],
+  "timestamp": "2026-08-31T02:54:39.981509486Z",
+  "model": "glm-5.3"
+}

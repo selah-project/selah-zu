@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 16:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Ngakho-ke inhliziyo yami yajabula, inkazimulo yami yaduma injabulo; inyama yami futhi izohlala ikhululekile.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "yajabula"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inhliziyo yami"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "yaduma injabulo"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "inkazimulo yami"
+    },
+    {
+      "surface": "אף",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "inyama yami"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "izohlala"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ikhululekile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:40.359061365Z",
+  "model": "glm-5.3"
+}

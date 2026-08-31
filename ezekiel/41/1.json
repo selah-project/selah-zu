@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 41:1",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Wangidingisa ethempeleni, walinganisa ⟨את⟩ izingona zakho: izinkomishi eziyisithupha ububanzi ngale, futhi izinkomishi eziyisithupha ububanzi ngale; kungububanzi betheyili.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "Wangidingisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ithempeleni"
+    },
+    {
+      "surface": "וימד",
+      "gloss": "walinganisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingona zakho"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "izingona zakho"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ezingezinye eziyisithupha"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "izinkomishi"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ububanzi"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "ngale"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "futhi eziyisithupha"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "izinkomishi"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ububanzi"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "ngale"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ububanzi"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "ithheyili"
+    }
+  ],
+  "timestamp": "2026-08-31T05:21:56.798510713Z",
+  "model": "glm-5.3"
+}

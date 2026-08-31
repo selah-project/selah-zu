@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Ngokuba ngenxa yakho ngithwale ihlazo; ukwedumala kufihlile ubuso bami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ngenxa yakho"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ngithwale"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ihlazo"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "kufihlile"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "ukwedumala"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso bami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:14.598945109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Ngokuba inhliziyo yabo icubungula ukonakalisa, nomilomo yabo ukhuluma ubuhlungu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ukonakalisa"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "icubungula"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "inhliziyo yabo"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "futhi ubuhlungu"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "omilomo yabo"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "ukhuluma"
+    }
+  ],
+  "timestamp": "2026-08-31T06:59:30.974651642Z",
+  "model": "glm-5.3"
+}

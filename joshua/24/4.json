@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 24:4",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Nganika u-Yitsakhi ⟨את⟩ uYaakov no⟨את⟩ uEsavu; nganika uEsavu ⟨את⟩ intaba ye-Seiri ukuyiphathela ⟨את⟩ yena; uYaakov nezinsizwa zakhe zona zahamba zahamba zahamba zehla eMitsrayimi.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Nganika"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "u-Yitsakhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakov"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uEsavu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uEsavu"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "nganika"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "uEsavu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intaba ye-Seiri"
+    },
+    {
+      "surface": "הר",
+      "gloss": "intaba"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ye-Seiri"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ukuyiphathela"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ yena"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "uYaakov"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "nezinsizwa zakhe"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "zahamba zehla"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "eMitsrayimi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:01:11.306839258Z",
+  "model": "glm-5.3"
+}

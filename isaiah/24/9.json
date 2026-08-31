@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Ngeculo abaphuzi ubuntu lokho; umqathambisi uyababa kubaphuzi bawo.",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "ngeculo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "abaphuzi ubuntu"
+    },
+    {
+      "surface": "יין",
+      "gloss": "lokuqatha"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "uyababa"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "umqathambisi"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "kubaphuzi bawo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:23:33.247651197Z",
+  "model": "glm-5.3"
+}

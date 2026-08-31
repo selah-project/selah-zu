@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 24:2",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Futhi uYahwe wathumela kuye ⟨את⟩ amaqembu okulwa amaKashdi, ⟨את⟩ namaqembu amaAramu, ⟨את⟩ namaqembu amaMowabhu, ⟨את⟩ namaqembu amadodana ka-Amoni, wayethumela eYuda ukuyenza ichithe, njengamazwi kaYahwe ayekhuluma ngesandla sezincevu zakhe abaprofethi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaqembu okulwa amaKashdi"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "amaqembu okulwa"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "amaKashdi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amaqembu amaAramu"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "amaqembu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "amaAramu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amaqembu amaMowabhu"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "amaqembu"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "amaMowabhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amaqembu amadodana ka-Amoni"
+    },
+    {
+      "surface": "גדודי",
+      "gloss": "amaqembu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "ka-Amoni"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "wayethumela"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "eYuda"
+    },
+    {
+      "surface": "להאבידו",
+      "gloss": "ukuyenza ichithe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "njengamazwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayekhuluma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ayekhuluma"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "sezincevu zakhe"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "abaprofethi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:16:26.431329511Z",
+  "model": "glm-5.3"
+}

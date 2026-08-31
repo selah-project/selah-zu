@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "ne⟨את⟩ iParmashta, ne⟨את⟩ iArisai, ne⟨את⟩ iAridai, ne⟨את⟩ iVaizata.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iParmashta"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "iParmashta"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iArisai"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "iArisai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iAridai"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "iAridai"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iVaizata"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "iVaizata"
+    }
+  ],
+  "timestamp": "2026-08-31T07:54:52.196643211Z",
+  "model": "glm-5.3"
+}

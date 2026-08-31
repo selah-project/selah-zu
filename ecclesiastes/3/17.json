@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngithe mimi enhliziyweni yami: uElohim uzohlulela ⟨את⟩ ulungileyo no-⟨את⟩ ubi; ngoba isikhathi sikhona zonke izinhloso futhi phezu komsebenzi wonke laphaya.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ngithe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "enhliziyweni yami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulungileyo"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "ulungileyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "ubi"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ubi"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "uzohlulela"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עת",
+      "gloss": "isikhathi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "izinhloso"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi phezu kwe-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "omsebenzi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "laphaya"
+    }
+  ],
+  "timestamp": "2026-08-31T07:45:20.355295857Z",
+  "model": "glm-5.3"
+}

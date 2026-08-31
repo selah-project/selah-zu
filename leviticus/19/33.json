@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Futhi uma umgwetsha ehlala ⟨את⟩ ndawonye newenu ezweni lakini, ningenzi ububi ⟨את⟩ yena.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "futhi uma"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "ehlala"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ndawonye newenu"
+    },
+    {
+      "surface": "גר",
+      "gloss": "umgwetsha"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "ezweni lakini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angenzi"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T02:01:23.677615680Z",
+  "model": "glm-5.3"
+}

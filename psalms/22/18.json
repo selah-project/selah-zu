@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Ngiyabala zonke iltambo zami; bona bayabuka, bayangibona.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "ngiyabala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "iltambo zami"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "bayabuka"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bayangibona"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mina"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:34.061083562Z",
+  "model": "glm-5.3"
+}

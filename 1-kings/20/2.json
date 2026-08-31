@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 20:2",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Wathuma abathunywa ku-Ahabu, inkosi ka-Israeli, ⟨ewayo⟩ eḍolobheni.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Wathuma"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "abathunywa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahabu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israeli"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "ewayo eḍolobheni"
+    }
+  ],
+  "timestamp": "2026-08-31T04:01:09.999710291Z",
+  "model": "glm-5.3"
+}

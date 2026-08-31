@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "UNtunjiniyela (uBinyamin) wazala ⟨את⟩ uBela indodana yakhe yokuqala, uAshibeli eyesibili, noAharahi eyesithathu.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "uBinyamin"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uBela"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "uBela"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "indodana yakhe yokuqala"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "uAshibeli"
+    },
+    {
+      "surface": "השני",
+      "gloss": "eyesibili"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "noAharahi"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "eyesithathu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:22:08.502907280Z",
+  "model": "glm-5.3"
+}

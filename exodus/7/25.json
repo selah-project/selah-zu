@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Yaza kugcwaliswa insuku eziyisikhombisa ngemuva kokushaya uYahwe ⟨את⟩ umfula.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "yaza kugcwaliswa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "eziyisikhombisa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "insuku"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ngemuva koku-"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "kokushaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfula"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "umfula"
+    }
+  ],
+  "timestamp": "2026-08-31T01:29:57.195460102Z",
+  "model": "glm-5.3"
+}

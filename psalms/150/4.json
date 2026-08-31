@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 150,
+  "translation": "Dumisani yena ngesigubhu ngesina, dumisani yena ngezintambo nephepha.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "dumisani yena"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "ngesigubhu"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "ngesina"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dumisani yena"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "ngezintambo"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "nephepha"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:54.460840248Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 12:7",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Ngiyekile ⟨את⟩ indlu yami, ngishiyile ⟨את⟩ ifa lami; nginike ⟨את⟩ okuthandwayo yimphefumulo yami esandleni sezitha zayo.",
+  "tokens": [
+    {
+      "surface": "עזבתי",
+      "gloss": "ngiyekile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yami"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "indlu yami"
+    },
+    {
+      "surface": "נטשתי",
+      "gloss": "ngishiyile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifa lami"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "ifa lami"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nginike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okuthandwayo yimphefumulo yami"
+    },
+    {
+      "surface": "ידדות",
+      "gloss": "okuthandwayo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "imphefumulo yami"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "איביה",
+      "gloss": "sezitha zayo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:45:17.048065028Z",
+  "model": "glm-5.3"
+}

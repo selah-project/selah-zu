@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joel 2:4",
+  "book": "joel",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ukubonakala kwawo kunjengokubonakala kwezimbongolo, futhi njengabahambi bezimbongolo njalo bayagijima.",
+  "tokens": [
+    {
+      "surface": "כמראה",
+      "gloss": "kunjengokubonakala"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "kwezimbongolo"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "Ukubonakala kwawo"
+    },
+    {
+      "surface": "וכפרשים",
+      "gloss": "futhi njengabahambi bezimbongolo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "bayagijima"
+    }
+  ],
+  "timestamp": "2026-08-31T05:32:17.143189907Z",
+  "model": "glm-5.3"
+}

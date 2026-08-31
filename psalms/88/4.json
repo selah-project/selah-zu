@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 88,
+  "translation": "Ngokuba inefeshi yami uthe yachitha ukufa ezinkathazweni, uphilo lwami lwafikelela eSheoli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "yachitha ukufa"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "ezinkathazweni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "uphilo lwami"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "eSheoli"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "lwafikelela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:54.705717314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 140,
+  "ref": "psalms 119:140",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ilizwi lakho liyahluziwe kakhulu, nencewe yakho lilya.",
+  "tokens": [
+    {
+      "surface": "צרופה",
+      "gloss": "liyahluziwe"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "Ilizwi lakho"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ועבדך",
+      "gloss": "nencewe yakho"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "lilya"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:56.058372146Z",
+  "model": "glm-5.3"
+}

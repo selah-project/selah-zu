@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 18:5",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Futhi nizoyigcina ⟨את⟩ indlela yokugcinwa kokungcwele, naye ⟨את⟩ indlela yokugcinwa kwe-altare, futhi angeke kube khona intukuthelo ngaphezu kwabantwana bakwa-Israyeli.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "futhi nizoyigcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlela yokugcinwa kokungcwele"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "indlela yokugcinwa"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kokungcwele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "indlela yokugcinwa kwe-altare"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "indlela yokugcinwa"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kwe-altare"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi angeke"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kube khona"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ngaphezu"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "intukuthelo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T05:59:55.875275317Z",
+  "model": "glm-5.3"
+}

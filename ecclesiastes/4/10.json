@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Ngokuba uma beyawa, oyedwa uyamsukumisa ⟨את⟩ umlingane wakhe; kodwa waßi kunaye oyedwa eyiwa, ingekho yesibili ukuba imsukumeze.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "beyawa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "oyedwa"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "uyamsukumisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umlingane wakhe"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "umlingane wakhe"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "kodwa waßi kunaye"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "oyedwa"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "eyiwa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ingekho"
+    },
+    {
+      "surface": "שני",
+      "gloss": "yesibili"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "ukuba imsukumeze"
+    }
+  ],
+  "timestamp": "2026-08-31T07:45:08.388104798Z",
+  "model": "glm-5.3"
+}

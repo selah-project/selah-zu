@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "malachi 3:8",
+  "book": "malachi",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ingabe umuntu uzayidicila uElohim? Kodwa nina niyayidicila ⟨את⟩-yimi. Futhi nisho nithi: ngokuphi siyakudicila? Ngeshele nangomnikelo.",
+  "tokens": [
+    {
+      "surface": "היקבע",
+      "gloss": "Ingabe uzayidicila"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "niyayidicila"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "yimi"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "futhi nisho"
+    },
+    {
+      "surface": "במה",
+      "gloss": "ngokuphi"
+    },
+    {
+      "surface": "קבענוך",
+      "gloss": "siyakudicila"
+    },
+    {
+      "surface": "המעשר",
+      "gloss": "ngeshele"
+    },
+    {
+      "surface": "והתרומה",
+      "gloss": "futhi nangomnikelo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:58.669664379Z",
+  "model": "glm-5.3"
+}

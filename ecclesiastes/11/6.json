@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Ekuseni hlakulela ⟨את⟩ imbewu yakho, ntambama ungabashi isiandla sakho, ngoba awazi lapho kuzophumelela khona — le noma le, futhi uma zombili zingcono njengesinye.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "hlakulela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbewu yakho"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "imbewu yakho"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "ntambama"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungabashi"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "bambisa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isiandla sakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "awazi"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "uyazi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "kuzophumelela"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "futhi uma"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "zombili"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "njengesinye"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "zingcono"
+    }
+  ],
+  "timestamp": "2026-08-31T07:49:28.219954668Z",
+  "model": "glm-5.3"
+}

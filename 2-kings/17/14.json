@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 17:14",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Kodwa abezwa; benza banzima ⟨את⟩ intamo yabo, njengentamo yoyihlo babo, abazange bakholwe nguYahwe uElohim wabo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kodwa abezwa"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "abezwa"
+    },
+    {
+      "surface": "ויקשו",
+      "gloss": "benza banzima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intamo yabo"
+    },
+    {
+      "surface": "ערפם",
+      "gloss": "intamo yabo"
+    },
+    {
+      "surface": "כערף",
+      "gloss": "njengentamo"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "yoyihlo babo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abazange"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abazange"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "bakholwe"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "uElohim wabo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:12:22.572811830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 1:30",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "uZebuluni akazange axoshe ⟨את⟩ abahlali beKitroni no-⟨את⟩ abahlali beNahalali; kwasekuhlala iKanani phakathi kwakhe, baba yisibhanzi.",
+  "tokens": [
+    {
+      "surface": "זבולן",
+      "gloss": "uZebuluni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akazange"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "axoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahlali beKitroni"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "קטרון",
+      "gloss": "beKitroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "abahlali beNahalali"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "נהלל",
+      "gloss": "beNahalali"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "kwasekuhlala"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "iKanani"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "phakathi kwakhe"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "baba"
+    },
+    {
+      "surface": "למס",
+      "gloss": "yisibhanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:00:39.478869065Z",
+  "model": "glm-5.3"
+}

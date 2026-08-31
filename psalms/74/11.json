@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 74:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 74,
+  "translation": "Kungani uxebazisa isandla sakho, nokwesokudla sakho esiphathwa khona? Likhiphe esifubeni sakho, uyabadla.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "uxebazisa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "וימינך",
+      "gloss": "nokwesokudla sakho"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "esiphathwa khona"
+    },
+    {
+      "surface": "חוקך",
+      "gloss": "esifubeni sakho"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "uyabadla"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:08.202100285Z",
+  "model": "glm-5.3"
+}

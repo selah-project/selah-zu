@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 4:3",
+  "book": "lamentations",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Izinja zasendle zivule amabele, zinikele ibele kumakubu awo; kodwa intokazi yabantu bami ibe nzima njengeminyane yasendle.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "izinja zasendle"
+    },
+    {
+      "surface": "חלצו",
+      "gloss": "zivule amabele"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ibele"
+    },
+    {
+      "surface": "היניקו",
+      "gloss": "zinikele ibele"
+    },
+    {
+      "surface": "גוריהן",
+      "gloss": "kumakubu awo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intokazi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "yabantu bami"
+    },
+    {
+      "surface": "לאכזר",
+      "gloss": "ibe nzima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "njenge"
+    },
+    {
+      "surface": "ענים",
+      "gloss": "uminyane"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "yasendle"
+    }
+  ],
+  "timestamp": "2026-08-31T07:42:22.598821924Z",
+  "model": "glm-5.3"
+}

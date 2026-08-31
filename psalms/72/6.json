@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 72:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 72,
+  "translation": "Yehla njengomvula phezu kwesimunga esokiweyo, njengemvula eniningi ekhipha insipho phezu komhlaba.",
+  "tokens": [
+    {
+      "surface": "ירד",
+      "gloss": "yehla"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "njengomvula"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "גז",
+      "gloss": "esimunga esokiweyo"
+    },
+    {
+      "surface": "כרביבים",
+      "gloss": "njengemvula eniningi"
+    },
+    {
+      "surface": "זרזיף",
+      "gloss": "ekhipha insipho"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "omhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:24.824644458Z",
+  "model": "glm-5.3"
+}

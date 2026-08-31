@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 12:30",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Abaphristi nabaLevi bazihlambulula, bahlambulula ⟨את⟩ abantu, ⟨את⟩ amasango, no⟨את⟩ umdidiyelo",
+  "tokens": [
+    {
+      "surface": "ויטהרו",
+      "gloss": "bazihlambulula"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abaphristi"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "nabaLevi"
+    },
+    {
+      "surface": "ויטהרו",
+      "gloss": "bahlambulula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amasango"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "amasango"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umdidiyelo"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "umdidiyelo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:17:39.697295826Z",
+  "model": "glm-5.3"
+}

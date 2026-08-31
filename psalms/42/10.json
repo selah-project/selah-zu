@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 42:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Ngiyokusho ku-El isihlaba sami: Kungani ungikhohliwe? Kungani ngihamba ngisithunziwe ngesihlangu somhlaba?",
+  "tokens": [
+    {
+      "surface": "אומרה",
+      "gloss": "ngiyokusho"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ku-El"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "isihlaba sami"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "שכחתני",
+      "gloss": "ungikhohliwe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ngisithunziwe"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ngihamba"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "ngesihlangu"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "somhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:37.835175173Z",
+  "model": "glm-5.3"
+}

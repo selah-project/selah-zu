@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 12:8",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Inkosi uYehoash yabizela uYehoyada umpristi nabapristi, yathi kubo: Kungani ningaqinisi ⟨את⟩ ukuphuka kwendlu? Manje musa ukuthatha isiliva ku⟨את⟩ omakade benu, ngokuba ngekwokuphuka kwendlu niyakunika ngaso.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yabizela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Inkosi"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "uYehoash"
+    },
+    {
+      "surface": "ליהוידע",
+      "gloss": "uYehoyada"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "ולכהנים",
+      "gloss": "nabapristi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Kungani"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "ningaqinisi"
+    },
+    {
+      "surface": "מחזקים",
+      "gloss": "ningaqinisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuphuka kwendlu"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "ukuphuka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kwendlu"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "Manje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "ukuthatha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ku⟨את⟩",
+      "marks": "omakade benu"
+    },
+    {
+      "surface": "מכריכם",
+      "gloss": "omakade benu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לבדק",
+      "gloss": "ngekwokuphuka"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kwendlu"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "niyakunika ngaso"
+    }
+  ],
+  "timestamp": "2026-08-31T04:09:23.918777819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 61:11",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 61,
+  "translation": "Ngokunjalo nomhlaba ukhupha isithombo sawo, njalo nesivandlela simbulula izitshalo zawo ezitshaliweyo; njengokho u-Adonayi uYahwe uzomisa ukulunga nudumo kuvame phambi kwezizwe zonke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokunjalo"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "nomhlaba"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "ukhupha"
+    },
+    {
+      "surface": "צמחה",
+      "gloss": "isithombo sawo"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "njalo nesivandlela"
+    },
+    {
+      "surface": "זרועיה",
+      "gloss": "izitshalo zawo ezitshaliweyo"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "simbulula"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njengokho"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יצמיח",
+      "gloss": "uzomisa... kuvame"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ukulunga"
+    },
+    {
+      "surface": "ותהלה",
+      "gloss": "futhi udumo"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "kwezizwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:35:52.384010053Z",
+  "model": "glm-5.3"
+}

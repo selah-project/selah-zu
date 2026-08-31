@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 89:37",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Inzalo yakhe iyo kuwukho kuze kube phakade, nesihlalo sakhe sobukhosi singokulanga phambi kwami.",
+  "tokens": [
+    {
+      "surface": "זַ֭רְעוֹ",
+      "gloss": "inzalo yakhe"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "יִהְיֶ֑ה",
+      "gloss": "iyo kuwukho"
+    },
+    {
+      "surface": "וְכִסְא֖וֹ",
+      "gloss": "nesihlalo sakhe sobukhosi"
+    },
+    {
+      "surface": "כַשֶּׁ֣מֶשׁ",
+      "gloss": "singokulanga"
+    },
+    {
+      "surface": "נֶגְדִּֽי",
+      "gloss": "phambi kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T10:56:34.072355647Z",
+  "model": "glm-5.3"
+}

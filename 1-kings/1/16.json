@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "U-shebha wakhulekela, walotshela inkosi; inkosi yathi: “Kuwini kuwe?”",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "wakhulekela"
+    },
+    {
+      "surface": "בת",
+      "gloss": "-shebha (ingxenye yegama)"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "uBath-sheba"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "walotshela"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "futhi yathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kuwini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:46:04.259379101Z",
+  "model": "glm-5.3"
+}

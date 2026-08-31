@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 12:27",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "uYowabhi wathuma abathunywa kuDavhidhi, wathi: Ngilwe naseRabbha, futhi ngithathe ⟨את⟩ umuzi wamanzi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathuma"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYowabhi"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "abathunywa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavhidhi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "נלחמתי",
+      "gloss": "Ngilwe"
+    },
+    {
+      "surface": "ברבה",
+      "gloss": "naseRabbha"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "לכדתי",
+      "gloss": "ngithathe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuzi wamanzi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "umuzi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wamanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:20:58.957623444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi le ndaba yomthetho weminikelo yezinkwa ezingenamafutha: abantwana baka-Aharon bayizulela ⟨את⟩ phambi kukaYahwe, phambi kwe-altare.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "futhi le"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "indaba yomthetho"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "weminikelo yezinkwa ezingenamafutha"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "bayizulela"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana baka-Aharon"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "baka-Aharon"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "פני",
+      "gloss": "phambi kwe-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "i-altare"
+    }
+  ],
+  "timestamp": "2026-08-31T10:13:35.832186201Z",
+  "model": "glm-5.3"
+}

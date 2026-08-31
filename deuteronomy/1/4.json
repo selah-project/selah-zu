@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 1:4",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Emva kokushaya uMoshe ⟨את⟩ uSichoni inkosi yama-Emori, ohlala eHeshboni, no⟨את⟩ uOgi inkosi yaseBashani, ohlala e-Ashtaroti, e-Edrei.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "Emva koku-"
+    },
+    {
+      "surface": "הכתו",
+      "gloss": "shaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uSichoni"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "uSichoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "yama-Emori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "hlala"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "eHeshboni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uOgi"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "uOgi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "yaseBashani"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "hlala"
+    },
+    {
+      "surface": "בעשתרת",
+      "gloss": "e-Ashtaroti"
+    },
+    {
+      "surface": "באדרעי",
+      "gloss": "e-Edrei"
+    }
+  ],
+  "timestamp": "2026-08-31T02:30:51.615791558Z",
+  "model": "glm-5.3"
+}

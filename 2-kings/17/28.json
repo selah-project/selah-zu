@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 17:28",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Ngakho omunye wabapristi abagudluzwa eShomeroni weza wahlala eBethe-eli, waba ngumfundisi wabo ⟨את⟩ indlela yokwesaba ⟨את⟩ uYahwe.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "weza"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "omunye"
+    },
+    {
+      "surface": "מהכהנים",
+      "gloss": "wabapristi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "gudluzwa"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "eShomeroni"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "eBethe-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eli"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "ngumfundisi"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wabo",
+      "marks": "abantu"
+    },
+    {
+      "surface": "איך",
+      "gloss": "indlela yokwesaba"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "—"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:12:21.110191524Z",
+  "model": "glm-5.3"
+}

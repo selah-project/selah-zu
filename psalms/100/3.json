@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 100:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 100,
+  "translation": "Nazini ukuthi uYahwe ⟨nguye⟩ uElohim; yena wasenza thina, hhayi thina esazenzela; singabantu bakhe, nesizwe sezimvu zenhlaka yakhe.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Nazini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨nguye⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "wasenza thina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hhayi"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "nesizwe sezimvu"
+    },
+    {
+      "surface": "מרעיתו",
+      "gloss": "yenhlaka yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:41.830770422Z",
+  "model": "glm-5.3"
+}

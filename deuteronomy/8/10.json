@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 8:10",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Futhi uzodla, uze uthutheke, ubusise uYahwe i-Elohim yakho ngenxa yomhlaba omuhle okunike wona.",
+  "tokens": [
+    {
+      "surface": "ואכלת",
+      "gloss": "uzodla"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "uthutheke"
+    },
+    {
+      "surface": "וברכת",
+      "gloss": "ubusise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "i-Elohim yakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yomhlaba"
+    },
+    {
+      "surface": "הטבה",
+      "gloss": "omuhle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku-"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "okunike"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wona"
+    }
+  ],
+  "timestamp": "2026-08-31T10:17:01.086398856Z",
+  "model": "glm-5.3"
+}

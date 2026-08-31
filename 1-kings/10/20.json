@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 10:20",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Namabhubesi ayishumi nambili ayemile lapha etezini ezisithupha, ngale nangale; akuzange kwenziwe njalo nakho konke umbuso.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "futhi ayishumi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "nambili"
+    },
+    {
+      "surface": "אריים",
+      "gloss": "amabhubesi"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "emile"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwezitezi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ezisithupha"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "izitezi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ngale"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "nangale"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akuzange"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "kwenziwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nakho konke"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "umbuso"
+    }
+  ],
+  "timestamp": "2026-08-31T03:53:55.994003940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 17:14",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "uYahwe wathi kuMoshe: Bhala lokhu kukhunjulwa encwadini, ulibekise ezindlebeni zikaYehoshuwa, ngokuthi ngiyosula, ngiyosula ⟨את⟩ ukukhunjulwa kuka-Amaleki ngaphansi kwamazulu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Bhala"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "kukhunjulwa"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "encwadini"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "ulibekise"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ezindlebeni"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "zikaYehoshuwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "ngiyosula"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "ngiyosula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukukhunjulwa"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ukukhunjulwa"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "kuka-Amaleki"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ngaphansi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kwamazulu"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:56.953528368Z",
+  "model": "glm-5.3"
+}

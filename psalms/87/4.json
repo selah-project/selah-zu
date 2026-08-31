@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 87:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 87,
+  "translation": "Ngiyokhumbulisa iRahabi naseBhabheli kubalwazi bami; bheka, iFilistiya neTire, kanye naseKushi: lo wazalwa khona.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Ngiyokhumbulisa"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "iRahabi"
+    },
+    {
+      "surface": "ובבל",
+      "gloss": "naseBhabheli"
+    },
+    {
+      "surface": "לידעי",
+      "gloss": "kubalwazi bami"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "iFilistiya"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "neTire"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanye na"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "eKushi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wazalwa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:19.450113327Z",
+  "model": "glm-5.3"
+}

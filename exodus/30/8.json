@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 30:8",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Futhi ekwenisweni kuka-Aharon ⟨את⟩ izibani phakathi kwezinkungubhala, uzoyishisa — impepho ejwayelekile phambi kukaYahwe, ezizukulwaneni zenu.",
+  "tokens": [
+    {
+      "surface": "ובהעלת",
+      "gloss": "ekwenisweni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "kuka-Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izibani"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "izibani"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwe"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "izinkungubhala"
+    },
+    {
+      "surface": "יקטירנה",
+      "gloss": "uzoyishisa"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "impepho"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ejwayelekile (njalo)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ezizukulwaneni zenu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:41:12.302345690Z",
+  "model": "glm-5.3"
+}

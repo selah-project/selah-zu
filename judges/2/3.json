@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 2:3",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ngakho ngathi ngingabayixeli ⟨את⟩ bona phambi kwenu; bazoqhubeka nibe yizitha zenu, uthixo wabo ubeyisibibi kuni.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ngathi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angingabayixeli"
+    },
+    {
+      "surface": "אגרש",
+      "gloss": "ngingabayixeli"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bona",
+      "marks": "bona"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "bazoqhubeka nibe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ni-"
+    },
+    {
+      "surface": "לצדים",
+      "gloss": "yizitha zenu"
+    },
+    {
+      "surface": "ואלהיהם",
+      "gloss": "uthixo wabo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ubeyisibibi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "isibibi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:01:18.834448497Z",
+  "model": "glm-5.3"
+}

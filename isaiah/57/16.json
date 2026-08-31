@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 57:16",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 57,
+  "translation": "Ngokuba angeke ngiphikiswe kuze kube phakade, futhi angeke ngicasuke kuze kube naphakade; ngokuba umoya uzungcolile phambi kwami, futhi umphefumulo—mina ngiwadale.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ngiphikiswe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi angeke"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kuze kube naphakade"
+    },
+    {
+      "surface": "אקצוף",
+      "gloss": "ngicasuke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "phambi kwami"
+    },
+    {
+      "surface": "יעטוף",
+      "gloss": "uzungcolile"
+    },
+    {
+      "surface": "ונשמות",
+      "gloss": "futhi umphefumulo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ngiwadale"
+    }
+  ],
+  "timestamp": "2026-08-31T04:36:04.510736102Z",
+  "model": "glm-5.3"
+}

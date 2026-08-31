@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 25:26",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi uzokwenza kulo izindandatho ezine zegolide, uze ubeka ⟨את⟩ izindandatho emakhoneni amane azise emilenzeni emine yalo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "futhi uzokwenza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kulo"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ezine"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "izindandatho"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zegolide"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "uze ubike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izindandatho"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "izindandatho"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "amane"
+    },
+    {
+      "surface": "הפאת",
+      "gloss": "emakhoneni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "azise"
+    },
+    {
+      "surface": "לארבע",
+      "gloss": "emineni"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "emilenzeni yalo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:29.217343015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Dumisani uYah, nikela uYahwe ngokubonga, ngoba ⟨uy⟩ ilungile, ngoba ikhesedi yakhe isingunaphakade.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumisani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "nikela ngokubonga"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨uy⟩ ilungile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "isingunaphakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:18.366301430Z",
+  "model": "glm-5.3"
+}

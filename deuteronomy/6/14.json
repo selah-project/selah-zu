@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ningayi emva kwezinkulunkulu ezinye, phakathi kwezinkulunkulu zamanasu ehlangabezene nani.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ningayi"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "emva kwezinkulunkulu ezinye"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva kwakho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ezinkulunkulu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ezinye"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "phakathi kwezinkulunkulu"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "zamanasu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ehlangabezene nani"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "ehlangabezene nani"
+    }
+  ],
+  "timestamp": "2026-08-31T11:26:42.073157042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 5:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "U-Adamu waphila iminyaka engamakhulu amathathu anamashumi amathathu, wazala indodana esefanweni sakhe, njengesithombe sakhe, wayibiza ⟨את⟩ igama layo uSheti.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "waphila"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "U-Adamu"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "amashumi amathathu"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "namakhulu amathathu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "בדמותו",
+      "gloss": "esefanweni sakhe"
+    },
+    {
+      "surface": "כצלמו",
+      "gloss": "njengesithombe sakhe"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wayibiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama layo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama layo"
+    },
+    {
+      "surface": "שת",
+      "gloss": "uSheti"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:49.163077284Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Phakamisa izwi lakho, ndodakazi waGalim; lalela, Layisha; waswelekile, Anathoth.",
+  "tokens": [
+    {
+      "surface": "צהלי",
+      "gloss": "Phakamisa (izwi)"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "izwi lakho"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ndodakazi"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "waGalim"
+    },
+    {
+      "surface": "הקשיבי",
+      "gloss": "lalela"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "Layisha"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "waswelekile"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Anathoth"
+    }
+  ],
+  "timestamp": "2026-08-31T06:08:11.824993738Z",
+  "model": "glm-5.3"
+}

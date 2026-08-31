@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Leli langa ninaphuma, ngenyanga yeHabhibhi.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Leli langa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "phuma"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ngenyanga"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "yeHabhibhi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:33:44.913288711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 26:37",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi uzakwenzela isikwele sokungena amapheshe ayisihlanu ensimbi yeshitimu, futhi uzakubabhakanisa ngangolide, izikhonkwane zabo zolide, futhi uzakutshehla kubona amapheshe ayisihlanu okwasimende okomthombo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "futhi uzakwenzela"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "isikwele sokungena"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ayisihlanu"
+    },
+    {
+      "surface": "עמודי",
+      "gloss": "amapheshe"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ensimbi yeshitimu"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "futhi uzakubabhakanisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona (amapheshe)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ngangolide"
+    },
+    {
+      "surface": "והיהם",
+      "gloss": "futhi izikhonkwane zabo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zolide"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "futhi uzakutshehla"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ayisihalanu"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "okwasimende"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "okomthombo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:38:42.415058927Z",
+  "model": "glm-5.3"
+}

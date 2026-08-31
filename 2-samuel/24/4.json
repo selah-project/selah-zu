@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 24:4",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Kodwa izwi lenkosi laba bukhulu kuYowabu nasemahokeni omabutho, uYowabu nemahoke omabutho ephuma phambi kwenkosi ukubala ⟨את⟩ abantu, ⟨את⟩ iYisrayeli.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "laba bukhulu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "lenkosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "yoYowabu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nase"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "emahokeni"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "omabutho"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ephuma"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "UYowabu"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "nemahoke"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "omabutho"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nkosi"
+    },
+    {
+      "surface": "לפקד",
+      "gloss": "ukubala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYisrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisrayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:45:49.402061890Z",
+  "model": "glm-5.3"
+}

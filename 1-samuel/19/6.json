@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 19:6",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "uShawuli walalela izwi likaYehonatana, uShawuli wafunga: uYahwe uyaphila, ngeke abulawe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "walalela"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "likaYehonatana"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "wafunga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "חי",
+      "gloss": "uyaphila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "abulawe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:24:09.608384589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 111,
+  "translation": "Zimele kuze kube phakade, kuze kube phakade; zenziwe ngeqiniso nokqotho.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "zimele"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "zenziwe"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ngeqiniso"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "nokqotho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:38.848785917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 26:38",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Abantwana bakaBinyamin ngemindeni yabo: kuBhela, umndeni wamaBheli; kuAshubeli, umndeni wamaAshubeli; kuAhiram, umndeni wamaAhirami.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Abantwana"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "bakaBinyamin"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngemindeni yabo"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "kuBhela"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umndeni"
+    },
+    {
+      "surface": "הבלעי",
+      "gloss": "wamaBheli"
+    },
+    {
+      "surface": "לאשבל",
+      "gloss": "kuAshubeli"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umndeni"
+    },
+    {
+      "surface": "האשבלי",
+      "gloss": "wamaAshubeli"
+    },
+    {
+      "surface": "לאחירם",
+      "gloss": "kuAhiram"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umndeni"
+    },
+    {
+      "surface": "האחירמי",
+      "gloss": "wamaAhirami"
+    }
+  ],
+  "timestamp": "2026-08-31T02:23:48.025364934Z",
+  "model": "glm-5.3"
+}

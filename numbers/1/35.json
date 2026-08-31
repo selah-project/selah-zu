@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ababalwe babo, bengomuzi kaMenashhe, babengamashumi amathathu nankulungwane namakhulu amabili.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ababalwe babo"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "bengomuzi"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "kaMenashhe"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "amabili"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "namashumi amathathu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "nankulungwane"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "namakhulu amabili"
+    }
+  ],
+  "timestamp": "2026-08-31T02:06:53.109822659Z",
+  "model": "glm-5.3"
+}

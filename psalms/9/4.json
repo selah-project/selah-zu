@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 9:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ekubuyeleni izitha zami emuva, ziyoqhubeka zibambezele futhi zonakale phambi kobuso bakho.",
+  "tokens": [
+    {
+      "surface": "בשוב",
+      "gloss": "ekubuyeleni"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "izitha zami"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "emuva"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ziyoqhubeka zibambezele"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "futhi zonakale"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "phambi kobuso bakho"
+    }
+  ],
+  "timestamp": "2026-08-31T08:51:47.090855262Z",
+  "model": "glm-5.3"
+}

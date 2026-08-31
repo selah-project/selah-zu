@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 25:38",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "NginguYahwe uElohim wenu, owanikhiphela ⟨את⟩ni ezweni leMitsrayim, ukuninika ⟨את⟩ iZwe likaKenaana, ukuze ngibe nguElohim wenu.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ngi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owa"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "nikhiphela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ni",
+      "marks": "ezweni leMitsrayim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ukuninika"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iZwe likaKenaana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "iZwe"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "likaKenaana"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ukuze ngibe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "wenu"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "nguElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T02:04:38.515739662Z",
+  "model": "glm-5.3"
+}

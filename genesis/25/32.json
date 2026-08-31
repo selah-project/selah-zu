@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "uEsav wathi: Bheka, ngiya kufa; yini-ke le ingisiza yona ilungelo lokuzalwa kuqala?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uEsav"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngi"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ngiya"
+    },
+    {
+      "surface": "למות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "yini-ke"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngi"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "ilungelo lokuzalwa kuqala"
+    }
+  ],
+  "timestamp": "2026-08-31T01:12:54.571317828Z",
+  "model": "glm-5.3"
+}

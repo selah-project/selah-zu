@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ngokuba umdingi angeke alahlwe kuze kube phakade; ithemba labathobekileyi angeke lachithwa kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "alahlwe"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "umdingi"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "ithemba"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "labathobekileyi"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "lachithwa"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:25.546791740Z",
+  "model": "glm-5.3"
+}

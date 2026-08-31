@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kuze kube nini, uYahwe, ngikhala ungazwa? Ngiyamemeza kuwe ngebudlova, kodwa ungasi phonononi — ungasindisi?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kuze kube"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ngikhala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa-cha"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ungazwa"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "Ngiyamemeza"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ngebudlova"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa-cha"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "ungasindisi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:38:18.219321540Z",
+  "model": "glm-5.3"
+}

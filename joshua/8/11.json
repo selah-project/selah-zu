@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 8:11",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Bonke abantu abalwa nimpi ababe naye banyuka, baqonda, bafika phambi kwedolobha, bahamba beya campa enyakatho yeAyili; kanti bekunesigodi phakathi kwabo naseAyili.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "abalwa nimpi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "kunaye ⟨את⟩"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "banyuka"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "baqonda"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bafika"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "phambi kwe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "dolobha"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "bahlala bakhempa"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "enyakatho"
+    },
+    {
+      "surface": "לעי",
+      "gloss": "yeAyili"
+    },
+    {
+      "surface": "והגי",
+      "gloss": "kanti bekunesigodi"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "phakathi kwabo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nase"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ayili"
+    }
+  ],
+  "timestamp": "2026-08-31T02:51:42.218064993Z",
+  "model": "glm-5.3"
+}

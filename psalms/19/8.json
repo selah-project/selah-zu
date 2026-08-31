@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 19:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Umthetho kaYahwe uphelele, obuyisela umphefumelo; ubufakazi bukaYahwe buqinile, buhlakanisa olungehlakaniphi.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "umthetho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "uphelele"
+    },
+    {
+      "surface": "משיבת",
+      "gloss": "obuyisela"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "umphefumelo"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ubufakazi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bukaYahwe"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "buqinile"
+    },
+    {
+      "surface": "מחכימת",
+      "gloss": "buhlakanisa"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "olungehlakaniphi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:31.561195113Z",
+  "model": "glm-5.3"
+}

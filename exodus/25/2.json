@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 25:2",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Khuluma kubantwana bakwa-Israyeli ukuthi bathathele mina iteruma; kusuka ku-⟨את⟩ wonke umuntu oyivolontiya intliziyo yakhe, nithathe ⟨את⟩ iteruma yami.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Khuluma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ubantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "bathathele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "iteruma"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ku-⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyi-"
+    },
+    {
+      "surface": "ידבנו",
+      "gloss": "ivolontiya"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "intliziyo yakhe"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "nithathe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iteruma yami"
+    },
+    {
+      "surface": "תרומתי",
+      "gloss": "iteruma yami"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:44.973235106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 43:23",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "Awungilethelanga mina izimvu zezinkonzo zakho ezishiswa, izinhliziyo zakho zokuhlinza awuzange ngihloniphe ngazo; awukwenzi ukuba ngikukhonze ngenkonzo yembuyekezwe, futhi awukwenzi ukuba ngidinwe yifrankinsensi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "הביאת",
+      "gloss": "uzange ungilethe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "min"
+    },
+    {
+      "surface": "שה",
+      "gloss": "izimvu"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "ezinkonzo zakho ezishisa"
+    },
+    {
+      "surface": "וזבחיך",
+      "gloss": "izinhliziyo zakho zokuhlinza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "כבדתני",
+      "gloss": "ungihloniphile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "העבדתיך",
+      "gloss": "ngikukhonzele"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "ngenkonzo yembuyekezwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi awu-"
+    },
+    {
+      "surface": "הוגעתיך",
+      "gloss": "ngikudinise"
+    },
+    {
+      "surface": "בלבונה",
+      "gloss": "ngifrankinsensi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:30:09.987845416Z",
+  "model": "glm-5.3"
+}

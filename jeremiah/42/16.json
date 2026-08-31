@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 42:16",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "futhi kuzokwenzeka ukuthi izibhamu eniyoyika kuyona, khona kuzonifumana nina ⟨את⟩ esweni leMitsrayim; futhi indlala enikhathazekile ngayo, khona izonamathela ngemva kwenu eMitsrayim, futhi khona nizofa.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "futhi kuzokwenzeka"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "izibhamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engiyoyika"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "יראים",
+      "gloss": "oyika"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kuyona"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "kuzonifumana"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina (izibhamu izonifumana nina)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "esweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "leMitsrayim"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "futhi indlala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "enikhathazekile"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "דאגים",
+      "gloss": "nina"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ngayo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "izonamathela"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "ngemva kwenu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "futhi khona"
+    },
+    {
+      "surface": "תמתו",
+      "gloss": "nizofa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:59:46.667493335Z",
+  "model": "glm-5.3"
+}

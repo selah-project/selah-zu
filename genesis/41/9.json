@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Wayesekhuluma isibonda labanishiya ⟨את⟩ kuParo, esithi: ⟨את⟩ izono zami mina ngizikhumbula namuhla.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wayesekhuluma"
+    },
+    {
+      "surface": "שר",
+      "gloss": "isibonda"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "labanishiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uParo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izono zami"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "izono zami"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "ngizikhumbula"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    }
+  ],
+  "timestamp": "2026-08-31T01:20:35.706503380Z",
+  "model": "glm-5.3"
+}

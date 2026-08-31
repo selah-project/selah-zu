@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 14:16",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Abakubonayo bayokubuka kuwe, bayocabanga ngawe ⟨bathi⟩: Yingobani na lo umuntu owayephazamisa umhlaba, owayesabisa imibuso?",
+  "tokens": [
+    {
+      "surface": "ראיך",
+      "gloss": "abakubonayo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ישגיחו",
+      "gloss": "bayokubuka"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ngawe"
+    },
+    {
+      "surface": "יתבוננו",
+      "gloss": "bayocabanga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "מרגיז",
+      "gloss": "owayephazamisa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "owayesabisa"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "imibuso"
+    }
+  ],
+  "timestamp": "2026-08-31T04:20:11.166565614Z",
+  "model": "glm-5.3"
+}

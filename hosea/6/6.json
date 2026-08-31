@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 6:6",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ngokuba ngifuna ikhesedi hhayi iziphetho, futhi ukwazi uElohim kunesiphetho esishiswayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ngifuna"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hhayi"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "iziphetho"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "futhi ukwazi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "kunesiphetho esishiswayo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:26:18.305618283Z",
+  "model": "glm-5.3"
+}

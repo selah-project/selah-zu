@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "Indoda yasebenza njengoba uYosefu ayishilo, indoda yazisa ⟨את⟩ amadoma endlini kaYosefu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yasebenza"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayishilo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yazisa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadoda"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "endlini"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "kaYosefu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:22:22.682739692Z",
+  "model": "glm-5.3"
+}

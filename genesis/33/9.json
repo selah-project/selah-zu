@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "U-Esav wathi: Kunokuningi kimi, mfwethu; kube ⟨kuwe⟩ lokho okuwakho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "u-Esav"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kukhona"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "okuningi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mfwethu"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "kube"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "okuwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T05:54:35.337524158Z",
+  "model": "glm-5.3"
+}

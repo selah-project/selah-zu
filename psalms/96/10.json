@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 96:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 96,
+  "translation": "Nishoyo ezizwini: uYahwe uyabusa; yebo, umhlaba uqinisiwe, awunyazi; uzoqabela izizwe ngobulungiswa.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Nishoyo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ezizwini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "uyabusa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "yebo"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "uqinisiwe"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "בל",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "nyazi"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "uzoqabela"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "ngobulungiswa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:40.989458337Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ungabi nomona nomuntu wentsekelo, ungakhethi lutho ezindleleni zakhe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "bi nomona"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "no"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "umuntu wentsekelo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi ungaka"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "khethi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kulutho"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ezindleleni zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:46:50.645188618Z",
+  "model": "glm-5.3"
+}

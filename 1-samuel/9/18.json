@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "UShawuli wasondela kuShemuweli ⟨את⟩ emkhathini wesango, wathi: Ngiyabaza, ngitshela mina, ikuphi indlu yomboni?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "wasondela"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShemuweli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "emkhathini"
+    },
+    {
+      "surface": "השער",
+      "gloss": "wesango"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Ngitshela"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Ngiyabaza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ikuphi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "yomboni"
+    }
+  ],
+  "timestamp": "2026-08-31T03:19:22.956749231Z",
+  "model": "glm-5.3"
+}

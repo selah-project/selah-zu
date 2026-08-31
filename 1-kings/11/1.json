@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 11:1",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Inkosi uShelomoh wayethanda abesifazane abangengowasemhlabeni abaningi, kanye ⟨את⟩ nendodakazi kaParo, abesifazane baseMowabi, baseAmoni, baseEdomi, baseTsidoni, nabaseHiti.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "wayethanda"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "abesifazane"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "abangengowasemhlabeni"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "abiningi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indodakazi kaParo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "מואביות",
+      "gloss": "abaseMowabi"
+    },
+    {
+      "surface": "עמניות",
+      "gloss": "abaseAmoni"
+    },
+    {
+      "surface": "אדמית",
+      "gloss": "abaseEdomi"
+    },
+    {
+      "surface": "צדנית",
+      "gloss": "abaseTsidoni"
+    },
+    {
+      "surface": "חתית",
+      "gloss": "abaseHiti"
+    }
+  ],
+  "timestamp": "2026-08-31T10:21:58.355182001Z",
+  "model": "glm-5.3"
+}

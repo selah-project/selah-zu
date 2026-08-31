@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "U-Esawu wahlala entabeni yeSeyiri; u-Esawu yena ungum-Edomi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "u-Esawu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "yeSeyiri"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "u-Esawu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena ungu-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "um-Edomi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:19:12.065269003Z",
+  "model": "glm-5.3"
+}

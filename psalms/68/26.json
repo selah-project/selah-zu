@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 68,
+  "translation": "Abaculi bahamba phambili, abadlali bezinsimbo behamba emuva, phakathi kwabo izintombi ezibetha izigubhu.",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "bahamba phambili"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "abaculi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "behamba emuva"
+    },
+    {
+      "surface": "נגנים",
+      "gloss": "abadlali bezinsimbo"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi kwabo"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "izintombi"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "ezibetha izigubhu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:47.936031728Z",
+  "model": "glm-5.3"
+}

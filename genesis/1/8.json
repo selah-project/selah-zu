@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "uElohim wasabiza isibhakabhaka ngokuthi izulu; kwaba khona intambama, kwaba khona kusasa, usuku lwesibili.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wasabiza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "isibhakabhaka"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "izulu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba khona"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "intambama"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba khona"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "kusasa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lwesibili"
+    }
+  ],
+  "timestamp": "2026-08-31T01:01:47.219706840Z",
+  "model": "glm-5.3"
+}

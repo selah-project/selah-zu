@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Uma amadodana akhe eshiye umthetho wami, futhi ezechwenini zami bangahambi;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "eshiye"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "amadodana akhe"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "umthetho wami"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "futhi ezechweni zami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kabi"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "bahambi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:33.616812208Z",
+  "model": "glm-5.3"
+}

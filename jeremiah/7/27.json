@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 7:27",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi uzokhuluma kibo ⟨את⟩ wonke la mazwi, kodwa abuzulalela wena; uzobabizela, kodwa abuzuphendula wena.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "futhi uzokhuluma"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke la mazwi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa cha"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "abuzulalela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "futhi uzobabizela"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa cha"
+    },
+    {
+      "surface": "יענוכה",
+      "gloss": "abuzuphendula wena"
+    }
+  ],
+  "timestamp": "2026-08-31T04:42:47.774184529Z",
+  "model": "glm-5.3"
+}

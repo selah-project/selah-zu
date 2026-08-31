@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 5:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Ngingene endlini yakho ngobuningi bikhesedi yakho; ngiyoguqela ethempelini elingcwele lakho ngokwesaba wena.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ke okwami ngingene"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ngobuningi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "bikhesedi yakho"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ngingene"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "endlini yakho"
+    },
+    {
+      "surface": "אשתחוה",
+      "gloss": "ngiyoguqela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "thempelini"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "elingcwele yakho"
+    },
+    {
+      "surface": "ביראתך",
+      "gloss": "ngokwesaba wena"
+    }
+  ],
+  "timestamp": "2026-08-31T06:14:59.694760037Z",
+  "model": "glm-5.3"
+}

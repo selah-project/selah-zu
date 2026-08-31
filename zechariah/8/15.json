@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 8:15",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Njengalo njalo ngiphendukile ngacinga kulezinsuku ukwenza okuhle ⟨את⟩ iYerushalayimi no-⟨את⟩ ndlu kaYehuda; musani ukwesaba.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "njengalo njalo"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ngiphendukile"
+    },
+    {
+      "surface": "זממתי",
+      "gloss": "ngacinga"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "kulezinsuku"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "להיטיב",
+      "gloss": "ukwenza okuhle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYerushalayimi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "ndlu kaYehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndlu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kaYehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musani"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ukwesaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:43.761931690Z",
+  "model": "glm-5.3"
+}

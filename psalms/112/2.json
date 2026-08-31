@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 112:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 112,
+  "translation": "Inzalo yakhe izoba ngamandla emhlabeni; isizukulwane sabalungileyo sizabusiswa.",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "ngamandla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "izoba"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "Inzalo yakhe"
+    },
+    {
+      "surface": "דור",
+      "gloss": "isizukulwane"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "sabalungileyo"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "sizabusiswa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:06.444271552Z",
+  "model": "glm-5.3"
+}

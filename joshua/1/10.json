@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngakho uYehoshuwa wayalela ⟨את⟩ abaholi bomphakathi, esho:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaholi bomphakathi"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "abaholi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bomphakathi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esho"
+    }
+  ],
+  "timestamp": "2026-08-31T02:49:24.031218921Z",
+  "model": "glm-5.3"
+}

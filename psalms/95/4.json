@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 95:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 95,
+  "translation": "Okwesandla sakhe izindonga ezijulile zomhlaba, futhi iziphakamo zezintaba ezinkulu zilakhe.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ok"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "wesandla sakhe"
+    },
+    {
+      "surface": "מחקרי",
+      "gloss": "izindonga ezijulile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zomhlaba"
+    },
+    {
+      "surface": "ותועפות",
+      "gloss": "futhi iziphakamo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "zezentaba ezinkulu"
+    },
+    {
+      "surface": "לו",
+      "gloss": "zilakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:53.250445931Z",
+  "model": "glm-5.3"
+}

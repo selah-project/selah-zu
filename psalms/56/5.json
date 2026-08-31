@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 56:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 56,
+  "translation": "Ku-Elohim ngizodumisa izwi lakhe, ku-Elohim ngibeke ithemba lami; ngingesabi — yini elingayenzayo inyama kimi?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Ku-Elohim"
+    },
+    {
+      "surface": "אהלל",
+      "gloss": "ngizodumisa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "izwi lakhe"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ku-Elohim"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ngibeke ithemba lami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngingesabi (lo)"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ngingesabi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "elingayenzayo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:24.286338480Z",
+  "model": "glm-5.3"
+}

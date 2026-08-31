@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Behla izimpahla zami phakathi kwabo, futhi ⟨ngengubo yami⟩ bayonsa iltosi.",
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "behla"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "izimpahla zami"
+    },
+    {
+      "surface": "להם",
+      "gloss": "phakathi kwabo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi ngengubo"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "yami"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "bayonsa"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "iltosi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:34.061272778Z",
+  "model": "glm-5.3"
+}

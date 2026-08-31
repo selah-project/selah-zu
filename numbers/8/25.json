@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 8:25",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Futhi kusukela kwaba ngeminyaka engamashumi amahlanu ubudala uyobuya esigebhezini senkonzo, futhi ngeke enze inkonzo kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "ומבן",
+      "gloss": "futhi kusukela kwaba"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "amashumi amahlanu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "uyobuya"
+    },
+    {
+      "surface": "מצבא",
+      "gloss": "esigebhezini"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "senkonzo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi ngeke"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "enze inkonzo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T02:12:21.158595856Z",
+  "model": "glm-5.3"
+}

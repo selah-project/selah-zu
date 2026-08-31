@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 44:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Usibeka yisisho kubizwe izizwe, yikunyekweza ikhanda phakathi kwezizwe.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Usibeka"
+    },
+    {
+      "surface": "משל",
+      "gloss": "yisisho kubizwe"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "kubizwe izizwe"
+    },
+    {
+      "surface": "מנוד",
+      "gloss": "yikunyekweza"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ikhanda"
+    },
+    {
+      "surface": "בל",
+      "gloss": "phakathi kwezizwe"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "(ezizwe)"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:59.751204889Z",
+  "model": "glm-5.3"
+}

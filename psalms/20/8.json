@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 20:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Labo bethembele ezinqamlezini, labo bethembele emahashini; thina sikhumbula igama likaYahwe uElohim wethu.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Labo"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "bethembele ezinqamlezini"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "labo"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "bethembele emahashini"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "sikhumbula"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:21.431820402Z",
+  "model": "glm-5.3"
+}

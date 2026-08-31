@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 104,
+  "translation": "Lapho ilanga liphuma, ziyohlangana zithathele emizaneni yazo, zizolala zinqunqume zingcwathe ngaphakathi kwemizane yazo.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "liphuma"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "ziyohlangana zithathele"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "zinge... e-"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "emizaneni yazo"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "zizolala zinqunqume"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:45.133296830Z",
+  "model": "glm-5.3"
+}

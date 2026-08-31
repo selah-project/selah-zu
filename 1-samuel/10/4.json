@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Bazokubuza ngokuthi uhamba kahle, bazonikeza izinkwa ezimbili, wazothatha ezandleni zabo.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "bazokubuza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ngokuthi uhamba kahle"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "bazonikeza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "izinkwa"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "wazothatha"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "ezandleni zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:19:59.054716586Z",
+  "model": "glm-5.3"
+}

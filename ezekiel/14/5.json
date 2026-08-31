@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 14:5",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Ukuze ngithathe ⟨את⟩ indlu kaYisrayeli ngenhliziyo yabo, abasukile kimi ngezithombe zabo — bonke.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "ngithathe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu kaYisrayeli"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaYisrayeli"
+    },
+    {
+      "surface": "בלבם",
+      "gloss": "ngenhliziyo yabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abasukile"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "basukile"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "בגלוליהם",
+      "gloss": "ngezithombe zabo"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "bonke"
+    }
+  ],
+  "timestamp": "2026-08-31T05:10:14.897814260Z",
+  "model": "glm-5.3"
+}

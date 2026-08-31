@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 8:10",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "uYehoshuwa wavuka kuseni ekuseni, wabala ⟨את⟩ ibandla; wanyuka yena nezingodzi zikaSirayeli phambi kwebandla, eya eAyini.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "wavuka kuseni"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "wabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibandla"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ibandla"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wanyuka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "nezingodzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zikaSirayeli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ibandla"
+    },
+    {
+      "surface": "העי",
+      "gloss": "eya eAyini"
+    }
+  ],
+  "timestamp": "2026-08-31T02:51:42.217906720Z",
+  "model": "glm-5.3"
+}

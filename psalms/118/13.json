@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 118,
+  "translation": "Ungisukumele ungadukisa ukuba ngiwe, kanti uYahwe ungisizile.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "ungisukumele"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "ungadukisa ukuba ngiwe"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "ukuba ngiwe"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kanti uYahwe"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "ungisizile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:40.411838305Z",
+  "model": "glm-5.3"
+}

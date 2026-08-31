@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 28:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "uYahwe ⟨ungu⟩ amandla ami nensiza yami; kuyena ethembele inhliziyo yami, ngangsizwa; inhliziyo yami yajabula kakhulu, nangeculomu lami ngimudumisa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "amandla ami"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "nensiza yami"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ethembele"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inhliziyo yami"
+    },
+    {
+      "surface": "ונעזרתי",
+      "gloss": "ngangsizwa"
+    },
+    {
+      "surface": "ויעלז",
+      "gloss": "yajabula kakhulu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inhliziyo yami"
+    },
+    {
+      "surface": "ומשירי",
+      "gloss": "nageculomu lami"
+    },
+    {
+      "surface": "אהודנו",
+      "gloss": "ngimudumisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:13.531794094Z",
+  "model": "glm-5.3"
+}

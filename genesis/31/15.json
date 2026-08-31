@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 31:15",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Ingabe asibhungabhinga kuyena? Ngokuba usithengisile, udle ngokudla ⟨את⟩ isiliva sethu.",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "ingabe"
+    },
+    {
+      "surface": "נכריות",
+      "gloss": "asibhungabhinga"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "asibizwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מכרנו",
+      "gloss": "usithengisile"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "udle"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ngokudla"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "ngokudla okuphelele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiliva sethu"
+    },
+    {
+      "surface": "כספנו",
+      "gloss": "isiliva sethu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:17:34.811766442Z",
+  "model": "glm-5.3"
+}

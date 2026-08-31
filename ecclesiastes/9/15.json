@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Kwatholakala kuso indoda impovu nohlakaniphile, yona yasindisa ⟨את⟩ leli xeko ngokuhlakanipha kwayo; kodwa umuntu akakakhumbuli ⟨את⟩ leyo ndoda impovu.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "kwatholakala"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuso"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "impovu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "nohlakaniphile"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "yasindisa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leli xeko"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "leli xeko"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "ngokuhlakanipha kwayo"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "kodwa umuntu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akakakhumbuli"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ukukhumbula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leyo ndoda impovu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "leyo ndoda"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "impovu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leyo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:48:31.600013087Z",
+  "model": "glm-5.3"
+}

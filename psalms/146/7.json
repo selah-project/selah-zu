@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 146:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 146,
+  "translation": "Enza ukulungiswa kwabandlungunyedwa, unikeza ukudla abalambile; uYahwe ukhulula ababoshiwe.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Enza"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ukulungiswa"
+    },
+    {
+      "surface": "לעשוקים",
+      "gloss": "kwabandlungunyedwa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "unikeza"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "לרעבים",
+      "gloss": "abalambile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מתיר",
+      "gloss": "ukhulula"
+    },
+    {
+      "surface": "אסורים",
+      "gloss": "ababoshiwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:40.723138493Z",
+  "model": "glm-5.3"
+}

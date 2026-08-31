@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngingakuthanda kanjani ithora yakho! Yonke insiziku ihlangula yami.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ngingakuthanda kanjani"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ngiyithanda"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ithora yakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Yonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "insiziku"
+    },
+    {
+      "surface": "היא",
+      "gloss": "i-"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "ihlangula yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:31.347217386Z",
+  "model": "glm-5.3"
+}

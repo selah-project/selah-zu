@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Ziningi izinkinga zalomlungisi, kodwa uYahwe uyamsindisa kuzo zonke.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "Ziningi"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "izinkinga"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "zalomlungisi"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "kodwa kuzo zonke"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "uyamsindisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:39.889046513Z",
+  "model": "glm-5.3"
+}

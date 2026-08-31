@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 24:5",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Baqeda ⟨את⟩ iYardeni, bahlala e-Aroeri, ngakwesokudla kwdolobha elise phakathi komhlatho weGadi, baya eYazeri.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "Baqeda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "iYardeni"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "bahlala"
+    },
+    {
+      "surface": "בערוער",
+      "gloss": "e-Aroeri"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ngakwesokudla"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kwdolobha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eli"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "komhlatho"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "weGadi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "baya"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "eYazeri"
+    }
+  ],
+  "timestamp": "2026-08-31T03:45:19.681121623Z",
+  "model": "glm-5.3"
+}

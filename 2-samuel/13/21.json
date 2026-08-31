@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Inkosi uDavide yazwa ⟨את⟩ wonke lamagama, waze wathukuthela kakhulu.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yazwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke lamagama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "wathukuthela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:37:38.460751417Z",
+  "model": "glm-5.3"
+}

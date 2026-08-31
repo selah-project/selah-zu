@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 62:5",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 62,
+  "translation": "Ngokuba njengesoka esishada intombi, kanjalo abantwana bakho bayakushada; futhi njengokujabula komkwenyana ngenkosikazi, kanjalo uElohim wakho uzajabula ngawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba njengoba"
+    },
+    {
+      "surface": "יבעל",
+      "gloss": "eshada"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "isoka"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "intombi"
+    },
+    {
+      "surface": "יבעלוך",
+      "gloss": "bayakushada"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "abantwana bakho"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "futhi injabulo"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "umkwenyana"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "inkosikazi"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "uzajabula"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ngawe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T04:37:28.815399843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Ngesihlanzi segolide elihlanzekile wazenzi ⟨את⟩ yona, no⟨את⟩ zonke izitsha zayo.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "ngesihlanzi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "segolide"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "elihlanzekile"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wazenzi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yona",
+      "marks": "imenhli yezibani (i-menorah)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "zonke izitsha zayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "izitsha zayo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:45:42.687299037Z",
+  "model": "glm-5.3"
+}

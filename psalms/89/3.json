@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 89:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Ngokuba ngishilo: iikhesedi izakwakhwa kuze kube ngu-¶ku-¶phakade; ezulwini uzakumisa ukuthembeka kwakho kulo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ngishilo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kuze kube ngu-phakade"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "iikhesedi"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "izakwakhwa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "uzakumisa"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ukuthembeka kwakho"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kulo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:31.665977676Z",
+  "model": "glm-5.3"
+}

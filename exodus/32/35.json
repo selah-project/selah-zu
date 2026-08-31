@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Wayeseshaya uYahwe ⟨את⟩ abantu ngokwalokho abakwenzile ⟨את⟩ ithole, elenziwa ngu-Aharon.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "wayeseshaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokwalokho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abakwenzile"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bakwenzile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithole"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "ithole"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elenziwa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "enziwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    }
+  ],
+  "timestamp": "2026-08-31T01:43:12.099587930Z",
+  "model": "glm-5.3"
+}

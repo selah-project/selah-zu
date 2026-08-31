@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 15:8",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Wathi: u-Adonayi uYahwe, ngazi ngani ukuthi ngiyawuthatha?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "במה",
+      "gloss": "ngani"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ngazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אירשנה",
+      "gloss": "ngiyawuthatha"
+    }
+  ],
+  "timestamp": "2026-08-31T01:06:20.736367940Z",
+  "model": "glm-5.3"
+}

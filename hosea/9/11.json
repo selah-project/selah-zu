@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 9:11",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "i-Efrayimu, inkazimulo yayo izundulela njengonyoni — ekuzalweni, esibelekweni nasekukhulelweni.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "i-Efrayimu"
+    },
+    {
+      "surface": "כעוף",
+      "gloss": "njengonyoni"
+    },
+    {
+      "surface": "יתעופף",
+      "gloss": "izundulela"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "inkazimulo yayo"
+    },
+    {
+      "surface": "מלדה",
+      "gloss": "ekuzalweni"
+    },
+    {
+      "surface": "ומבטן",
+      "gloss": "esibelekweni"
+    },
+    {
+      "surface": "ומהריון",
+      "gloss": "nasekukhulelweni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:13:25.089189612Z",
+  "model": "glm-5.3"
+}

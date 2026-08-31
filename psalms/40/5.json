@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 40:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Mahle kulomuntu owenze uYahwe ukuthembeka kwakhe, futhi akabhephanga abazayo nabanqamulayo amanga.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "mahle"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "kulomuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "ukuthembeka kwakhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi akanga-"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "bhephanga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "רהבים",
+      "gloss": "abazayo"
+    },
+    {
+      "surface": "ושטי",
+      "gloss": "nabanqamulayo"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "amanga"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:29.590622193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 8:20",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Bheka, u-El akalahli umuntu olungile, futhi akanamandla isandla sabenzi bobubi.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aka-"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "lahli"
+    },
+    {
+      "surface": "תם",
+      "gloss": "umuntu olungile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi aka-"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "namandla"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "sabenzi bobubi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:11:25.251072973Z",
+  "model": "glm-5.3"
+}

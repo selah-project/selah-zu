@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Izintambo ezigayingiwe uzizenzele ezinhlangothini ezine zesembatho sakho ongakufihla ngaso.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "izintambo ezigayingiwe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzizenzele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "uzele"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezi-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ezine"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "zinhlangothini"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "isembatho sakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ongakufihla ngaso"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "fihla"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ngaso"
+    }
+  ],
+  "timestamp": "2026-08-31T02:39:29.327415857Z",
+  "model": "glm-5.3"
+}

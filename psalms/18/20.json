@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 18:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Wangikhupha wandisa endaweni exole, wangisiza ngoba wathokozela kumina.",
+  "tokens": [
+    {
+      "surface": "ויוציאני",
+      "gloss": "Wangikhupha"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "wandisa endaweni exole"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "wangisiza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "wathokozela"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kumina"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:59.478328679Z",
+  "model": "glm-5.3"
+}

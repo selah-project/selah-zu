@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 91:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 91,
+  "translation": "Ngiyasho kuYahwe: Ingiphephelo lami nesibaya sami, uElohim wami; ngiyathemba kuye.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ngiyasho"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "Ingiphephelo lami"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "nesibaya sami"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wami"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ngiyathemba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:08.114405502Z",
+  "model": "glm-5.3"
+}

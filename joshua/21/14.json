@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "neYathiri nemiyebo yayo, ne-Eshthemowa nemiyebo yayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iYathiri"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "iYathiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imiyebo yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nemiyebo yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i-Eshthemowa"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "i-Eshthemowa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imiyebo yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nemiyebo yayo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:58:01.242644896Z",
+  "model": "glm-5.3"
+}

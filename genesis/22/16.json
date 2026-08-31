@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 22:16",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "sathi: Ngiyafunga ngoNgiphezu kwami, kusho uYahwe, ngokuba ngenxa yokuba wenze ⟨את⟩ leli daba, futhi awulibambezeli ⟨את⟩ umntwana wakho ⟨את⟩ owakho oyedwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "sathi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngoNgiphezu kwami"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "Ngiyafunga"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kusho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ngenxa yokuba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leli daba"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "leli daba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi awu-"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "libambezeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umntwana wakho"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "umntwana wakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "owakho oyedwa"
+    },
+    {
+      "surface": "יחידך",
+      "gloss": "owakho oyedwa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:11:57.033653595Z",
+  "model": "glm-5.3"
+}

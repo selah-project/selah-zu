@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 17:10",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "UNgilisti wathi: Ngihlazele ⟨את⟩ imikhakha ka-Israyeli namhlanje; niphe indoda, sibuye silwe ndawonye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "UNgilisti"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "ngihlazele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imikhakha ka-Israyeli"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "imikhakha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israyeli"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanje"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "niphe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "ונלחמה",
+      "gloss": "silwe"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ndawonye"
+    }
+  ],
+  "timestamp": "2026-08-31T03:22:46.855536369Z",
+  "model": "glm-5.3"
+}

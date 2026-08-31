@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 7:23",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Yenza isikhwele, ngoba umhlaba ugcwele umahluko wegazi, nedolobha ligcwele ukuhlukunyezwa.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Yenza"
+    },
+    {
+      "surface": "הרתוק",
+      "gloss": "isikhwele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ugcwele"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "umahluko"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "wegazi"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "nedolobha"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ligcwele"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ukuhlukunyezwa"
+    }
+  ],
+  "timestamp": "2026-08-31T05:04:50.395466189Z",
+  "model": "glm-5.3"
+}

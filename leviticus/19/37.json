@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 19:37",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Futhi nizogcina ⟨את⟩ zonke izimiso zami no ⟨את⟩ zonke izahlulelo zami, futhi nizenzakalisa ⟨את⟩ zona; nginguYahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "futhi nizogcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke izimiso zami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "izimiso zami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no ⟨את⟩",
+      "marks": "zonke izahlulelo zami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "izahlulelo zami"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "futhi nizenzakalisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ zona"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:00:49.687215256Z",
+  "model": "glm-5.3"
+}

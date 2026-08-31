@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 23:25",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Ubaba wakho kayajabula, unina wakho kayajabula, futhi lowo owazalayo akhunjulwe injabulo.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "kayajabula"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ubaba wakho"
+    },
+    {
+      "surface": "ואמך",
+      "gloss": "unina wakho kayajabula"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "akhunjulwe injabulo"
+    },
+    {
+      "surface": "יולדתך",
+      "gloss": "lowo owazalayo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:01:21.927006008Z",
+  "model": "glm-5.3"
+}

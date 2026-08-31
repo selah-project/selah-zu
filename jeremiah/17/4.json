@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 17:4",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Futhi uzoyekela — ngokwakho uzodingeka ulwazi lwakho enganikela lona; ngingakwenza ukuthi ukhonze izitha zakho ⟨את⟩ emhlabeni ongawazi; ngoba nivuse umlilo ekratsheni lami, uzushisa kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "ושמטתה",
+      "gloss": "Futhi uzoyekela"
+    },
+    {
+      "surface": "ובך",
+      "gloss": "ngokwakho"
+    },
+    {
+      "surface": "מנחלתך",
+      "gloss": "ulwazi lwakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "enga"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nikela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "lona"
+    },
+    {
+      "surface": "והעבדתיך",
+      "gloss": "ningakwenza ukuthi ukhonze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izitha zakho"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "izitha zakho"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nge"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "קדחתם",
+      "gloss": "nivuse"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "ekratsheni lami"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "zushisa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:46:14.913066219Z",
+  "model": "glm-5.3"
+}

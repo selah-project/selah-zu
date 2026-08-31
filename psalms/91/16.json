@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 91:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 91,
+  "translation": "Ngeminyaka emide ngimugcwalisa, ngimbonisa insindiso yami.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "emide (ubude)"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "Ngeminyaka"
+    },
+    {
+      "surface": "אשביעהו",
+      "gloss": "ngimugcwalisa (okugcwele)"
+    },
+    {
+      "surface": "ואראהו",
+      "gloss": "ngimbonisa"
+    },
+    {
+      "surface": "בישועתי",
+      "gloss": "insindiso yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:53.004189274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 2:1",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Kwathi lapho uYahwe ethatha ⟨את⟩ u-Eliyahu ngisiphephengu esezulwini, u-Eliyahu wahamba no-Elishe esevela eGilgali.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "lapho … ethatha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "u-Eliyahu"
+    },
+    {
+      "surface": "בסערה",
+      "gloss": "ngisiphephengu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "esezulwini"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "u-Eliyahu"
+    },
+    {
+      "surface": "ואלישע",
+      "gloss": "no-Elishe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "esevela"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "eGilgali"
+    }
+  ],
+  "timestamp": "2026-08-31T10:22:31.288775863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Ne⟨את⟩ abaHori entabeni yabo iSeir, kufikela e-El-Paran, okuseduze nesigodi esimile.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "abaHori"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "abaHori"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "entabeni yabo"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "iSeir"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikela"
+    },
+    {
+      "surface": "איל",
+      "gloss": "e-El-"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "-Paran"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okungu-"
+    },
+    {
+      "surface": "על",
+      "gloss": "okuseduze ne-"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sigodi esimile"
+    }
+  ],
+  "timestamp": "2026-08-31T01:06:03.236796513Z",
+  "model": "glm-5.3"
+}

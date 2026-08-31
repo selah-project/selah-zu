@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 94,
+  "translation": "Nyuka, wena umahlankosi womhlaba; buyisela imbuyiso ⟨kumaka⟩ izigaba.",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Nyuka"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "umahlankosi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "womhlaba"
+    },
+    {
+      "surface": "השב",
+      "gloss": "buyisela"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "imbuyiso"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨kumaka⟩"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "izigaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:51.466448128Z",
+  "model": "glm-5.3"
+}

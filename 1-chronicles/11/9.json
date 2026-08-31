@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "UDawidi wahamba wakhula ngokwedlulela, futhi uYahwe wezimpi waye naye.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "UDawidi"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "wakhula"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wezimpi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "waye naye"
+    }
+  ],
+  "timestamp": "2026-08-31T08:22:58.708487782Z",
+  "model": "glm-5.3"
+}

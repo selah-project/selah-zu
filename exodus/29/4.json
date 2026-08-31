@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 29:4",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Futhi u-Aharon ⟨את⟩ nabantwana bakhe ⟨את⟩ uzobalekisa eduze komnyango wetenti yokuhlangana, bese ugeza ⟨את⟩ abantu abo ngamanzi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "nabantwana bakhe"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "uzobalekisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eduze ko-"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "umnyango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wetenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuhlangana"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "bese ugeza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "u-Aharon nabantwana bakhe"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ngamanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:42:28.495080809Z",
+  "model": "glm-5.3"
+}

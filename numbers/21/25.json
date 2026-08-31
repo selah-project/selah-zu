@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 21:25",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi uIsrayeli wathatha ⟨את⟩ wonke amadolobha lawo, futhi uIsrayeli wahlala kuzwonke dolobha lama-Emori, eHeshiboni nakuzwonke izingane zalo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "futhi wathatha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke amadolobha lawo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "amadolobha lawo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "futhi wahlala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuzwonke"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "dolobha"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "lama-Emori"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "eHeshiboni"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "nakuzwonke"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "izingane zalo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:19:25.368569904Z",
+  "model": "glm-5.3"
+}

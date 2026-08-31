@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 3:3",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Laba ngamagama amadodana ka-Aharon, abapristi abagcotshiwe, abazenzisela izandla egcwele ukukhonza njengabapristi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Laba"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ka-Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "המשחים",
+      "gloss": "abagcotshiwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abazenzisela"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "egcwele"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "izandla"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ukukhonza njengabapristi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:09:31.785931643Z",
+  "model": "glm-5.3"
+}

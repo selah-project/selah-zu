@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 28:5",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Ngeniningi lenhlakanipho yakho, nangokuthengisa kwakho, wandise umcebo wakho, futhi inhliziyo yakho yaphakama ngomcebo wakho.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "ngeniningi"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "lenhlakanipho yakho"
+    },
+    {
+      "surface": "ברכלתך",
+      "gloss": "nangokuthengisa kwakho"
+    },
+    {
+      "surface": "הרבית",
+      "gloss": "wandise"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "umcebo wakho"
+    },
+    {
+      "surface": "ויגבה",
+      "gloss": "futhi yaphakama"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "inhliziyo yakho"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "ngomcebo wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T05:15:30.911279187Z",
+  "model": "glm-5.3"
+}

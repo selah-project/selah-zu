@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Kodwa uma ningazwa mina, futhi ningayenza ⟨את⟩ yonke imiyalo le:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kodwa uma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ningazwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi cha"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ningayenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke imiyalo le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "imiyalo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-08-31T02:05:57.725482182Z",
+  "model": "glm-5.3"
+}

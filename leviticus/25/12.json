@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Ngokuba iYubheli yona ingcwele izoba kunina; emhlabathini nizodla ⟨את⟩ izithelo zaso.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "iYubheli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ingcwele"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "izoba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kunina"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "masimoni"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nizodla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izithelo zaso"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "izithelo zaso"
+    }
+  ],
+  "timestamp": "2026-08-31T02:05:14.181070924Z",
+  "model": "glm-5.3"
+}

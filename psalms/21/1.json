@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Kumqondisi. Ingoma yesigubhu nguDavide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Ingoma yesigubhu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "nguDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:11.894354348Z",
+  "model": "glm-5.3"
+}

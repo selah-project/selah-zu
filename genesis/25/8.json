@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "wanqamula umoya wafa u-Avraham ngobudala obuhle, omdala waze wasutha, waqokelelwa kubantu bakhe.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "wanqamula umoya"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wafa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "ngobudala"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "obuhle"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "omdala"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "waze wasutha"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "waqokelelwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "bantu bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:12:58.465922438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 48,
+  "translation": "Ngomoya wasempumalanga wabhidliza imikhumbi yaseTarshishi.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "ngomoya"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "wasempumalanga"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "wabhidliza"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "imikhumbi"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "yaseTarshishi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:56.615805878Z",
+  "model": "glm-5.3"
+}

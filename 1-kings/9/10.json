@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 9:10",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Kwase kuthi ekupheleni kweminyaka engamashumi amabili uShelomo ayakha ngayo ⟨את⟩ izindlu ezimbili, ⟨את⟩ indlu kaYahwe ne⟨את⟩ indlu yenkosi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwase kuthi"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "engamashumi amabili"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "kweminyaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngayo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ayakha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izindlu ezimbili"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "izindlu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu kaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "indlu yenkosi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yenkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:52:11.932062363Z",
+  "model": "glm-5.3"
+}

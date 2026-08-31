@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "habakkuk 3:8",
+  "book": "habakkuk",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngabe uYahwe wathukuthela ngemifula? Noma wenye ukulaka ngemifula, noma isiphetho sakho olwandle — ngoba uhamba ehhashini lwakho, nangezinqola zakho zokusindisa?",
+  "tokens": [
+    {
+      "surface": "הבנהרים",
+      "gloss": "ngemifula"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "wathukuthela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngabe"
+    },
+    {
+      "surface": "בנהרים",
+      "gloss": "ngemifula"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ukulaka lwakho"
+    },
+    {
+      "surface": "אם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "בים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "isiphetho sakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "תרכב",
+      "gloss": "uhamba ehhashini"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "ehhashini lwakho"
+    },
+    {
+      "surface": "מרכבתיך",
+      "gloss": "ngezinqola zakho"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "zokusindisa"
+    }
+  ],
+  "timestamp": "2026-08-31T05:40:38.569136977Z",
+  "model": "glm-5.3"
+}

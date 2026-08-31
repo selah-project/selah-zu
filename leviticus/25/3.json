@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 25:3",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Iminyaka emithandathu uzozala insimu yakho, neminyaka emithandathu uzolunga ivory yakho, uzobutha ⟨את⟩ izithombe zayo.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "emithandathu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "uzozala"
+    },
+    {
+      "surface": "שדך",
+      "gloss": "insimu yakho"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "neminyaka emithandathu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "תזמר",
+      "gloss": "uzolunga"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "ivory yakho"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "uzobutha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izithombe zayo"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "izithombe zayo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:05:04.634519151Z",
+  "model": "glm-5.3"
+}

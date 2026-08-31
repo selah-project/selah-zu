@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 126:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 126,
+  "translation": "Buyisela ukubuyelwa kwethu, uYahwe, ⟨את⟩ njengomifula esifundazweni saseNevhegi.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "buyisela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukubuyelwa kwethu"
+    },
+    {
+      "surface": "שבותנו",
+      "gloss": "ukubuyelwa kwethu"
+    },
+    {
+      "surface": "כאפיקים",
+      "gloss": "njengomifula"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "esifundazweni saseNevhegi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:31.994808045Z",
+  "model": "glm-5.3"
+}

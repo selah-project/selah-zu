@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 12:11",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi uYahwe wathumela uYerubbaali noBedani noYiftahi noShemuweli, waniphonsela ⟨abakaki abayizingoni: emanxiweni⟩ ezinhlweni zezitha zenu ezazingezonsonjana, nahlala nikhululekile.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYerubbaali"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "uYerubbaali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uBedani"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "uBedani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uYiftahi"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "uYiftahi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uShemuweli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "waniphonsela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nin־",
+      "marks": "nin"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ezinhlweni"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "ezitha zenu"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ezazingezonsonjana"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "nahlala"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "nikhululekile"
+    }
+  ],
+  "timestamp": "2026-08-31T10:19:58.173437373Z",
+  "model": "glm-5.3"
+}

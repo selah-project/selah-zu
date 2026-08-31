@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Ngeklehu ngazi ukuthi uyathanda ukuze ube nami, ngoba isitha sami asikho ukukhaliphazela phezu kwami.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "ngeklehu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ngazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "uyathanda"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ukuze ube nami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akulona"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "ukukhaliphazela"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "isitha sami"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:03.701401412Z",
+  "model": "glm-5.3"
+}

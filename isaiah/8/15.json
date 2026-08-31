@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Futhi abantu abaningi bazokhubeka kuyo, bawe, baphuka, babanjwe esibambweni, bathathwe.",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": "bazokhubeka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "abantu abaningi"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "bawe"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "baphuka"
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": "babanjwe esibambweni"
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": "bathathwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:17:37.224446520Z",
+  "model": "glm-5.3"
+}

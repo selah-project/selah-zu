@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 47:21",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 47,
+  "translation": "Futhi ⟨את⟩ abantu wabadlulisa ⟨את⟩ emadorobheni, kusukela ekupheleni komkhawulo weMitsrayim aze kufike ekupheleni kwawo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Futhi ⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "wabadlulisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "emadorobheni"
+    },
+    {
+      "surface": "לערים",
+      "gloss": "emadorobheni"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "kusukela ekupheleni"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "komkhawulo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weMitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "aze kufike"
+    },
+    {
+      "surface": "קצהו",
+      "gloss": "ekupheleni kwawo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:25:23.993447553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 79:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 79,
+  "translation": "Kungani izizwe zithi, 'Ikuphi uElohim wabo?' Makwaziwe phakathi kwabezizweni emehlweni ethu ukuziphindiselela kwegazi leziguli zakho elichithiweyo.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kungani"
+    },
+    {
+      "surface": "ייאמרו",
+      "gloss": "zithi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Ikuphi"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "uElohim wabo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "Makwaziwe"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "phakathi kwabezizweni"
+    },
+    {
+      "surface": "לעינינו",
+      "gloss": "emehlweni ethu"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "ukuziphindiselela"
+    },
+    {
+      "surface": "דם",
+      "gloss": "kwegazi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "leziguli zakho"
+    },
+    {
+      "surface": "השפוך",
+      "gloss": "elichithiweyo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:02.468079902Z",
+  "model": "glm-5.3"
+}

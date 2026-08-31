@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Futhi amadodana akhe amenzela njengoba ewabele.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "futhi amenzele"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "amadodana akhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njengalokho"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ewabele"
+    }
+  ],
+  "timestamp": "2026-08-31T01:26:49.665884556Z",
+  "model": "glm-5.3"
+}

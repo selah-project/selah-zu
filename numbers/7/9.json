@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Kodwa ezantwaneni bakwaKehati akanikeza lutho, ngokuba umsebenzi wezingcwele kuwawo: ngezele bazithwala.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "ezantwaneni"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "bakwaKehati"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akanikeza lutho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "wezingcwele"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "kuwawo"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "ngezele"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "bazithwala"
+    }
+  ],
+  "timestamp": "2026-08-31T02:11:52.781155135Z",
+  "model": "glm-5.3"
+}

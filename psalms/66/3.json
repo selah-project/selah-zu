@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 66:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 66,
+  "translation": "Yisho ku-Elohim: Mungabi-ukhuni-mpela izenzo zakho! Ngobukhulu bemandla akho, izitha zakho ziyaqamba-manga kuwe.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Yisho"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ku-Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Munga"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "bi-ukhuni-mpela"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "izenzo zakho"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "Ngobukhulu"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "emandla akho"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "ziyaqamba-manga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "izitha zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:39.373194139Z",
+  "model": "glm-5.3"
+}

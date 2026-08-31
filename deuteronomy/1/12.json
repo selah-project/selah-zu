@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Njani ngiyedwa nginothwala umthwalo wenu, nesithwalo senu, nempiqiswano yenu?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Njani"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "nginothwala"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ngiyedwa"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "umthwalo wenu"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "nesithwalo senu"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "nempiqiswano yenu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:29:43.632201771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Manje-ke, thina, ukukhala kwabantwana bakwaIsrayeli kufikile kimi; futhi ngibonile ⟨את⟩ ukucindezela abantu baseMitsrayim abacindezela ngakho ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "manje-ke"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "thina"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "ukukhala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaIsrayeli"
+    },
+    {
+      "surface": "באה",
+      "gloss": "kufikile"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ngibonile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukucindezela"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "ukucindezela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "abantu baseMitsrayim"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "abacindezela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona (abantwana bakwaIsrayeli)"
+    }
+  ],
+  "timestamp": "2026-08-31T10:11:34.171387306Z",
+  "model": "glm-5.3"
+}

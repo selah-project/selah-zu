@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 18:26",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Benza icala ⟨את⟩ abantu ngesikhathi sonke; licala elinzima ⟨את⟩ baliyisa kuMoshe, kodwa licala elincane lalo bonke babelungisa bona.",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "Benza icala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngesikhathi sonke"
+    },
+    {
+      "surface": "עת",
+      "gloss": "isikhathi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "licalu elinzima"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "licalu"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "elinzima"
+    },
+    {
+      "surface": "יביאון",
+      "gloss": "baliyisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "kodwa lalo bonke"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "licalu"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "elincane"
+    },
+    {
+      "surface": "ישפוטו",
+      "gloss": "babelungisa"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bona"
+    }
+  ],
+  "timestamp": "2026-08-31T01:34:21.240772459Z",
+  "model": "glm-5.3"
+}

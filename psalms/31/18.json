@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 31:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "uYahwe, angingahlazwa, ngoba ngikubizile; ababi mahlazwe, bamume baye eSheol.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungi-"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ahlazwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ngikubizile"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "mahlazwe"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "ידמו",
+      "gloss": "bamume"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "baye eSheol"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:45.381475686Z",
+  "model": "glm-5.3"
+}

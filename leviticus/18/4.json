@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 18:4",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "⟨את⟩ izinkantelo zami niyazenza, no⟨את⟩ izimiso zami niyazigcina, ukuhamba kuzo; nginguYahwe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinkantelo zami"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "izinkantelo zami"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "niyazenza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "izimiso zami"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "izimiso zami"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "niyazigcina"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuhamba"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuzo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:59:22.955248747Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi amandla enu azochithwa amala, umhlaba wenu angeke unikeze ⟨את⟩ ukhula lwayo, isihlahla somhlaba asisoze sinikeze isithelo sawo.",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "azochithwa"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "amala"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "amandla enu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "unikeze"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "umhlaba wenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukhula lwayo"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ukhula lwayo"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "isihlahla"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "somhlaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asisoze"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "sinikeze"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "isithelo sawo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:06:34.322992267Z",
+  "model": "glm-5.3"
+}

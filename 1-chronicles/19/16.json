@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 19:16",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "I-Aram yabona ukuthi yabhidlazwa phambi kuka-Israyeli, yathuma abathunywa, yakhisha ⟨את⟩ i-Aram engasele komfula; futhi uShophaki, inkosi yempi kaHadedezeri, wayengaphambi kwabo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "i-Aram"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "yabhidlazwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kuka-Israyeli"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "yathuma"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "abathunywa"
+    },
+    {
+      "surface": "ויוציאו",
+      "gloss": "yakhisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-Aram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "i-Aram"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eyo-"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "engasele"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "komfula"
+    },
+    {
+      "surface": "ושופך",
+      "gloss": "futhi uShophaki"
+    },
+    {
+      "surface": "שר",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "yempi"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "kaHadedezeri"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "phambi kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:27:08.549796407Z",
+  "model": "glm-5.3"
+}

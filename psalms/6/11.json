@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 6:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Bahambe buca bakhwetshuzwe kakhulu nonke izitha zami; babuyele, bahambe buca ngumzuzwana.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Bahambe buca"
+    },
+    {
+      "surface": "ויבהלו",
+      "gloss": "bakhwetshuzwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nonke"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "izitha zami"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "babuyele"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "bahambe buca"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "ngumzuzwana"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:15.650356464Z",
+  "model": "glm-5.3"
+}

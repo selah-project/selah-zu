@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 34:14",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Endaweni yokudla eyinhle ngizobafuyisa ⟨את⟩; nasemiNtabeni ephezulu yase-Israyeli kuzoba kuyikhaya labo; lapho bazocubungila ekhaya elihle, futhi endaweni yokudla etyebile bazodla, ezintabeni zika-Israyeli.",
+  "tokens": [
+    {
+      "surface": "במרעה",
+      "gloss": "endaweni yokudla"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "eyinhle"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "ngizobafuyisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bazi (izimvu zami)"
+    },
+    {
+      "surface": "ובהרי",
+      "gloss": "nasezintabeni"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ephezulu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yase-Israyeli"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuzoba kuyi-"
+    },
+    {
+      "surface": "נוהם",
+      "gloss": "ikhaya labo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "תרבצנה",
+      "gloss": "bazocubungila"
+    },
+    {
+      "surface": "בנוה",
+      "gloss": "ekhaya"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elihle"
+    },
+    {
+      "surface": "ומרעה",
+      "gloss": "endaweni yokudla"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "etyebile"
+    },
+    {
+      "surface": "תרעינה",
+      "gloss": "bazodla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eziNtabeni"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "eziNtabeni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zika-Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T05:17:33.821250408Z",
+  "model": "glm-5.3"
+}

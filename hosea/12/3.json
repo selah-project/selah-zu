@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 12:3",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi uYahwe unodaba noYehuda, futhi uzovakashela uYakobi ngezindlela zakhe; ngezimangaliso zakhe uzombuyisela yena.",
+  "tokens": [
+    {
+      "surface": "וריב",
+      "gloss": "Futhi unodaba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "ולפקד",
+      "gloss": "futhi uzovakashela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYakobi"
+    },
+    {
+      "surface": "כדרכיו",
+      "gloss": "ngezindlela zakhe"
+    },
+    {
+      "surface": "כמעלליו",
+      "gloss": "ngezimangaliso zakhe"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "uzombuyisela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:13.465019490Z",
+  "model": "glm-5.3"
+}

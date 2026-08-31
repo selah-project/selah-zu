@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 33:8",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Imigwaqo yonakaliswe, umhambi-ndlela uyekile; isivumelwano saphukile, izidolobha zihlonishwe kabi, umuntu akanabizo",
+  "tokens": [
+    {
+      "surface": "נשמו",
+      "gloss": "yonakaliswe"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "Imigwaqo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "uyekile"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "umhambi-ndlela"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "saphukile"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "isivumelwano"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "zihlonishwe kabi"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "izidolobha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aka"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "nabizo"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "umuntu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:25:37.601899977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 10:11",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ingabe ngingazenzi njengoba ngidingile kuShomeroni nakumahhosi-izithombe ayo, njalo eYerushalayimi nakuzithombe zayo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ingabe nginga"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ngidingile"
+    },
+    {
+      "surface": "לשמרון",
+      "gloss": "kuShomeroni"
+    },
+    {
+      "surface": "ולאליליה",
+      "gloss": "nakumahhosi-izithombe ayo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ngizenzi"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "ולעצביה",
+      "gloss": "nakuzithombe zayo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:19:12.886652889Z",
+  "model": "glm-5.3"
+}

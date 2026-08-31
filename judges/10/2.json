@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Wahlulela ⟨את⟩ iYisraeli iminyaka engamashumi amabili nantathu, washona, wangcwatywa eShamiri.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "wahlulela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisraeli"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amashumi amabili"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "nantathu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "washona"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "wangcwatywa"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "eShamiri"
+    }
+  ],
+  "timestamp": "2026-08-31T03:06:40.647330427Z",
+  "model": "glm-5.3"
+}

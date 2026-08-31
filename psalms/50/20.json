@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 50:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Uhlala ukhuluma ngomfowenu, ngododana yenina yakho unikeza isitha.",
+  "tokens": [
+    {
+      "surface": "תשב",
+      "gloss": "uhlala"
+    },
+    {
+      "surface": "באחיך",
+      "gloss": "ngomfowenu"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ukhuluma"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "ngododana"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "yenina yakho"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "unikeza"
+    },
+    {
+      "surface": "דפי",
+      "gloss": "isitha"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:57.555534728Z",
+  "model": "glm-5.3"
+}

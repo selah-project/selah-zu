@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 121,
+  "translation": "Ngemini ilanga ngeke likushaye, nenyanga ebusuku.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Ngemini"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "likushaye"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "nenyanga"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ebusuku"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:52.702829988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 16:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Imigqa yokulinganisa iwele kimi ezindaweni ezinhle; yebo, ifa elihle liyami.",
+  "tokens": [
+    {
+      "surface": "חבלים",
+      "gloss": "imigqa yokulinganisa"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "iwele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "בנעמים",
+      "gloss": "ezindaweni ezinhle"
+    },
+    {
+      "surface": "אף",
+      "gloss": "yebo"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "elihle"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "liyami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:28.357538670Z",
+  "model": "glm-5.3"
+}

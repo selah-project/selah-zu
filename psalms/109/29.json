@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 109:29",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Abathukutheli bami bazongembathiselwa ihlazo, bazingqambele ngokuveza ubuhlungu njengengubo yokwembatha ukudumba kwabo.",
+  "tokens": [
+    {
+      "surface": "ילבשו",
+      "gloss": "bazongembathiselwa"
+    },
+    {
+      "surface": "שוטני",
+      "gloss": "abathukutheli bami"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "ihlazo"
+    },
+    {
+      "surface": "ויעטו",
+      "gloss": "bazingqambele ngokuveza ubuhlungu"
+    },
+    {
+      "surface": "כמעיל",
+      "gloss": "njengengubo yokwembatha"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "ukudumba kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:15.367655539Z",
+  "model": "glm-5.3"
+}

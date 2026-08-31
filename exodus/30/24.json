@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Nendabe ezinhlanu ngeshekele yesintaba, lochibo lomfutho wezihlahla-zethini elilithini.",
+  "tokens": [
+    {
+      "surface": "וְקִדָּה",
+      "gloss": "nendabe"
+    },
+    {
+      "surface": "חֲמֵשׁ",
+      "gloss": "ezinhlanu"
+    },
+    {
+      "surface": "מֵאוֹת",
+      "gloss": "⟨amakhulu⟩"
+    },
+    {
+      "surface": "בְּשֶׁקֶל",
+      "gloss": "ngeshekele"
+    },
+    {
+      "surface": "הַקֹּדֶשׁ",
+      "gloss": "yesintaba"
+    },
+    {
+      "surface": "וְשֶׁמֶן",
+      "gloss": "lochibo"
+    },
+    {
+      "surface": "זַיִת",
+      "gloss": "wezihlahla-zethini"
+    },
+    {
+      "surface": "הִין",
+      "gloss": "elilithini"
+    }
+  ],
+  "timestamp": "2026-08-31T10:12:59.310528150Z",
+  "model": "glm-5.3"
+}

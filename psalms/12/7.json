@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 12:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Amazwi kaYahwe ayamazwi acocekile, njengensimbi eqoqiwe esitsha somhlabathi, ihlambiwe izikhathi ezisixhenxe.",
+  "tokens": [
+    {
+      "surface": "אמרות",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אמרות",
+      "gloss": "ayamazwi"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "acocekile"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "njengensimbi"
+    },
+    {
+      "surface": "צרוף",
+      "gloss": "eqoqiwe"
+    },
+    {
+      "surface": "בעליל",
+      "gloss": "esitsha"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "somhlabathi"
+    },
+    {
+      "surface": "מזקק",
+      "gloss": "ihlambiwe"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "izikhathi ezisixhenxe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:56.470277842Z",
+  "model": "glm-5.3"
+}

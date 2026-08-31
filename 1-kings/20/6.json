@@ -1,0 +1,100 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 20:6",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "kodwa ngaleso sikhathi ngomuso ngizothuma izinceku zami ⟨את⟩ kuwe, zizophe ⟨את⟩ nendlu yakho, nezezenkonzini zakho; futhi konke okuthandwa amehlo akho bazobeka esandleni sawo, bazithatha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כעת",
+      "gloss": "ngaleso sikhathi"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ngomuso"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ngizothuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinceku zami"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "izinceku zami"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "וחפשו",
+      "gloss": "zizophe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yakho"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "indlu yakho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izindlu zezinceku zakho"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "izindlu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "zezenkonzini zakho"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "okuthandwa"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "amehlo akho"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "bazobeka"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "esandleni sawo"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "bazithatha"
+    }
+  ],
+  "timestamp": "2026-08-31T06:07:07.917526585Z",
+  "model": "glm-5.3"
+}

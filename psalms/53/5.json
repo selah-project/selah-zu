@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 53:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 53,
+  "translation": "Abasebenzi boboki abayazi yini? Abadla abantu bami njengokudla isinkwa; uElohim abambandzelanga.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "yini"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "abayazi"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "abasebenzi"
+    },
+    {
+      "surface": "און",
+      "gloss": "boboki"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "abadlayo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bami"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "badla"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "isinkwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "abambandzelanga"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:26.779654336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 6:5",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi ngizobeka ⟨את⟩ izidumbu zezingane zeYisrayeli phambi kwezigcilikazi zabo, futhi ngizochitha ⟨את⟩ amathambo akho ezungeze ama-altari enu.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "futhi ngizobeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izidumbu zezingane zeYisrayeli"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "izidumbu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ezingane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zeYisrayeli"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "גלוליהם",
+      "gloss": "ezigcilikazi zabo"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "futhi ngizochitha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amathambo akho"
+    },
+    {
+      "surface": "עצמותיכם",
+      "gloss": "amathambo akho"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "ezungeze"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "ama-altari enu"
+    }
+  ],
+  "timestamp": "2026-08-31T05:04:52.210340553Z",
+  "model": "glm-5.3"
+}

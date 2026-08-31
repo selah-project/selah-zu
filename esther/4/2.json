@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Wafika waze emnyango wenkosi, ngokuba akukho mvumelekileyo ukungena emnyango wenkosi ngokugqokile izingubo ezilukhuni.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "wafika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "waze"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "שער",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wenkosi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho mvumelekileyo"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ukungena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "שער",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wenkosi"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "ngokugqokile"
+    },
+    {
+      "surface": "שק",
+      "gloss": "izingubo ezilukhuni"
+    }
+  ],
+  "timestamp": "2026-08-31T07:51:27.025846238Z",
+  "model": "glm-5.3"
+}

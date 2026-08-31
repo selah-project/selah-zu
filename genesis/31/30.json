@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 31:30",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Futhi manje uhambile ngempela, ngoba ulangazelele ⟨ukuya⟩ endlweni kayihlo; kungani uthe utshontshe ⟨את⟩ onkulunkulu bami?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "futhi manje"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "uhamba"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "uhambile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "ulangazelele"
+    },
+    {
+      "surface": "נכספתה",
+      "gloss": "ulangazele ngempela"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "endlweni"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "kayihlo"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "גנבת",
+      "gloss": "uthe utshontshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onkulunkulu bami"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "onkulunkulu bami"
+    }
+  ],
+  "timestamp": "2026-08-31T01:17:03.601705764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 80,
+  "translation": "Kumkhokheli, ngokwezintandane ⟨ezinjengezibindi⟩, ufnzamo ka-Asafe, umculo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumkhokheli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngokwe"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "ezinjengezibindi (Shoshannim, igama leculo)"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ufnzamo (Eduth)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ka-Asafe"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umculo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:13.039220365Z",
+  "model": "glm-5.3"
+}

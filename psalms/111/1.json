@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 111:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 111,
+  "translation": "Dumisani uYah! Ngiyabonga kuYahwe ngenhliziyo yonke, emkhandlwini abaqotho nasezibhelwaneni.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumisani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "Ngiyabonga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "nhliziyo yonke"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "emkhandlwini"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "abaqotho"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "nasezibhelwaneni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:35.522530087Z",
+  "model": "glm-5.3"
+}

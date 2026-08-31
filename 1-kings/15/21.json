@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 15:21",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Kwathi lapho uBaasha esezwa lokhu, yekela ukwakha iRama, waya hlala eTirza.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "lapho esezwa"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "uBaasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "yekela"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ukwakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iRama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "iRama"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "waya hlala"
+    },
+    {
+      "surface": "בתרצה",
+      "gloss": "eTirza"
+    }
+  ],
+  "timestamp": "2026-08-31T03:58:52.623708514Z",
+  "model": "glm-5.3"
+}

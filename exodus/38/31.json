@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 38:31",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "N ⟨את⟩ izisekelo zesango lendawo yokuhlala emgoveni, n ⟨את⟩ izisekelo zesango lendawo yokuhlala, n ⟨את⟩ zonke izingogo zohamba-nomhlaba, n ⟨את⟩ zonke izingogo zendawo yokuhlala emgoveni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izisekelo zendawo yokuhlala"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "izisekelo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "zendawo yokuhlala"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "emgoveni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izisekelo zesango lendawo yokuhlala"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "izisekelo"
+    },
+    {
+      "surface": "שער",
+      "gloss": "zesango"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "lendawo yokuhlala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zonke izingogo zohamba-nomhlaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "izingogo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "zohamba-nomhlaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zonke izingogo zendawo yokuhlala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "izingogo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "zendawo yokuhlala"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "emgoveni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:46:06.589439723Z",
+  "model": "glm-5.3"
+}

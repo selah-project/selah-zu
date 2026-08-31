@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Amasiko kaShelomoh, indodana kaDavi, inkosi yesiNtwa sika-Israeli",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Amasiko"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "kaShelomoh"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yesiNtwa sika-Israeli"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:56.503316035Z",
+  "model": "glm-5.3"
+}

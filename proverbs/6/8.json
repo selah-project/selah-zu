@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ihlinzekela ukudla kwaso ehlobo, iqoza okuzodla kwaso enkathazini yokhoza.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "Ihlinzekela"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "ehlobo"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "ukudla kwaso"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "iqoza"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "enkathazini yokhoza"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "okuzodla kwaso"
+    }
+  ],
+  "timestamp": "2026-08-31T06:48:31.416129838Z",
+  "model": "glm-5.3"
+}

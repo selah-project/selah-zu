@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 102:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 102,
+  "translation": "Kusuka ezweni lokukhala kwami, amathambo ami anamathelile enyameni yami.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Kusuka ezweni"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "lokukhala kwami"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "anamathelile"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "amathambo ami"
+    },
+    {
+      "surface": "לבשרי",
+      "gloss": "enyameni yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:06.957792965Z",
+  "model": "glm-5.3"
+}

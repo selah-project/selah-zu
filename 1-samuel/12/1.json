@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 12:1",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "USamuwele wathi kuwo wonke uSirayeli: Bheka, ngizwile izwi lenu ngakho konke eningitshela khona, futhi ngimenze ⟨את⟩ inkosi phezu kwenu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uSamuwele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uSirayeli"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ngizwile"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "izwi lenu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ngakho konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "eningitshela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "khona kimi"
+    },
+    {
+      "surface": "ואמליך",
+      "gloss": "futhi ngimenze inkosi"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "phezu kwenu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:20:27.189723017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 1:6",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Qina, ubhembe, ngokuba wena uzokwenza ⟨את⟩ lolu bantu ludle ⟨את⟩ ilizwe engifungela kubaba walo ukuthi ngiyakunikeza lona.",
+  "tokens": [
+    {
+      "surface": "חזק",
+      "gloss": "Qina"
+    },
+    {
+      "surface": "ואמץ",
+      "gloss": "ubhembe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תנחיל",
+      "gloss": "uzokwenza ludle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lolu bantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lolu bantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "fungela"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "kubaba walo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ukunikeza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lona"
+    }
+  ],
+  "timestamp": "2026-08-31T02:50:26.305768388Z",
+  "model": "glm-5.3"
+}

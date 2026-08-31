@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 3:12",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "UYehoshafati wathi: Indaba kaYahwe ikhona kuye. Inkosi kaSirayeli, noYehoshafati, nenkosi kaEdomu behla kuye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "UYehoshafati"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ikhona"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ kuye",
+      "marks": "indaba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "indaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "behla"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaSirayeli"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "noYehoshafati"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "nenkosa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "kaEdomu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:07:29.071064725Z",
+  "model": "glm-5.3"
+}

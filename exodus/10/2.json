@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 10:2",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Futhi ukuze uxoxe ezindlebeni zododana yakho nendodana yendodana yakho ⟨את⟩ lokhu engingenzakalisile ngakho iMitsrayim no-⟨את⟩ izimpawu zami engizibekile kubo, nazi ukuthi mina nginguYahwe.",
+  "tokens": [
+    {
+      "surface": "ולמען",
+      "gloss": "futhi ukuze"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "uxoxe"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ezindlebeni"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "zododana yakho"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "nendodana"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "yendodana yakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokhu engingenzakalisile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "התעללתי",
+      "gloss": "engingenzakalisile"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "izimpawu zami"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "izimpawu zami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "zibekile"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "nazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nginguYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:31:41.689722518Z",
+  "model": "glm-5.3"
+}

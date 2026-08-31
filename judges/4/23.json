@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "uElohim wathobisa ngalolo suku ⟨את⟩ uYabhini, inkosi yaseKhenana, phambi kwezinsizwa zika-Israeli.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "wathobisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalolo suku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lalosuku"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYabhini"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "uYabhini"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "yaseKhenana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwe-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ezinsizwaneni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zika-Israeli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:03:42.486196224Z",
+  "model": "glm-5.3"
+}

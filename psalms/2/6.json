@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Kepha mina, ngingeke: ngibekile inkosi yami phezu kweZiyoni, intaba yami engcwele.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kepha mina"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "ngibekile"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "inkosi yami"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iZiyoni"
+    },
+    {
+      "surface": "הר",
+      "gloss": "intaba"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "engcwele yami"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:50.841080916Z",
+  "model": "glm-5.3"
+}

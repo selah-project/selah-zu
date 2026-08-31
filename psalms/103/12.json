@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 103:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 103,
+  "translation": "Njengokude kwasempumalanga kusentashonalanga, kanjalo wasusa kude nathi ⟨את⟩ iziphambeko zethu.",
+  "tokens": [
+    {
+      "surface": "כרחק",
+      "gloss": "njengokude"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "kwasempumalanga"
+    },
+    {
+      "surface": "ממערב",
+      "gloss": "kusentashonalanga"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "wasusa kude"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "nathi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iziphambeko zethu"
+    },
+    {
+      "surface": "פשעינו",
+      "gloss": "iziphambeko zethu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:01.792116816Z",
+  "model": "glm-5.3"
+}

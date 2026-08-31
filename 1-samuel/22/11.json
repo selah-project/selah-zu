@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 22:11",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Inkosi yathuma ukubiza ⟨את⟩ u-Akhimelekhi indodana ka-Akhituvhi umpristi, kanye no⟨את⟩ wonke umuzi woyise wake, abapristi ababe seNobhi; bonke bafika kunkosi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "yathuma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Inkosi"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "ukubiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Akhimelekhi"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "u-Akhimelekhi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ka-Akhituvhi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wonke umuzi woyise"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "umuzi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "woyise wake"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "בנב",
+      "gloss": "seNobhi"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bafika"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:26:02.489615736Z",
+  "model": "glm-5.3"
+}

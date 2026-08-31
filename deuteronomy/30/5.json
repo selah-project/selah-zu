@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 30:5",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Futhi uYahwe uElohim wakho uzakungenisa ezweni abayizuzile ooyise bakho, uwuzindle; akanzele futhi akwandise kunooyise bakho.",
+  "tokens": [
+    {
+      "surface": "והביאך",
+      "gloss": "uzakungenisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "izweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abayizuzile"
+    },
+    {
+      "surface": "ירשו",
+      "gloss": "bayizuzile"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "ooyise bakho"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "uwuzindle"
+    },
+    {
+      "surface": "והיטבך",
+      "gloss": "akanzele"
+    },
+    {
+      "surface": "והרבך",
+      "gloss": "akwandise"
+    },
+    {
+      "surface": "מאבתיך",
+      "gloss": "kunooyise bakho"
+    }
+  ],
+  "timestamp": "2026-08-31T02:45:31.244320223Z",
+  "model": "glm-5.3"
+}

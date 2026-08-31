@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Konke okunomhlamba kunganikwazi ukukuletha, ngoba kungeke kamukelwe kini.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuno"
+    },
+    {
+      "surface": "מום",
+      "gloss": "umhlamba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "nikwazi ukukuletha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kungeke"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "kamukelwe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kube"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-08-31T02:01:47.044194817Z",
+  "model": "glm-5.3"
+}

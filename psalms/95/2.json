@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 95:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 95,
+  "translation": "Sondeleni ebusweni bakhe ngobongi, ngamazwi okuhlabelela sikhalimele yena.",
+  "tokens": [
+    {
+      "surface": "נקדמה",
+      "gloss": "Sondeleni"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ebusweni bakhe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ngobongi"
+    },
+    {
+      "surface": "בזמרות",
+      "gloss": "ngamazwi okuhlabelela"
+    },
+    {
+      "surface": "נריע",
+      "gloss": "sikhalimele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:53.250161095Z",
+  "model": "glm-5.3"
+}

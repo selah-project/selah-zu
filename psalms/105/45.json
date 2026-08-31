@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 105:45",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "Ukuze bagcine imithetho yakhe, futhi balondoloze amalawu akhe. Dumisani uYah!",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "Ukuze"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "bagcine"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "imithetho yakhe"
+    },
+    {
+      "surface": "ותורתיו",
+      "gloss": "futhi amalawu akhe"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "balondoloze"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Dumisani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:04.028733331Z",
+  "model": "glm-5.3"
+}

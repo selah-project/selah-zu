@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 104:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 104,
+  "translation": "Obekela izinti zezigodlo zakhe emanzini, owenza amafu abhekisi—ibhasi lakhe, ohamba phezu kwamaphiko omoya.",
+  "tokens": [
+    {
+      "surface": "המקרה",
+      "gloss": "Obekela izinti"
+    },
+    {
+      "surface": "במים",
+      "gloss": "emanzini"
+    },
+    {
+      "surface": "עליותיו",
+      "gloss": "zezigodlo zakhe"
+    },
+    {
+      "surface": "השם",
+      "gloss": "owenza"
+    },
+    {
+      "surface": "עבים",
+      "gloss": "amafu abhekisi"
+    },
+    {
+      "surface": "רכובו",
+      "gloss": "ibhasi lakhe"
+    },
+    {
+      "surface": "המהלך",
+      "gloss": "ohamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kw"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "amaphiko"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "omoya"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:20.961089540Z",
+  "model": "glm-5.3"
+}

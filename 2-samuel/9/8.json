@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Wakhuleka futhi wathi: Inceku yakho yini, ukuthi ulibukele inja efileyo enjengami?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "wakhuleka"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "inceku yakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "ulibukele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "inja"
+    },
+    {
+      "surface": "המת",
+      "gloss": "efileyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "njengami"
+    }
+  ],
+  "timestamp": "2026-08-31T03:35:27.317249071Z",
+  "model": "glm-5.3"
+}

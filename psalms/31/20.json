@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 31:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Mangaki amahle akho, owawufihlele labo abayesabayo, owenza phambi kwabantwana abantu kulabo abakhulelekela kuwe!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mangaki"
+    },
+    {
+      "surface": "רב",
+      "gloss": "okuningi"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "amahle akho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owo-"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "wawufihlele"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "labo abayesabayo"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "owenza"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "kulabo abakhulelekela kuwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:45.381783851Z",
+  "model": "glm-5.3"
+}

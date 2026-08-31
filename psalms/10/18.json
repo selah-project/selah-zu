@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ukugwetsha intandane nodalwa, ukuze umuntu womhlaba angasabangi ukwesaba ⟨kuningi⟩.",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "ukugwetsha"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "intandane"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "nodalwa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kungabi"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "angasangeze"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kuningi"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "wa-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "omhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:53.850977955Z",
+  "model": "glm-5.3"
+}

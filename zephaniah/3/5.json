@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zephaniah 3:5",
+  "book": "zephaniah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "uYahwe ulungile phakathi kwayo; angayenzi intela; ngekusasa, ngekusasa uyezisa isinqumo sakhe ekukhanyeni; asikho esingekho; kodwa abenandaba abazi ihlonipha.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ulungile"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "phakathi kwayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yenzi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "intela"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ngekusasa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ngekusasa"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "isinqumo sakhe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "uyeza"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "ekukhanyeni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asikho"
+    },
+    {
+      "surface": "נעדר",
+      "gloss": "esingekho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa awu-"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ihlonipha (abenandaba)"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "ihlonipha"
+    }
+  ],
+  "timestamp": "2026-08-31T05:41:25.082908468Z",
+  "model": "glm-5.3"
+}

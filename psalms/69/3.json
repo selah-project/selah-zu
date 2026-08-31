@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 69:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Ngiminze emdondoleni ojulile, futhi ⟨akuho⟩ ukuma okuzinzele; ngifike emanzini ajulile, futhi ukuzikhukhulela kwezikhukhule kungigubhasele.",
+  "tokens": [
+    {
+      "surface": "טבעתי",
+      "gloss": "Ngiminze"
+    },
+    {
+      "surface": "ביון",
+      "gloss": "emdondoleni"
+    },
+    {
+      "surface": "מצולה",
+      "gloss": "ojulile"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi ⟨akuho⟩"
+    },
+    {
+      "surface": "מעמד",
+      "gloss": "ukuma okuzinzele"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "ngifike"
+    },
+    {
+      "surface": "במעמקי",
+      "gloss": "emanzini ajulile"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "ושבלת",
+      "gloss": "ukuzikhukhulela kwezikhukhule"
+    },
+    {
+      "surface": "שטפתני",
+      "gloss": "kungigubhasele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:53.129250373Z",
+  "model": "glm-5.3"
+}

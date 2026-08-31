@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 34:5",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "uYaakov wayezwa ukuthi utimile uDina indodakazi yakhe, kodwa amadodana akhe ayenge⟨את⟩ izinkomo zakhe ensimini; uYaakov wathula kuze kube basinda.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "uYaakov"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wayezwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "utimile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDina"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "uDina"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "indodakazi yakhe"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "kodwa amadodana akhe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ayenge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinkomo zakhe"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "izinkomo zakhe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ensimini"
+    },
+    {
+      "surface": "והחרש",
+      "gloss": "wathula"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakov"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "באם",
+      "gloss": "basinda"
+    }
+  ],
+  "timestamp": "2026-08-31T01:18:28.218684927Z",
+  "model": "glm-5.3"
+}

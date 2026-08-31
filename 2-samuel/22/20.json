@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Wangikhulula wayengena endaweni evulekile, wangisindisa, ngoba wathokozela kimi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Wangikhulula wayengena"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "endaweni evulekile"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mina"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "wangisindisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "wathokozela"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:44:27.920292018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 18:20",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Kodwa umprofethi ozazisa ukukhuluma igama ngegama lami — ⟨את⟩ engiangimyalanga ukuba akhulume — noma ozakhuluma ngegama lazielohim avela, lowo mprofethi uzafa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "umprofethi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oza-"
+    },
+    {
+      "surface": "יזיד",
+      "gloss": "zazisa"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ukukhuluma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "igama"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ngegama lami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "engiangimyalanga ukuba akhulume"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engiangimyalanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angi-"
+    },
+    {
+      "surface": "צויתיו",
+      "gloss": "ngimyalanga"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ukuba akhulume"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "noma oza-"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "khuluma"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ngegama"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ielohim avela"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "avela"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "uzafa"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "lowo mprofethi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lowo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:39:19.303176055Z",
+  "model": "glm-5.3"
+}

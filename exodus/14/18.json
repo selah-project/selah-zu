@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 14:18",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi uMitsrayim uzokwazi ukuthi mina nginguYahwe, ngingazinikeza inkazimulo ngoParo, kumabhande akhe nakubahashi bakhe.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "futhi uzokwazi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "uMitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nginguYahwe"
+    },
+    {
+      "surface": "בהכבדי",
+      "gloss": "ngingizinikeza inkazimulo"
+    },
+    {
+      "surface": "בפרעה",
+      "gloss": "ngoParo"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "kumabhande akhe"
+    },
+    {
+      "surface": "ובפרשיו",
+      "gloss": "nakubahashi bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:33:58.598373583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Umlomo wami uzokhuluma izindlela zokuhlakanipha, nokucabanga kwenhliziyo yami kuzokwazisa.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "Umlomo wami"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "uzokhuluma"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "izindlela zokuhlakanipha"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "nokucabanga"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "kwenhliziyo yami"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "kuzokwazisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:06.801379312Z",
+  "model": "glm-5.3"
+}

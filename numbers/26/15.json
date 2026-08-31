@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 26:15",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Amadodana kaGadi ngokwamafomula abo: kukaTsefoni, umndeni wakaTsefoni; kukaḤagi, umndeni wakaḤagi; kukaShuni, umndeni wakaShuni.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "גד",
+      "gloss": "kaGadi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngokwamafomula abo"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "kukaTsefoni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umndeni"
+    },
+    {
+      "surface": "הצפוני",
+      "gloss": "wakaTsefoni"
+    },
+    {
+      "surface": "לחגי",
+      "gloss": "kukaḤagi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umndeni"
+    },
+    {
+      "surface": "החגי",
+      "gloss": "wakaḤagi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "kukaShuni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umndeni"
+    },
+    {
+      "surface": "השוני",
+      "gloss": "wakaShuni"
+    }
+  ],
+  "timestamp": "2026-08-31T02:22:13.762657848Z",
+  "model": "glm-5.3"
+}

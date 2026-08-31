@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 1:14",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "uElohim wasesho: Malibe izibani emkhathini wamazulu, ukuhlukanisa phakathi kokusuku nangokubusuku; futhi zibe yizimpawu, nangesikhathi, nangezinsuku nangu-nyaka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wasesho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "malibe"
+    },
+    {
+      "surface": "מארת",
+      "gloss": "izibani"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "emkhathini"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wamazulu"
+    },
+    {
+      "surface": "להבדיל",
+      "gloss": "ukuhlukanisa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ukusuku"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "futhi phakathi kwe"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "obusuku"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "futhi zibe"
+    },
+    {
+      "surface": "לאתת",
+      "gloss": "yizimpawu"
+    },
+    {
+      "surface": "ולמועדים",
+      "gloss": "nangesikhathi"
+    },
+    {
+      "surface": "ולימים",
+      "gloss": "nangezinsuku"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "nangu-nyaka"
+    }
+  ],
+  "timestamp": "2026-08-31T01:01:48.660629038Z",
+  "model": "glm-5.3"
+}

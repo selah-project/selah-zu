@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Amadodana kaYehudha: u-Peretsi, uChetsironi, noKarmi, noChuri, noShobhali.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Amadodana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kaYehudha"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "u-Peretsi"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "uChetsironi"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "noKarmi"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "noChuri"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "noShobhali"
+    }
+  ],
+  "timestamp": "2026-08-31T08:20:00.632729958Z",
+  "model": "glm-5.3"
+}

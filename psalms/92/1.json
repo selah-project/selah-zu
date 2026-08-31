@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 92,
+  "translation": "Izihlabelo, ingoma, ngosuku ⟨osabatha⟩.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "izihlabelo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ingoma"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "⟨osabatha⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:24.650358767Z",
+  "model": "glm-5.3"
+}

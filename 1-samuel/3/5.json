@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 3:5",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Wagijima waya ku-Eli, wathi: Ngiyapha, ngoba ungibizile. Yena wathi: Angikubizanga; buyela ulale. Waya walala.",
+  "tokens": [
+    {
+      "surface": "וירץ",
+      "gloss": "wagijima"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "u-Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ngiyapha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ungibizile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ngikubizile"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "buyela"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ulale"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "walala"
+    }
+  ],
+  "timestamp": "2026-08-31T03:16:07.803285268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 29:19",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Futhi uzothatha ⟨את⟩ i-ram yesibili, nu-Aharon nabantwana bakhe bazobeka ⟨את⟩ izandla zabo phezu kwekhanda le-ram.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Futhi uzothatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-ram yesibili"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "i-ram"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yesibili"
+    },
+    {
+      "surface": "וסמך",
+      "gloss": "bazobeka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "nabantwana bakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izandla zabo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "izandla zabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kw"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ekhanda"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "le-ram"
+    }
+  ],
+  "timestamp": "2026-08-31T01:42:05.675864542Z",
+  "model": "glm-5.3"
+}

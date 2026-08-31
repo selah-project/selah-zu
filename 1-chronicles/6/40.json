@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Babanika iHebhroni ⟨את⟩ ezweni lakwaYuda, nomehlaba wayo wasemapulazini ⟨את⟩ owayezungezile.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "Babanika"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba-"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iHebhroni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "iHebhroni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni la-"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kwaYuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umehlaba wayo wasemapulazini"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "umehlaba wayo wasemapulazini"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "owayezungezile"
+    }
+  ],
+  "timestamp": "2026-08-31T09:01:54.256145050Z",
+  "model": "glm-5.3"
+}

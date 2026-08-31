@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 53:2",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 53,
+  "translation": "Wakhula phambi kwakhe njengesiphuzo esisha, futhi njengempande emhlabathini omile; awubunjiniyela kuyena futhi awubukhosi, futhi sammbona — awukubonakala; futhi asifunanga kuye.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wakhula"
+    },
+    {
+      "surface": "כיונק",
+      "gloss": "njengesiphuzo esisha"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "וכשרש",
+      "gloss": "futhi njengempande"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "emhlabathini"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "omile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "bunjiniyela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi awu-"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "bukhosi"
+    },
+    {
+      "surface": "ונראהו",
+      "gloss": "futhi sammbona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "kubonakala"
+    },
+    {
+      "surface": "ונחמדהו",
+      "gloss": "futhi asifunanga kuye"
+    }
+  ],
+  "timestamp": "2026-08-31T04:33:37.905990496Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 132:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 132,
+  "translation": "Ukudla kwayo ngizukubusisa ngokubusisa; abaswele bayo ngizokwazisa ngenkwa.",
+  "tokens": [
+    {
+      "surface": "צידה",
+      "gloss": "ukudla kwayo"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ukubusisa"
+    },
+    {
+      "surface": "אברך",
+      "gloss": "ngizukubusisa"
+    },
+    {
+      "surface": "אביוניה",
+      "gloss": "abaswele bayo"
+    },
+    {
+      "surface": "אשביע",
+      "gloss": "ngizokwazisa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ngenkwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:37.700688790Z",
+  "model": "glm-5.3"
+}

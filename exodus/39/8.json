@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 39:8",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Wenza ⟨את⟩ i-hosheni, umsebenzi wokucula, njengomsebenzi wei-efodi: igolide, ubuluhlaza, obabomvu obunsundu, obabomvu obugcwele, nenhlanga ehlotshanisiwe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Wenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-hosheni"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "i-hosheni"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "wokucula"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "njengomsebenzi"
+    },
+    {
+      "surface": "אפד",
+      "gloss": "wei-efodi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ubuluhlaza"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "obabomvu obunsundu"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "obabomvu (obugcwele)"
+    },
+    {
+      "surface": "שני",
+      "gloss": "obugcwele"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "nenhlanga"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ehlotshanisiwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:47:10.093927848Z",
+  "model": "glm-5.3"
+}

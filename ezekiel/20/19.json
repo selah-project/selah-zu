@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 20:19",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "NginguYahwe uElohim wenu; hambahamba ezimweni zami, ⟨את⟩ izahlulelo zami zigcine, futhi nizenze ⟨את⟩ zona.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "בחקותי",
+      "gloss": "ezimweni zami"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "hambahamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izahlulelo zami"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "izahlulelo zami"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "zigcine"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "zenze"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "zona"
+    }
+  ],
+  "timestamp": "2026-08-31T05:11:41.663394746Z",
+  "model": "glm-5.3"
+}

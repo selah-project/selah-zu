@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 30:9",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "ULeya wabona ukuthi yekile ukubeletha, wathatha ⟨את⟩ uZilpa, inkosikazi yakhe yonsebenzi, wamnika ⟨את⟩ uYakobo ukuba abe unkosikazi.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ULeya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "yekile"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "ukubeletha"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uZilpa"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "uZilpa"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "inkosikazi yakhe yonsebenzi"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "wamnika"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uYakobo"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "uYakobo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ukuba abe unkosikazi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:14:12.938349768Z",
+  "model": "glm-5.3"
+}

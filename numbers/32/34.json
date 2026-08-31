@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Abantwana bakaGadi Sakha ⟨את⟩ iDibhoni, no⟨את⟩ i-Atarothi, no⟨את⟩ i-Aroweri.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "Sakha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Abantwana baka-"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iDibhoni"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "iDibhoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "i-Atarothi"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "i-Atarothi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "i-Aroweri"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "i-Aroweri"
+    }
+  ],
+  "timestamp": "2026-08-31T02:26:23.915640620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 10:10",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Awungichithile yini njengobisi, futhi njengoshizi awungiqinisile yini?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Awu… yini"
+    },
+    {
+      "surface": "כחלב",
+      "gloss": "njengobisi"
+    },
+    {
+      "surface": "תתיכני",
+      "gloss": "ungichithile"
+    },
+    {
+      "surface": "וכגבנה",
+      "gloss": "futhi njengoshizi"
+    },
+    {
+      "surface": "תקפיאני",
+      "gloss": "awungiqinisile yini"
+    }
+  ],
+  "timestamp": "2026-08-31T07:13:33.610482070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 5:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Abakhukhumala angeke bame phambi kwamehlo akho; uzonda bonke abasebenzi bobubi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יתיצבו",
+      "gloss": "bame"
+    },
+    {
+      "surface": "הוללים",
+      "gloss": "abakhukhumala"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "phambi kw-"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "amehlo akho"
+    },
+    {
+      "surface": "שנאת",
+      "gloss": "uzonda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "abasebenzi"
+    },
+    {
+      "surface": "און",
+      "gloss": "bobubi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:14:59.694399138Z",
+  "model": "glm-5.3"
+}

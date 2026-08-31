@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 40:6",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Futhi uzobeka ⟨את⟩ i-altare lohlatsho phambi kwezisu zokungena zethembi lathenti lokuhlangana.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "uzobeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-altare lohlatsho"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "lohlatsho"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "izisu zokungena"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ethebeni"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "lathenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lokuhlangana"
+    }
+  ],
+  "timestamp": "2026-08-31T01:49:39.974995650Z",
+  "model": "glm-5.3"
+}

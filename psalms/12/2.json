@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 12:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Sizani, uYahwe, ngoba ihasidi iphelile, ngoba abathembekile banyamalalile phakathi kwabantwana bantu.",
+  "tokens": [
+    {
+      "surface": "הושיעה",
+      "gloss": "Sizani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "iphelile"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "ihasidi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "פסו",
+      "gloss": "banyamalalile"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "abathembekile"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "phakathi kwabantwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bantu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:52.917517533Z",
+  "model": "glm-5.3"
+}

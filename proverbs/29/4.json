@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Inkosi ngokululeka igcina izwe simile, kodwa indoda ezibandakanya izipho iyayichitha.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Inkosi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ngokululeka"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "igcina simile"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kodwa indoda"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "ezibandakanya izipho"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "iyayichitha"
+    }
+  ],
+  "timestamp": "2026-08-31T07:03:58.383405111Z",
+  "model": "glm-5.3"
+}

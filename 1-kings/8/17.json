@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 8:17",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Kwaba ninhliziyo kaDavide uyise yokwakha indlu igama likaYahwe uElohim ka-Israyeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "yokwakha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:53:05.850421275Z",
+  "model": "glm-5.3"
+}

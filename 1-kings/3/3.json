@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 3:3",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "UShelomo wayemthanda uYahwe ⟨את⟩, ehamba emthethweni kaDavidi uyise; ngedwa-ke ezindaweni eziphakeme wayehlaba futhi wayeshisa imfuza.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "wayemthanda"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "UShelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "emthethweni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kaDavidi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "רק",
+      "gloss": "ngedwa-ke"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ezindaweni eziphakeme"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "wayehlaba"
+    },
+    {
+      "surface": "ומקטיר",
+      "gloss": "wayeshisa imfuza"
+    }
+  ],
+  "timestamp": "2026-08-31T03:48:20.481268241Z",
+  "model": "glm-5.3"
+}

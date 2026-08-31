@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 1:1",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kwasekuthi ngezinsuku zika-Achashverosh — yena u-Achashverosh, inkosi ebusa kusukela eHodu kufikela eKushi, izifundazwe eziyisikhombisa nangamashumi amabili nangekhulu —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwasekuthi"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ngezinsuku zika-"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "u-Achashverosh"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "u-Achashverosh"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi ebusa"
+    },
+    {
+      "surface": "מהדו",
+      "gloss": "kusukela eHodu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kufikela"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "eKushi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "eziyisikhombisa"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "nangamashumi amabili"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "nangekhulu"
+    },
+    {
+      "surface": "מדינה",
+      "gloss": "izifundazwe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:52:29.580308199Z",
+  "model": "glm-5.3"
+}

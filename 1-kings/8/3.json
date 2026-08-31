@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 8:3",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Bafika bonke abadala bakwaYisraeli, abaphristi baphakula ⟨את⟩ isibonda.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "bafika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abadala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaYisraeli"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "baphakula"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abaphristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibonda"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "isibonda"
+    }
+  ],
+  "timestamp": "2026-08-31T03:51:59.709496861Z",
+  "model": "glm-5.3"
+}

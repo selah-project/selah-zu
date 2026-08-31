@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 28:5",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Futhi bazothatha ⟨את⟩ igolide, ⟨את⟩ neluhlaza okwesibhakabhaka, ⟨את⟩ nobunsomi, ⟨את⟩ nofuthi obomvu obuvela kuzingotho, ⟨את⟩ nezindwangu zefayini.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "futhi bona"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "bazothatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igolide"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "eluhlaza okwesibhakabhaka"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "eluhlaza okwesibhakabhaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "obunsomi"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "obunsomi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "ubomvu obuvela kuzingotho"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "elingotho"
+    },
+    {
+      "surface": "השני",
+      "gloss": "lobomvu-olugcwele"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "izindwangu zefayini"
+    },
+    {
+      "surface": "השש",
+      "gloss": "izindwangu zefayini"
+    }
+  ],
+  "timestamp": "2026-08-31T01:40:33.855102996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 119:45",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Futhi ndizohamba ngendlela evulekile, ngoba imiyalo yakho ngiyifunile.",
+  "tokens": [
+    {
+      "surface": "ואתהלכה",
+      "gloss": "futhi ndizohamba"
+    },
+    {
+      "surface": "ברחבה",
+      "gloss": "ngendlela evulekile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "imiyalo yakho"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "ngiyifunile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:19.180396826Z",
+  "model": "glm-5.3"
+}

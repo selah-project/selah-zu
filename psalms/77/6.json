@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 77,
+  "translation": "Ngiye ngacabanga ngamaphambilini, unyaka nemicimbi yesizukulwane esingapheli.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Ngiye ngacabanga"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngamaphambilini"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "eseduzane nesikhathi"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "unyaka"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "nemicimbi yesizukulwane esingapheli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:28.925936890Z",
+  "model": "glm-5.3"
+}

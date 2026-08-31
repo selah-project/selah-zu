@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 18:10",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Kwindawo engcwele kakhulu uzoyidla; yonke induna iyoyidla ⟨את⟩ yona; ingcwele kuyoba kuwe.",
+  "tokens": [
+    {
+      "surface": "בקדש",
+      "gloss": "kwindawo engcwele"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "uzoyidla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "induna"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "iyoyidla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ingcwele"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuyoba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:17:28.152837005Z",
+  "model": "glm-5.3"
+}

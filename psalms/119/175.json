@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 175,
+  "ref": "psalms 119:175",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Umphefumelo wami maphile, adumise wena, futhi izinqumo zakho zingisize.",
+  "tokens": [
+    {
+      "surface": "תחי",
+      "gloss": "maphile"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Umphefumelo wami"
+    },
+    {
+      "surface": "ותהללך",
+      "gloss": "futhi adumise wena"
+    },
+    {
+      "surface": "ומשפטך",
+      "gloss": "futhi izinqumo zakho"
+    },
+    {
+      "surface": "יעזרני",
+      "gloss": "zingisize"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:15.820405786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "KwaNafutali, uAjiya indodana kaEnani.",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "kwaNafutali"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "uAjiya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Enani"
+    }
+  ],
+  "timestamp": "2026-08-31T05:59:00.427459846Z",
+  "model": "glm-5.3"
+}

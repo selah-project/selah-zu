@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Kumqondisi wezingoma. Isidlalo sikaDavidi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi wezingoma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavidi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Isidlalo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:11.271652346Z",
+  "model": "glm-5.3"
+}

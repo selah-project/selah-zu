@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Futhi kuzwakale kuhle kuYahwe kunankunzi enampondo neziwumbu.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "futhi kuzwakale kuhle"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "משור",
+      "gloss": "kunankunzi"
+    },
+    {
+      "surface": "פר",
+      "gloss": "inkunzi enamadlebe"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "enampondo"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "neziwumbu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:04.312332631Z",
+  "model": "glm-5.3"
+}

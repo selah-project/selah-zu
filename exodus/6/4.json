@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 6:4",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi ngisungule ⟨את⟩ isivumelwano sami ⟨את⟩ nabo, ukubanika ⟨את⟩ izwe laseKhanani, ⟨את⟩ izwe lokuzinza kwabo okwesikhashana ababezithwala kulo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "ngisungule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isivumelwano sami"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "isivumelwano sami"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nabo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ukubanika"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwe laseKhanani"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "laseKhanani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwe lokuzinza kwabo okwesikhashana"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "מגריהם",
+      "gloss": "lokuzinza kwabo okwesikhashana"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "גרו",
+      "gloss": "bezithwala"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kulo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:29:08.334789769Z",
+  "model": "glm-5.3"
+}

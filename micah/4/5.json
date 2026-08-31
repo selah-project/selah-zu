@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 4:5",
+  "book": "micah",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Ngokuba onke amazwe ayo hamba, munye nomunye ngegama lika-elohi wakhe, kanti thina sizohamba ngegama likaYahwe uElohim wethu, kuze kube phakade nanaphakade.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "amazwe"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munye nomunye"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ngegama"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "lika-elohi wakhe"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "kanti thina"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ngegama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nanaphakade"
+    }
+  ],
+  "timestamp": "2026-08-31T05:35:52.922053432Z",
+  "model": "glm-5.3"
+}

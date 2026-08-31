@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 10:26",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Bakhipha ⟨את⟩ izintuli ezimi zendlu yeBhali, bayatshisa.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "Bakhipha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izintuli ezimi zendlu yeBhali"
+    },
+    {
+      "surface": "מצבות",
+      "gloss": "izintuli ezimi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "zendlu"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "yeBhali"
+    },
+    {
+      "surface": "וישרפוה",
+      "gloss": "bayatshisa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:07:28.072594800Z",
+  "model": "glm-5.3"
+}

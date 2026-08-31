@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 144:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 144,
+  "translation": "Thumela izandla zakho ⟨ezivela⟩ phezulu; ngikhulule futhi ngisindise emanzini amaningi, esandleni sabantwana bezizwe zasemingcelweni.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Thumela"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "izandla zakho"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "פצני",
+      "gloss": "ngikhulule"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "futhi ngisindise"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "emanzini"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "amingi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "bezizwe zasemingcelweni"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:44.158016357Z",
+  "model": "glm-5.3"
+}

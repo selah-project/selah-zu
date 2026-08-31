@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "uElohim wabenza okuhle abazalisi, futhi abantu bazanda, baba namandla kakhulu.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "wabenza okuhle"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "abazalisi"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "bazanda"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "baba namandla"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:26:07.388668741Z",
+  "model": "glm-5.3"
+}

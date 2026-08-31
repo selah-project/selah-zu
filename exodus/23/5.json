@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 23:5",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Uma ubona idobilishi lomuzondayo licala phansi ngaphansi komthwalo waso, futhi uzoyekela ukulushiya — ngempela uzolushiya kanye naye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ubona"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "idobilishi"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "lomuzondayo"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "licala phansi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi kwe"
+    },
+    {
+      "surface": "משאו",
+      "gloss": "umthwalo waso"
+    },
+    {
+      "surface": "וחדלת",
+      "gloss": "futhi uzoyekela"
+    },
+    {
+      "surface": "מעזב",
+      "gloss": "ukulushiya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lona"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "uzolushiya"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kanye naye"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:19.977165781Z",
+  "model": "glm-5.3"
+}

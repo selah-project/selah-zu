@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 29:13",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Futhi u-Adonayi wath': Ngoba abantu laba basondeza ngomlomo wabo, futhi ngezeve zawo bangikhonzile, kepha inhliziyo yabo bayikwenza ukuba ibe kude kimi; futhi ukwesaba kwabo ⟨את⟩ kwaba umyalo wabantu ofundiswa ngokwenziwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "futhi wath'"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "basondeza"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "laba"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "ngomlomo wabo"
+    },
+    {
+      "surface": "ובשפתיו",
+      "gloss": "futhi ngezeve zawo"
+    },
+    {
+      "surface": "כבדוני",
+      "gloss": "bangikhonzile"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "kepha inhliziyo yabo"
+    },
+    {
+      "surface": "רחק",
+      "gloss": "ibe kude"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "futhi yaba"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "ukwesaba kwabo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ukwesaba kwabo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "umyalo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "wabantu"
+    },
+    {
+      "surface": "מלמדה",
+      "gloss": "ofundiswa ngokwenziwa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:26:32.689820086Z",
+  "model": "glm-5.3"
+}

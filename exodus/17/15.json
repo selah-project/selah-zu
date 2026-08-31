@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "uMoshe wasakha isibekelo, wabiza igama laso uYahwe-Nisi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wasakha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "isibekelo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama laso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "uNisi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:56.953828571Z",
+  "model": "glm-5.3"
+}

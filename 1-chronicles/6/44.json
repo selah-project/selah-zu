@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "nangempela i-Ashan ⟨את⟩ nedawo layo yokulisa ⟨את⟩, ne-Beth-Shemesh ⟨את⟩ nedawo layo yokulisa ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i-Ashan"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "i-Ashan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "edawo layo yokulisa"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "edawo layo yokulisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i-Beth-Shemesh"
+    },
+    {
+      "surface": "בית",
+      "gloss": "i-Beth-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "Shemesh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "edawo layo yokulisa"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "edawo layo yokulisa"
+    }
+  ],
+  "timestamp": "2026-08-31T11:42:04.589331481Z",
+  "model": "glm-5.3"
+}

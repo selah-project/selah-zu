@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 117,
+  "translation": "Ngokuba ikhesedi yakhe yaphakama phezu kwethu, nenqubo yeqiniso kaYahwe ihlale kuze kube phakade. Dumisani uYah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "yaphakama"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "phezu kwethu"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "nenqubo yeqiniso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ukaYahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Dumisani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:19.959601741Z",
+  "model": "glm-5.3"
+}

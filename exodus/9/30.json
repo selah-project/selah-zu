@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Kodwa wena nezinseku zakho, ngiyazi ukuthi anikabi nesaba ubuso bukaYahwe uElohim.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kodwa wena"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "nezinseku zakho"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ngiyazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "kabi"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "anisabi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ubuso buka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:52.755031230Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 34:23",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "uYahwe ukhokhela umphefumelo wabezinkonzi zakhe, futhi bonke abathembelayo kuyena abazakhalaza.",
+  "tokens": [
+    {
+      "surface": "פודה",
+      "gloss": "ukhokhela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "umphefumelo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "wabezinkonzi zakhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi cha"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "bazakhalaza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "החסים",
+      "gloss": "abathembelayo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuyena"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:16.933338960Z",
+  "model": "glm-5.3"
+}

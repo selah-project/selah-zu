@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Ndakugezela ngamanzi, ndasula igazi lakho elikuwe, ndakugcoba ngamafutha.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "ndakugezela"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ngamanzi"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "ndasula"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "igazi lakho"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "elikuwe"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "ndakugcoba"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ngamafutha"
+    }
+  ],
+  "timestamp": "2026-08-31T05:09:10.002222873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Futhi inhliziyo yabezikhawulezileyo izoyiqonda ulwazi, futhi ulimi lwabagagamzayo luzozikhawulela ukukhuluma kucace.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "Futhi inhliziyo"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "yabezikhawulezileyo"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "izoyiqonda"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "futhi ulimi"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "lwabagagamzayo"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "luzozikhawulela"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ukukhuluma"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "kucace"
+    }
+  ],
+  "timestamp": "2026-08-31T04:25:20.310255154Z",
+  "model": "glm-5.3"
+}

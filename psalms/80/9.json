@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 80:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 80,
+  "translation": "Igilevhu evela eMitsrayim wayisusa; wazixosha izizwe, wayihlaza ⟨yona⟩.",
+  "tokens": [
+    {
+      "surface": "גפן",
+      "gloss": "igilevhu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "evela eMitsrayim"
+    },
+    {
+      "surface": "תסיע",
+      "gloss": "wayisusa"
+    },
+    {
+      "surface": "תגרש",
+      "gloss": "wazixosha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "ותטעה",
+      "gloss": "wayihlaza ⟨yona⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:29.525116828Z",
+  "model": "glm-5.3"
+}

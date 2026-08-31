@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 116,
+  "translation": "Mina ngasho ngesikhathi esiphuthume: wonke umuntu ungumqambamanga.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ngasho"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "ngesikhathi esiphuthume"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ungumqambamanga"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:00.760864282Z",
+  "model": "glm-5.3"
+}

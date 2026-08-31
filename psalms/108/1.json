@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 108,
+  "translation": "Uculo, indumiso kaDavide.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Uculo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "indumiso"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:16.482256143Z",
+  "model": "glm-5.3"
+}

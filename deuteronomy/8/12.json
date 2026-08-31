@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ukuthi ungadli uthambe, ubuye wakha izindlu ezinhle uhlale kuzo.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "Ukuthi ungadli"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "(udla)"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "uthambe"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "izindlu"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ezinhle"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "uhale kuzo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:33:42.669805941Z",
+  "model": "glm-5.3"
+}

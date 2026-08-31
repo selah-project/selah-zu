@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 23:12",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "UDavide wathi: Abayala beKheylah bazoyinikela ⟨את⟩ mina no-⟨את⟩ amadoda ami esandleni sikaShawuli na? uYahwe wathi: Bazoyinikela.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "היסגרו",
+      "gloss": "bazoyinikela na"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "abayala"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "beKheylah"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "amadoda ami"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "amadoda ami"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni sa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "sikaShawuli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יסגירו",
+      "gloss": "Bazoyinikela"
+    }
+  ],
+  "timestamp": "2026-08-31T03:25:47.008520210Z",
+  "model": "glm-5.3"
+}

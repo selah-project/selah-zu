@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Kimi bayakhala: 'uElohim wethu, sikwazile, thina i-Israel.'",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "Kimi"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "bayakhala"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "sikwazile"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i-Israel"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:10.367000125Z",
+  "model": "glm-5.3"
+}

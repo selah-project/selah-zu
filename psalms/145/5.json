@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 145:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 145,
+  "translation": "Uhle lenkazimulo yokukhanya kwakho, namazwi ezimangalisayo zakho ngizoxoxa ⟨ngawo⟩.",
+  "tokens": [
+    {
+      "surface": "הדר",
+      "gloss": "Uhle"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "lenkazimulo"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "yokukhanya kwakho"
+    },
+    {
+      "surface": "ודברי",
+      "gloss": "namazwi"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "ezimangalisayo zakho"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ngizoxoxa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:13.023648263Z",
+  "model": "glm-5.3"
+}

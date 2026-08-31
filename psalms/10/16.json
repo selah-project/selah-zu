@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "uYahwe uyinkosi kuze kube phakade nakuphakade; izizwe zafela ezweni lakhe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "uyinkosi"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nakuphakade"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "zafela"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ezweni lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:53.918663410Z",
+  "model": "glm-5.3"
+}

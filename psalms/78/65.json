@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 78:65",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Yabukeza u-Adonayi njengosalala, njengesibindi esikhuluma ngenxa yewayini.",
+  "tokens": [
+    {
+      "surface": "ויקץ",
+      "gloss": "wabukeza (wavuka)"
+    },
+    {
+      "surface": "כישן",
+      "gloss": "njengosalala"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "njengesibindi"
+    },
+    {
+      "surface": "מתרונן",
+      "gloss": "esikhulumayo ngenkulu"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "ngenxa yewayini"
+    }
+  ],
+  "timestamp": "2026-08-31T10:56:31.468309530Z",
+  "model": "glm-5.3"
+}

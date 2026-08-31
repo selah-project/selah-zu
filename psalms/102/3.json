@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 102:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 102,
+  "translation": "Ungafihli ubuso bakho kimi, ngosuku olunzima kimi; thoba indlebe yakho kimi; ngosuku engibizayo khawuleza ungiphendule.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Unga"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "fihli"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "צר",
+      "gloss": "olunzima"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "thoba"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "indlebe yakho"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "engibizayo"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "khawuleza"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ungiphendule"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:04.606490210Z",
+  "model": "glm-5.3"
+}

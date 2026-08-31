@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 12:23",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Ngoba ngosuku nosuku befika kuDavidi ukumsiza, kuze kube yikampu enkulu njengenkampu ka-Elohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngoba"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ngesikhathi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "nosuku"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "befika"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavidi"
+    },
+    {
+      "surface": "לעזרו",
+      "gloss": "ukumsiza"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube yi"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kampu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "enkulu"
+    },
+    {
+      "surface": "כמחנה",
+      "gloss": "njengenkampu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ka-Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T08:24:58.960078197Z",
+  "model": "glm-5.3"
+}

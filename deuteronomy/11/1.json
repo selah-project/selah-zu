@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 11:1",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi uzathanda ⟨את⟩ uYahwe uElohim wakho, futhi uzalondoloza ukugcina kwakhe, nezimiso zakhe, nomahlulelo akhe, nemiyalo yakhe, yonke imihla.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "futhi uzathanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "futhi uzalondoloza"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "ukugcina kwakhe"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "nezimiso zakhe"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "nomahlulelo akhe"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "nemiyalo yakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "imihla"
+    }
+  ],
+  "timestamp": "2026-08-31T02:35:42.648257995Z",
+  "model": "glm-5.3"
+}

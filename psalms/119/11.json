@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Enhliziyweni yami ngifihle isiko lakho, ukuze ngingayoni kuwe.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "enhliziyweni yami"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "ngifihle"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "isiko lakho"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ninga-"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "yoni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:36.932803302Z",
+  "model": "glm-5.3"
+}

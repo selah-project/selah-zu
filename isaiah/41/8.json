@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 41:8",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Futhi wena, uYisrayeli, inkonzi yami; uYaakobhi engikhethile wena; inzalo ka-Avraham othandekayo wami.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Futhi wena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "inkonzi yami"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakobhi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engingumuntu"
+    },
+    {
+      "surface": "בחרתיך",
+      "gloss": "ngikhethile wena"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "inzalo"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ka-Avraham"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "othandekayo wami"
+    }
+  ],
+  "timestamp": "2026-08-31T04:30:04.967247542Z",
+  "model": "glm-5.3"
+}

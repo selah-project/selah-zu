@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ruth 3:11",
+  "book": "ruth",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Manje, ndodakazi wami, ungabi nesabi; konke okushoyo ngizokwenza kuwe, ngokuba isango lonke labantu bami liyakwazi ukuthi ⟨wena⟩ ungumfazi wamandla ⟨wena⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Manje"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ndodakazi wami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "nesabi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko-"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "ushoyo"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ngizokwenza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "liyakwazi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "שער",
+      "gloss": "isango"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "labantu bami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ungumfazi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "wamandla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨wena⟩",
+      "marks": "umfazi wamandla"
+    }
+  ],
+  "timestamp": "2026-08-31T07:37:57.007640607Z",
+  "model": "glm-5.3"
+}

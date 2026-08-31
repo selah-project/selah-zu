@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 7:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Uma ngiphe undoncilelayo okubi, futhi ngingisize isitha sami ⟨ngaphandle kwasizathu⟩,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "גמלתי",
+      "gloss": "ngiphe"
+    },
+    {
+      "surface": "שולמי",
+      "gloss": "ondoncilelayo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "ואחלצה",
+      "gloss": "futhi ngingisize"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "isitha sami"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ngaphandle kwasizathu"
+    }
+  ],
+  "timestamp": "2026-08-31T05:46:33.870064191Z",
+  "model": "glm-5.3"
+}

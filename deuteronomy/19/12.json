@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 19:12",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "baze abadala bedolobha lakhe bathume bamthathe ⟨את⟩ lapho, bamsuze ⟨את⟩ isandleni somsindisi wegazi, afe.",
+  "tokens": [
+    {
+      "surface": "ושלחו",
+      "gloss": "baze bathume"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abadala"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "bedolobha lakhe"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "bamthathe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "משם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "bamsuze"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "isandleni"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "somsindisi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "wegazi"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "afe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:39:33.226331905Z",
+  "model": "glm-5.3"
+}

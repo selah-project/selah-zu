@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Ngakho konke lokhu benza isono kusalokhu, futhi bengakholwanga ezimangalisweni zakhe.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ngakho konke"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "benza isono"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kusalokhu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi abenganga"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "bakholelwa"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "ezimangalisweni zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:11.272300209Z",
+  "model": "glm-5.3"
+}

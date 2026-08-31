@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "UMoshe wababala ⟨את⟩ ngomlomo kaYahwe, njengalokho ayalelwe ngakona.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "wababala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "abo bakwaLevi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "UMoshe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngoku-"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mlomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengalokho"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ayalelwe ngakona"
+    }
+  ],
+  "timestamp": "2026-08-31T02:09:02.597253814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 9:22",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Wabanika imibuso nezizwe, wabaqamba ngazo zonke izingcebe; bazichwala ⟨את⟩ umhlaba kaSihoni, no⟨את⟩ umhlaba wenkosi uHeshibhoni, no⟨את⟩ umhlaba kaOgu inkosi yeBashani.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "wabanika"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "imibuso"
+    },
+    {
+      "surface": "ועממים",
+      "gloss": "nezizwe"
+    },
+    {
+      "surface": "ותחלקם",
+      "gloss": "wabaqamba"
+    },
+    {
+      "surface": "לפאה",
+      "gloss": "ngazo zonke izingcebe"
+    },
+    {
+      "surface": "ויירשו",
+      "gloss": "bazichwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "kaSihoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wenkosi"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "uHeshibhoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "kaOgu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "yeBashani"
+    }
+  ],
+  "timestamp": "2026-08-31T08:15:59.955943871Z",
+  "model": "glm-5.3"
+}

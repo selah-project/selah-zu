@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ngizujabula futhi ngizudlala ngawe; ngizcula igama lakho, u-Elyoni.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "ngizujabula"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "futhi ngizudlala"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ngawe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ngizcula"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "u-Elyoni"
+    }
+  ],
+  "timestamp": "2026-08-31T08:51:47.090625674Z",
+  "model": "glm-5.3"
+}

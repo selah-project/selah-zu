@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 80,
+  "translation": "uYahwe uElohim wemikhosi, kuze kube nini uzonyuka intukuthelo ngomthandazo wabantu bakho?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wemikhosi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kube nini"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "uzonyuka intukuthelo"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "ngomthandazo"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:25.473466628Z",
+  "model": "glm-5.3"
+}

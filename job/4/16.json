@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 4:16",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Lamile, kodwa bengingaliboni ubuso balo; isibonakaliso sami sisodwa phambi kamehlo ami; kuthulile, kanti izwi ngingalizwa.",
+  "tokens": [
+    {
+      "surface": "יעמד",
+      "gloss": "lamile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa hhayi"
+    },
+    {
+      "surface": "אכיר",
+      "gloss": "bengingaliboni"
+    },
+    {
+      "surface": "מראהו",
+      "gloss": "ubuso balo"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "isibonakaliso"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "kamehlo ami"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "kuthulile"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ngingalizwa"
+    }
+  ],
+  "timestamp": "2026-08-31T07:06:17.383741686Z",
+  "model": "glm-5.3"
+}

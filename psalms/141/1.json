@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 141:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 141,
+  "translation": "Ingoma yesigubhu kaDavide. uYahwe, ngikubizile; shesha uze kimi; nikezela indlebe izwi lami, lapho ngikubizela.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ingoma yesigubhu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ngikubizile"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "shesha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "nikezela indlebe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "izwi lami"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "lapho ngibiza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:17.194355968Z",
+  "model": "glm-5.3"
+}

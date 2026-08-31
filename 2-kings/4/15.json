@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Wayesethi, Mbizela yena. Wambiza, yona wayesema emnyango.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesethi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "mbizela"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wambiza"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "wayesema"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "emnyango"
+    }
+  ],
+  "timestamp": "2026-08-31T04:05:12.562191465Z",
+  "model": "glm-5.3"
+}

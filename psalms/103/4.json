@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 103:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 103,
+  "translation": "Osindisa impilo yakho esikhweni,okukhombisa ikhesedi nezinceku zakhe ezithandanayo phezu kwakho.",
+  "tokens": [
+    {
+      "surface": "הגואל",
+      "gloss": "Osindisa"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "esikhweni"
+    },
+    {
+      "surface": "חייכי",
+      "gloss": "impilo yakho"
+    },
+    {
+      "surface": "המעטרכי",
+      "gloss": "okukhombisa phezu kwakho"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "ורחמים",
+      "gloss": "nezinceku ezithandanayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:07.296479076Z",
+  "model": "glm-5.3"
+}

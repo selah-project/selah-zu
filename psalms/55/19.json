@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 55,
+  "translation": "Ukhulule ngokuthula inefeshi yami kuleso esiseduze nami, ngoka abaningi babengihlasela.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Ukhulule"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ngokuthula"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "kuleso esiseduze"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "abaningi"
+    },
+    {
+      "surface": "היו",
+      "gloss": "babe"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ngihlasela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:53.585070760Z",
+  "model": "glm-5.3"
+}

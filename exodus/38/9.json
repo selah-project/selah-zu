@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 38:9",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Wazenza ⟨את⟩ inkundla yesibaya; eceleni lasezansi, eningizimu, amakhandleenti enkundla yesibaya ayesheshi ehlotshiwe, angamakhulu amabili ngesigodi:",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Wazenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkundla yesibaya"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "inkundla yesibaya"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "eceleni lasezansi"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "eningizumu"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "eningizimu"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "amakhandleenti"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "enkundla yesibaya"
+    },
+    {
+      "surface": "שש",
+      "gloss": "esheshi"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ehlotshiwe"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "amakhulu amabili"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ngesigodi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:45:30.281348563Z",
+  "model": "glm-5.3"
+}

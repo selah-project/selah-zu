@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezra 2:50",
+  "book": "ezra",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "abantwana bakwa-Asna, abantwana bakwa-Meuni, abantwana bakwa-Nefisi,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "abantwana bakwa-"
+    },
+    {
+      "surface": "אסנה",
+      "gloss": "Asna"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana bakwa-"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "Meuni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana bakwa-"
+    },
+    {
+      "surface": "נפיסים",
+      "gloss": "Nefisi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:08:00.254018448Z",
+  "model": "glm-5.3"
+}

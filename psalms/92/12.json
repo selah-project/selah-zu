@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 92:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 92,
+  "translation": "Futhi iso lami libonile abalindelayo abangiphefumulelayo ngakho; izindlebe zami zizwile ngabalungiselayo abavukayo ngamlaba.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "Futhi libhekile"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "iso lami"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "abalindelayo bami"
+    },
+    {
+      "surface": "בקמים",
+      "gloss": "abavukayo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngamlaba"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "abalungiselayo"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "zizwile"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "izindlebe zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:39.731244936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 9:12",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ngoba noma bengakhulisa ⟨את⟩ izingane zabo, ngizazisishonisa, kungabeki umuntu; ngoba kuhle, lusizi kuzo ekunikweni ngibalekela kuzo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngoba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "יגדלו",
+      "gloss": "bengakhulisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingane zabo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "izingane zabo"
+    },
+    {
+      "surface": "ושכלתים",
+      "gloss": "ngizazisishonisa"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kungabeki umuntu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kuhle"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "lusizi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuzo"
+    },
+    {
+      "surface": "בשורי",
+      "gloss": "ekunikweni ngibalekela"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kuzo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:13:25.089349771Z",
+  "model": "glm-5.3"
+}

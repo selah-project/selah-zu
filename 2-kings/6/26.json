@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 6:26",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Kwathi inkosi yakwa-Israyeli idlula emgodini, owesifazane wamlahlela elalela, esithi: Siza, nkosi yami, inkosi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi yakwa-Israyeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "⟨yakwa-Israyeli⟩"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "idlula"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "החמה",
+      "gloss": "mgodini"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "owesifazane"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "wamlahlela elalela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "Siza"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "nkosi yami"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:07:34.101875517Z",
+  "model": "glm-5.3"
+}

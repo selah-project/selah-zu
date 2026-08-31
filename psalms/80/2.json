@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 80:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 80,
+  "translation": "Wena umhlwengikazi wakwa-Israyeli, yizwa le; ohola uYosefu njengesibaya; ohlezi phakathi kwamakerubhu — khanyisa ubuso bakho.",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "umhlwengikazi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wakwa-Israyeli"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "yizwa le"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ohola"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "njengesibaya"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ohlezi"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "phakathi kwamakerubhu"
+    },
+    {
+      "surface": "הופיעה",
+      "gloss": "khanyisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:13.039543616Z",
+  "model": "glm-5.3"
+}

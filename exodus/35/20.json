@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Yaphuma yonke imiphakathi yabantwana bakwa-Israyeli ebusweni bukaMoshe.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "yaphuma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "imiphakathi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yabantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ebusweni buka-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kaMoshe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:44:17.047722399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 109:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Bantwana bakhe mabazulazule bese bezula bzokwenjenje, bacelcele, bese befuna ⟨ukudla⟩ kwawo amazumbo abo.",
+  "tokens": [
+    {
+      "surface": "ונוע",
+      "gloss": "ukuzulazula"
+    },
+    {
+      "surface": "ינועו",
+      "gloss": "mabazulazule"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bantwana bakhe"
+    },
+    {
+      "surface": "ושאלו",
+      "gloss": "bacelcele"
+    },
+    {
+      "surface": "ודרשו",
+      "gloss": "bese befuna"
+    },
+    {
+      "surface": "מחרבותיהם",
+      "gloss": "kwawo amazumbo abo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:30.807013413Z",
+  "model": "glm-5.3"
+}

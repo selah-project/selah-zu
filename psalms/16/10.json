@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Ngokuba awuzukuyekela inefeshi yami eSheolini, awuzukunika uMashiya wakho ukubona umgono.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awuzuku-"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "yekela"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "eSheolini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awuzuku-"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "nika"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "uMashiya wakho"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "umgono"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:40.359369880Z",
+  "model": "glm-5.3"
+}

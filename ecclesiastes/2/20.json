@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Nangiphendukela ukwenza ⟨את⟩ inhliziyo yami ilahle ithemba ngaphezu konke ukusebenza engikusebenzela ngaphansi kwezulu.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "nangiphendukela"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "ukwenza... ilahle ithemba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inhliziyo yami"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inhliziyo yami"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "ukusebenza"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "engikusebenzela"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi kwe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "izulu"
+    }
+  ],
+  "timestamp": "2026-08-31T07:44:26.821580436Z",
+  "model": "glm-5.3"
+}

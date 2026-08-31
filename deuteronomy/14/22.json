@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Ugobe ⟨ngokugoba⟩ ⟨את⟩ konke okuzalayo kokhlula kwakho, okuphuma ensimini, unyaka ngunyaka.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ugobe"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "ngokugoba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke okuzalayo kokhlula kwakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "okuzalayo"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "kokhlula kwakho"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "okuphuma"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ensimini"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "unyaka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ngunyaka"
+    }
+  ],
+  "timestamp": "2026-08-31T02:37:15.497726302Z",
+  "model": "glm-5.3"
+}

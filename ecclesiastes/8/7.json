@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngoba ⟨⟨angazi⟩⟩ okuzokwenzeka, ngoba uma sekwenzekile, ubani ozomtshela?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "⟨angazi⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "azazi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "oku"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "uzokwenzeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "uma"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sekwenzekile"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ubani"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ozomtshela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨uye⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T07:48:01.139033247Z",
+  "model": "glm-5.3"
+}

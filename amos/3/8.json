@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ingonyama igonile, ubani ongayesabi? u-Adonayi Yahwe ukhulume, ubani ongayiprofetha?",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "ingonyama"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "igonile"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ubani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ongaye-"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ukhulume"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ubani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ongayi-"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "profetha"
+    }
+  ],
+  "timestamp": "2026-08-31T05:31:29.525863001Z",
+  "model": "glm-5.3"
+}

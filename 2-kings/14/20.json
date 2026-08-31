@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 14:20",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Baza mthatha ⟨את⟩ ngamahhashi, baza mngcwaba eYerushalayimi koyise edolobheni likaDavide.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "baza mthatha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (uNtsintsiyana)"
+    },
+    {
+      "surface": "על",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "amahhashi"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "baza mngcwaba"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ko-"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "yise"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "likaDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T04:09:32.722228925Z",
+  "model": "glm-5.3"
+}

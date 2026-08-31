@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 80:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 80,
+  "translation": "Uzisile singumdabu-mpikiswano kubakhelene bethu, izitha zethu ziyahleka ngazo.",
+  "tokens": [
+    {
+      "surface": "תשימנו",
+      "gloss": "Uzisile simi"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "umdabu-mpikiswano"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "kubakhelene bethu"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "izitha zethu"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "ziyahleka"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ngazo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:25.473936279Z",
+  "model": "glm-5.3"
+}

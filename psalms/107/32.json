@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 107:32",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Futhi makamkhuphule emhlanganweni wesizwe, nasendlini yabadala makamdumise.",
+  "tokens": [
+    {
+      "surface": "וירממוהו",
+      "gloss": "futhi makamkhuphule"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "emhlanganweni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wesizwe"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "nasendlini"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "yabadala"
+    },
+    {
+      "surface": "יהללוהו",
+      "gloss": "makamdumise"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:09.680555829Z",
+  "model": "glm-5.3"
+}

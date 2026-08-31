@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Uma bephanga izimiso zami, futhi imiyalo yami bangayigcini;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "izimiso zami"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "bephanga"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "futhi imiyalo yami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kabi"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "bayigcini"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:33.616987664Z",
+  "model": "glm-5.3"
+}

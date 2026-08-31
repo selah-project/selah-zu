@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 11:10",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Umpristi wanika abaholi bezinkulungwane ⟨את⟩ umkhonto nama-zihlangu okwayeyenguDawudi inkosi, ayesebukhoseni bukaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wanika"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "לשרי",
+      "gloss": "abaholi"
+    },
+    {
+      "surface": "המאיות",
+      "gloss": "bezinkulungwane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umkhonto"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "umkhonto"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ama-zihlangu"
+    },
+    {
+      "surface": "השלטים",
+      "gloss": "ama-zihlangu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "yenkosi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawudi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwakuse"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "bukhoseni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bukaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:10:30.264631383Z",
+  "model": "glm-5.3"
+}

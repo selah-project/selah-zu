@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 33:19",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Wayesethi: Ngiyokudlulisa konke okuhle kimi phambi kobuso bakho, futhi ngiyobiza ngegama likaYahwe phambi kwakho; futhi ngiyonzesa ikhesedi lowo engimnzesa ikhesedi, futhi ngiyokhomba umusa lowu engimkhomba umusa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesethi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אעביר",
+      "gloss": "ngiyokudlulisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "טובי",
+      "gloss": "okuhle kimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezulu kwe-"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "futhi ngiyobiza"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ngegama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "וחנתי",
+      "gloss": "futhi ngiyonzesa ikhesedi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lowo engimnzesa ikhesedi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowu engi-"
+    },
+    {
+      "surface": "אחן",
+      "gloss": "-mnzesa ikhesedi"
+    },
+    {
+      "surface": "ורחמתי",
+      "gloss": "futhi ngiyokhomba umusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lowu engimkhomba umusa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowu engi-"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "-mkhomba umusa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:44:38.046010179Z",
+  "model": "glm-5.3"
+}

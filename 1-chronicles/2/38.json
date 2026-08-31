@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "u-Ovedit wazala ⟨את⟩ uYehu, uYehu wazala ⟨את⟩ u-Azariya.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "u-Ovedit"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "uYehu"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "uYehu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Azariya"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "u-Azariya"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:28.363052901Z",
+  "model": "glm-5.3"
+}

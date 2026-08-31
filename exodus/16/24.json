@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Bakushiyele kuso kuze kuse njengoba uMoshe awalaye, kwaze kwaba ukuthi akuzanga kunuka kabi, futhi impetha ayizeniswa kulo.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "bakushiyele"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lokho (ukudla)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "kuse"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "awalaye"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "akuzanga"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "kunuka kabi"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "futhi impetha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi-"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "zeniswa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kulo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:34:28.688413367Z",
+  "model": "glm-5.3"
+}

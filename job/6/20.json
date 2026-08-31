@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 6:20",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Baziswa ngoba babethemba; bafika kuyona baze bahlakazeka.",
+  "tokens": [
+    {
+      "surface": "בשו",
+      "gloss": "baziswa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "babethemba"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bafika"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "kuyona"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "bazehlakazeka"
+    }
+  ],
+  "timestamp": "2026-08-31T07:09:16.734389542Z",
+  "model": "glm-5.3"
+}

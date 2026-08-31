@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ephakathi kobusuku ngisukuma ngokubonga wena, ngezinqumo zokolunga kwakho.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "ephakathi"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "kobusuku"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ngisukuma"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "ukubonga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngezi-"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "izinqumo"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "zokolunga kwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:13.744624148Z",
+  "model": "glm-5.3"
+}

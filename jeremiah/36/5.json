@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Wayeyalela uYirmeyahu ⟨את⟩ uBarukhi ukuthi: mina ngiyivaliwe, angikwazi ukungena endlwini kaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "wayeyalela"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "uYirmeyahu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uBarukhi"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "uBarukhi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "ngiyivaliwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angi-"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "-kwazi"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ukungena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:54:30.142239765Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 10:2",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Wayesethi kumuntu oambathile izingubo zangaselina, wathi: Ngena phakathi kwamasondo, ngaphansi kwe-kerubu, ugcwalise izibambo zakho ngezinhlanga zomlilo eziphakathi kwama-kerubi, uziphaphazele phezu kwedolobha. Wayesengena phambi kwamehlo ami.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wayesethi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "oambathile"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "izingubo zangaselina"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Ngena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בינות",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "amasondo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi"
+    },
+    {
+      "surface": "לכרוב",
+      "gloss": "i-kerubu"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "ugcwalise"
+    },
+    {
+      "surface": "חפניך",
+      "gloss": "izibambo zakho"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "izinhlanga"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zomlilo"
+    },
+    {
+      "surface": "מבינות",
+      "gloss": "eziphakathi"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "kwama-kerubi"
+    },
+    {
+      "surface": "וזרק",
+      "gloss": "uziphaphazele"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kedolobha"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "Wayesengena"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "phambi kwamehlo ami"
+    }
+  ],
+  "timestamp": "2026-08-31T05:08:17.238532445Z",
+  "model": "glm-5.3"
+}

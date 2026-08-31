@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 25:18",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi uzokwenza amakhervubhi amabili egolide; ngomsebenzi oshiwayo uzowenza ⟨את⟩ wonke emibeleni emibili yombhede-ngxepho.",
+  "tokens": [
+    {
+      "surface": "וְעָשִׂ֛יתָ",
+      "gloss": "futhi uzokwenza"
+    },
+    {
+      "surface": "שְׁנַ֥יִם",
+      "gloss": "amabili"
+    },
+    {
+      "surface": "כְּרֻבִ֖ים",
+      "gloss": "amakhervubhi"
+    },
+    {
+      "surface": "זָהָ֑ב",
+      "gloss": "egolide"
+    },
+    {
+      "surface": "מִקְשָׁה֙",
+      "gloss": "ngomsebenzi oshiwayo"
+    },
+    {
+      "surface": "תַּעֲשֶׂ֣ה",
+      "gloss": "uzowenza"
+    },
+    {
+      "surface": "אֹתָ֔ם",
+      "gloss": "⟨את⟩",
+      "marks": "wonke (amakhervubhi)"
+    },
+    {
+      "surface": "מִשְּׁנֵ֖י",
+      "gloss": "emibeleni emibili"
+    },
+    {
+      "surface": "קְצ֥וֹת",
+      "gloss": "yemibeleni"
+    },
+    {
+      "surface": "הַכַּפֹּֽרֶת",
+      "gloss": "ombhede-ngxepho"
+    }
+  ],
+  "timestamp": "2026-08-31T10:12:26.430876398Z",
+  "model": "glm-5.3"
+}

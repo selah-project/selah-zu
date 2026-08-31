@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 134:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 134,
+  "translation": "Ingoma Yokwenyuka. Bhekani, busisani ⟨את⟩ uYahwe, zonke izinceku zikaYahwe, ezimima endlwini kaYahwe ebusuku.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Ingoma"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "Yokwenyuka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bhekani"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "busisani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "izinceku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "zikaYahwe"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ezimima"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "ebusuku"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:48.614837507Z",
+  "model": "glm-5.3"
+}

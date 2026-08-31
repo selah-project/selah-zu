@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 10:1",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Wayesethi uYahwe kuMoshe: Ngena kuParo, ngokuba mina ngenzise ubunzima ⟨את⟩ inhliziyo yakhe no-⟨את⟩ inhliziyo yezinceku zakhe, ukuze ngibeke izimpawu zami lezi phakathi kwakhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesethi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ngena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "הכבדתי",
+      "gloss": "ngenzise ubunzima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inhliziyo yakhe"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inhliziyo yakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "inhliziyo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yezinceku zakhe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ngibeke"
+    },
+    {
+      "surface": "אתתי",
+      "gloss": "izimpawu zami"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "phakathi kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:31:41.689450044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi izibankwana namakhwangwanasi azokhula kuwe; futhi uzodla ⟨את⟩ utshani ⟩wensimbi.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "futhi izibankwana"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "namakhwangwanasi"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "azokhula"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "futhi uzodla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "utshani wensimbi"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "utshani"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "wensimbi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:52.972627700Z",
+  "model": "glm-5.3"
+}

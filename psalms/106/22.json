@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "izimangaliso ezweni likaKhami, izinto ezibangele ukwesaba olwandle lweSufu.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "izimangaliso"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "חם",
+      "gloss": "likaKhami"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "izinto ezibangele ukwesaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe"
+    },
+    {
+      "surface": "ים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "lweSufu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:43.369812870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 64:2",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 64,
+  "translation": "Ngesikhathi wenza izinto ezinesabekoyo ezo asizange silindele, wehla; kubuso bakho izintaba zathomba.",
+  "tokens": [
+    {
+      "surface": "בעשותך",
+      "gloss": "ngesikhathi wenza"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "izinto ezinesabekoyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asi-"
+    },
+    {
+      "surface": "נקוה",
+      "gloss": "zange silindele"
+    },
+    {
+      "surface": "ירדת",
+      "gloss": "wehla"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "kubuso bakho"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "izintaba"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "zathomba"
+    }
+  ],
+  "timestamp": "2026-08-31T04:36:40.152859286Z",
+  "model": "glm-5.3"
+}

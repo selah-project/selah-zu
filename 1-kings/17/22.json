@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 17:22",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Futhi uYahwe wezwa izwi lika-Eliyahu, inefeshi yengane yabuyela emzimbeni wayo, yaphila.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wezwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "lika-Eliyahu"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "yabuyela"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "inefeshi"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "yengane"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "emzimbeni wayo"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "yaphila"
+    }
+  ],
+  "timestamp": "2026-08-31T03:58:25.638198006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 30:13",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Baqoqelelana eYerushalayimi isizwe esiningi ukwenza ⟨את⟩ umkhosi wamasi anzima enyangini yesibili — iqoqo elikhulu kakhulu.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "Baqoqelelana"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "esiningi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umkhosi"
+    },
+    {
+      "surface": "חג",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "wamasi anzima"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "enyangini"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yesibili"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "iqoqo"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "elikhulu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:44:18.579967064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 59:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 59,
+  "translation": "Ngokuba bheka, balalelile inefeshi yami; abaqhatsi bahlezi ngaphezu kwami — hhayi ukweqa kwami, futhi hhayi isono sami, uYahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "ארבו",
+      "gloss": "balalelile"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "bahlezi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngaphezu kwami"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "abaqhatsi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hhayi"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "ukweqa kwami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi hhayi"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "isono sami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:26.651803593Z",
+  "model": "glm-5.3"
+}

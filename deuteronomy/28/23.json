@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "amazulu akhe aphezu kwekhanda lakho aze abe yinsimbi yethusi, lomhlaba ongaphezu kwakhe obe yinsimbi.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "aze abe"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "amazulu akhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aphezu"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "kwekhanda lakho"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "insimbi yethusi"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "lomhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ongaphezu"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "ngaphezu kwakhe"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "yinsimbi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:44:14.037374243Z",
+  "model": "glm-5.3"
+}

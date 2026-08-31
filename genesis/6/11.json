@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "ILizwe laonakala phambi kuka-Elohim, futhi ilizwe lagcwaliswa ubudlova.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "laonakala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "lagcwaliswa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ubudlova"
+    }
+  ],
+  "timestamp": "2026-08-31T01:03:32.199349300Z",
+  "model": "glm-5.3"
+}

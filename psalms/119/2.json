@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 119:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Makuhle kubantu abalondoloza iziqiniseko zakhe, bemfuna ngenhliziyo yonke;",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Makuhle kubantu"
+    },
+    {
+      "surface": "נצרי",
+      "gloss": "abalondoloza"
+    },
+    {
+      "surface": "עדתיו",
+      "gloss": "iziqiniseko zakhe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngenhliziyo"
+    },
+    {
+      "surface": "ידרשקוהו",
+      "gloss": "bemfuna"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:51.585299819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 30:1",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Kwathi lapho uDavide nabantu bakhe befika eTsiklagi ngosuku lwesithathu, ama-Amaleki ayegxumele eningizimu naseTsiklagi, ayeshaya ⟨את⟩ iTsiklagi, ayishisa ⟨את⟩ ngomlilo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "lapho befika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "nabantu bakhe"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "eTsiklagi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "lwesithathu"
+    },
+    {
+      "surface": "ועמלקי",
+      "gloss": "ama-Amaleki"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "ayegxumele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ningizumu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nase-"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "eTsiklagi"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ayeshaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iTsiklagi"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "iTsiklagi"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "ayishisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ngomlilo"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngomlilo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:29:48.459154034Z",
+  "model": "glm-5.3"
+}

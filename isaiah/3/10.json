@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Nisho:umlungile kulungile, ngokuba izithelo zemisebenzi yabo bayozidla.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "nisho"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umlungile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kulungile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "izithelo"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "zemisebenzi yabo"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bayozidla"
+    }
+  ],
+  "timestamp": "2026-08-31T06:09:18.056543636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Inefeshi yami uyayiphendula; undisa ezindleleni zokulunga ngenxa yegama lakhe.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Inefeshi yami"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "uyayiphendula"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "undisa"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "ezindleleni"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "zokulunga"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa ye-"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "egama lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:14.120849187Z",
+  "model": "glm-5.3"
+}

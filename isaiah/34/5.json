@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Ngokuba inkemba yami ichithiwe izulu; bheka, iyonhla ezweni lase-Edomi, nasezweni lasentshabeni yami yokuhlatshwa, ukwenza isigwebo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "ichithiwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "izulu"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "inkemba yami"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomi"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "iyonhla"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nase-"
+    },
+    {
+      "surface": "עם",
+      "gloss": "izwe lasentshabeni"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "yami yokuhlatshwa"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ukwenza isigwebo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:28:07.629174293Z",
+  "model": "glm-5.3"
+}

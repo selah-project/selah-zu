@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 4:15",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Uzokhuluma kuyena, uzobeka ⟨את⟩ amazwi emlonyeni wakhe; mina ngizoba ⟨ku⟩mlomo wakho nakomlomo wakhe, futhi ngizonifundisa ⟨את⟩ lokho enizokwenza.",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "uzokhuluma"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "uzobeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazwi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "emlonyeni wakhe"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ngizoba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mlomo wakho"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "naku"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "mlomo wakhe"
+    },
+    {
+      "surface": "והוריתי",
+      "gloss": "ngizonifundisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "enizokwenza"
+    }
+  ],
+  "timestamp": "2026-08-31T01:28:33.414306528Z",
+  "model": "glm-5.3"
+}

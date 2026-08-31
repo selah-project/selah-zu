@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 60,
+  "translation": "Kumqondisi weqoqo lomculo, ngokwesiHushani-Eduthi, umkhithamo kaDavide, ukuqeqesha abantu.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi weqoqo lomculo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokwe-"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "isiHushani"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Eduthi"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "umkhithamo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "ukuqeqesha"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:02.482538570Z",
+  "model": "glm-5.3"
+}

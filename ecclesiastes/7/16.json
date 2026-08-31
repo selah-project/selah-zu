@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ungabi ulungileyo kakhulu, futhi ungazenzisi uhlakaniphe kakhulu — ⟨kungani⟩ uzitshale yedwa ulahlekelwe yinto yonke?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ulungileyo"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ו אל",
+      "gloss": "futhi unga"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "uzenzisi uhlakaniphe"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "uzitshale yedwa ulahlekelwe yinto yonke"
+    }
+  ],
+  "timestamp": "2026-08-31T08:58:20.822479880Z",
+  "model": "glm-5.3"
+}

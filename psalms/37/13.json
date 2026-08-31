@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "u-Adonayi uyahleka kuyena, ngokuba ubonile ukuthi usuku lwakhe selufika.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "uyahleka"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ubonile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "selufika"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "usuku lwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:36.470859262Z",
+  "model": "glm-5.3"
+}

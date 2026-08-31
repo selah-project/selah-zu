@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Nephimba yakhe nababalwayo bayo: amane namashumi amahlanu inkulungwane name amakhulu amane.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "nephimba yakhe"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "nababalwayo bayo"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "amane"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "namashumi amahlanu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "inkulungwane"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "name"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu amane"
+    }
+  ],
+  "timestamp": "2026-08-31T02:07:55.021244475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 62:9",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 62,
+  "translation": "ngoba abaqoqileyo bayawudla futhi badumisa ⟨את⟩ uYahwe, nabaqoqileyo bayawuphuza eziyangeni zengcwele yami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "מאספיו",
+      "gloss": "abaqoqileyo"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "bayawudla"
+    },
+    {
+      "surface": "והללו",
+      "gloss": "futhi badumisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ומקבציו",
+      "gloss": "nabaqoqileyo"
+    },
+    {
+      "surface": "ישתהו",
+      "gloss": "bayawuphuza"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "eziyangeni"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "zengcwele yami"
+    }
+  ],
+  "timestamp": "2026-08-31T04:36:10.697372705Z",
+  "model": "glm-5.3"
+}

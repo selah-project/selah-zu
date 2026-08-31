@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Ndahamba ngiyokufihla kuFurathi, njengoba uYahwe angiye ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "Ndahamba"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "ngiyokufihla"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "kuFurathi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "angiye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "mina"
+    }
+  ],
+  "timestamp": "2026-08-31T10:25:25.106410973Z",
+  "model": "glm-5.3"
+}

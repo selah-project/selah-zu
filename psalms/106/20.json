@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Bashintsha ⟨את⟩ inkazimulo yabo baba yisibonakaliso senkabi edla utshani.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "Bashintsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkazimulo yabo"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "inkazimulo yabo"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "isibonakaliso"
+    },
+    {
+      "surface": "שור",
+      "gloss": "senkabi"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "edla"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "utshani"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:31.367276721Z",
+  "model": "glm-5.3"
+}

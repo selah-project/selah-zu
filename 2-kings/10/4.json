@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 10:4",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Basaba kakhulu kakhulu, bathi: Yilaba, oonkosi ababili azange ame phambi kwakhe; singama njani thina?",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "basaba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yilaba"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ababili"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "oonkosi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "azange"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ame"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "njani-ke"
+    },
+    {
+      "surface": "נעמד",
+      "gloss": "singama"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "thina"
+    }
+  ],
+  "timestamp": "2026-08-31T04:07:11.022035678Z",
+  "model": "glm-5.3"
+}

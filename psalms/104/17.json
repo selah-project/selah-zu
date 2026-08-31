@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 104,
+  "translation": "lapho izinyoni zikhela khona amazibulo azo; ihoboyi, imithi emikhulu inqaba ukuba yindlu yayo.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "izinyoni"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "zikhela amazibulo azo"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "ihoboyi"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "imithi emikhulu"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "indlu yayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:29.521549363Z",
+  "model": "glm-5.3"
+}

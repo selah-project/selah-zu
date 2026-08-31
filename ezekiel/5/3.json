@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Futhi uthathe lapho kancane ngenani, uwabhophe ⟨את⟩ emaphiko akho.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "Futhi uthathe"
+    },
+    {
+      "surface": "משם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kancane"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ngenani"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "uwabhophe"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "iwona (kancane)"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "emaphiko akho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:12:55.786033704Z",
+  "model": "glm-5.3"
+}

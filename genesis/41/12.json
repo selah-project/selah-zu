@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 41:12",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Futhi lapho kumunye ⟨את⟩ nathi umfana owesiHebheru, igqili lesibonda labahlinzi; simxoxela, wasichazela ⟨את⟩ amaphupho ethu; umuntu ngokwephupho lakhe wachaza.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "futhi lapho"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩nathi",
+      "marks": "umfana owesiHebheru"
+    },
+    {
+      "surface": "נער",
+      "gloss": "umfana"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "owesiHebheru"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "igqili"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "lesibonda"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "labahlinzi"
+    },
+    {
+      "surface": "ונספר",
+      "gloss": "simxoxela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ויפתר",
+      "gloss": "wasichazela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaphupho ethu"
+    },
+    {
+      "surface": "חלמתינו",
+      "gloss": "amaphupho ethu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "כחלמו",
+      "gloss": "ngokwephupho lakhe"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "wachaza"
+    }
+  ],
+  "timestamp": "2026-08-31T01:20:35.707079479Z",
+  "model": "glm-5.3"
+}

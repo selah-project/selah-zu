@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 12:3",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi nizokudiliza ⟨את⟩ izibingelelo zabo, nizokuhlakula ⟨את⟩ imigqa yabo yamatshe, futhi ama-asherah abo nizawushisa ngomlilo, futhi izithombe zebhande lezabo onkulunkulu nizokuzihluba, nizokucima ⟨את⟩ igama labo kulendawo leyo.",
+  "tokens": [
+    {
+      "surface": "ונתצתם",
+      "gloss": "nizokudiliza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izibingelelo zabo"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "izibingelelo zabo"
+    },
+    {
+      "surface": "ושברתם",
+      "gloss": "nizokuhlakula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imigqa yabo yamatshe"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "imigqa yabo yamatshe"
+    },
+    {
+      "surface": "ואשריהם",
+      "gloss": "ama-asherah abo"
+    },
+    {
+      "surface": "תשרפון",
+      "gloss": "nizawushisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngomlilo"
+    },
+    {
+      "surface": "ופסילי",
+      "gloss": "izithombe zebhande"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "lezabo onkulunkulu"
+    },
+    {
+      "surface": "תגדעון",
+      "gloss": "nizokuzihluba"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "nizokucima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama labo"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "igama labo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lendawo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leyo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:37:51.488158862Z",
+  "model": "glm-5.3"
+}

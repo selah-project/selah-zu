@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 16:22",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Abantu ababelandela uOmri bacusha ⟨את⟩ abantu ababelandela uTibni indodana kaGinathi; wafa uTibni, wabusa uOmri.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "bacusha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "landela"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "uOmri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "landela"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "uTibni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "גינת",
+      "gloss": "kaGinathi"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wafa"
+    },
+    {
+      "surface": "תבני",
+      "gloss": "uTibni"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wabusa"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "uOmri"
+    }
+  ],
+  "timestamp": "2026-08-31T03:59:11.240499412Z",
+  "model": "glm-5.3"
+}

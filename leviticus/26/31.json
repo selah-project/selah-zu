@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 26:31",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi ngizenza ⟨את⟩ imidolobha yenu ibe yintabataba, futhi ngizokhubaza ⟨את⟩ izindawo zenu ezingcwele, futhi angizukunuka iphunga leliphuzo elihle likanina.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "futhi ngizenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imidolobha yenu"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "imidolobha yenu"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ibe yintabataba"
+    },
+    {
+      "surface": "והשמותי",
+      "gloss": "futhi ngizokhubaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izindawo zenu ezingcwele"
+    },
+    {
+      "surface": "מקדשיכם",
+      "gloss": "izindawo zenu ezingcwele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi angizu-"
+    },
+    {
+      "surface": "אריח",
+      "gloss": "kunuka"
+    },
+    {
+      "surface": "בריח",
+      "gloss": "iphunga"
+    },
+    {
+      "surface": "ניחחכם",
+      "gloss": "leliphuzo elihle likanina"
+    }
+  ],
+  "timestamp": "2026-08-31T02:06:33.537823561Z",
+  "model": "glm-5.3"
+}

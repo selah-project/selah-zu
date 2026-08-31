@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 140,
+  "translation": "Ngiyazi ukuthi uYahwe uzwenza ⟨את⟩ icala lokhaliphile, ⟨את⟩ isigwebo sabampofu.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Ngiyazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uzwenza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "דין",
+      "gloss": "icala lokhaliphile"
+    },
+    {
+      "surface": "עני",
+      "gloss": "lokhaliphile"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "isigwebo"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "sabampofu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:30.858226672Z",
+  "model": "glm-5.3"
+}

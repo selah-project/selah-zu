@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 22:26",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "⟨את⟩-kuwe kuvela udumo lwami, emhlanganweni omkhulu; izivumelwano zami ngizozifeza phambi kwabamesaba uYahwe.",
+  "tokens": [
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩-kuwe",
+      "marks": "udumo lwami"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "udumo lwami"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "emhlanganweni"
+    },
+    {
+      "surface": "רב",
+      "gloss": "omkhulu"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "izivumelwano zami"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ngizozifeza"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "abamesaba uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:30:59.506470241Z",
+  "model": "glm-5.3"
+}

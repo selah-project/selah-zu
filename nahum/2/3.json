@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nahum 2:3",
+  "book": "nahum",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ngokuba uYahwe ubuyisele ⟨את⟩ inkazimulo kaYaakobi, njengenkazimulo kaIsrayeli, ngokuba abathuthukisi babathuthukisile, bamchithe izithombo zabo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ubuyisele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkazimulo kaYaakobi"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "inkazimulo"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kaYaakobi"
+    },
+    {
+      "surface": "כגאון",
+      "gloss": "njengenkazimulo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaIsrayeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "בקקום",
+      "gloss": "babathuthukisile"
+    },
+    {
+      "surface": "בקקים",
+      "gloss": "abathuthukisi"
+    },
+    {
+      "surface": "וזמריהם",
+      "gloss": "nizithombo zabo"
+    },
+    {
+      "surface": "שחתו",
+      "gloss": "bamchithe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:51:27.850312200Z",
+  "model": "glm-5.3"
+}

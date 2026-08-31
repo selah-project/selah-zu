@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "psalms 78:64",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Abapristi bakhe bawa ngomkhondo, amakhanda amakhulu akhe awazanga akhale.",
+  "tokens": [
+    {
+      "surface": "כהניו",
+      "gloss": "abapristi bakhe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ngomkhondo"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "bawa"
+    },
+    {
+      "surface": "ואלמנתיו",
+      "gloss": "amakhanda amakhulu akhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awazanga"
+    },
+    {
+      "surface": "תבכינה",
+      "gloss": "akhale"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:49.493986966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 34:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "kaDavide, ngesikhathi eshintsha ukunambitha kwakhe phambi kuka-Abhimelekhi, wamxosha yadabuka.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "בשנותו",
+      "gloss": "ngesikhathi eshintsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukunambitha kwakhe"
+    },
+    {
+      "surface": "טעמו",
+      "gloss": "ukunambitha kwakhe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "u-Abhimelekhi"
+    },
+    {
+      "surface": "ויגרשהו",
+      "gloss": "wamxosha"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wadabuka"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:19.963032953Z",
+  "model": "glm-5.3"
+}

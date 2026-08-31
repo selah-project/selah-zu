@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Bonke bashintshe indlela, ndawonye bahlazeka; akukho muntu ozayo okuhle, awukho nakho odwa.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "סר",
+      "gloss": "bashintshe indlela"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "bahlazeka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ozayo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awukho"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nako"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "odwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:00.728848665Z",
+  "model": "glm-5.3"
+}

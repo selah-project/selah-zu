@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Musa ukwesaba ngesikhathi indoda ithoba ingcebe, ngesikhathi inkazimulo yendlu yakhe iyanda.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngesikhathi"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ithoba ingcebe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngesikhathi"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "iyanda"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "inkazimulo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "yendlu yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:24.588548698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "ne-⟨את⟩ i-owle encane, ne-⟨את⟩ i-shalakhi, ne-⟨את⟩ i-yanshofu",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ne-⟨את⟩",
+      "marks": "i-owle encane"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "i-owle encane"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne-⟨את⟩",
+      "marks": "i-shalakhi"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "i-shalakhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne-⟨את⟩",
+      "marks": "i-yanshofu"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "i-yanshofu"
+    }
+  ],
+  "timestamp": "2026-08-31T05:57:39.076046436Z",
+  "model": "glm-5.3"
+}

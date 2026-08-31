@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 105:43",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "Waphuma nabantu bakhe ngokujabula, abakhethiwe bakhe ngokuhlabelela.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Waphuma nabantu bakhe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "ngokujabula"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ngokuhlabelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abakhethiwe bakhe"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "abakhethiwe bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:30.455556116Z",
+  "model": "glm-5.3"
+}

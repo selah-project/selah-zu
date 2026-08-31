@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 23:28",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Futhi ngiyothumela ⟨את⟩ inhlwa phambi kwakho, futhi izoxosha ⟨את⟩ amaHivi, ⟨את⟩ amaKanani, noHethe phambi kwakho.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "futhi ngiyothumela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inhlwa"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "inhlwa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "וגרשה",
+      "gloss": "futhi izoxosha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaHivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "amaHivi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaKanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "amaKanani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amaHethe"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "amaHethe"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "phambi kwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T01:38:08.747752097Z",
+  "model": "glm-5.3"
+}

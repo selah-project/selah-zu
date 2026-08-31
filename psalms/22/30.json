@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 22:30",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Bonke abadlayi bomhlaba bazadla bazoqhoshisa phambi kwakhe; bonke abehla ethulini bazokhulema phambi ⟨kwakhe⟩, nerefeshi yakhe engaphili.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "bazadla"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "bazoqhoshisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "דשני",
+      "gloss": "abadlayi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bomhlaba"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "יכרעו",
+      "gloss": "bazokhulema"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "abehla"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ethulini"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "nerefeshi yakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "ukuphila"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:44.199966745Z",
+  "model": "glm-5.3"
+}

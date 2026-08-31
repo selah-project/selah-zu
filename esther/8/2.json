@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 8:2",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Inkosi yasisula isiphahla sayo esasisuselwe kuHaman, yanikela uMordekayi; u-Estere wabeka ⟨את⟩ uMordekayi phezu kendlu kaHaman.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "yasisula"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiphahla sayo"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "isiphahla sayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esasi-"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "suselwe"
+    },
+    {
+      "surface": "מהמן",
+      "gloss": "kuHaman"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "yanikela"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "uMordekayi"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "u-Estere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMordekayi"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "uMordekayi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlu"
+    },
+    {
+      "surface": "המן",
+      "gloss": "kaHaman"
+    }
+  ],
+  "timestamp": "2026-08-31T07:54:28.682026142Z",
+  "model": "glm-5.3"
+}

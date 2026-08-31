@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 3:6",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Bathatha ⟨את⟩ amadodakazi abo bawenza abafazi abo, futhi ⟨את⟩ amadodakazi abo anike izingane zakho zawo, basebenza ⟨את⟩ onkulunkulu babo.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "Bathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadodakazi abo"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "amadodakazi abo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bawenza"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "abafazi abo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "amadodakazi abo"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "amadodakazi abo"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "anike"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "izingane zakho zawo"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "basebenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onkulunkulu babo"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "onkulunkulu babo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:01:24.873982691Z",
+  "model": "glm-5.3"
+}

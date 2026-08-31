@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 7:25",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Wathi uYehoshuwa: Ungazisizangalisa ngani? uYahwe uzakusizangalisa ngalolu suku. Bonke abakwa-Israyeli bamcwisile ngatshe, bawashisa ngomlilo, bawaphonsa ngamatshe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ngani"
+    },
+    {
+      "surface": "עכרתנו",
+      "gloss": "ungazisizangalisa"
+    },
+    {
+      "surface": "יעכרך",
+      "gloss": "uzakusizangalisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalolu suku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "וירגמו",
+      "gloss": "bamcwisile"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "abakwa-Israyeli"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ngatshe"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "bawashisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wonke"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngomlilo"
+    },
+    {
+      "surface": "ויסקלו",
+      "gloss": "bawaphonsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wonke"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ngamatshe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:01:16.328447199Z",
+  "model": "glm-5.3"
+}

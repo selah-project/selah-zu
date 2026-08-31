@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "uMoshe wenza njengokuba uYahwe wayemyalele ⟨את⟩; futhi umhlangano wahlangana emnyango wetende yokuhlangana.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokuba"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayemyalele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "futhi wahlangana"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "umhlangano"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwe-"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wetende"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuhlangana"
+    }
+  ],
+  "timestamp": "2026-08-31T01:52:58.536558950Z",
+  "model": "glm-5.3"
+}

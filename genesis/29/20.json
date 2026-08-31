@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 29:20",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "uYaaqob wayekhonza ngoRakheli iminyaka eyisikhombisa, zazingejwayezi emehlweni akhe njengensuku ezimbalwa ngenxa yokumthanda ⟨את⟩ yena.",
+  "tokens": [
+    {
+      "surface": "ויעבד",
+      "gloss": "wayekhonza"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaaqob"
+    },
+    {
+      "surface": "ברחל",
+      "gloss": "ngoRakheli"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "isikhombisa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "zazingejwayezi"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "emehlweni akhe"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "njengensuku"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "ezimbalwa"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "ngenxa yokumthanda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T01:15:10.030636328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 3:3",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Abasebenzi benkosi ababezisango lenkosi bathi kuMoridikayi: Kungani wena wedlula ⟨את⟩ umyalo wenkosi?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "abasebenzi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "benkosi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ezisango"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "lenkosi"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kuMoridikayi"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "wedlula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umyalo wenkosi"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "umyalo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wenkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:52:21.767132697Z",
+  "model": "glm-5.3"
+}

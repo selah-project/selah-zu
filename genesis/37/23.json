@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 37:23",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Kwathi lapho uYosefu efika kubafowabo, bashiya ⟨את⟩ uYosefu inhliziyo yezenzo zabo — bamsula ⟨את⟩ uhembhe lwakhe, ⟨את⟩ uhembhe lwezibala ezahlukene elaluvalwe ngalo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "בא",
+      "gloss": "efika"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ubafowabo"
+    },
+    {
+      "surface": "ויפשיטו",
+      "gloss": "bamsula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uhembhe lwakhe"
+    },
+    {
+      "surface": "כתנתו",
+      "gloss": "uhembhe lwakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uhembhe lwezibala ezahlukene"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "uhembhe"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "lwezibala ezahlukene"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "luvalwe ngalo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:11:10.064013861Z",
+  "model": "glm-5.3"
+}

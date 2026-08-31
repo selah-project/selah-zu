@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 9:16",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "UParo, inkosi yaseMitsrayim, wenyukela walithatha iGezer, walishisa ngomlilo, wabulala ⟨את⟩ iKanani lalingahlali edolobheni, wayinika njengesipho esithunyelwe ndodakazi yakhe, unkosikazi kaShelomo.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yaseMitsrayim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "wenyukela"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "walithatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iGezer"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "iGezer"
+    },
+    {
+      "surface": "וישרפה",
+      "gloss": "walishisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngomlilo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iKanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "iKanani"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "lalingahlala"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "wabulala"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "wayinika"
+    },
+    {
+      "surface": "שלחים",
+      "gloss": "njengesipho esithunyelwe"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "ndodakazi yakhe"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "unkosikazi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "kaShelomo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:54:12.779329438Z",
+  "model": "glm-5.3"
+}

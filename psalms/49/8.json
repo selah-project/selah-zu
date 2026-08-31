@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Umfo ngeke abe lasindwa ukukhululwa komuntu; ngeke anike u-Elohim isibusiso sokuthweswa.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "umfo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "ukukhululwa"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "abe lasindwa ukukhulula"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "anike"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "isibusiso sokuthweswa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:14.552171443Z",
+  "model": "glm-5.3"
+}

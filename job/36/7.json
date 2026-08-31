@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 36:7",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Amehlo akhe awasusi kumlungile; futhi ⟨את⟩ amakhosi esidlweni abahlalisa naphakade, bese bephakanyiswa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "awasusi"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "awasusi\/awehlisi"
+    },
+    {
+      "surface": "מצדיק",
+      "gloss": "kumlungile"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "amehlo akhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amakhosi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "esidlweni"
+    },
+    {
+      "surface": "וישיבם",
+      "gloss": "abahlalisa"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "naphakade"
+    },
+    {
+      "surface": "ויגבהו",
+      "gloss": "bese bephakanyiswa"
+    }
+  ],
+  "timestamp": "2026-08-31T07:27:55.595226874Z",
+  "model": "glm-5.3"
+}

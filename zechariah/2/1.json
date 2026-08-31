@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ngangiphakamisa ⟨את⟩ amehlo ami, ngabona, bheka, izimpondo ezine.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ngangiphakamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amehlo ami"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo ami"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ngabona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ezine"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "izimpondo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:44.898240825Z",
+  "model": "glm-5.3"
+}

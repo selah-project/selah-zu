@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Futhi uzoyibeka ⟨את⟩ ngaphansi komkhonso we-altari, eseZansi; futhi inethi izoba iqhubele ukufika phakathi kwe-altari.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "futhi uzoyibeka"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ngaphansi komkhonso we-altari"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "komkhonso"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "we-altari"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "eseZansi"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "futhi izoba"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "inethi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "iqhubele ukufika"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kwe-altari"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:48.592804005Z",
+  "model": "glm-5.3"
+}

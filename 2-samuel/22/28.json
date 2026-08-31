@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 22:28",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Futhi ⟨את⟩ abantu abasindile-ehlakahlweni uyabasindisa; futhi amehlo akho aphezulu kwabakhakile awakhobisela phansi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abantu abasindile-ehlakahlweni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "abasindile-ehlakahlweni"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "uyabasindisa"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "futhi amehlo akho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "kwabakhakile"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "awakhobisela phansi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:44:49.031468296Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "Kodwa uma ungamsitheli ngeke sihle; kuba lo muntu washo kithi: Ngeke nibone ubuso bami, ngaphandle kokuba umfowenu ⟨את⟩ enani.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "kodwa uma"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ungamsitheli"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "uthuma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "sihle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kuba"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lo muntu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "washo"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kithi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "nibone"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso bami"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "umfowenu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ enani",
+      "marks": "nina"
+    }
+  ],
+  "timestamp": "2026-08-31T01:23:20.170675108Z",
+  "model": "glm-5.3"
+}

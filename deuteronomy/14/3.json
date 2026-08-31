@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Ungayidli noma yimuphi udenge.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ungayidli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "noma yimuphi"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "udenge"
+    }
+  ],
+  "timestamp": "2026-08-31T02:36:28.433470895Z",
+  "model": "glm-5.3"
+}

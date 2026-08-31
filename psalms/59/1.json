@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 59:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 59,
+  "translation": "Kumqambi wezinkono: Ungabubhi. Igidoni likaDavide, umkhithamo, ngesithunywa sikaShawuli — babeke ⟨את⟩ indlu ukumbulala.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqambi wezinkono"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Unga-"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "-bubhi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "likaDavide"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "umkhithamo"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "ngesithunywa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "sikaShawuli"
+    },
+    {
+      "surface": "וישמרו",
+      "gloss": "babeke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ukumbulala"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:26.650576731Z",
+  "model": "glm-5.3"
+}

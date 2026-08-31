@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 101:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 101,
+  "translation": "Angibeki indaba engenalutho phambi kwamehlo ami; umsebenzi wezigwegwe ngiwuzonda; awunameli kimi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Angi"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "beki"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "kwamehlo ami"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "indaba"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "engenalutho"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "סטים",
+      "gloss": "wezigwegwe"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ngiwuzonda"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu"
+    },
+    {
+      "surface": "ידבק",
+      "gloss": "nameli"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:10.091603615Z",
+  "model": "glm-5.3"
+}

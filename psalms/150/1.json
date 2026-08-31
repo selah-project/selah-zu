@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 150:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 150,
+  "translation": "Dumisani uYah, dumisani u-El ⟨ezindaweni⟩ ezingcwele zakhe, dumisani yena esibheqaneni sezulu samandla akhe.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "dumisani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dumisani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "ezindaweni ezingcwele zakhe"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dumisani yena"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "esibheqaneni sezulu"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "samandla akhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:54.460042246Z",
+  "model": "glm-5.3"
+}

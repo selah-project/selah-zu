@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Waletha ⟨את⟩ isinikelo esishiswayo, wenza njengomthetho oqamile.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "waletha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isinikelo esishiswayo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "isinikelo esishiswayo"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "njengomthetho oqamile"
+    }
+  ],
+  "timestamp": "2026-08-31T01:53:41.028427590Z",
+  "model": "glm-5.3"
+}

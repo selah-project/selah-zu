@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 1:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngokuba uYahwe uyayazi indlela yabalungileyo, kodwa indlela yababi iyanyamalala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "uyayazi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "yabalungileyo"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "kodwa indlela"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yababi"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "iyanyamalala"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:15.887550189Z",
+  "model": "glm-5.3"
+}

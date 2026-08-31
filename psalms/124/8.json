@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 124,
+  "translation": "Usizo lwethu lusegameni likaYahwe, umenzi wezulu nomhlaba.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "usizo lwethu"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "lusegameni lika-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "umenzi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "wezulu"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "nomhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:25.818576751Z",
+  "model": "glm-5.3"
+}

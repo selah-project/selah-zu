@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 40:31",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Futhi abalindile uYahwe bazoshintsha amandla abo; bazonyuka ngephiko njengonkonjane; bazogijima futhi abazodiniwa; bazohamba futhi abazoduka.",
+  "tokens": [
+    {
+      "surface": "וקוי",
+      "gloss": "futhi abalindile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יחליפו",
+      "gloss": "bazoshintsha"
+    },
+    {
+      "surface": "כח",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "bazonyuka"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "ngephiko"
+    },
+    {
+      "surface": "כנשרים",
+      "gloss": "njengonkonjane"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "bazogijima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi abazo-"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "diniwa"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bazohamba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi abazo-"
+    },
+    {
+      "surface": "ייעפו",
+      "gloss": "duka"
+    }
+  ],
+  "timestamp": "2026-08-31T04:30:12.098032627Z",
+  "model": "glm-5.3"
+}

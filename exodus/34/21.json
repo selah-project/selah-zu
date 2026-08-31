@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 34:21",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Nsuku ezintandatheni uzosebenza, ngosuku lwesikhombisa uzophumula — ngesikhathi sokhlanyelo ngesikhathi sokwatula uzophumula.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ezintandatheni"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "nsuku"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "uzosebenza"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "lwesikhombisa"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "uzophumula"
+    },
+    {
+      "surface": "בחריש",
+      "gloss": "ngesikhathi sokhlanyelo"
+    },
+    {
+      "surface": "ובקציר",
+      "gloss": "ngesikhathi sokwatula"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "uzophumula"
+    }
+  ],
+  "timestamp": "2026-08-31T01:43:39.543830610Z",
+  "model": "glm-5.3"
+}

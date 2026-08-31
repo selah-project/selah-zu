@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 138,
+  "translation": "NgekaDavida. Ngiyabonga ngikufakaza ngesibindi sokuphila, ngiphambi koElohim ngizophendukela kini ngomculo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "NgekaDavida"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ngiyabonga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngesibindi sokuphila"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "—"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ngiphambi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "koElohim"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ngizophendukela kini ngomculo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:31.694370963Z",
+  "model": "glm-5.3"
+}

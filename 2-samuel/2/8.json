@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 2:8",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "U-Abneri un kaNeri, inkulu yempi likaShawuli, wathatha ⟨את⟩ u-Ishu-Bosheti un kaShawuli, wamdululisa eMahanayimi.",
+  "tokens": [
+    {
+      "surface": "ואבנר",
+      "gloss": "u-Abneri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un ka-"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Neri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "inkulu"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "yempi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lika-"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Ishu-Bosheti"
+    },
+    {
+      "surface": "איש",
+      "gloss": "u-Ishu-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Bosheti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un ka-"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ויעברהו",
+      "gloss": "wamdululisa yena"
+    },
+    {
+      "surface": "מחנים",
+      "gloss": "eMahanayimi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:32:33.255171722Z",
+  "model": "glm-5.3"
+}

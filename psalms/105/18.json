@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 105:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "Bamenzakalisa izinyawo zakhe ngezinkulungwane zensimbi, wangena insimbi emphefumulweni wakhe.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "bamenzakalisa"
+    },
+    {
+      "surface": "בכבל",
+      "gloss": "ngezinkulungwane"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "izinyawo zakhe"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "insimbi"
+    },
+    {
+      "surface": "באה",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "emphefumulweni wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:18.006119899Z",
+  "model": "glm-5.3"
+}

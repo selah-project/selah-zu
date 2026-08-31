@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 119:34",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Nginike ukuqonda, futhi ngigcine iTorah yakho, futhi ngiyigcine ngenhliziyo yonke.",
+  "tokens": [
+    {
+      "surface": "הבינני",
+      "gloss": "Nginike ukuqonda"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "futhi ngigcine"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "iTorah yakho"
+    },
+    {
+      "surface": "ואשמרנה",
+      "gloss": "futhi ngiyigcine"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngazonke"
+    },
+    {
+      "surface": "לב",
+      "gloss": "izinhliziyo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:40.189953567Z",
+  "model": "glm-5.3"
+}

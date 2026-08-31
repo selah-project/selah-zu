@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Kungahamba babili bodwa, ngaphandle kokuthi babonisanile?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "Kungahamba"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "babili"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bodwa"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kokuthi"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "babonisanile"
+    }
+  ],
+  "timestamp": "2026-08-31T05:31:32.379505631Z",
+  "model": "glm-5.3"
+}

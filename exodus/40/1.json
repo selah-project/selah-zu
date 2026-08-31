@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "uYahwe wayakhuluma kuMoshe ⟨ngokuthi⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wayakhuluma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ngokuthi⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T01:50:23.611524671Z",
+  "model": "glm-5.3"
+}

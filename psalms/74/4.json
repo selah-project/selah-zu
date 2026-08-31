@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 74:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 74,
+  "translation": "Ozakwabo bakhala emkhumbini wokuhlangana kwakho; beke izimpawu zabo ⟨njengezimpawu⟩.",
+  "tokens": [
+    {
+      "surface": "שאגו",
+      "gloss": "bakhala"
+    },
+    {
+      "surface": "צרריך",
+      "gloss": "ozakwabo"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "emkhumbini"
+    },
+    {
+      "surface": "מועדך",
+      "gloss": "wokuhlangana kwakho"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "beke"
+    },
+    {
+      "surface": "אותתם",
+      "gloss": "izimpawu zabo"
+    },
+    {
+      "surface": "אתות",
+      "gloss": "⟨njengezimpawu⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:10.639066086Z",
+  "model": "glm-5.3"
+}

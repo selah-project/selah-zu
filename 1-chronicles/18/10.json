@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 18:10",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Wasithumela uThou ⟨את⟩ uHadoramu indodana yakhe kuDavide, inkosi, ukubuza ngokwakhe izinhlonzo, nombusisa ngenxa yokuthi walwa noHadadezeri wambetha; ngokuba uHadadezeri wayengumuntu wempi nokuba uThou; futhi wayenazo ⟨izindlela⟩ zonke izitsha zegolide nesiliva nomthofu.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "Wasithumela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uHadoramu"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "uHadoramu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "ukubuza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ngokwakhe"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "izinhlonzo"
+    },
+    {
+      "surface": "ולברכו",
+      "gloss": "nombusisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yokuthi"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "walwa"
+    },
+    {
+      "surface": "בהדדעזר",
+      "gloss": "noHadadezeri"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "wambetha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "wempi"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "uThou"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wayeng(u-)"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "uHadadezeri"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "izitsha"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zegolide"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "nesiliva"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "nomthofu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:27:07.168751672Z",
+  "model": "glm-5.3"
+}

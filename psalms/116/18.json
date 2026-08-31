@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 116:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 116,
+  "translation": "Amavowu ami kuYahwe ngiwazalisa, khona-ke, phambi kwabantu bakhe bonke.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "amavowu ami"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ngiwazalisa"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "khona-ke"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuwo onke"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:27.512468042Z",
+  "model": "glm-5.3"
+}

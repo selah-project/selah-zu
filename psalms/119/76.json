@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "psalms 119:76",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Makufike ngesicelo ikhesedi yakho ukungiduduza, njengenkulumo yakho kumkhonzi wakho.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "makufike"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngesicelo"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "לנחמני",
+      "gloss": "ukungiduduza"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "njengenkulumo yakho"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "kumkhonzi wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:27.740092594Z",
+  "model": "glm-5.3"
+}

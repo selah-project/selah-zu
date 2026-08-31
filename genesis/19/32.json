@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 19:32",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Woza, silalise uyise wethu iwayini, sesi sicindezele ⟨את⟩ uyise wethu, siphilisele ku-yise wethu inzalo.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Woza"
+    },
+    {
+      "surface": "נשקה",
+      "gloss": "silalise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyise wethu"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "uyise wethu"
+    },
+    {
+      "surface": "יין",
+      "gloss": "iwayini"
+    },
+    {
+      "surface": "ונשכבה",
+      "gloss": "sesi sicindezele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "laye"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "siphilisele"
+    },
+    {
+      "surface": "מאבינו",
+      "gloss": "ku-yise wethu"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "inzalo"
+    }
+  ],
+  "timestamp": "2026-08-31T09:47:13.740602818Z",
+  "model": "glm-5.3"
+}

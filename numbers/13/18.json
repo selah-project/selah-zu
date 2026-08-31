@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "nibone ⟨את⟩ izwe ukuthi yini, nange ⟨את⟩ abantu abahleli kuyona — ngaba banamandla, noma buthaka? Ngaba buncane, noma baningi?",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "nibone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ukuthi yini"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange ⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "abahleli"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kuyona"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "banamandla"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yini"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "buthaka"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "buncane"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yini"
+    },
+    {
+      "surface": "אם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "רב",
+      "gloss": "baningi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:15:25.517664459Z",
+  "model": "glm-5.3"
+}

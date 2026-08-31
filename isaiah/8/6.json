@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 8:6",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngokuba isizwe lesi sibambe phansi ⟨את⟩ amanzi eShiloakhi ahamba kancane, futhi sijabulela ngoRetsin noNdodana kaRemaliyahu;",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "sibambe phansi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lesi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amanzi eShiloakhi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "השלח",
+      "gloss": "eShiloakhi"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ahamba"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "kancane"
+    },
+    {
+      "surface": "ומשוש",
+      "gloss": "futhi sijabulela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngoRetsin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "uRetsin"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "noNdodana"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "kaRemaliyahu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:18:37.825824685Z",
+  "model": "glm-5.3"
+}

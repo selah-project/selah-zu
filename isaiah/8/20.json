@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "⟨Ku⟩Torah nakufakazweni! Uma engabethi njengalomazwi, ongenalo ukusa.",
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "kuTorah"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "nakufakazweni"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "engabethi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "njengalomazwi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "אין",
+      "gloss": "angenalo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ukusa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:18:11.751501060Z",
+  "model": "glm-5.3"
+}

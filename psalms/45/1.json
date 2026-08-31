@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Kumqondisi, ngaphezu kwezihlabangi, kubantwana bakaKorahi, umfundiso, iculo lethando.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu kwe-"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "izihlabangi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kubantwana baka-"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korahi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "umfundiso"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "iculo"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "lethando"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:23.347790427Z",
+  "model": "glm-5.3"
+}

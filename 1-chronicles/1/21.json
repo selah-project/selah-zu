@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "no⟨את⟩ uHadoram, no⟨את⟩ u-Uzal, no⟨את⟩ uDiklah;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uHadoram"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "uHadoram"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "u-Uzal"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "u-Uzal"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uDiklah"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "uDiklah"
+    }
+  ],
+  "timestamp": "2026-08-31T08:18:49.461341058Z",
+  "model": "glm-5.3"
+}

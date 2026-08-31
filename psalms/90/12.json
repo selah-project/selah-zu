@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 90:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 90,
+  "translation": "Ukusifundisa ukubala izinsuku zethu kanjalo, ukuze sithole izinhliziyo zobuhlakani.",
+  "tokens": [
+    {
+      "surface": "למנות",
+      "gloss": "ukubala"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "izinsuku zethu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "fundisa-thina"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "sithole"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "izinhliziyo"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ubuhlakani"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:25.653011571Z",
+  "model": "glm-5.3"
+}

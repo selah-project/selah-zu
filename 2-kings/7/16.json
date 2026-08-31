@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 7:16",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Abantu baphuma bayozingela ⟨את⟩ umkhumbi kaAramu; kwaba yisihlabathi sesithebo ngashekele, nezihlabathi ezimbili zebala ngashekele, njengencwadi kaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "baphuma"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "bayozingela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umkhumbi kaAramu"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "umkhumbi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "kaAramu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba yi-"
+    },
+    {
+      "surface": "סאה",
+      "gloss": "isihlabathi"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "sesithebo"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ngashekele"
+    },
+    {
+      "surface": "וסאתים",
+      "gloss": "nezihlabathi ezimbili"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "zebala"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ngashekele"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "njengencwadi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:07:55.665805459Z",
+  "model": "glm-5.3"
+}

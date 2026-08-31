@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 10:11",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Wathi uYahwe kimi: Sukuma, hamba ungabambe phambili abantu, baze bangene bathathe ⟨את⟩ lelizwe engangifungile kubaba labo ukunika bona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Sukuma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "למסע",
+      "gloss": "ngokuhamba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambili kwezinyoni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bangene"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "bathathe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lelizwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lelizwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engangifungile"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ngangifungile"
+    },
+    {
+      "surface": "לאבתם",
+      "gloss": "kubaba labo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ukunika"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    }
+  ],
+  "timestamp": "2026-08-31T02:33:54.083030386Z",
+  "model": "glm-5.3"
+}

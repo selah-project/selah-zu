@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 13:7",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Ngahamba iPharathi, ngakhwaza, ngathabha ⟨את⟩ isibhande endaweni engalifihle khona lapha; futhi bheka, isibhande saba nomonakalo, asisafanele lutho.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "Ngahamba"
+    },
+    {
+      "surface": "פרתה",
+      "gloss": "iPharathi"
+    },
+    {
+      "surface": "ואחפר",
+      "gloss": "ngakhwaza"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "ngathabha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibhande"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "isibhande"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ndaweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "enga-"
+    },
+    {
+      "surface": "טמנתיו",
+      "gloss": "lifihle"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "khona lapha"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "futhi bheka"
+    },
+    {
+      "surface": "נשחת",
+      "gloss": "saba nomonakalo"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "isibhande"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asi-"
+    },
+    {
+      "surface": "יצלח",
+      "gloss": "safanele"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "lutho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:10:00.872250884Z",
+  "model": "glm-5.3"
+}

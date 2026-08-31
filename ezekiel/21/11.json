@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 21:11",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Wena, ndodana womuntu, zungubhala ngesikhupha kanzima sezinqunu, futhi ngokunalaza uzozungubhala emehlweni abo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "futhi wena"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ndodana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "womuntu"
+    },
+    {
+      "surface": "האנח",
+      "gloss": "zungubhala"
+    },
+    {
+      "surface": "בשברון",
+      "gloss": "ngesikhupha kanzima"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "sezinqunu"
+    },
+    {
+      "surface": "ובמרירות",
+      "gloss": "futhi ngokunalaza"
+    },
+    {
+      "surface": "תאנח",
+      "gloss": "uzozungubhala"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "emehlweni abo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:10:54.830211037Z",
+  "model": "glm-5.3"
+}

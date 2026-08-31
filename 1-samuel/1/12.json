@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kwathi njengoba ebandakanyile ukuthandaza phambi kukaYahwe, u-Eli wabukela ⟨את⟩ umlomo wakhe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "ebandakanyile"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "ukuthandaza"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kukaYahwe"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "u-Eli"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "wabukela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umlomo wakhe"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "umlomo wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:13:29.880969784Z",
+  "model": "glm-5.3"
+}

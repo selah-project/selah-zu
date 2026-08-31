@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 77,
+  "translation": "Izwi lami liye ku-Elohim, ngiyakhalisa; izwi lami liye ku-Elohim, futhi uzalele indlebe kimi.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Izwi lami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "ngiyakhalisa"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "izwi lami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "futhi uzalele indlebe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:51.194122188Z",
+  "model": "glm-5.3"
+}

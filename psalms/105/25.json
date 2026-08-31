@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 105:25",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "Wajikisa izinhliziyo zabo ukuzonda abantu bakhe, ukuhlela amacephe ⟨ku⟩ izinceku zakhe.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Wajikisa"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "izinhliziyo zabo"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ukuzonda"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "להתנכל",
+      "gloss": "ukuhlela amacephe"
+    },
+    {
+      "surface": "בעבדיו",
+      "gloss": "izinceku zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:40.522529142Z",
+  "model": "glm-5.3"
+}

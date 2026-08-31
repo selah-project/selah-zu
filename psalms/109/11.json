@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 109:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Unjinieli abambele ngehlaka konke okwakhe, futhi izinkuni ziphange umsebenzi wakhe.",
+  "tokens": [
+    {
+      "surface": "ינקש",
+      "gloss": "abambele ngehlaka"
+    },
+    {
+      "surface": "נושה",
+      "gloss": "unjinieli"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku-"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwakhe"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "futhi ziphange"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "izinkuni"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "umsebenzi wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:13.902278247Z",
+  "model": "glm-5.3"
+}

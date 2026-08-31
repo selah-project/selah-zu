@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 11:9",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Ngiyakunikhupha phakathi kwayo, futhi ngiyokunikela enandweni abangesizi, futhi ngiyokwenza kini izigwebo.",
+  "tokens": [
+    {
+      "surface": "והוצאתי",
+      "gloss": "ngiyokunikhupha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "phakathi kwayo (ni)"
+    },
+    {
+      "surface": "מתוכה",
+      "gloss": "phakathi kwayo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "futhi ngiyokunikela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "enandweni abangesizi (ni)"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "enandweni"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "abangesizi"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "futhi ngiyokwenza"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "izigwebo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:06:58.647844238Z",
+  "model": "glm-5.3"
+}

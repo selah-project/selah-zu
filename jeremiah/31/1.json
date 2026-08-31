@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 31:1",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Ngaleso sikhathi, isho uYahwe, ngizuba yinguElohim kuzo zonke izindlu zikaSirayeli, futhi bona bazoba ngisizwe sami.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ngaleso sikhathi"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "leso"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "isho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ngizuba"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "yinguElohim"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "izindlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zikaSirayeli"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "futhi bona"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bazoba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "isizwe sami"
+    }
+  ],
+  "timestamp": "2026-08-31T04:52:05.237305377Z",
+  "model": "glm-5.3"
+}

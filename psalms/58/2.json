@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 58:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 58,
+  "translation": "Ngabe ngempela, ngokuthula, ukulunga nikhuluma? Ngokungqongqo nahlulela, bantwana bantu?",
+  "tokens": [
+    {
+      "surface": "האמנם",
+      "gloss": "ngabe ngempela"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ngokuthula"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ukulunga"
+    },
+    {
+      "surface": "תדברון",
+      "gloss": "nikhuluma"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ngokungqongqo"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "nahlulela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bantwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bantu"
+    }
+  ],
+  "timestamp": "2026-08-31T09:47:28.908216290Z",
+  "model": "glm-5.3"
+}

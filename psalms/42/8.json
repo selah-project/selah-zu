@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 42:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Isiziba esijulile sibiza esinye isiziba esijulile ngezwi zokuduma kwamanzi akho; onke amagagadu akho namafuu akho awoqa phezu kwami.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Isiziba esijulile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "sibiza"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "esinye isiziba esijulile"
+    },
+    {
+      "surface": "קורא",
+      "gloss": ""
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ngezwi"
+    },
+    {
+      "surface": "צנוריך",
+      "gloss": "zokuduma kwamanzi akho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "amagagadu akho"
+    },
+    {
+      "surface": "וגליך",
+      "gloss": "namafuu akho"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "awoqa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:40.596923328Z",
+  "model": "glm-5.3"
+}

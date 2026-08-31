@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 65,
+  "translation": "Uyazilalela inkukuma yamanzolwandle, inkukuma yamagagasi awo, nenkukaba yezizwe.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "Uyazilalela"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "inkukuma"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "yamanzolwandle"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "inkukuma"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "yamagagasi awo"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "nenkukaba"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "yezizwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:36.572547590Z",
+  "model": "glm-5.3"
+}

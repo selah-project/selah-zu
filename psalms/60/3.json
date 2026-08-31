@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 60:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 60,
+  "translation": "uElohim, wasilahla, wasiphulula, wanathukuthela — sibuyisele.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "זנחתנו",
+      "gloss": "wasilahla"
+    },
+    {
+      "surface": "פרצתנו",
+      "gloss": "wasiphulula"
+    },
+    {
+      "surface": "אנפת",
+      "gloss": "wanathukuthela"
+    },
+    {
+      "surface": "תשובב",
+      "gloss": "sibuyisele"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kithi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:26.492180737Z",
+  "model": "glm-5.3"
+}

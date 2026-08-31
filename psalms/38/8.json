@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Ngokuba izintlungu zami zigcwele ukushisa; futhi akukho mpilakahle enyameni yami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "izintlungu zami"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "zigcwele"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "ukushisa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi akukho"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "mpilakahle"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "enyameni yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:23.632250322Z",
+  "model": "glm-5.3"
+}

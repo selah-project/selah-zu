@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 7:12",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ngoba baligxilinga ilinywa induku yomunye futhi; zaba izinyoka; kodwa induku ka-Aharon yagwinya ⟨את⟩ izinduku zabo.",
+  "tokens": [
+    {
+      "surface": "וישליכו",
+      "gloss": "baligxilinga ilinywa induku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yomunye"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "induku yakhe"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "zaba"
+    },
+    {
+      "surface": "לתנינם",
+      "gloss": "izinyoka"
+    },
+    {
+      "surface": "ויבלע",
+      "gloss": "yagwinya"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "induku"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ka-Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinduku zabo"
+    },
+    {
+      "surface": "מטתם",
+      "gloss": "izinduku zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:28:08.717229675Z",
+  "model": "glm-5.3"
+}

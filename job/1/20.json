@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 1:20",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Wavuka u-Ayyovu, waluhlephula ⟨את⟩ isikhumba sakhe sigqoke, wakhanda ⟨את⟩ ikhanda lakhe, wawa phansi emhlabeni, wasabela.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wavuka"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "u-Ayyovu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "waluhlephula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isikhumba sakhe sigqoke"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "isikhumba sakhe sigqoke"
+    },
+    {
+      "surface": "ויגז",
+      "gloss": "wakhanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikhanda lakhe"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ikhanda lakhe"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "wawa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "phansi emhlabeni"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "wasabela"
+    }
+  ],
+  "timestamp": "2026-08-31T07:07:26.088988911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 60:12",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 60,
+  "translation": "Ngokuba izwe nombuso ongazukukhonza kuzanyamalala, futhi izive zonke zizachithwa zibe yinklaba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "והממלכה",
+      "gloss": "nombuso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ongo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga"
+    },
+    {
+      "surface": "יעבדוך",
+      "gloss": "zukukhonza"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "kuzanyamalala"
+    },
+    {
+      "surface": "והגוים",
+      "gloss": "futhi izive"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "zachithwa zibe yinklaba"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-31T10:25:33.111629042Z",
+  "model": "glm-5.3"
+}

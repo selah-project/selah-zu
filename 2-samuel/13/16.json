@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 13:16",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Futhi (yathi) (kuye): (Sukuma), (ngoba) (ngenxa) (yale) (mkhulu) (okukhulu) (okuhle) (okuthile) (owenza) (nami) (ukungihambisa), — futhi (Asihlaki) (nesifiso sam) (ukulalela) (kuyona).",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "futhi (yathi)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "(kuye): (Sukuma)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(Sukuma)"
+    },
+    {
+      "surface": "אודות",
+      "gloss": "(ngoba) (ngenkota)"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "(nento) (ebi)"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "(enkulu)"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "(le)"
+    },
+    {
+      "surface": "מאחרת",
+      "gloss": "(engaphezu) (kwezinye)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "(okuthile)"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "(owenza)"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "(nami)"
+    },
+    {
+      "surface": "לשלחני",
+      "gloss": "(ukungihambisa)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi (Asihlaki)"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "(nesifiso sam)"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "(ukulalela)"
+    },
+    {
+      "surface": "לה",
+      "gloss": "(kuyona)"
+    }
+  ],
+  "timestamp": "2026-08-31T03:37:04.738473284Z",
+  "model": "glm-5.3"
+}

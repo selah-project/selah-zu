@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "eyaye uma waduba ⟨את⟩ u-Avraham, nefungo lakhe kuYishaka;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "eyaye"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "waduba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "nefungo lakhe"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "kuYishaka"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:16.574380570Z",
+  "model": "glm-5.3"
+}

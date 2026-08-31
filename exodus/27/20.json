@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 27:20",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Futhi wena uzalele ⟨את⟩ amadodana ka-Israyeli, baze bakulethe kuwena amafutha omundu ocwebezelayo, oshayiwe, owokukhanyisa, ukuze siphakamise ibhayibheli lokukhanya qhubeka.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "futhi wena"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "uzalele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadodana ka-Israyeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israyeli"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "baze bakulethe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwena"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "זית",
+      "gloss": "omundu"
+    },
+    {
+      "surface": "זך",
+      "gloss": "ocwebezelayo"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "oshayiwe"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "wokukhanyisa"
+    },
+    {
+      "surface": "להעלת",
+      "gloss": "ukuze siphakamise"
+    },
+    {
+      "surface": "נר",
+      "gloss": "iphuzu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "qhubeka"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:55.410593243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi uShelomoh, inkosi, wayengunkosi phezu kwe-Israel yonke.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "futhi waba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "wayengunkosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i-Israel"
+    }
+  ],
+  "timestamp": "2026-08-31T03:47:38.124789506Z",
+  "model": "glm-5.3"
+}

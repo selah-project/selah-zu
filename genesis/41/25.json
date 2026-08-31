@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "uYosefa wathi kuParo: iphupho likaParo liyodwa; ⟨את⟩ oku uElohim enzakwenzayo ukwazisile kuParo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "iphupho"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "likaParo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "liyodwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "li"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oku uElohim enzakwenzayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "enzakwenzayo"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ukwazisile"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kuParo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:19:51.785078643Z",
+  "model": "glm-5.3"
+}

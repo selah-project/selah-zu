@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 24:22",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "UYehoshuwa wathi kubantu: Nina izifakazeli ⟨ezikulawa⟩ ngokwenu ukuthi nina nikhethile uYahwe ukumkhhonza. Bathi: Izifakazeli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "izifakazeli"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ngokwenu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "nikhethile"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nokwenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ukumkhhonza"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ yena"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "izifakazeli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:02:04.709058254Z",
+  "model": "glm-5.3"
+}

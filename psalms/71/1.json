@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 71,
+  "translation": "Kuwe uYahwe ngithulele; angiphazamiseki ukwedlula konke. Ngingabinawo isihawu ezele iminyaka yonke.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Kuwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ngithulele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "angiphazamiseki"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "ukwedlula konke"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "eminyaka yonke"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:12.234209068Z",
+  "model": "glm-5.3"
+}

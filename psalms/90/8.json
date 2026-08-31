@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 90:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 90,
+  "translation": "Uzibe iziphambeko zethu phambi kwakho, izinto zethu ezifihliwe ekukhanyeni kobuso lwakho.",
+  "tokens": [
+    {
+      "surface": "שת",
+      "gloss": "uzibe"
+    },
+    {
+      "surface": "עונתינו",
+      "gloss": "iziphambeko zethu"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "עלמנו",
+      "gloss": "izinto zethu ezifihliwe"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "ekukhanyeni"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kobuso lwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:10.457854363Z",
+  "model": "glm-5.3"
+}

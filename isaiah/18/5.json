@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 18:5",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Ngokuba ngaphambi kwesivuno, lapho umbhonyo usuphelile, isibhungu siphelile kuzoba usana lwesibhungu; uzobele amasebe ngeziphandla, futhi ⟨את⟩ amaqabunga asuse wadabula.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ngaphambi kwe-"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "isivuno"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "usuphelile"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "umbhonyo"
+    },
+    {
+      "surface": "ובסר",
+      "gloss": "isibhungu"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "siphelile"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuzoba"
+    },
+    {
+      "surface": "נצה",
+      "gloss": "usana lwesibhungu"
+    },
+    {
+      "surface": "וכרת",
+      "gloss": "uzobele"
+    },
+    {
+      "surface": "הזלזלים",
+      "gloss": "amasebe"
+    },
+    {
+      "surface": "במזמרות",
+      "gloss": "ngeziphandla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amaqabunga"
+    },
+    {
+      "surface": "הנטישות",
+      "gloss": "amaqabunga"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "asuse"
+    },
+    {
+      "surface": "התז",
+      "gloss": "wadabula"
+    }
+  ],
+  "timestamp": "2026-08-31T04:22:26.122700764Z",
+  "model": "glm-5.3"
+}

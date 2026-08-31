@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 94:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 94,
+  "translation": "Lowo oqeqesha izizwe, akanalungisi yini? Lowo ophendisela umuntu ulwazi ⟨yena akanazi yini?⟩",
+  "tokens": [
+    {
+      "surface": "היסר",
+      "gloss": "Lowo oqeqesha"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "akanalungisi yini"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "ukulungisa"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "Lowo ophendisela"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ulwazi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:41.669038213Z",
+  "model": "glm-5.3"
+}

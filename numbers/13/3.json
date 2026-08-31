@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 13:3",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "uMoshe wabathuma ⟨את⟩ kudelebani yeParani, ngomlomo kaYahwe; bonke babengabantu, izinhloko zezabantwana bakwaIsrayeli yilaba.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wabathuma"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bonke (amadoda)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "kudelebani"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "yeParani"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngo-"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mlomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "babengabantu"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "izinhloko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zezabantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaIsrayeli"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yilaba"
+    }
+  ],
+  "timestamp": "2026-08-31T02:15:10.139234441Z",
+  "model": "glm-5.3"
+}

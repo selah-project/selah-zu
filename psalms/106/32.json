@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 106:32",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Bamcasukisa emanzini aseMeribha, kwaba kubi kuMoshe ngenxa yabo.",
+  "tokens": [
+    {
+      "surface": "ויקציפו",
+      "gloss": "Bamcasukisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "nga"
+    },
+    {
+      "surface": "מי",
+      "gloss": "emanzini"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "aseMeribha"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "kwaba kubi"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kuMoshe"
+    },
+    {
+      "surface": "בעבורם",
+      "gloss": "ngenxa yabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:43.691020330Z",
+  "model": "glm-5.3"
+}

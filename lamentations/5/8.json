@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Iziguli zibusa phezu kwethu; akukho owasikhipha esandleni sawo.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "iziguli"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "zibusa"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "phezu kwethu"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "owasikhipha"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "esandleni sawo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:43:20.267155555Z",
+  "model": "glm-5.3"
+}

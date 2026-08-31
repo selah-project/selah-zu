@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "u-Arpakshadi waphila iminyaka engu-35 wazala ⟨את⟩ uShelaxi.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "u-Arpakshadi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "waphila"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "eshiyganu"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "nesithathu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShelaxi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "uShelaxi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:07.902537320Z",
+  "model": "glm-5.3"
+}

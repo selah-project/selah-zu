@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 119,
+  "ref": "psalms 119:119",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ubunyazi! Wawukhisha wonke ababi bomhlaba ⟨njengobunyazi⟩; ngakho ndithanda iziqiniseko zakho.",
+  "tokens": [
+    {
+      "surface": "סגים",
+      "gloss": "ubunyazi"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "wawukhisha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "רשעי",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bomhlaba"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ndithanda"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "iziqiniseko zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:32.223655599Z",
+  "model": "glm-5.3"
+}

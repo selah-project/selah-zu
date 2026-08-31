@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 11:10",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Ekuhleni kwabalungileyo idolobha liyajabula, ekucekeni kwabayizoni kukhona ukukhala kokujabula.",
+  "tokens": [
+    {
+      "surface": "בטוב",
+      "gloss": "ekuhleni kwe-"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abalungileyo"
+    },
+    {
+      "surface": "תעלץ",
+      "gloss": "liyajabula"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "idolobha"
+    },
+    {
+      "surface": "ובאבד",
+      "gloss": "ekucekeni kwe-"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kwabayizoni"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "ukukhala kokujabula"
+    }
+  ],
+  "timestamp": "2026-08-31T06:53:11.541179924Z",
+  "model": "glm-5.3"
+}

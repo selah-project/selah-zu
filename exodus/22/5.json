@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 22:5",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Uma kuqhuma umlilo uwuthola ezotsheni, bese kudliwa isitaki noma ukhula lomhlaba noma insimu — lowo owakhanyisa umlilo uzobuyisela ngokuphelele ⟨את⟩ ukwehlakazeka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "kuqhuma"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "uwuthola"
+    },
+    {
+      "surface": "קצים",
+      "gloss": "ezotsheni"
+    },
+    {
+      "surface": "ונאכל",
+      "gloss": "bese kudliwa"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "isitaki"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "הקמה",
+      "gloss": "ukhula lomhlaba"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "insimu"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ngokuphelele"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "uzobuyisela"
+    },
+    {
+      "surface": "המבער",
+      "gloss": "lowo owakhanyisa umlilo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukwehlakazeka"
+    },
+    {
+      "surface": "הבערה",
+      "gloss": "ukwehlakazeka"
+    }
+  ],
+  "timestamp": "2026-08-31T01:38:04.423126218Z",
+  "model": "glm-5.3"
+}

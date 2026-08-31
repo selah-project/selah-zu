@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Futhi inkosi yomkhosi yathi: Buza wena, umntwana kabani lomfana omusha?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "futhi inkosi yomkhosi yathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi yomkhosi"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "buza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umntwana kabani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "kabani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "omusha"
+    }
+  ],
+  "timestamp": "2026-08-31T03:23:14.463160092Z",
+  "model": "glm-5.3"
+}

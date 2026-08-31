@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 9:10",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Usebenzela yena ⟨את⟩ umhlabathi — wena namadodana akho namasizini akho — uzolethisa, ibe indodana yenkosi yakho inokudla ayidla; uMefibosheti indodana yenkosi yakho uzodla njalo inkwa etauleni lami. KuTsiba kunamadodana amashumi nanhlanu namasizini amashumi amabili.",
+  "tokens": [
+    {
+      "surface": "ועבדת",
+      "gloss": "usebenzela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlabathi"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "umhlabathi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "namadodana akho"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "namasizini akho"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "uzolethisa"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "indodana yenkosi"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "yakho"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "ayidla"
+    },
+    {
+      "surface": "ומפיבשת",
+      "gloss": "uMefibosheti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana yenkosi"
+    },
+    {
+      "surface": "אדניך",
+      "gloss": "yakho"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "uzodla"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "inkwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "etafuleni"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "etafuleni lami"
+    },
+    {
+      "surface": "ולציבא",
+      "gloss": "kuTsiba"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "amashumi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "nanhlanu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "namashumi amabili"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "amasizini"
+    }
+  ],
+  "timestamp": "2026-08-31T03:34:35.671046344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 1:15",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "UDavide wabiza omunye wabafana, wathi: Sondeza, mshaye. Yena wamshaya, wafa.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "לאחד",
+      "gloss": "omunye"
+    },
+    {
+      "surface": "מהנערים",
+      "gloss": "wabafana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "גש",
+      "gloss": "Sondeza"
+    },
+    {
+      "surface": "פגע",
+      "gloss": "mshaye"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "wamshaya"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wafa"
+    }
+  ],
+  "timestamp": "2026-08-31T03:32:08.834505950Z",
+  "model": "glm-5.3"
+}

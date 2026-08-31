@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 81,
+  "translation": "Ngingathába-ke ukuthi izwe lami lingilalela, iYisraeli lihamba ezindleleni zami!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Ngingathába-ke ukuthi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "izwe lami"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "lingilalela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisraeli"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ezindleleni zami"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "lihamba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:25.272749595Z",
+  "model": "glm-5.3"
+}

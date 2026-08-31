@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 12:4",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Kodwa-ke amabhamu abanga asuswa; abantu besabhingelela futhi betshisa impepho emabhamweni.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Kodwa-ke"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "amabhamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abanga"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "asuswa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "besa-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "bhingelela"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "futhi betshisa impepho"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "emabhamweni"
+    }
+  ],
+  "timestamp": "2026-08-31T04:09:57.053497977Z",
+  "model": "glm-5.3"
+}

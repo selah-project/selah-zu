@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 50:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "uElohim wethu uza, futhi ungalokothi athule: mlilo udla phambi kwakhe, futhi ezungeze kuye kunyakaziswa isiphepho esikhulu.",
+  "tokens": [
+    {
+      "surface": "יבא",
+      "gloss": "uza"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi ungalokothi"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "athule"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mlilo"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "udla"
+    },
+    {
+      "surface": "וסביביו",
+      "gloss": "futhi ezungeze kuye"
+    },
+    {
+      "surface": "נשערה",
+      "gloss": "kunyakaziswa isiphepho"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "esikhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:42.490222451Z",
+  "model": "glm-5.3"
+}

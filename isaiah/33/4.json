@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 33:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Futhi izimpahla zokweba zenu ziyoqoqwa, ukuqoqwa kwezikhunqwana; njengokuxhuma-xhuma kwezinyezi, bazoxhuma phezu kwayo.",
+  "tokens": [
+    {
+      "surface": "ואסף",
+      "gloss": "Futhi ziyoqoqwa"
+    },
+    {
+      "surface": "שללכם",
+      "gloss": "izimpahla zokweba zenu"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ukuqoqwa"
+    },
+    {
+      "surface": "החסיל",
+      "gloss": "kwezikhunqwana"
+    },
+    {
+      "surface": "כמשק",
+      "gloss": "njengokuxhuma-xhuma"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "kwezinyezi"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "bazoxhuma"
+    },
+    {
+      "surface": "בו",
+      "gloss": "phezu kwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:26:57.549899125Z",
+  "model": "glm-5.3"
+}

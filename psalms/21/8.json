@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Ngokuba inkosi ithembela kuYahwe, futhi ngezikhesedi ze-Eliyoni angeke yehle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "ithembela"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "ngezikhesedi"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ze-Eliyoni"
+    },
+    {
+      "surface": "בל",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "yehle"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:23.301287975Z",
+  "model": "glm-5.3"
+}

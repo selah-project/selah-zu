@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 22:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Amanzi ami omzimba omile njengesitsha somumbha, ulimi luniwele emilomeni yami, ufidlile emhlabathini wokufa.",
+  "tokens": [
+    {
+      "surface": "יבש",
+      "gloss": "omile"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "njengesitsha somumbha"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "Amanzi ami omzimba"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "ulimi luniwele"
+    },
+    {
+      "surface": "מדבק",
+      "gloss": "emilomeni yami"
+    },
+    {
+      "surface": "מלקוחי",
+      "gloss": ""
+    },
+    {
+      "surface": "ולעפר",
+      "gloss": "emhlabathini"
+    },
+    {
+      "surface": "מות",
+      "gloss": "wokufa"
+    },
+    {
+      "surface": "תשפתני",
+      "gloss": "ufidlile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:30.940454886Z",
+  "model": "glm-5.3"
+}

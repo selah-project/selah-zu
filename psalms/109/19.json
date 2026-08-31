@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 109:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Makube njengengubo ayifihla ngayo, futhi njengesibhamu ayesibophe njalo.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "makube"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "njengengubo"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "ayifihla ngayo"
+    },
+    {
+      "surface": "ולמזח",
+      "gloss": "futhi njengesibhamu"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "יחגרה",
+      "gloss": "ayesibophe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:51.745004066Z",
+  "model": "glm-5.3"
+}

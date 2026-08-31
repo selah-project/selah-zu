@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 2:24",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ngalokho umuntu uzoshiya ⟨את⟩ uyise no-⟨את⟩ unina, uzanamathela esifazaneni wakhe, baba yinyama eyodwa.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "uzoshiya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyise"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "unina"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "unina"
+    },
+    {
+      "surface": "ודבק",
+      "gloss": "uzanamathela"
+    },
+    {
+      "surface": "באשתו",
+      "gloss": "esifazaneni wakhe"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "baba"
+    },
+    {
+      "surface": "לבשר",
+      "gloss": "yinyama"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eyodwa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:13.210801940Z",
+  "model": "glm-5.3"
+}

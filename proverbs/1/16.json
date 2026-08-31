@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngenxa yokuthi izinyawo zabo ziyagijima ⟨את⟩ ezinkwenkweni, futhi ziyashesha ukuchitha igazi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "izinyawo zabo"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ezinkwenkweni"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "ziyagijima"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "futhi ziyashesha"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "ukuchitha"
+    },
+    {
+      "surface": "דם",
+      "gloss": "igazi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:45:36.717440047Z",
+  "model": "glm-5.3"
+}

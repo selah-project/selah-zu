@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Futhi umphristi ezobona ⟨את⟩ inyama ephilile, futhi uzamenza angcolile; inyama ephilile ingcolile; yilokhu ukhanda.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "futhi uzabona"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umphristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama ephilile"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ephilile"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "futhi uzamenza angcolile"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ephilile"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ingcolile"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilokhu"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ukhanda"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T01:55:57.349662398Z",
+  "model": "glm-5.3"
+}

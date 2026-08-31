@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 2:18",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi uShemuweli wayenkonzela ⟨את⟩ phambi kukaYahwe, umfana obophele i-efodi yofuni.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "futhi uShemuweli"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "wayenkonzela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phambi kukaYahwe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "phambi (ubuso)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "נער",
+      "gloss": "umfana"
+    },
+    {
+      "surface": "חגור",
+      "gloss": "obophele"
+    },
+    {
+      "surface": "אפוד",
+      "gloss": "i-efodi"
+    },
+    {
+      "surface": "בד",
+      "gloss": "yofuni"
+    }
+  ],
+  "timestamp": "2026-08-31T03:15:08.079814289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 91:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 91,
+  "translation": "Uzongibiza, ngimphendula; nginguye ngesikhathi esinzima; ngimsindisa, ngimphakamisa ngobukhosi.",
+  "tokens": [
+    {
+      "surface": "יקראני",
+      "gloss": "Uzongibiza"
+    },
+    {
+      "surface": "ואענהו",
+      "gloss": "ngimphendula"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "nginguye (kanye)"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "ngesikhathi esinzima"
+    },
+    {
+      "surface": "אחלצהו",
+      "gloss": "ngimsindisa"
+    },
+    {
+      "surface": "ואכבדהו",
+      "gloss": "ngimphakamisa ngobukhosi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:53.004054190Z",
+  "model": "glm-5.3"
+}

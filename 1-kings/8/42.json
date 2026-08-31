@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 8:42",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "ngokuba beyozwa ⟨את⟩ igama lakho elikhulu, nesandla sakho esiqinileyo, nengalo yakho eweziweyo, aze afike athandazele kuleli ndhu elithile,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "beyozwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lakho elikhulu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "elikhulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "isandla sakho esiqinileyo"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "esiqinileyo"
+    },
+    {
+      "surface": "וזרעך",
+      "gloss": "nengalo yakho"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "eweziweyo"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "aze afike"
+    },
+    {
+      "surface": "והתפלל",
+      "gloss": "athandazele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "leli ndlu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "elithile"
+    }
+  ],
+  "timestamp": "2026-08-31T03:54:25.569671007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 115:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 115,
+  "translation": "Izulu, amazulu ngokaYahwe; umhlaba lowanikeza abantwana bomuntu.",
+  "tokens": [
+    {
+      "surface": "השמים",
+      "gloss": "izulu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ngokaYahwe"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "nomhlaba"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "uwanikeza"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bomuntu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:12.555785732Z",
+  "model": "glm-5.3"
+}

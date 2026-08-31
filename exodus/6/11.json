@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 6:11",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ngena, khuluma kuParo inkosi yaseMitsrayim, ukuthi athumele ⟨את⟩ amadodana ka-Israeli elizweni lakhe.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "Ngena"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "khuluma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yaseMitsrayim"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ukuthi athumele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadodana ka-Israeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israeli"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "elizweni lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:27:37.539489535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 23:4",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "UDavide wengeza futhi wabuza kuYahwe, uYahwe wamphendula wathi: Vuka, wehle eKheyla, ngokuba mina nginikeza ⟨את⟩ abaFilisiti esandleni sakho.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "wengeza futhi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "לשאל",
+      "gloss": "wabuza"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ויענהו",
+      "gloss": "wamphendula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "קום",
+      "gloss": "Vuka"
+    },
+    {
+      "surface": "רד",
+      "gloss": "wehle"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "eKheyla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nginikeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaFilisiti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "abaFilisiti"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "esandleni sakho"
+    }
+  ],
+  "timestamp": "2026-08-31T03:26:46.691264551Z",
+  "model": "glm-5.3"
+}

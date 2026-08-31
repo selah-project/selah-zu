@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 56:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 56,
+  "translation": "Ngosuku engibiza ngalo, abazaki bami bayophendukela emuva; lokhu ngiyazi, ukuthi uElohim ungisekela.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "bayophendukela"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "bayophendukela"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "abazaki bami"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "emuva"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "engibiza ngalo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ngiyazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ungisekela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:40.468044562Z",
+  "model": "glm-5.3"
+}

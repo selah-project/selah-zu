@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "UMikhayahu wathi: Njengoba uYahwe ephilile, oku ⟨את⟩ uYahwe akushoyo kimi, ⟨את⟩ okho-⟨את⟩ ngizokukhuluma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "uMikhayahu"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ephilile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oku uYahwe akushoyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ushoyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ okho"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ngizokukhuluma"
+    }
+  ],
+  "timestamp": "2026-08-31T04:02:34.564634089Z",
+  "model": "glm-5.3"
+}

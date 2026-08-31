@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngoba noma ehlabisa izinhlungu, uzohlakanipha ngokweziningi zikhesedi yakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "ehlabisa izinhlungu"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "uzohlakanipha"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ngokweziningi"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:57:06.448450084Z",
+  "model": "glm-5.3"
+}

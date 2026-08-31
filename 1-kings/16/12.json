@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 16:12",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Wazenqabela uZimri ⟨את⟩ wonke indlu kaBhasha, njengomusho kaYahwe, owakhuluma ngokukaBhasha, ngesandla seYehu, umprofethi.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "wazenqabela"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "uZimri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke indlu kaBhasha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "kaBhasha"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "njengomusho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owa-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngokuka-"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Bhasha"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "seYehu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "umprofethi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:58:07.512223323Z",
+  "model": "glm-5.3"
+}

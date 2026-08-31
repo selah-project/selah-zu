@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 13:7",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Futhi amaHebheru adlula ⟨את⟩ uJordani eya ezweni laseGadi naseGileyadi; uShawuli wayesengaseGilgali, futhi wonke umuntu wakhathazeka ngokwesaba emva kwakhe.",
+  "tokens": [
+    {
+      "surface": "ועברים",
+      "gloss": "amaHebheru"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "adlula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uJordani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "uJordani"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "גד",
+      "gloss": "laseGadi"
+    },
+    {
+      "surface": "וגלעד",
+      "gloss": "naseGileyadi"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "עודנו",
+      "gloss": "wayese"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "engaseGilgali"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "חרדו",
+      "gloss": "wakhathazeka ngokwesaba"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "emva kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:02:21.192671240Z",
+  "model": "glm-5.3"
+}

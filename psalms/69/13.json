@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 69:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Abahlala esingeni bakhuluma ngami; futhi ngingoma yabaphuzi besiwashwasha.",
+  "tokens": [
+    {
+      "surface": "ישיחו",
+      "gloss": "bakhuluma"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngami"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abahlala"
+    },
+    {
+      "surface": "שער",
+      "gloss": "esingeni"
+    },
+    {
+      "surface": "ונגינות",
+      "gloss": "futhi ngingoma"
+    },
+    {
+      "surface": "שותי",
+      "gloss": "yabaphuzi"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "besiwashwasha"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:12.783108018Z",
+  "model": "glm-5.3"
+}

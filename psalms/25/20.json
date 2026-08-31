@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 25:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Yigade inefeshi yami undindle; ungangibambezeli ukweduka, ngoba ngithathe ukhuseleko kuwe.",
+  "tokens": [
+    {
+      "surface": "שמרה",
+      "gloss": "Yigade"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "והצילני",
+      "gloss": "undindle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungangibambezeli"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ukweduka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ngithathe ukhuseleko"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:54.099765022Z",
+  "model": "glm-5.3"
+}

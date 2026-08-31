@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "UDavide wezwa, wathuma ⟨את⟩ uYowabhu no-⟨את⟩ wonke umbutho weqhawe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wezwa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wathuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYowabhu"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYowabhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "wonke umbutho weqhawe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "umbutho"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "weqhawe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:35:30.770298169Z",
+  "model": "glm-5.3"
+}

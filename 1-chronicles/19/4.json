@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 19:4",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "UHanuni wathatha ⟨את⟩ izinceku zikaDavide, wazishavisa, wasika ⟨את⟩ izingubo zazo phakathi, kusakameni, wazithuma.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "UHanuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinceku zikaDavide"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "izinceku"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "zikaDavide"
+    },
+    {
+      "surface": "ויגלחם",
+      "gloss": "wazishavisa"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "wasika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingubo zazo"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "izingubo zazo"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המפשעה",
+      "gloss": "sakameni"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "wazithuma"
+    }
+  ],
+  "timestamp": "2026-08-31T08:26:32.674943509Z",
+  "model": "glm-5.3"
+}

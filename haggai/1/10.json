@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "haggai 1:10",
+  "book": "haggai",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngakho-ke ngenxa yenu amazulu avimbile umswakama, nomhlaba uvimbile umkhiqizo waso.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ngenxa ya-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "yenu"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "avimbile"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "umswakama"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "nomhlaba"
+    },
+    {
+      "surface": "כלאה",
+      "gloss": "uvimbile"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "umkhiqizo waso"
+    }
+  ],
+  "timestamp": "2026-08-31T05:41:36.718570199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ungabi yisoni kakhulu, ungabi lisiwula; kungani ungafa ngaphambi kwesikhathi sakho?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "bi yisoni"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi ungabi"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "bi"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "isiwula"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ungafa"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ngaphambi"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "kwesikhathi sakho"
+    }
+  ],
+  "timestamp": "2026-08-31T08:58:04.642691076Z",
+  "model": "glm-5.3"
+}

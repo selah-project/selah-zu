@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Baningi abathi kumiphefumulo wami: Akukho insindiso kuyena kuElohim. Selâ.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "baningi"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "abathi"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "kumiphefumulo wami"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "insindiso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selâ"
+    }
+  ],
+  "timestamp": "2026-08-31T05:46:08.641711064Z",
+  "model": "glm-5.3"
+}

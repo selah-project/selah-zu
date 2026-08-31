@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-samuel 14:35",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "UShawuli wakhela uYahwe i-altari ⟨את⟩ yona; ngayo waqala ukwakha i-altari kuYahwe.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wakhela"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "UShawuli"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altari"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona",
+      "marks": "i-altari"
+    },
+    {
+      "surface": "החל",
+      "gloss": "waqala"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ukwakha"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altari"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:22:33.146122349Z",
+  "model": "glm-5.3"
+}

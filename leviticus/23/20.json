@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 23:20",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Futhi umpristi uzozungeza ⟨את⟩bo ngokwenkwa yezibuto zokuqala — ukuzungeza phambi kukaYahwe — kanye namawundlu amabili; bayoba yingcwele kuYahwe, kumpristi.",
+  "tokens": [
+    {
+      "surface": "והניף",
+      "gloss": "uzozungeza"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩bo",
+      "marks": "amawundlu naminkwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngoku-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "inkwa"
+    },
+    {
+      "surface": "הבכורים",
+      "gloss": "yezibuto zokuqala"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "ukuzungeza"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kanye na-"
+    },
+    {
+      "surface": "שני",
+      "gloss": "amabili"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "amawundlu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "yingcwele"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bayoba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "kumpristi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:04:05.869151317Z",
+  "model": "glm-5.3"
+}

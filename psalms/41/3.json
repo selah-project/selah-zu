@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 41:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "uYahwe uzomgcina, azompilisa; uzuzisela ukuqotho ⟨ezweni⟩; futhi ungammniki izitha zakhe ekuthandweni kwazo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ישמרהו",
+      "gloss": "uzomgcina"
+    },
+    {
+      "surface": "ויחיהו",
+      "gloss": "azompilisa"
+    },
+    {
+      "surface": "יאשר",
+      "gloss": "uzuzisela ukuqotho"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi ungagi"
+    },
+    {
+      "surface": "תתנהו",
+      "gloss": "-mmniki"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ekuthandweni"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "izitha zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:58.381208945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Muhle kangakanani, futhi umnandi kangakanani, thandi, ngezinto ezimnandi!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kangakanani"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "uhle"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "futhi kangakanani"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "umnandi"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "thandi"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "ngezinto ezimnandi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:37:24.969940044Z",
+  "model": "glm-5.3"
+}

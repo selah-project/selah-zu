@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "UBalaki unyana kaTsipori wabona ⟨את⟩ koni akuenzayo uIsrayeli kuma-Emori.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "uBalaki"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana ka-"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Tsipori"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "koni akuenzayo uIsrayeli kuma-Emori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aku-"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "enzayo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "kuma-Emori"
+    }
+  ],
+  "timestamp": "2026-08-31T02:20:44.915327072Z",
+  "model": "glm-5.3"
+}

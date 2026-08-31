@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Uyahamba eNingizimu, futhi ujikelela eNyakathweni; ujike, ujike, umoya uyahamba; futhi emijikelezweni yawo umoya uyaphenduka.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "uyahamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "eningizimu"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "futhi ujikelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "enyakathweni"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "ujike"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "ujike"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "uyahamba"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi e"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "emijikelezweni yawo"
+    },
+    {
+      "surface": "שב",
+      "gloss": "uyaphenduka"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "umoya"
+    }
+  ],
+  "timestamp": "2026-08-31T07:43:47.630879246Z",
+  "model": "glm-5.3"
+}

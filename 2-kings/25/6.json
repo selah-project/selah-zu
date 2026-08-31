@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 25:6",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Bambamba ⟨את⟩ inkosi, bamukhuphula ⟨את⟩ kuyena inkosi yaseBhabheli, eRiblata; bakhuluma naye ⟨את⟩ icala.",
+  "tokens": [
+    {
+      "surface": "ויתפשו",
+      "gloss": "bambamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "bamukhuphula"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kuyena inkosi yaseBhabheli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "yaseBhabheli"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "eRiblata"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "bakhuluma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "naye ⟨את⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "icala"
+    }
+  ],
+  "timestamp": "2026-08-31T04:15:12.270928631Z",
+  "model": "glm-5.3"
+}

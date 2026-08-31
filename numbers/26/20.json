@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 26:20",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Abantwana bakaYehudha ngemindeni yabo babengaba: ku-Shelahi, umndeni waba-Shelani; ku-Perezi, umndeni waba-Parzi; kuZerahi, umndeni waba-Zarhi.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "babengaba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bakaYehudha"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngemindeni yabo"
+    },
+    {
+      "surface": "לשלה",
+      "gloss": "ku-Shelahi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umndeni"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "waba-Shelani"
+    },
+    {
+      "surface": "לפרץ",
+      "gloss": "ku-Perezi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umndeni"
+    },
+    {
+      "surface": "הפרצי",
+      "gloss": "waba-Parzi"
+    },
+    {
+      "surface": "לזרח",
+      "gloss": "kuZerahi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umndeni"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "waba-Zarhi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:22:22.303607819Z",
+  "model": "glm-5.3"
+}

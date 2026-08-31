@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Isitha samiswa phezu kweiYisraeli, samhlohla ⟨את⟩ uDavidi ukuba abale ⟨את⟩ iYisraeli.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "samiswa"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "isitha"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisraeli"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "samhlohla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDavidi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavidi"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "ukuba abale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisraeli"
+    }
+  ],
+  "timestamp": "2026-08-31T08:27:05.335597977Z",
+  "model": "glm-5.3"
+}

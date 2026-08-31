@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 66:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 66,
+  "translation": "Wozani nize nibone imisebenzi kaElohim; uyammesabisa ngezenzo zakhe ezinkulu phezu kwezinyawo zabantu.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Wozani"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "nize nibone"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "imisebenzi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "uyammesabisa"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "ngezenzo zakhe ezinkulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kwezinyawo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "zabantu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:22.334098719Z",
+  "model": "glm-5.3"
+}

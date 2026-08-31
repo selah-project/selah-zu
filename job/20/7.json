@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 20:7",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Njengendle yakhe (esiyinhlanhla nje) uyanyamalala kuze kube nini-na; abambona (izinyawo zakhe) bathi, (sengathi yena ungaphi?)",
+  "tokens": [
+    {
+      "surface": "כגללו",
+      "gloss": "njengendle yakhe"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kuze kube nini-na \/ kuqhelekane"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "uyanyamalala"
+    },
+    {
+      "surface": "ראיו",
+      "gloss": "abambona"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "איו",
+      "gloss": "ungaphi na?"
+    }
+  ],
+  "timestamp": "2026-08-31T07:19:51.007520595Z",
+  "model": "glm-5.3"
+}

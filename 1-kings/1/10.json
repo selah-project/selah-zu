@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 1:10",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kodwa ⟨את⟩ uNatani isiprofetho, noBenayahu, ⟨את⟩ amaqhawe, ⟨את⟩ noShelomo umfowabo akazange ababize.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uNatani"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "uNatani"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "isiprofetho"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "noBenayahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amaqhawe"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "amaqhawe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uShelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umfowabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akazange"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ababize"
+    }
+  ],
+  "timestamp": "2026-08-31T03:46:00.733035277Z",
+  "model": "glm-5.3"
+}

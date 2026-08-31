@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 12:3",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi wena, uYahwe, ungiyazi; ungiyibona, uhlole inhliziyo yami ⟨את⟩ nawe. Bahanhlukanise njengezimvu zokwehlwayo, futhi bazinikele osukwini lokubulawa.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Futhi wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "ungiyazi"
+    },
+    {
+      "surface": "תראני",
+      "gloss": "ungiyibona"
+    },
+    {
+      "surface": "ובחנת",
+      "gloss": "uhlole"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inhliziyo yami"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe",
+      "marks": "inhliziyo yami"
+    },
+    {
+      "surface": "התקם",
+      "gloss": "Bahanhlukanise"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "njengezimvu"
+    },
+    {
+      "surface": "לטבחה",
+      "gloss": "zokwehlwayo"
+    },
+    {
+      "surface": "והקדשם",
+      "gloss": "bazinikele"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "osukwini"
+    },
+    {
+      "surface": "הרגה",
+      "gloss": "lokubulawa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:43:54.805071872Z",
+  "model": "glm-5.3"
+}

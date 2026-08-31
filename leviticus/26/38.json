@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 26:38",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Nizofela ezizweni, yonke indawo yezitha zenu izodlela thina ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואבדתם",
+      "gloss": "nizofela"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ezizweni"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "izodlela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "thina (izitha zenu)"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "indawo \/ umhlaba"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "izitha zenu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:14:41.777015250Z",
+  "model": "glm-5.3"
+}

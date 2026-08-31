@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 26:8",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Yebo, endleleni yezinqumo zakho zokwahlulela, Yahwe, silindele wena; igama lakho nokukhunjulwa kwakho kuyisifiso semphefumulo.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "yebo"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "yezinqumo zakho zokwahlulela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "קוינוך",
+      "gloss": "silindele wena"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "ולזכרך",
+      "gloss": "nokukhunjulwa kwakho"
+    },
+    {
+      "surface": "תאות",
+      "gloss": "isifiso"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "emphefumulo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:08:04.937538572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 11:9",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Ngase ngithi, Angiyi ukwalusa ⟨את⟩ nina; ozofa afe, ozobhiywa abhiywe, futhi abasaleleyo badle, ilowo nalowo inyama yomakhelwane wakhe.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ngase ngithi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angiyi"
+    },
+    {
+      "surface": "ארעה",
+      "gloss": "ukwalusa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "המתה",
+      "gloss": "ozofa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "afe"
+    },
+    {
+      "surface": "והנכחדת",
+      "gloss": "ozobhiywa"
+    },
+    {
+      "surface": "תכחד",
+      "gloss": "abhiywe"
+    },
+    {
+      "surface": "והנשארות",
+      "gloss": "abasaleleyo"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "badle"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ilowo nalowo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "רעותה",
+      "gloss": "yomakhelwane wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:43:40.164515511Z",
+  "model": "glm-5.3"
+}

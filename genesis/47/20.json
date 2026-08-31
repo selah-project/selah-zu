@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 47:20",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 47,
+  "translation": "UYosefu wathenga ⟨את⟩ wonke umhlabathethu weGibhithe ukuba ube kaFaro, ngokuba amaGibhithe athengisa owesilwane nesinkambu yakhe, ngokuba indlala yabanzima ngaphezu kwabo, waba wonke umhlabathethu kaFaro.",
+  "tokens": [
+    {
+      "surface": "ויקן",
+      "gloss": "wathenga"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke umhlabathethu weGibhithe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "umhlabathethu"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weGibhithe"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "ukuba ube kaFaro"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "athengisa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "amaGibhithe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "owesilwane"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "nesinkambu yakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "yabanzima"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "ngaphezu kwabo"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "indlala"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlabathethu wonke"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kaFaro"
+    }
+  ],
+  "timestamp": "2026-08-31T01:25:14.237047377Z",
+  "model": "glm-5.3"
+}

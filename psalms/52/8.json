@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 52,
+  "translation": "Futhi abalungile bazobona, bazoyisaba, bazohleka kuyena.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "bazobona"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abalungile"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "bazoyisaba"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "bazohleka"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:18.485613823Z",
+  "model": "glm-5.3"
+}

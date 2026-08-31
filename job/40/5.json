@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Kanye ngikhulume, futhi angeke ngiphendule; kabili, futhi angeke ngengeze.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Kanye"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ngikhulume"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi angeke"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ngiphendule"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "kabili, futhi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ngengeze"
+    }
+  ],
+  "timestamp": "2026-08-31T07:31:07.179317061Z",
+  "model": "glm-5.3"
+}

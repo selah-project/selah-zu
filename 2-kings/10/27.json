@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-kings 10:27",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Babhidliza ⟨את⟩ intuli yeBhali, babhidliza ⟨את⟩ indlu yeBhali, bayibeka njengendawo yokuchitha kuze kube lamuhla.",
+  "tokens": [
+    {
+      "surface": "ויתצו",
+      "gloss": "Babhidliza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intuli yeBhali"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "intuli"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "yeBhali"
+    },
+    {
+      "surface": "ויתצו",
+      "gloss": "babhidliza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yeBhali"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "yeBhali"
+    },
+    {
+      "surface": "וישמהו",
+      "gloss": "bayibeka"
+    },
+    {
+      "surface": "למחראות",
+      "gloss": "njengendawo yokuchitha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lamuhla"
+    }
+  ],
+  "timestamp": "2026-08-31T04:07:28.072976514Z",
+  "model": "glm-5.3"
+}

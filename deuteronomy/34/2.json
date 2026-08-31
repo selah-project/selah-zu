@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Nanjengo-⟨את⟩ wonke uNafithali, no-⟨את⟩ umhlaba ka-Efrayimi noManase, nanjengo-⟨את⟩ wonke umhlaba kaYuda, kuye kulwandle olungasemuva.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "nanjengo-⟨את⟩",
+      "marks": "wonke uNafithali"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "uNafithali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "umhlaba ka-Efrayimi noManase"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ka-Efrayimi"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "noManase"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nanjengo-⟨את⟩",
+      "marks": "wonke umhlaba kaYuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kaYuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuye ku"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "olungasemuva"
+    }
+  ],
+  "timestamp": "2026-08-31T02:47:40.333605833Z",
+  "model": "glm-5.3"
+}

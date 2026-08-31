@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 145,
+  "translation": "Amehlo onke alindele wena, futhi wena unika bona ⟨את⟩ ukudla kwabo ngesikhathi sawo.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Amehlo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "alindele"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "futhi wena"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "unika"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukudla kwabo"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ukudla kwabo"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "ngesikhathi sawo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:45:22.716434322Z",
+  "model": "glm-5.3"
+}

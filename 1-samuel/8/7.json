@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 8:7",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "U-Yahwe wathi kuSamuel: Lalela izwi lebantu, ngakho konke okukhuluma kuwe; ngokuba ⟨את⟩ wena abakulahlanga, kodwa ⟨את⟩ mina bayilahla, ukuthi bengingabusi yibo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uSamuel"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Lalela"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lebantu"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ngakho konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku-"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "kukhuluma"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a- (cha)"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "bahlahla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mina"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "bahlahla"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "ukuthi bengibusi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "yibo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:02:48.943609047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 24:20",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Uma ushaya kukhothwa omuni wakho, ungabuyi ukuseshela emva kwakho; kumfokazi, kinesintu nasefelokazi kuyoba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תחבט",
+      "gloss": "ushaya kukhothwa"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "omuni wakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תפאר",
+      "gloss": "seshela"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "emva kwakho"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "kumfokazi"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "kinesintu"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "nasefelokazi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuyoba"
+    }
+  ],
+  "timestamp": "2026-08-31T02:43:10.481822406Z",
+  "model": "glm-5.3"
+}

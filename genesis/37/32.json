@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 37:32",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Bathumela ⟨את⟩ ihempe yemibala, bayisa kuyise bathi: 'Le siyitholile; qaphele ngesibindi, yihempe yomntwana wakho yini noma cha?'",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "Bathumela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihempe yemibala"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "ihempe"
+    },
+    {
+      "surface": "הפסים",
+      "gloss": "yemibala"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "bayisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "yise"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Le"
+    },
+    {
+      "surface": "מצאנו",
+      "gloss": "siyitholile"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "qaphele ngesibindi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngesibindi"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "yihempe"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "yomntwana wakho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yini"
+    },
+    {
+      "surface": "אם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    }
+  ],
+  "timestamp": "2026-08-31T01:19:28.749565582Z",
+  "model": "glm-5.3"
+}

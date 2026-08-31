@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 65,
+  "translation": "Umisela izintaba ngamandla akhe, eqhosha ngezenzakalo zamandla.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "Umisela"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "izintaba"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "ngamandla akhe"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "eqhosha"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "ngezenzakalo zamandla"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:36.572309901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 27:15",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Futhi uma lowo oyimgcwabhisa engakhokhelisa ⟨את⟩ indlu yayo, yohlanganisa ingxenye yesihlanu yesiliva sokulinganiswa kwakho phezu kwayo, futhi iyoba yakhe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "futhi uma"
+    },
+    {
+      "surface": "המקדיש",
+      "gloss": "lowo oyimgcwabhisa"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "engakhokhelisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yayo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "indlu yayo"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "yohlanganisa"
+    },
+    {
+      "surface": "חמישית",
+      "gloss": "ingxenye yesihlanu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "yesiliva"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "sokulinganiswa kwakho"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwayo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "futhi iyoba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:00:15.328238516Z",
+  "model": "glm-5.3"
+}

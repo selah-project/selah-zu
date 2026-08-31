@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 72:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 72,
+  "translation": "Osibushekile uYahwe uElohim, uElohim ka-Israyeli, owenza izimangaliso yedwa.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "osibushekile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "owenza"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "izimangaliso"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yedwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:55.440330111Z",
+  "model": "glm-5.3"
+}

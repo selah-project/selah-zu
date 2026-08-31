@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 38:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Ngokuba ngiye ngathi, angiphendule, ukuze bengajabuli ngami; lapho unyawo lwami lutyeba, benkhulisa ukulwa nami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ngiye ngathi"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ukuze bengajabuli"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bengajabuli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngami"
+    },
+    {
+      "surface": "במוט",
+      "gloss": "lapho lutyeba"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "unyawo lwami"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nami"
+    },
+    {
+      "surface": "הגדילו",
+      "gloss": "benkhulisa ukulwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:28.207407832Z",
+  "model": "glm-5.3"
+}

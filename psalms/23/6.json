@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 23:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Kuphela okuhle ne-ikhesedi ziyongilandela zonke izinsuku zokuphila kwami, futhi ngihlala endlini kaYahwe ube yisikhathi eside kakhulu sezinsuku.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "ne-ikhesedi"
+    },
+    {
+      "surface": "ירדפוני",
+      "gloss": "ziyongilandela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "zokuphila kwami"
+    },
+    {
+      "surface": "ושבתי",
+      "gloss": "futhi ngihlala"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlini ka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "isikhathi eside kakhulu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "sezinsuku"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:57.851423067Z",
+  "model": "glm-5.3"
+}

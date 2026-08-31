@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 135:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 135,
+  "translation": "Konke okuthandayo uYahwe akwenzile ezulwini nasemhlabeni, olwandle nakukho konke okuzulubili.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "okuthandayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akwenzile"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "nasemhlabeni"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nakukho konke"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "okuzulubili"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:55.783028294Z",
+  "model": "glm-5.3"
+}

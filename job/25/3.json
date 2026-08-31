@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 25:3",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Ingabe kunanani lamabutho akhe? Futhi phezulu kwabani ukukhanya kwakhe akuvuki?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "Ingabe kukhona"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "inanani"
+    },
+    {
+      "surface": "לגדודיו",
+      "gloss": "lamabutho akhe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi phezulu kwa-"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ubani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "akuvuki"
+    },
+    {
+      "surface": "אורהו",
+      "gloss": "ukukhanya kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:56:36.594556932Z",
+  "model": "glm-5.3"
+}

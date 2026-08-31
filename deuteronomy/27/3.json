@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 27:3",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Uzobhala phezu kwawo ⟨את⟩ wonke amazwi omthetho lo, ekugendweni kwakho, ukuze ungene ezweni uYahwe uElohim wakho anakupha kuwe — ilizwe elicichiza ubisi nobusi, njengoba uYahwe uElohim wobaba wakho ashoyo kuwe.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "Uzobhala"
+    },
+    {
+      "surface": "עליהן",
+      "gloss": "phezu kwawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke amazwi omthetho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "omthetho"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lo"
+    },
+    {
+      "surface": "בעברך",
+      "gloss": "ekugendweni kwakho"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ungene"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "anakupha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "elicichiza"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ubisi"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "nobusi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ashoyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "wobaba wakho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:43:12.865843152Z",
+  "model": "glm-5.3"
+}

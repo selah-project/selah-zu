@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 22:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Kuyena abokhokho bethu babethembele; babethembele, wabasindisa.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "babethembele"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "abokhokho bethu"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "babethembele"
+    },
+    {
+      "surface": "ותפלטמו",
+      "gloss": "wabasindisa"
+    }
+  ],
+  "timestamp": "2026-08-31T10:56:20.420982137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Futhi wabhidliza ⟨את⟩ ithempu lePenuweli, wabulala ⟨את⟩ amadoda edolobha.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ithempu lePenuweli"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "ithempu"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "lePenuweli"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "wabhidliza"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "wabulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadoda edolobha"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "edolobha"
+    }
+  ],
+  "timestamp": "2026-08-31T10:19:10.466261238Z",
+  "model": "glm-5.3"
+}

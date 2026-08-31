@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 21:16",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Ngingenawo amadlala na-ke ukuthi ningeze ⟨את⟩ lo ukuze aziphambanise lapha kimi? Ingabe lo uzongena endlini yami?",
+  "tokens": [
+    {
+      "surface": "חסר",
+      "gloss": "ngingenawo"
+    },
+    {
+      "surface": "משגעים",
+      "gloss": "amadlala"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "ningeze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "להשתגע",
+      "gloss": "ukuze aziphambanise"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "lapha kimi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "uzongena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ndlini yami"
+    }
+  ],
+  "timestamp": "2026-08-31T03:25:43.618213873Z",
+  "model": "glm-5.3"
+}

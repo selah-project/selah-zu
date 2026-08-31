@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 17:21",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "iYisraeli neMafilisiti zabalalela imigwaqo yempi phambene nemigwaqo yempi.",
+  "tokens": [
+    {
+      "surface": "ותערך",
+      "gloss": "zabalalela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisraeli"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "neMafilisiti"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "umugwaqo wempi"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "phambene ne-"
+    },
+    {
+      "surface": "מערכה",
+      "gloss": "umugwaqo wempi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:22:52.814121184Z",
+  "model": "glm-5.3"
+}

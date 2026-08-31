@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 18:16",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Ngoba uma bene ndaba ifika kimi, mina ngahlula phakathi komuntu nomakhelwane wakhe, ngabazisela ⟨את⟩ izimiso zika-Elohim nange⟨את⟩ ezinye izimiso zakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "bune"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ndaba"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ifika"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "ngahlula"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi ko-"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "no-"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "omakhelwane wakhe"
+    },
+    {
+      "surface": "והודעתי",
+      "gloss": "ngabazisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izimiso zika-Elohim"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "izimiso"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "zika-Elohim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izimiso zakhe"
+    },
+    {
+      "surface": "תורתיו",
+      "gloss": "izimiso zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:34:50.397932126Z",
+  "model": "glm-5.3"
+}

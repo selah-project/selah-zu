@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 116:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 116,
+  "translation": "Omithe amabelenti ukufa, futhi izinkinga zeSheol zangingidlangula; intsinkumbiso nesihawu ngangihlangabezana nazo.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "zangingizungele"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "amabelenti"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ukufa"
+    },
+    {
+      "surface": "ומצרי",
+      "gloss": "futhi izinkinga"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "iSheol"
+    },
+    {
+      "surface": "מצאוני",
+      "gloss": "zangingidlangula"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "insinkumbiso"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "futhi isihawu"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ngangihlangabezana nazo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:39.520032957Z",
+  "model": "glm-5.3"
+}

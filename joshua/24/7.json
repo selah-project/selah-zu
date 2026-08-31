@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 24:7",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Bakhala kuYahwe, wabe eseyibeka ubumnyama phakathi kwenu nabaMitsrayim, walethela olwandle phezu kwabo, walufihla bona; amehlo enu abona ⟨את⟩ loko engakwenzile eMitsrayim, nanahlala esigcawini izinsuku eziningi.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "bakhala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wabe eseyibeka"
+    },
+    {
+      "surface": "מאפל",
+      "gloss": "ubumnyama"
+    },
+    {
+      "surface": "ביניכם",
+      "gloss": "phakathi kwenu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "naba-"
+    },
+    {
+      "surface": "המצרים",
+      "gloss": "abaMitsrayim"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "walethela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "olwandle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "ויכסהו",
+      "gloss": "walufihla bona"
+    },
+    {
+      "surface": "ותראינה",
+      "gloss": "abona"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "amehlo enu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engakwenzile"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "engakwenzile"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "nanahlala"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "esigcawini"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "eziningi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:00:32.802629714Z",
+  "model": "glm-5.3"
+}

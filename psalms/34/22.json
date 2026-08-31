@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 34:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Okubi kuyabulala umoni, abazondayo umalulami bazakhalaza.",
+  "tokens": [
+    {
+      "surface": "תמותת",
+      "gloss": "kuyabulala"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umoni"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Okubi"
+    },
+    {
+      "surface": "ושנאי",
+      "gloss": "abazondayo"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umalulami"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "bazakhalaza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:16.933209185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "exodus 12:49",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Umthetho-odwa uzakuba yilowo-odwa kowazalwa ezweni nakowafikelayo ohamba phakathi kwenu.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Umthetho-odwa"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "odwa"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uzakuba"
+    },
+    {
+      "surface": "לאזרח",
+      "gloss": "kowazalwa ezweni"
+    },
+    {
+      "surface": "ולגר",
+      "gloss": "nakowafikelayo"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ohamba"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "phakathi kwenu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:31:48.737102084Z",
+  "model": "glm-5.3"
+}

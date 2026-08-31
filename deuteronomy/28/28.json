@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "uYahwe uzokushaya ngokuhlanya, futhi ngokufiphala kwamehlo, futhi ngokudangala kwenhliziyo.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "uzokushaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "ngokuhlanya"
+    },
+    {
+      "surface": "ובעורון",
+      "gloss": "futhi ngokufiphala kwamehlo"
+    },
+    {
+      "surface": "ובתמהון",
+      "gloss": "futhi ngokudangala"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "kwenhliziyo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:44:11.712588966Z",
+  "model": "glm-5.3"
+}

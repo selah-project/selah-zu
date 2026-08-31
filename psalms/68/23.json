@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 68,
+  "translation": "U-Adonayi wathi: Ngiyobuyisela eBashani, ngiyobuyisela emizinweni yolwandle.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "U-Adonayi"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "eBashani"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "Ngiyobuyisela"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ngiyobuyisela"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "emizinweni"
+    },
+    {
+      "surface": "ים",
+      "gloss": "yolwandle"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:32.222536267Z",
+  "model": "glm-5.3"
+}

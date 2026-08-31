@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 8:24",
+  "book": "ezra",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngaye ngahlukanisha abaholi abayishumi nambili abapristi, uSherebya, uChashabya, kanye nabo abafowabo abayishumi;",
+  "tokens": [
+    {
+      "surface": "ואבדילה",
+      "gloss": "ngahlukanisha"
+    },
+    {
+      "surface": "משרי",
+      "gloss": "abaholi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "abayishumi nambili"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨ishumi nambili⟩"
+    },
+    {
+      "surface": "לשרביה",
+      "gloss": "uSherebya"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "uChashabya"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "kanye nabo"
+    },
+    {
+      "surface": "מאחיהם",
+      "gloss": "abafowabo"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "abayishumi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:35:43.920575372Z",
+  "model": "glm-5.3"
+}

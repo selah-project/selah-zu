@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 85,
+  "translation": "Wathokozisa uYahwe izwe lakho, wabuyisela ukuthunjwa koYaakovi.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "Wathokozisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "izwe lakho"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "wabuyisela"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ukuthunjwa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakovi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:11.005672925Z",
+  "model": "glm-5.3"
+}

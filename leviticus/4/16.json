@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi umpristi ogcwele uzalethele ingxenye yegazi lomshunalalele etendeni le-Mowadi.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "Futhi uzalethele"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "ogcwele"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ingxenye yegazi la-"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lomshunalalele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tendeni le-"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "i-Mowadi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:51:53.106799159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 148:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 148,
+  "translation": "Wazimisa ⟨kuhlelele⟩ kuze kube phakade, isimiso wanika sona, ⟨את⟩ angeke sidlule.",
+  "tokens": [
+    {
+      "surface": "ויעמידם",
+      "gloss": "wazimisa"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "⟨kuhlelele⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חק",
+      "gloss": "isimiso"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wanika sona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "sidlule"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:22.122452169Z",
+  "model": "glm-5.3"
+}

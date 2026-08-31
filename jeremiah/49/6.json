@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Kodwa ngemva kwalokho ngizophendukisa ⟨את⟩ isigwegwe sabantwana baKamu abasonywayo, kusho uYahwe.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "Kodwa ngemva"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kwalo lokhu"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ngizophendukisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isigwegwe sabantwana baKamu abasonywayo"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "isigwegwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sabantwana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "baKamu"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kusho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:00:53.059852451Z",
+  "model": "glm-5.3"
+}

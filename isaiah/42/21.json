@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 42:21",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "uYahwe wathanda, ngenxa yokulunga kwakhe, ukukhulisa ithora nokuyenza inkazimulo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "wathanda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa yok"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ukulunga kwakhe"
+    },
+    {
+      "surface": "יגדיל",
+      "gloss": "ukukhulisa"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ithora"
+    },
+    {
+      "surface": "ויאדיר",
+      "gloss": "futhi ukuyenza inkazimulo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:29:44.291195395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 39:38",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "⟩No⟨⟨את⟩ i-altare yegolide, ⟩no⟨⟨את⟩ oli bokugcoba, ⟩no⟨⟨את⟩ incensi yezimunga, ⟩no⟨⟨את⟩ ikhava yesango seitenti",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i-altare yegolide"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "yegolide"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "oli bokugcoba"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "oli"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "bokugcoba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "incensi yezimunga"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "incensi"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "yezimunga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikhava yesango seitenti"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ikhava"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "yesango"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "seitenti"
+    }
+  ],
+  "timestamp": "2026-08-31T05:57:56.022543159Z",
+  "model": "glm-5.3"
+}

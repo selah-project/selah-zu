@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Yena wakha ⟨את⟩ i-Elothi, wabuyisela kwaYuda, emva kokulala kwenkosi nobaba bayo.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-Elothi"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "i-Elothi"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "wabuyisela"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "kwaYuda"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva koku-"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "kulala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "obaba bayo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:42:52.380560807Z",
+  "model": "glm-5.3"
+}

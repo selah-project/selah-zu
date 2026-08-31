@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 21:10",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi umfundisi omkhulu phakathi kwabafowabo, lowo ethulwa khona phezu kwekanda lakhe amafutha okugcoba, waliba ⟨את⟩ isandla sakhe ukuze agqoke ⟨את⟩ izingubo — ⟨את⟩ ikanda lakhe angeze alikhululela, futhi izingubo zakhe angeke azidabule.",
+  "tokens": [
+    {
+      "surface": "והכהן",
+      "gloss": "Futhi umfundisi"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "omkhulu"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "phakathi kwabafowabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "יוצק",
+      "gloss": "ethulwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ikanda lakhe"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "okugcoba"
+    },
+    {
+      "surface": "ומלא",
+      "gloss": "waliba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sakhe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "ללבש",
+      "gloss": "ukuzogqoka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingubo"
+    },
+    {
+      "surface": "הבגדים",
+      "gloss": "izingubo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikanda lakhe"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ikanda lakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeze"
+    },
+    {
+      "surface": "יפרע",
+      "gloss": "alikhululela"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "futhi izingubo zakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יפרם",
+      "gloss": "azidabule"
+    }
+  ],
+  "timestamp": "2026-08-31T02:02:36.636150732Z",
+  "model": "glm-5.3"
+}

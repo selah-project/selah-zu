@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 2:6",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ngathi: Uyaholaphi na? Wathi kimi: Ukuyolinganisa ⟨את⟩ iYerushalayimi, ukubona ukuthi ingakanani ububanzi bayo nokungakanani ubude bayo.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ngathi"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ngaphi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "uhamba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "למד",
+      "gloss": "ukulinganisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYerushalayimi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ukuthi ingakanani"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ububanzi bayo"
+    },
+    {
+      "surface": "וכמה",
+      "gloss": "nokuthi ingakanani"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "ubude bayo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:42:05.619008430Z",
+  "model": "glm-5.3"
+}

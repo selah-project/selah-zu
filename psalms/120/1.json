@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 120:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 120,
+  "translation": "Iculo lokwenyuka. KuYahwe, ensimini yami engxabanweni, ngimbizile, wahla abizela.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Iculo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lokwenyuka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בצרתה",
+      "gloss": "engxabanweni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yami"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ngimbizile"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "waphendula"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:56.979810511Z",
+  "model": "glm-5.3"
+}

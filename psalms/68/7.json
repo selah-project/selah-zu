@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 68:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 68,
+  "translation": "uElohim uhlalisa abayedwa emakhaya, ukhipha ababoshwe baya ekuphumeleleni; kepha abalahlileyo bahlala esweni elomile.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "מושיב",
+      "gloss": "uhlalisa"
+    },
+    {
+      "surface": "יחידים",
+      "gloss": "abayedwa"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "emakhaya"
+    },
+    {
+      "surface": "מוציא",
+      "gloss": "ukhipha"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "ababoshwe"
+    },
+    {
+      "surface": "בכושרות",
+      "gloss": "baya ekuphumeleleni"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kepha"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "abalahlileyo"
+    },
+    {
+      "surface": "שכנו",
+      "gloss": "bahlala"
+    },
+    {
+      "surface": "צחיחה",
+      "gloss": "esweni elomile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:41.791421567Z",
+  "model": "glm-5.3"
+}

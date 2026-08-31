@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 92,
+  "translation": "Kepha wena, uYahwe, uphakeme kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kepha wena"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "uphakeme"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:39.730531729Z",
+  "model": "glm-5.3"
+}

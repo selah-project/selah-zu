@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 119:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Wena uyalalela imiyalelo yakhe ukuyigcina ngokugcwele kakhulu;",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "צויתה",
+      "gloss": "uyalalela"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "imiyalelo yakho"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ukuyigcina"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ngokugcwele kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:51.585629078Z",
+  "model": "glm-5.3"
+}

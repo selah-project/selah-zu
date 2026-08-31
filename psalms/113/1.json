@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 113,
+  "translation": "Dumisani uYah; dumisani, zinceku zikaYahwe; dumisani igama likaYahwe ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "dumisani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dumisani"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "zinceku zi-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dumisani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama likaYahwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama li-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:53.663439387Z",
+  "model": "glm-5.3"
+}

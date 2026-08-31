@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi umphristi ogcotshiwe uzothatha egazini lenkabi, futhi uzoyiletha ⟨את⟩ etentini yokuhlangana.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "futhi uzothatha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umphristi"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "ogcotshiwe"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "egazini"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lenkabi"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "futhi uzoyiletha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "igazi lenkabi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "itenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuhlangana"
+    }
+  ],
+  "timestamp": "2026-08-31T01:52:55.226798993Z",
+  "model": "glm-5.3"
+}

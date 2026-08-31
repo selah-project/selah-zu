@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 92:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 92,
+  "translation": "Ngokuba ungijabulisile uYahwe ngosebenzo lwakho, ngokwemisebenzi yezandla zakho ngiyocula ngokwezwi eliphakeme.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שמחתני",
+      "gloss": "ungijabulisile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בפעלך",
+      "gloss": "ngosebenzo lwakho"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "ngokwemisebenzi"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "yezandla zakho"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "ngiyocula ngokwezwi eliphakeme"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:36.312946279Z",
+  "model": "glm-5.3"
+}

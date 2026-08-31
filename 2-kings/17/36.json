@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 17:36",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Kuphela ⟨את⟩ uYahwe — owayekhuphula ⟨את⟩ nina ezweni laseMitsrayim ngamandla amakhulu nangengalo etandiwe — yena niyomsaba, futhi niyokuthoba kuye, futhi niyomnikela ngaye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "wayekhuphula"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "ezweni laseMitsrayim"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ngamandla"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "nangengalo"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "etandiwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena niyomsaba"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "niyomsaba"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "futhi kuye"
+    },
+    {
+      "surface": "תשתחוו",
+      "gloss": "niyokuthoba"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "futhi kuye"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "niyomnikela"
+    }
+  ],
+  "timestamp": "2026-08-31T04:11:43.433330695Z",
+  "model": "glm-5.3"
+}

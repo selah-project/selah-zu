@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "uYaakob wathi: Thengisa kuleli langa ⟨את⟩ ilungelo lokuzalwa kuqala ku-mina.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakob"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "Thengisa"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "kuleli langa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilungelo lokuzalwa kuqala"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "ilungelo lokuzalwa kuqala lakho"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ku-mina"
+    }
+  ],
+  "timestamp": "2026-08-31T01:12:54.571161719Z",
+  "model": "glm-5.3"
+}

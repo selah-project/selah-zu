@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 78:72",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Wabalusa ngokungcebele kwenhliziyo yakhe, nangezinhlakanipho izandla zakhe wabahola.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "Wabalusa"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "ngokungcebele"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "kwenhliziyo yakhe"
+    },
+    {
+      "surface": "ובתבונות",
+      "gloss": "nangezinhlakanipho"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "izandla zakhe"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "wabahola"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:50.357303901Z",
+  "model": "glm-5.3"
+}

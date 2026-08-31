@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 4:4",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Kodwa akekho okufanele axabane nomunye, futhi akekho okufanele alingise umuntu; ngokuba isizwe sakho singabantu abaxabana nompristi.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kodwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "akekho okufanele axabane nomunye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akekho okufanele"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "axabane"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi akekho okufanele"
+    },
+    {
+      "surface": "יוכח",
+      "gloss": "alingise"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "isizwe sakho singabantu"
+    },
+    {
+      "surface": "כמריבי",
+      "gloss": "abaxabana"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "nompristi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:27:24.904989928Z",
+  "model": "glm-5.3"
+}

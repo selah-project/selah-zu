@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Inkosi yathi kuyena: Kunani na? Yathi: Qiniso, mina ngingowesifazane osizilele, futhi umyeni wami ushone.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kunani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "na"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "qiniso"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ningowesifazane"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "osizilele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ushone"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "umyeni wami"
+    }
+  ],
+  "timestamp": "2026-08-31T03:38:37.472624425Z",
+  "model": "glm-5.3"
+}

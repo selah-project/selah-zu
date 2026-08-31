@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 91,
+  "translation": "Awuzukwesaba ukwesaba ebusuku, nometho ondizayo emini;",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "awuzuku"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "mesaba"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "umetho"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "ondizayo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "emini"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:48.566701254Z",
+  "model": "glm-5.3"
+}

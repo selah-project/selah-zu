@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Manje, uhlakaniphe nokwazi anike mina, ukuze ngiphume ngingene phambi kwalesi sicukwana, ngokuba ngubani ozakwahlulela ⟨את⟩ lesi sicukwana sakho esikhulu?",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Manje"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "uhlakaniphe"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "nokwazi"
+    },
+    {
+      "surface": "תן",
+      "gloss": "anike"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "ukuze ngiphume"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lesicukwana"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le-"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "ngingene"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ozakwahlulela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lesi sicukwana sakho"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "sicukwana sakho"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le-"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "esikhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:30:11.300236584Z",
+  "model": "glm-5.3"
+}

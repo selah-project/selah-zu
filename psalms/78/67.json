@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Walahla itende likaYosefa, futhi wengu yesiEfrayimu ayikhethe.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "Walahla"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "itende"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "likaYosefa"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "futhi wengu yesi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi-"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "khethe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:31.363853459Z",
+  "model": "glm-5.3"
+}

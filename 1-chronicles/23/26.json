@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 23:26",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Futhi ngezeLaviyi akusekho ukwethwala ⟨את⟩ ithebheniyakhe nokuthwala ⟨את⟩ zonke izinto zalo, ukuze kunqunywe imisebenzi yalo.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "ngezeLaviyi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akusekho"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ukwethwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithebheniyakhe"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ithebheniyakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nokuthwala ⟨את⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "izinto zalo"
+    },
+    {
+      "surface": "לעבדתו",
+      "gloss": "imisebenzi yalo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:28:16.534129845Z",
+  "model": "glm-5.3"
+}

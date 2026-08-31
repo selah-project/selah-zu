@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 6:24",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "uYahwe wasiyalela ukwenza ⟨את⟩ zonke lezi zinhlelo, ukwesaba ⟨את⟩ uYahwe uElohim wethu, okuhle kithi nsuku zonke, ukusigcina siyaphila njengansuku yamanje.",
+  "tokens": [
+    {
+      "surface": "ויצונו",
+      "gloss": "wasiyalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke lezi zinhlelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "izinhlelo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "ליראה",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe uElohim wethu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kithi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "nsuku"
+    },
+    {
+      "surface": "לחיתנו",
+      "gloss": "ukusigcina siyaphila"
+    },
+    {
+      "surface": "כהיום",
+      "gloss": "njengansuku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "yamanje"
+    }
+  ],
+  "timestamp": "2026-08-31T02:31:43.986715996Z",
+  "model": "glm-5.3"
+}

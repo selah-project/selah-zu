@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 17:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Fakaza ikhesedi zakho umgcini, osindisa abathembekileyo ngesandla sakho sokudla esabhujisweni abavukelayo.",
+  "tokens": [
+    {
+      "surface": "הפלה",
+      "gloss": "Fakaza"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "ikhesedi zakho"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "osindisa"
+    },
+    {
+      "surface": "חוסים",
+      "gloss": "abathembekileyo"
+    },
+    {
+      "surface": "ממתקוממים",
+      "gloss": "esabhujisweni abavukelayo"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "ngesandla sakho sokudla"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:59.621461474Z",
+  "model": "glm-5.3"
+}

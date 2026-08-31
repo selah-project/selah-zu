@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Imali yomsebenzi yayinele yonke imisebenzi yokuyenza ⟨את⟩ yona, kanti kwaze kwasinda okungeziwe.",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "Imali yomsebenzi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "yayi"
+    },
+    {
+      "surface": "דים",
+      "gloss": "nele"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "imisebenzi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "yokuyenza"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yona (imisebenzi)"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "kanti kwaze kwasinda okungeziwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:49:09.042148752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Futhi ⟨את⟩ amadodana akhe uzowasondiza, uzobembesa ⟨ngayo⟩ yonke indwangu yephulo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "amadodana akhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "amadodana akhe"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "uzowasondiza"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "uzobembesa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bona"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "indwangu yephulo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:49:57.112866210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 14:3",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "uParo uzothi ngezentengiso zakwaIsrayeli abantwana bakaIsrayeli, Bethwaselwe yileli, ilibe livalile abantwana bakaIsrayeli inkangathi.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "uzothi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ngezabantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaIsrayeli"
+    },
+    {
+      "surface": "נבכים",
+      "gloss": "bethwaselwe yileli"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ababantu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ivalile"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "phezu kwabo"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "inkangathi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:33:50.141056800Z",
+  "model": "glm-5.3"
+}

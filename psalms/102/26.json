@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 102:26",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 102,
+  "translation": "Kwasemandulo umhlaba uwudale ngokwakhekelwayo, semiyesabhu la za leminyaka yazo.",
+  "tokens": [
+    {
+      "surface": "לפנים",
+      "gloss": "Kwasemandulo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "uwudale ngokwakhekelwayo"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "semiyesabhu"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "la"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ezulwini"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:19.932630425Z",
+  "model": "glm-5.3"
+}

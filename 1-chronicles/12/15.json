@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Laba bengamadodana kaGadi, amaholo omkhankaso; oyincane eqala ngoyikhulu, inkulu inani elifinyelele eliwunyaka.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Laba"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "bengamadodana ka"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "amaholo"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "omkhankaso"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eqala ngo"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "yikhulu"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "oyincane"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "inkulu"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "inani elifinyelele eliwunyaka"
+    }
+  ],
+  "timestamp": "2026-08-31T08:23:23.470252824Z",
+  "model": "glm-5.3"
+}

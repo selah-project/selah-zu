@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi inefeshi yami ithukuthele kakhulu; kodwa wena, uYahwe — kuze kube nini?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "Futhi inefeshi yami"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "ithukuthele"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kodwa wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nini"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:45.572184126Z",
+  "model": "glm-5.3"
+}

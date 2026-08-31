@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 16:8",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "U-Ahazi wathatha ⟨את⟩ isiliva no⟨את⟩ igolide okwatholakala enkathini kaYahwe nasematraini enkathini yenkosi, wathumela enkosini yase-Ashuru isipho.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "u-Ahazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiliva"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "igolide"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "okwatholakala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "enkathini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "nasematraini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "enkathini"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yenkosi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "enkosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "yase-Ashuru"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "isipho"
+    }
+  ],
+  "timestamp": "2026-08-31T04:12:14.752083966Z",
+  "model": "glm-5.3"
+}

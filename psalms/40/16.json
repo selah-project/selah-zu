@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Mababangele inhlanhla ngenxa yobuzela babo abashoyo kimi: He-aha, he-aha.",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "mababangele inhlanhla"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "umphumela"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "yobuzela babo"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "abashoyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He-aha"
+    },
+    {
+      "surface": "האח",
+      "gloss": "he-aha"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:11.411482954Z",
+  "model": "glm-5.3"
+}

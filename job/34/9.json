@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 34:9",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Ngoba ushilo ukuthi umuntu akananzuzo ekuthandeneni noElohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ushilo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "akananzuzo"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ברצתו",
+      "gloss": "ekuthandeneni kwakhe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T07:26:34.610298771Z",
+  "model": "glm-5.3"
+}

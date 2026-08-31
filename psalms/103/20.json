@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 103:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 103,
+  "translation": "Bukeleni uYahwe, izithunywa zakhe, anamandla ngamandla, enza ∙izwi lakhe⟨izwi lakhe⟩, ukulalela izwi laphakamisa ⟨izwi lakhe⟩ —",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bukeleni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מלאכיו",
+      "gloss": "izithunywa zakhe"
+    },
+    {
+      "surface": "גברי",
+      "gloss": "anamandla"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ngamandla"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "enza"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "izwi lakhe"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ukulalela"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "izwi laphakamisa"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "izwi lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:26.883705570Z",
+  "model": "glm-5.3"
+}

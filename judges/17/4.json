@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 17:4",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Wabuyisela ⟨את⟩ lesiliva kunina; unina wathatha amakhulu amabili yesiliva, wanikeza umkhandi-phezulu, wakwenza isithombe esikhunjiwe nesathunjiwe; kwaba endlwini kaMikhayihu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "Wabuyisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lesiliva"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "lesiliva"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "kunina"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "unina"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "amakhulu amabili"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "yesiliva"
+    },
+    {
+      "surface": "ותתנהו",
+      "gloss": "wanikeza"
+    },
+    {
+      "surface": "לצורף",
+      "gloss": "umkhandi-phezulu"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "wakwenza"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "isithombe esikhunjiwe"
+    },
+    {
+      "surface": "ומסכה",
+      "gloss": "nesathunjiwe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "kaMikhayihu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:03:10.601281477Z",
+  "model": "glm-5.3"
+}

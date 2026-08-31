@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 34:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Babukile kuye, bakhanya, futhi izibho zabo azange zihlazwe.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "babukile"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ונהרו",
+      "gloss": "bakhanya"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "izibho zabo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "azange"
+    },
+    {
+      "surface": "יחפרו",
+      "gloss": "zihlazwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:22.649256405Z",
+  "model": "glm-5.3"
+}

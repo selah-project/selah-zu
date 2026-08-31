@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 4:24",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi uzobeka isandla sakhe phezu kwekhanda lebhokhwe yesilisa, ayihlaba endaweni lapho kuhlalwa khona ⟨את⟩ iholoka phambi kukaYahwe; isiphephelo-sono ngiso.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "uzobeka"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kwekhanda"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "lebhokhwe yesilisa"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "ayihlaba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-yona",
+      "marks": "ibhokhwe"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "kuhlalwa khona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iholoka"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "iholoka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "isiphephelo-sono"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ngiso"
+    }
+  ],
+  "timestamp": "2026-08-31T01:52:13.591720387Z",
+  "model": "glm-5.3"
+}

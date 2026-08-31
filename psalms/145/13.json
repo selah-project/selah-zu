@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 145:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 145,
+  "translation": "IBukhosi bakho ⟨yi⟩bukhosi bezinkathi zonke, futhi umbuso wawo ⟨uhamba⟩ kuzo zonke izizukulwana nazozizukulwana.",
+  "tokens": [
+    {
+      "surface": "מלכותך",
+      "gloss": "IBukhosi bakho"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "bukhosi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "עלמים",
+      "gloss": "bezinkathi"
+    },
+    {
+      "surface": "וממשלתך",
+      "gloss": "futhi umbuso wawo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "דור",
+      "gloss": "izizukulwana"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "nazozizukulwana"
+    }
+  ],
+  "timestamp": "2026-08-31T06:45:22.715987231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "noku-Adorajimu nokuLakishi nokuAzeka",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no-",
+      "marks": "ku-Adorajimu"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "ku-Adorajimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no-",
+      "marks": "kuLakishi"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "kuLakishi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no-",
+      "marks": "kuAzeka"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "kuAzeka"
+    }
+  ],
+  "timestamp": "2026-08-31T08:33:47.258867473Z",
+  "model": "glm-5.3"
+}

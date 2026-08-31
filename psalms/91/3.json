@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 91,
+  "translation": "Ngokuba yena uzokukhipha esingcwecweni somdwebi nasezinkingweni ezingcolile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "uzokukhipha"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "esingcwecweni"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "somdwebi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "nasezinkingweni"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ezingcolile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:08.114566569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 30:30",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Futhi u-Aharon ⟨את⟩ nabantwana bakhe ⟨את⟩ uzobagcoba ngeoli, futhi uzoyingcweza ⟨את⟩ ukuba babe ngabapristi kimi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "u-Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "nabantwana bakhe"
+    },
+    {
+      "surface": "תמשח",
+      "gloss": "uzobagcoba ngeoli"
+    },
+    {
+      "surface": "וקדשת",
+      "gloss": "futhi uzoyingcweza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ukuba babe ngabapristi kimi"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ukuba babe ngabapristi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:08.989167469Z",
+  "model": "glm-5.3"
+}

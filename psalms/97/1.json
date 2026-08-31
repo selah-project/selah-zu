@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 97,
+  "translation": "uYahwe ubusise inkosi; mangajabula umhlaba; mazidwebule iziqhamo eziningi ezivela ezintweni zaselwandle.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ubusise inkosi"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "mangajabula"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "mazidwebule"
+    },
+    {
+      "surface": "איים",
+      "gloss": "iziqhamo ezivela ezintweni zaselwandle"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "eziningi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:35.237273955Z",
+  "model": "glm-5.3"
+}

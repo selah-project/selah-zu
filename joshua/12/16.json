@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "INKOSI YaseMakedah, eyodwa; inkosi yaseBethe Eli, eyodwa;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "uMakedah"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eyodwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu ka-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eyodwa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:53:51.583581426Z",
+  "model": "glm-5.3"
+}

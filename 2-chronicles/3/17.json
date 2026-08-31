@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Wayeseka amanzi okudla Israyeli: futhi wamisa ⟨את⟩ izinti ezimbili phambi kweNkosi yakhe, elilodwa ngakwesokudla, nelilodwa ngakwesokunene; ethi igama lelo elingakwesokudla libe uYakhini, nelilo elingakwesokunene libe uBoazi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinti (iziqhwala)"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "izinti"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezulu kuka-"
+    },
+    {
+      "surface": "פני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ithempile"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "ngakwesokudla"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "nelilodwa"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "ngakwesokunene"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "elingakwesokudla"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "uYakhini"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "negama"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "elingakwesokunene"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "uBoazi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:31:21.414956982Z",
+  "model": "glm-5.3"
+}

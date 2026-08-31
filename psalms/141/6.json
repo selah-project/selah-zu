@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 141:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 141,
+  "translation": "Abahluleli babo bayokwehliswa ezandleni zedwala, baze bezwa amazwi ami, ngoba muhle.",
+  "tokens": [
+    {
+      "surface": "נשמטו",
+      "gloss": "bayokwehliswa"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ezandleni"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "zedwala"
+    },
+    {
+      "surface": "שפטיהם",
+      "gloss": "abahluleli babo"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "baze bezwa"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "amazwi ami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "נעמו",
+      "gloss": "muhle"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:28.938118673Z",
+  "model": "glm-5.3"
+}

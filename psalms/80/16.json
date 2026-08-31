@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 80:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 80,
+  "translation": "nasihlalwa isandla sakho esiseduze esadukile, nendodana oyenzela wena uqobo ubenkani.",
+  "tokens": [
+    {
+      "surface": "וכנה",
+      "gloss": "nasihlalwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esadukile"
+    },
+    {
+      "surface": "נטעה",
+      "gloss": "esadukile"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "isandla sakho esiseduze"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi phezu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kwendodana"
+    },
+    {
+      "surface": "אמצתה",
+      "gloss": "oyenzela ubenkani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena uqobo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:49.243415742Z",
+  "model": "glm-5.3"
+}

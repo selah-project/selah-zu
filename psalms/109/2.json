@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Ngokuba umlomo wendawa nongamlomo wokwangcola bavulele phezu kwami; bakhuluma ⟨nami⟩ ⟨את⟩ ulimi lokubambeqaqa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umlomo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "wendawa"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "nongamlomo"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "wokwangcola"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "bavulele"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "bakhuluma"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nami"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ulimi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lokubambeqaqa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:56.985776037Z",
+  "model": "glm-5.3"
+}

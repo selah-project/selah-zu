@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Mungaphenduki ezithombeni, ningazenzi izithombe ezigcwatshiwe: mina nginguYahwe u-Elohim wenu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Munga"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "phenduki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "zithombe"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "izithombe"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "egcwatshiwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ninga"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "zenzi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nizenzela"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "u-Elohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:00:19.699016424Z",
+  "model": "glm-5.3"
+}

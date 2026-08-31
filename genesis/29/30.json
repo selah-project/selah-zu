@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Wangena futhi kuRakheli, wayemthanda futhi ⟨את⟩ uRakheli kunoLeya, wasebenza naye ezinye iminyaka eyisikhombisa ⟨ezinye⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wangena futhi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "uRakheli"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "wayemthanda"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uRakheli"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "uRakheli"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "kunoLeya"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "wasebenza"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ezinye"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "isikhombisa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "ezinye"
+    }
+  ],
+  "timestamp": "2026-08-31T10:10:59.657269526Z",
+  "model": "glm-5.3"
+}

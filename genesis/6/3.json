@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 6:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "uYahwe wathi: Umoya wami ngeke udlelise umuntu kuze kube phakade, ngoba ⟨ngoba⟩ yena unyama; futhi izinsuku zakhe ziyoba ngikhulu namashumi amabili unyaka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "ידון",
+      "gloss": "udlelise"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "Umoya wami"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "בשגם",
+      "gloss": "ngoba ⟨ngoba⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "unyama"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "ziyoba"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "izinsuku zakhe"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ngikhulu"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "namashumi amabili"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "unyaka"
+    }
+  ],
+  "timestamp": "2026-08-31T01:04:44.754337649Z",
+  "model": "glm-5.3"
+}

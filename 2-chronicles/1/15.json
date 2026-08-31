@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 1:15",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Inkosi yanika ⟨את⟩ isiliva neligolide eYerushalayimi njengoba zinjengezitshe, ⟨futhi⟩ ⟨את⟩ amareshi yanika njengemikhwanazi eso singaphansi ezweni olulele, ngobuningi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "yanika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiliva"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "igolide"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "כאבנים",
+      "gloss": "njengezitshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amareshi"
+    },
+    {
+      "surface": "הארזים",
+      "gloss": "amareshi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "yanika"
+    },
+    {
+      "surface": "כשקמים",
+      "gloss": "njengemikhwanazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eso"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "esingaphansi ezweni olulele"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ngobuningi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:30:04.175395905Z",
+  "model": "glm-5.3"
+}

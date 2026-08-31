@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 23:16",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "UYehonathani, indodana kaShawuli, wasuka waya kuDavide ehlathini, wamenzela amandla ⟨ngoku⟩ ku-Elohim.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wasuka"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "uYehonathani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shawuli"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "חרשה",
+      "gloss": "ehlathini"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "wamenzela amandla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sakhe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ku-Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T03:25:53.894649320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 107:33",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Uyenza imifula ibe yindawo yonile, futhi othwebula amanzi abe yindawo yokoma",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "uyenza"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "imifula"
+    },
+    {
+      "surface": "למדבר",
+      "gloss": "ibe yindawo yonile"
+    },
+    {
+      "surface": "ומוצאי",
+      "gloss": "futhi othwebula"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "לצמאון",
+      "gloss": "ibe yindawo yokoma"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:53.658367586Z",
+  "model": "glm-5.3"
+}

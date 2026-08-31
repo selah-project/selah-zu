@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 12:17",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi uYahwe washisa uParo ngizifo ezinkulu kanye nendlu yakhe, ngenxa yokwenzi kwakaSarayi, umkami ka-Avraham.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "washisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uParo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "נגעים",
+      "gloss": "izifo"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "ezinkulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yakhe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "indlu yakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yokwenzi"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "kaSarayi"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umkami"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ka-Avraham"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:31.326034042Z",
+  "model": "glm-5.3"
+}

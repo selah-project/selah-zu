@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "UDavide wazifihla ensimini; kwafika inyanga entsha, inkosi yahlala etafileni yokudla ukudla.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "wazifihla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ensimini"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwafika"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "inyanga-entsha"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "yahlala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "etafileni"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "yokudla"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ukudla"
+    }
+  ],
+  "timestamp": "2026-08-31T03:23:31.425463694Z",
+  "model": "glm-5.3"
+}

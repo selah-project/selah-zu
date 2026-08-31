@@ -1,0 +1,137 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 35:5",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Futhi niyokulinga ngaphandle kwedolobha ⟨את⟩ icala lokuphambili izinkulungwane ezimbili nge-amha, no-⟨את⟩ icala laseningizimu izinkulungwane ezimbili nge-amha, no-⟨את⟩ icala lolwandle izinkulungwane ezimbili nge-amha, no-⟨את⟩ icala lasenyakatho izinkulungwane ezimbili nge-amha, futhi idolobha liphakathi — lokhu kuzoba yizingadi zale dolobha.",
+  "tokens": [
+    {
+      "surface": "ומדתם",
+      "gloss": "niyokulinga"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kedolobha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icala lokuphambili"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "icala"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "lokuphambili"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "izinkulungwane ezimbili"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "nge-amha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "icala laseningizimu"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "icala"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "laseningizimu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "izinkulungwane ezimbili"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "nge-amha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "icala lolwandle"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "icala"
+    },
+    {
+      "surface": "ים",
+      "gloss": "lolwandle"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "izinkulungwane ezimbili"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "nge-amha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "icala lasenyakatho"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "icala"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "lasenyakatho"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "izinkulungwane ezimbili"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "nge-amha"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "futhi idolobha"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "liphakathi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuzoba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "מגרשי",
+      "gloss": "izingadi"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "zale dolobha"
+    }
+  ],
+  "timestamp": "2026-08-31T02:28:50.655251046Z",
+  "model": "glm-5.3"
+}

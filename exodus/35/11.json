@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 35:11",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "⟨את⟩ ithabernakele, ⟨את⟩ ithenti yalo, no⟨את⟩ isikhembuso salo, ⟨את⟩ iziklasi zalo no⟨את⟩ amabhodi alo, ⟨את⟩ izibhari zawo, ⟨את⟩ izinkolamu zawo, no⟨את⟩ izisekelo zawo;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithabernakele"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ithabernakele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithenti yalo"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "ithenti yalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩"
+    },
+    {
+      "surface": "מכסהו",
+      "gloss": "isikhembuso salo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iziklasi zalo"
+    },
+    {
+      "surface": "קרסיו",
+      "gloss": "iziklasi zalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩"
+    },
+    {
+      "surface": "קרשיו",
+      "gloss": "amabhodi alo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izibhari zawo"
+    },
+    {
+      "surface": "בריחו",
+      "gloss": "izibhari zawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinkolamu zawo"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "izinkolamu zawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "izisekelo zawo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:43:55.542576576Z",
+  "model": "glm-5.3"
+}

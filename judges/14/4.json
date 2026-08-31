@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 14:4",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Uyise nonina babengazi ukuthi kusuka kuYahwe kwakungu ⟨yona⟩; ukuthi ithuba wayelilinda elivela kumaPelishti; futhi ngaleso sikhathi amaPelishi ayebusa kuIsrayeli.",
+  "tokens": [
+    {
+      "surface": "ואביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "nonina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "babengazi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "babengazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "kusuka kuYahwe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kwakungu yona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "ithuba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "wayelilinda"
+    },
+    {
+      "surface": "מפלשתים",
+      "gloss": "kumaPelishti"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "futhi ngaleso sikhathi"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaPelishi"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "ayebusa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kuIsrayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:09:09.801356318Z",
+  "model": "glm-5.3"
+}

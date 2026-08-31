@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "uElohim wazwa lokhu, wathukuthela, wanyanyazela kakhulu iIsrayeli.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "wazwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "wathukuthela"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "wanyanyazela"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "iIsrayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:39.225285128Z",
+  "model": "glm-5.3"
+}

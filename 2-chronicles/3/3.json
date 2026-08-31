@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 3:3",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi lezi yizinsimbi uShelomoh azisela ukwakha ⟨את⟩ indlu ka-Elohim: ubude ngama-ama ngokwelinganiso yokuqala, ama-ama ayisithupha, nobubanzi ngama-ama angamashumi amabili.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "הוסד",
+      "gloss": "yizinsimbi azisela"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ukwakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu ka-Elohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ka-Elohim"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "ubude"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ngama-ama"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "ngokwelinganiso"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "yokuqala"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ama-ama"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ayisithupha"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "nobubanzi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ngama-ama"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "angamashumi amabili"
+    }
+  ],
+  "timestamp": "2026-08-31T08:31:41.860637904Z",
+  "model": "glm-5.3"
+}

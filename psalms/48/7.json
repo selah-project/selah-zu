@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 48,
+  "translation": "Ukuzamazama kwabathatha lapho, isizinba njengowesifazane ozalayo.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "ukuzamazama"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "kwabathatha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "isizinba"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "njengowesifazane ozalayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:56.615650469Z",
+  "model": "glm-5.3"
+}

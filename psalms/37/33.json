@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 37:33",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "uYahwe angeke ⟨amshiye⟩ esandleni ⟨sake⟩, futhi angeke [amenze] ⟨ongalungile⟩ [phansi] emahlulelweni [ako].",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "amshiye"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "esandleni sake"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi angeke"
+    },
+    {
+      "surface": "ירשיענו",
+      "gloss": "amenze ongalungile"
+    },
+    {
+      "surface": "בהשפטו",
+      "gloss": "emahlulelweni ako"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:43.573762587Z",
+  "model": "glm-5.3"
+}

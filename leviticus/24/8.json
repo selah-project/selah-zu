@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 24:8",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Ngosuku olunguShabbat, ngalowo mlanga uShabbat, uyozibeka ngokulandelana phambi kukaYahwe njalo, ⟨את⟩ zithathwa kubantwabenziSrayeli, umisomthetho waphakade.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "olunguShabbat"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalowo mlanga"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "uShabbat"
+    },
+    {
+      "surface": "יערכנו",
+      "gloss": "uyozibeka ngokulandelana"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "izinkwa zesigaba (izibekwa ngokulandelana)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kubantwaba-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "-nenziSrayeli"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "umisomthetho"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "waphakade"
+    }
+  ],
+  "timestamp": "2026-08-31T10:14:28.947370554Z",
+  "model": "glm-5.3"
+}

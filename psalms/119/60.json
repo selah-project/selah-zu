@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngishesha, futhi angizange ngilibazise, ukugcina imiyalo yakho.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "ngishesha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi angizange"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "ngilibazise"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ukugcina"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "imiyalo yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:13.124503127Z",
+  "model": "glm-5.3"
+}

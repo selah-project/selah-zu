@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 12:20",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi uParo wayalela ⟨את⟩ amadoda ngaye; basesithumela ⟨את⟩ yena kanye ⟨את⟩ nenkosi yakhe kanye ⟨את⟩ nakho konke okwayeyakhe.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ngaye"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "וישלחו",
+      "gloss": "basesithumela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi yakhe"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "inkosi yakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nakho konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nakho konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwayeyakhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "okwayeyakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:31.326653935Z",
+  "model": "glm-5.3"
+}

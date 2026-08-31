@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "UMoshe wathatha ⟨את⟩ amafutha okugcoba, wagcoba ⟨את⟩ ithenti yokuhlala ⟨את⟩ nayo yonke into engaphakathi kuyo, wayeyenza ingcwele.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "UMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amafutha okugcoba"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "okugcoba"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "wagcoba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithenti yokuhlala"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ithenti yokuhlala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "yonke into engaphakathi kuyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "into"
+    },
+    {
+      "surface": "בו",
+      "gloss": "engaphakathi kuyo"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "wayeyenza ingcwele"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izonke (ithenti nazo zonke izinto zayo)"
+    }
+  ],
+  "timestamp": "2026-08-31T01:53:40.580416077Z",
+  "model": "glm-5.3"
+}

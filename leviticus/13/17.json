@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 13:17",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Futhi umpristi ambone, futhi bheka, isilonda siphenduke liluhle, futhi umpristi uzokhulula ⟨את⟩ isilonda; luhle yilona.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "futhi ambone"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "futhi bheka"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "siphenduke"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "isilonda"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "liluhle"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "futhi uzokhulula"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isilonda"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "isilonda"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "luhle"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilona"
+    }
+  ],
+  "timestamp": "2026-08-31T01:57:28.359682993Z",
+  "model": "glm-5.3"
+}

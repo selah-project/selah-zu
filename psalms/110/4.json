@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 110,
+  "translation": "uYahwe wafunga, futhi ngeke asuse isandla: Ungumpristi kuze kube phakade, ngokomthetho kaMalki-Tsedek.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "wafunga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi ngeke"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "asuse isandla"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ungumpristi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokomthetho kaMalki-Tsedek — ngaphezu kokuthi"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ngendlela kaMalki-Tsedek"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kaMalki-Tsedek (inkosi)"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "(kulungile)"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:50.044426593Z",
+  "model": "glm-5.3"
+}

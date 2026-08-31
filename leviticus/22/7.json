@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Futhi ilanga lingenile, indoda ihlanzekile, bese ngemva kwalokho idla ezintweni ezingcwele, ngokuba lelo yinkukhu yakhe.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ngenile"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "ihlanzekile"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ngemva kwalokho"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "idla"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ezintweni"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ezingcwele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "yinkukhu yakhe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lelo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:53:02.478000316Z",
+  "model": "glm-5.3"
+}

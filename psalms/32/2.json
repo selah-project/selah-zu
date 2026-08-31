@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Ubusisiwe umuntu uYahwe angamlanganiseli ona; futhi angekho emzimbeni wakhe wokwenza ngebuqili.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ubusisiwe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "langaniseli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "m"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ona"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi angekho"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "emzimbeni wakhe"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ukwenza ngebuqili"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:26.265217754Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 7:12",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ngokuthi esithunzini sehlakaniphi, esithunzini selanga lesilivela emthini wesilivela esihle, kodwa ukwaziswa kwehlakaniphi kuyaphila ngesikhathi ubunikazi bobuso bayo obuhle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuthi"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "esithunzini"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "sehlakaniphi"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "esithunzini"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "selanga lesilivela emthini wesilivela esihle"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "kodwa ukwaziswa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kwehlakaniphi kuyaphila"
+    },
+    {
+      "surface": "החכמה",
+      "gloss": "kwehlakaniphi"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "kuyaphilisa"
+    },
+    {
+      "surface": "בעליה",
+      "gloss": "abanikazi bayo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:46:37.464475016Z",
+  "model": "glm-5.3"
+}

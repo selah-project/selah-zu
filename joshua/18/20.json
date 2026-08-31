@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 18:20",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "IYordani yamisa ⟨את⟩ umkhawulo ngasempumalanga. Le ngafa labantwana bakaBhenjamini ngemingcele yayo ejikeleze, ngezindlu zabo.",
+  "tokens": [
+    {
+      "surface": "והירדן",
+      "gloss": "IYordani"
+    },
+    {
+      "surface": "יגבל",
+      "gloss": "yamisa umkhawulo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "umkhawulo"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ngase-"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "mpumalanga"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Le"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ngafa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "labantwana"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "bakaBhenjamini"
+    },
+    {
+      "surface": "לגבולתיה",
+      "gloss": "ngemingcele yayo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ejikeleze"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngezindlu zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:56:51.667529857Z",
+  "model": "glm-5.3"
+}

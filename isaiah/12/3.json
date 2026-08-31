@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi nizokhomba amanzi ngujabulo emithelelaneni yokusindisa.",
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "futhi nizokhomba"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "ngujabulo"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "emithelelaneni"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "yokusindisa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:19:39.499486254Z",
+  "model": "glm-5.3"
+}

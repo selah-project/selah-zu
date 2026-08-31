@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 19:10",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "UShawuli wafuna ukumushaya ngoDawidi ngehlombe aze abambe — kodwa uDawidi waphuma, wabaleka kude noShawuli; wahlasela ophahleni (wayezama ukubamba uDawidi) wangena ophahleni. UDawidi wabaleka, wabalekela ubusuku bobo.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "wafuna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "ukumushaya"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "ngehlombe (umkhonto)"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "ובקיר",
+      "gloss": "ophahleni"
+    },
+    {
+      "surface": "ויפטר",
+      "gloss": "waphuma (wabalekela)"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "kude no-"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wahlasela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umkhonto (חנית)"
+    },
+    {
+      "surface": "החנית",
+      "gloss": "umkhonto"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "ophahleni"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "נס",
+      "gloss": "wabaleka"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "wabalekela (wasindisa)"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ubusuku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "bobo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:24:29.861002679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Phakathi kwezinkohlakali ezihlekisayo ethebeni, bezinqenqema izinyo zabo phezu kwami.",
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "phakathi kwezinkohlakali"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "ezihlekisayo"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "ethebeni"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "bezinqenqema"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "izinyo zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:19.963614988Z",
+  "model": "glm-5.3"
+}

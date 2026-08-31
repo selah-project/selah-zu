@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 3:15",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi ⟨את⟩ izintso eziyisibambi no-⟨את⟩ amafutha aphezu kwazo, asentweni kwezilindi, no-⟨את⟩ icala lesibindi, kanye nezintso uzolisusa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "izintso eziyisibambi"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "eziyisibambi"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "izintso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "amafutha"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "asentweni"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "phezu kwazo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esentweni"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwe"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "zilindi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "icala lesibindi"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "icala lesibindi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kw"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "esibindi"
+    },
+    {
+      "surface": "על",
+      "gloss": "kanye nez"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "intso"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "uzolisusa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:50:31.479858445Z",
+  "model": "glm-5.3"
+}

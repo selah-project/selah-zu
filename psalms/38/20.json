@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 38:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Izitha zami ziyaphila, zinamandla; futhi abazondayo ngesimanga sebebandzi.",
+  "tokens": [
+    {
+      "surface": "ואיבי",
+      "gloss": "Izitha zami"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ziyaphila"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "zinamandla"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "futhi sebebandzi"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "abazondayo"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ngesimanga"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:28.208003417Z",
+  "model": "glm-5.3"
+}

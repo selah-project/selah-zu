@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 14:5",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Kwathi lapho umbuso usuthile esandleni sakhe, wabulala ⟨את⟩ izinceku zakhe ezabe zibulale ⟨את⟩ inkosi uyise.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "usuthile"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "umbuso"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "esandleni sakhe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wabulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinceku zakhe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "izinceku zakhe"
+    },
+    {
+      "surface": "המכים",
+      "gloss": "ezabe zibulale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi uyise"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    }
+  ],
+  "timestamp": "2026-08-31T04:09:56.724560750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 20:12",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Hlonipha ⟨את⟩ uyihlo wakho ⟨את⟩ nomama wakho, ukuze insuku zakho zide emhlabeni uYahwe uElohim wakho anikelayo.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Hlonipha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyihlo wakho"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uyihlo wakho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nomama wakho"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "nomama wakho"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "יארכון",
+      "gloss": "zide"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "insuku zakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "onikelayo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:00.471036444Z",
+  "model": "glm-5.3"
+}

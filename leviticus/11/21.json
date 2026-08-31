@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 11:21",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Kodwa le ⟨את⟩ nizoyidla kuyo yonke into esinyangazelelayo esinamaphiko, ehamba ngamazinyawo amane, enawo amadolo ngaphezu kweenyawo zayo, ukutsheka ngazo phansi emhlabeni.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kodwa kuphela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nizoyidla"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuyo yonke"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "into esinyangazelelayo"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "esinamaphiko"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "amine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ena-"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "כרעים",
+      "gloss": "amadolo"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ngaphezu"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "kweenyawo zayo"
+    },
+    {
+      "surface": "לנתר",
+      "gloss": "ukutsheka"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ngazo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phansi e-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mhlabeni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:53:53.992338597Z",
+  "model": "glm-5.3"
+}

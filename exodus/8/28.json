@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Futhi uParo waqinisa ⟨את⟩ inhliziyo yakhe, nalokhu ngalesi sikhashana, futhi wangethumi ⟨את⟩ abantu.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "futhi waqinisa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inhliziyo yakhe"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inhliziyo yakhe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nalokhu"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ngalesi sikhashana"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lesi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi ange-"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "thuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:47.843100076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 40:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Wabeka emlonyeni wami izingoma entsha, udumo ku-Elohim wethu; abaningi bayobona, bayesaba, bayothemba uYahwe.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Wabeka"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "emlonyeni wami"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "izingoma"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "entsha"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "udumo"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ku-Elohim wethu"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bayobona"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "abaningi"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "bayesaba"
+    },
+    {
+      "surface": "ויבטחו",
+      "gloss": "bayothemba"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:11.272234520Z",
+  "model": "glm-5.3"
+}

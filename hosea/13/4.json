@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 13:4",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "NginguYahwe uElohim wakho kusukela ezweni leMitsrayim; u-Elohim ongaphandle kwami awumazi, umsindisi angekho — ngaphandle kwami.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "ngingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "leMitsrayim"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ongaphandle kwami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ange"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "umazi"
+    },
+    {
+      "surface": "ומושיע",
+      "gloss": "umsindisi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "angekho"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ngaphandle kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:35.360558738Z",
+  "model": "glm-5.3"
+}

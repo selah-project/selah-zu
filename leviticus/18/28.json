@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 18:28",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "futhi umhlaba ungaphalazi ⟨את⟩ thina ekunukholiseni ⟨את⟩ yona, njengoba uphalaze ⟨את⟩ isizwe esasiphambili kwenu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "futhi ungabi"
+    },
+    {
+      "surface": "תקיא",
+      "gloss": "uphalaze"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ thina",
+      "marks": "thina ekunukholiseni"
+    },
+    {
+      "surface": "בטמאכם",
+      "gloss": "ekunukholiseni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yona",
+      "marks": "yona (umhlaba)"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "קאה",
+      "gloss": "uphalaze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isizwe"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esasi"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "phambi kwenu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:59:03.035780787Z",
+  "model": "glm-5.3"
+}

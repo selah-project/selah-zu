@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 42:10",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Uma nempela nihlala ezweni eli, ngizanisakha futhi angidlubuli; ngizanilima futhi anganisiki; ngokuba ngizwelile ngesici engakwenzile kinina.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "nempela"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "nihlala"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "eli"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "ngizanisakha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-nin",
+      "marks": "nin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi anga-"
+    },
+    {
+      "surface": "אהרס",
+      "gloss": "ngidlubuli"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ngizanilima"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-nin",
+      "marks": "nin"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi anga-"
+    },
+    {
+      "surface": "אתוש",
+      "gloss": "nginisiki"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "ngizwelile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "isici"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engakwenzile"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "(ngakwenzile)"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kinina"
+    }
+  ],
+  "timestamp": "2026-08-31T04:59:52.390196568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 36:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Intshontsho yesono ithi kuniṋoni, enhlizini yami: akukho ukwesaba uElohim phambi kwamehlo akhe.",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "Intshontsho yesono ithi"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "isiphambano"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "kuniṋoni"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "enhlizini yami"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "amehlo akhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:16.674320968Z",
+  "model": "glm-5.3"
+}

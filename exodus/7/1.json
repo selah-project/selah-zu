@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 7:1",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Wayesephendula uYahwe uMoshe: Bheka, ngikubekile wena uElohim kuParo, futhi u-Aharon umfowenu uzuba mphrofethi wakho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesephendula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ngikubekile wena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kuParo"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "futhi u-Aharon"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "umfowenu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uzuba"
+    },
+    {
+      "surface": "נביאך",
+      "gloss": "mphrofethi wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T01:29:02.040475380Z",
+  "model": "glm-5.3"
+}

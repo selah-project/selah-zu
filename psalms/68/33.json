@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 68,
+  "translation": "Imiphakathi yezwe, culani kuElohim, zendeleni ngomculo ku-Adonayi. Selah.",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "imiphakathi yezwe (izindlela ezibusayo)"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yezwe"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "culani"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "zendeleni ngomculo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ku-Adonayi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah."
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:00.943154474Z",
+  "model": "glm-5.3"
+}

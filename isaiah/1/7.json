@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 1:7",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Izwe lakini liyindawo engaseluphi, amadolobha akenu ashisiwe ngumlilo; umhlabakazi wenu, phambi kwenu abayizizwe bangena beyidla ⟨את⟩ yena, futhi uyindawo engaseluphi njengokujulwa kwabangeni.",
+  "tokens": [
+    {
+      "surface": "ארצכם",
+      "gloss": "izwe lakini"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "liyindawo engaseluphi"
+    },
+    {
+      "surface": "עריכם",
+      "gloss": "amadolobha akenu"
+    },
+    {
+      "surface": "שרפות",
+      "gloss": "ashisiwe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ngumlilo"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "umhlabakazi wenu"
+    },
+    {
+      "surface": "לנגדכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "abayizizwe bangena"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "beyidla"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yena (umhlabakazi wenu)"
+    },
+    {
+      "surface": "ושממה",
+      "gloss": "futhi uyindawo engaseluphi"
+    },
+    {
+      "surface": "כמהפכת",
+      "gloss": "njengokujulwa"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "kwabangeni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:08:35.544300501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 21:30",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi kulo isizwe sika-Asheri ⟨את⟩ iMishali no-⟨את⟩ izinkundla zayo, ⟨את⟩ i-Abdoni no-⟨את⟩ izinkundla zayo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kulo isizwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ika-Asheri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iMishali"
+    },
+    {
+      "surface": "משאל",
+      "gloss": "iMishali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "izinkundla zayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "izinkundla zayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-Abdoni"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "i-Abdoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "izinkundla zayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "izinkundla zayo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:58:25.789982578Z",
+  "model": "glm-5.3"
+}

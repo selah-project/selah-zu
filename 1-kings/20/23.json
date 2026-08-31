@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 20:23",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Izinceku zenkosi yakwa-Aram zathi kuyena: Ama-Elohim awo ngama-Elohim ezintaba; ngakho-ke aphakeme kunathi; kepha asilwe ⟨את⟩ nabo emhlabathini olingenile — kungasiye ukuthi asingeke sabamba amandla kunabo?",
+  "tokens": [
+    {
+      "surface": "ועבדי",
+      "gloss": "izinceku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "yakwa-Aram"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "zathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ama-Elohim"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ezintaba"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "awo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngakho-ke (ngoba)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "aphakeme kunathi"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kunathi"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "kepha"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "asilwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nabo"
+    },
+    {
+      "surface": "במישור",
+      "gloss": "emhlabathini olingenile"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kungasiye ukuthi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "נחזק",
+      "gloss": "sabamba amandla"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kunabo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:00:48.695391845Z",
+  "model": "glm-5.3"
+}

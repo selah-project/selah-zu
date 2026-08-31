@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Wanikela ngelizwi lakhe ⟨את⟩ ekhala; wonke amaMitsri bazwa, futhi indlu kaParo yazwa.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wanikela nge-"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi lakhe"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "izwi lakhe"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "ekhala"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "bazwa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "wonke amaMitsri"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "yazwa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:24:33.909615461Z",
+  "model": "glm-5.3"
+}

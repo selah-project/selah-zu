@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "wasifisa eduze laleli ndawo, wasinikeza ⟨את⟩ leli zwe, zwe elichitheka ubisi nenosi.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "wasifisa eduze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "la-"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wasinikeza"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨thina⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leli zwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zwe"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "leli"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zwe"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "elichitheka"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ubisi"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "nenosi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:42:13.667602164Z",
+  "model": "glm-5.3"
+}

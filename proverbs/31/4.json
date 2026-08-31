@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 31:4",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Akusilanga izinkosi, Lemuely, akusilanga izinkosi ukuphuza iwini, noma ababusi ukulangazelela utshwala.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Akusilanga"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "izinkosi"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Lemuely"
+    },
+    {
+      "surface": "אל",
+      "gloss": "akusilanga"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "izinkosi"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "ukuphuza"
+    },
+    {
+      "surface": "יין",
+      "gloss": "iwini"
+    },
+    {
+      "surface": "ולרוזנים",
+      "gloss": "noma ababusi"
+    },
+    {
+      "surface": "או",
+      "gloss": "ukulangazelela"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "utshwala"
+    }
+  ],
+  "timestamp": "2026-08-31T07:06:07.066932825Z",
+  "model": "glm-5.3"
+}

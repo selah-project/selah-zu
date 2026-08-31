@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 92,
+  "translation": "Phezu kwezinzi eziyishumi, nephezu kwezinzi eziyishumi ezinkulu, phezu komumo ngohlelo lomdwebo.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "kwezinzi eziyishumi"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "nephezu"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "kwezinzi eziyishumi ezinkulu"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "komumo"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ngohlelo lomdwebo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:24.650929836Z",
+  "model": "glm-5.3"
+}

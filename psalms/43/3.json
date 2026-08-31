@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 43:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "Thumela ukukhanya kwakho neqiniso lakho; lezo zingihole, zingise entabeni engcwele yakho, nasemizamuweni yakho.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Thumela"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ukukhanya kwakho"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "neqiniso lakho"
+    },
+    {
+      "surface": "המה",
+      "gloss": "lezo"
+    },
+    {
+      "surface": "ינחוני",
+      "gloss": "zingihole"
+    },
+    {
+      "surface": "יביאוני",
+      "gloss": "zingise"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "engcwele yakho"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na-"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "emizamuweni yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:40.932614621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "uNakhshoni wazala ⟨את⟩ uSalma; uSalma wazala ⟨את⟩ uBohazi.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "uNakhshoni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uSalma"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "uSalma"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "uSalma"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uBohazi"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "uBohazi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:22.983453867Z",
+  "model": "glm-5.3"
+}

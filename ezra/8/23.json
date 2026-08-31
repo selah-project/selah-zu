@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 8:23",
+  "book": "ezra",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Sasilala ngokuzila ukudla, samukela ukucela uElohim wethu ngale ⟨ndaba⟩, yaye wazwela ithemba lethu.",
+  "tokens": [
+    {
+      "surface": "וַנָּצוּמָה",
+      "gloss": "sasilala ngokuzila ukudla"
+    },
+    {
+      "surface": "וַנְּבַקְשָׁה",
+      "gloss": "samukela ukucela"
+    },
+    {
+      "surface": "מֵאֱלֹהֵינוּ",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "ngale"
+    },
+    {
+      "surface": "זֹאת",
+      "gloss": "⟨ndaba⟩"
+    },
+    {
+      "surface": "וַיֵּעָתֵר",
+      "gloss": "wazwela ithemba lethu"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-31T10:35:48.666322126Z",
+  "model": "glm-5.3"
+}

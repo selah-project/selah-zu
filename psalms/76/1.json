@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 76,
+  "translation": "Kumqondisi, ngeziqhwaga. Incwadi yesidumiso ka-Asafi. Ingoma.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ngeziqhwaga"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Incwadi yesidumiso"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ka-Asafi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Ingoma"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:27.960102647Z",
+  "model": "glm-5.3"
+}

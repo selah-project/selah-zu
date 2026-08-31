@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 95,
+  "translation": "Ngakho-ke ngafunga ngolaka lwami: angeke bangena ekuphumuleni kwami.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ngakho-ke"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ngafunga"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "ngolaka lwami"
+    },
+    {
+      "surface": "אם",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "bangena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "ekuphumuleni kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:17.439251471Z",
+  "model": "glm-5.3"
+}

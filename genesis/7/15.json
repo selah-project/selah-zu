@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi bazungeleka ngababili noNoa, baya etheveni, bobabili ababili kuso sonke isinyama esinomoya wokuphila kuwo.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "bazungeleka ngababili baya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "נח",
+      "gloss": "uNoa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "theveni"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "bobabili"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ababili"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuso sonke"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "isinyama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esinomoya wokuphila kuwo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "esinomoya wokuphila kuwo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "omoya wokuphila"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wokuphila"
+    }
+  ],
+  "timestamp": "2026-08-31T01:03:39.051647362Z",
+  "model": "glm-5.3"
+}

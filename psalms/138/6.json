@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 138:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 138,
+  "translation": "Ngokuba uYahwe uphakeme, kepha uyalibona onenhliziyo-ephansi; ophakemile oyedwa umazi kude.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "רם",
+      "gloss": "uphakeme"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "onenhliziyo-ephansi"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "uyalibona"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "ophakemile"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "kude"
+    },
+    {
+      "surface": "יידע",
+      "gloss": "umazi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:09.351165863Z",
+  "model": "glm-5.3"
+}

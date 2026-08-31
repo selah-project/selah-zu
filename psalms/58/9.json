@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 58,
+  "translation": "Njengeshabelulu inyamalala njengoba lihamba; njengengane engazelwe yisifazane, engike yabona ilanga.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "njenge-"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "ishabelulu"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "inyamalala"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "njengoba lihamba"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ingane engazelwe"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "yisifazane"
+    },
+    {
+      "surface": "בל",
+      "gloss": "cha"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ilanga"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:11.930861324Z",
+  "model": "glm-5.3"
+}

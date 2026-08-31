@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 27:1",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "uMoshe nabadala bakwa-Israyeli bayala ⟨את⟩ abantu bayothi: Gcina ⟨את⟩ wonke umyalo enginiyalela ⟨את⟩ nina ngawo namuhla.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "bayala"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "nabadala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bayothi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Gcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke umyalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "umyalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "-niyalela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    }
+  ],
+  "timestamp": "2026-08-31T02:43:12.865386003Z",
+  "model": "glm-5.3"
+}

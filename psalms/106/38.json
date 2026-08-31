@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 106:38",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Bashela igazi elingenabele, igazi lezinsizwa zabo namadodakazi wabo, ababezibela izithombe-ezinkosi zaseKhenani, futhi umhlaba wachithwa ngezigazi.",
+  "tokens": [
+    {
+      "surface": "וישפכו",
+      "gloss": "bashela"
+    },
+    {
+      "surface": "דם",
+      "gloss": "igazi"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "elingenabele"
+    },
+    {
+      "surface": "דם",
+      "gloss": "igazi"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "lezinsizwa zabo"
+    },
+    {
+      "surface": "ובנותיהם",
+      "gloss": "namadodakazi wabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ababe"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "bezibela"
+    },
+    {
+      "surface": "לעצבי",
+      "gloss": "izithombe-ezinkosi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "aseKhenani"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "futhi wachithwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "ngezigazi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:01.432319663Z",
+  "model": "glm-5.3"
+}

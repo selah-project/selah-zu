@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 3:8",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi uzobeka ⟨את⟩ isandla sakhe phezu kwekhanda lomnikelo wakhe, aze abulale ⟨את⟩-yo phambi ketenti yokuhlangana; abantwana bakwa-Aharon bazochitha ⟨את⟩ igazi lalo phezu kwe-altari, jikelele.",
+  "tokens": [
+    {
+      "surface": "וסמך",
+      "gloss": "uzobeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sakhe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "kwekhanda"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "lomnikelo wakhe"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "aze abulale"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-yo",
+      "marks": "ilambu\/okunikelwayo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ketenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuhlangana"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "bazochitha"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "bakwa-Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igazi lalo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "igazi lalo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kwe-altari"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "jikelele"
+    }
+  ],
+  "timestamp": "2026-08-31T01:51:01.093599136Z",
+  "model": "glm-5.3"
+}

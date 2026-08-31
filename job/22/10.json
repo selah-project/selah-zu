@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 22:10",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Ngenxa yalokhu amasongo okubamba aseleyo ngakho, futhi ukwesaba okungazelelekileyo kukudinge.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngalenxa"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "aseleyo ngakho"
+    },
+    {
+      "surface": "פחים",
+      "gloss": "amasongo okubamba"
+    },
+    {
+      "surface": "ויבהלך",
+      "gloss": "futhi kukudinge"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "okungazelelekileyo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:20:09.445448986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "URaayiya indodana kaShobhali wazala ⟨את⟩ uYahati; uYahati wazala ⟨את⟩ u-Ahumayi no⟨את⟩ uLahadi. Lezi zizinduna zomndeni wabaTseraati.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "URaayiya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "kaShobhali"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahati"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "uYahati"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "uYahati"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Ahumayi"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "u-Ahumayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uLahadi"
+    },
+    {
+      "surface": "להד",
+      "gloss": "uLahadi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Lezi"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "zizinduna zomndeni"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "wabaTseraati"
+    }
+  ],
+  "timestamp": "2026-08-31T08:20:00.633029113Z",
+  "model": "glm-5.3"
+}

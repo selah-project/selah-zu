@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Akasoze akhale, ngeke aphakamise ⟨ize⟩, ngeke enze izwi lakhe lizwakale phandle.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Akasoze"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "akhale"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "aphakamise"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "enze lizwakale"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "phandle"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "izwi lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:30:53.081581096Z",
+  "model": "glm-5.3"
+}

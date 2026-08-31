@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Wayesethi kuyena: Kanjalo uthe uYiftahi: uIsrayeli akazange athathe ⟨את⟩ umhlaba waseMowabi no⟨את⟩ umhlaba wezinja zaka-Amoni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesethi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "uYiftahi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akazange"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "athathe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba waseMowabi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "waseMowabi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "umhlaba wezinja zaka-Amoni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wezinja"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "zaka-Amoni"
+    }
+  ],
+  "timestamp": "2026-08-31T10:19:25.646174249Z",
+  "model": "glm-5.3"
+}

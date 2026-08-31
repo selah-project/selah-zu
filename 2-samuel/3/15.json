@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 3:15",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "I-Isi-Bosheti wathuma, wayithatha kuyena, kuyena indoda, kuyena uPhaltiyeli unyana kaLayishi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathuma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Isi-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Bosheti"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "wayithatha"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "uPhaltiyeli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "לוש",
+      "gloss": "kaLayishi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:33:00.401293260Z",
+  "model": "glm-5.3"
+}

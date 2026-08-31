@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 4:5",
+  "book": "song-of-songs",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Amabele akho amabili njengezinyane ezimbili ze-impala, amawele esibayeni, ezithwalisela phakathi kwezibonono.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "amabili"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "amabele akho"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "njengezinyane ezimbili"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "ze-impala"
+    },
+    {
+      "surface": "תאומי",
+      "gloss": "amawele"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "esibayeni"
+    },
+    {
+      "surface": "הרועים",
+      "gloss": "ezithwalisela"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "phakathi kwezibonono"
+    }
+  ],
+  "timestamp": "2026-08-31T07:32:47.960182239Z",
+  "model": "glm-5.3"
+}

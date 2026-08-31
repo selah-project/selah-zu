@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 8:14",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Futhi iYisraeli yakhohlwa ⟨את⟩ umenzi wayo, yakhwakha amahhovhe; iYehudha yanda amadolobha aqinisiwe; kodwa mina ngizothumela imililo emadolobheni yawo, ladoke izigodlo zawo.",
+  "tokens": [
+    {
+      "surface": "וישכח",
+      "gloss": "yakhohlwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umenzi wayo"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "umenzi wayo"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "yakhwakha"
+    },
+    {
+      "surface": "היכלות",
+      "gloss": "amahhovhe"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "iYehudha"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "yanda"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "amadolobha"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "aqinisiwe"
+    },
+    {
+      "surface": "ושלחתי",
+      "gloss": "ngizothumela"
+    },
+    {
+      "surface": "אש",
+      "gloss": "imililo"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "emadolobheni sawo"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ladoke"
+    },
+    {
+      "surface": "ארמנתיה",
+      "gloss": "izigodlo zawo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:27:44.649794493Z",
+  "model": "glm-5.3"
+}

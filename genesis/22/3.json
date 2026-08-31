@@ -1,0 +1,116 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 22:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "u-Avraham wavuka ekuseni kusengaphambili, wahlabela ⟨את⟩ idonki yakhe, wathatha ⟨את⟩ amakhosomabili akhe naye, no ⟨את⟩ u-Yitschak indodana yakhe, wanqumula izinkuni zo-olaha, wavuka wahamba eya endaweni ayishoyo kuye uElohim.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "wavuka ekuseni kusengaphambili"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "wahlabela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idonki yakhe"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "idonki yakhe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amakhosomabili akhe"
+    },
+    {
+      "surface": "שני",
+      "gloss": "amabini"
+    },
+    {
+      "surface": "נעריו",
+      "gloss": "amakhosomabili akhe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no ⟨את⟩",
+      "marks": "u-Yitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "u-Yitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "ויבקע",
+      "gloss": "wanqumula"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "izinkuni"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "zo-olaha"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "wavuka"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eya"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "la"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ayishoyo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T05:55:21.590375896Z",
+  "model": "glm-5.3"
+}

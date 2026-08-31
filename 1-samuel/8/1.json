@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 8:1",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Kwathi lapho uShemuweli esegdala, wamisa abantwana bakhe abangu abahluleli ⟨את⟩ kaye-Israeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "esegdala"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abantwana bakhe"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "abahluleli"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kaye-Israeli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:15:51.139107209Z",
+  "model": "glm-5.3"
+}

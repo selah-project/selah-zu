@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 84,
+  "translation": "Uthabile umuntu onamandla kuye kuwe; izindlela zokuhamba ezinhliziyweni zabo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Uthabile"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "izindlela zokuhamba"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "ezinhliziyweni zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:18.578731877Z",
+  "model": "glm-5.3"
+}

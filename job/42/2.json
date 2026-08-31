@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Ngiyazi ukuthi ungakwenza konke, futhi ayikho injongo engavalwa kuwe.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Ngiyazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ungakwenza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi ayikho"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "engavalwa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "injongo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:32:10.124191897Z",
+  "model": "glm-5.3"
+}

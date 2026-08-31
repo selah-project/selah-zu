@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "uYahwe wenza njengokwamazwi kaMoshe; amatulwa afa ezindlini, ezindlini zangasese, nasemasimini.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "njengokwamazwi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kaMoshe"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "afa"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "amatulwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ez-"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "indlini"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ez-"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "indlini zangasese"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "nase-"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "emasimini"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:03.033195243Z",
+  "model": "glm-5.3"
+}

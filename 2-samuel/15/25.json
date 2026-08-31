@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 15:25",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "INkosi yathi kuTsadoki: Buyisela ⟨את⟩ i-arka likaElohim emzini. Uma ngithola umusa emehlweni kaYahwe, uyongibuyisela futhi angibonise yona, ⟨את⟩ nendawo yakhe yokuhlala.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "לצדוק",
+      "gloss": "kuTsadoki"
+    },
+    {
+      "surface": "השב",
+      "gloss": "buyisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-arka likaElohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "i-arka"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "likaElohim"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "emzini"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ngithola"
+    },
+    {
+      "surface": "חן",
+      "gloss": "umusa"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "והשבני",
+      "gloss": "uyongibuyisela"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "angibonise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona (i-arka)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indawo yakhe yokuhlala"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "indawo yakhe yokuhlala"
+    }
+  ],
+  "timestamp": "2026-08-31T03:40:49.696389097Z",
+  "model": "glm-5.3"
+}

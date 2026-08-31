@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 35:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Bavuka abafakazi bobudlova, into engingayaziyo bayibuzayo kuimi.",
+  "tokens": [
+    {
+      "surface": "יקומונו",
+      "gloss": " Bavuka"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "abafakazi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "bobudlova"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "into"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engayaziyo"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "(engingayazi)"
+    },
+    {
+      "surface": "ישאלוני",
+      "gloss": "bayibuzayo kuimi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:57.158951966Z",
+  "model": "glm-5.3"
+}

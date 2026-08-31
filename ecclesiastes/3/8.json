@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Isikhathi sokuthanda, nesikhathi sokuzonda; isikhathi sempi, nesikhathi sokuthula.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "isikhathi"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "sokuthanda"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nesikhathi"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "sokuzonda"
+    },
+    {
+      "surface": "עת",
+      "gloss": "isikhathi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "impi"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nesikhathi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sokuthula"
+    }
+  ],
+  "timestamp": "2026-08-31T07:48:35.246602464Z",
+  "model": "glm-5.3"
+}

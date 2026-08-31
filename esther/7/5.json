@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 7:5",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Inkosi u-Achashverosh yaphendula, yathi ku-Esther iNkosikazi: Ngubani yena lo, futhi ngowaphi yena lowo enhliziyweni yakhe egcwaliswe ⟨ukwenza⟩ njalo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yaphendula"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "u-Achashverosh"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "ku-Esther"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "iNkosikazi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "futhi ngowaphi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "egcwaliswe"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inhliziyo yakhe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:57:50.767979795Z",
+  "model": "glm-5.3"
+}

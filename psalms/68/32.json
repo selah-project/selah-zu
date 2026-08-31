@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 68,
+  "translation": "Abaholi abacebile bayofika bevela iMitsrayim; iKushi iyophangela ukwalula izandla zayo ku-Elohim.",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "bayofika"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "abaholi abacebile"
+    },
+    {
+      "surface": "מני",
+      "gloss": "bevela"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "iKushi"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "iyophangela"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "izandla zayo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ku-Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:42.429149970Z",
+  "model": "glm-5.3"
+}

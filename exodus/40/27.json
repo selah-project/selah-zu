@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Futhi wathwasa phezu kwawo umlilo wenhlamvu ezimnandi, njengoba uYahwe wayesele uyalele ⟨את⟩ uMoshe.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "wathwasa umlilo wenhlamvu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwawo"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "wenhlamvu"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "ezimnandi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayesele uyalele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:49:27.686581557Z",
+  "model": "glm-5.3"
+}

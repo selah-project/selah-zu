@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 28:11",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Yaphendula yena lowo wesifazane: ⟨את⟩ ngubani engimuyisela phezulu kuwe? Wathi yena: ⟨את⟩ uShemuweli — muyisela phezulu kimi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "yaphendula"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "lowo wesifazane"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngubani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "engimuyisela phezulu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShemuweli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "העלי",
+      "gloss": "muyisela phezulu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:28:12.579714042Z",
+  "model": "glm-5.3"
+}

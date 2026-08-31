@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "U-Uthayi indodana ka-Amihudi, indodana ka-Omri, indodana ka-Imri, indodana ka-Bani, Mndeni ka-Perets, indodana kaYehudha.",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "U-Uthayi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Amihudi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Omri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Imri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Bani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Mndeni ka-"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Perets"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehudha"
+    }
+  ],
+  "timestamp": "2026-08-31T08:22:42.991604232Z",
+  "model": "glm-5.3"
+}

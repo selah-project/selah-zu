@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 16:9",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "UMoshe wathi ku-Aharon: Yithi kuwo wonke umhlangano wabantwana baka-Israyeli: Sondelani phambi kukaYahwe, ngoba wazwa ⟨את⟩ amagunjana enu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yithi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "umhlangano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "baka-Israyeli"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "sondelani"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wazwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagunjana enu"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "amagunjana enu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:34:19.889877251Z",
+  "model": "glm-5.3"
+}

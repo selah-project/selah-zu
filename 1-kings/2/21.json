@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 2:21",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Wathi: ithunyelwe ⟨את⟩ i-Abishagi yesi-Shunami ku-Adoniyahu, umfowenu, abe yindodakazi endlini yakhe.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ithunyelwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-Abishagi"
+    },
+    {
+      "surface": "אבישג",
+      "gloss": "i-Abishagi"
+    },
+    {
+      "surface": "השנמית",
+      "gloss": "yesi-Shunami"
+    },
+    {
+      "surface": "לאדניהו",
+      "gloss": "ku-Adoniyahu"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "umfowenu"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "abe yindodakazi endlini"
+    }
+  ],
+  "timestamp": "2026-08-31T03:47:10.024908746Z",
+  "model": "glm-5.3"
+}

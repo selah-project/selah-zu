@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 53:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 53,
+  "translation": "Lapho bemesaba ukwesaba lapho kwakungekho ukwesaba, ngoba uElohim wachitha amathambo ocingo lwakho; wena ubahlazile, ngoba uElohim wabalahla.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "bemesaba"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kwakunjalo"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "פזר",
+      "gloss": "wachitha"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "amathambo"
+    },
+    {
+      "surface": "חנך",
+      "gloss": "ocingo lwakho"
+    },
+    {
+      "surface": "הבשתה",
+      "gloss": "ubahlazile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "מאסם",
+      "gloss": "wabalahla"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:26.780013420Z",
+  "model": "glm-5.3"
+}

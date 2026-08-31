@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 135:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 135,
+  "translation": "Njengazo izithombe, njalo bazoba nabenzayo bazo; bonke abathembayo kubo bazofana nabo.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "njengazo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bazoba"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "nabenzayo bazo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "בטח",
+      "gloss": "abathembayo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kubo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:02.560346152Z",
+  "model": "glm-5.3"
+}

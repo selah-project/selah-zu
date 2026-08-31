@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi uzakubeka ku-i-aroni ⟨את⟩ umboniso engizakunikela wona kuwe.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "uzakubeka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "i-aroni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umboniso"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "umboniso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "zakunikela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:04.560109586Z",
+  "model": "glm-5.3"
+}

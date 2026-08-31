@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 3:5",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ingabe ⟨uzohlala⟩ elohlela kuze kube phakade, noma uzozigcina kuze kube naphakade? Bheka, wukhulume wenza okubi, wenza onakwakho.",
+  "tokens": [
+    {
+      "surface": "הינטר",
+      "gloss": "elohlela"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "אם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "uzozigcina"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kuze kube naphakade"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "wukhulume"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "ותוכל",
+      "gloss": "wenza onakwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T04:39:39.849232624Z",
+  "model": "glm-5.3"
+}

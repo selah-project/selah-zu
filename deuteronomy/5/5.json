@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 5:5",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Mina ngimi phakathi kukaYahwe nani ngesikhathi leso, ukuzwakalisa kuni ⟨את⟩ izwi likaYahwe, ngoba nanesaba phambi kwesibani, anangenile entabeni, ukuthi —",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ngimi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ukaYahwe"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "nani"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ngesikhathi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leso"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "ukuzwakalisa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi likaYahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "nanesaba"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "phambi kwe-"
+    },
+    {
+      "surface": "האש",
+      "gloss": "sesibani"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ani-"
+    },
+    {
+      "surface": "עליתם",
+      "gloss": "ngenile"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukuthi —"
+    }
+  ],
+  "timestamp": "2026-08-31T02:31:34.678587412Z",
+  "model": "glm-5.3"
+}

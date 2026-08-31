@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 36:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Mangakanani ukubaluleka kwekhesedi yakho, wena uElohim! Ngakho abantwana bomuntu bafuna ukhuselo esithunzini sezimpiko zakho.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "mangakanani"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ukubaluleka"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bomuntu"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "esithunzini"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sezimpiko zakho"
+    },
+    {
+      "surface": "יחסיון",
+      "gloss": "bafuna ukhuselo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:40.234119703Z",
+  "model": "glm-5.3"
+}

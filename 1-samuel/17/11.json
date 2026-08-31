@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 17:11",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "UShawuli naku-Israyeli wonke, lapho bezwa la mazwi kaNgilisti, bakhathazeka futhi bemesaba kakhulu.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "bezwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "naku- wonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mazwi kaNgilisti"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "kaNgilisti"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    },
+    {
+      "surface": "ויחתו",
+      "gloss": "bakhathazeka"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "bemesaba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:22:46.855695062Z",
+  "model": "glm-5.3"
+}

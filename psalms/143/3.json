@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 143:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 143,
+  "translation": "Ngokuba isitha siguze umphefumulo wami; sicwasilele emhlabeni ukuphila kwami; simenze ngihlale ebumnyameni njengabafileyo basemandulo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "sithi siguze"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "isitha"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumulo wami"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "sicwasilele"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "חיתי",
+      "gloss": "ukuphila kwami"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "simenze ngihlale"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "ebumnyameni"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "njengabafileyo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "basemandulo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:37.550024365Z",
+  "model": "glm-5.3"
+}

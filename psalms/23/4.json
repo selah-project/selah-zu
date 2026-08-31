@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 23:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Noma ngihambe esigabeni sethunzi lokufa ngingasabi okubi, ngoba wena usenedlini yami; induku yakho nesikhongozi sakho ziangiduduza.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "noma"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ngihambe"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "esigabeni"
+    },
+    {
+      "surface": "צלמות",
+      "gloss": "sethunzi lokufa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ngingasabi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "usenedlini yami"
+    },
+    {
+      "surface": "שבטך",
+      "gloss": "induku yakho"
+    },
+    {
+      "surface": "ומשענתך",
+      "gloss": "nesikhongozi sakho"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zona"
+    },
+    {
+      "surface": "ינחמני",
+      "gloss": "ziangiduduza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:14.121154908Z",
+  "model": "glm-5.3"
+}

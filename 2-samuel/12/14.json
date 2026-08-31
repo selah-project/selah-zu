@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 12:14",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Kodwa, ngokuba uhlazile ⟨את⟩ abazonda uYahwe ngalendaba, nakumntwana ozalwe kuwe uzakufa ngempela.",
+  "tokens": [
+    {
+      "surface": "אפס",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "ukuhlazisa"
+    },
+    {
+      "surface": "נאצת",
+      "gloss": "uhlazile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abazonda uYahwe"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "abazonda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lendaba"
+    },
+    {
+      "surface": "גם",
+      "gloss": "na-"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "umntwana"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "ozalwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "uzakufa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ngempela"
+    }
+  ],
+  "timestamp": "2026-08-31T03:37:42.353077253Z",
+  "model": "glm-5.3"
+}

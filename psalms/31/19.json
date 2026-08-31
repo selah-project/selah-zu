@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 31:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Izindebe zamanga zithule, ezikhuluma ngokwedlula izwi elikhulu nangokwehlisa phezu kwalungileyo.",
+  "tokens": [
+    {
+      "surface": "תאלמנה",
+      "gloss": "zithule"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "izindebe"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "zamanga"
+    },
+    {
+      "surface": "הדברות",
+      "gloss": "ezikhuluma"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "alungileyo"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "eledlula isibongozo esikhulu"
+    },
+    {
+      "surface": "בגאוה",
+      "gloss": "ngokuzikhukhumela"
+    },
+    {
+      "surface": "ובוז",
+      "gloss": "nangokwehlisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:45.381624460Z",
+  "model": "glm-5.3"
+}

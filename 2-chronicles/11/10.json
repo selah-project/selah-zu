@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 11:10",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "nokuTsora noku-Ayaloni nokuKhebroni okukuYuda nakuniBhenyamini, imizi emiqinileyo",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no-",
+      "marks": "kuTsora"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "kuTsora"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no-",
+      "marks": "ku-Ayaloni"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "ku-Ayaloni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no-",
+      "marks": "kuKhebroni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "kuKhebroni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okuku"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "Yuda"
+    },
+    {
+      "surface": "ובבנימן",
+      "gloss": "nakuniBhenyamini"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "imizi"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "emiqinileyo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:33:47.259321763Z",
+  "model": "glm-5.3"
+}

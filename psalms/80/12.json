@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 80,
+  "translation": "Yathuma izithelo zayo zeza olwandle, kanye nomfula izigaxi zayo.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "yathuma"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "izithelo zayo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yeza"
+    },
+    {
+      "surface": "ים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kanye no-"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "umfula"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "izigaxi zayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:29.525649901Z",
+  "model": "glm-5.3"
+}

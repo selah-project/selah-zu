@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 14:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Kumqondisi. Indondwa kaDavida. Umhloli uthe ngesibindi sakhe: akukho uElohim. Bawonakalisile, bazonda isenzo sabo; akukho muntu ozayo okuhle.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "indondwa kaDavida"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "umhloli"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ngesibindi sakhe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "השחיתו",
+      "gloss": "bawonakalisile"
+    },
+    {
+      "surface": "התעיבו",
+      "gloss": "bazonda"
+    },
+    {
+      "surface": "עלילה",
+      "gloss": "isenzo sabo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ozayo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:00.728187912Z",
+  "model": "glm-5.3"
+}

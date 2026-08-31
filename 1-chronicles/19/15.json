@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 19:15",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Abantwana be-Amoni babona ukuthi i-Aram ibhalekile, bona nabo babaleka phambi kuka-Abishayi umfowabo, bangena emzini; uYowabhi wangena eYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Abantwana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "be-Amoni"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "babona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ibhalekile"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "i-Aram"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "babaleka"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nabo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "kuka-Abishayi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umfowabo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bangena"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "emzini"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYowabhi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:27:08.549618158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 8:10",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Kwathi ekuphumeni abapristi endaweni engcwele, ifu lagcwalisa ⟨את⟩ indlu kaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "בצאת",
+      "gloss": "ekuphumeni"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "endaweni engcwele"
+    },
+    {
+      "surface": "והענן",
+      "gloss": "ifu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "lagcwalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu kaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:52:58.619495467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 150:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 150,
+  "translation": "Mdumiseni ngezinsimbi ezindonzimpahla ezikhuluma kakhulu, Mdumiseni ngezinsimbi ezindonzimpahla ezomkhombe;",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Mdumiseni"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "ngezinsimbi ezindonzimpahla"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ezikhuluma kakhulu"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "Mdumiseni"
+    },
+    {
+      "surface": "בצלצלי",
+      "gloss": "ngezinsimbi ezindonzimpahla"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "ezomkhombe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:58.197236280Z",
+  "model": "glm-5.3"
+}

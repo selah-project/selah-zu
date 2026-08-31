@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 16:9",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi inkosi yesiAshuru yamuzwa; inkosi yesiAshuru yenyukela eDamesheki, yayibamba, yahlukunyisa abantu bayo aya eKiya, yaye ⟨את⟩ uRetsin wambulala.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "yamuzwa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "yesiAshuru"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "yanyukela"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "yesiAshuru"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ela"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "eDamesheki"
+    },
+    {
+      "surface": "ויתפשה",
+      "gloss": "yayibamba"
+    },
+    {
+      "surface": "ויגלה",
+      "gloss": "yahlukunyisa"
+    },
+    {
+      "surface": "קירה",
+      "gloss": "eKiya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uRetsin"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "uRetsin"
+    },
+    {
+      "surface": "המית",
+      "gloss": "wambulala"
+    }
+  ],
+  "timestamp": "2026-08-31T11:40:05.292727789Z",
+  "model": "glm-5.3"
+}

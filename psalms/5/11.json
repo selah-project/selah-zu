@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 5:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Benza behlanelekelwe, uElohim bawenze bawe kumacebo abo; ngenxa yobukhosi beziphambuko zabo baxoshe, ngokuba bephikisile lawe.",
+  "tokens": [
+    {
+      "surface": "האשימם",
+      "gloss": "benza behlanelekelwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "bawe"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "kumacebo abo"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ngobukhosi"
+    },
+    {
+      "surface": "פשעיהם",
+      "gloss": "beziphambuko zabo"
+    },
+    {
+      "surface": "הדיחמו",
+      "gloss": "baxoshe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מרו",
+      "gloss": "bephikisile"
+    },
+    {
+      "surface": "בך",
+      "gloss": "lawe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:22.438954075Z",
+  "model": "glm-5.3"
+}

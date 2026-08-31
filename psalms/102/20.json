@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 102:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 102,
+  "translation": "Ngokuba wehlisa amehlo uYahwe ephakeme endaweni engcwele yakhe, wabuka phansi esibhakabhakeni ezweni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "השקיף",
+      "gloss": "wehlisa amehlo"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "ephakeme"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "endaweni engcwele yakhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "esibhakabhakeni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "wabuka phansi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:20.525694588Z",
+  "model": "glm-5.3"
+}

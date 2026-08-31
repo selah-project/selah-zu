@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 68:21",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 68,
+  "translation": "U-El ngowethu, u-El wokusindisa, futhi kuYahwe u-Adonayi kungokuqala iziphumo zokufa.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ngowethu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "למושעות",
+      "gloss": "wokusindisa"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "futhi kuYahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "למות",
+      "gloss": "zokufa"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "iziphumo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:14.350466694Z",
+  "model": "glm-5.3"
+}

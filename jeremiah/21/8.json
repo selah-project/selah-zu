@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi ebantwini leli uzothi: Kunjalo uthe uYahwe: Yilabonisa — ngibeka phambi kwenu ⟨את⟩ indlela yokuphila, no-⟨את⟩ ndlela yokufa.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Futhi e-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bantwini"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "uzothi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kunjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ute"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Yilabonisa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ngibeka"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlela yokuphila"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "yokuphila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indlela yokufa"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "המות",
+      "gloss": "yokufa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:47:34.098420773Z",
+  "model": "glm-5.3"
+}

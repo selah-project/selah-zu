@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 42:30",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Indoda, u-Adonayi wezwe, yakhuluma nathi ⟨את⟩ ngobukhuni, yase ibeka thina ⟨את⟩ njengabahloli bezwe ⟨את⟩ izwe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "yakhuluma"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "wezwe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nathi"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "ngobukhuni"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "yase ibeka"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ thina"
+    },
+    {
+      "surface": "כמרגלים",
+      "gloss": "njengabahloli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "izwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:22:59.469725877Z",
+  "model": "glm-5.3"
+}

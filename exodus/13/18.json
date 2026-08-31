@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 13:18",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "uElohim wazungezisa ⟨את⟩ abantu endleleni yasehlathini eliseLwandleini Elibomvu; abantwana bakwaIsrayeli baphakama bezilungiselele impi ezweni laseMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "wazungezisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "yasehlathini"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "LeNkanzi"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "bezilungiselele impi"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "baphakama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaIsrayeli"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:33:41.489621228Z",
+  "model": "glm-5.3"
+}

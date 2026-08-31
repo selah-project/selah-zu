@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "daniel 2:32",
+  "book": "daniel",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Isithombe — ikhanda laso ngegolide elihle, ifuba laso nezandla zaso ngesiliva, isisu laso namathanga aso ngebhonshi.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Isithombe"
+    },
+    {
+      "surface": "צלמא",
+      "gloss": "isithombe"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "ikhanda laso"
+    },
+    {
+      "surface": "די",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "דהב",
+      "gloss": "golide"
+    },
+    {
+      "surface": "טב",
+      "gloss": "elihle"
+    },
+    {
+      "surface": "חדוהי",
+      "gloss": "ifuba laso"
+    },
+    {
+      "surface": "ודרעוהי",
+      "gloss": "nezandla zaso"
+    },
+    {
+      "surface": "די",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "מעוהי",
+      "gloss": "isisu laso"
+    },
+    {
+      "surface": "וירכתה",
+      "gloss": "amathanga aso"
+    },
+    {
+      "surface": "די",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ibhonshi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:57:18.953304947Z",
+  "model": "glm-5.3"
+}

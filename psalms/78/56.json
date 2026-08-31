@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 78:56",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Bazama futhi bamphikisa ⟨את⟩ uElohim u-Elyoni, bengagcini iziqiniseko zakhe.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "Bazama"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "bamphikisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim u-Elyoni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "u-Elyoni"
+    },
+    {
+      "surface": "ועדותיו",
+      "gloss": "iziqiniseko zakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bengagi-"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "bagcina"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:47.077092520Z",
+  "model": "glm-5.3"
+}

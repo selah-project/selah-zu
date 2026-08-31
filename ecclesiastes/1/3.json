@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Yini inzuzo emuntuwaneni ngokuqinisa kwakhe konke okuzabalaza ngakho phansi kwezulu?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Yini"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "inzuzo"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "emuntuwaneni"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ukuzabalaza kwakhe"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "okuzabalaza ngakho"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phantsi kwe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "izulu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:57:58.151826767Z",
+  "model": "glm-5.3"
+}

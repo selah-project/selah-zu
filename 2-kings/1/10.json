@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 1:10",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "U-Eliya waphendula wakhuluma kwi-capitheni yamashumi amahlanu: Uma ngiyindoda ka-uElohim, mawe wehla umlilo ovela ezulwini udle ⟨את⟩ wena nangamashumi amahlanu akho. Waba wehla umlilo ovela ezulwini, wadla ⟨את⟩ yena nangamashumi amahlanu akhe.",
+  "tokens": [
+    {
+      "surface": "ויענה",
+      "gloss": "waphendula"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "U-Eliya"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "שר",
+      "gloss": "icapitheni"
+    },
+    {
+      "surface": "החמשים",
+      "gloss": "yamashumi amahlanu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ndoda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ka-uElohim"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngiyin-"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "mawe wehla"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ovela"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "udle"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "nangamashumi amahlanu akho"
+    },
+    {
+      "surface": "חמשיך",
+      "gloss": "amashumi amahlanu akho"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "waba wehla"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ovela"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "wadla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "nangamashumi amahlanu akhe"
+    },
+    {
+      "surface": "חמשיו",
+      "gloss": "amashumi amahlanu akhe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:03:16.930301644Z",
+  "model": "glm-5.3"
+}

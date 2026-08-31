@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Ubumnini bomkabayihlo lakho awubonisi; yilo ubumnini beyihlo lakho.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ubumnini"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "bomkaba"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "yihlo lakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "bonisi"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ubumnini"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "beyihlo lakho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:58:48.956805063Z",
+  "model": "glm-5.3"
+}

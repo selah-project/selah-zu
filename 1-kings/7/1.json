@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 7:1",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi uShelomoh wakha ⟨את⟩ indlu yakhe eminyakeni eyishumi nantathu, wayeqeda ⟨את⟩ yonke indlu yakhe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yakhe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "indlu yakhe"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "nantathu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ishumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "eminyakeni"
+    },
+    {
+      "surface": "ויכל",
+      "gloss": "wayeqeda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke indlu yakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "indlu yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:50:32.885270581Z",
+  "model": "glm-5.3"
+}

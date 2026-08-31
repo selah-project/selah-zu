@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 14:12",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Ingabe akulona yilokhu ilizwi esasikhuluma nawe eMitsrayim, sithi: Yekana thina, sizokhonza ⟨את⟩ iMitsrayim; kungcono kithi ukukhonza ⟨את⟩ iMitsrayim kunokufa esigodini sendle?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ingabe akulona"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yilokhu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esasikhuluma"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "esasikhuluma"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sithi"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "Yekana"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "thina (ukusuka kithina)"
+    },
+    {
+      "surface": "ונעבדה",
+      "gloss": "sizokhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iMitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kungcona"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kungcono"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kithi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ukukhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iMitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "ממתנו",
+      "gloss": "kunokufa"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "esigodini sendle"
+    }
+  ],
+  "timestamp": "2026-08-31T05:57:12.398052539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 104,
+  "translation": "Umuntu uyaphuma eya esebenzini yakhe, nasezincondweni zakhe, kuze kufike ebusuku obufiphele.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "uyaphuma"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "esebenzini yakhe"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "nasezincondweni zakhe"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kuze kufike"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ebusuku obufiphele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:45.133463206Z",
+  "model": "glm-5.3"
+}

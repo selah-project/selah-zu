@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 73,
+  "ref": "psalms 119:73",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Izandla zakho zandenzile futhi zangikhlehlisa; ngiqondise ukuze ngifunde imiyalo yakho.",
+  "tokens": [
+    {
+      "surface": "ידיך",
+      "gloss": "izandla zakho"
+    },
+    {
+      "surface": "עשוני",
+      "gloss": "zandenzile"
+    },
+    {
+      "surface": "ויכוננוני",
+      "gloss": "futhi zangikhlehlisa"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "ngiqondise"
+    },
+    {
+      "surface": "ואלמדה",
+      "gloss": "ukuze ngifunde"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "imiyalo yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:27.739382390Z",
+  "model": "glm-5.3"
+}

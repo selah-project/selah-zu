@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 86:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 86,
+  "translation": "Ngokuba wena, u-Adonayi, ulungile futhi uyaxolela, unobuningi be-ikhesedi kubo bonke abakubizayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ulungile"
+    },
+    {
+      "surface": "וסלח",
+      "gloss": "futhi uyaxolela"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "unobuningi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "be-ikhesedi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kubo bonke"
+    },
+    {
+      "surface": "קראיך",
+      "gloss": "abakubizayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:07.864082446Z",
+  "model": "glm-5.3"
+}

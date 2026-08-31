@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Alikho ikosi ezelwa yinani lamabutho; iqhawe aliqedwa yinani lamandla.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Alikho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ikosi"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "ezelwa"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "yinani la"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "amabutho"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "iqhawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aliqedwa"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": ""
+    },
+    {
+      "surface": "ברב",
+      "gloss": "yinani la"
+    },
+    {
+      "surface": "כח",
+      "gloss": "amandla"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:52.421604263Z",
+  "model": "glm-5.3"
+}

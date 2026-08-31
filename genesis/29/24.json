@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "ULabhani wayesemnika ⟨את⟩ uZilifa, inkosikazi yakhe engumkhonzokazi, uLiya indodakazi yakhe — umkhonzokazi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wayesemnika"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ULabhani"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uZilifa inkosikazi yakhe engumkhonzokazi"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "uZilifa"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "inkosikazi yakhe engumkhonzokazi"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "uLiya"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "indodakazi yakhe"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "umkhonzokazi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:14:19.585542198Z",
+  "model": "glm-5.3"
+}

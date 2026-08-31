@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 5:8",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Futhi abalethe ⟨את⟩ ekumpristi, umpristi ethule ⟨את⟩ esona sipho sesono kuqala, aphuze ⟨את⟩ intamo yalo ngasemuva komqolo waso, kodwa angayihlukanisi;",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "futhi abalethe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ekumpristi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ethule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esona sipho sesono"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eso"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "sesipho sesono"
+    },
+    {
+      "surface": "ראשונה",
+      "gloss": "kuqala"
+    },
+    {
+      "surface": "ומלק",
+      "gloss": "aphuze intamo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intamo yalo"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "intamo yalo"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "ngasemuva"
+    },
+    {
+      "surface": "ערפו",
+      "gloss": "komqolo waso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa anga-"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "-yihlukanisi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:53:06.655903318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Nina, zalani, mnothini; gcwalisani umhlaba, mnothini kulo.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "zalani"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mnothini"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "gcwalisani"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "mnothini"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kulo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:03:13.767651334Z",
+  "model": "glm-5.3"
+}

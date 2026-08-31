@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 21:37",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "⟨את⟩ iKhedemoti ⟨את⟩ nomikhalo wayo, ⟨את⟩ neMeyifathi ⟨את⟩ nomikhalo wayo; izinduna ezine.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKhedemoti"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "iKhedemoti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no-",
+      "marks": "omikhalo wayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "umikhalo wayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "iMeyifathi"
+    },
+    {
+      "surface": "מיפעת",
+      "gloss": "iMeyifathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no-",
+      "marks": "omikhalo wayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "umikhalo wayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "izinduna"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ezine"
+    }
+  ],
+  "timestamp": "2026-08-31T02:58:13.312437723Z",
+  "model": "glm-5.3"
+}

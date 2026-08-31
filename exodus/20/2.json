@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 20:2",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "NginguYahwe uElohim wakho, engikukhiphile eNkosini yaseMitsrayim, endlini yezigwegwe.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ongi-"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "ngikukhiphile"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "eMbusweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "waseMitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "endlini"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "yezigwegwe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:49:05.574595906Z",
+  "model": "glm-5.3"
+}

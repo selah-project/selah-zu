@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi lezi yizingane zabo: iBene-Huri, entabeni yase-Efrayimu.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Futhi lezi"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "izingane zabo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "iBene-"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Huri"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "yase-Efrayimu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:05:19.999834505Z",
+  "model": "glm-5.3"
+}

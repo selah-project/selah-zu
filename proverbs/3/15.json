@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 3:15",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Iyabiza kakhulu kunanoma yini oyifisayo; zonke izinto ozizandlayo azimunyazi nayo.",
+  "tokens": [
+    {
+      "surface": "יקרה",
+      "gloss": "iyabiza kakhulu"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨yena⟩"
+    },
+    {
+      "surface": "מפניים",
+      "gloss": "kunanoma yini oyifisayo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "חפציך",
+      "gloss": "izinto ozizandlayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "azi-"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "munyazi"
+    },
+    {
+      "surface": "בה",
+      "gloss": "nayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:47:30.071673908Z",
+  "model": "glm-5.3"
+}

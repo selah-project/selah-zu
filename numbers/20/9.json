@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "U-Moshe wathatha ⟨את⟩ induku phambi kukaYahwe, njengoba wayemethwele yena.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "induku"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "induku"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "wayemethwele yena"
+    }
+  ],
+  "timestamp": "2026-08-31T02:20:06.936560590Z",
+  "model": "glm-5.3"
+}

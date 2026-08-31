@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 21:4",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi u-Avraham wamgawula ⟨את⟩ uYitschak indodana yakhe, enyakeni yezinsuku eziyisishiyagalombili, njengokuthi uElohim ayamyalela ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וימל",
+      "gloss": "wamgawula"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "uYitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "en-"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "eziyisishiyagalombili"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokuthi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ayamyalela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:10:52.738254102Z",
+  "model": "glm-5.3"
+}

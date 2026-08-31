@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ruth 3:6",
+  "book": "ruth",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Wehlele esibayeni sokugwadla, wenza konke okwayalele umakhwapha wakhe.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "wehlele"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "esibayeni sokugwadla"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ongo-"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "okwayalele"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "umakhwapha wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:36:57.522898168Z",
+  "model": "glm-5.3"
+}

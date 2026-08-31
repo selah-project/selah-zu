@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 22:25",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Iwundlu yabona ⟨את⟩ isithunywa sikaYahwe, yaze yacindezelwa odongeni, yacicilisa ⟨את⟩ unyawo lukaBilamu odongeni, wathinga uBilamu ukuyishaya.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "iwundlu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isithunywa"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "isithunywa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "yacindezelwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "odongeni"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "odongeni"
+    },
+    {
+      "surface": "ותלחץ",
+      "gloss": "yacicilisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unyawo"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "unyawo"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ukaBilamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "odongeni"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "odongeni"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "wathinga"
+    },
+    {
+      "surface": "להכתה",
+      "gloss": "ukuyishaya"
+    }
+  ],
+  "timestamp": "2026-08-31T02:21:46.308289750Z",
+  "model": "glm-5.3"
+}

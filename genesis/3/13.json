@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 3:13",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Yabon' uYahwe uElohim ethi ku(←haye) y owesifazane: Yini enze-leyo? Yaphendula owesifazane wathi: Inyoka ingikhohlisile, ngadla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "kuwesifazane"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Yini"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "enze-leyo"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "yaphendula wathi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "owesifazane"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "Inyoka"
+    },
+    {
+      "surface": "השיאני",
+      "gloss": "ingikhohlisile"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ngadla"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:26.708075466Z",
+  "model": "glm-5.3"
+}

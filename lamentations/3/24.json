@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ingxenye yami nguYahwe, ithi inefeshi yami; ngakho ngimlindela yena.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "Ingxenye yami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "ithi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngakho-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "-ke"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "ngimlindela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T07:40:17.010783682Z",
+  "model": "glm-5.3"
+}

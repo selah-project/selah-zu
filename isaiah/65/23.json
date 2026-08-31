@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 65:23",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 65,
+  "translation": "Angazigwazi ngenkinga angezalela ngesihluku; ngokuba izesithelo ezibusisiweyo nguYahwe yizona, nenzalo yazo insele kuzo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "ייגעו",
+      "gloss": "azigwazi"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ngenkinga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi ange-"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "ezalela"
+    },
+    {
+      "surface": "לבהלה",
+      "gloss": "ngesihluku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "izesithelo"
+    },
+    {
+      "surface": "ברוכי",
+      "gloss": "ezibusisiweyo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yizona"
+    },
+    {
+      "surface": "וצאצאיהם",
+      "gloss": "nenzalo yazo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "insele kuzo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:37:49.997614752Z",
+  "model": "glm-5.3"
+}

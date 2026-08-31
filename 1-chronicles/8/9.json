@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Wazala noKhosteshi, umkami, uJobhavhi noTsibhiya noMesha noMalkhamu.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "מן",
+      "gloss": "no-"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "uKhosteshi"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umkami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uJobhavhi"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "uJobhavhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uTsibhiya"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "uTsibhiya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uMesha"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "uMesha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uMalkhamu"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "uMalkhamu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:22:12.823568259Z",
+  "model": "glm-5.3"
+}

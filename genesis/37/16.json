@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Wathi: ⟨את⟩ abazalwane bami ngiyabafuna. Ngitshele-ke, bangaphi abafuyi?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abazalwane bami"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "abazalwane bami"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngi"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ngiyabafuna"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "ngitshele"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    },
+    {
+      "surface": "איפה",
+      "gloss": "bangaphi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "aba"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "abafuyi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:19:00.766646961Z",
+  "model": "glm-5.3"
+}

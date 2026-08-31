@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 145,
+  "translation": "Uvula ⟨את⟩ isandla sakho, futhi wanelisa isifiso sonke isthwaliphile.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "Uvula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sakho"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "futhi wanelisa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "חי",
+      "gloss": "isthwaliphile"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "isifiso"
+    }
+  ],
+  "timestamp": "2026-08-31T06:45:22.716588614Z",
+  "model": "glm-5.3"
+}

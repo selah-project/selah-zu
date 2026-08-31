@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 38:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "u-Adonayi, phambi kwakho ⟨⟨ungu⟩⟩ konke ukufisela kwami, futhi ukhala kwami akukahlukile kuwe.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "תאותי",
+      "gloss": "ukufisela kwami"
+    },
+    {
+      "surface": "ואנחתי",
+      "gloss": "futhi ukhala kwami"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akuna-"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "-hlukile"
+    }
+  ],
+  "timestamp": "2026-08-31T11:26:52.805855917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 35:28",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Naye ⟨את⟩ okunambithekile naye ⟨את⟩ amafutha okukhanyisa, ngeso lokukhanya, lomuthi wokugcoba, nokwensimbi yezimuni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "okunambithekile"
+    },
+    {
+      "surface": "הבשם",
+      "gloss": "okunambithekile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "amafutha"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "למאור",
+      "gloss": "lokukhanyisa"
+    },
+    {
+      "surface": "ולשמן",
+      "gloss": "lomuthi"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "wokugcoba"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "nokwensimbi"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "yezimuni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:44:59.351160682Z",
+  "model": "glm-5.3"
+}

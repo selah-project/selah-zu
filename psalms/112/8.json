@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 112,
+  "translation": "Inhliziyo yakhe isekele ⟨emthethweni⟩, angeke asabe, kuze kube lapho ebona izitha zakhe.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "isekele"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inhliziyo yakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "asabe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ebona"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "izitha zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:03.279169037Z",
+  "model": "glm-5.3"
+}

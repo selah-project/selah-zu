@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 56:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 56,
+  "translation": "Bazinza izitha zami usuku lonke, ngokuba baningi abalwa nami phezulu.",
+  "tokens": [
+    {
+      "surface": "שאפו",
+      "gloss": "Bazinza"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "izitha zami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baningi"
+    },
+    {
+      "surface": "לחמים",
+      "gloss": "abalwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "nami"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "phezulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:21.412755804Z",
+  "model": "glm-5.3"
+}

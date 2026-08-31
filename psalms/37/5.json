@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 37:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Khalipha kuYahwe indlela yakho, futhi themba kuye, yena uzoyenza.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "Khalipha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "indlela yakho"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "futhi themba"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uzoyenza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:40.516004625Z",
+  "model": "glm-5.3"
+}

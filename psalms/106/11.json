@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Amanzi abamboza izitha zabo; oyedwa wabo akanasala.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "abamboza"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "izitha zabo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "oyedwa"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "wabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aka"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "nasala"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:42.674774026Z",
+  "model": "glm-5.3"
+}

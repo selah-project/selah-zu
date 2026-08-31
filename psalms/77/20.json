@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 77:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 77,
+  "translation": "Indlela yakho yayisohlwini, lezitsha zakho emanzini amaningi; kepha izinyawo zakho azazaziwa.",
+  "tokens": [
+    {
+      "surface": "בים",
+      "gloss": "yayisohlwini"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "Indlela yakho"
+    },
+    {
+      "surface": "ושביליך",
+      "gloss": "lezitsha zakho"
+    },
+    {
+      "surface": "במים",
+      "gloss": "amanini"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "amaningi"
+    },
+    {
+      "surface": "ועקבותיך",
+      "gloss": "izinyawo zakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kepha... a-"
+    },
+    {
+      "surface": "נדעו",
+      "gloss": "zazaziwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:36.460093109Z",
+  "model": "glm-5.3"
+}

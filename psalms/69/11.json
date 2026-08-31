@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 69:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Ngalila ngokuzila umphefumelo wami, futhi kwaba yizinsongo kimi.",
+  "tokens": [
+    {
+      "surface": "ואבכה",
+      "gloss": "Ngalila"
+    },
+    {
+      "surface": "בצום",
+      "gloss": "ngokuzila"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumelo wami"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "futhi kwaba"
+    },
+    {
+      "surface": "לחרפות",
+      "gloss": "yizinsongo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:04.290264127Z",
+  "model": "glm-5.3"
+}

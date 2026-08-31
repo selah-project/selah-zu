@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 147:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 147,
+  "translation": "uYahwe uyathabisa ⟨את⟩ abamesabayo, ⟨את⟩ abalindele ikhesedi lakhe.",
+  "tokens": [
+    {
+      "surface": "רוצה",
+      "gloss": "uyathabisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abamesabayo"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "abamesabayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abalindele ikhesedi lakhe"
+    },
+    {
+      "surface": "המיחלים",
+      "gloss": "abalindele"
+    },
+    {
+      "surface": "לחסדו",
+      "gloss": "ikhesedi lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:11.515541377Z",
+  "model": "glm-5.3"
+}

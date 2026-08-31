@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 16:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Ngibekile uYahwe phambi kwami njalo; ngoba esandleni sokudla sami, angizukuzanywa.",
+  "tokens": [
+    {
+      "surface": "שויתי",
+      "gloss": "ngibekile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "phambi kwami"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "מימיני",
+      "gloss": "esandleni sokudla sami"
+    },
+    {
+      "surface": "בל",
+      "gloss": "angizu"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "kuzanywa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:28.357877358Z",
+  "model": "glm-5.3"
+}

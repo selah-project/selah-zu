@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 70:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 70,
+  "translation": "Mabhoshwe baze bahlazwe abafuna inefeshi yami; babuyele emuva baze benyathiswe abathanda okubi kwami.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "Mabhoshwe"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "baze bahlazwe"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "abafuna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "יסגגו",
+      "gloss": "babuyele"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "emuva"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "baze benyathiswe"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "abathanda"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "okubi kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:19.830233538Z",
+  "model": "glm-5.3"
+}

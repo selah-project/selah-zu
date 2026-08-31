@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 8:11",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "uParo esibona ukuthi kube khona ukuphumula, wakhithiza ⟨את⟩ inhliziyo yakhe, futhi akulalelanga kubo, njengokusho kukaYahwe.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "esibona"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kube khona"
+    },
+    {
+      "surface": "הרוחה",
+      "gloss": "ukuphumula"
+    },
+    {
+      "surface": "והכבד",
+      "gloss": "wakhithiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inhliziyo yakhe"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inhliziyo yakhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi aku-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "-lalelanga"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokusho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "kwakusho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ukaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:03.033610834Z",
+  "model": "glm-5.3"
+}

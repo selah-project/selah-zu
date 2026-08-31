@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 25:1",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "uYahwe, u-Elohim wami, wena ⟨ungu⟩; ngizakukhuphula, ngizakubonga igama lakho, ngoba wenze isimangaliso; izicebo zasendaweni ekude ⟨zingu⟩ ukuzinza, uqiniso oluzinzileyo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "u-Elohim wami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ngizakukhuphula"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ngizakubonga"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "isimangaliso"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "izicebo"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "zasendaweni ekude"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "ukuzinza"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "uqiniso oluzinzileyo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:24:41.733352895Z",
+  "model": "glm-5.3"
+}

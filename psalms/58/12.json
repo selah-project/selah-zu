@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 58:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 58,
+  "translation": "UMuntu uzothi: kuyaqinisekile ukuthi kukhona izithelo kolungileyo; kuyaqinisekile ukuthi kukhona uElohim ohlulela emhlabeni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "uzothi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kuyaqinisekile"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "izithelo"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "kolungileyo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kuyaqinisekile"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kukhona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ohlulela"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:11.931551133Z",
+  "model": "glm-5.3"
+}

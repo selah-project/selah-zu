@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 4:7",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "UMardokayi waxoxela yena ⟨את⟩ konke okwenzekiwe kuyena, nange-⟨את⟩ isibalo se-siliva uHaman athi ⟨uzokwehla⟩ izinkulungwane zombuso wegosi, ngabakaYehuda, ukuze ababulale.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "waxoxela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "uMardokayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwenzekiwe"
+    },
+    {
+      "surface": "קרהו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange-⟨את⟩"
+    },
+    {
+      "surface": "פרשת",
+      "gloss": "isibalo"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "se-siliva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwenzekiwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "athi"
+    },
+    {
+      "surface": "המן",
+      "gloss": "uHaman"
+    },
+    {
+      "surface": "לשקול",
+      "gloss": "⟨uzokwehla⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "izinkulungwane"
+    },
+    {
+      "surface": "גנזי",
+      "gloss": "zomqulu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wegosi"
+    },
+    {
+      "surface": "ביהודיים",
+      "gloss": "ngabakaYehuda"
+    },
+    {
+      "surface": "לאבדם",
+      "gloss": "ukuze ababulale"
+    }
+  ],
+  "timestamp": "2026-08-31T09:47:41.009574591Z",
+  "model": "glm-5.3"
+}

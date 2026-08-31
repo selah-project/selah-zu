@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Ngemva kwayo wathatha ⟨את⟩ uMaaka indodakazi kaAbsalomu, yazala kuyena ⟨את⟩ uAbiya no⟨את⟩ uAthayi no⟨את⟩ uZiza no⟨את⟩ uShelomithi.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "ngemva kwayo"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMaaka"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "uMaaka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "kaAbsalomu"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "yazala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uAbiya"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "uAbiya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uAthayi"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "uAthayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uZiza"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "uZiza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uShelomithi"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "uShelomithi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:34:42.682696519Z",
+  "model": "glm-5.3"
+}

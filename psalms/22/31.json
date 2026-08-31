@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 22:31",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Inzalo izomkhonza; izoxoxwa ngo-Adonayi esizukulwaneni.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "Inzalo"
+    },
+    {
+      "surface": "יעבדנו",
+      "gloss": "izomkhonza"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "izoxoxwa"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ngo-Adonayi"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "esizukulwaneni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:44.200136124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 9:16",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Kodwa ngenxa yalokhu ngikumise wena, ukuze ngikukhombise ⟨את⟩ amandla ami, ukuze igama lami xoxwe emhlabeni wonke.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Kodwa"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ngenxa yalokhu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "העמדתיך",
+      "gloss": "ngikumise wena"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "הראתך",
+      "gloss": "ngikukhombise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amandla ami"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "amandla ami"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "xoxwe"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "igama lami"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "emhlabeni wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:33.430785435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 87,
+  "translation": "uYahwe uthanda amasango eZiyoni ngaphezu kokunye konke izindlu zikaYaakob.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "uthanda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "amasango"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "eZiyoni"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngaphezu kokunye konke"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "izindlu"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "zikaYaakob"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:19.449786024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 17:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Bavalekile ngamafutha abo; ngomlomo wabo bakhuluma ngezenkani.",
+  "tokens": [
+    {
+      "surface": "חלבמו",
+      "gloss": "ngamafutha abo"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "bavalekile"
+    },
+    {
+      "surface": "פימו",
+      "gloss": "ngomlomo wabo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "bakhuluma"
+    },
+    {
+      "surface": "בגאות",
+      "gloss": "ngezenkani"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:08.648516987Z",
+  "model": "glm-5.3"
+}

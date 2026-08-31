@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Futhi lento yabonakala ilungile emehlweni enkosi, futhi emehlweni womhlangano wonke.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "yabonakala ilungile"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lento"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "enkosi"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "futhi emehlweni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "womhlangano"
+    }
+  ],
+  "timestamp": "2026-08-31T08:45:01.917348557Z",
+  "model": "glm-5.3"
+}

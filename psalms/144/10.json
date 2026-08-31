@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 144:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 144,
+  "translation": "Othi ngesiphephelo izinkosi, osindisa ⟨את⟩ uDavidi izinkonzi zakhe esinkembeni embi.",
+  "tokens": [
+    {
+      "surface": "הנותן",
+      "gloss": "Othi ngesiphephelo"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "insindiso"
+    },
+    {
+      "surface": "למלכים",
+      "gloss": "izinkosi"
+    },
+    {
+      "surface": "הפוצה",
+      "gloss": "osindisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDavidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavidi"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "izinkonzi zakhe"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "esinkembeni"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "embi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:52.872972195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "U-Aviyathari wazitshela kuDawidi ukuthi uShawuli wabulala ⟨את⟩ abapristi bakaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "wazitshela"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "U-Aviyathari"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuDawidi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "wabulala"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abapristi bakaYahwe"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bakaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:03:39.595594176Z",
+  "model": "glm-5.3"
+}

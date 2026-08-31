@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 42:14",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Ngiyethule kusukela kudala, ngiyathula, ngizibamba; njengowesifazane ozalayo ngizophimisa, ngizonakalisa futhi ngizagwinya kanyekanye.",
+  "tokens": [
+    {
+      "surface": "החשיתי",
+      "gloss": "ngiyethule"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "kusukela kudala"
+    },
+    {
+      "surface": "אחריש",
+      "gloss": "ngiyathula"
+    },
+    {
+      "surface": "אתאפק",
+      "gloss": "ngizibamba"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "njengowesifazane ozalayo"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "ngizophimisa"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ngizonakalisa"
+    },
+    {
+      "surface": "ואשאף",
+      "gloss": "futhi ngizagwinya"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "kanyekanye"
+    }
+  ],
+  "timestamp": "2026-08-31T04:30:20.234758128Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 16:6",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Kwathi ekufikeni kwabo, wabona ⟨את⟩ u-Eliyab, wathi: Ngempela phambi kukaYahwe uMashiya wakhe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "ekufikeni kwabo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Eliyab"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "u-Eliyab"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "uMashiya wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:21:29.120840342Z",
+  "model": "glm-5.3"
+}

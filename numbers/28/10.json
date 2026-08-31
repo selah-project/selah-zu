@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 28:10",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Kuyinsizakazi esishiswa yeShabathi ngonShabathi wayo, ngaphezu kwensizakazi esishiswa eqhubekayo nelagebo layo lokunathiselwa.",
+  "tokens": [
+    {
+      "surface": "עלת",
+      "gloss": "insizakazi esishiswa"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "yeShabathi"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "ngonShabathi wayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu kwa"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "insizakazi esishiswa"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "eqhubekayo"
+    },
+    {
+      "surface": "ונסכה",
+      "gloss": "nelagebo layo lokunathiselwa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:24:25.183357071Z",
+  "model": "glm-5.3"
+}

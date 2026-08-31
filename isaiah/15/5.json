@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 15:5",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Inhliziyo yami iyalila ngeMowabu; ababaleleyo bayo bayaphuncuka baya kuTsoari, inkomazana yesithathu; ngokuba ekwenyukeni kweLuhithi bayanyuka behleka; ngokuba endleleni yaseHoronayimu bayavusa ukukhalwa kokubhujiswa.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "inhliziyo yami"
+    },
+    {
+      "surface": "למואב",
+      "gloss": "ngeMowabu"
+    },
+    {
+      "surface": "יזעק",
+      "gloss": "iyalila"
+    },
+    {
+      "surface": "בריחה",
+      "gloss": "ababaleleyo bayo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "baya ku-"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Tsoari"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "inkomazana"
+    },
+    {
+      "surface": "שלשיה",
+      "gloss": "yesithathu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "ekwenyukeni"
+    },
+    {
+      "surface": "הלוחית",
+      "gloss": "kweLuhithi"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "behleka"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "bayanyuka"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kulo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "חורנים",
+      "gloss": "yaseHoronayimu"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "ukukhalwa"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "kokubhujiswa"
+    },
+    {
+      "surface": "יעערו",
+      "gloss": "bayavusa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:21:44.889792248Z",
+  "model": "glm-5.3"
+}

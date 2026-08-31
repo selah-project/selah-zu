@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ndodana yami, uma wamukela amazwi ami, nemiyalo yami uyayifihla ⟨את⟩ kuwe;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ndodana yami"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "wamukela"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "amazwi ami"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "nemiyalo yami"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "uyayifihla"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kuwe",
+      "marks": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:46:52.445901891Z",
+  "model": "glm-5.3"
+}

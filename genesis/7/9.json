@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Bafika bebhini nabebhini kuNoa, bayangena esikebheni, isilisa nesifazane, njengoba uElohim awaleleyo ⟨את⟩ uNoa.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "bebhini"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "nabebhini"
+    },
+    {
+      "surface": "באו",
+      "gloss": "bafika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נח",
+      "gloss": "uNoa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "bayangena"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "esikebheni"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "isilisa"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "nesifazane"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "awaleleyo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uNoa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "uNoa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:03:34.901913699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 2:29",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "IGama lomfazi ka-Avishuri lalingu-Avihayili, wazala kuyena u-Ahban no-Molid.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "omfazi ka-"
+    },
+    {
+      "surface": "אבישור",
+      "gloss": "u-Avishuri"
+    },
+    {
+      "surface": "אביהיל",
+      "gloss": "u-Avihayili"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Ahban"
+    },
+    {
+      "surface": "אחבן",
+      "gloss": "u-Ahban"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Molid"
+    },
+    {
+      "surface": "מוליד",
+      "gloss": "u-Molid"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:08.071177558Z",
+  "model": "glm-5.3"
+}

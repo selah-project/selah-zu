@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 66,
+  "translation": "Kodwa uyezwakele uElohim, wathoma izindlebe zakhe ezwini lomthandazo wami.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uyezwakele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "wathoma izindlebe zakhe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ezwini"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "lomthandazo wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:15.212140005Z",
+  "model": "glm-5.3"
+}

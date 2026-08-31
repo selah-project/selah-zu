@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 40:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Okulungileyo kwakho angikufihlanga phakathi kwenhliziyo yami; ukuthembeka kwakho nensindiso yakho ngikushilo, angikufihleli ikhesedi yakho neqiniso lakho endaweni yokuhlangana enkulu.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "okulungileyo kwakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angiyi-"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "ukufihla"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi kwe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "nhliziyo yami"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ukuthembeka kwakho"
+    },
+    {
+      "surface": "ותשועתך",
+      "gloss": "nensindiso yakho"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ngikushilo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angiyi-"
+    },
+    {
+      "surface": "כחדתי",
+      "gloss": "ukufihla"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "neqiniso lakho"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "endaweni yokuhlangana"
+    },
+    {
+      "surface": "רב",
+      "gloss": "enkulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:58.375629148Z",
+  "model": "glm-5.3"
+}

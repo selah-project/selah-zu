@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 17:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Leli yisivumelwano sami enizoyigcina, phakathi kwami naphakathi kwenu naphakathi kombewu wakho ngemva kwakho: kuzosokwa kini wonke owesilisa.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "leli"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "isivumelwano sami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "enizoyigcina"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "nizoyigcina"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "phakathi kwami"
+    },
+    {
+      "surface": "וביניכם",
+      "gloss": "naphakathi kwenu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "naphakathi"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "umbewu wakho"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "ngemva kwakho"
+    },
+    {
+      "surface": "המול",
+      "gloss": "kuzosokwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "owesilisa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:06:57.055347690Z",
+  "model": "glm-5.3"
+}

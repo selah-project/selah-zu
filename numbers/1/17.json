@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "uMoshe no-Aharon bayathatha la ⟨את⟩ amadoda la, ogcotshiwe ngezici ⟨abakaki abayizingoni: ababizwa⟩ ngezibongo zabo.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "bayathatha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "no-Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadoda la"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ogcotshiwe ⟨abakaki abayizingoni: ababizwa⟩"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "ababizwa ngokuchazwe"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "ngezibongo zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:07:28.490753597Z",
+  "model": "glm-5.3"
+}

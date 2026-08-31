@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 79:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 79,
+  "translation": "Kepha thina, singabantwana bakho bengumhloti wakho wokudla, sizokubonga kuwe kuze kube phakade, kusukela esizukulwaneni esisodwa kuya esizukulwaneni esilandelayo, sizodlulisa udumo lwakho.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "Kepha thina"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "singabantwana bakho"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "futhi singumhloti wakho wokudla"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "singumhloti wakho wokudla"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "sizokubonga kuwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kusukela esizukulwaneni esisodwa"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "kuya esizukulwaneni esilandelayo"
+    },
+    {
+      "surface": "נספר",
+      "gloss": "sizodlulisa"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "udumo lwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:21.080225075Z",
+  "model": "glm-5.3"
+}

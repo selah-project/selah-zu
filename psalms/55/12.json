@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 55,
+  "translation": "Ukufa kungakho mphakathi wayo, futhi ubudlova nobufihlakalo abukayeki emigwaqeni yayo.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "ukufa kungakho"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "mphakathi wayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi abu"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "kayeki"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "emigwaqeni yayo"
+    },
+    {
+      "surface": "תך",
+      "gloss": "ubudlova"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "nobufihlakalo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:30.132059960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 100:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 100,
+  "translation": "Ngenani emasangweni akhe ngokubonga, ezihlangothini zakhe ngokudumisa; mukelani ⟨l⟩ okuhle kuye, busisani igama lakhe.",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "Ngenani"
+    },
+    {
+      "surface": "שעריו",
+      "gloss": "emasangweni akhe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ngokubonga"
+    },
+    {
+      "surface": "חצרתיו",
+      "gloss": "ezihlangothini zakhe"
+    },
+    {
+      "surface": "בתהלה",
+      "gloss": "ngokudumisa"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "mukelani okuhle kuye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "busisani"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:00.502735548Z",
+  "model": "glm-5.3"
+}

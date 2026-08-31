@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 107:30",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Bayajabula ngoba sebehuhile, abe eseholela ⟨את⟩ ebhandeni abalifunayo.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "bayajabula"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "ישתקו",
+      "gloss": "sebehuhile"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "abe eseholela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "מחוז",
+      "gloss": "bhandeni"
+    },
+    {
+      "surface": "חפצם",
+      "gloss": "abalifunayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:09.680272180Z",
+  "model": "glm-5.3"
+}

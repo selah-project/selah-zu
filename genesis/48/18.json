@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 48:18",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 48,
+  "translation": "UMoshe... uYosefu wathi kukayise: Cha baba, akunjalo, ngokuba lo umuntu owazalwa qala; beka isandla sakho sokudla esiphondweni sakhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kayise"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha\/akunjalo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "owazalwa qala"
+    },
+    {
+      "surface": "שים",
+      "gloss": "bekaisandla"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "sakho sokudla"
+    },
+    {
+      "surface": "על",
+      "gloss": "esiphondweni"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "isandla sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:11:44.578254521Z",
+  "model": "glm-5.3"
+}

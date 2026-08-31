@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 33:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Ihashi lingamanga njengensindiso, futhi ngobuniningi bamandla alo ngeke libalekise ⟨noma ngubani⟩.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "lingamanga"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "lihashi"
+    },
+    {
+      "surface": "לתשועה",
+      "gloss": "njengensindiso"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "futhi ngobuniningi"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "bamandla alo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "libalekise"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:59.532731498Z",
+  "model": "glm-5.3"
+}

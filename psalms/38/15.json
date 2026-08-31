@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Ngaba njengendoda engayizwayo, futhi engenalutho emlomeni wayo okuyizinxushunxushu.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Ngaba"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "njengendoda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "yi-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "zwayo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi engenalutho"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "emlomeni wayo"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "okuyizinxushunxushu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:11.097129992Z",
+  "model": "glm-5.3"
+}

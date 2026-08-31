@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "noBhakbhakkarhi, uKhereshi, noGalali, noMathanyahinduna unodana kaMikha, unodana kaZikhi, unodana kaAsafi.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "noBhakbhakkarhi"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "uKhereshi"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "noGalali"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "noMathanyahinduna"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unodana ka-"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "Mikha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unodana ka-"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Zikhi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unodana ka-"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asafi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:23:17.974534142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 24:7",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Wathi kubantu bakhe: Kude kumi mina phambi kukaYahwe ukuba ngiwenzile ⟨את⟩ leli daba eNkosini yami, kuMashiya kaYahwe, ukwelula isandla sami kuyena, ngokuba yena ungumMashiya kaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לאנשיו",
+      "gloss": "kubantu bakhe"
+    },
+    {
+      "surface": "חלילה",
+      "gloss": "kude kumi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "phambi kukaYahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ngiwenzile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leli daba"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "leli daba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eli"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "eNkosini yami"
+    },
+    {
+      "surface": "למשיח",
+      "gloss": "kuMashiya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ukwelula"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "isandla sami"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "ungumMashiya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T03:26:11.161375249Z",
+  "model": "glm-5.3"
+}

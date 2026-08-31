@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "futhi mina ngiyohamba nani ngobudlelane, futhi ngizonibetha mina isikhombisa ngezono zenu.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "futhi ngiyohamba"
+    },
+    {
+      "surface": "אף",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nani"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "ngobudlelane"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "futhi ngizonibetha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "isikhombisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "zono zenu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:06:18.426709041Z",
+  "model": "glm-5.3"
+}

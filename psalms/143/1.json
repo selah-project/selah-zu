@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 143:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 143,
+  "translation": "Indumiso kaDavide. uYahwe, zwa ithandazo lami, nakho ukuzwela izicelo zami; ngokukholwa kwakho phendula mina, ngobulungiswa bakho.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Indumiso"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "zwa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ithandazo lami"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "nakho ukuzwela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "izicelo zami"
+    },
+    {
+      "surface": "באמנתך",
+      "gloss": "ngokukholwa kwakho"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "phendula mina"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "ngobulungiswa bakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:37.549423262Z",
+  "model": "glm-5.3"
+}

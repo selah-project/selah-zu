@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 14:16",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi uYehoash walala noyise, wangiwa eShomrona ndawonye namakhosi akwaYisrayeli; futhi uYarobham indodana yakhe wabusa esikhundleni sakhe.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "walala"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "uYehoash"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "yise"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "wangiwa"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "eShomrona"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "namakhosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "akwaYisrayeli"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wabusa"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "uYarobham"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "esikhundleni sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:09:49.569771785Z",
+  "model": "glm-5.3"
+}

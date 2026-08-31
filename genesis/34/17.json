@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 34:17",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Futhi uma ningenalekile kithina ukusokwa, sizothatha ⟨את⟩ indodana yethu bese sihamba.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Futhi uma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngenalekile"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ningenalekile kithina"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "kithina"
+    },
+    {
+      "surface": "להמול",
+      "gloss": "ukusokwa"
+    },
+    {
+      "surface": "ולקחנו",
+      "gloss": "sizothatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indodana yethu"
+    },
+    {
+      "surface": "בתנו",
+      "gloss": "indodana yethu"
+    },
+    {
+      "surface": "והלכנו",
+      "gloss": "bese sihamba"
+    }
+  ],
+  "timestamp": "2026-08-31T01:18:42.535623860Z",
+  "model": "glm-5.3"
+}

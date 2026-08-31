@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 6:18",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi nina ngedwa qaphelani iheremu, hlezi nibuye nibe yiheremu, futhi nithathe kuyiheremu, futhi nibeka ⟨את⟩ umphakathi wakwa-Israyeli ube yiheremu, futhi nimtalaza.",
+  "tokens": [
+    {
+      "surface": "ורק",
+      "gloss": "futhi nina ngedwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "qaphelani"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "iheremu"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hlezi"
+    },
+    {
+      "surface": "תחרימו",
+      "gloss": "nibuye nibe yiheremu"
+    },
+    {
+      "surface": "ולקחתם",
+      "gloss": "futhi nithathe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuyi-"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "iheremu"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "futhi nibeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umphakathi wakwa-Israyeli"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "umphakathi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wakwa-Israyeli"
+    },
+    {
+      "surface": "לחרם",
+      "gloss": "ube yiheremu"
+    },
+    {
+      "surface": "ועכרתם",
+      "gloss": "futhi nimtalaza"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ yena"
+    }
+  ],
+  "timestamp": "2026-08-31T02:51:47.442214692Z",
+  "model": "glm-5.3"
+}

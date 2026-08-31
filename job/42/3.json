@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 42:3",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Ngubani lowo ocashela icebo ngaphandle kolwazi? Ngakho-ke ngikhulume izinto engingaziqondi, izinto ezimangalisayo kimi, engingazazi.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "ocashela"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "icebo"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "kolwazi"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Ngakho-ke"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ngikhulume"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "engingazi"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "qondi"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "izinto ezimangalisayo"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "engingazazi"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "azi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:32:10.124351218Z",
+  "model": "glm-5.3"
+}

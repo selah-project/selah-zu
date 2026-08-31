@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 1:5",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi lezi yigama labantu abayozuma nani: kuReubheni, u-Elitsuri indodana kaShedeuri.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Futhi lezi"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "yigama"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "labantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "yozuma"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nani"
+    },
+    {
+      "surface": "לראובן",
+      "gloss": "kuReubheni"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "u-Elitsuri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Shedeuri"
+    }
+  ],
+  "timestamp": "2026-08-31T02:05:58.271064797Z",
+  "model": "glm-5.3"
+}

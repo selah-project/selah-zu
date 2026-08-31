@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "U-Avraham wengeza wathatha umfazi, igama lakhe lalinguKeturah.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "wengeza"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "uKeturah"
+    }
+  ],
+  "timestamp": "2026-08-31T01:13:07.756437600Z",
+  "model": "glm-5.3"
+}

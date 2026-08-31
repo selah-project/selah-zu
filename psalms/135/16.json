@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 135,
+  "translation": "Umlomo unawo kepha akukhulumi; amehlo anawo kepha aboni.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "Umlomo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "unawo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kepha akukhulumi"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": ""
+    },
+    {
+      "surface": "עינים",
+      "gloss": "amehlo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "anawo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kepha aboni"
+    },
+    {
+      "surface": "יראו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:49.051390254Z",
+  "model": "glm-5.3"
+}

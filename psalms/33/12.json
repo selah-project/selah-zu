@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "⟨Kuyathokoza⟩ izwe elinguYahwe uElohim waso; abantu abawukhethile ukuba abe yifa lakhe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "kuyathokoza"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "uElohim waso"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "abawukhethile"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "ukuba abe yifa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:08.909049641Z",
+  "model": "glm-5.3"
+}

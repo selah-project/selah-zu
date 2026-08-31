@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 55,
+  "translation": "Kumqondisi wezinkwari zezintsimbi, incwadi esifundisayo kaDavide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "ngezinkwari zezintsimbi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "incwadi esifundisayo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:15.532660625Z",
+  "model": "glm-5.3"
+}

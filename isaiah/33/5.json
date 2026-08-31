@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 33:5",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "uYahwe ungaba phezulu ngoba uhlala ezindaweni eziphakeme; wazalisa iTsiyoni ngomthetho-justice nangobulungiswa",
+  "tokens": [
+    {
+      "surface": "נשגב",
+      "gloss": "ungaba phezulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "uhlala"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ezindaweni eziphakeme"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "wazalisa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iTsiyoni"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ngomthetho-justice"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "nangobulungiswa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:25:37.601313471Z",
+  "model": "glm-5.3"
+}

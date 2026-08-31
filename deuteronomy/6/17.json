@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 6:17",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Gcina nizogcina ngokucophelela ⟨את⟩ imiyalo kaYahwe uElohim enu, kanye nezifungo zakhe nomithetho yakhe okuyilawo awakuyalela khona wena.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "gcina"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "nizogcina ngokucophelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imiyalo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "imiyalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim enu"
+    },
+    {
+      "surface": "ועדתיו",
+      "gloss": "nezifungo zakhe"
+    },
+    {
+      "surface": "וחקיו",
+      "gloss": "nomithetho yakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okuyilawo"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "awakuyalela khona wena"
+    }
+  ],
+  "timestamp": "2026-08-31T02:31:48.101775120Z",
+  "model": "glm-5.3"
+}

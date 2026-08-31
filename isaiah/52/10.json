@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 52:10",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 52,
+  "translation": "U Yahwe usolule ⟨את⟩ ingalo yakhe engcwele emehlweni azo zonke izizwe; zonke izinge zomhlaba zibone ⟨את⟩ insindiso kaElohim wethu.",
+  "tokens": [
+    {
+      "surface": "חשף",
+      "gloss": "usolule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingalo yakhe engcwele"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ingalo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "engcwele yakhe"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "azo zonke"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "zibone"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "izinge"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zomhlaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insindiso kaElohim wethu"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "insindiso"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "kaElohim wethu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:33:20.618022639Z",
+  "model": "glm-5.3"
+}

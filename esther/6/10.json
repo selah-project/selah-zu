@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 6:10",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Inkosi yathi kuHaman: Shesha, thatha ⟨את⟩ izingubo n⟨את⟩ ihashe njengalokho obukhulumile, wenze njalo kuMordokhayi umJuda ohlezi esangweni senkosi; musa ukushiya lutho konke lokho obukhulumile.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "kuHaman"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "Shesha"
+    },
+    {
+      "surface": "קח",
+      "gloss": "thatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingubo"
+    },
+    {
+      "surface": "הלבוש",
+      "gloss": "izingubo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "ihashe"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "ihashe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengalokho"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "obukhulumile"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kuMordokhayi"
+    },
+    {
+      "surface": "היהודי",
+      "gloss": "umJuda"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "ohlezi"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "esangweni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "senkosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "ukushiya"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lutho"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "obukhulumile"
+    }
+  ],
+  "timestamp": "2026-08-31T07:54:35.882481484Z",
+  "model": "glm-5.3"
+}

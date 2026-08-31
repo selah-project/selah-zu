@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 119:27",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngisizenise ukuqonda indlela yemiyalo yakho, ngizophhonsa ingqondo ngezenzakalo zakho ezimangalisayo.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "yemiyalo yakho"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "ngisizenise ukuqonda"
+    },
+    {
+      "surface": "ואשיחה",
+      "gloss": "ngizophhonsa ingqondo"
+    },
+    {
+      "surface": "בנפלאותיך",
+      "gloss": "ngezenzakalo zakho ezimangalisayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:21.331459849Z",
+  "model": "glm-5.3"
+}

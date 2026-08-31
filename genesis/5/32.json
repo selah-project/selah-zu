@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "UNoachi waba ngumntwana wezinkulungwane ezinhlanu zezinyanga, uNoachi wazala ⟨את⟩ uShemu ⟨את⟩ uChamu no⟨את⟩ uYafethi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "נח",
+      "gloss": "UNoachi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ngumntwana"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ezinhlanu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "wezinkulungwane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "zezinyanga"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "נח",
+      "gloss": "uNoachi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShemu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "uShemu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uChamu"
+    },
+    {
+      "surface": "חם",
+      "gloss": "uChamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uYafethi"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "uYafethi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:10:23.781153511Z",
+  "model": "glm-5.3"
+}

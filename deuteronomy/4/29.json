@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 4:29",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi nizofuna kusuka lapho ⟨את⟩ uYahwe uElohim wenu, fithi nizomthola, ngokuba nimfunu ngenhliziyo yenu yonke nangomphefumulo wenu wonke.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "futhi nizofuna"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kusuka lapho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe uElohim wenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "ומצאת",
+      "gloss": "fithi nizomthola"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "nimfunu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nge-…-yonke"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ngenhliziyo yenu"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "futhi nge-…-yonke"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "nangomphefumulo wenu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:32:56.720547130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 1:32",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngoba ukujika okungendlela kwabathusiwe kubabulala, futhi ukuzinza kwabasila kubabhubhisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "משובת",
+      "gloss": "ukujika okungendlela"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "abathusiwe"
+    },
+    {
+      "surface": "תהרגם",
+      "gloss": "kubabulala"
+    },
+    {
+      "surface": "וושלות",
+      "gloss": "futhi ukuzinza"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "abasila"
+    },
+    {
+      "surface": "תאבדם",
+      "gloss": "kubabhubhisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:46:48.325166595Z",
+  "model": "glm-5.3"
+}

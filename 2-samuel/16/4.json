@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 16:4",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "UMkhulu wathi kuTsiba: Bheka, okwakho konke okukaMefibosheti. UTsiba wathi: Ngiyogcina ukuzithoba; ngithole inceku emehlweni akho, nkosi yami, umkhulu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umkhulu"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "kuTsiba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "okwakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okung"
+    },
+    {
+      "surface": "למפי",
+      "gloss": "kaMefibosheti"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "kaMefibosheti"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "uTsiba"
+    },
+    {
+      "surface": "השתחויתי",
+      "gloss": "ngiyogcina ukuzithoba"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ngithole"
+    },
+    {
+      "surface": "חן",
+      "gloss": "inceku"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "emehlweni akho"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "nkosi yami"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "umkhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:40:37.656791042Z",
+  "model": "glm-5.3"
+}

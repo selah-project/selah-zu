@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 49:13",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Culani izulu, jubani umhlaba; zivule ngomsindo wonhlalo ezintabeni; ngokuba uYahwe uyonwabise abantu bakhe, futhi uzihluphele abayizoni zakhe.",
+  "tokens": [
+    {
+      "surface": "רנו",
+      "gloss": "culani"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "izulu"
+    },
+    {
+      "surface": "וגילי",
+      "gloss": "futhi jubani"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "יפצחו",
+      "gloss": "zivule ngomsindo wonhlalo"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ezintabeni"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "insakazo yenhlalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "uyonwabise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "ועניו",
+      "gloss": "futhi abayizoni zakhe"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "uzihluphele"
+    }
+  ],
+  "timestamp": "2026-08-31T04:31:38.282596602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 127,
+  "translation": "Njengemikhondo esandleni somqhawe, njalo ngabantwana besikhashana.",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "Njengemikhondo"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "somqhawe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "besikhashana"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:02.628471432Z",
+  "model": "glm-5.3"
+}

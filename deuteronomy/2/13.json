@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Manje sukani nindele ⟨את⟩ umfula iZeredi; senza sibeka ⟨את⟩ umfula iZeredi.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Manje"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "sukani"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "nindele"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfula iZeredi"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "umfula"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "iZeredi"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "senza sibeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfula iZeredi"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "umfula"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "iZeredi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:29:39.044724891Z",
+  "model": "glm-5.3"
+}

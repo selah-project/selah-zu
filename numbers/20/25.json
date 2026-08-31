@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Thatha ⟨את⟩ u-Aharon no⟨את⟩ u-Elazari indodana yakhe, uzenise phezulu intaba iHora.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Thatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "u-Elazari"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "u-Elazari"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "uzenise phezulu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "intaba iHora"
+    },
+    {
+      "surface": "הר",
+      "gloss": "iHora"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "intaba"
+    }
+  ],
+  "timestamp": "2026-08-31T02:19:58.545232327Z",
+  "model": "glm-5.3"
+}

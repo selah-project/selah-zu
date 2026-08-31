@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 130,
+  "translation": "Uma ubheka izono, wena uYah, u-Adonayi, ngubani ozosimama?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "izono"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ubheka"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ozosimama"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:32.623843147Z",
+  "model": "glm-5.3"
+}

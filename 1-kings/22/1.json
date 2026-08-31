@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Basehlala iminyaka eyintathu ingekho impi phakathi kweArami nasekwaIsrayeli.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "basehlala"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "eyintathu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingekho"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "impi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwe"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "iArami"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nasekwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T04:03:05.067190581Z",
+  "model": "glm-5.3"
+}

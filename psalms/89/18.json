@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 89:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Ngokuba wena ⟨ungu⟩khazimula lamandla abo, futhi nangokuthanda kwakho isenke sethu siyaphakama.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ukhazimula"
+    },
+    {
+      "surface": "עזמו",
+      "gloss": "lamandla abo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "וברצנך",
+      "gloss": "futhi nangokuthanda kwakho"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "siyaphakama"
+    },
+    {
+      "surface": "קרננו",
+      "gloss": "isenke sethu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:51.253901826Z",
+  "model": "glm-5.3"
+}

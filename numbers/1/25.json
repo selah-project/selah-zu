@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ababaluli babo, bengabakwa-mmeba kaGadi, babengamashumi amane nanhlanu inkulungwane, namakhulu ayisithupha namashumi amahlanu.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ababaluli babo"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "bengabakwa-mmeba ka"
+    },
+    {
+      "surface": "גד",
+      "gloss": "uGadi"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "nanhlanu"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "amashumi amane"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "inkulungwane"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "namakhulu ayisithupha"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "namakhulu"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "amashumi amahlanu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:14:34.215659295Z",
+  "model": "glm-5.3"
+}

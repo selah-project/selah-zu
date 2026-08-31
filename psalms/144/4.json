@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 144,
+  "translation": "Umuntu ulingana nokungabalutho; izinsuku zakhe njengesithunzi esidlula.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "nokungabalutho"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ulingana"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "izinsuku zakhe"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "njengesithunzi"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "esidlula"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:43.000583564Z",
+  "model": "glm-5.3"
+}

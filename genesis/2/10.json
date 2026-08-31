@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 2:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Inceku yamanzi ivela e-Edeni ukuze inathise ⟨את⟩ insimu, futhi lapho ihla ibe yizinhlobo ezine ezinkulu.",
+  "tokens": [
+    {
+      "surface": "ונהר",
+      "gloss": "inceku yamanzi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ivela"
+    },
+    {
+      "surface": "מעדן",
+      "gloss": "e-Edeni"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "ukunathisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insimu"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "insimu"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "futhi lapho"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "ihla"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "ezine"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "izinhlobo ezinkulu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:01:37.214709102Z",
+  "model": "glm-5.3"
+}

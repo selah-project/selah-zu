@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Ukuthatha esambatheni somakhelwane wakho njengesibambiso, phambi kokushona kwelanga uzolibuyisela kuye.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "חבול",
+      "gloss": "ukuthatha njengesibambiso"
+    },
+    {
+      "surface": "תחבול",
+      "gloss": "uzothatha njengesibambiso"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "isambatho"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "somakhelwane wakho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "phambi koku-"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ukushona"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kwelanga"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "uzolibuyisela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:04.091225619Z",
+  "model": "glm-5.3"
+}

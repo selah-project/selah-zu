@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ngokuba njengolumo lwezintsizi ezivutha ngaphansi kwesitsha sokupheka, njalo-ke ukuhleka kwezisenza; futhi nakho lokhu kuyithuba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "njengolumo"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "lezintsizi ezivutha"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "kwesitsha sokupheka"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo-ke"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ukuhleka"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "kwezisenza"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "futhi nakho"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kuyithuba"
+    }
+  ],
+  "timestamp": "2026-08-31T08:58:29.405746409Z",
+  "model": "glm-5.3"
+}

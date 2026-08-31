@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 77,
+  "translation": "Ubabambe izinkulungwane zamehlo ami; ngikhathazekile kangangokuthi ngingakwazi ukukhuluma.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "Ubabambe"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "izinkulungwane"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "zamehlo ami"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "ngikhathazekile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi nginga-"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ukukhuluma"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:28.925660715Z",
+  "model": "glm-5.3"
+}

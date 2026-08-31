@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 2:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Wayebusisa uElohim ⟨את⟩ usuku lwesikhombisa, walingcwilisa ⟨את⟩ ngokuba ngalo waphumula kuwo wonke umsebenzi wakhe owadala uElohim ⟨ukuwenza⟩.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "wayebusisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usuku lwesikhombisa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "lwesikhombisa"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "walingcwilisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "usuku lwesikhombisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngalo"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "waphumula"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuwo wonke"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "umsebenzi wakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owo"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "wadala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨ukuwenza⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T10:10:26.703392990Z",
+  "model": "glm-5.3"
+}

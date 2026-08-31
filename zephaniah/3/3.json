@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zephaniah 3:3",
+  "book": "zephaniah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Izinduna zakhe phakathi kwakhe ziyingonyama eziduma; abahluleli bakhe ngamimpisi zasekuseni ebusuku, azishiye namathambo kuze kuse kusasa.",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "izinduna zakhe"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "phakathi kwakhe"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "i(n)ngonyama"
+    },
+    {
+      "surface": "שאגים",
+      "gloss": "eziduma"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "abahluleli bakhe"
+    },
+    {
+      "surface": "זאבי",
+      "gloss": "amimpisi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "zasekuseni ebusuku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a-"
+    },
+    {
+      "surface": "גרמו",
+      "gloss": "aziyi (bashiyi) amathambo"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "kuze kuse kusasa"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:09.207589987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ngempela ukuhlukumeza kuhlanyelisa ⟨ohlakaniphile⟩; futhi isipho silahlekisa ⟨את⟩ inhliziyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ukuhlukumeza"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "kuhlanyelisa"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ohlakaniphile"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "futhi silahlekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inhliziyo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "isipho"
+    }
+  ],
+  "timestamp": "2026-08-31T08:58:06.650610081Z",
+  "model": "glm-5.3"
+}

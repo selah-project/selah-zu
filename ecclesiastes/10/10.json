@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 10:10",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Uma insimbi ibuthele, futhi yena engabilisi ubuso, kudingeka amandla amaningi; kodwa ukwazi ukulungiselela kuyenzela ukuhlakaniphi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "קהה",
+      "gloss": "ibuthele"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "insimbi"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "futhi yena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engabi-"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "קלקל",
+      "gloss": "ukubilisa\/lwesabekile"
+    },
+    {
+      "surface": "וחילים",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "יגבר",
+      "gloss": "kudingeka amaningi\/eyedlula"
+    },
+    {
+      "surface": "ויתרון",
+      "gloss": "ukwazi ukulungiselela\/inzuzo"
+    },
+    {
+      "surface": "הכשיר",
+      "gloss": "kuyenzela"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ukuhlakaniphi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:48:56.172820823Z",
+  "model": "glm-5.3"
+}

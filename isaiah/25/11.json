@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 25:11",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi uzosabalalisa izandla zakhe phakathi kwawo, njengesabalalisi esabalalisa ukuba nhlubuki, futhi uzohlehlisa inkazimulo yakhe kanye neziqingoma zezandla zakhe.",
+  "tokens": [
+    {
+      "surface": "וּפֵרַשׂ",
+      "gloss": "futhi uzosabalalisa"
+    },
+    {
+      "surface": "יָדָיו",
+      "gloss": "izandla zakhe"
+    },
+    {
+      "surface": "בְּקִרְבּוֹ",
+      "gloss": "phakathi kwawo"
+    },
+    {
+      "surface": "כַּאֲשֶׁר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "יְפָרֵשׂ",
+      "gloss": "esabalalisa"
+    },
+    {
+      "surface": "הַשֹּחֶה",
+      "gloss": "inhlubuki"
+    },
+    {
+      "surface": "לִשְחֹת",
+      "gloss": "ukuba nhlubuki"
+    },
+    {
+      "surface": "וְהִשְׁפִּיל",
+      "gloss": "futhi uzohlehlisa"
+    },
+    {
+      "surface": "גַּאֲוָתוֹ",
+      "gloss": "inkazimulo yakhe"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "kanye ne-"
+    },
+    {
+      "surface": "אָרְבּוֹת",
+      "gloss": "iziqingoma"
+    },
+    {
+      "surface": "יָדָיו",
+      "gloss": "ezandleni zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T09:47:27.861659052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Sonke thina singabantwana bomunye umuntu; thina singabantu abaneqiniso; izinceku zakho azizo abahloli.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "Sonke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "singabantwana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omunye umuntu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "bomunye"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "abaneqiniso"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "azi-"
+    },
+    {
+      "surface": "היו",
+      "gloss": "azizo"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "izinceku zakho"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "abahloli"
+    }
+  ],
+  "timestamp": "2026-08-31T01:21:49.783576236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "uMoshe waya, wakhuluma ⟨את⟩ izwi lezi kuloke wonke uIsrayeli.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi lezi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T02:47:24.272230789Z",
+  "model": "glm-5.3"
+}

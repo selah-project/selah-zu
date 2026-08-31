@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 49:25",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Ngokuba okunjalo uthe uYahwe: nokuboshwa komqhaqhazeli kuzothathwa, nesipwanga sosigebengu kuzophunywa; futhi ⟨את⟩ ozabalazana nawe mina ngizuzabalazana naye, futhi ⟨את⟩ izingane zakho mina ngizizisindisa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "כה",
+      "gloss": "okunjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "ukuboshwa"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "komqhaqhazeli"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "kuzothathwa"
+    },
+    {
+      "surface": "ומלקוח",
+      "gloss": "futhi nesipwanga"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "sosigebengu"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "kuzophunywa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ozabalazana nawe"
+    },
+    {
+      "surface": "יריבך",
+      "gloss": "ozabalazana nawe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ngizuzabalazana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izingane zakho"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "izingane zakho"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "ngizizisindisa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:33:27.241690296Z",
+  "model": "glm-5.3"
+}

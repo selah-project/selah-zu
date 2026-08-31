@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Lilani, ngoba usuku lukaYahwe lususedesa; njengosonxezulu lukaShadayi luzofika.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "lilani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "lususedesa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lukaYahwe"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "njengosonxezulu"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "lukaShadayi"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "luzofika"
+    }
+  ],
+  "timestamp": "2026-08-31T04:19:06.198492959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Ngoba angithembi ingilazi yami, futhi inkemba yami angeke ingisindise.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngoba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "ingilazi yami"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "themb-i"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "futhi inkemba yami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "ingisindise"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:25.518121721Z",
+  "model": "glm-5.3"
+}

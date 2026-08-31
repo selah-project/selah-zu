@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "micah 6:9",
+  "book": "micah",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Izwi likaYahwe liyabiza umuzi, futhi ukuhlakanipha kuyokwesaba igama lakho: zwanani isikhindi, nobani ⟨umisile⟩.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "umuzi"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "liyabiza"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "futhi ukuhlakanipha"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "zwanani"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "isikhindi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "nobani"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "umisile"
+    }
+  ],
+  "timestamp": "2026-08-31T05:36:58.671172354Z",
+  "model": "glm-5.3"
+}

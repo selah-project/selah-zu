@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Emadleleni otshani olutsha uyangifaka ukungikhahlela; eduze kwamanzi okuzola uyangihola.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "emadleleni"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "otshani olutsha"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "uyangifaka ukungikhahlela"
+    },
+    {
+      "surface": "על",
+      "gloss": "eduze kwa-"
+    },
+    {
+      "surface": "מי",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "okuzola"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "uyangihola"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:14.120672195Z",
+  "model": "glm-5.3"
+}

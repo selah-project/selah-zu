@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 94:23",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 94,
+  "translation": "Wabuyisela phezu kwabo ⟨את⟩ ubuwula bwabo, futhi ngobubi bwabo uzobasusa; uzobasusa uYahwe u-Elohim wethu.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wabuyisela"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "phezu kwabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuwula bwabo"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ubuwula bwabo"
+    },
+    {
+      "surface": "וברעתם",
+      "gloss": "futhi ngobubi bwabo"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "uzobasusa"
+    },
+    {
+      "surface": "יצמיתם",
+      "gloss": "uzobasusa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "u-Elohim wethu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:40.520059168Z",
+  "model": "glm-5.3"
+}

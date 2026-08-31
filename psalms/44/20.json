@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Ngesikhathi osicubhungile esizindeni sezinkawu, wasifihla ngokwesithunzi sokufa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngesikhathi osicubhungile"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "esizindeni sezinkawu"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "wasifihla"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "ngokwesithunzi sokufa"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": ""
+    },
+    {
+      "surface": "עלינו",
+      "gloss": ""
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:53.434739299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 38:8",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Wayesephendula uYehudha wathi ku-Onani: Ngena kowesifazane omunye wakho fowenu, umzele-ngekwakhe fowenu, umkhuphule ⟨את⟩ inzalo yakhe fowenu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesephendula"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehudha"
+    },
+    {
+      "surface": "לאונן",
+      "gloss": "ku-Onani"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ngenwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "owesifazane"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "fowenu"
+    },
+    {
+      "surface": "ויבם",
+      "gloss": "umzele-ngekwakhe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yena (owesifazane)"
+    },
+    {
+      "surface": "והקם",
+      "gloss": "umkhuphule"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "inzalo"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "lakhe fowenu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:10:58.619416592Z",
+  "model": "glm-5.3"
+}

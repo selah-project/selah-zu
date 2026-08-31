@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ngokuba olwandlweni akukho ⟨ukukhumbula⟩ kwakho; ebukweni iSheol ngubani ozokudumisa ⟨wena⟩ na?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "במות",
+      "gloss": "olwandlweni"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "ukukhumbula kwakho"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "ebukweni iSheol"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "ozokudumisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:40.786370130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 141:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 141,
+  "translation": "Umkhululi angishaye yi-ikhesedi, futhi angihumushe; kube yilothe lasekhanda elihle; kungabi ukuthi ikhanda lami lungawuni; ngoba okwamanje nomthandazo wami una kokubi kwabo.",
+  "tokens": [
+    {
+      "surface": "יהלמני",
+      "gloss": "angishaye"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umkhululi"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "ויוכיחני",
+      "gloss": "futhi angihumushe"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "yilothe"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "lasekhanda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kungabi"
+    },
+    {
+      "surface": "יני",
+      "gloss": "lungawuni"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ikhanda lami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "okwamanje"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "nomthandazo wami"
+    },
+    {
+      "surface": "ברעותיהם",
+      "gloss": "kokubi kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:28.937763361Z",
+  "model": "glm-5.3"
+}

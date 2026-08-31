@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 3:7",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi uShemuweli wayengakazi ⟨את⟩ uYahwe, futhi izwi likaYahwe lalingakavulwa kuyena.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "futhi uShemuweli"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "engaka-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וטרם",
+      "gloss": "futhi engaka-"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "vulwa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:16:07.803718809Z",
+  "model": "glm-5.3"
+}

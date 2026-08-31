@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 8:1",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Bonke abantu baqoqana njengendoda eyodwa esiggweni esingaphambi komsango wamanzi, bathi ku-Ezra umbhali ukuletha ⟨את⟩ incwadi yomthetho kaMoshe owayalelayo uYahwe ⟨את⟩ u-Israeli.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "baqoqana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "njengendoda"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eyodwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הרחוב",
+      "gloss": "esiggweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esing"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "שער",
+      "gloss": "komsango"
+    },
+    {
+      "surface": "המים",
+      "gloss": "wamanzi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "לעזרא",
+      "gloss": "ku-Ezra"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "umbhali"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ukuletha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "incwadi"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "incwadi"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "yomthetho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kaMoshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "owayalelayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Israeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israeli"
+    }
+  ],
+  "timestamp": "2026-08-31T08:16:40.130326447Z",
+  "model": "glm-5.3"
+}

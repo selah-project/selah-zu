@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "uElohim ungamlahlekeli, nomholi wabantu bakho ungamgqatsuli.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungaqalekisi-"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "mlahlele"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "nomholi"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "wabantu bakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungaqalekisi-"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "mgqatsuli"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:04.091628706Z",
+  "model": "glm-5.3"
+}

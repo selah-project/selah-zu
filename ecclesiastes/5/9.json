@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Othanda imali angezakale ngemali, nalowo othanda ubutyebi akulona inzuzo; futhi lokhu kuphela yubunyaza.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "othanda"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "imali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "angezakale"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ngemali"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "nalowo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "othanda"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "ubutyebi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akulona"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "inzuzo"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ubunyaza"
+    }
+  ],
+  "timestamp": "2026-08-31T07:47:02.139460942Z",
+  "model": "glm-5.3"
+}

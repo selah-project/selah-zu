@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 118,
+  "ref": "psalms 119:118",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Udokholisile bonke abadukayo emithethweni yakho, ngoba ubuxoki yiboldobhu yabo.",
+  "tokens": [
+    {
+      "surface": "סלית",
+      "gloss": "udokholisile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "שוגים",
+      "gloss": "abadukayo"
+    },
+    {
+      "surface": "מחקיך",
+      "gloss": "emithethweni yakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ubuxoki"
+    },
+    {
+      "surface": "תרמיתם",
+      "gloss": "yiboldobhu yabo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:26.489261773Z",
+  "model": "glm-5.3"
+}

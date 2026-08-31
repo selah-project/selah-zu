@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 17:3",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "U-Yahwe waba nguYehoshuwa, ngokuba ehamba ezindlebeni zikaDavida uyise zakudala, waze walengela ukufuna izingosi zezinkosi ezingaphezulu (amabaali).",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nguYehoshuwa"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ezindlebeni"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "zikaDavida"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "zakudala"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waze walengela"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ukufuna"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "izingosi zezinkosi ezingaphezulu (amabaali)"
+    }
+  ],
+  "timestamp": "2026-08-31T08:38:13.721862380Z",
+  "model": "glm-5.3"
+}

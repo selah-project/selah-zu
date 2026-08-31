@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 30:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "uYahwe, uyiphezulisile iSheol inefeshi yami, ungiphilise kwezehla esigodini.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "uyiphezulisile"
+    },
+    {
+      "surface": "מן",
+      "gloss": "—"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "iSheol"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "ungiphilise"
+    },
+    {
+      "surface": "מיורדי",
+      "gloss": "kwezehla"
+    },
+    {
+      "surface": "בור",
+      "gloss": "esigodini"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:31.589372725Z",
+  "model": "glm-5.3"
+}

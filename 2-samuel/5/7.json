@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Kodwa uDavida wathatha ⟨את⟩ isiphephelo seTsiyoni; yilo idolobha likaDavida.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "wathatha ngesibindi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiphephelo"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "isiphephelo"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yilo"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "idolobha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "likaDavida"
+    }
+  ],
+  "timestamp": "2026-08-31T03:34:45.998330393Z",
+  "model": "glm-5.3"
+}

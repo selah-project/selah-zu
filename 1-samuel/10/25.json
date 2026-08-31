@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 10:25",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "UShemuweli wakhuluma ebantwini ⟨את⟩ umthetho wobukhosi, wabhala ocwecweni, wabe eseluubeka phambi kukaYahwe; uShemuweli wathumela bonke abantu, umuntu ngamunye eya endlwini yakhe.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ebantwini"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umthetho wobukhosi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "umthetho"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "wobukhosi"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "wabhala"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "ocwecweni"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "wabe eseluubeka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonke abantu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu ngamunye"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "endlwini yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:18:08.150742558Z",
+  "model": "glm-5.3"
+}

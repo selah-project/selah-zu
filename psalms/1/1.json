@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 1:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Injabulo ingeyalomuntu engahambanga encekwini yabelungisileyo, futhi endleleni yezizoni akakhulumi, futhi esihlalweni sabahlekisi akukhulumi.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Injabulo ingeyalomuntu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ongu-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "hambanga"
+    },
+    {
+      "surface": "בעצת",
+      "gloss": "encekwini"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yabelungisileyo"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "futhi endleleni"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "yezizoni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aka-"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "khulumi"
+    },
+    {
+      "surface": "ובמושב",
+      "gloss": "futhi esihlalweni"
+    },
+    {
+      "surface": "לצים",
+      "gloss": "sabahlekisi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aku-"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "khulumi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:04.731061580Z",
+  "model": "glm-5.3"
+}

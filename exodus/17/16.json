@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "wathi: ngokuthi isandla siphezu kwesikhulu sikaYah; impi yakaYahwe nge-Amaleki, kusukela esizukulwaneni kuya esizukulwaneni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "יד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "על",
+      "gloss": "siphezu"
+    },
+    {
+      "surface": "כס",
+      "gloss": "kwesikhulu"
+    },
+    {
+      "surface": "יה",
+      "gloss": "sikaYah"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "impi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "yakaYahwe"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "nge-Amaleki"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "kusukela esizukulwaneni"
+    },
+    {
+      "surface": "דר",
+      "gloss": "kuya esizukulwaneni"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:56.954214056Z",
+  "model": "glm-5.3"
+}

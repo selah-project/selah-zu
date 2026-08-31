@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Uma umhlukumeza ngempela ⟨את⟩ ⟨ye⟩, ngokuba uma esikhalakhalaku kimi, ngizuzuzwa ngizwa ukukhalakala kwakhe.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "umhlukumeza"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ye⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "esikhalakhalaku"
+    },
+    {
+      "surface": "יצעעק",
+      "gloss": "ukukhalakhalaku",
+      "note": "typo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngizuzuzwa"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ngizwa"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "ukukhalakala kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:01.463606767Z",
+  "model": "glm-5.3"
+}

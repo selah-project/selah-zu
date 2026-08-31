@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi u-Aharon uzoletha ⟨את⟩ inkunzi yenkomo engumnikelo wamacala eyakhe, aze akhulule ngenxa yakhe nangenxa yendlu yakhe.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "uzoletha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkunzi yenkomo"
+    },
+    {
+      "surface": "פר",
+      "gloss": "inkunzi yenkomo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "engumnikelo wamacala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eng"
+    },
+    {
+      "surface": "לו",
+      "gloss": "eyakhe"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "aze akhulule"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ngenkxi yakhe"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "nangenxa"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "yendlu yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:59:20.527361117Z",
+  "model": "glm-5.3"
+}

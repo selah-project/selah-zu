@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Amamen' ukuthi nina nina ⟨isizwe⟩, futhi ukuhlakanipha kuzofa nani.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "amamen'"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨isizwe⟩"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "nani"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "kuzofa"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ukuhlakanipha"
+    }
+  ],
+  "timestamp": "2026-08-31T07:13:29.737785055Z",
+  "model": "glm-5.3"
+}

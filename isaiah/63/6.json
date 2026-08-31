@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 63:6",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 63,
+  "translation": "Futhi ndazinqenya izizwe engcalweni yami, futhi ndaziphuzisa ngolaka lwami, futhi ndazehlisa emhlabeni uju lwamagilevuthi azo (igazi labo).",
+  "tokens": [
+    {
+      "surface": "ואבוס",
+      "gloss": "futhi ndazinqenya"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "engcalweni yami"
+    },
+    {
+      "surface": "ואשכרם",
+      "gloss": "futhi ndaziphuzisa"
+    },
+    {
+      "surface": "בחמתי",
+      "gloss": "ngolaka lwami"
+    },
+    {
+      "surface": "ואוריד",
+      "gloss": "futhi ndazehlisa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "נצחם",
+      "gloss": "uju lwamagilevuthi azo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:37:11.530738929Z",
+  "model": "glm-5.3"
+}

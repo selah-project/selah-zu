@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 10:12",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Futhi ngiyobaqinisa kuYahwe, futhi nangegama lakhe bayohamba, kusho uYahwe.",
+  "tokens": [
+    {
+      "surface": "וגברתים",
+      "gloss": "futhi ngiyobaqinisa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "futhi nangegama lakhe"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "bayohamba"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kusho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:43:30.033559124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 26:7",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Sakhala kuYahwe, u-Elohim wabafo bethu, uYahwe wazwa ⟨את⟩ izwi lethu, wabona ⟨את⟩ ubuhlungu bethu ⟨את⟩ nobunzima bethu ⟨את⟩ nocindezelo lwethu.",
+  "tokens": [
+    {
+      "surface": "ונצעק",
+      "gloss": "sakhala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "wabafo bethu"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "wazwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi lethu"
+    },
+    {
+      "surface": "קלנו",
+      "gloss": "izwi lethu"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuhlungu bethu"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "ubuhlungu bethu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ubunzima bethu"
+    },
+    {
+      "surface": "עמלנו",
+      "gloss": "ubunzima bethu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ucindezelo lwethu"
+    },
+    {
+      "surface": "לחצנו",
+      "gloss": "ucindezelo lwethu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:42:31.649724835Z",
+  "model": "glm-5.3"
+}

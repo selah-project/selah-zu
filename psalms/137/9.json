@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 137,
+  "translation": "Ubusisiwe ⟨⟨את⟩⟩ lowo othatha omutsha wakho bese emshaya ephezu kwezitje.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ubusisiwe"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "lowo othatha"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "bese emshaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omutsha wakho"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "omutsha wakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ephezu"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "kwesitje"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:45.370378959Z",
+  "model": "glm-5.3"
+}

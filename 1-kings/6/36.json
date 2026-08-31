@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-kings 6:36",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Wakha ⟨את⟩ ithuba langaphakathi ngezintaba ezintathu zamathegi aphansi, nethuba lemithi yamakhweshwana.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithuba langaphakathi"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ithuba"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "langaphakathi"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "izintaba"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "zamathegi aphansi"
+    },
+    {
+      "surface": "וטור",
+      "gloss": "nethuba lemithi"
+    },
+    {
+      "surface": "כרתת",
+      "gloss": "yamakhweshwana"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "yamakhweshwana enezinkuni ezinde"
+    }
+  ],
+  "timestamp": "2026-08-31T03:49:22.628369876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Sibuyisele ithilogi lika-Elohim wethu ⟨את⟩ elikuThina, ngokuba asizange simbone ngosuku lukaShawuli.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "Sibuyisele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithilogi lika-Elohim wethu"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ithilogi"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "lika-Elohim wethu"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "elikuThina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asizange"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "simbone"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "lukaShawuli"
+    }
+  ],
+  "timestamp": "2026-08-31T08:24:29.411090129Z",
+  "model": "glm-5.3"
+}

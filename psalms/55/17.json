@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 55,
+  "translation": "Mina, kunkuElohim ngizamemeza, uYahwe uzongsindisa.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ngizamemeza"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "uzongsindisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:53.584599223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 134:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 134,
+  "translation": "uYahwe akusise usuka eTsiyoni, umenzi wezulu nomhlaba.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "akusise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "usuka eTsiyoni"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "umenzi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "wezulu"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "nomhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:48.615433930Z",
+  "model": "glm-5.3"
+}

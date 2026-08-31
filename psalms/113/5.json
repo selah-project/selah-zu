@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 113:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 113,
+  "translation": "Ubani njengoYahwe uElohim wethu, oyephakamisela ukuzihlalisela phezulu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ubani"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "njengoYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "המגביהי",
+      "gloss": "oyephakamisela"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ukuzihlalisela phezulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:20.892413148Z",
+  "model": "glm-5.3"
+}

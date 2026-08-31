@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Nginguye indoda eyibonile inhlupheko ngenduku yonyoso lwakhe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Nginguye"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "eyibonile"
+    },
+    {
+      "surface": "עני",
+      "gloss": "inhlupheko"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ngenduku"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "yonyoso lwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:40:34.483479077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 129:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 129,
+  "translation": "Okungalokho ukuze kungazalisi isandla somqobi, futhi ingalo yomqhumba izikhwebu.",
+  "tokens": [
+    {
+      "surface": "שלא",
+      "gloss": "okungalokho ukuze kunga-"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "zalisi"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "קוצר",
+      "gloss": "somqobi"
+    },
+    {
+      "surface": "וחצנו",
+      "gloss": "ingalo yakhe"
+    },
+    {
+      "surface": "מעמר",
+      "gloss": "yomqhumba izikhwebu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:11.611881057Z",
+  "model": "glm-5.3"
+}

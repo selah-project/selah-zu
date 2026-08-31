@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 11:2",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Ingabe ukwanda kwamazwi kungachithwa yini lokho angephendulwe, futhi ingabe umuntu wezindebe uzolunga?",
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "ukwanda"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "angephendulwe"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "futhi-ingabe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "wezindebe"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "uzolunga"
+    }
+  ],
+  "timestamp": "2026-08-31T07:12:20.406429095Z",
+  "model": "glm-5.3"
+}

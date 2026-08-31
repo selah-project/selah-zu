@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 15:22",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Wathi uShmuyeli: Ingabe uYahwe uthanda izinhlaziyo nezinkonzo ezwabhalwa njengokulalela izwi lukaYahwe? Bheba, ukulalela kungcono kunenzinkonzo, futhi ukuqaphela kungcono kunamafutha amadhoda.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShmuyeli"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "uthanda"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "izinhlaziyo"
+    },
+    {
+      "surface": "וזבחים",
+      "gloss": "nezinkonzo ezwabhalwa"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "njengokulalela"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lukaYahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bheba"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ukulalela"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kunenzinkonzo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kungcona"
+    },
+    {
+      "surface": "להקשיב",
+      "gloss": "ukuqaphela"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "kunamafutha"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "amadhoda"
+    }
+  ],
+  "timestamp": "2026-08-31T03:21:49.162784183Z",
+  "model": "glm-5.3"
+}

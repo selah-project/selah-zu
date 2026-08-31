@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 7:14",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Amadodana kaMenashe: u-Asriyeli, lowo [o]mzaleyelayo [ongasese] wakhe [owesiArama] wamzalelela ⟨את⟩ uMakhiri, uyise waGiliadi.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "kaMenashe"
+    },
+    {
+      "surface": "אשריאל",
+      "gloss": "u-Asriyeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wamzalelela"
+    },
+    {
+      "surface": "פילגשו",
+      "gloss": "[ongasese] wakhe"
+    },
+    {
+      "surface": "הארמיה",
+      "gloss": "[owesiArama]"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMakhiri"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "uMakhiri"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "waGiliadi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:21:54.853013833Z",
+  "model": "glm-5.3"
+}

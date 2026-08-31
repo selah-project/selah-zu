@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "ISarayi yayingenasizalo; wayengenalwandi.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "yayinga-"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "iSarayi"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "nenasizalo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "wayenga-"
+    },
+    {
+      "surface": "לה",
+      "gloss": "-e"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "nalwandi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:06:11.000910110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 11:10",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi uYehoshuwa wabuyela emuva ngaleso sikhathi, wathatha ⟨את⟩ iHatsori, futhi inkosi yayo wayibulala ngekhanda; ngokuba iHatsori kwasemuva yayiyinhloko yazo zonke izumbuso zalezi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wabuyela emuva"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ngaleso"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "sikhathi"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iHatsori"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "iHatsori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi yayo"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "inkosi yayo"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "wayibulala"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ngekhanda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "iHatsori"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "kwasemuva"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yayiyi-"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "inhloko"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yazo zonke"
+    },
+    {
+      "surface": "הממלכות",
+      "gloss": "izumbuso"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "zalezi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:54:53.234538804Z",
+  "model": "glm-5.3"
+}

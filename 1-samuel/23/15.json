@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 23:15",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "UDavide wabona ukuthi uShawuli uphumile ukufuna ⟨את⟩ umphefumulo wakhe; uDavide wayesesigodini saseZifi, ehlathini.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uphumile"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ukufuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umphefumulo wakhe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "umphefumulo wakhe"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "esigodini"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "saseZifi"
+    },
+    {
+      "surface": "בחרשה",
+      "gloss": "ehlathini"
+    }
+  ],
+  "timestamp": "2026-08-31T03:25:53.894501873Z",
+  "model": "glm-5.3"
+}

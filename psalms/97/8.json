@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 97:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 97,
+  "translation": "Iziyoni iyezwa yajabula, futhi amadodakazi akwaYuda angenwe injabulo ngenxa yezinqumo zakho, uYahwe.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "iyezwa"
+    },
+    {
+      "surface": "ותשמח",
+      "gloss": "yajabula"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Iziyoni"
+    },
+    {
+      "surface": "ותגלנה",
+      "gloss": "angenwe injabulo"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "amadodakazi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "akwaYuda"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "yezinqumo zakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:54.165590318Z",
+  "model": "glm-5.3"
+}

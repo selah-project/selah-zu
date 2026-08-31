@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Wafika kuyise, wathi: Baba! Wathi yena: Ngiyakuqonda; ungubani wena, ndodana yami?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wafika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kuyise"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Baba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ngiyakuqonda"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ungubani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ndodana yami"
+    }
+  ],
+  "timestamp": "2026-08-31T01:14:45.106416992Z",
+  "model": "glm-5.3"
+}

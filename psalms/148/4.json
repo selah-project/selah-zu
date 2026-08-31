@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 148,
+  "translation": "Mudumise yena, izulu lzamazulu, nalamanzi ayengaphezulu kwamazulu.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Mudumise yena"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "izulu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "lzamazulu"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "nalamanzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "la-"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "engaphezulu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kwamazulu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:56:42.734711773Z",
+  "model": "glm-5.3"
+}

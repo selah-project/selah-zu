@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 2:10",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Wayeyisabalalisa ⟨את⟩ phambi kwami, yona ibhaliwe phambili nangemuva; okubhaliwe kuyona: amazwi okulila, nokukhalazela, nasentlakaseni",
+  "tokens": [
+    {
+      "surface": "ויפרש",
+      "gloss": "Wayeyisabalalisa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "umugqa wesibonakaliso (isikrulu)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwami"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "ibhaliwe"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "phambili"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "nangemuva"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "okubhaliwe"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuyona"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "amazwi okulila"
+    },
+    {
+      "surface": "והגה",
+      "gloss": "nokukhalazela"
+    },
+    {
+      "surface": "והי",
+      "gloss": "nasentlakaseni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:11:52.332229083Z",
+  "model": "glm-5.3"
+}

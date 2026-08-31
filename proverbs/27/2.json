@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Makudwebe ngawe omunye, hhayi umlomo wakho; omungowenu, hhayi milomo yakho.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "makudwebe ngawe"
+    },
+    {
+      "surface": "זר",
+      "gloss": "omunye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hhayi"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "umlomo wakho"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "omungowenu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "hhayi"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "milomo yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T07:03:40.450321017Z",
+  "model": "glm-5.3"
+}

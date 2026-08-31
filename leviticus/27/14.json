@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 27:14",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Futhi uma indoda ingcwabhisa ⟨את⟩ indlu yayo ingcwele kuYahwe, umpristi uyoyilinganisa, phakathi kokuhle naphakathi kokubi; njengoba umpristi ayilinganisa ⟨את⟩ yena, ngakho kuzomila.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "futhi indoda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "uma"
+    },
+    {
+      "surface": "יקדש",
+      "gloss": "ingcwabhisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yayo"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "indlu yayo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ingcwele"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "והעריכו",
+      "gloss": "uyoyilinganisa"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "naphakathi kwa-"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "יעריך",
+      "gloss": "ayilinganisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (umpristi)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "kuzomila"
+    }
+  ],
+  "timestamp": "2026-08-31T06:00:15.328043084Z",
+  "model": "glm-5.3"
+}

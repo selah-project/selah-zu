@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 139,
+  "translation": "Uma ubulala omubi, u-Eloah! Nina bantu begazi, sukwani kimi!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "ubulala"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "u-Eloah"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "omubi"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "nina bantu be-"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "igazi"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "sukwani"
+    },
+    {
+      "surface": "מני",
+      "gloss": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:50.399287702Z",
+  "model": "glm-5.3"
+}

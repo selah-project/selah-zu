@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 25:28",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi uzokwenza ⟨את⟩ izinti ngomuthi weshittimi, uzigubhe ngegolide, futhi itafula lizakuthwalwa ngazo ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "futhi uzokwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinti"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "izinti"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ngomutha"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "weshittimi"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "uzozigubha nge-"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ kuzo (zona)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "futhi lizakuthwalwa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ngazo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itafula"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "itafula"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:29.218181668Z",
+  "model": "glm-5.3"
+}

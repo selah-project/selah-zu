@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 1:52",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi abantwana bakwaIsrayeli bayakhampela, mumunye ngokwekampu yakhe, futhi mumunye ngokwekhalo lakhe, ngokwezimpi zawo.",
+  "tokens": [
+    {
+      "surface": "וחנו",
+      "gloss": "Futhi bayakhampela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaIsrayeli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "mumunye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokwe-"
+    },
+    {
+      "surface": "מחנהו",
+      "gloss": "kampu yakhe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "futhi mumunye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokwe-"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "khalo lakhe"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "ngokwezimpi zawo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:07:23.190113026Z",
+  "model": "glm-5.3"
+}

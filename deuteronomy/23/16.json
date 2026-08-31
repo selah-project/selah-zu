@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Ungayinikeli inkonzi inkosini yayo — inkonzi eyasindiswa ibalekela kuwe, ephuma kwenkosi yayo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "yinikeli"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "inkonzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "inkosi yayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engase"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "eyasindiswa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ephuma kwa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "inkosi yayo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:42:15.593603634Z",
+  "model": "glm-5.3"
+}

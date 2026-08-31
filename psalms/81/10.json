@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 81,
+  "translation": "Akumelanga ube khona kuwe u-El ozelayo; futhi ungabukhonzeli u-El wabezinye izizwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ozelayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi ungabi"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ukhonzela ngokugcoba"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wabezinye izizwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:31.933193947Z",
+  "model": "glm-5.3"
+}

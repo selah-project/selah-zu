@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Enyameni yabo ngingakudli, futhi ezithombeni zabo ngingazi thinti — ngingcwele zona kini.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "enyameni yabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ninga-"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "dli"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "futhi ezithombeni zabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ninga-"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "thinti"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "ningcwele"
+    },
+    {
+      "surface": "הם",
+      "gloss": "zona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-08-31T01:54:23.029296220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 13:11",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Ingabe ukuphakama kwakhe akunimesabi yini, noyesaba lwakhe lukwehla phezu kwenu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ingabe... yini"
+    },
+    {
+      "surface": "שאתו",
+      "gloss": "ukuphakama kwakhe"
+    },
+    {
+      "surface": "תבעת",
+      "gloss": "akunimesabi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "noyesaba lwakhe"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "lukwehla"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "phezu kwenu"
+    }
+  ],
+  "timestamp": "2026-08-31T07:13:41.206385628Z",
+  "model": "glm-5.3"
+}

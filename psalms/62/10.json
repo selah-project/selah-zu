@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 62:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 62,
+  "translation": "Kepha ize yizabantwana bantu, amanga izabantwana amadoda; emizwaneni ukuze banyuke, bona kunesi-ize ndawonye ⟨balula⟩.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kepha"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ize"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yizabantwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "bantu"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "amanga"
+    },
+    {
+      "surface": "בני",
+      "gloss": "izabantwana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "במאזנים",
+      "gloss": "emizwaneni"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "ukuze banyuke"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "kunesi-ize"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ndawonye"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:02.329910640Z",
+  "model": "glm-5.3"
+}

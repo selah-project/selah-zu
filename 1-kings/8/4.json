@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 8:4",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Baphakusa ⟨את⟩ isibonda sikaYahwe nohuladi wokuhlangana, kanye ⟨את⟩ bonke Izithako ezingcwele ezisolweni; abaphristi na-abalevi babaphakusa lezo.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "baphakusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibonda sikaYahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isibonda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kanye ⟨את⟩",
+      "marks": "uhuladi wokuhlangana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ohuladi"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wokuhlangana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kanye ⟨את⟩",
+      "marks": "bonke Izithako ezingcwele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "Izithako"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ezingcwele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezisolweni es"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ohuladini"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "babaphakusa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ lezo",
+      "marks": "isibonda nohuladi kanye neZithako ezingcwele"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abaphristi"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "na-abalevi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:51:59.709635018Z",
+  "model": "glm-5.3"
+}

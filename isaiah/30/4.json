@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Ngokuba izikhulu zabo zabe isibiya eTsoani, nezithunywa zabo zafikelela eHanisi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "היו",
+      "gloss": "zabe"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "eTsoani"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "izikhulu zabo"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "nezithunywa zabo"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "eHanisi"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "zafikelela"
+    }
+  ],
+  "timestamp": "2026-08-31T04:26:24.249911821Z",
+  "model": "glm-5.3"
+}

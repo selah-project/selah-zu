@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 35:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Intshabalalo imzelela engazi; neniwe yakhe ayifihlile imtha; entshabalalweni yona oguwa kuyona.",
+  "tokens": [
+    {
+      "surface": "תבואהו",
+      "gloss": "imzelela"
+    },
+    {
+      "surface": "שואה",
+      "gloss": "intshabalalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "ורשתו",
+      "gloss": "neniwe yakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le"
+    },
+    {
+      "surface": "טמן",
+      "gloss": "ayifihlile"
+    },
+    {
+      "surface": "תלכדו",
+      "gloss": "imtha"
+    },
+    {
+      "surface": "בשואה",
+      "gloss": "entshabalalweni"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "oguwa"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuyona"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:59.035154384Z",
+  "model": "glm-5.3"
+}

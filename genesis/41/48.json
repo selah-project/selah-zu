@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 41:48",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Waqoqa ⟨את⟩ konke ukudla kweminyaka emikhulu eyisikhombisa engaba sezweni laseMitsrayim, wabe esebeka ukudla emadolobheni; ukudla kwensimu yedolobha elingaselambeni walubeka phakathi kwalo.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "Waqoqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke ukudla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "eyisikhombisa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "kweminyaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engaba"
+    },
+    {
+      "surface": "היו",
+      "gloss": "zazikhona"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "sezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wabe esebeka"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "emadolobheni"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "kwensimu"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "yedolobha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elingaselambene"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "kuyilandelana"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "walubeka"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "phakathi kwalo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:55:46.190550344Z",
+  "model": "glm-5.3"
+}

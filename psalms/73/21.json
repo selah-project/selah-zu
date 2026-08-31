@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Ngokuba inhliziyo yami yavumba, izinso zami zakhalwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "yavumba"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "inhliziyo yami"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "izinso zami"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "zakhalwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:26.325659444Z",
+  "model": "glm-5.3"
+}

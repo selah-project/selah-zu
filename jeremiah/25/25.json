@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 25:25",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "no ⟨את⟩ wonke amakhosi azimri, no ⟨את⟩ wonke amakhosi a-Elamu, no ⟨את⟩ wonke amakhosi aMadayi,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no ⟨את⟩",
+      "marks": "wonke amakhosi azimri"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "azimri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no ⟨את⟩",
+      "marks": "wonke amakhosi a-Elamu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "a-Elamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no ⟨את⟩",
+      "marks": "wonke amakhosi aMadayi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "aMadayi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:49:29.964096441Z",
+  "model": "glm-5.3"
+}

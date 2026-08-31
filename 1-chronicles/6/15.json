@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "uShimeya indodana yakhe, uChagiyah indodana yakhe, u-Asayah indodana yakhe.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "uShimeya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "uChagiyah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "u-Asayah"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:20:55.557312753Z",
+  "model": "glm-5.3"
+}

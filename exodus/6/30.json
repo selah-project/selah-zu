@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "UMoshe wasaphendula esiphambweni sesiphithi seYahwe, wathi: Bheka, mina nginomlomo ongagcoki izindebe, futhi uParo uzoyizwa yini mina?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "esiphambweni sesiphithi sa-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "ongagcoki"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "izindebe"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "futhi yini"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "uzoyizwa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:27:36.319563636Z",
+  "model": "glm-5.3"
+}

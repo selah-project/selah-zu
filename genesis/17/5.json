@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 17:5",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Igama lakho ngeke libizwe futhi i-Avram, ligabe libe yi-Avraham, ngokuba umfazi wezizwe eziningi ngikunikile.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "nokuthi-ungi"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "bizwe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lakho"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "i-Avram"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ligabe libe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "i-Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אב",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "המון",
+      "gloss": "wezizwe eziningi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "wezizwe eziningi"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ngikunikile"
+    }
+  ],
+  "timestamp": "2026-08-31T08:48:34.643599123Z",
+  "model": "glm-5.3"
+}

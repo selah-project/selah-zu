@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Indlela yalungile yo buqotho; wena oLungile uyenza ibe ngqindilili indlela yolungile.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "indlela ya"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "lunge"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "yo buqotho"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "oLungile"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "indlela ya"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "lunge"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "uyenza ibe ngqindilili"
+    }
+  ],
+  "timestamp": "2026-08-31T06:08:04.937361440Z",
+  "model": "glm-5.3"
+}

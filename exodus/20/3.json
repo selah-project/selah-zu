@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Ungabe \u000bwonela\u000b uElohim \u000babanye\u000b \u000bphezu kwendawo \u000byami\u000b.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ungabe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "\u000bwonela\u000b"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "\u000babanye\u000b"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "פני",
+      "gloss": "\u000bubuso bami\u000b"
+    }
+  ],
+  "timestamp": "2026-08-31T10:12:08.544079807Z",
+  "model": "glm-5.3"
+}

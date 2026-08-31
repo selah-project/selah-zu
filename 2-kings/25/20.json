@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 25:20",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi uNebuzaradan, inkosi yabulali, wathatha ⟨את⟩ bona, wabahambisa ⟨את⟩ kuyinkosi yaseBhabhyloni, eRiblyatha.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": "uNebuzaradan"
+    },
+    {
+      "surface": "רב",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "yabulali"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wabahambisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kuyinkosi yaseBhabhyloni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "yaseBhabhyloni"
+    },
+    {
+      "surface": "רבלתה",
+      "gloss": "eRiblyatha"
+    }
+  ],
+  "timestamp": "2026-08-31T04:16:19.082742446Z",
+  "model": "glm-5.3"
+}

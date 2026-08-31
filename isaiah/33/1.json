@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 33:1",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Hoyi wena owonakalisa, futhi wena awunakaliswanga; wena okhohlisa, futhi abazange bakhohele wena. Njengokuphela kwakho ukonakalisa, uzonakaliswa; njengokuphela kwakho ukukhohelela, bazokukhohelela wena.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hoyi"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "wena owonakalisa"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "futhi wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "שדוד",
+      "gloss": "awunakaliswanga"
+    },
+    {
+      "surface": "ובוגד",
+      "gloss": "futhi okhohlisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi abazange"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "bakhohele"
+    },
+    {
+      "surface": "בו",
+      "gloss": "wena"
+    },
+    {
+      "surface": "כהתמך",
+      "gloss": "njengokuphela kwakho"
+    },
+    {
+      "surface": "שודד",
+      "gloss": "ukonakalisa"
+    },
+    {
+      "surface": "תושד",
+      "gloss": "uzonakaliswa"
+    },
+    {
+      "surface": "כנלתך",
+      "gloss": "njengokuphela kwakho"
+    },
+    {
+      "surface": "לבגד",
+      "gloss": "ukukhohelela"
+    },
+    {
+      "surface": "יבגדו",
+      "gloss": "bazokukhohelela"
+    },
+    {
+      "surface": "בך",
+      "gloss": "wena"
+    }
+  ],
+  "timestamp": "2026-08-31T04:26:57.549391127Z",
+  "model": "glm-5.3"
+}

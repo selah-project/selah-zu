@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 12:4",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Esizalwaneni wasika ngesidlulisela umfowabo ⟨את⟩, futhi engunqeni lwakhe walwa noElohim ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "בבטן",
+      "gloss": "Esizalwaneni"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "wasika ngesidlulisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfowabo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umfowabo"
+    },
+    {
+      "surface": "ובאונו",
+      "gloss": "futhi engunqeni lwakhe"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "walwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "noElohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "noElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:13.465178741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 59:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 59,
+  "translation": "Amandla ⟨ami⟩, kuwe ngiyocula-udumo, ngoba uElohim ungusixhumanzi ⟨wami⟩, uElohim we-ikhesedi ⟨yami⟩.",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "Amandla"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ngiyocula-udumo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "ungusixhumanzi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "we-ikhesedi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:30.166031678Z",
+  "model": "glm-5.3"
+}

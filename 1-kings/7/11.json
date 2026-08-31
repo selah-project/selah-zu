@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 7:11",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi ngaphezulu kwakungamatshe abizayo ngesabelo njengemilinganiselo yamatshe okudayiza, nowohlanga olumhlophe (i-cedar).",
+  "tokens": [
+    {
+      "surface": "ומלמעלה",
+      "gloss": "futhi ngaphezulu"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "amatshe"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "abizayo ngesabelo"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "njengemilinganiselo"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "amatshe okudayiza"
+    },
+    {
+      "surface": "וארז",
+      "gloss": "nowohlanga olumhlophe (i-cedar)"
+    }
+  ],
+  "timestamp": "2026-08-31T03:49:30.364201391Z",
+  "model": "glm-5.3"
+}

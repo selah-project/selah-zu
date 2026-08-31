@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 107:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Banikela udumo kuYahwe, ngoba ⟨uhle⟩, ngoba ikhesedi yakhe ihlala isikhathi esingapheli.",
+  "tokens": [
+    {
+      "surface": "הדו",
+      "gloss": "Banikela udumo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨uhle⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "isikhathi esingapheli"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:26.907468167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 41:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Ngubani osebenzile futhi wenza lokhu, abizela izizukulwana ekuqaleni? NginguYahwe owokuqala, futhi ⟨את⟩ abasizayo nginguye yena.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "osebenzile"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "futhi wenza"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "abizela"
+    },
+    {
+      "surface": "הדרות",
+      "gloss": "izizukulwana"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "ekuqaleni"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ngingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "owokuqala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abasizaye"
+    },
+    {
+      "surface": "אחרנים",
+      "gloss": "abasizaye"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngingu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ye yena"
+    }
+  ],
+  "timestamp": "2026-08-31T04:30:44.203623770Z",
+  "model": "glm-5.3"
+}

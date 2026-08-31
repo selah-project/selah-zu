@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 7:5",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi umfundisi uzozitshisa ⟨את⟩ ezibhedingweni, isinikelo somlilo kuYahwe; yisiphephelo.",
+  "tokens": [
+    {
+      "surface": "והקטיר",
+      "gloss": "futhi uzozitshisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izi- (izithako zesiphephelo)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umfundisi"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ezibhedingweni"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "isinikelo somlilo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "isiphephelo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "y(i)-"
+    }
+  ],
+  "timestamp": "2026-08-31T10:13:33.259585649Z",
+  "model": "glm-5.3"
+}

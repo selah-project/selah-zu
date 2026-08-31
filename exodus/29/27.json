@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 29:27",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Uzoyenga ngcwele ⟨את⟩ ifiphu lesipho esidudiziwe kanye ⟨את⟩ nomlenze wesipho esiphakanyisiwe, okududiziwe nendiphakanyisiwe, esibayeni sokugcwaliswa, kwasemaka-Aharoni nakwasemakingane zakhe.",
+  "tokens": [
+    {
+      "surface": "וקדשת",
+      "gloss": "Uzoyenga ngcwele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifiphu lesipho esidudiziwe"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ifiphu"
+    },
+    {
+      "surface": "התנופה",
+      "gloss": "lesipho esidudiziwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ kanye no-",
+      "marks": "umlenze wesipho esiphakanyisiwe"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "umlenze"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "wesipho esiphakanyisiwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ok"
+    },
+    {
+      "surface": "הונף",
+      "gloss": "kududiziwe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "nendi"
+    },
+    {
+      "surface": "הורם",
+      "gloss": "phakanyisiwe"
+    },
+    {
+      "surface": "מאיל",
+      "gloss": "esibayeni"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "sokugcwaliswa"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "kwasema-"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ka-Aharoni"
+    },
+    {
+      "surface": "ומאשר",
+      "gloss": "nakwasema-"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "kingane zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:42:54.637495148Z",
+  "model": "glm-5.3"
+}

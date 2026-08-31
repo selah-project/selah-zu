@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 8:9",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngokuba abayeqela ⁇ iAshuri, inqobo eqhubele yodwa; u-Efrayimu wathenga abathandi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "bayeqela"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "iAshuri"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "inqobo eqhubele"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "yodwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "u-Efrayimu"
+    },
+    {
+      "surface": "התנו",
+      "gloss": "wathenga"
+    },
+    {
+      "surface": "אהבים",
+      "gloss": "abathandi"
+    }
+  ],
+  "timestamp": "2026-08-31T11:44:57.335160239Z",
+  "model": "glm-5.3"
+}

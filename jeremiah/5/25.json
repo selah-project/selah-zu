@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 5:25",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Iziphambeko zenu zaqhosha lezi ⟨izinto⟩, nezoni zenu zavinsele okuhle kini.",
+  "tokens": [
+    {
+      "surface": "עונותיכם",
+      "gloss": "Iziphambeko zenu"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "zaqhosha"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "lezi ⟨izinto⟩"
+    },
+    {
+      "surface": "וחטאותיכם",
+      "gloss": "nezoni zenu"
+    },
+    {
+      "surface": "מנעו",
+      "gloss": "zavinsele"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-08-31T04:40:40.704047637Z",
+  "model": "glm-5.3"
+}

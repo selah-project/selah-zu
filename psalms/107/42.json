@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Abalungile bayabona bayajabula, yonke ingcali yavala ⟨umlomo⟩ wayo.",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "bayabona"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "abalungile"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "bayajabula"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ingcali"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "yavala"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "umlomo wayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:32.133163854Z",
+  "model": "glm-5.3"
+}

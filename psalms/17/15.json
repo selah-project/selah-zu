@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 17:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Mina, ngobulungiswa, ngizobukha ubuso bakho; ngizasutha, ngingavusiwe, ngesimo sakho.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ngobulungiswa"
+    },
+    {
+      "surface": "אחזה",
+      "gloss": "ngizobukha"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "אשבעה",
+      "gloss": "ngizasutha"
+    },
+    {
+      "surface": "בהקיץ",
+      "gloss": "ngingavusiwe"
+    },
+    {
+      "surface": "תמונתך",
+      "gloss": "ngesimo sakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:05.815449233Z",
+  "model": "glm-5.3"
+}

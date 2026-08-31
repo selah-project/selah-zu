@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 21:3",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "UDavide wathi ku-Ahimelekhi umpristi: Inkosi ingiphothile isimemo, yathi kimi: Muntu angazi lutho ⟨את⟩ udaba engikuthumela ngalo noma engikuphothile; futhi ⟨את⟩ amasizana ngiwazisile endaweni ethile-nje ethile-nje.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "לאחימלך",
+      "gloss": "ku-Ahimelekhi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "ingiphothile"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "isimemo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "muntu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "angazi (phikisa)"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "lutho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udaba"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "udaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "kuthumela"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "noma engi-"
+    },
+    {
+      "surface": "צויתך",
+      "gloss": "kuphothile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amasizana"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "amasizana"
+    },
+    {
+      "surface": "יודעתי",
+      "gloss": "ngiwazisile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ndaweni"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "ethile-nje"
+    },
+    {
+      "surface": "אלמוני",
+      "gloss": "ethile-nje"
+    }
+  ],
+  "timestamp": "2026-08-31T06:04:15.828053692Z",
+  "model": "glm-5.3"
+}

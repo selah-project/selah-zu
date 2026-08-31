@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 99,
+  "translation": "uYahwe mkhulu kakhulu eZiyoni, futhi uphakeme phezu kwazo zonke izizwe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "eZiyoni"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "mkhulu kakhulu"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "futhi uphakeme"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨yena⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kwazo zonke"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "izizwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:49.127843901Z",
+  "model": "glm-5.3"
+}

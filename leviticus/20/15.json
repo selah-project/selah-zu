@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 20:15",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Futhi indoda enganika ukulala kwayo esilwaneni, ifa ngokufa; futhi ⟨את⟩ isilwane niyobulala.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "futhi indoda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "enga-"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "enganika"
+    },
+    {
+      "surface": "שכבתו",
+      "gloss": "ukulala kwayo"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "esilwaneni"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ngokufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "isilwane"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "isilwane"
+    },
+    {
+      "surface": "תהרגו",
+      "gloss": "niyobulala"
+    }
+  ],
+  "timestamp": "2026-08-31T02:03:18.332904987Z",
+  "model": "glm-5.3"
+}

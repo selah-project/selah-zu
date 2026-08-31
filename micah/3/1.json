@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 3:1",
+  "book": "micah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngase ngithi: Mizwani ke nina, izinhloko zikaYakobi, noziphathamuni zendlu ka-Israyeli; akunjalo na ukuthi kufanele nazi ⟨את⟩ umthetho?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ngase ngithi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Mizwani"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke nina"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "izinhloko"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "zikaYakobi"
+    },
+    {
+      "surface": "וקציני",
+      "gloss": "noziphathamuni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israyeli"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "akunjalo na"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kufanele nina"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ukwazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umthetho"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "umthetho"
+    }
+  ],
+  "timestamp": "2026-08-31T05:36:24.930484298Z",
+  "model": "glm-5.3"
+}

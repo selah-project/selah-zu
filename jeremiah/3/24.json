@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 3:24",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi ihlazo selidile ⟨את⟩ umsebenzi wookhokho bethu kusukela ebusheni bethu: ⟨את⟩ izimvu zabo, ⟨את⟩ nezinkomo zabo, ⟨את⟩ amadodana abo, ⟨את⟩ namadodakazi abo.",
+  "tokens": [
+    {
+      "surface": "והבשת",
+      "gloss": "Futhi ihlazo"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "selidile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umsebenzi wookhokho bethu"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "אבותינו",
+      "gloss": "wookhokho bethu"
+    },
+    {
+      "surface": "מנעורינו",
+      "gloss": "kusukela ebusheni bethu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izimvu zabo"
+    },
+    {
+      "surface": "צאנם",
+      "gloss": "izimvu zabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "izinkomo zabo"
+    },
+    {
+      "surface": "בקרם",
+      "gloss": "izinkomo zabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadodana abo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "amadodana abo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ na-",
+      "marks": "amadodakazi abo"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "amadodakazi abo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:40:07.154062935Z",
+  "model": "glm-5.3"
+}

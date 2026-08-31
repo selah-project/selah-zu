@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Ne-anaka, nesehlamu esikhulu, nesilwane esinzuzayo, nesilwane esincinyane, nesilwane esishintsha umbala.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "ne-anaka"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "nesehlamu esikhulu"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "nesilwane esinzuzayo"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "nesilwane esincinyane"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "nesilwane esishintsha umbala"
+    }
+  ],
+  "timestamp": "2026-08-31T01:55:06.408193210Z",
+  "model": "glm-5.3"
+}

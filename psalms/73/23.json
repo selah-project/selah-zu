@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Kepha mina ngihlale ⟨ndikunye⟩ nawe; ubambe isandla sokudla sami.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kepha mina"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ngihlale"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨ndikunye⟩ nawe"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "ubambe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "sokudla sami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:26.326167511Z",
+  "model": "glm-5.3"
+}

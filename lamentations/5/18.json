@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Ngenxa yentaba iZiyoni, ese {{endle}} — izimpungutshe zihamba kuyo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ngenxa ya-"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yentaba"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iZiyoni"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "ese endle"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "izimpungutshe"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "zihamba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuyo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:42:56.907053233Z",
+  "model": "glm-5.3"
+}

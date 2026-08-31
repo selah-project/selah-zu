@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 164,
+  "ref": "psalms 119:164",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Kathathu ngesikhombisa ngalanga ngidakulela wedwa, ngenxa izigwebi zakho zobulungiswa.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "kathathu ngesikhombisa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalanga"
+    },
+    {
+      "surface": "הללתיך",
+      "gloss": "ngidakulela wedwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "izigwebi zakho"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "zobulungiswa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:13.253000231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 82,
+  "translation": "Isigude sika-Asaph: uElohim umile emhlanganweni ka-u-El, phakathi kwa-onkulunkulu uyaluleka.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "isigude"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "sika-Asaph"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "umile"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "emhlanganweni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka-u-El"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kwa-onkulunkulu"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "uyaluleka"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:06.117006846Z",
+  "model": "glm-5.3"
+}

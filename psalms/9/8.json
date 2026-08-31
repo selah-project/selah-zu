@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Futhi uYahwe uhlala kuze kube phakade; wamisela ukwahlulela isihlalo sakhe sobukhosi.",
+  "tokens": [
+    {
+      "surface": "ויהווה",
+      "gloss": "Futhi uYahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "uhlala"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "wamisela"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "ukwahlulela"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "isihlalo sakhe sobukhosi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:07.087191459Z",
+  "model": "glm-5.3"
+}

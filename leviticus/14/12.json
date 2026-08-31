@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 14:12",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi umprisi uzothatha ⟨את⟩ insimu‡ilambu‡ esisodwa futhi uzonikeza ⟨את⟩ yona njengomnikelo wecala, no⟨את⟩ ilogi lamafutha, futhi uzozungezisa izinto zonke ngokuzungezisa phambi kukaYahwe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "futhi uzothatha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umprisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insimunesesane esisodwa"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "insimunesesane"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "esisodwa"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "futhi uzonikeza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona",
+      "marks": "njengomnikelo wecala"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "njengomnikelo wecala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "ilogi lamafutha"
+    },
+    {
+      "surface": "לג",
+      "gloss": "ilogi"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "lamafutha"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "futhi uzozungezisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izinto zonke ngokuzungezisa"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "ngokuzungezisa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ukaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:56:48.192603731Z",
+  "model": "glm-5.3"
+}

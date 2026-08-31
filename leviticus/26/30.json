@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 26:30",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Ngizokhubaza ⟨את⟩ izindawo zakho eziphakeme, futhi ngizokhipha ⟨את⟩ izingcezu zenu zomilio, futhi ngizobeka ⟨את⟩ izidumbu zenu phezu kwezidumbu zama-idholi zenu, inefeshi yami iyozonda ⟨את⟩ nina.",
+  "tokens": [
+    {
+      "surface": "והשמדתי",
+      "gloss": "ngizokhubaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izindawo zakho eziphakeme"
+    },
+    {
+      "surface": "במתיכם",
+      "gloss": "izindawo zakho eziphakeme"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "futhi ngizokhipha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingcezu zenu zomilio"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "izingcezu zenu zomilio"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "futhi ngizobeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izidumbu zenu"
+    },
+    {
+      "surface": "פגריכם",
+      "gloss": "izidumbu zenu"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "פגרי",
+      "gloss": "izidumbu"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "zama-idholi zenu"
+    },
+    {
+      "surface": "וגעלה",
+      "gloss": "iyozonda"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    }
+  ],
+  "timestamp": "2026-08-31T02:06:33.537637488Z",
+  "model": "glm-5.3"
+}

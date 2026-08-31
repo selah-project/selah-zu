@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 24:3",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Ngathatha ⟨את⟩ uyenu u-Avraham ngapheside komfula, ngamhamba wonke izwe lase-Kenaani, wandala ⟨את⟩ inzuzwakhe, ngamnika ⟨את⟩ u-Yitsakhi.",
+  "tokens": [
+    {
+      "surface": "וואקח",
+      "gloss": "Ngathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyenu u-Avraham"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "uyenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ngapheside ko"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "umfula"
+    },
+    {
+      "surface": "ואולך",
+      "gloss": "ngamhamba"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ yena"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "lase-Kenaani"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "wandala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzuzwakhe"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "inzuzwakhe"
+    },
+    {
+      "surface": "ואתן",
+      "gloss": "ngamnika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Yitsakhi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "u-Yitsakhi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:01:11.306645083Z",
+  "model": "glm-5.3"
+}

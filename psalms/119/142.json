@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ilungelo lakho lingilungelo kuze kube phakade, futhi iThora yakho yiqiniso.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "Ilungelo lakho"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "lingilungelo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "futhi iThora yakho"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "yiqiniso"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:12.006668978Z",
+  "model": "glm-5.3"
+}

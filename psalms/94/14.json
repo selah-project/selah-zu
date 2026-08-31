@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 94,
+  "translation": "Ngokuba uYahwe akalaleli isizwe sakhe, futhi ifa lakhe ngeke alisize",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akalaleli"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "alisize... [uma kunesidingo sokuhlaziya]"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isizwe sakhe"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "futhi ifa lakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "alisize"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:03.148538558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 21:10",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Uma ethatha enye ⟨kuyena⟩, ukudla kwakhe, izingubo zakhe, nomhlangano wakhe — angeke anciphise.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "enye"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ethatha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kuyena⟩"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "ukudla kwakhe"
+    },
+    {
+      "surface": "כסותה",
+      "gloss": "izingubo zakhe"
+    },
+    {
+      "surface": "וענתה",
+      "gloss": "nomhlangano wakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "anciphise"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:41.462473199Z",
+  "model": "glm-5.3"
+}

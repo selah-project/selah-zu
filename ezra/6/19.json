@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi abantwana bokuthunyiselwa benza ⟨את⟩ i-Paseka, ngelika-14 lwenyanga yokuqala.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "bokuthunyiselwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-Paseka"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "i-Paseka"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ngelika-14"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(-14)"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "lwenyanga"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yokuqala"
+    }
+  ],
+  "timestamp": "2026-08-31T11:42:14.732148565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 29:6",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "KuYahwe wamabutho kuzovakashelwa ngeduma nangokudlidliza komhlaba nangelivi elikhulu, ngumoya onamandla nasiphepho, nangelangabi lomlilo oludlayo.",
+  "tokens": [
+    {
+      "surface": "מעם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamabutho"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "kuzovakashelwa"
+    },
+    {
+      "surface": "ברעם",
+      "gloss": "ngeduma"
+    },
+    {
+      "surface": "וברעש",
+      "gloss": "nangokudlidliza komhlabo"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "nangelivi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "elikhulu"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "ngumoya onamandla"
+    },
+    {
+      "surface": "וסערה",
+      "gloss": "nasiphepho"
+    },
+    {
+      "surface": "ולהב",
+      "gloss": "nangelangabi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "lomlilo"
+    },
+    {
+      "surface": "אוכלה",
+      "gloss": "oludlayo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:26:52.052487068Z",
+  "model": "glm-5.3"
+}

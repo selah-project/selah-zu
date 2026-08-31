@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 19:12",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Ngingakho ngiyokwenza kule ndawo, isimemezelo sikaYahwe, nabahlali bayo, ukuze ngenze ⟨את⟩ lelidolobha njengeTophet.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Ngingakho"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ngiyokwenza"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "kule ndawo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "isimemezelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "וליושביו",
+      "gloss": "nabahlali bayo"
+    },
+    {
+      "surface": "ולתת",
+      "gloss": "ukuze ngenze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lelidolobha"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lelidolobha"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "leli"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "njengeTophet"
+    }
+  ],
+  "timestamp": "2026-08-31T04:47:14.643605547Z",
+  "model": "glm-5.3"
+}

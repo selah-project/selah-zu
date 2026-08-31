@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ingabe uneamehlo enyama? Ingabe ubona njengokubona komuntu?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "amehlo"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "enyama"
+    },
+    {
+      "surface": "לך",
+      "gloss": "une-"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ingabe"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "njengokubona"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "omuntu"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ubona"
+    }
+  ],
+  "timestamp": "2026-08-31T07:13:10.140101726Z",
+  "model": "glm-5.3"
+}

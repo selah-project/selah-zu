@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Nomkhosi wayo nababalwe balo: izinkulungwane ezintandathu namashumi amane nesine, namakhulu amahlanu.",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "Nomkhosi wayo"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "nababalwe balo"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ezintandathu"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "namashumi amane nesine"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ezinkulungwane"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "namakhulu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amahlanu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:08:39.622186265Z",
+  "model": "glm-5.3"
+}

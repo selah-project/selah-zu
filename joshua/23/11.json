@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 23:11",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Futhi nizibheke kakhulu ngezomphefumlo zenu, ukuthanda ⟨את⟩ uYahwe u-Elohim wenu.",
+  "tokens": [
+    {
+      "surface": "ונשמרתם",
+      "gloss": "futhi nizibheke"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "ngezomphefumlo zenu"
+    },
+    {
+      "surface": "לאהבה",
+      "gloss": "ukuthanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe u-Elohim wenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "u-Elohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:00:04.944616787Z",
+  "model": "glm-5.3"
+}

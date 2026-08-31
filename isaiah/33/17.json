@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 33:17",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Amehlo akho azobona inkosi ngokubukeka kwayo okuhle; azobukela ⟨⟨i⟩⟩ izwe elikude kakhulu.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ביפיו",
+      "gloss": "ngokubukeka kwayo okuhle"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "azobona"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "amehlo akho"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "azobukela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "מרחקים",
+      "gloss": "elikude kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:55:16.881383835Z",
+  "model": "glm-5.3"
+}

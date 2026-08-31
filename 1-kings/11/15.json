@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 11:15",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Kwase kuthi, ngesikhathi uDawidi ⟨את⟩ no-Edomu, uYoabhi umphathi wempi esenyukela ukungcwatisha ⟨את⟩ ababulawe, wabulala bonke amadoda e-Edomu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwase kuthi"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "ngesikhathi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "-Edomu"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "esenjukela"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYoabhi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "umphathi"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "wempi"
+    },
+    {
+      "surface": "לקבר",
+      "gloss": "ukungcwatisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ababulawe"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "ababulawe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wabulala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "e-Edomu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:55:38.156199410Z",
+  "model": "glm-5.3"
+}

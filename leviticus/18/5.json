@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 18:5",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Futhi nizogcina ⟨את⟩ izimiso zami no-⟨את⟩ izinqumo zami, umuntu ozakwenza ⟨את⟩ izo uzophila ngazo; nginguYahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "futhi nizogcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izimiso zami"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "izimiso zami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "izinqumo zami"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "izinqumo zami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "loku"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ozakwenza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "uzophila"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ngazo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:58:48.956232597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 60,
+  "translation": "Ngobani laba abafifa-njengesibho, njengamaxoxo ohamba esibayeni sawo?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ngobani"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "laba"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "njengesibho"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "abafifa"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "njengamaxoxo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ohamba"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "esibayeni sawo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:36:20.422156315Z",
+  "model": "glm-5.3"
+}

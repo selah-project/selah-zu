@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 6:16",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Kwathi ngesikhathi esisiyisikhombisa abapristi badadiza ngezimpondo, uYehoshuwa wathi kubantu: Nidikizeleni, ngoba uYahwe unike ⟨את⟩ idolobha.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ngesikhathi"
+    },
+    {
+      "surface": "השביעית",
+      "gloss": "esisiyisikhombisa"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "badadiza"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "ngezimpondo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bantu"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "nidikizeleni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "unike"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ninike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idolobha"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "idolobha"
+    }
+  ],
+  "timestamp": "2026-08-31T02:50:16.977176256Z",
+  "model": "glm-5.3"
+}

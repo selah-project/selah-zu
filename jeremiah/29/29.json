@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Futhi uTsefaniya umngcweli wafunda ⟨את⟩ le ncwadi ezindlebeni zikaYirmeyahu umprofethi.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "futhi wafunda"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "uTsefaniya"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umngcweli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le ncwadi"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "le ncwadi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ezindlebeni zika-"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "uYirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "umprofethi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:52:06.033959918Z",
+  "model": "glm-5.3"
+}

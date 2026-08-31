@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Izindodana zo-Elqana: u-Amashayi no-Ahimoti.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "izindodana za-"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "u-Elqana"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "u-Amashayi"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "no-Ahimoti"
+    }
+  ],
+  "timestamp": "2026-08-31T08:20:32.769954994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 4:6",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "INaara yamzalela u-Ahuzamu ⟨את⟩ noHefere ⟨את⟩ noTimeni ⟨את⟩ no-Ahhashtari ⟨את⟩; lezi nguyise na? — lezi zingane zikaNaara.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "yamzalela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "iNaara"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Ahuzamu"
+    },
+    {
+      "surface": "אחזם",
+      "gloss": "u-Ahuzamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noHefere"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "noHefere"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noTimeni"
+    },
+    {
+      "surface": "תימני",
+      "gloss": "noTimeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "no-Ahhashtari"
+    },
+    {
+      "surface": "האחשתרי",
+      "gloss": "no-Ahhashtari"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "izingane zika"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "iNaara"
+    }
+  ],
+  "timestamp": "2026-08-31T09:01:11.960202557Z",
+  "model": "glm-5.3"
+}

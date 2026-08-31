@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 2:3",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ingcwele kuYahwe i-Israel, okokuqala kwenzalo yakhe; bonke abayidlayo bazakwaba nenkohlakalo; okubi kuzofika kubona, inkulumo kaYahwe.",
+  "tokens": [
+    {
+      "surface": "קדש",
+      "gloss": "Ingcwele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i-Israel"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "okokuqala"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "kwenzalo yakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "אכליו",
+      "gloss": "abayidlayo"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "bazakwaba nenkohlakalo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kuzofika"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "inkulumo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:38:51.771985827Z",
+  "model": "glm-5.3"
+}

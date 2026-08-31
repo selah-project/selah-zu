@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 124,
+  "translation": "Uma uYahwe wayengeke abe yilowo asizayo, ekuvukeni komuntu kuthina,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "uma wayengeke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "abe yilowo asizayo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kuthina"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "ekuvukeni"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kuthina"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:50.199767136Z",
+  "model": "glm-5.3"
+}

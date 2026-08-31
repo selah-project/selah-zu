@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 32:15",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "IKeshuruni yaba bukhosi beyagcwala yabhemuka: uyagcwalile, uyakhula, uyagqamile; wayeka u-Eloah owakhiyo, waphoxisa iDwala losindiso lwakhe.",
+  "tokens": [
+    {
+      "surface": "וישמן",
+      "gloss": "yagcwala (yaba munca)"
+    },
+    {
+      "surface": "ישרון",
+      "gloss": "IKeshuruni"
+    },
+    {
+      "surface": "ויבעט",
+      "gloss": "yabhemuka (yakhicka)"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "uyagcwalile uyamunca"
+    },
+    {
+      "surface": "עבית",
+      "gloss": "uyakhula uyakhuluphala"
+    },
+    {
+      "surface": "כשית",
+      "gloss": "uyagqamile ngamafutha"
+    },
+    {
+      "surface": "ויטש",
+      "gloss": "wayeka"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "u-Eloah"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "owakhiyo (owenzileyo)"
+    },
+    {
+      "surface": "וינבל",
+      "gloss": "waphoxisa"
+    },
+    {
+      "surface": "צור",
+      "gloss": "iDwala"
+    },
+    {
+      "surface": "ישעתו",
+      "gloss": "losindiso lwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:47:03.889439013Z",
+  "model": "glm-5.3"
+}

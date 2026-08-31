@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "NgeZwi likaYahwe kwadalwa amazulu, nangumoya womlomo wakhe wonke umkhosi wawo.",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "NgeZwini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "kwadalwa"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "nangumoya"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "womlomo wakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "umkhosi wawo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:01.695104244Z",
+  "model": "glm-5.3"
+}

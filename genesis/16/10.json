@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 16:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi isithunywa sikaYahwe sathi kuyena: Ngokwandisayo ngiyawandisa ⟨את⟩ imbewu yakho kakhulu, yize ingabalwa ngenxa yokuningi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "futhi wathi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "isithunywa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ngokwandisayo"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ngiyawandisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbewu yakho"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "imbewu yakho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi ayi-"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "yibalwe"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ngenxa yokuningi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:07:23.887021841Z",
+  "model": "glm-5.3"
+}

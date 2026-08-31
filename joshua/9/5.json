@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 9:5",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": " nezicathulo ezindala ezicoshwe ezinyaweni zabo, nezingubo ezindala phezu kwabo; futhi sonke isinkwa sezakhiwo zabo sasomile, saba yizingcezu ezimuncu.",
+  "tokens": [
+    {
+      "surface": "ונעלות",
+      "gloss": "nezicathulo"
+    },
+    {
+      "surface": "בלות",
+      "gloss": "ezindala"
+    },
+    {
+      "surface": "ומטלאות",
+      "gloss": "ezicoshwe"
+    },
+    {
+      "surface": "ברגליהם",
+      "gloss": "ezinyaweni zabo"
+    },
+    {
+      "surface": "ושלמות",
+      "gloss": "nezingubo"
+    },
+    {
+      "surface": "בלות",
+      "gloss": "ezindala"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "phezu kwabo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "futhi sonke"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "isinkwa"
+    },
+    {
+      "surface": "צידם",
+      "gloss": "sezakhiwo zabo"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "sasomile"
+    },
+    {
+      "surface": "היה",
+      "gloss": "saba"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "yizingcezu ezimuncu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:52:25.178646327Z",
+  "model": "glm-5.3"
+}

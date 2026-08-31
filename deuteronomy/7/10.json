@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 7:10",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi ukhokha labo abamzondayo ngasebusweni babo ukuze ababhubhise; angeke alibazise lowo ozondiweyo, ngasebusweni bakhe uzokhokha kuyena.",
+  "tokens": [
+    {
+      "surface": "וּמְשַׁלֵּ֧ם",
+      "gloss": "futhi ukhokha"
+    },
+    {
+      "surface": "לְשֹׂנְאָ֛יו",
+      "gloss": "labo abamzondayo"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "פָּנָ֖יו",
+      "gloss": "ngasebusweni babo"
+    },
+    {
+      "surface": "לְהַאֲבִיד֑וֹ",
+      "gloss": "ukubabhubhisa"
+    },
+    {
+      "surface": "לֹ֤א",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יְאַחֵֵר֙",
+      "gloss": "alibazise"
+    },
+    {
+      "surface": "לְשֹׂנְא֖וֹ",
+      "gloss": "lowo ozondiweyo"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "פָּנָ֖יו",
+      "gloss": "ngasebusweni bakhe"
+    },
+    {
+      "surface": "יְשַׁלֶּ֖ם",
+      "gloss": "uzokhokha"
+    },
+    {
+      "surface": "לֽוֹ",
+      "gloss": "kuyena"
+    }
+  ],
+  "timestamp": "2026-08-31T10:16:53.846763939Z",
+  "model": "glm-5.3"
+}

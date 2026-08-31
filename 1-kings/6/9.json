@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 6:9",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Wakhela indlu wayiphelisa, wembesa indlu ngezinti kanye nomugqa we-areza.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wakhela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "wayiphelisa"
+    },
+    {
+      "surface": "ויספן",
+      "gloss": "wembesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "ngezinti"
+    },
+    {
+      "surface": "ושדרת",
+      "gloss": "nomugqa"
+    },
+    {
+      "surface": "בארזים",
+      "gloss": "we-areza"
+    }
+  ],
+  "timestamp": "2026-08-31T03:49:25.542623206Z",
+  "model": "glm-5.3"
+}

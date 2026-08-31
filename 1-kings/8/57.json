@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "1-kings 8:57",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ma uYahwe uElohim wethu abe nathi, njengalokho kwakunjalo noyise bethu; angasilahli ⟨futhi⟩ angasishiye.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ma...abe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nathi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengalokho"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kwakunjalo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "oyise bethu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "יעזבנו",
+      "gloss": "silahli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi anga-"
+    },
+    {
+      "surface": "יטשנו",
+      "gloss": "sisshiye"
+    }
+  ],
+  "timestamp": "2026-08-31T03:52:44.587271053Z",
+  "model": "glm-5.3"
+}

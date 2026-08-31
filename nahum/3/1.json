@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Hoyi, midabo yegazi! Yonke ⟨imanga nobuhhwanga igcwele⟩; ukudla okubanjwayo akusuki kuyona.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hoyi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "midabo"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "yegazi"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "imanga"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "nobuhhwanga"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "igcwele"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akusuki"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "kuyona"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ukudla okubanjwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:37:54.315451421Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "exodus 12:50",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Benza wonke amadodana ka-Israyeli njengokuba uYahwe wayewalele uMoshe no-Aharon; ngiko-ke benza.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Benza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israyeli"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokuba"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayewalele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "no-Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "no-Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngiko-ke"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "benza"
+    }
+  ],
+  "timestamp": "2026-08-31T01:31:48.737524868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "uYakobi wamsola uRakheli, wasusa ⟨את⟩ izwi lakhe wehla khala adanile.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "wamsola"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYakobi"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "uRakheli"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "wasusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi lakhe"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "izwi lakhe"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "wehla khala adanile"
+    }
+  ],
+  "timestamp": "2026-08-31T01:14:22.063259153Z",
+  "model": "glm-5.3"
+}

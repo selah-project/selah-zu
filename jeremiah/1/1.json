@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 1:1",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Amagama kaYirimiyahu indodana kaKhilkiyahu, owawungomunye ⟨wabapristi⟩ ababethwe e-Anatoti, ezweni lakwaBinyamina.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Amagama"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "kaYirimiyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Khilkiyahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "owa- (ungomunye wa-)"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "בענתות",
+      "gloss": "ababethwe e-Anatoti"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni la-"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "kwaBinyamina"
+    }
+  ],
+  "timestamp": "2026-08-31T04:38:58.874662422Z",
+  "model": "glm-5.3"
+}

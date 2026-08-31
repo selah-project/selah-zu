@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 15:8",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Ngokuba ukukhalwa kuzungele ⟨את⟩ umkhawulo weMowabu; ukulila kwayo kufikelela kuEglayimi, nakuBhere-Elimi ukulila kwayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "הקיפה",
+      "gloss": "kuzungele"
+    },
+    {
+      "surface": "הזעקה",
+      "gloss": "ukukhalwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umkhawulo weMowabu"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "umkhawulo"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "weMowabu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikelela ku-"
+    },
+    {
+      "surface": "אגלים",
+      "gloss": "Eglayimi"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "ukulila kwayo"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "naku-"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "Bhere-Elimi"
+    },
+    {
+      "surface": "יללתה",
+      "gloss": "ukulila kwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:21:44.890312818Z",
+  "model": "glm-5.3"
+}

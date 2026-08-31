@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 40:36",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Futhi ekwenyukeleni kwesfu esidlekeni, abantwana bakwa-Israyeli babebungela ezindweni zabo zonke.",
+  "tokens": [
+    {
+      "surface": "ובהעלות",
+      "gloss": "ekwenyukeleni kwe-"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "sifu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "isidleke"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "babebungela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana ba-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kwa-Israyeli"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ezi-"
+    },
+    {
+      "surface": "מסעיהם",
+      "gloss": "ndweni zabo zonke"
+    }
+  ],
+  "timestamp": "2026-08-31T01:50:07.174230417Z",
+  "model": "glm-5.3"
+}

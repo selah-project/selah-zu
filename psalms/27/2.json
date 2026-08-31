@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 27:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Ekusondeleni kimi abakholise ngokudla ⟨את⟩ inyama yami — abacindezeli bami nabazonda bami — ⟨bona⟩ bahambe phambili bayawele, bawa.",
+  "tokens": [
+    {
+      "surface": "בקרב",
+      "gloss": "Ekusondeleni"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "abakholise"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ngokudla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama yami"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "inyama yami"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "abacindezeli bami"
+    },
+    {
+      "surface": "ואיבי",
+      "gloss": "nabazonda bami"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨bona⟩"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "bahambe phambili bayawele"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "bawa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:19.970421433Z",
+  "model": "glm-5.3"
+}

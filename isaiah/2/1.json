@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "IZwi elabonwa nguYeshaYahu indodana ka-Amotshi mayelana neYuda ngeYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ela-"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "labonwa"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "uYeshaYahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ka-Amotshi"
+    },
+    {
+      "surface": "על",
+      "gloss": "mayelana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "neYuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "ngeYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:16:33.672262688Z",
+  "model": "glm-5.3"
+}

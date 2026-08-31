@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 5:6",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Futhi u-Paro walela ngalolo suku ⟨את⟩ abaphathi-basuku phakathi kwabantu, kanye ⟨את⟩ aboninduna bakhe, esithi:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "walela"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "u-Paro"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalolo suku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ngalolo (suku)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaphathi-basuku"
+    },
+    {
+      "surface": "הנגשים",
+      "gloss": "abaphathi-basuku"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "phakathi kwabantu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kanye ⟨את⟩",
+      "marks": "aboninduna bakhe"
+    },
+    {
+      "surface": "שטריו",
+      "gloss": "aboninduna bakhe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:29:16.786581679Z",
+  "model": "glm-5.3"
+}

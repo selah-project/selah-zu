@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Futhi bazungalaza ematendeni abo, bazunge balalele izwi lomyalezo kaYahwe.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "bazungalaza"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "ematendeni abo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "bazunge"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "balalele"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "izwi lomyalezo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:49.321692655Z",
+  "model": "glm-5.3"
+}

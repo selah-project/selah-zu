@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 6:16",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Iziphathi eziyisihlanu zamaFilistini zabona, zabuyela e-Ekroni ngosuku lolu.",
+  "tokens": [
+    {
+      "surface": "וחמשה",
+      "gloss": "ezingu-isihlanu"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "iziphathi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "zamaFilistini"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "zabona"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "zabuyela"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "e-Ekroni"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lolu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:16:06.887013914Z",
+  "model": "glm-5.3"
+}

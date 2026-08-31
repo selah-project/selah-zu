@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 9:15",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ububi babo bonke baseGilgali, ngoba khona ngabadana ngenxa yokubi kwezenzo zabo; engidweni yami ngizobaxosha; angeke ngiphinde ngibathande; bonke abaholi babo bayaziqinisa intukuthelo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "Ububi babo"
+    },
+    {
+      "surface": "בגלגל",
+      "gloss": "baseGilgali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "ngabadana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "רע",
+      "gloss": "yokubi"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "kwezenzo zabo"
+    },
+    {
+      "surface": "מביתי",
+      "gloss": "engidweni yami"
+    },
+    {
+      "surface": "אגרשם",
+      "gloss": "ngizobaxosha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "אוסף",
+      "gloss": "ngiphinde"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "ngibathande"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "שריהם",
+      "gloss": "abaholi babo"
+    },
+    {
+      "surface": "סררים",
+      "gloss": "bayaziqinisa intukuthelo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:28:36.227857918Z",
+  "model": "glm-5.3"
+}

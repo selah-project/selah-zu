@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 12:3",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Khulumani kuyo yonke ingqungqutheli ka-Israel, ethi: Ngeleshumi lenyanga leli bathathe bonke umuntu iwundlu ngezindlu zookhokho bakhe, iwundlu ngendlu.",
+  "tokens": [
+    {
+      "surface": "דברו",
+      "gloss": "Khulumani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ingqungqutheli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israel"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "בעשר",
+      "gloss": "Ngeleshumi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "lenyanga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "bathathe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "שה",
+      "gloss": "iwundlu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ngezindlu"
+    },
+    {
+      "surface": "אבת",
+      "gloss": "zookhokho"
+    },
+    {
+      "surface": "שה",
+      "gloss": "iwundlu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ngendlu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:32:03.454294808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 11:1",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "U-Nakashi iMnoni wasuka wahamba waya wayocasha eYabeshi seGiliyadi; bonke abantu baseYabeshi bathi kuNakashi: Silo isivumelwano, thina uma silenza, sizokukhonza.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wasuka wahamba waya wayo-"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "uNakashi"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "iMnoni"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "wayocasha"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "eYabeshi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "seGiliyadi"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "baseYabeshi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "uNakashi"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "Silo"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina uma silenza"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "isivumelwano"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "sizokukhonza"
+    }
+  ],
+  "timestamp": "2026-08-31T10:19:51.937172796Z",
+  "model": "glm-5.3"
+}

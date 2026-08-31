@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 41:16",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "uYosefu waphendula ⟨את⟩ uParo wathi: Ngaphandle kwami, uElohim uzonika uParo impendulo engu ⟨את⟩ ukuthula.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "waphendula"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uParo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "בלעדי",
+      "gloss": "ngaphandle kwami"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "uzonika impendulo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuthula"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ukuthula"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:21:17.359088439Z",
+  "model": "glm-5.3"
+}

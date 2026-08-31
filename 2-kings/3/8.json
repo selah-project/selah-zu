@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Wathi: ngiyiphi le ndlela esiyonyuka ngayo? Wathi: indlela yesimojwa seEdomu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ngiyiphi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "esiyonyuka ngayo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "yesimojwa"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "seEdomu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:03:50.661083820Z",
+  "model": "glm-5.3"
+}

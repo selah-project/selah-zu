@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Usuku kuze kusuku luphetha inkulumo, futhi ebusuku kuze kubusuku kubonisa ulwazi.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "kuze kusuku"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "luphetha"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "inkulumo"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "futhi ebusuku"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "kuze kubusuku"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "kubonisa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ulwazi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:51:45.211869354Z",
+  "model": "glm-5.3"
+}

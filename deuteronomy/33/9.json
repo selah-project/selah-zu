@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 33:9",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Othi kuyise nakunina: Angimboni; nabafowabo bakhe ⟨את⟩ awubazanga, nabantwana bakhe ⟨את⟩ awubazi; ngokuba bagcine izwi lakho, isivumelwano sakho basilondoloza.",
+  "tokens": [
+    {
+      "surface": "האמר",
+      "gloss": "othi"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "kuyise"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "nakunina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angi-"
+    },
+    {
+      "surface": "ראיתיו",
+      "gloss": "mboni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abafowabo bakhe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abafowabo bakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "bazanga"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakhe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "abantwana bakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "bazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "bagcine"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "izwi lakho"
+    },
+    {
+      "surface": "ובריתך",
+      "gloss": "isivumelwano sakho"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "basilondoloza"
+    }
+  ],
+  "timestamp": "2026-08-31T02:46:03.866739824Z",
+  "model": "glm-5.3"
+}

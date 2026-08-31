@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 59:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 59,
+  "translation": "Yabona, bayaphhuma ngomlomo wabo izinkemba; ezindebeni zabo kunezinkemba; ngokuba ngubani ozwayo?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "יביעון",
+      "gloss": "bayaphhuma"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ngomlomo wabo"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "izinkemba"
+    },
+    {
+      "surface": "בשפתותיהם",
+      "gloss": "ezindebeni zabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ozwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:06.595816499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 18:3",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Futhi le yona umthetho wabapristi ovela kubantu, ovela ⟨את⟩ kubahlinzayo abahlinza ⟨את⟩: noma inkomo noma imvu, bazanikeza umpristi ikhanda elingaphezulu, amadlebe, kanye nesisu.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "futhi le"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "yona"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "umthetho"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "wabapristi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ovela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kubantu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ovela ⟨את⟩",
+      "marks": "kubahlinzaya"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "kubahlinzaya"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "abahlinza",
+      "marks": "inkomo noma imvu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inkomo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "שה",
+      "gloss": "imvu"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "bazanikeza"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "ikhanda elingaphezulu"
+    },
+    {
+      "surface": "והלחיים",
+      "gloss": "amadlebe"
+    },
+    {
+      "surface": "והקבה",
+      "gloss": "kanye nesisu"
+    }
+  ],
+  "timestamp": "2026-08-31T11:39:04.278679397Z",
+  "model": "glm-5.3"
+}

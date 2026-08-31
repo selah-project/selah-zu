@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 38:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Ngokuba izono zami ngizichaza, ngikhathazwa ngesono sami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "izono zami"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ngizichaza"
+    },
+    {
+      "surface": "אדאג",
+      "gloss": "ngikhathazwa"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "ngesono sami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:28.207826355Z",
+  "model": "glm-5.3"
+}

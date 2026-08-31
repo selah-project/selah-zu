@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 28:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Yizwa izwi lezicelo zami ekhala kuwe, ekhupha izandla zami endlwini yakho engcwele yangaphakathi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "yizwa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "lezicelo zami"
+    },
+    {
+      "surface": "בשועי",
+      "gloss": "ekhala"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "בנשאי",
+      "gloss": "ekhupha"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "izandla zami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "indlu yangaphakathi engcwele"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "engcwele yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:48.899685113Z",
+  "model": "glm-5.3"
+}

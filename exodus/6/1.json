@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 6:1",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "uYahwe waseseka kuMoshe: manje uzobona okuzongikwenza kuParo, ngokuba ngesandla esinamandla uzobathumela, futhi ngesandla esinamandla uzobaxosha ezweni lakhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "waseseka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "uzobona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okuzo"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ngikwenza"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kuParo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "esinamandla"
+    },
+    {
+      "surface": "ישלחם",
+      "gloss": "uzobathumela"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "futhi ngesandla"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "esinamandla"
+    },
+    {
+      "surface": "יגרשם",
+      "gloss": "uzobaxosha"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ezweni lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:29:08.333837474Z",
+  "model": "glm-5.3"
+}

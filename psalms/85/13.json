@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 85,
+  "translation": "Ngiyakuqinisekisa uYahwe uzonikeza ⟨okuhle⟩, nomhlaba wethu uzonikeza umkhiqizo wawo.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Ngiyakuqinisekisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "uzonikeza"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "⟨okuhle⟩"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "nomhlaba wethu"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "uzonikeza"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "umkhiqizo wawo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:59.732577353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Yahwe uElohim wami, uma ngangingenzi lokhu, uma kunezono ezinganhlwa zami.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wami"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ngangingenzi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kun"
+    },
+    {
+      "surface": "עול",
+      "gloss": "izono ezinganhlwa"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "zami"
+    }
+  ],
+  "timestamp": "2026-08-31T05:46:23.490876196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 7:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi uMoshe engumntwana weminyaka engamashumi ayisishiyagalombili, no-Aharon engumntwana weminyaka engamashumi ayisishiyagalombili nantathu, ekhuluma kuParo.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "futhi uMoshe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "engumntwana wanga-"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "iminyaka engamashumi ayisishiyagalombili"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "no-Aharon"
+    },
+    {
+      "surface": "בן",
+      "gloss": "engumntwana wanga-"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "nantathu"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "nemashumi ayisishiyagalombili"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "בדברם",
+      "gloss": "ekhuluma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:27:39.732074848Z",
+  "model": "glm-5.3"
+}

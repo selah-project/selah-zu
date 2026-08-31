@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 147,
+  "translation": "uYahwe uyaphakamisa abathobekile, uyawenisa ababi kuze kufike umhlaba.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "uyaphakamisa"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "abathobekile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "uyawenisa"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kuze kufike"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:17.661325870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 26:2",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Vulani iminyango, uyingene isizwe esilungile, esigcina inkolelo.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "vulani"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "iminyango"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "uyingene"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "esilungile"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "esigcina"
+    },
+    {
+      "surface": "אמנים",
+      "gloss": "inkolelo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:23:52.118284627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "UShawuli wathuma abathunywa ukuthatha ⟨את⟩ uDavide; yaphendula yathi: uyagula yena.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathuma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "UShawuli"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "abathunywa"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ukuthatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDavide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "yaphendula yathi"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "uyagula"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T03:24:08.605809611Z",
+  "model": "glm-5.3"
+}

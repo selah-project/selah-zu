@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "KuGereshomi: uLibni indodana yakhe, uYahathi indodana yakhe, uZima indodana yakhe;",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "kuGereshomi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "uLibni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "uYahathi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "uZima"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:20:07.145902008Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Phambene nomkhawulo okhombisa ukuthi yonke impumela iyasondela kumkhawulo—izinkomba zibe lapho phambene nomkhawulo, zibe yizindawo zemigqa, ukuze kuthwalwe ⟨את⟩ itafula.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "phambene no-"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "umkhawulo (impumela)"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "zibe"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "izinkomba"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "yizindawo zemigqa"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "imigqa yokuthwala"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ukuthwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itafula"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "itafula"
+    }
+  ],
+  "timestamp": "2026-08-31T10:12:17.483033878Z",
+  "model": "glm-5.3"
+}

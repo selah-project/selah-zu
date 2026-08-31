@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 97:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 97,
+  "translation": "Nina ohalalisa uYahwe, zondeni okubi; uyagcina okokuphila kwezikhesedi zakhe, esandleni sababi uyabakhulula.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Nina ohalalisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "zondeni"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "uyagcina"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "okokuphila"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "wezikhesedi zakhe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sababi"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "uyabakhulula"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:44.146413380Z",
+  "model": "glm-5.3"
+}

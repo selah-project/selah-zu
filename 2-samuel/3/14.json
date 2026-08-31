@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 3:14",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "UDavide wathuma abathunywa ku-Isi-Bosheti unyana kaShawuli, esithi: Nginikele ⟨את⟩ umkami, ⟨את⟩ uMikali, engimqomile yena ngamahlanza angu-100 amaFilisti.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathuma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "abathunywa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Isi-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "Bosheti"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kaShawuli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "nginikele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umkami"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "umkami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMikali"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "uMikali"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le"
+    },
+    {
+      "surface": "ארשתי",
+      "gloss": "engimqomile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yena"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "ngamahlanza angu-100"
+    },
+    {
+      "surface": "ערלות",
+      "gloss": "amahlanza"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaFilisti"
+    }
+  ],
+  "timestamp": "2026-08-31T03:33:00.401124859Z",
+  "model": "glm-5.3"
+}

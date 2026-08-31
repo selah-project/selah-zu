@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 8:4",
+  "book": "song-of-songs",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngifungisile ⟨את⟩ nina, amadodakazi aseYerushalayimi: musani ukuvusa — ningavusi ⟨את⟩ uthando — kude kube lona lithanda.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "Ngifungisile"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina, amadodakazi aseYerushalayimi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "amadodakazi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "aseYerushalayimi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "musani"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "ukuvusa"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ningavusi"
+    },
+    {
+      "surface": "תעררו",
+      "gloss": "ukuvusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uthando"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "uthando"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kude kube"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "lona lithanda"
+    }
+  ],
+  "timestamp": "2026-08-31T07:37:00.311317956Z",
+  "model": "glm-5.3"
+}

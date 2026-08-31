@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 89:35",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Angiyikuxhashazela isivumelwano sami, futhi okuphumayo emilomeni yami angeke ngishintshe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "אחלל",
+      "gloss": "ngikuxhashazele"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "isivumelwano sami"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "futhi okuphumayo"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "emilomeni yami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angifake"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "ushintsho"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:17.898643821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 95,
+  "ref": "psalms 119:95",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Abalungile phakade balindele ukungibulala; iziqiniseko zakho ngizicabangela.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "קוו",
+      "gloss": "balindele"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "abalungile phakade"
+    },
+    {
+      "surface": "לאבדני",
+      "gloss": "ukungibulala"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "iziqiniseko zakho"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ngizicabangela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:40.514143128Z",
+  "model": "glm-5.3"
+}

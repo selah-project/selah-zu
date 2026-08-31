@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 71:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 71,
+  "translation": "uElohim, ungafundisile kusukela ebusheni bami, futhi kuze kufike lapha ngizotula izimangaliso zakho.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "למדתני",
+      "gloss": "ungafundisile"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "kusukela ebusheni bami"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "futhi kuze kufike"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ngizotula"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "izimangaliso zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:12.422686991Z",
+  "model": "glm-5.3"
+}

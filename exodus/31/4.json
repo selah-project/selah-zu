@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "ukucabanga izicabango, ukwenza ngendandatho yegolide nangesiliva nangebonsi:",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "ukucabanga"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "izicabango"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "ngendandatho yegolide"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "nangesiliva"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "nangebonsi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:40:52.426834861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 9:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ngiyobonga uYahwe ngenhliziyo yami yonke, ngizobisa ⟨ye⟩ izimangaliso zakho zonke.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Ngiyobonga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngenhliziyo yami yonke"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "⟨inhliziyo yami⟩"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "ngizobisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "izimangaliso zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T08:51:44.359351177Z",
+  "model": "glm-5.3"
+}

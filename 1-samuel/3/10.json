@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 3:10",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi uYahwe wafika wemaqinsi, wabiza njengakwesinye isikhathi nakwesinye isikhathi: Shmueli, Shmueli. Wayeshe uShmueli: Khuluma, ngokuba izinsizwa zakulalela.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wafika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "wemaqinsi"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "njengakwesinye isikhathi"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "nakwesinye isikhathi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmueli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shmueli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wayeshe"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShmueli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "khuluma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "zakulalela"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "izinsizwa zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:03:39.308389640Z",
+  "model": "glm-5.3"
+}

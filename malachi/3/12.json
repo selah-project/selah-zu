@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 3:12",
+  "book": "malachi",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi zonke izizwe zizonibiza okusizalusiwe ⟨את⟩-ini, ngoba nina niyoba yizwe elinthokozo, usho uYahwe wamabutho.",
+  "tokens": [
+    {
+      "surface": "ואשרו",
+      "gloss": "zizonibiza okusizalusiwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-ini",
+      "marks": "nina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "niyoba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "elinthokozo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "usho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamabutho"
+    }
+  ],
+  "timestamp": "2026-08-31T05:46:29.390392181Z",
+  "model": "glm-5.3"
+}

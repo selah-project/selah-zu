@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 7:14",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Uzuba ngisiwe ngaphezu kwazo zonke izizwe; akuyikuba khona kuwena isilima nesisilima, futhi nasezilwaneni zakho ezifuywayo.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "uzuba ngisiwe"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "uzuba"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngaphezu kwazo zonke"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akuyikuba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "khona"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwena"
+    },
+    {
+      "surface": "עקר",
+      "gloss": "isilima"
+    },
+    {
+      "surface": "ועקרה",
+      "gloss": "nesisilima"
+    },
+    {
+      "surface": "ובבהמתך",
+      "gloss": "futhi nasezilwaneni zakho ezifuywayo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:34:51.391105580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Wayeqedela ukukhuluma ⟨את⟩ yena, uElohim wasuka phezulu ku-Avraham.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "wayeqedela"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ukukhuluma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wasuka phezulu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "phezulu kwa-"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    }
+  ],
+  "timestamp": "2026-08-31T01:06:49.749302934Z",
+  "model": "glm-5.3"
+}

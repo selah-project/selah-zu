@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Uhlakaniphe luyasisindo ⟨ku⟩-ohlakaniphile, kunababusi abayishumi ababe ⟨e⟩dolobheni.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "uhlakaniphe"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "luyisisindo"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ku-ohlakaniphile"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "kunababusi abayishumi"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "ababusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ababe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "edolobheni"
+    }
+  ],
+  "timestamp": "2026-08-31T08:58:25.601462884Z",
+  "model": "glm-5.3"
+}

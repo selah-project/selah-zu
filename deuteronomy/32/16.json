@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 32:16",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Bamqalasela ngabazizwe, bamthukuthelela ngokwenyanyekisa okukhulu.",
+  "tokens": [
+    {
+      "surface": "יקנאהו",
+      "gloss": "bamqalasela (bamenzela umbango)"
+    },
+    {
+      "surface": "בזרים",
+      "gloss": "ngabazizwe (abelungu)"
+    },
+    {
+      "surface": "בתועבת",
+      "gloss": "ngokwenyanyekisa"
+    },
+    {
+      "surface": "יכעיסהו",
+      "gloss": "bamthukuthelela"
+    }
+  ],
+  "timestamp": "2026-08-31T02:47:03.889553004Z",
+  "model": "glm-5.3"
+}

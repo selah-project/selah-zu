@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 27:20",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "iSheol nokubhujiswa awugcwalisi, futhi amehlo omuntu awugcwalisi.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "iSheol"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "nokubhujiswa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "gucwalisi"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "futhi amehlo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "omuntu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "gucwalisi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:05:12.971204670Z",
+  "model": "glm-5.3"
+}

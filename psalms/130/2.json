@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 130:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 130,
+  "translation": "Wena u-Adonayi, zwakalisa izwi lami; izindlebe zakho mazibengimelele izwi lezicelo zami.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "zwakalisa"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "izwi lami"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "mazibe"
+    },
+    {
+      "surface": "אזניך",
+      "gloss": "izindlebe zakho"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "ezibengimelele"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "lezicelo zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:32.623659240Z",
+  "model": "glm-5.3"
+}

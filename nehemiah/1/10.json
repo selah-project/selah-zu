@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 1:10",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi bona izinceku zakho, abantu bakho, owaxolosa ⟨abakaki abayizingoni⟩ ngamandla akho amakhulu futhi ngesandla sakho esinamandla.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "futhi bona"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "izinceku zakho"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "owaxolosa"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "ngamandla akho"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "futhi ngesandla sakho"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "esinamandla"
+    }
+  ],
+  "timestamp": "2026-08-31T08:59:38.403531700Z",
+  "model": "glm-5.3"
+}

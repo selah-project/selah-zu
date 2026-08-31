@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi uzakwenza ⟨את⟩ elilodwa lezihlethe noma elilodwa lezinkonjana ezincane, kulokhu isandla lakhe elikufinyelelayo.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "futhi uzakwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "elilodwa lezihlethe"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "le"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "izihlethe"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "מן",
+      "gloss": "le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ezincane zaka"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "inkonjana"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "kulokhu"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "elikufinyelelayo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:56:13.454041702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 7:16",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "U-Yehoshuwa wavuka ekuseni, wabizela ⟨את⟩ u-Israyeli ngezizwe zawo; kwathathwa isizwe sikaYuda.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "wavuka ekuseni"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "u-Yehoshuwa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "wabizela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Israyeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israyeli"
+    },
+    {
+      "surface": "לשבטיו",
+      "gloss": "ngezizwe zawo"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "kwathathwa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sikaYuda"
+    }
+  ],
+  "timestamp": "2026-08-31T02:53:26.913925115Z",
+  "model": "glm-5.3"
+}

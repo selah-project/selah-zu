@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Wena ⟨ke⟩ ulahile wawuphikisa, ukrothwe ngumsindo noMashiya wakho.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "ulahile"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "wawuphikisa"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "ukrothwe ngumsindo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "uMashiya wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:30.470469866Z",
+  "model": "glm-5.3"
+}

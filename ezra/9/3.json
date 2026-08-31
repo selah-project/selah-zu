@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 9:3",
+  "book": "ezra",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Futhi lapho ngizwa ⟨את⟩ lomusho, ngazidabula ⟨את⟩ izingubo zami nesambatho sami, ngasula izinwele zeqanda lami nedosi yami, ngahlala ngimangalelekile.",
+  "tokens": [
+    {
+      "surface": "וכשמעי",
+      "gloss": "Futhi lapho ngizwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lomusho"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lomusho"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "קרעתי",
+      "gloss": "ngazidabula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingubo zami"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "izingubo zami"
+    },
+    {
+      "surface": "ומעילי",
+      "gloss": "nesambatho sami"
+    },
+    {
+      "surface": "ואמרטה",
+      "gloss": "ngasula"
+    },
+    {
+      "surface": "משער",
+      "gloss": "izinwele"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "zeqanda lami"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "nedosi yami"
+    },
+    {
+      "surface": "ואשבה",
+      "gloss": "ngahlala"
+    },
+    {
+      "surface": "משומם",
+      "gloss": "ngimangalelekile"
+    }
+  ],
+  "timestamp": "2026-08-31T08:11:18.371781610Z",
+  "model": "glm-5.3"
+}

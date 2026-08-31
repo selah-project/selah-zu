@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 30:8",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Futhi wena uzubuya, uzulalele izwi likaYahwe, futhi uzenze ⟨את⟩ imiyalo yakhe yonke engiyalela khona namhlanxe.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Futhi wena"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "uzubuya"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "uzulalele"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "izwi la-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "futhi uzenze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imiyalo yakhe yonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "imiyalo yakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "yalela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanxe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:45:31.244880187Z",
+  "model": "glm-5.3"
+}

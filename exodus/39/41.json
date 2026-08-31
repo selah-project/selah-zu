@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "exodus 39:41",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Izingubo zokukhonza ezenzelwa ukukhonza engcweni, ⟨את⟩ izingubo zengcwele zo-Aharon umpristi, no⟨את⟩ izingubo zabanakwabo ukubapristi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingubo zokukhonza"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "izingubo"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "zokukhonza"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ukukhonza"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "engcweni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingubo zengcwele"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "izingubo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "zengcwele"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "izingubo zabanakwabo"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "izingubo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zabanakwabo"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ukubapristi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:49:38.159241998Z",
+  "model": "glm-5.3"
+}

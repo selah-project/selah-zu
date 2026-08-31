@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "psalms 119:75",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngiyazi, uYahwe, ngokuba isohlwayo sakho silungile, futhi ngokwembewu yakho undenzile ubuhlungu.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "ngiyazi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "silungile"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "isohlwayo sakho"
+    },
+    {
+      "surface": "ואמונה",
+      "gloss": "futhi ngokwembewu yakho"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "undenzile ubuhlungu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:27.739873484Z",
+  "model": "glm-5.3"
+}

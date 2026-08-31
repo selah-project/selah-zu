@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "UBharaki wayesethi kuyena: Uma uhamba nami, ngiyahamba; kepha uma ungahambi nami, angeke ngihambe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesethi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "uBharaki"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "uhamba"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "nami"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "ngiyahamba"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kepha uma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "unga-...-hambi"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "hambi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "nami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ngihambe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:04:08.678173816Z",
+  "model": "glm-5.3"
+}

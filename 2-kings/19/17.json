@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 19:17",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Ngempela, uYahwe, amakhosi aseAshuru abhubhise ⟨את⟩ izizwe no⟨את⟩ izwe labo.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Ngempela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "החריבו",
+      "gloss": "abhubhise"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "aseAshuru"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izizwe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "izwe labo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "izwe labo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:13:10.857539561Z",
+  "model": "glm-5.3"
+}

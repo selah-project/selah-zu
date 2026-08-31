@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 7:16",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi ehamba unyaka nonyaka, ajikeleza eBhayitheli naseGiligali naseMitsipa, futhi ehla ⟨את⟩ umhlaka wakwa-Israyeli, ehlala yonke leyo mikhakha eyahlukene.",
+  "tokens": [
+    {
+      "surface": "והלך",
+      "gloss": "wayehamba"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "unyaka"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "nonyaka"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "(ngonyaka)"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "ajikeleza"
+    },
+    {
+      "surface": "בית",
+      "gloss": "(eBhayitheli)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(eBhayitheli)"
+    },
+    {
+      "surface": "והגלגל",
+      "gloss": "naseGiligali"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "naseMitsipa"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "wayehla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaka wakwa-Israyeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wakwa-Israyeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke le mikhakha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "המקומות",
+      "gloss": "leyo mikhakha"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-08-31T03:16:05.286865703Z",
+  "model": "glm-5.3"
+}

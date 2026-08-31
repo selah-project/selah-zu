@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 77:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 77,
+  "translation": "Bakubona amanzi, uElohim; bakubona amanzi, bazamazama; yebo, izinkosi ezijulile zaphaphazeka.",
+  "tokens": [
+    {
+      "surface": "ראוך",
+      "gloss": "bakubona"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ראוך",
+      "gloss": "bakubona"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "bazamazama"
+    },
+    {
+      "surface": "אף",
+      "gloss": "yebo"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "zaphaphazeka"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "izinkosi ezijulile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:36.459393661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 88:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 88,
+  "translation": "Ingabe esitheni kushiwo ikhesedi yakho, ukwethembeka kwakho ukubhujisweni?",
+  "tokens": [
+    {
+      "surface": "היספר",
+      "gloss": "Ingabe ... kushiwo"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "esitheni"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ukwethembeka kwakho"
+    },
+    {
+      "surface": "באבדון",
+      "gloss": "ukubhujisweni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:54.891109707Z",
+  "model": "glm-5.3"
+}

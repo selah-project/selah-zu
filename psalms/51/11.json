@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 51:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 51,
+  "translation": "Fihla ubuso bakho kwezono zami, futhi cima konke okungalungile kwami.",
+  "tokens": [
+    {
+      "surface": "הסתר",
+      "gloss": "Fihla"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "מחטאי",
+      "gloss": "kwezono zami"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "okungalungile kwami"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "cima"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:33.391087043Z",
+  "model": "glm-5.3"
+}

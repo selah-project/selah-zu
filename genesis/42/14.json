@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "U-Yosefu wathi kubo: Yilokhu engikukhulumile ngakho, ngokuthi: Ningabalwazi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "U-Yosefu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Yilokhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "khulumile"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "abalwazi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ninga-"
+    }
+  ],
+  "timestamp": "2026-08-31T01:22:18.883417794Z",
+  "model": "glm-5.3"
+}

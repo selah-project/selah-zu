@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Abantwana baka-Arah, ngamashumi ayisikhombisa ⟨nangamakhulu ayisikhombisa nephesenti⟩—amakhulu ayisikhombisa amahlanu nesikhombisa nesikhombisa.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Abantwana"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "baka-Arah"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "isikhombisa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "amahlanu"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "nesikhombisa"
+    }
+  ],
+  "timestamp": "2026-08-31T10:35:42.503338941Z",
+  "model": "glm-5.3"
+}

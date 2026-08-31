@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 116,
+  "translation": "Ngizohamba phambi kukaYahwe ezweni ⟨laba⟩philayo.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "Ngizohamba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "labaphilayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:00.759876436Z",
+  "model": "glm-5.3"
+}

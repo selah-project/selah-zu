@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Kumqondisi, ngo-Ayeleth ha-Shahar ⟨isilwane esinesibani sekusasa⟩, umculo kaDavida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngo-"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "i-Ayeleth"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ha-Shahar"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umculo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavida"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:20.220957543Z",
+  "model": "glm-5.3"
+}

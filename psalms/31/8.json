@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 31:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Ngiyovuma injabulo, ngiye ngijabule ngikhesedi yakho, okokuthi ubonile ⟨את⟩ ukuphathwa kabi kwami; wazi, esiboshweni, inefeshi yami.",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": "ngiyovuma injabulo"
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": "ngiye ngijabule"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "ngikhesedi yakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okokuthi"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ubonile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuphathwa kabi kwami"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ukuphathwa kabi kwami"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "wazi"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "esiboshweni"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:36.304302763Z",
+  "model": "glm-5.3"
+}

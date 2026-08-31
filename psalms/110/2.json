@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 110:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 110,
+  "translation": "uYahwe uzothumela induku yamandla akho eTsiyoni: busisa phakathi kwezitha zakho.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "induku"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "yamandla akho"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "uzothumela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "eTsiyoni"
+    },
+    {
+      "surface": "רדה",
+      "gloss": "busisa"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi kwezitha zakho"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "izitha zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:50.044096147Z",
+  "model": "glm-5.3"
+}

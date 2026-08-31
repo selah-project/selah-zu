@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 119:24",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Izinqiniseko zakho futhi ziyinthokozwami; yizona abantu bencebo yami.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "Izinqiniseko zakho"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "ziyinthokozwami"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "bencebo yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:52.694139311Z",
+  "model": "glm-5.3"
+}

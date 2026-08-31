@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 14:21",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Bonke abantu baseYehuda bathatha ⟨את⟩ uAzariya, yena engumfana weminyaka engu-sheshi nashumi nesibili, bamqamba ngokuba yinkosi esikhundleni sikayise u-Amatsiya.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "bathatha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "baseYehuda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uAzariya"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "uAzariya"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umfana"
+    },
+    {
+      "surface": "שש",
+      "gloss": "esheshi"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "nashumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "bamqamba ngokuba yinkosi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-yena",
+      "marks": "esikhundleni sikayise"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "esikhundleni sa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "yise"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "u-Amatsiya"
+    }
+  ],
+  "timestamp": "2026-08-31T04:09:54.098527002Z",
+  "model": "glm-5.3"
+}

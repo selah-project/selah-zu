@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 101:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 101,
+  "translation": "Ngiyocabanga ngendlela ephelele — uzofika nini kimi? Ngiyahamba ngokuthembekile kwesibindi sami, phakathi kwendlu yami.",
+  "tokens": [
+    {
+      "surface": "אשכילה",
+      "gloss": "Ngiyocabanga"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ngendlela"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ephelele"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nini"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "uzofika"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "Ngiyahamba"
+    },
+    {
+      "surface": "בתם",
+      "gloss": "ngokuthembekile"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "kwesibindi sami"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "kwendlu yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:10.091391629Z",
+  "model": "glm-5.3"
+}

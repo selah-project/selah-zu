@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 17:5",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "uYahwe wathi kuMoshe: Dlula phambi kwabantu, uthathe ngakho ⟨את⟩ abanye abadala bakwaIsrayeli, nomgodo wakho owashaya ngawo ⟨את⟩ umfula — uwuthathe esandleni sakho, uhambe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Dlula"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "uthathe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "ngakho ⟨את⟩"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "abanye abadala baka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "ומטך",
+      "gloss": "nomgodo wakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "washaya"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngawo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfula"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "umfula"
+    },
+    {
+      "surface": "קח",
+      "gloss": "thatha"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "esandleni sakho"
+    },
+    {
+      "surface": "והלכת",
+      "gloss": "uhambe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:35:21.761695809Z",
+  "model": "glm-5.3"
+}

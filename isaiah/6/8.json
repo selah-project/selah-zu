@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 6:8",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ngase ngizwa ⟨את⟩ izwi lika-Adonayi lithi, ⟨את⟩ ngubani engingathumela, futhi ngubani ozohamba kithina? Ngingathi, bheka mina, ngithumele.",
+  "tokens": [
+    {
+      "surface": "ואשמע",
+      "gloss": "Ngase ngizwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "lika-Adonayi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lithi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngubani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "engingathumela"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "futhi ngubani"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ozohamba"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kithina"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "Ngingathi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bheka mina"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ngithumele"
+    }
+  ],
+  "timestamp": "2026-08-31T04:18:12.774132896Z",
+  "model": "glm-5.3"
+}

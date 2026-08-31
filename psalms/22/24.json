@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 22:24",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Nina eniyesaba uYahwe, mdumiseni yena; wonke umzala kaYaakov, mkhuliseni yena; futhi nimsabe yena, wonke umzala kaYisrayeli.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "nina eniyesaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "mdumiseni yena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "umzala"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kaYaakov"
+    },
+    {
+      "surface": "כבדוהו",
+      "gloss": "mkhuliseni yena"
+    },
+    {
+      "surface": "וגורו",
+      "gloss": "futhi nimsabe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "umzala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaYisrayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:17.199117559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 16:29",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi lokhu kuzoba yisimiso phakade kini: enyangeni yesikhombisa, ngosuku lweyishumi lenyanga, nizohlukumeza ⟨את⟩ umoya wenu, futhi ngeke nikwenze noma yimuphi umsebenzi — umzalwanendlu nomfokazi ohlala phakathi kwenu.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "futhi lokhu kuzoba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לחקת",
+      "gloss": "yisimiso"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "enyangeni"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "yesikhombisa"
+    },
+    {
+      "surface": "בעשור",
+      "gloss": "ngosuku lweyishumi"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "lenyanga"
+    },
+    {
+      "surface": "תענו",
+      "gloss": "nizohlukumeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umoya wenu"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "umoya wenu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "futhi noma yimuphi"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "nikwenze"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "umzalwanendlu"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "futhi nomfokazi"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ohlala"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "phakathi kwenu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:00:23.449587447Z",
+  "model": "glm-5.3"
+}

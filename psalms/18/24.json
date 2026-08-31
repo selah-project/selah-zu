@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Ngingaba yongiwohlele kuye, futhi ngizigcine ngaye ecaleni kwenkinga yami.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Ngingaba"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "yongiwohlele"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "futhi ngizigcine"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "enkingeni yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:43.627811699Z",
+  "model": "glm-5.3"
+}

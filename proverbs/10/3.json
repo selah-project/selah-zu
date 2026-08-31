@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 10:3",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "uYahwe akanasizi inefeshi yokulungileyo ngendlala, kodwa umthwalo wabangcoli uyawutshayela.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "akanasizi"
+    },
+    {
+      "surface": "ירעיב",
+      "gloss": "ngendlala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "inefeshi"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "yokulungileyo"
+    },
+    {
+      "surface": "והות",
+      "gloss": "kodwa umthwalo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wabangcoli"
+    },
+    {
+      "surface": "יהדף",
+      "gloss": "uyawutshayela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:50:45.228582820Z",
+  "model": "glm-5.3"
+}

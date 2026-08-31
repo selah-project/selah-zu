@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 135,
+  "translation": "Izithombe zezizweni zisinganekwane ziyisiliva negolide, umsebenzi wezandla zomuntu.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "Izithombe zezinganekwane"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "zezizwene"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "iyisiliva"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "negolide"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "wezandla"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "zomuntu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:49.051232330Z",
+  "model": "glm-5.3"
+}

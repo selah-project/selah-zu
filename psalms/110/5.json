@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 110,
+  "translation": "u-Adonayi ekwesokudla kwakho; washaya izinkosi ngosuku lokwenzakala kwenguso yakhe.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "kwesokudla kwakho"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "washaya"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "lokungcasuka kwakhe"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "izinkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:15.718411219Z",
+  "model": "glm-5.3"
+}

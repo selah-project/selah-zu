@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 107:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Babiza ngokukhala kuYahwe esizungwini sabo, eminyezweni yabo wayebasindisa.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "Babiza ngokukhala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "esizungwini"
+    },
+    {
+      "surface": "להם",
+      "gloss": "sabo"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "eminyezweni yabo"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "wayebasindisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:42.742840494Z",
+  "model": "glm-5.3"
+}

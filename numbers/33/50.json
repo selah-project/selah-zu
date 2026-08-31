@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 33:50",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Futhi uYahwe wakhuluma noMoshe ezilalweni zaseMowabhu, eceleni kweYardeni eqondene neYerikho, ethi:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "ezilalweni"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "zaseMowabhu"
+    },
+    {
+      "surface": "על",
+      "gloss": "eceleni kwa-"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "iYardeni"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "iYerikho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:28:21.097361809Z",
+  "model": "glm-5.3"
+}

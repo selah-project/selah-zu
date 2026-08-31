@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 42:10",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Kububanzi bomugo wenkundla, endleleni empumalanga, phambi kwendawo eyahlukile naphambi kwesakhiwo, izindlu.",
+  "tokens": [
+    {
+      "surface": "ברחב",
+      "gloss": "kububanzi"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "umugo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "wenkundla"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "empumalanga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פני",
+      "gloss": "phambi kwa"
+    },
+    {
+      "surface": "הגזרה",
+      "gloss": "indawo eyahlukile"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "פני",
+      "gloss": "phambi kwa"
+    },
+    {
+      "surface": "הבנין",
+      "gloss": "isakhiwo"
+    },
+    {
+      "surface": "לשכות",
+      "gloss": "izindlu"
+    }
+  ],
+  "timestamp": "2026-08-31T05:21:23.908612759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 103:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 103,
+  "translation": "Ngokuba njengoba ukuphakama kwamazulu kuphezulu komhlaba, kanjalo ikhesedi yakhe inomandla phezu kwabamesabayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "njengoba ukuphakama"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kwamazulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuphezulu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "komhlaba"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "inomandla"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "kwabamesabayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:01.791924108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 13:4",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Uthe uYehoahazi ethandaza ebubeni bukaYahwe, futhi uYahwe wamzwa, ngoba wayibona ⟨את⟩ ucindezelo laku-Israel, ngoba inkosi yase-Aramu yabcindezela ⟨את⟩ bona.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ethandaza"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "uYehoahazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ebubeni"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ebubeni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bukaYahwe"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "wamzwa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wayibona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ucindezelo"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "ucindezelo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "laku-Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "yabcindezela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "yase-Aramu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:10:20.697958868Z",
+  "model": "glm-5.3"
+}

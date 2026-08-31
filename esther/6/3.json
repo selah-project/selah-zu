@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 6:3",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Inkosi yathi: Yini eyenziwe inhlonipho nobukhulu kuMardukayi ngenxa yalokhu? Izinsizwa zenkosi, abakhonzi bayo, zathi: Akulutho olwenziwe kuye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Inkosi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Yini"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "eyenziwe"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "inhlonipho"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "nobukhulu"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "kuMardukayi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yalo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "zathi"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "Izinsizwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "zenkosi"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "abakhonzi bayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Aku-"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "lutho olwenziwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lutho"
+    }
+  ],
+  "timestamp": "2026-08-31T07:54:14.361359971Z",
+  "model": "glm-5.3"
+}

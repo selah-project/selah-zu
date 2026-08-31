@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 9:12",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "uHiramu waphuma eTsori eyozibona ⟨את⟩ amadolobha uShelomo awanika wona, futhi awazange zimbalise emehlweni akhe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "uHiramu"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "eTsori"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "eyozibona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadolobha"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "amadolobha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a-"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "awanika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "wona"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "awazange"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "zimbalise"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "emehlweni akhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:52:11.932487313Z",
+  "model": "glm-5.3"
+}

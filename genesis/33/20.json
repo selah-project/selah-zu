@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "wasungula lapha i-altari, wayibiza ngokuthi u-El, uElohim ka-Israyeli.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "wasungula"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altari"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wayibiza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T01:17:51.836194311Z",
+  "model": "glm-5.3"
+}

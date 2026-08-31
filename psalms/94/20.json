@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 94:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 94,
+  "translation": "Ingabe isihlalo sobukhosi lobubi siyehlana nawe, uma sibumba ububi ngomthetho?",
+  "tokens": [
+    {
+      "surface": "היחברך",
+      "gloss": "siyehlana nawe"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "isihlalo sobukhosi"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "lobubi"
+    },
+    {
+      "surface": "יצצר",
+      "gloss": "sibumba"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "nge"
+    },
+    {
+      "surface": "חק",
+      "gloss": "umthetho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:01.109466120Z",
+  "model": "glm-5.3"
+}

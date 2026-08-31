@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 101:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 101,
+  "translation": "Angike ahlale phakathi kendlu yaki enza ubukhohliswa; okhuluma amanga angeke ama phambi kwamehe ami.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "angike"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ahlale"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "kendlu yami"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "enza"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ubukhohliswa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okhuluma"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "amanga"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "ame"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "kwamehe ami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:02.582923861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 1:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Maye! Sizwe esonayo, abantu abathwele ububi, inzalo yababi, abantwana abonakalisa! Bashiye ⟨את⟩ uYahwe, baphikise ⟨את⟩ iNgcwele kaSirayeli, babuyela emuva.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Maye!"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "sizwe"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "esonayo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "abathwele"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "inzalo"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "yababi"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "abonakalisa"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "Bashiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "baphikise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iNgcwele kaSirayeli"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "iNgcwele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaSirayeli"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "babuyela"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "emuva"
+    }
+  ],
+  "timestamp": "2026-08-31T04:16:01.365478821Z",
+  "model": "glm-5.3"
+}

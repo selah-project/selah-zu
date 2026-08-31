@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 48:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 48,
+  "translation": "Silinganise ⟨את⟩ ikhesedi yakho, Elohim, ezansiendlwini yesigodlo sakho.",
+  "tokens": [
+    {
+      "surface": "דמינו",
+      "gloss": "Silinganise"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ezansi-"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "endlwini yesigodlo sakho"
+    }
+  ],
+  "timestamp": "2026-08-31T10:30:59.967052232Z",
+  "model": "glm-5.3"
+}

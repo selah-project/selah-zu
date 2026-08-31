@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 25:39",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Ngethalenti yigolide elihlambulukile uzoyenzi ⟨את⟩ yona — ⟨את⟩ wonke lezi zisetshenziswa.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "ithalenti"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "yigolide"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "elihlambulukile"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uzoyenzi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yona (imenorah)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "izisetshenziswa"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lezi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:00.729265504Z",
+  "model": "glm-5.3"
+}

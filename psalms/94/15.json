@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 94,
+  "translation": "Ngokuba icala lizobuyela ngobulungiswa, futhi emva kwalo bazohamba bonke abaqotho ngenhliziyo",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngokufika"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ngobulungiswa"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "lizobuyela"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "icala"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "futhi emva kwalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "abaqotho"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngenhliziyo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:03.148702279Z",
+  "model": "glm-5.3"
+}

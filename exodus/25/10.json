@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 25:10",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi bazokwakha i-arkhi yezingodo zeshitimu; amakhubhita amabili nesigamu ubude bayo, ikhubhita nesigamu ububanzi bayo, futhi ikhubhita nesigamu ukuphakama kwayo.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "futhi bazokwakha"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "i-arkhi"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "yezingodo"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "zeshitimu"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "amakhubhita amabili"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "nesigamu"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ubude bayo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ikhubhita"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "nesigamu"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ububanzi bayo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ikhubhita"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "nesigamu"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ukuphakama kwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:20.934629360Z",
+  "model": "glm-5.3"
+}

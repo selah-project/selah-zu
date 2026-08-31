@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ngempela ngiyazi ukuthi kunjalo; kodwa umuntu uzilungeza kanjani no-El?",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ngiyazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kunjalo"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "kodwa…kanjani"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "uzilungeza"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    }
+  ],
+  "timestamp": "2026-08-31T07:11:43.462260258Z",
+  "model": "glm-5.3"
+}

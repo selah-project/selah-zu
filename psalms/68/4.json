@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 68:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 68,
+  "translation": "Futhi abalungile bajabule, benyuke ngajabula ngaphambi kuElohim, bajabule kakhulu ngokwesijabu.",
+  "tokens": [
+    {
+      "surface": "וצדיקים",
+      "gloss": "Futhi abalungile"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bajabule"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "benyuke ngajabula"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ngaphambi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "וישישו",
+      "gloss": "bajabule kakhulu"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ngokwesijabu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:41.398053245Z",
+  "model": "glm-5.3"
+}

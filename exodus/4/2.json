@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "uYahwe wathi kuye: Yini engasebenzweni wena? Wathi: imikhonto.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "Yini le"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "esandleni sakho"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "induku"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:37.401824044Z",
+  "model": "glm-5.3"
+}

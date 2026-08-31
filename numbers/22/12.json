@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 22:12",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "u-Elohim wathi kuBilamu: Ungayi nabo; ungalahleleli ⟨את⟩ izwe, ngokuba lisikelelekile.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "uBilamu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungayi"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "עמהם",
+      "gloss": "nabo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungalahleleli"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "lahleleli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "lisikelelekile"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨he⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T02:20:11.724457125Z",
+  "model": "glm-5.3"
+}

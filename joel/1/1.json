@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "IZwi likaYahwe elalizufika kuYoeli, unyana kaPethueli.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "iZwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ukaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eli"
+    },
+    {
+      "surface": "היה",
+      "gloss": "lazufika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "uYoeli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "kaPethueli"
+    }
+  ],
+  "timestamp": "2026-08-31T05:30:08.465358759Z",
+  "model": "glm-5.3"
+}

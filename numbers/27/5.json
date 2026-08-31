@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "uMoshe wasiza ⟨את⟩ isimemo sabo phambi kukaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "wasiza"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isimemo sabo"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "isimemo sabo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:25:02.008089573Z",
+  "model": "glm-5.3"
+}

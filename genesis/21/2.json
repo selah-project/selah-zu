@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 21:2",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Yabe uSara esithwala, azala u-Avraham indodana ekugugeni kwakhe, ngesikhathi esiqondisiwe uElohim awakhuluma ngaso ⟨את⟩ naye.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "yabe esithwala"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "azala"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "uSara"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "לזקניו",
+      "gloss": "ekugugeni kwakhe"
+    },
+    {
+      "surface": "למועד",
+      "gloss": "ngesikhathi esiqondisiwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "awakhuluma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:10:52.737987286Z",
+  "model": "glm-5.3"
+}

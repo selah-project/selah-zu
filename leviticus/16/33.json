@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 16:33",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi uzokwenza ukubuyisana ⟨את⟩ ngezingcwele ezingcweleyo, futhi ⟨את⟩ ngethenti yokuhlangana, futhi ⟨את⟩ nge-altare uzokwenza ukubuyisana; futhi ngezabapristi nangeso sonke isizwe sikaqoqo uzokwenza ukubuyisana.",
+  "tokens": [
+    {
+      "surface": "וכפר",
+      "gloss": "uzokwenza ukubuyisana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngezingcwele ezingcweleyo"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "ngezingcwele"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ezingcweleyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "ngethenti yokuhlangana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ngethenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuhlangana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "nge-altare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "nge-altare"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "uzokwenza ukubuyisana"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi nangeza"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nangesa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "עם",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "sikaqoqo"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "uzokwenza ukubuyisana"
+    }
+  ],
+  "timestamp": "2026-08-31T08:49:35.824737762Z",
+  "model": "glm-5.3"
+}

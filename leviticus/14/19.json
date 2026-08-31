@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 14:19",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi umpristi uzwenza ⟨את⟩ umhlatshelo wesono, abuyisane ngalowo okhulunyiwe ngokungcola kwakhe, bese emva koko ehlatshela ⟨את⟩ umhlatshelo wezinkomo oshisiwe.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "futhi uzwenza"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlatshelo wesono"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "umhlatshelo wesono"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "abuyisane"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngalowo"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "okhulunyiwe"
+    },
+    {
+      "surface": "מטמאתו",
+      "gloss": "ngokungcola kwakhe"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "bese emva koko"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ehlatshela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlatshelo wezinkomo oshisiwe"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "umhlatshelo wezinkomo oshisiwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:56:34.103636812Z",
+  "model": "glm-5.3"
+}

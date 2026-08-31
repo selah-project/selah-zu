@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 79:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 79,
+  "translation": "Umculo ka-Asaphi. uElohim, izizwe zafika ezindaweni ezakhiwo zakho, zichazile ⟨את⟩ ithempeli elingcwele lakho, zibeka ⟨את⟩ iYerushalayimi ibe yizingodo.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Umculo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ka-Asaphi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "באו",
+      "gloss": "zafika"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "בנחלתך",
+      "gloss": "ezindaweni ezakhiwo zakho"
+    },
+    {
+      "surface": "טמאו",
+      "gloss": "zichazile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithempeli elingcwele lakho"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ithempeli"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "elingcwele lakho"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "zibeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYerushalayimi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "לעיים",
+      "gloss": "ibe yizingodo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:15.587545163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Wonke umfelokazi nentandane angehlukumezeki.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "umfelokazi"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "nentandane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ange-"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "-hlukumezeki"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:01.463357833Z",
+  "model": "glm-5.3"
+}

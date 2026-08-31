@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 73:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Ngempela ubabekela ezindawweni ezezelwayo; ubaphonsa phansi ekutshazweni.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ngempela"
+    },
+    {
+      "surface": "בחלקות",
+      "gloss": "ezindawweni ezezelwayo"
+    },
+    {
+      "surface": "תשית",
+      "gloss": "ubabekela"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨aboyo⟩"
+    },
+    {
+      "surface": "הפלתם",
+      "gloss": "ubaphonsa phansi"
+    },
+    {
+      "surface": "למשואות",
+      "gloss": "ekutshazweni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:12.588294522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Ngiyazi zonke izinyoni zezintaba, nokhozi zezimbalwa zingaphezu kwami.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ngiyazi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "izinyoni"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "zezintaba"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "nokhozi zezimbalwa"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "zezingeni lezinkulazi zomhlaba"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "zingaphezu kwami — ngingowazo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:35.018759894Z",
+  "model": "glm-5.3"
+}

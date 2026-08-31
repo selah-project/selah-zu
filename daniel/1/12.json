@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 1:12",
+  "book": "daniel",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Zilinge, ngiyacela, ⟨את⟩ izinceku zakho izinsuku ezishumi, banike imifino siyidle, namanzi asisele.",
+  "tokens": [
+    {
+      "surface": "נס",
+      "gloss": "zilinge"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngiyacela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinceku zakho"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "izinceku zakho"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ezishumi"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "banike"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "מן",
+      "gloss": "i-"
+    },
+    {
+      "surface": "הזרעים",
+      "gloss": "imifino"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "siyidle"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "namanzi"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "asisele"
+    }
+  ],
+  "timestamp": "2026-08-31T07:57:49.662256043Z",
+  "model": "glm-5.3"
+}

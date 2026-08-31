@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "uElohim wazibeka ⟨את⟩ ⟨azona⟩ emkhathini wamazulu, ukukhanyisa phezu komhlaba.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wazibeka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨azona⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "emkhathini"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wamazulu"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "ukukhanyisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "omhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T01:01:48.661806240Z",
+  "model": "glm-5.3"
+}

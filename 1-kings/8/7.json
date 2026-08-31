@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 8:7",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngokuba ama-kerubi ewasabulala izimpaphe zawo esibeni se-aroni; ama-kerubi afudumeza i-aroni namabhande ayo ngaphezulu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ama-kerubi"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "ewasabulala"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "izimpaphe zawo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "sibeni"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "se-aroni"
+    },
+    {
+      "surface": "ויסכו",
+      "gloss": "afudumeza"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "ama-kerubi"
+    },
+    {
+      "surface": "על",
+      "gloss": "a-"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "i-aroni"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "na-"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "mabhande ayo"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ngaphezulu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:52:34.401754031Z",
+  "model": "glm-5.3"
+}

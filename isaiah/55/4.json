@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 55:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 55,
+  "translation": "Bheka, ngimnikile ukuba abe ngufakazi ezizweni, ngumholi nomyaleli ezizweni.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ufakazi"
+    },
+    {
+      "surface": "לאומים",
+      "gloss": "ezizweni"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "ngimnikile"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "umholi"
+    },
+    {
+      "surface": "ומצוה",
+      "gloss": "nomyaleli"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ezizweni"
+    }
+  ],
+  "timestamp": "2026-08-31T04:33:56.251460807Z",
+  "model": "glm-5.3"
+}

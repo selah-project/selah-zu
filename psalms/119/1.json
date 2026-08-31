@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 119:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Makuhle kubantu abangaphelele ngendlela yabo, ahamba ngomthetho kaYahwe;",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Makuhle kubantu"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "abangaphelele"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ngendlela yabo"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "ahamba"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "ngomthetho ka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:51.585037334Z",
+  "model": "glm-5.3"
+}

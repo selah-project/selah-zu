@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 149,
+  "translation": "Dumazani uYah; thuleni iculo elisha kuYahwe; indumiso yakhe embizweni yabakholwayo (ikhesedi).",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumazani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "thuleni iculo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "iculo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "elisha"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "indumiso yakhe"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "embizweni"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "yabakholwayo (ikhesedi)"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:52.009597823Z",
+  "model": "glm-5.3"
+}

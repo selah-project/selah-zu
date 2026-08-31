@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 71,
+  "translation": "Ngingazi ngithembela njalo, futhi ngizongeza phezu konke udumo lwakho.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ngingazi"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "ngithembela"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "futhi ngizongeza"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "udumo lwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:00.372552655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 21:13",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi abantwana baka-Aharon umpristi banikeza ⟨את⟩ idolobha lokubalekela ompulushi, iKhebroni nemiyebo yayo, neLibhnah nemiyebo yayo.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "futhi abantwana baka-"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "banikeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idolobha lokubalekela ompulushi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "idolobha"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "lokubalekela"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "ompulushi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKhebroni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "iKhebroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imiyebo yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nemiyebo yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iLibhnah"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "iLibhnah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imiyebo yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nemiyebo yayo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:58:01.242349443Z",
+  "model": "glm-5.3"
+}

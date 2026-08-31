@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Wena uyindawo yokufihla yami nesiphephetho sami; ngiyathembela ezwini lakho.",
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "indawo yokufihla yami"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "nesiphephetho sami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "ezwini lakho"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ngiyathembela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:37.181030664Z",
+  "model": "glm-5.3"
+}

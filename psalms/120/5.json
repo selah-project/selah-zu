@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 120,
+  "translation": "Hawu kimi, ngokuba ngahlala isikhathi eside eMatsheki, ngahlala ⟨phakathi⟩ kwezihlabathi zeKhedari.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "Hawu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "ngahlala isikhathi eside"
+    },
+    {
+      "surface": "משך",
+      "gloss": "eMatsheki"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "ngahlala"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨phakathi⟩ kwe"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "zihlabathi"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "zeKhedari"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:15.800561483Z",
+  "model": "glm-5.3"
+}

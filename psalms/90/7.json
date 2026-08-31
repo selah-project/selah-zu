@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 90,
+  "translation": "Ngokuthi sigcwalise ngolaka lwakho, saphazanyiswa ngumsa wakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "sigcwalise"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ngolaka lwakho"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "ngumsa wakho"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "saphazanyiswa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:10.457713901Z",
+  "model": "glm-5.3"
+}

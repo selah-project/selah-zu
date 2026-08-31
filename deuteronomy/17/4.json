@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 17:4",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "futhi kuxoxiwe kuwe, futhi uzwe, futhi uphenye ngokucophelela, futhi bheka, kuqinisekisiwe, udaba luqinile, lwenziwe lo mnyama ochazwe nje kaphakathi kukaIsrayeli;",
+  "tokens": [
+    {
+      "surface": "והגד",
+      "gloss": "kuxoxiwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ושמעת",
+      "gloss": "uzwe"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "uphenye"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "ngokucophelela"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "futhi bheka"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "iqiniso"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "luqinisiwe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "udaba"
+    },
+    {
+      "surface": "נעשתה",
+      "gloss": "lwenziwe"
+    },
+    {
+      "surface": "התועבה",
+      "gloss": "umnyama ojabulisayo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kaphakathi kukaIsrayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T02:40:28.510726359Z",
+  "model": "glm-5.3"
+}

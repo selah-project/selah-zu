@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 32:14",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Futhi uYahwe waguquka emoseni ayekhuluma ukuba ayokwenza kubantu bakhe.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "futhi waguquka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "okubi\/umose"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayekhuluma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ukukhuluma"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukukwenza"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "kubantu bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:43:33.662085058Z",
+  "model": "glm-5.3"
+}

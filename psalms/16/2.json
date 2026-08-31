@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Ngisho kuYahwe: U-Adonayi wena ⟨ungu⟩; okuhle kwami akunalutho ngaphandle kwakho.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Ngisho"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "U-Adonayi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "okuhle kwami"
+    },
+    {
+      "surface": "בל",
+      "gloss": "akunalutho"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ngaphandle kwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:43.138949520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 115,
+  "translation": "Ngokufana nabo ⟨abazibenzayo⟩ bazoba njengabo, bonke abathembayo kubo.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "Ngokufana nabo"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bazoba"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "⟨abazibenzayo⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abathembayo"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "abathembayo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kubo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:34.567576965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "ukushiswa ngesibani ngokushiswa ngesibani, ulimele ngolimele, umtimba-nsundu ngomtimba-nsundu",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "ukushiswa ngesibani"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngokwa-"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "ukushiswa ngesibani"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ulimele"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngokwa-"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ulimele"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "umtimba-nsundu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngokwa-"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "umtimba-nsundu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:43.458374738Z",
+  "model": "glm-5.3"
+}

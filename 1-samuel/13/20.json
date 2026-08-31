@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 13:20",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Futhi bonke abakwaIsrayeli behla kumaFilishti ukuchesha, umuntu ngamunye ⟨את⟩ umsesho wakhe no-⟨את⟩ ikhadi lakhe no-⟨את⟩ imbazo yakhe no-⟨את⟩ ikhadi lokumba lakhe.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "behla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "abakwaIsrayeli"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "kumaFilishti"
+    },
+    {
+      "surface": "ללטוש",
+      "gloss": "ukuchesha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu ngamunye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umsesho wakhe"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "umsesho wakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "ikhadi lakhe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "ikhadi lakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "imbazo yakhe"
+    },
+    {
+      "surface": "קרדמו",
+      "gloss": "imbazo yakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "ikhadi lokumba lakhe"
+    },
+    {
+      "surface": "מחרשתו",
+      "gloss": "ikhadi lokumba lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:19:27.095848620Z",
+  "model": "glm-5.3"
+}

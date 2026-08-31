@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 62:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 62,
+  "translation": "Phezulu ku-Elohim usindiso lwami nenkazimulo yami; itshe lamandla ami, isiphephelo sami, ⟨ngu-Elohim⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Phezulu ku-"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "usindiso lwami"
+    },
+    {
+      "surface": "וכבודי",
+      "gloss": "nenkazimulo yami"
+    },
+    {
+      "surface": "צור",
+      "gloss": "itshe"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "lamandla ami"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "isiphephelo sami"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "ku-Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:56.643766859Z",
+  "model": "glm-5.3"
+}

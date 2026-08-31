@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-samuel 14:47",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "uShawuli wathatha umbuso phezu kuka-Israeli, walwa jikelele nawo onke izitha zakhe — eMowabhi, nasezinsizweni zakwa-Amoni, naseEdomi, nakumakhosi aseTsobha, naseFilisti — nakho konke lapho ejikelela khona wabahlaza.",
+  "tokens": [
+    {
+      "surface": "ושאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "umbuso"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kuka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israeli"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "walwa"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "jikelele"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nawo onke"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "izitha zakhe"
+    },
+    {
+      "surface": "במואב",
+      "gloss": "eMowabhi"
+    },
+    {
+      "surface": "ובבני",
+      "gloss": "nasezinsizweni zaka-"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Amoni"
+    },
+    {
+      "surface": "ובאדום",
+      "gloss": "naseEdomi"
+    },
+    {
+      "surface": "ובמלכי",
+      "gloss": "nakumakhosi ase-"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsobha"
+    },
+    {
+      "surface": "ובפלשתים",
+      "gloss": "naseFilisti"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "nakho konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ejikelela khona"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "wabahlaza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:03:50.592541152Z",
+  "model": "glm-5.3"
+}

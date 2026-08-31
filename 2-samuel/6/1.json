@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 6:1",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi uDavide waqokelela futhi bonke abakhethiwe base-Israeli, izinkulungwane ezingamatfula amathathu.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "waqokelela futhi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonke abakhethiwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "abakhethiwe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "base-Israeli"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "amatfula amathathu"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "izinkulungwane ezinga-"
+    }
+  ],
+  "timestamp": "2026-08-31T03:35:44.672360846Z",
+  "model": "glm-5.3"
+}

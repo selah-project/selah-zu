@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngijabula ngesiZwi sakho, njengotholileyo izimpahla ezinkulu zomfazambele.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Ngijabula"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "isiZwi sakho"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "njengotholileyo"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "izimpahla zomfazambele"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ezinkulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:13.252657282Z",
+  "model": "glm-5.3"
+}

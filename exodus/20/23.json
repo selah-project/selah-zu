@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Anisenzi ⟨את⟩ nami onkulunkulu besiliva, nadonkulunkulu begolide; anizenzele nina.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "nisenzi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nami"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "onkulunkulu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "besiliva"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "nadonkulunkulu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "begolide"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "nizenzele"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    }
+  ],
+  "timestamp": "2026-08-31T01:35:27.982683483Z",
+  "model": "glm-5.3"
+}

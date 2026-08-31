@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "UTerahi waphila iminyaka engu-70, wabeletha ⟨את⟩ u-Avramu ⟨את⟩ UNachori ⟨את⟩ noHaranu.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "waphila"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "UTerahi"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "isingamu neshumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wabeletha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avramu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "u-Avramu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "UNachori"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "UNachori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uHaranu"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "uHaranu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:08.480056046Z",
+  "model": "glm-5.3"
+}

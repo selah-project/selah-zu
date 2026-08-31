@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "ngaphambi kokuthi ilanga lingaphazimisi, nelanga-ukhanyo, nenyanga, nezinkanyezi, futhi amafu abuye emva komvula;",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ngaphambi kokuthi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "lingabi"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "lingaphazimisi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "nelanga-ukhanyo"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "nenyanga"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "nezinkanyezi"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "futhi abuye"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "amafu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "emva"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "komvula"
+    }
+  ],
+  "timestamp": "2026-08-31T07:50:42.605101468Z",
+  "model": "glm-5.3"
+}

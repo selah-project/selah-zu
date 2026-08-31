@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 8:4",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Wakha ⟨את⟩ iThadmore esigodini, no⟨את⟩ wonke amadolobha okulondoloza awawakile eKhamathi.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iThadmore"
+    },
+    {
+      "surface": "תדמר",
+      "gloss": "iThadmore"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "esigodini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "wonke amadolobha okulondoloza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "amadolobha"
+    },
+    {
+      "surface": "המסכנות",
+      "gloss": "okulondoloza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awawakile"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wawakha"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "eKhamathi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:34:02.504713250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 104,
+  "translation": "Ekusoleni kwakho balahla; emsindweni wokuduma kwakho bajaha ukushiya indawo.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "ekusoleni kwakho"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "balahla"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "קול",
+      "gloss": "emsindweni wezwi"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "wokuduma kwakho"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "bajaha ukushiya indawo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:56.461693912Z",
+  "model": "glm-5.3"
+}

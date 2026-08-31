@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 25:42",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "ngoba izigqili zami yizo engikhishile ⟨את⟩ kusuka ezweni laseMitsrayim; angezi kuthengiswa ngokwethengiso kwezigqili.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "izigqili zami"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yizo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "khishile"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "kunikezwa ngendlela engaqondakali"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kusuka ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angezi"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "kuthengiswa"
+    },
+    {
+      "surface": "ממכרת",
+      "gloss": "ngokwethengiso"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "kwezigqili"
+    }
+  ],
+  "timestamp": "2026-08-31T02:04:31.601178204Z",
+  "model": "glm-5.3"
+}

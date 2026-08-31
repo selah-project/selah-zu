@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Futhi babeka phezu kwami okubi esikhundleni sokuhle, nokuzondwa esikhundleniothando lwami.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "futhi babeka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "esikhundleni"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "sokuhle"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "nokuzondwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "esikhundleni"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "othando lwami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:34.971376705Z",
+  "model": "glm-5.3"
+}

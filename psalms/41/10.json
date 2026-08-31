@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 41:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Yize umngane wami wokuthula, engimbekile ithemba lami kuye, owayedla isinkwa sami, wandiphakamisela ⟨⟨ihlanga lenyawo yakhe⟩⟩",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "yize"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umngane"
+    },
+    {
+      "surface": "שלומי",
+      "gloss": "wami wokuthula"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "engimbekile ithemba lami"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "owayedla"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "isinkwa sami"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "wandiphakamisela"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngami"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ihlanga lenyawo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:52.736400045Z",
+  "model": "glm-5.3"
+}

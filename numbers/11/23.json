@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 11:23",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi uYahwe wathi kuMoshe: ingabe isandla sikaYahwe sifushane? manje uzobona lizokwenzeka kuwe yini izwi lami noma cha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "futhi wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "היד",
+      "gloss": "ingabe isandla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "תקצר",
+      "gloss": "sifushane"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "uzobona"
+    },
+    {
+      "surface": "היקרך",
+      "gloss": "lizokwenzeka kuwe yini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "izwi lami"
+    },
+    {
+      "surface": "אם",
+      "gloss": "yini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    }
+  ],
+  "timestamp": "2026-08-31T02:14:47.975572659Z",
+  "model": "glm-5.3"
+}

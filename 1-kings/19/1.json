@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 19:1",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "U-Achabhi waxoxela iIzabheli ⟨את⟩ konke lokho okwenza uEliyahu, no⟨את⟩ konke lokho abubulala ngalo ⟨את⟩ bonke abaphrofethi ngenkemba.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "waxoxela"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "U-Achabhi"
+    },
+    {
+      "surface": "לאיזבל",
+      "gloss": "iIzabheli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke lokho okwenza uEliyahu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "okwenza"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "uEliyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "konke lokho abubulala ngalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "abubulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonke abaphrofethi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "abaphrofethi"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ngenkemba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:06:48.004354863Z",
+  "model": "glm-5.3"
+}

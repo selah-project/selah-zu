@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 20:26",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Futhi ninzobe ngingcwele kimi, ngoba mina uYahwe ngingcwele; futhi nganihlukanisa kwezizwini ukuba nibe ngingeyami.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "ninzobe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ningcwele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ngingcwele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ואבדל",
+      "gloss": "nganihlukanisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "izizwini"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ukuba nibe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngingeyami"
+    }
+  ],
+  "timestamp": "2026-08-31T02:01:22.425228682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 3:3",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "uYahwe uElohim wethu wasinika esandleni sethu nango-Ogi, inkosi yeBhashani, ⟨את⟩ nabo bonke abantu bakhe; samshaya kwaze kwasala kungekho asalile kuye.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wasinika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "esandleni sethu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nangu-"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Ogi"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "u-Ogi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "yeBhashani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nabo bonke abantu bakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "ונכהו",
+      "gloss": "samshaya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwaze kwasala"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "kungasalile"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "kungekho asalile"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "ongasalile"
+    }
+  ],
+  "timestamp": "2026-08-31T02:31:24.392454040Z",
+  "model": "glm-5.3"
+}

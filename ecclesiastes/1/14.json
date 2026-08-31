@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngibonile ⟨את⟩ wonke amasebenzi okwenziwe ngaphansi kelanga; futhi bheka, konke yize nokukhathazeka komoya.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ngibonile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke amasebenzi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "amasebenzi"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "okwenziwe"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kelanga"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "futhi bheka"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "yize"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "nokukhathazeka"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "komoya"
+    }
+  ],
+  "timestamp": "2026-08-31T07:43:50.104780982Z",
+  "model": "glm-5.3"
+}

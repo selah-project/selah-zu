@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 5:10",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Bayazonda lowo oqondisayo esangweni, futhi bayazidela lowo okhuluma ngokuqotho.",
+  "tokens": [
+    {
+      "surface": "שנאו",
+      "gloss": "bayazonda"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "esangweni"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "lowo oqondisayo"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "futhi lowo okhuluma"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ngokuqotho"
+    },
+    {
+      "surface": "יתעבו",
+      "gloss": "bayazidela"
+    }
+  ],
+  "timestamp": "2026-08-31T05:33:25.654504344Z",
+  "model": "glm-5.3"
+}

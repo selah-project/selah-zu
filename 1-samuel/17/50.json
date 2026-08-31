@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "1-samuel 17:50",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "UDavide wanqoba phezu kukaMfelishti ngeyosi nalilithe, wabetha ⟨את⟩ uMfelishti wambulala, inkemba ayibanga esandleni sikazDavide.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "wanqoba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "מן",
+      "gloss": "phezu kwa"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "uMfelishti"
+    },
+    {
+      "surface": "בקלע",
+      "gloss": "ngeyosi"
+    },
+    {
+      "surface": "ובאבן",
+      "gloss": "nalilithe"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wabetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMfelishti"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "uMfelishti"
+    },
+    {
+      "surface": "וימיתהו",
+      "gloss": "wambulala"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "inkemba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ayibanga"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T03:24:33.030517093Z",
+  "model": "glm-5.3"
+}

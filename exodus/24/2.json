@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "uMoshe yedwa uzosondela kuYahwe; bona abazusondeli; futhi abantu abazukhuphukela naye.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "uzosondela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yedwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "והם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abazu-"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "sondeli"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "futhi abantu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abazu-"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "khuphukela"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    }
+  ],
+  "timestamp": "2026-08-31T01:38:19.694655408Z",
+  "model": "glm-5.3"
+}

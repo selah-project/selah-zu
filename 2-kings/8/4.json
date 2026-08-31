@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 8:4",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "IMengiwele wayekhuluma noGehazi, inkonjana yedoda ka-Elohim, esithi: Ngiyacela undixoxele ⟨את⟩ wonke izenzo ezinkulu u-Elishe azenzile.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "IMengiwele"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "wayekhuluma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no-"
+    },
+    {
+      "surface": "גחזי",
+      "gloss": "Gehazi"
+    },
+    {
+      "surface": "נער",
+      "gloss": "inkonjana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yedoda"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ka-Elohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "undixoxele"
+    },
+    {
+      "surface": "נא",
+      "gloss": "Ngiyacela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izenzo ezinkulu zonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "izenzo ezinkulu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a-"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "zenzile"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "u-Elishe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:07:09.632528494Z",
+  "model": "glm-5.3"
+}

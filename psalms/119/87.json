@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Besengasese bangaphelisa emhlabeni; kodwa mina angisiye imiyalo yakho.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Besengasese"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "bangaphelisa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kodwa mina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "ngishiye"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "imiyalo yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:43.770925593Z",
+  "model": "glm-5.3"
+}

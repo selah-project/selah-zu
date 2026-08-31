@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 6:5",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi nami ngizwile ⟨את⟩ ukukhala kwabantwana bakwa-Israyeli, okwaMitsrayim eqhubekisa ukubagqilaza; ngikhumbule ⟨את⟩ isivumelwano sami.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "futhi nami"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ngizwile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukukhala kwabantwana bakwa-Israyeli"
+    },
+    {
+      "surface": "נאקת",
+      "gloss": "ukukhala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ok"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "מעבדים",
+      "gloss": "eqhubekisa ukubagqilaza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bobona"
+    },
+    {
+      "surface": "ואזכר",
+      "gloss": "ngikhumbule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isivumelwano sami"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "isivumelwano sami"
+    }
+  ],
+  "timestamp": "2026-08-31T01:29:06.711417680Z",
+  "model": "glm-5.3"
+}

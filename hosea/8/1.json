@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 8:1",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Kumlomo wakho, uphondo — njengokhozi phezu kwendlu kaYahwe — ngoba baqaba isivumelwano sami, futhi bephula umthetho wami.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ku"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "umlomo wakho"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "uphondo"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "njengokhozi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ukaYahwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "baqaba"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "isivumelwano sami"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi phezu kwa-"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "umthetho wami"
+    },
+    {
+      "surface": "פשעו",
+      "gloss": "bephula"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:10.366758314Z",
+  "model": "glm-5.3"
+}

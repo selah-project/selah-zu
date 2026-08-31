@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 13:43",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Futhi umpristi uzombona ⟨את⟩, futhi ngokuba ukukhuphuka kwesilima kumhlophe kobomvubomvu ekhaleni lwemuva lwakhe noma ekhaleni laphambili lakhe, njengokubonakala kobhubhane esisimeni senyama —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "Futhi umpristi uzombona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (lowo umuntu ofunyanwa sisilima)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "futhi ngokuba"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ukukhuphuka"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "kwesilima"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "kumhlophe"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "kobomvubomvu"
+    },
+    {
+      "surface": "בקרחתו",
+      "gloss": "ekhaleni lwemuva lwakhe"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "בגבחתו",
+      "gloss": "ekhaleni laphambili lakhe"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "njengokubonakala"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "kobhubhane"
+    },
+    {
+      "surface": "עור",
+      "gloss": "esisimeni"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "senyama"
+    }
+  ],
+  "timestamp": "2026-08-31T05:57:38.614723304Z",
+  "model": "glm-5.3"
+}

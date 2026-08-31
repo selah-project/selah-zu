@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 95:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 95,
+  "translation": "Wozani, siqhumise ngomculo kuYahwe, sikhalimele iNdaba yensindiso yethu, intombo yethu yesiphephelo.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Wozani"
+    },
+    {
+      "surface": "נרננה",
+      "gloss": "siqhumise ngomculo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "נריעה",
+      "gloss": "sikhalimele"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "iNtombo"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "yesiphephelo yethu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:53.249801313Z",
+  "model": "glm-5.3"
+}

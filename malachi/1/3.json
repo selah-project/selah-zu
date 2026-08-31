@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 1:3",
+  "book": "malachi",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kanti ⟨את⟩ u-Esav ndimzene, futhi ngabeka ⟨את⟩ izintaba zakhe zibe yindawo eyogileyo, futhi ⟨את⟩ ifa lakhe lanikela kuzinjakazi zasogwini.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Esav"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "u-Esav"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ndimzene"
+    },
+    {
+      "surface": "ואשים",
+      "gloss": "ngabeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izintaba zakhe"
+    },
+    {
+      "surface": "הריו",
+      "gloss": "izintaba zakhe"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "indawo eyogileyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ifa lakhe"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ifa lakhe"
+    },
+    {
+      "surface": "לתנות",
+      "gloss": "kuzinjakazi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ogwini"
+    }
+  ],
+  "timestamp": "2026-08-31T10:30:13.191600907Z",
+  "model": "glm-5.3"
+}

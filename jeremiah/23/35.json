@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 23:35",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Kanjalo nizothi umuntu kumngane wakhe nomuntu kumfowabo, Yini uYahwe ayiphendule? futhi yini uYahwe ayikhulume?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "nizothi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "umngane-wakhe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "futhi-umuntu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umfowabo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "aphendule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "futhi-yini"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akhulume"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:49:14.315762494Z",
+  "model": "glm-5.3"
+}

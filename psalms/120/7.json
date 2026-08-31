@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 120,
+  "translation": "Mina ngukuthula; kepha lapho ngikhuluma, bona bayazondela empi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ngukuthula"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "kepha lapho"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ngikhuluma"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "bayazondela empi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:15.801410543Z",
+  "model": "glm-5.3"
+}

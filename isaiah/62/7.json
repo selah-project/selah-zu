@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 62,
+  "translation": "Futhi ningamniki ukuthula kuYe, kuze kukhonzakale futhi aqinise, futhi kuze ase ⟨את⟩ iYerushalayimi indumiso emhlabeni.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "futhi musani"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ningamniki"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ukuthula"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuYe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "kuze kukhonzakale futhi aqinise"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "futhi kuze"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ase"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYerushalayimi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "indumiso"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-08-31T04:37:28.815863697Z",
+  "model": "glm-5.3"
+}

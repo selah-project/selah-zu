@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 93:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 93,
+  "translation": "Amagwala anyusile, a-uYahwe, amagwala anyusile izwi lawo, amagwala anyusa amagagasi alo aqinileyo.",
+  "tokens": [
+    {
+      "surface": "נשאו",
+      "gloss": "anyusile"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "amagwala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "a-uYahwe"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "anyusile"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "amagwala"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "izwi lawo"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "anyusa"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "amagwala"
+    },
+    {
+      "surface": "דכים",
+      "gloss": "amagagasi aqinileyo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:00.705809932Z",
+  "model": "glm-5.3"
+}

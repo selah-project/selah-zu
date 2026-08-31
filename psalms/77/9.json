@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 77:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 77,
+  "translation": "Ingabe ikhesedi lakhe liphelile kuze kube phakade na? Ingabe isithembiso siphelele kuso isizukulwane nesizukulwane na?",
+  "tokens": [
+    {
+      "surface": "האפס",
+      "gloss": "Ingabe liphelile"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi lakhe"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "yaphela"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "isithembiso"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kuso isizukulwane"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nesizukulwane"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:44.047036298Z",
+  "model": "glm-5.3"
+}

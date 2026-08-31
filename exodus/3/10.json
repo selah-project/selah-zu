@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 3:10",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi manje hamba, futhi ngizakuthumela ku-Paro, ukuze ukhiphe ⟨את⟩ isizwe sami, abantwana bakwa-Israyeli, eMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "futhi manje"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "ואשלחך",
+      "gloss": "ngizakuthumela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "והוצא",
+      "gloss": "ukuze ukhiphe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isizwe sami"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "isizwe sami"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:28:09.582473355Z",
+  "model": "glm-5.3"
+}

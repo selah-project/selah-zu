@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "U- Eli wayesesabiza ⟨את⟩ uShemuweli wathi: Shemuweli, mntanami. Wathi: Nangu mina.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wayesesabiza"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "u- Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShemuweli"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Shemuweli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mntanami"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Nangu mina"
+    }
+  ],
+  "timestamp": "2026-08-31T03:16:00.374613254Z",
+  "model": "glm-5.3"
+}

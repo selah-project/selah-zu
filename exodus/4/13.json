@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Wathi: Ngiyacela, u-Adonayi, thuma ngesandla ⟨lowo⟩ ozothuma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngiyacela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "thuma"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngiyacela"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "ozothuma"
+    }
+  ],
+  "timestamp": "2026-08-31T01:28:33.413762419Z",
+  "model": "glm-5.3"
+}

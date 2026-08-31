@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 74,
+  "translation": "Wena ngamandla akho waqhekeza ⟨את⟩ ulwandle; wacekizephula izinhloko zeziyengiphonza phezu kwamanzi.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "waqhekeza"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "ngamandla akho"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "wacekizephula"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "izinhloko"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "zeziyengiphonza"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T09:47:18.014065134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 13:14",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Futhi (Asihlaki) ngesifiso sam (esibi), (uAnmone) engafuni ukulalela izwi layo, futhi (wabanamandla) (okwedlula) (umphikiswano wakhe), futhi (wambhedeza) (ngokwesisu), futhi (wayeselala) ⟨את⟩ (le ndodakazi).",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "futhi (Asihlaki)"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "(ngesifiso sam)"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ukulalela"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "izwi layo"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "(wabanamandla)"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "(okwedlula) (umphikiswano wakhe)"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "(wambhedeza) (ngokwesisu)"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "(wayeselala)"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "(le ndodakazi)"
+    }
+  ],
+  "timestamp": "2026-08-31T03:37:04.738094015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 9:14",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "U-Yehu, indodana kaYehoshafati, indodana kaNimshi, waqamba umkhwevane wokumelana noYoram; uYorum wayeqophele eRamoto giGiladi, yena nomhlaba wonke kaIsrayeli, ngenxa yukaChazaeli, inkosi yakwaArama.",
+  "tokens": [
+    {
+      "surface": "ויתקשר",
+      "gloss": "waqamba umkhwevane"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "uYehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "kaYehoshafati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "kaNimshi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wokumelana"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "noYoram"
+    },
+    {
+      "surface": "ויורם",
+      "gloss": "uYorum"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wayengumgadi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "wayeqophele"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "eRamoto"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "giGiladi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nomhlaba wonke ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa yuka"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Chazaeli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "yakwaArama"
+    }
+  ],
+  "timestamp": "2026-08-31T04:07:25.660963567Z",
+  "model": "glm-5.3"
+}

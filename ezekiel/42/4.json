@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 42:4",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Futhi phambi kwesiphala bekukhona indlela yokuhamba ububanzi bamakhubhu ashumi, ngokuphakathi; indlela yekhubhu elilodwa; iminyango yazo ibhekise enyakatho.",
+  "tokens": [
+    {
+      "surface": "ולפני",
+      "gloss": "Futhi phambi"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "kwesiphala"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "indlela yokuhamba"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ashumi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amakhubhu"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ububanzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngokuphakathi"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "yekhubhu"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "ופתחיהם",
+      "gloss": "iminyango yazo"
+    },
+    {
+      "surface": "לצפון",
+      "gloss": "enyakatho"
+    }
+  ],
+  "timestamp": "2026-08-31T05:22:29.852075463Z",
+  "model": "glm-5.3"
+}

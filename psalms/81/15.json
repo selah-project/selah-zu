@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 81:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 81,
+  "translation": "Ngokushesha ngingacindezela izitha zabo, futhi ngingaphendula isandla sami ebunzimeni babo.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "Ngokushesha"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "izitha zabo"
+    },
+    {
+      "surface": "אכניע",
+      "gloss": "ngingacindezela"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi ebunzimeni"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "babo"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ngingaphendula"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "isandla sami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:25.272902211Z",
+  "model": "glm-5.3"
+}

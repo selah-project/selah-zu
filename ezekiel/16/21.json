@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 16:21",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi wabulala ⟨את⟩ izingane zako, wazinika ⟨את⟩ ezintweni uma uzidlulisa kubona.",
+  "tokens": [
+    {
+      "surface": "וַֽתִּשְחֲטִ֖י",
+      "gloss": "wabulala"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "izingane zako"
+    },
+    {
+      "surface": "בָּנָ֑י",
+      "gloss": "izingane zako"
+    },
+    {
+      "surface": "וַֽתִּתְּנִ֔ים",
+      "gloss": "wazinika"
+    },
+    {
+      "surface": "בְּהַעֲבִ֥יר",
+      "gloss": "uma uzidlulisa"
+    },
+    {
+      "surface": "אוֹתָ֖ם",
+      "gloss": "⟨את⟩",
+      "marks": "kubona"
+    },
+    {
+      "surface": "לָהֶֽם",
+      "gloss": "kubona"
+    }
+  ],
+  "timestamp": "2026-08-31T10:55:25.010590301Z",
+  "model": "glm-5.3"
+}

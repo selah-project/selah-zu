@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi ⟨את⟩ nani kuzoba nendoda ngamunye ngohlanga ngamunye, indoda yikhanda lehlobo lomuzi wokhokho bayo.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ nani"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "kuzoba ne-"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ngamunye"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ngohlanga ngamunye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "yikhanda"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "lehlobo lomuzi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "wokhokho bayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    }
+  ],
+  "timestamp": "2026-08-31T02:07:32.898004292Z",
+  "model": "glm-5.3"
+}

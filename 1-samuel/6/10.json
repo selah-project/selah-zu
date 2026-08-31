@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 6:10",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Amadoda azenza njalo; athathe izinkomo ezimbili ezelisi ezibophe engwazini, futhi ⟨את⟩ amawonyawane azo awavale endlini.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "azenzenjalo"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "athatha"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "izinkomo"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "ezelisi"
+    },
+    {
+      "surface": "ויאסרום",
+      "gloss": "azibophe"
+    },
+    {
+      "surface": "בעגלה",
+      "gloss": "engwazini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amawonyawane azo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "amawonyawane azo"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "avale"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlini"
+    }
+  ],
+  "timestamp": "2026-08-31T03:16:47.842310110Z",
+  "model": "glm-5.3"
+}

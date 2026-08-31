@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "u-Estere akazange axoxe ⟨את⟩ isizwe sakhe no⟨את⟩ indabuko yayo, ngoba uMordokayi wamyala phekaya ukuthi angaxoxi.",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "akazange"
+    },
+    {
+      "surface": "הִגִּידָה",
+      "gloss": "axoxe"
+    },
+    {
+      "surface": "אֶסְתֵּר",
+      "gloss": "u-Estere"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "isizwe sakhe"
+    },
+    {
+      "surface": "עַמָּהּ",
+      "gloss": "isizwe sakhe"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "⟨את⟩",
+      "marks": "indabuko yayo"
+    },
+    {
+      "surface": "מוֹלַדְתָּהּ",
+      "gloss": "indabuko yayo"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "מָרְדֳּכַי",
+      "gloss": "uMordokayi"
+    },
+    {
+      "surface": "צִוָּה",
+      "gloss": "wamyala"
+    },
+    {
+      "surface": "עָלֶיהָ",
+      "gloss": "phekaya"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "תַּגִּיד",
+      "gloss": "xoxi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:53:07.997180209Z",
+  "model": "glm-5.3"
+}

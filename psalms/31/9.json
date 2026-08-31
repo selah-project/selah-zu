@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 31:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "futhi awungivalelangi esandleni sositha; umisile izinyawo zami endaweni ebanzi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "futhi awu-"
+    },
+    {
+      "surface": "הסגרתני",
+      "gloss": "ungivalelangi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sositha"
+    },
+    {
+      "surface": "העמדת",
+      "gloss": "umisile"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "endaweni ebanzi"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "izinyawo zami"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:19.412315596Z",
+  "model": "glm-5.3"
+}

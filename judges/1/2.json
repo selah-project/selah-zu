@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "UYahwe wathi: uYehuda uyonyuka; bheka, nginike ⟨את⟩ izwe esandleni sakhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "UYahwe"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehuda"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "uyonyuka"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nginike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "esandleni sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:01:18.938907214Z",
+  "model": "glm-5.3"
+}

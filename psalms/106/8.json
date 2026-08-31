@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 106:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Kodwa wasibasindisa ngenxa yegama lakhe, ukuze adonse isiha esamandla akhe.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "wasibasindisa"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa ye-"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "להודיע",
+      "gloss": "ukuze adonse isiha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "esamandla akhe"
+    },
+    {
+      "surface": "גבורתו",
+      "gloss": "esamandla akhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:58.086552703Z",
+  "model": "glm-5.3"
+}

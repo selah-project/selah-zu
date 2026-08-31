@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Lalelani loku, zizwe zonke izizwe; nizweleni, nonke ehlezi emhlabeni wekhothamo.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Lalelani"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "loku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "nizweleni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nonke"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ehlezi"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "emhlabeni wekhothamo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:06.801114383Z",
+  "model": "glm-5.3"
+}

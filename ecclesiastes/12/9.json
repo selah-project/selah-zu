@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 12:9",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi ngaphezu kokuthi uQohelethi wayengohlakaniphide, waphinde wafundisa abantu ulwazi ⟨את⟩; wazwa ngokucophelela, wafuna ngokujulile, wahlunganisa izisho eziningi.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "futhi ngaphezu kokuthi"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "wayeng"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "uQohelethi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ohlakaniphile"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "waphinde"
+    },
+    {
+      "surface": "למד",
+      "gloss": "wafundisa"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "wazwa ngokucophelela"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "wafuna ngokujulile"
+    },
+    {
+      "surface": "תקן",
+      "gloss": "wahlunganisa"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "izisho"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "eziningi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:50:18.707348227Z",
+  "model": "glm-5.3"
+}

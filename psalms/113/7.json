@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 113,
+  "translation": "uvusa impofu esidangweni, umsusa odingayo endaweni yokulahla;",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "uvusa"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "esidangweni"
+    },
+    {
+      "surface": "דל",
+      "gloss": "impofu"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "endaweni yokulahla"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "umsusa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "odingayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:20.892936582Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 22:1",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Angabi ⟨uyabona⟩ ⟨את⟩ inkunzi yenkomo yakwesibakhwenu noma ⟨את⟩ izimvu zayo ezidukileyo, uze uzithulele kuzo; mangabe uzibuyisela yakwesibakhwenu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "manga"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ubona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkunzi yenkomo yakwesibakhwenu"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inkunzi yenkomo"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "yakwesibakhwenu"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izimvu zayo"
+    },
+    {
+      "surface": "שיו",
+      "gloss": "izimvu zayo"
+    },
+    {
+      "surface": "נדחים",
+      "gloss": "ezidukileyo"
+    },
+    {
+      "surface": "והתעלמת",
+      "gloss": "uze uzithulele"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kuzo"
+    },
+    {
+      "surface": "השב",
+      "gloss": "mangabe"
+    },
+    {
+      "surface": "תשיבם",
+      "gloss": "uzibuyisela"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "yakwesibakhwenu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:40:53.814495863Z",
+  "model": "glm-5.3"
+}

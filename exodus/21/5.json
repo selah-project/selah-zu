@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 21:5",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi uma ibonda lisho ngokusobala: Ngithanda ⟨את⟩ inkosi yami, ⟨את⟩ unkosikazi wami no⟨את⟩ bantwabami; angeke ngiphume ngikhululekile —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "futhi uma"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "lisho"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ngokusobala"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "ibonda"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ngithanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi yami"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "inkosi yami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unkosikazi wami"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "unkosikazi wami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "abantwabami"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwabami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ngiphume"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "ngikhululekile"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:47.915538449Z",
+  "model": "glm-5.3"
+}

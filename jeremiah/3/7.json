@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 3:7",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Nathi ngemva kokuthi yenzile ⟨את⟩ zonke lezi zinto, ⟨ibuyele⟩ kimi; yaze ayibuyelanga, yabona yona iYuda engekho eqotho, udadewabo.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Nathi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ngemva kokuthi"
+    },
+    {
+      "surface": "עשותה",
+      "gloss": "yenzile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "lezi zinto"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ibuyele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaze ayibuyelanga"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "ayibuyelanga"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "engekho eqotho"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "udadewabo"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "iYuda"
+    }
+  ],
+  "timestamp": "2026-08-31T04:39:39.849959452Z",
+  "model": "glm-5.3"
+}

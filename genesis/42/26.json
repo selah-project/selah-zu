@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 42:26",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Baza belayisha ⟨את⟩ okusanhlamvu kwabo phezu kwamadomki abo, baza behamba khona.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "baza belayisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okusanhlamvu kwabo"
+    },
+    {
+      "surface": "שברם",
+      "gloss": "okusanhlamvu kwabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa"
+    },
+    {
+      "surface": "חמריהם",
+      "gloss": "amadomki abo"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "baza behamba"
+    },
+    {
+      "surface": "משם",
+      "gloss": "khona"
+    }
+  ],
+  "timestamp": "2026-08-31T01:22:19.722860429Z",
+  "model": "glm-5.3"
+}

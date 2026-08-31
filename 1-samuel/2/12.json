@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Amadodana ka-Eli ay amadodana ebeliyali; abazi ⟨את⟩ uYahwe.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka-Eli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ebeliyali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:13:19.948548183Z",
+  "model": "glm-5.3"
+}

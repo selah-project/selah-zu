@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Izinkathi ezintathu uzogubha kimi ngonyaka.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "izinkathi (izinyawo zokuhamba)"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "uzogubha"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ngonyaka"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:40.276018019Z",
+  "model": "glm-5.3"
+}

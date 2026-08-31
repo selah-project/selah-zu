@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 19:4",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Futhi uma ngempela ngidukele, iphutha lami lihlala ⟨את⟩ kimi.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "Futhi uma"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "שגיתי",
+      "gloss": "ngidukele"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kimi",
+      "marks": "iphutha lami"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "lihlala"
+    },
+    {
+      "surface": "משוגתי",
+      "gloss": "iphutha lami"
+    }
+  ],
+  "timestamp": "2026-08-31T10:33:59.110489550Z",
+  "model": "glm-5.3"
+}

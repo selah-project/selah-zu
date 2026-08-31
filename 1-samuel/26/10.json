@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 26:10",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "UDavide wathi: U-uYahwe uyaphila; u-uYahwe uzomshaya, noma usuku lwakhe lufike afe, noma ehle empini abhelwe ngabanye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "UDavide"
+    },
+    {
+      "surface": "חי",
+      "gloss": "uyaphila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "u-uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "—"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "u-uYahwe"
+    },
+    {
+      "surface": "יגפנו",
+      "gloss": "uzomshaya"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "usuku lwakhe"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "lufike"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "afe"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "empini"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ehle"
+    },
+    {
+      "surface": "ונספה",
+      "gloss": "abhelwe ngabanye"
+    }
+  ],
+  "timestamp": "2026-08-31T03:30:00.927161883Z",
+  "model": "glm-5.3"
+}

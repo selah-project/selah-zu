@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 49:16",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Bheka, ezandleni zakho ngikucheshile; amadina akhe mi phambi kwami njalo.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "על",
+      "gloss": "eza-"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "nzweni zami zangaphakathi"
+    },
+    {
+      "surface": "חקתיך",
+      "gloss": "ngikucheshile"
+    },
+    {
+      "surface": "חומתיך",
+      "gloss": "amadina akhe"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "phambi kwami"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:31:38.283398446Z",
+  "model": "glm-5.3"
+}

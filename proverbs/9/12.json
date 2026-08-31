@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 9:12",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Uma uhlakaniphile, uhlakaniphela wena; uma waba yisihlekwa, uwedwa uzozithwala.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "uhlakaniphile"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "uhlakaniphela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ולצת",
+      "gloss": "waba yisihlekwa"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "uwedwa"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "uzozithwala"
+    }
+  ],
+  "timestamp": "2026-08-31T06:50:53.614812190Z",
+  "model": "glm-5.3"
+}

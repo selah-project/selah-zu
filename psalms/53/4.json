@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 53,
+  "translation": "Bonke baphendukela emuva, bahlanganyela ukonakala; akukho okwenza okuhle, akukho ⟨nokho⟩ nokodwa.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "סג",
+      "gloss": "baphendukela emuva"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "bahlanganyela"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "ukonakala"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "okwenza"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nokho"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nokodwa"
+    }
+  ],
+  "timestamp": "2026-08-31T10:30:52.526835595Z",
+  "model": "glm-5.3"
+}

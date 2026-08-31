@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "leviticus 14:52",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi uzohlanza ⟨את⟩ indlu ngegazi lenyoni, namanzi aphilayo, nenyoni ephilayo, nomuthi wekhedari, nesisipo, noshani obomvu.",
+  "tokens": [
+    {
+      "surface": "וחטא",
+      "gloss": "uzohlanza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ngegazi"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "lenyoni"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "namanzi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "aphilayo"
+    },
+    {
+      "surface": "ובצפר",
+      "gloss": "nenyoni"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ephilayo"
+    },
+    {
+      "surface": "ובעץ",
+      "gloss": "nomuthi"
+    },
+    {
+      "surface": "הארז",
+      "gloss": "wekhedari"
+    },
+    {
+      "surface": "ובאזב",
+      "gloss": "nesisipo"
+    },
+    {
+      "surface": "ובשני",
+      "gloss": "noshani"
+    },
+    {
+      "surface": "התולעת",
+      "gloss": "obomvu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:55:54.349264005Z",
+  "model": "glm-5.3"
+}

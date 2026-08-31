@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 92,
+  "translation": "Kusakhona bazokhiqiza izithombo sekugugile, benonile bahlaza bengamahlwathi.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "Kusakhona"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "bazokhiqiza izithombo"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "sekugugile"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "benonile"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "bahlaza bengamahlwathi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "baba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:04.020364632Z",
+  "model": "glm-5.3"
+}

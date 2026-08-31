@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Yekisa intukuthelo,ushiye ishwiba; ungavuthweka ukuze ungabi yilokhu kuphela — ukwenza okubi.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Yekisa"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "intukuthelo"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "ushiye"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ishwiba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "vuthweka"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "ukwenza okubi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:40.516647427Z",
+  "model": "glm-5.3"
+}

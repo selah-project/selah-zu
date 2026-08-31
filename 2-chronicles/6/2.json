@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Kepha mina ngizakhele wena indlu yokuzibamba kuyona, nendawo esisigodi sokuhlala kwakho kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kepha mina"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ngizakhele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "yokuzibamba kuyona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "nendawo esisigodi"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "sokuhlala kwakho"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T08:31:42.081915890Z",
+  "model": "glm-5.3"
+}

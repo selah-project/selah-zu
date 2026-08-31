@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 2:7",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Umhlaba wabo wazaliswa isiliva negolide, kanti asikho isiphetho ezinkumbuzweni zabo; umhlaba wabo wazaliswa amahashi, kanti asikho isiphetho izinkabi zokuhamba zabo.",
+  "tokens": [
+    {
+      "surface": "ותמלא",
+      "gloss": "wazaliswa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "umhlaba wabo"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "negolide"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kanti asikho"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "isiphetho"
+    },
+    {
+      "surface": "לאצרתיו",
+      "gloss": "ezinkumbuzweni zabo"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "wazaliswa"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "umhlaba wabo"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "amahashi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kanti asikho"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "isiphetho"
+    },
+    {
+      "surface": "למרכבתיו",
+      "gloss": "izinkabi zokuhamba zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:15:52.680443506Z",
+  "model": "glm-5.3"
+}

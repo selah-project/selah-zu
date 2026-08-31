@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 18:3",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "u-Ahabu wabiza u-Ovadyahu, owayengumlawuli endlwini yakhe; futhi u-Ovadyahu wayengumuntu owayesaba ⟨את⟩ uYahwe kakhulu.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "u-Ahabu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "u-Ovadyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owayengumlawuli"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kwendlu"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "futhi u-Ovadyahu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wayengumuntu owaye-"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "esaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:59:33.831633803Z",
+  "model": "glm-5.3"
+}

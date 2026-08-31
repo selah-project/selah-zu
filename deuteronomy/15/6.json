@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 15:6",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "ngoba uYahwe uElohim wakho uzakubusisa, njengokuba wakhuluma kuwena; futhi uzakunikela ngokuboleka izizwe eziningi, kepha wena awuzukuboleka; futhi uzakubusa izizwe eziningi, kepha ngeke babuse kuwena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "uzakubusisa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokuba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwena"
+    },
+    {
+      "surface": "והעבטת",
+      "gloss": "uzakunikela ngokuboleka"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "eziningi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kepha wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha\/awu"
+    },
+    {
+      "surface": "תעבט",
+      "gloss": "awuzukuboleka"
+    },
+    {
+      "surface": "ומשלת",
+      "gloss": "futhi uzakubusa"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "eziningi"
+    },
+    {
+      "surface": "ובך",
+      "gloss": "kuwena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "ימשלו",
+      "gloss": "babuse"
+    }
+  ],
+  "timestamp": "2026-08-31T02:37:31.727489222Z",
+  "model": "glm-5.3"
+}

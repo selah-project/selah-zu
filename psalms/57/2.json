@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 57:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 57,
+  "translation": "Ngenela umusa wami, uElohim, ngenela umusa wami, ngokuba kithi wena inefeshi yami ithathe isikhewe, futhi esithunzi seenhlevo zakho ngizothatha isikhewe, kuze kudlule izinhlekelele.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ngenela umusa wami"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ngenela umusa wami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kithi wena"
+    },
+    {
+      "surface": "חסיה",
+      "gloss": "ithathe isikhewe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "ובצל",
+      "gloss": "futhi esithunzi"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "seenhlevo zakho"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ngizothatha isikhewe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "kudlule"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "izinhlekelele"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:53.610469100Z",
+  "model": "glm-5.3"
+}

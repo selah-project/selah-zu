@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 136:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 136,
+  "translation": "Kuye oholela isizwe sakhe esendlalela, ngoba ikhesedi yakhe iyaphakade kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "למוליך",
+      "gloss": "Kuye oholela"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isizwe sakhe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "esendlalela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iyaphakade kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:21.479675954Z",
+  "model": "glm-5.3"
+}

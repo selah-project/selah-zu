@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ngakho-ke ngaphuma ukuzohlakulela ukufika kuwe, ukufunisisa ubuso bakho, futhi ngakuthola.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "ngaphuma"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "ukuzohlakulela ukufika kuwe"
+    },
+    {
+      "surface": "לשחר",
+      "gloss": "ukufunisisa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "ואמצאך",
+      "gloss": "futhi ngakuthola"
+    }
+  ],
+  "timestamp": "2026-08-31T06:49:07.573928399Z",
+  "model": "glm-5.3"
+}

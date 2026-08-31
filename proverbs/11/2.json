@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Ukuzikhukhumeza kufikelwe, ihlazo lingena futhi; kodwa ⟨את⟩ abathobekile kube kukhona okuhlakanipha.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "kufika"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "ukuzikhukhumeza"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "lingena futhi"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ihlazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abathobekile"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "abathobekile"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "okuhlakanipha"
+    }
+  ],
+  "timestamp": "2026-08-31T06:53:29.589474854Z",
+  "model": "glm-5.3"
+}

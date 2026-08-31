@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Futhi uzothatha ⟨את⟩ amatshe amabili eshohamu, uze uchithe kubo amagama abantwana bakwaYisraeli.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "futhi uzothatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatshe amabili eshohamu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "amabili"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "amatshe"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "eshohamu"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "uze uchithe"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaYisraeli"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:38.917902414Z",
+  "model": "glm-5.3"
+}

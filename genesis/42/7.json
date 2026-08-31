@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 42:7",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "UYosefu wababona ⟨את⟩ abakubo futhi wabazi, kodwa wazenza abangaziwe kubona, wakhuluma nabo ⟨את⟩ ngokunzima, wathi kubona: Nivela phi? Bathi: Ezweni lakwa-Khanani, ukuthenga ukudla.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wababona"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "UYosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abakubo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abakubo"
+    },
+    {
+      "surface": "ויכרם",
+      "gloss": "wabazi"
+    },
+    {
+      "surface": "ויתנכר",
+      "gloss": "wazenza abangaziwe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nabo ⟨את⟩"
+    },
+    {
+      "surface": "קשות",
+      "gloss": "ngokunzima"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "Nivela phi"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "ni- (nivela)"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Bathi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "Ezweni"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "lakwa-Khanani"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ukuthenga"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ukudla"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:42.157837593Z",
+  "model": "glm-5.3"
+}

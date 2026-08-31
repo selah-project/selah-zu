@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 84,
+  "translation": "Mithi yakho ethandekayo izindlu zakho zokuhlala, uYahwe wamabutho!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Mithi yakho"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "ethandekayo"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "izindlu zakho zokuhlala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamabutho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:44.161646880Z",
+  "model": "glm-5.3"
+}

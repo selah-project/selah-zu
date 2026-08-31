@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 11:3",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "ne⟨את⟩ iziphawu zakhe ne⟨את⟩ imisebenzi yakhe ayenzileyo phakathi kweMitsrayim, kuParo inkosi yaseMitsrayim, nakuso konke umhlaba wakhe —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "iziphawu zakhe"
+    },
+    {
+      "surface": "אתתיו",
+      "gloss": "iziphawu zakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "imisebenzi yakhe"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "imisebenzi yakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayenzileyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "enze"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "kweMitsrayim"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kuParo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yaseMitsrayim"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "nakuso konke"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "umhlaba wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:35:42.648766831Z",
+  "model": "glm-5.3"
+}

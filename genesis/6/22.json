@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "UNoachi wenza njengako koni okuwayeku-⟨את⟩-ye ⟨את⟩ umyalo u-Elohim ⟨את⟩ wawumnikela; kanjalo wenze.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "נח",
+      "gloss": "UNoachi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "njengako koni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayeku--ye umyalo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ wawumnikela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenze"
+    }
+  ],
+  "timestamp": "2026-08-31T11:39:04.270015714Z",
+  "model": "glm-5.3"
+}

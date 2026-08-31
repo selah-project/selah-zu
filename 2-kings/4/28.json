@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 4:28",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Wathi yena: Ngicela indodana ⟨את⟩ eNkosini yami? Angazange ngathi: Ungangihlekisi ⟨את⟩?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "השאלתי",
+      "gloss": "ngicela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ eNkosini yami"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "eNkosini yami"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "angazange"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ngathi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תשלה",
+      "gloss": "hlekisi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mina"
+    }
+  ],
+  "timestamp": "2026-08-31T04:04:32.167774551Z",
+  "model": "glm-5.3"
+}

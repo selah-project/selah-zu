@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 29:31",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "uYahwe wabona ukuthi uLeya wayengathandiwe, wayevula ⟨את⟩ isibeletho sakhe; uRasheli wayengazi ukubeletha.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "שנואה",
+      "gloss": "wayengathandiwe"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "uLeya"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "wayevula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibeletho sakhe"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "isibeletho sakhe"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "uRasheli"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "wayengazi ukubeletha"
+    }
+  ],
+  "timestamp": "2026-08-31T05:54:23.798163859Z",
+  "model": "glm-5.3"
+}

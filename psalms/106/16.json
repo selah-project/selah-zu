@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Babona umona kuMoshe enkampini, no-Aroni, oyingcwele kaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "babona umona"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kuMoshe"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "enkampini"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "no-Aroni"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "oyingcwele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:38.431648906Z",
+  "model": "glm-5.3"
+}

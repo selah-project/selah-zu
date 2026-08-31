@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "UYowabhi wathuma, wazisa udaba kuDavide, ⟨את⟩ konke okwenzekileyo emgwazweni.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathuma"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "UYowabhi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "wazisa udaba"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "okwenzekileyo (amagama)"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "emgwazweni"
+    }
+  ],
+  "timestamp": "2026-08-31T03:37:21.383076135Z",
+  "model": "glm-5.3"
+}

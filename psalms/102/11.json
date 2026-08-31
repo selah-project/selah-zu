@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 102:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 102,
+  "translation": "Ngenxa yokweseka kwakho nenhlansi yakho, ngoba ungiphakamisile, ungiphonsile phansi.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "Ngenxa"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "yokweseka kwakho"
+    },
+    {
+      "surface": "וקצפך",
+      "gloss": "nenhlansi yakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "נשאתני",
+      "gloss": "ungiphakamisile"
+    },
+    {
+      "surface": "ותשליכני",
+      "gloss": "ungiphonsile phansi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:25.833473996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Ngokuba konke lokhu kuyisidina kuYahwe uElohim wakho — wonke umenzi walokhu, wonke umenzi wobungalungile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "isidina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "umenzi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "walokhu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "umenzi"
+    },
+    {
+      "surface": "עול",
+      "gloss": "wobungalungile"
+    }
+  ],
+  "timestamp": "2026-08-31T02:41:35.108016213Z",
+  "model": "glm-5.3"
+}

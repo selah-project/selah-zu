@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 11:8",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi kanjalo wenza ⟨את⟩ koni lokuzala kwakhe ⟨את⟩ abesifazane bangaphandle, abathwesa inhlabi behlabela kuwo onkulunkulu babo.",
+  "tokens": [
+    {
+      "surface": "וכן",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "koni"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "abesifazane bakhe"
+    },
+    {
+      "surface": "הנכריות",
+      "gloss": "bangaphandle"
+    },
+    {
+      "surface": "מקטירות",
+      "gloss": "abathwesa inhlabi"
+    },
+    {
+      "surface": "ומזבחות",
+      "gloss": "behlabela"
+    },
+    {
+      "surface": "לאלהיהן",
+      "gloss": "kuwo onkulunkulu babo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:05:52.280033752Z",
+  "model": "glm-5.3"
+}

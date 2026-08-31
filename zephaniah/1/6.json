@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 1:6",
+  "book": "zephaniah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Naye ⟨את⟩ ababuyela emuva ngemuva koYahwe, nalabo abangafunanga ⟨את⟩ uYahwe futhi abambuzanga ⟨isuye⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ababuyela emuva"
+    },
+    {
+      "surface": "הנסוגים",
+      "gloss": "ababuyela emuva"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ngemuva kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "nalabo abanga-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "funanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi anga-"
+    },
+    {
+      "surface": "דרשהו",
+      "gloss": "mbuzanga"
+    }
+  ],
+  "timestamp": "2026-08-31T05:39:50.896286558Z",
+  "model": "glm-5.3"
+}

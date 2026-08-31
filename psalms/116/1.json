@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 116,
+  "translation": "Ngiyathanda ngoba uYahwe uyezwa izwi lami, imikhuleko yami.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Ngiyathanda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "uyeza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi lami"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "izwi lami"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "imikhuleko yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:39.519514622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "UMoshe wathatha ⟨את⟩ amawagoni futhi ⟨את⟩ izinkomo, wanikeza ⟨את⟩ kubalevi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amawagoni"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "amawagoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "izinkomo"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "izinkomo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wanikeza"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "abalevi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuya"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "kubalevi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:10:41.525914592Z",
+  "model": "glm-5.3"
+}

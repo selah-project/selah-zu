@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 26:35",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Lezi zizinyane zakwa-Efrayimi ngokwezinduna zazo: kuShuthela induna yaseShutheli; kuBekheri induna yaseBekhiri; kuTakhani induna yaseTakhani.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Lezi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zizinyane"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "zakwa-Efrayimi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngokwezinduna zazo"
+    },
+    {
+      "surface": "לשותלח",
+      "gloss": "kuShuthela"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "induna"
+    },
+    {
+      "surface": "השתלחי",
+      "gloss": "yaseShutheli"
+    },
+    {
+      "surface": "לבכר",
+      "gloss": "kuBekheri"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "induna"
+    },
+    {
+      "surface": "הבכרי",
+      "gloss": "yaseBekhiri"
+    },
+    {
+      "surface": "לתחן",
+      "gloss": "kuTakhani"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "induna"
+    },
+    {
+      "surface": "התחני",
+      "gloss": "yaseTakhani"
+    }
+  ],
+  "timestamp": "2026-08-31T02:23:35.624258701Z",
+  "model": "glm-5.3"
+}

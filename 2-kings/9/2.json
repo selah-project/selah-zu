@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 9:2",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ufike lapho, ubone khona uYehu indodana kaYehoshafati indodana kaNimshi; ungene, umvuse phakathi kabalisa bakhe, umngenise ⟨את⟩ yena engadini engaphakathi engadini.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "Ufike"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ubone"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "uYehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Yehoshafati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "נמשי",
+      "gloss": "Nimshi"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ungene"
+    },
+    {
+      "surface": "והקמתו",
+      "gloss": "umvuse"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "phakathi ka-"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abalisa bakhe"
+    },
+    {
+      "surface": "והביאת",
+      "gloss": "umngenise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (uYehu)"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "engadini"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "engadini engaphakathi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:06:33.218402921Z",
+  "model": "glm-5.3"
+}

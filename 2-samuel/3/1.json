@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 3:1",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi impi yaba yinde phakathi kwezindlu zikaShawuli nezindlu zikaDavide, uDavide ehamba eqinisa, indlu kaShawuli ihamba ibuthakaka.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "impi"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "inde"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kuka-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kaShawuli"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nepakathi kuka-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "וחזק",
+      "gloss": "eqinisa"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kaShawuli"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ihamba"
+    },
+    {
+      "surface": "ודלים",
+      "gloss": "ibuthakaka"
+    }
+  ],
+  "timestamp": "2026-08-31T03:32:17.208436013Z",
+  "model": "glm-5.3"
+}

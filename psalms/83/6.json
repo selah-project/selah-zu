@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 83:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 83,
+  "translation": "Ngokuba bacubungula ngengqondo ndawonye; ngakho benza isivumelwano ngokumelene nawe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "נועצו",
+      "gloss": "bacubungula"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ngengqondo"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ngokumelene nawe"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "isivumelwano"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "benza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:30.952175303Z",
+  "model": "glm-5.3"
+}

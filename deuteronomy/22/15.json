@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 22:15",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "bese uyise wentombi nonina ethatha ⟨את⟩ amaphawu obuntombi bentombi, awalethe kubadala bedolobha emasangweni:",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "bese ethatha"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wentombi"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "nonina"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "bese ekhishwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaphawu obuntombi bentombi"
+    },
+    {
+      "surface": "בתולי",
+      "gloss": "amaphawu obuntombi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "bentombi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "badala"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bedolobha"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "emasangweni"
+    }
+  ],
+  "timestamp": "2026-08-31T02:41:30.362255175Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 109:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Ekwahlulelwa kwakhe, aphume engcolile, futhi umthandazo wakhe ube yisona.",
+  "tokens": [
+    {
+      "surface": "בהשפטו",
+      "gloss": "Ekwahlulelwa kwakhe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "aphume"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "engcolile"
+    },
+    {
+      "surface": "ותפלתו",
+      "gloss": "futhi umthandazo wakhe"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ube"
+    },
+    {
+      "surface": "לחטאה",
+      "gloss": "yisona"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:34.971783145Z",
+  "model": "glm-5.3"
+}

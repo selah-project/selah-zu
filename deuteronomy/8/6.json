@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 8:6",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Futhi uzogcina ⟨את⟩ imiyalo kaYahwe uElohim wakho, ukuze uhambe ezindleleni zakhe, futhi umesabe ⟨את⟩ yena.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "uzogcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imiyalo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "imiyalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuze uhambe"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "ezindleleni zakhe"
+    },
+    {
+      "surface": "וליראה",
+      "gloss": "futhi umesabe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T10:17:02.521341318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 46:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 46,
+  "translation": "uElohim usemaphakathi kwawo, angeke ashintsheke; uElohim uzoyamsiza ekuseni kuseni.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "usemaphakathi kwawo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ashintsheke"
+    },
+    {
+      "surface": "יעזרה",
+      "gloss": "uzoyamsiza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "ekuseni kuseni"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ekuseni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:41.279203555Z",
+  "model": "glm-5.3"
+}

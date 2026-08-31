@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 8:4",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Wayesewabiza ewaphendukela wathi: Bhekani, nina niyisigcinci edolobheni, ngakemuva komuzi; ningenqabe kakhude kakhulu nedolobha, kepha nibe nonke nilungile.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ewaphendukela ⟨את⟩",
+      "marks": "wathi kubo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "bhekani"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "niyisigcinci"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ngakemuva"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "komuzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ningenqabe"
+    },
+    {
+      "surface": "תרחיקו",
+      "gloss": "kakhude"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kusuka"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "nibe"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "nonke"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "lungile"
+    }
+  ],
+  "timestamp": "2026-08-31T02:53:29.990767620Z",
+  "model": "glm-5.3"
+}

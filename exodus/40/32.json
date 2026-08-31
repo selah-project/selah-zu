@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 40:32",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Ekungenyweni kwabo etende yokuhlangana nasekusondeleni kwabo e-altare babegesa, njengokuba uYahwe wayewumyalele ⟨את⟩ uMoshe.",
+  "tokens": [
+    {
+      "surface": "בבאם",
+      "gloss": "Ekungenyweni kwabo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "tende"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuhlangana"
+    },
+    {
+      "surface": "ובקרבתם",
+      "gloss": "nakekusondeleni kwabo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altare"
+    },
+    {
+      "surface": "ירחצו",
+      "gloss": "babegesa"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokuba"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayewumyalele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:57:25.850803399Z",
+  "model": "glm-5.3"
+}

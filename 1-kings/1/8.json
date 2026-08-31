@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 1:8",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kepha uTsadowku umpristi, noBhenayahu indodana kaYehowadha, uNathani umprofethi, uShimi noReyi, namaqhawe awayengoDawudi, abengebangena no-Adoniyahu.",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "uTsadowku"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "ובניהו",
+      "gloss": "noBhenayahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "kaYehowadha"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "uNathani"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "umprofethi"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "uShimi"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "noReyi"
+    },
+    {
+      "surface": "והגבורים",
+      "gloss": "namaqhawe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awayengo-"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "uDawudi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abenge-"
+    },
+    {
+      "surface": "היו",
+      "gloss": "-bangena"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "אדניהו",
+      "gloss": "u-Adoniyahu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:45:51.000406873Z",
+  "model": "glm-5.3"
+}

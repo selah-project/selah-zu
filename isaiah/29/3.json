@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 29:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Ngiyozela ngijikeleza njengesiyingi ngakho, ngimisele ngabasemibukweni, ngakhe ngawe izibaya zokusingatha.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "Ngiyozela ngijikeleza"
+    },
+    {
+      "surface": "כדור",
+      "gloss": "njengesiyingi"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "וצרתי",
+      "gloss": "ngimisele"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "ngabasemibukweni"
+    },
+    {
+      "surface": "והקימתי",
+      "gloss": "ngakhe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "מצרת",
+      "gloss": "izibaya zokusingatha"
+    }
+  ],
+  "timestamp": "2026-08-31T06:09:09.438279433Z",
+  "model": "glm-5.3"
+}

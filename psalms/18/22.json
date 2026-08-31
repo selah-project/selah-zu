@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 18:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Ngokuba ngigcine izindlela zikaYahwe, futhi angikalahlekile ngokubi kuvela ku-Elohim wami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "ngigcine"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "izindlela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ukaYahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi angika-"
+    },
+    {
+      "surface": "רשעתי",
+      "gloss": "lahlekile ngokubi"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "kuvela ku-Elohim wami"
+    }
+  ],
+  "timestamp": "2026-08-31T11:45:12.384723915Z",
+  "model": "glm-5.3"
+}

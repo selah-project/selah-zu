@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 57,
+  "translation": "Uyongena ⟨ku⟩thula; bazophumula emabhedeni abo, ohamba ngokqotho.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "uyongena"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ukuthula"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "bazophumula"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "mabhedeni abo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ohamba"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "ngokqotho"
+    }
+  ],
+  "timestamp": "2026-08-31T04:35:13.541876576Z",
+  "model": "glm-5.3"
+}

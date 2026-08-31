@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Nganinika umyalo ngesikhathi leso ⟨izinto⟩ zonke okwakufanele nizwenze.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "nganinika umyalo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ngesikhathi"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinto zonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "izinto"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "kwakufanele nizwenze"
+    }
+  ],
+  "timestamp": "2026-08-31T02:30:42.976791358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 52:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 52,
+  "translation": "Futhi u-El uzokudiliza ⟨ungapheli-phakade⟩; uzokuthatha, futhi akususe esiguqweni sakho, futhi impande yakho ayisuse emhlabeni wokuphila. Selah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "יתצך",
+      "gloss": "uzokudiliza"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ungapheli-phakade"
+    },
+    {
+      "surface": "יחתך",
+      "gloss": "uzokuthatha"
+    },
+    {
+      "surface": "ויסחך",
+      "gloss": "futhi akususe"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "esiguqweni"
+    },
+    {
+      "surface": "ושרשך",
+      "gloss": "futhi impande yakho"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wokuphila"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:18.485455341Z",
+  "model": "glm-5.3"
+}

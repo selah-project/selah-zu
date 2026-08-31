@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Ngokuba izwi likaYahwe liqondile; konke okwenzayo ⟨kunziwa⟩ ngokwethembeka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "liqondile"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "okwenzayo"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ngokwethembeka"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:07.463068748Z",
+  "model": "glm-5.3"
+}

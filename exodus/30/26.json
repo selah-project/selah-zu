@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Futhi uzogcoba ngakho ⟨את⟩ ithenti yokuhlangana, no⟨את⟩ isikhongozolo sobufakazi;",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "futhi uzogcoba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithenti yokuhlangana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ithenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuhlangana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "isikhongozolo sobufakazi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isikhongozolo"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "sobufakazi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:41:32.853203868Z",
+  "model": "glm-5.3"
+}

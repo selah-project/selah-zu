@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Inkambu yendodakazi kwezinsizwa zakho noma indodakazi yendodakazi yakho — inkambu yazo kayivumbuki; ngokuba inkambu yakho yileyo.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "inkambu"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "kwezinsizwa zakho"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "yendodakazi yakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kayivumbuki"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "kayivumbuki"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "inkambu yazo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "inkambu yakho"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "yileyo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:58:42.899516401Z",
+  "model": "glm-5.3"
+}

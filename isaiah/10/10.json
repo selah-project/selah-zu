@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 10:10",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Njengoba isandla sami singatholile izwe lamahhosi-izithombe, nezithombe zazo eziqavile ⟨ezivela⟩ eYerushalayimi naseShomeroni —",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "singatholile"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "isandla sami"
+    },
+    {
+      "surface": "לממלכת",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "האליל",
+      "gloss": "lamahhosi-izithombe"
+    },
+    {
+      "surface": "ופסיליהם",
+      "gloss": "nezithombe zazo"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "ומשמרון",
+      "gloss": "naseShomeroni"
+    }
+  ],
+  "timestamp": "2026-08-31T04:19:12.886499366Z",
+  "model": "glm-5.3"
+}

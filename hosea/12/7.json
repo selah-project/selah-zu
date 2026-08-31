@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 12:7",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Wena uzubuyela ku-Elohim wakho; gcina ikhesedi nocalulo, lilindele u-Elohim wakho njalo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "באלהיך",
+      "gloss": "ku-Elohim wakho"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "uzubuyela"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "nocalulo"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "gcina"
+    },
+    {
+      "surface": "וקוה",
+      "gloss": "lilindele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Elohim wakho"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:04.334716265Z",
+  "model": "glm-5.3"
+}

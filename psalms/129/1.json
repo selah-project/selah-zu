@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 129:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 129,
+  "translation": "Iculusama lokunyukela. Baningi abazicindile kusukela ebuswaneni bami — iZiseleli ithi ngesithombe:",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "iculusama"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lokunyukela"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Baningi"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "abazicindile"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "kusukela ebuswaneni bami"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ithi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngesithombe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iZiseleli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:04.465963176Z",
+  "model": "glm-5.3"
+}

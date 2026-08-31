@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 24:7",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Ngokuba amadodana kaAthaliya, lowo ongendela, aphule ⟨את⟩ indlu ka-uElohim; futhi zonke izinto ezingcwele zendlu kaYahwe azenzela amaBaali.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "kaAthaliya"
+    },
+    {
+      "surface": "המרשעת",
+      "gloss": "lowo ongendela"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "amadodana akhe"
+    },
+    {
+      "surface": "פרצו",
+      "gloss": "aphule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu ka-uElohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ka-uElohim"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "izinto ezingcwele"
+    },
+    {
+      "surface": "בית",
+      "gloss": "zendlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "azenzela"
+    },
+    {
+      "surface": "לבעלים",
+      "gloss": "amaBaali"
+    }
+  ],
+  "timestamp": "2026-08-31T08:41:16.173188748Z",
+  "model": "glm-5.3"
+}

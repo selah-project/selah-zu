@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 10:5",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Bese besondela, babathwala ngezibani zabo baya ⟨ngaphandle⟩ kwesigodi, njengalokho uMoshe akushilo.",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "besondela"
+    },
+    {
+      "surface": "וישאם",
+      "gloss": "babathwala"
+    },
+    {
+      "surface": "בכתנתם",
+      "gloss": "ngezibani zabo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "baya"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwesigodi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengalokho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akushilo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:13:48.988987775Z",
+  "model": "glm-5.3"
+}

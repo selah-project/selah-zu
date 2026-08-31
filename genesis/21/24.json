@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "U-Avraham wathi: Ngingu-⟨mina⟩, ngizofunga.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ngingu-mina"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "ngizofunga"
+    }
+  ],
+  "timestamp": "2026-08-31T01:11:12.109354247Z",
+  "model": "glm-5.3"
+}

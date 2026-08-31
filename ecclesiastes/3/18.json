@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 3:18",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngithe mimi enhliziyweni yami ngenxa yendaba yabantwana bomuntu: uElohim uzobahlola, futhi ukubona ukuthi bona yizinkomo ezifana nje ngokwazo.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ngithe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mimi"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "enhliziyweni yami"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa ye-"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "indaba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "bomuntu"
+    },
+    {
+      "surface": "לברם",
+      "gloss": "uzobahlola"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "futhi ukubona"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "ukuthi bona"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "yizinkomo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zona"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ngokwazo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:45:20.355548703Z",
+  "model": "glm-5.3"
+}

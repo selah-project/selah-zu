@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Amadodana kaKhama: uKushi, noMitsrayimi, uPuti, noKenaani.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "amadodana ka-"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ukaKhama"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "uKushi"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "noMitsrayimi"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "uPuti"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "noKenaani"
+    }
+  ],
+  "timestamp": "2026-08-31T08:18:52.653064552Z",
+  "model": "glm-5.3"
+}

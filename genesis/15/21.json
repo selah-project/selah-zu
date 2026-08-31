@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 15:21",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "nende-Abaqemori, nende-Akhenani, nende-Abagegashi, nende-Abayebusi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Abaqemori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Abaqemori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Akhenani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Akhenani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Abagegashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Abagegashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Abayebusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Abayebusi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:06:17.454508244Z",
+  "model": "glm-5.3"
+}

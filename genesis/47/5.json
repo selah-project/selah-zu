@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 47,
+  "translation": "U-Paro wasemukela uYosefu wathi: uyise nomfowabo befike kini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "u-Paro"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "nomfowabo"
+    },
+    {
+      "surface": "באו",
+      "gloss": "befike"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-08-31T01:24:35.848229307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 17:6",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Inhliziyo yakhe yakhuphuka ezindleleni zikaYahwe, futhi wangasusa ⟨את⟩ izindawo eziphakeme nezithiye ezinkulu emhlabeni weYehuda.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "yakhuphuka"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inhliziyo yakhe"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ezindleleni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "zikaYahwe"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "wangasusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izindawo eziphakeme"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "izindawo eziphakeme"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izithiye ezinkulu"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "izithiye ezinkulu"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "emhlabeni weYehuda"
+    }
+  ],
+  "timestamp": "2026-08-31T08:38:42.896383629Z",
+  "model": "glm-5.3"
+}

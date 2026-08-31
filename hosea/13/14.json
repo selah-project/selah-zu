@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 13:14",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Ngisuka esandleni seSheol ngizobakhhulula, ngisuka emfenyweni ngizobakhokha; izifo zakho zisephi, mkhokheli? Ukubhujiswa kwakho sisephi, Sheol? Ukuzisola kuyafihlwa emehlweni ami.",
+  "tokens": [
+    {
+      "surface": "מִיַּד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "שְׁאוֹל",
+      "gloss": "iSheol"
+    },
+    {
+      "surface": "אֶפְדֵּם",
+      "gloss": "ngizobakhhulula"
+    },
+    {
+      "surface": "מִמָּוֶת",
+      "gloss": "emfenyweni"
+    },
+    {
+      "surface": "אֶגְאָלֵם",
+      "gloss": "ngizobakhokha"
+    },
+    {
+      "surface": "אֱהִי",
+      "gloss": "zise-"
+    },
+    {
+      "surface": "דְּבָרֶיךָ",
+      "gloss": "izifo"
+    },
+    {
+      "surface": "מָוֶת",
+      "gloss": "mkhokheli"
+    },
+    {
+      "surface": "אֱהִי",
+      "gloss": "sise-"
+    },
+    {
+      "surface": "קָטָבְךָ",
+      "gloss": "ukubhujiswa"
+    },
+    {
+      "surface": "שְׁאוֹל",
+      "gloss": "Sheol"
+    },
+    {
+      "surface": "נֹחַם",
+      "gloss": "ukuzisola"
+    },
+    {
+      "surface": "יִסָּתֵר",
+      "gloss": "kuyafihlwa"
+    },
+    {
+      "surface": "מֵעֵינָי",
+      "gloss": "emehlweni ami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:14:51.624594313Z",
+  "model": "glm-5.3"
+}

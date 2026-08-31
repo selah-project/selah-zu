@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-kings 14:26",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Ngokuba uYahwe wabona ⟨את⟩ intokozo yakwa-Israel,ibimuncu kakhulu,futhi bekungekho muntu oqiwe loba oshiwe,loba ongasizayo ku-Israel.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intokozo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "intokozo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yakwa-Israel"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "ibimuncu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "futhi bekungekho"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "oqiwe"
+    },
+    {
+      "surface": "ואפס",
+      "gloss": "lobe"
+    },
+    {
+      "surface": "עזוב",
+      "gloss": "oshiwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "bekungekho"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "osizayo"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ku-Israel"
+    }
+  ],
+  "timestamp": "2026-08-31T06:07:04.967787101Z",
+  "model": "glm-5.3"
+}

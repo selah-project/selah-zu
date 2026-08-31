@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 14:12",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Yehuda yahlulwa phambi kuka-Israyeli, yabaleka yonke indoda etendeni yayo.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "yahlulwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Yehuda"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "yabaleka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yonke indoda"
+    },
+    {
+      "surface": "לאהלו",
+      "gloss": "etendeni yayo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:09:22.442908186Z",
+  "model": "glm-5.3"
+}

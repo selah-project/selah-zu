@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 32:22",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "uYahwe wasindisa ⟨את⟩ uHizkiyahu no⟨את⟩ abahlali beYerushalayimi esandleni sowuSankeribu, inkosi yaseAshuru, naso esandleni sonke; wabahola emacaleni onke.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "wasindisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uHizkiyahu"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "uHizkiyahu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "abahlali beYerushalayimi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "beYerushalayimi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "sowuSankeribu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "yaseAshuru"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "naso esandleni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "וינהלם",
+      "gloss": "wabahola"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "emacaleni onke"
+    }
+  ],
+  "timestamp": "2026-08-31T08:45:05.393864867Z",
+  "model": "glm-5.3"
+}

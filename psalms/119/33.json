@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngifundise, uYahwe, indlela yezimiso zako, futhi ngizigcina ⟨kuze kube ukuphela⟩.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "Ngifundise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "yezimiso zako"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "futhi ngizigcina"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨kuze kube ukuphela⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:40.189671245Z",
+  "model": "glm-5.3"
+}

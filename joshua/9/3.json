@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 9:3",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Kepha abahlali begodi abaseGibeyoni bezwa ⟨את⟩ lokhu okwenzile uYehoshuwa eYerikho naseyi",
+  "tokens": [
+    {
+      "surface": "וישבי",
+      "gloss": "Kepha abahlali"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "abaseGibeyoni"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bezwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokhu okwenzile uYehoshuwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "okwenzile"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "ליריחו",
+      "gloss": "eYerikho"
+    },
+    {
+      "surface": "ולעי",
+      "gloss": "naseyi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:53:07.021967656Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 4:6",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Kwathi lapho izitsha segcwele, yathi kwendodana yakhe, Sandisela kimi esinye isitsha; wathi kuyena, asikho esinye isitsha; amafutha ayema.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כמלאת",
+      "gloss": "lapho segcwele"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "izitsha"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ndodana yakhe"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "sandisela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "esinye"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "isitsha"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "אין",
+      "gloss": "asikho"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "esinye"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "isitsha"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ayema"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "amafutha"
+    }
+  ],
+  "timestamp": "2026-08-31T04:05:22.504350044Z",
+  "model": "glm-5.3"
+}

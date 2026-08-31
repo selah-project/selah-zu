@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 5:19",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "ngoba angeke akhumbule kakhulu ⟨את⟩ izinsuku zokuphila kwakhe, ngoba u-Elohim uphendula ngenjabulo yenhliziyo yakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "akhumbule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinsuku zokuphila kwakhe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "zokuphila kwakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "uphendula"
+    },
+    {
+      "surface": "בשמחת",
+      "gloss": "ngenjabulo"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "yenhliziyo yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:46:45.093552109Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "uYaakob wavuka, wafaka ⟨את⟩ abantwana bakhe ne⟨את⟩ abafazi bakhe kumakameli.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wavuka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakob"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "wafaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abantwana bakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "abafazi bakhe"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "abafazi bakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "makameli"
+    }
+  ],
+  "timestamp": "2026-08-31T01:16:53.477004524Z",
+  "model": "glm-5.3"
+}

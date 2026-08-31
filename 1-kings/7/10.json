@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi isisekelo (umthwalo wezinkolo eziningi) Kwakungamatshe abizayo ngesabelo, amatshe amakhulu, amatshe ayizesibili ezimpawu eziyishumi nesine lezi — hhayi, amatshe ezikhremu eziyishumi, namatshe ezikhremu eziyisishiyagalombili.",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "futhi isisekelo (umthwalo wezinkolo eziningi)"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "amatshe"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "abizayo ngesabelo"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "amatshe"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "amatshe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ezikhremu eziyishumi"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amakhremu"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "namatshe"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ezikhremu eziyisishiyagalombili"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "amakhremu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:49:30.364064631Z",
+  "model": "glm-5.3"
+}

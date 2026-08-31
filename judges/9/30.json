@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Wayezwa uZevhuli, induna yedolobha, ⟨את⟩ amazwi kaGaali indodana ka-Evedi, futhi ulaka lwakhe lwabasa.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wayezwa"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "uZevhuli"
+    },
+    {
+      "surface": "שר",
+      "gloss": "induna"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "yedolobha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazwi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "געל",
+      "gloss": "ukaGaali"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ka-Evedi"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "futhi lwabasa"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ulaka lwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:03:09.201954052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 6:2",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ukuthi umesabe uYahwe uElohim wakho, ugcine zonke izimiso zakhe nemiyalelo yakhe engiyalela yona — wena, nendodana yakho, nendodana yenndodana yakho — zonsuku izinsuku zokuphila kwakho, futhi ukuthi zidonswe izinsuku zakho.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "umesabe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe uElohim wakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ugcine"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke izimiso zakhe nemiyalelo yakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "חקתיו",
+      "gloss": "izimiso zakhe"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "nemiyalelo yakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "engikuyalela"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "nendodana yakho"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "nendodana"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "yenndodana yakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonsuku"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "zokuphila kwakho"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "futhi ukuthi"
+    },
+    {
+      "surface": "יארכן",
+      "gloss": "zidonswe"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "izinsuku zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T02:33:21.321487112Z",
+  "model": "glm-5.3"
+}

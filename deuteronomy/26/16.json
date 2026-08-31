@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 26:16",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Leli langa uYahwe uElohim wakho ukuchitha ukuba wenze lezi zinhlinza ⟨את⟩ nala machasiso ⟨את⟩; uzozigcina futhi uzizenza zonke ngiphelele ngenhliziyo yakho yonke nangemphefumulo wakho wonke.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "leli langa"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ukuchitha"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukuba wenze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lezi zinhlinza"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "lezi zinhlinza"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "la machasiso"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "la machasiso"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "uzozigcina"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "futhi uzizenza zonke"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ zo-"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngiphelele nge-"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "inhliziyo yakho yonke"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "futhi ngiphelele nge-"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "imphefumulo wakho wonke"
+    }
+  ],
+  "timestamp": "2026-08-31T02:43:16.490228864Z",
+  "model": "glm-5.3"
+}

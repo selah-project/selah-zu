@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Isithunywa sikaYahwe samthola esivandeni samanzi esilangeni, esivandeni sendlela eya eShuri.",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "samthola"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "isithunywa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "עין",
+      "gloss": "esivandeni"
+    },
+    {
+      "surface": "המים",
+      "gloss": "samanzi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "esilangeni"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "העין",
+      "gloss": "esivandeni"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endlela"
+    },
+    {
+      "surface": "שור",
+      "gloss": "eya eShuri"
+    }
+  ],
+  "timestamp": "2026-08-31T01:07:39.314037340Z",
+  "model": "glm-5.3"
+}

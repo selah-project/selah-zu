@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 17:27",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Othintela amazwi akhe uyazazi izinto; onomoya ozolile yindoda enolwazi lokunaka.",
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "othintela"
+    },
+    {
+      "surface": "אמריו",
+      "gloss": "amazwi akhe"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "uyazazi"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "izinto (lwazi)"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "ozolile (nomoya)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "nomoya (ozolile)"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yindoda"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "enolwazi lokunaka"
+    }
+  ],
+  "timestamp": "2026-08-31T06:55:18.144824892Z",
+  "model": "glm-5.3"
+}

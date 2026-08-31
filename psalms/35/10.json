@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 35:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Wonke amathambo ami azothi, uYahwe, ngubani ofana nawe, osindisa ompofu endiseni amandla kunaye, nompofu nodingekayo esigebeni sakhe?",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "amathambo ami"
+    },
+    {
+      "surface": "תאמרנה",
+      "gloss": "azothi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ofana nawe"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "osindisa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ompofu"
+    },
+    {
+      "surface": "מחזק",
+      "gloss": "endiseni amandla kunaye"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kunaye"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "nompofu"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "nodingekayo"
+    },
+    {
+      "surface": "מגזלו",
+      "gloss": "esigebeni sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:57.158796557Z",
+  "model": "glm-5.3"
+}

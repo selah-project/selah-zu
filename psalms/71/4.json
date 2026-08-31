@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 71:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 71,
+  "translation": "uElohim wami, ngikhulule ⟨esandleni⟩ somoni, ⟨esandleni⟩ sokuhlukumeza nasekona kokukhwabanisa.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wami"
+    },
+    {
+      "surface": "פלטני",
+      "gloss": "ngikhulule"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "somoni"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "sokuhlukumeza"
+    },
+    {
+      "surface": "וחומץ",
+      "gloss": "nasekona kokukhwabanisa"
+    }
+  ],
+  "timestamp": "2026-08-31T10:30:56.583788680Z",
+  "model": "glm-5.3"
+}

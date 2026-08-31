@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Zamazani kodwa ungazoni; nithi ezinhliziyweni zenu, emabhedeni enu, nithule. Selah.",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "Zamazani"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kodwa ungazoni"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "ungazoni"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "nithi"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "ezinhliziyweni zenu"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "emabhedeni enu"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "nithule"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:10.507625874Z",
+  "model": "glm-5.3"
+}

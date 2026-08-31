@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 66:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 66,
+  "translation": "⟨Othi⟩ ubeka umphefumelo wethu ekuphileni, futhi akanasipheleli ukuziteleleza ezinyaweni zethu.",
+  "tokens": [
+    {
+      "surface": "השם",
+      "gloss": "⟨Othi⟩ ubeka"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "umphefumelo wethu"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "ekuphileni"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi akanasipheleli"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wanika"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "ukuziteleleza"
+    },
+    {
+      "surface": "רגלנו",
+      "gloss": "ezinyaweni zethu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:13.982225825Z",
+  "model": "glm-5.3"
+}

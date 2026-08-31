@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 44:24",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Kwathi lapho sikhuphukela kumsebenzi wakho uyise, simtshela ⟨את⟩ amazwi enkosi yami.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "sakhuphukela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "msebenzi wakho"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "simtshela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨uye⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazwi enkosi yami"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "nkosi yami"
+    }
+  ],
+  "timestamp": "2026-08-31T01:22:12.089286851Z",
+  "model": "glm-5.3"
+}

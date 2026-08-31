@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 6:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ngidiniwe ngesizungu sami; ubusuku bonke ngigenisa ubhedle lami; ngezinyembezi zami uhovu lami liyancibilika.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Ngidiniwe"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "ngesizungu sami"
+    },
+    {
+      "surface": "אשחה",
+      "gloss": "ngigenisa"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ubusuku bonke"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ubusuku"
+    },
+    {
+      "surface": "מטתי",
+      "gloss": "ubhedle lami"
+    },
+    {
+      "surface": "בדמעתי",
+      "gloss": "ngezinyembezi zami"
+    },
+    {
+      "surface": "ערשי",
+      "gloss": "uhovu lami"
+    },
+    {
+      "surface": "אמסה",
+      "gloss": "liyancibilika"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:40.786544328Z",
+  "model": "glm-5.3"
+}

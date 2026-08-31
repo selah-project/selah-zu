@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 24:16",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Futhi bamngcolela edolobheni likaDavide kumakhosi, ngokuba wenza okuhle kuIsrayeli, kuElohim naseyendlwini yakhe.",
+  "tokens": [
+    {
+      "surface": "ויקברהו",
+      "gloss": "bamngcolela"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "likaDavide"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "makosi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kuIsrayeli"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Elohim"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "naseyendlwini yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:41:19.472441549Z",
+  "model": "glm-5.3"
+}

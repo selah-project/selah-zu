@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "UNoach wazala abantwana abathathu: ⟨את⟩ uShem, ⟨את⟩ uCham, no-⟨את⟩ uYefeth.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "נח",
+      "gloss": "uNoach"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "abathathu"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShem"
+    },
+    {
+      "surface": "שם",
+      "gloss": "uShem"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uCham"
+    },
+    {
+      "surface": "חם",
+      "gloss": "uCham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "uYefeth"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "uYefeth"
+    }
+  ],
+  "timestamp": "2026-08-31T01:03:32.199201643Z",
+  "model": "glm-5.3"
+}

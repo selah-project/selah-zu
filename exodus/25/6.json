@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Ufutho olwakhela ukukhanya, izipesheli zomuthi wokugcoba, nangezimpaphe zezipesheli ezinuka mnandi",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "ufutho"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "olwakhela ukukhanya"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "izipesheli"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "zomuthi wokugcoba"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "wokugcoba"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "nangezimpaphe"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "zezipesheli ezinuka mnandi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:52:46.604421763Z",
+  "model": "glm-5.3"
+}

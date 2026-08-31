@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Nababantwana baka-uImmeri: uKhanani noZevadya;",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "nababantwana baka-"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uImmeri"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "uKhanani"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "noZevadya"
+    }
+  ],
+  "timestamp": "2026-08-31T08:10:49.819688433Z",
+  "model": "glm-5.3"
+}

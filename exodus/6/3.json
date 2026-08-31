@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 6:3",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ngingabonakalisa ku-Avraham, kuYitschaki, nakuyaKhoveri njengo-El Shadayi; kepha igama lami uYahwe alazange ngaziwe kubona.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "ngingabonakalisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschaki"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naku-"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Khoveri"
+    },
+    {
+      "surface": "באל",
+      "gloss": "njengo-El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadayi"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "igama lami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alazange"
+    },
+    {
+      "surface": "נודעתי",
+      "gloss": "ngaziwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubona"
+    }
+  ],
+  "timestamp": "2026-08-31T01:29:08.334410430Z",
+  "model": "glm-5.3"
+}

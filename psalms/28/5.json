@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 28:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Ngoba abaziqondisi ⟨angazi⟩ izenzo zikaYahwe nangomsebenzi wezandla zakhe; uzobawuchitha futhi angawakhuphi kabusha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angazi"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "abaziqondisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "izenzo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naku"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "wezandla zakhe"
+    },
+    {
+      "surface": "יהרסם",
+      "gloss": "uzobawuchitha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi angazi"
+    },
+    {
+      "surface": "יבנם",
+      "gloss": "uzawakhupha kabusha"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:13.531246843Z",
+  "model": "glm-5.3"
+}

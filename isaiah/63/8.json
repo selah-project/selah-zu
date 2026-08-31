@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 63:8",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 63,
+  "translation": "Wathi: Ngesiqiniseko ngabantu bami abantu bami, abantwana abangeke bamange; waba yisindisiwabo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "Ngesiqiniseko"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bami"
+    },
+    {
+      "surface": "המה",
+      "gloss": "abantu bami"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abangeke"
+    },
+    {
+      "surface": "ישקרו",
+      "gloss": "bamange"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yabo"
+    },
+    {
+      "surface": "למושיע",
+      "gloss": "isindisiwa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:37:11.531057431Z",
+  "model": "glm-5.3"
+}

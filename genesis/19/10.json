@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 19:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Baze abantu balula ⟨את⟩ isandla sabo, bamukisa ⟨את⟩ uLoti kubona, endlwini, futhi ⟨את⟩ umnyango bawavala.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "baze balula"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sabo"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "isandla sabo"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "bamukisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uLoti"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "uLoti"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "umnyango"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "umnyango"
+    },
+    {
+      "surface": "סגרו",
+      "gloss": "bawavala"
+    }
+  ],
+  "timestamp": "2026-08-31T01:07:48.163439174Z",
+  "model": "glm-5.3"
+}

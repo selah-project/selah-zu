@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Amehlo ami ahlezi kuYahwe njalo, ngokuba yena uzokhipha izinyawo zami esibayeni.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "amehlo ami"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "uzokhipha"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "esibayeni"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "izinyawo zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:59.162131939Z",
+  "model": "glm-5.3"
+}

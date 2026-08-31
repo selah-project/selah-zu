@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "micah 1:16",
+  "book": "micah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Qhaqha izinwele, uzixeke ngenxa yezintandane zakho ezihlakaniphile; wenze ukuzixeka kwakho kube khulu njengesibankawu, ngokuka oyedwa ngokuba bahanjiswa benziwe ngabashwabadeli bakini.",
+  "tokens": [
+    {
+      "surface": "קרחי",
+      "gloss": "qhaqha izinwele"
+    },
+    {
+      "surface": "וגזי",
+      "gloss": "uzixeke"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yezintandane (ezintandane)"
+    },
+    {
+      "surface": "תענוגיך",
+      "gloss": "zakho ezihlakaniphile"
+    },
+    {
+      "surface": "הרחבי",
+      "gloss": "wenze kube khulu"
+    },
+    {
+      "surface": "קרחתך",
+      "gloss": "ukuzixeka kwakho"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "njengesibankawu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "גלו",
+      "gloss": "bahanjiswa benziwe ngabashwabadeli"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "bakini"
+    }
+  ],
+  "timestamp": "2026-08-31T05:35:11.867458911Z",
+  "model": "glm-5.3"
+}

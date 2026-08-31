@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Kuhle njani amatenti akho, ⟨Ndina⟩ Yaakov, nezindlu zakho zokuhlala, ⟨Ndina⟩ Israyeli!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "njani"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "kuhle"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "amatenti akho"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakov"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "izindlu zakho zokuhlala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T02:22:15.806015268Z",
+  "model": "glm-5.3"
+}

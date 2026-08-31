@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "Ngokuba umabesingazilibazisile, kungaba ngithi manje sesibuyile lesi esibili.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "umabesinga-"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "zilibazisile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kungaba ngithi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "sesibuyile"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lesi"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "esibili"
+    }
+  ],
+  "timestamp": "2026-08-31T01:22:39.087183737Z",
+  "model": "glm-5.3"
+}

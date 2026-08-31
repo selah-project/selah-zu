@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 136:21",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 136,
+  "translation": "Futhi wanikeza izwe labo ⟨njeng⟩ifa ⟨lesindlela⟩: ngoba ikhesedi yakhe ihlezi kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "wanikeza"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "izwe labo"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "njengifa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:53.568125835Z",
+  "model": "glm-5.3"
+}

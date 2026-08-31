@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 41:20",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Izinkomo ezinesicefe nezendlebe embi zadla ⟨את⟩ izinkomo ezisikhombisa zokuqala ezinamafutha.",
+  "tokens": [
+    {
+      "surface": "ותאכלנה",
+      "gloss": "zadla"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "izinkomo"
+    },
+    {
+      "surface": "הרקות",
+      "gloss": "ezinesicefe"
+    },
+    {
+      "surface": "והרעות",
+      "gloss": "nezendlebe embi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinkomo ezisikhombisa zokuqala ezinamafutha"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ezisikhombisa"
+    },
+    {
+      "surface": "הפרות",
+      "gloss": "izinkomo"
+    },
+    {
+      "surface": "הראשנות",
+      "gloss": "zokuqala"
+    },
+    {
+      "surface": "הבריאת",
+      "gloss": "ezinamafutha"
+    }
+  ],
+  "timestamp": "2026-08-31T01:20:52.133913711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 17:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Isicelo sikaDavida. Yizwa, uYahwe, ⟨okulungileyo⟩; naka ngehlombe elikhalayo lethandabuzo; nakisisizele isicelo sami, ngaphandle kwezindebe zengozi.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Isicelo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "sikaDavida"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "Yizwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "⟨okulungileyo⟩"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "naka ngehlombe"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "elikhalayo lethandabuzo"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "nakisisizele"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "isicelo sami"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ngaphandle kwe-"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "zindebe"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "zungozi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:47.831767340Z",
+  "model": "glm-5.3"
+}

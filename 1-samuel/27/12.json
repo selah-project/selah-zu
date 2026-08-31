@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 27:12",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "U-Akish wamthembisa uDavide, esithi: Uzenzele ukubhekwa ngendlela eyimbi phakathi kwabantwana bakhe, kuIsrayeli; ngakho uzoba yinceku yami kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "ויאמן",
+      "gloss": "wamthembisa"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "u-Akish"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "הבאש",
+      "gloss": "ukubhekwa ngendlela eyimbi"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "uzenzele"
+    },
+    {
+      "surface": "בעמו",
+      "gloss": "phakathi kwabantwana bakhe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kuIsrayeli"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "uzoba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yami"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "yinceku"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T03:29:34.140995679Z",
+  "model": "glm-5.3"
+}

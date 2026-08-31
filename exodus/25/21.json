@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 25:21",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi uzobeka ⟨את⟩ ikhaporethi phezu kwei-aroni, ngaphezulu; futhi kwi-aroni uzofaka ⟨את⟩ ubufakazi engizukunika wona.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "uzobeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikhaporethi"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ikhaporethi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "i-aroni"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ngaphezulu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi e-"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "i-aroni"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "uzofaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubufakazi"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ubufakazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ngizukunika"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:51.820665324Z",
+  "model": "glm-5.3"
+}

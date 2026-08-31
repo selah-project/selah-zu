@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 93:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 93,
+  "translation": "uYahwe ubusile; wembatha ukhokho, wembatha uYahwe amandla, wazibambelela nazo; futhi umhlaba uziqinile, awunaki ukuququda.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ubusile"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ukhokho"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "wembatha"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "wembatha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "התאזר",
+      "gloss": "wazibambelela nazo"
+    },
+    {
+      "surface": "אף",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "uziqinile"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "בל",
+      "gloss": "awunaki"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "ukuququda"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:00.705454969Z",
+  "model": "glm-5.3"
+}

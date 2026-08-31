@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Ngokuba uthi kunezela: «Yiba phezu komhlaba»; futhi umvula wokholisa, nomvula wamandla akhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "kunezela"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yiba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "phezu komhlaba"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "futhi umvula"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "wokholisa"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "nomvula"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "wamandla"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "akhe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:26:42.807270743Z",
+  "model": "glm-5.3"
+}

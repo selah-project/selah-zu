@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Njengokuba uYahwe wayalela uMoshe ⟨את⟩, ngokwalokhu kwakhiwa amadodakazi kaTselofekhadi.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "njengokuba"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngokwalokhu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "kwakhiwa"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "amadodakazi"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "kaTselofekhadi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:29:37.300051686Z",
+  "model": "glm-5.3"
+}

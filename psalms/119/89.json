@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Kuze kube phakade,Yahwe, igama lakho limi zimele ezulwini.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Kuze kube phakade"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "limi zimele"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ezulwini"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:15.319067549Z",
+  "model": "glm-5.3"
+}

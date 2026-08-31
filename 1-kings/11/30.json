@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 11:30",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "U-Ahíya wabamba isambatho esisha esasinezaye, wasidabula sing izingcezu ezilishumi nambili.",
+  "tokens": [
+    {
+      "surface": "ויתפש",
+      "gloss": "wabamba"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "u-Ahíya"
+    },
+    {
+      "surface": "בשלמה",
+      "gloss": "isambatho"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "esisha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwase"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ezaye"
+    },
+    {
+      "surface": "ויקרעה",
+      "gloss": "wasidabula"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ishumi"
+    },
+    {
+      "surface": "קרעים",
+      "gloss": "izingcezu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:55:28.436362098Z",
+  "model": "glm-5.3"
+}

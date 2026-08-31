@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 16:10",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi isilungulezi elenyukela kulo ilothi lelo le-Azazeli lizoma liphila phambi koYahwe, ukwenza ukhokho ngalo, ukulithumela ⟨את⟩ kwi-Azazeli esigangeni.",
+  "tokens": [
+    {
+      "surface": "והשעיר",
+      "gloss": "futhi isilungulezi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le-"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "elenyukela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kulo"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ilothi"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "le-Azazeli"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "lizoma"
+    },
+    {
+      "surface": "חי",
+      "gloss": "liphila"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ukwenza ukhokho"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ngalo"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ukulithumela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "i-Azazeli"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "kwi-Azazeli"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "esigangeni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:59:41.888736323Z",
+  "model": "glm-5.3"
+}

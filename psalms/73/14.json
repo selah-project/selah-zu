@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Ngangingcilikiphile usuku lonke, isijeziso sami sifika ekuseni njalo.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "nganginga-"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "ngcilikiphile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "isijeziso sami"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "ekuseni njalo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:47.964683612Z",
+  "model": "glm-5.3"
+}

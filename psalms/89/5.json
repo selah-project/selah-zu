@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 89:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Kuze kube phakade ngiyaqinisa umzukulwana wakho, futhi ngiyakha isihlalo sakho sezizukulwane nabezizukulwane. Selah.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "ngiyaqinisa"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "umzukulwana wakho"
+    },
+    {
+      "surface": "ובניתי",
+      "gloss": "futhi ngiyakha"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "sezizukulwane"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "nabezizukulwane"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "isihlalo sakho"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:22.561539370Z",
+  "model": "glm-5.3"
+}

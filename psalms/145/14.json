@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 145,
+  "translation": "uYahwe usekela bonke abaliwe, futhi ephakamisa bonke abakhubazekile.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "usekela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "abaliwe"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "futhi ephakamisa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "abakhubazekile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:45:22.716243221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 63,
+  "translation": "Bazochithwa ngasenkabeni yenkemba; bazuba yisabelo sezimpaka.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "bazochithwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngase-"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "enkabeni"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "yenkemba"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "yisabelo"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "sezimpaka"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bazuba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:51.405771744Z",
+  "model": "glm-5.3"
+}

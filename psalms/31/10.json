@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 31:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Ngenisa umusa kimi, Yahwe, ngoba usizi lungi; iholo lami liphelelwe amandla ngokucasuka — amehlo ami, umphefumulo wami nomesisu wami.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "ngenisa umusa kimi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "צר",
+      "gloss": "usizi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lungi"
+    },
+    {
+      "surface": "עששה",
+      "gloss": "liphelelwe amandla"
+    },
+    {
+      "surface": "בכעס",
+      "gloss": "ngokucasuka"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo ami"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumulo wami"
+    },
+    {
+      "surface": "ובטני",
+      "gloss": "nomesisu wami"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:19.412612726Z",
+  "model": "glm-5.3"
+}

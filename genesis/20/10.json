@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Wathi futhi u-Avimaleki ku-Avrahami: Yini ubonile, ukuthi wenze ⟨את⟩ lo mesbe kanye?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi futhi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "u-Avimaleki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Avrahami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Yini"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ubonile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo mesbe kanye"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "umesbe"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "kanye"
+    }
+  ],
+  "timestamp": "2026-08-31T01:10:36.728047Z",
+  "model": "glm-5.3"
+}

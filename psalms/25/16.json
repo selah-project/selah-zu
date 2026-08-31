@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 25:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Ngena kimi futhi ungibambele ngomusa, ngokuba ngiyedwa futhi ngisizwa.",
+  "tokens": [
+    {
+      "surface": "פנה",
+      "gloss": "ngena"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "futhi ungibambele ngomusa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "יחיד",
+      "gloss": "ngiyedwa"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "futhi ngisizwa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:59.162285044Z",
+  "model": "glm-5.3"
+}

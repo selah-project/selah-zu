@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 15:3",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Futhi le yiyona ingcolo yakhe ekuphuzeni kwakhe: uma inyama yakhe igcwala ngaphuzo lwakhe ⟨את⟩, noma inyama yakhe ivaliwe ekuphuzeni kwakhe, ingcolo yakhe yilokho.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Futhi le"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yiyona"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "ingcolo yakhe"
+    },
+    {
+      "surface": "בזובו",
+      "gloss": "ekuphuzeni kwakhe"
+    },
+    {
+      "surface": "רר",
+      "gloss": "igcwala"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "inyama yakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuphuza kwakhe"
+    },
+    {
+      "surface": "זובו",
+      "gloss": "ukuphuza kwakhe"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "ivaliwe"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "inyama yakhe"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "ekuphuzeni kwakhe"
+    },
+    {
+      "surface": "טמאתו",
+      "gloss": "ingcolo yakhe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilokho"
+    }
+  ],
+  "timestamp": "2026-08-31T01:57:56.176626177Z",
+  "model": "glm-5.3"
+}

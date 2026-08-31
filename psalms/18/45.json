@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 18:45",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Ngesokuzwa kwezindlebe bazuzwa kimi; abantwana besizwe sangaphandle baphikala kimi.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "ngesokuzwa kwe"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "indlebe"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "bazuzwa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "besizwe sangaphandle"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "baphikala"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:51:53.240763637Z",
+  "model": "glm-5.3"
+}

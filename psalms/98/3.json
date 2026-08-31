@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 98:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 98,
+  "translation": "Wakhumbula ikhesedi lakhe neqiniso lakhe endlweni kaIsrayeli; bonke amaphethelo omhlaba abona ⟨את⟩ insindiso ka-Elohim wethu.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Wakhumbula"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi lakhe"
+    },
+    {
+      "surface": "ואמונתו",
+      "gloss": "neqiniso lakhe"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "endlweni ka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "abona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "amaphethelo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insindiso ka-Elohim wethu"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "insindiso"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ka-Elohim wethu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:33.298806927Z",
+  "model": "glm-5.3"
+}

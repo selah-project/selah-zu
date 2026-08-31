@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 21:18",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "iAnathoti nemigqa yayo, neAlmoni nemigqa yayo — amadolobha amane.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iAnathoti"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "iAnathoti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imigqa yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nemigqa yayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iAlmoni"
+    },
+    {
+      "surface": "עלמון",
+      "gloss": "neAlmoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imigqa yayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "nemigqa yayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "amadolobha"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "amane"
+    }
+  ],
+  "timestamp": "2026-08-31T02:57:58.721565421Z",
+  "model": "glm-5.3"
+}

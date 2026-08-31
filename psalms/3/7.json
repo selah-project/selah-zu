@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Angisabi izinkulungwane zabantu, abasizungezile besele phezu kwami.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Angisabi"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "מרבבות",
+      "gloss": "izinkulungwane"
+    },
+    {
+      "surface": "עם",
+      "gloss": "zabantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abasizungezile"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "besele"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:07.110349702Z",
+  "model": "glm-5.3"
+}

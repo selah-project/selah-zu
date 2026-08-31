@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 9:10",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Amadlozi ayishumi kaHaman, indodana kaHamedata, isitha sabayuda, babulawa; kodwa empulakeni abathululi isandla sabo.",
+  "tokens": [
+    {
+      "surface": "עשרת",
+      "gloss": "ayishumi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadlozi"
+    },
+    {
+      "surface": "המן",
+      "gloss": "kaHaman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "kaHamedata"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "isitha"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "sabayuda"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "babulawa"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "empulakeni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kodwa abanga-"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "abathululi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sabo"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "isandla sabo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:54:52.196975753Z",
+  "model": "glm-5.3"
+}

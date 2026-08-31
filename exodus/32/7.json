@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 32:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "uYahwe wakhuluma noMoshe: Hamba, wehla, ngoba abantu bakho obawakhuphayo ezweni laseMitsrayim benkonakale.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Hamba"
+    },
+    {
+      "surface": "רד",
+      "gloss": "wehla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "benkonakale"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oba-"
+    },
+    {
+      "surface": "העלית",
+      "gloss": "obawakhuphayo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:43:57.187185660Z",
+  "model": "glm-5.3"
+}

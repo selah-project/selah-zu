@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 1:8",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Bhekani, ngibekile phambi kwenu ⟨את⟩ umhlaba; ngenani, ninzuze ⟨את⟩ umhlaba uYahwe abhalela oobaba bakho — ku-Avraham, ku-Yitschaki, no-Yaakove — ukuba banike yena nasizukulwane sabo emva kwabo.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Bhekani"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ngibekile"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ngenani"
+    },
+    {
+      "surface": "ורשו",
+      "gloss": "ninzuze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "abhalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "oobaba bakho"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ku-Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "ku-Yitschaki"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "no-Yaakove"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ukuba banike"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ולזרעם",
+      "gloss": "nasizukulwane sabo"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "emva kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:30:53.911669499Z",
+  "model": "glm-5.3"
+}

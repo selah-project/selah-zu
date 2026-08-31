@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Uthandanweni wami waphendula wayesethi kimi: Sukuma, mganami, mkhulusemi, uhamba nami.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "waphendula"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "uthandanweni wami"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "wayesethi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "Sukuma"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "mganami"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "mkhulusemi"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "uhamba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "nami"
+    }
+  ],
+  "timestamp": "2026-08-31T07:34:41.952604561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 23:7",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Kwaziswa kuSawuli ukuthi uDavide uze eKeilah; uSawuli wathi: uElohim umkhombile ⟨את⟩ esandleni sami, ngokuthi uvaliwe ngokungena edolobheni elinamasango nebari.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kwaziswa"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kuSawuli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "uze"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "eKeilah"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uSawuli"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "umkhombile"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "esandleni sami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "נסגר",
+      "gloss": "uvaliwe"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ngokungena"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "elinamasango"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "nebari"
+    }
+  ],
+  "timestamp": "2026-08-31T10:19:57.973283099Z",
+  "model": "glm-5.3"
+}

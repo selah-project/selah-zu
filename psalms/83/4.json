@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 83:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 83,
+  "translation": "Ebantwini bakho bacisha umkhuba wezimfihlo, bacebisana ngabakufihlile.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "E"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "bantwini bakho"
+    },
+    {
+      "surface": "יערימו",
+      "gloss": "bacisha"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "umkhuba wezimfihlo"
+    },
+    {
+      "surface": "ויתיעצו",
+      "gloss": "bacebisana"
+    },
+    {
+      "surface": "על",
+      "gloss": "nga"
+    },
+    {
+      "surface": "צפוניך",
+      "gloss": "abakufihlile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:46.853864485Z",
+  "model": "glm-5.3"
+}

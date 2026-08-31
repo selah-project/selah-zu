@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 35:13",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "⟨את⟩ itafula no⟨את⟩ izinduku zalo, no⟨את⟩ yonke imitshingo yalo, no⟨את⟩ inkwa yobuso",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itafula"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "itafula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "izinduku zalo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "izinduku zalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "yonke imitshingo yalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "imitshingo yalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "inkwa yobuso"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "inkwa"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "yobuso"
+    }
+  ],
+  "timestamp": "2026-08-31T01:44:52.251142793Z",
+  "model": "glm-5.3"
+}

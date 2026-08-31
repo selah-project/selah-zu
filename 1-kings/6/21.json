@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 6:21",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "uShelomoh wambatha ⟨את⟩ indlu ngaphakathi ngegolide ecansiwe, waza wehanjisa izintambo zegolide phambi kweDheviri, waza wayimbatha ngegolide.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "wambatha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "מפנימה",
+      "gloss": "ngaphakathi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "ecansiwe"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "wehanjisa"
+    },
+    {
+      "surface": "ברתיקות",
+      "gloss": "izintambo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zegolide"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "kweDheviri"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "wayimbatha"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ngegolide"
+    }
+  ],
+  "timestamp": "2026-08-31T03:49:13.526781687Z",
+  "model": "glm-5.3"
+}

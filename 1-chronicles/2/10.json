@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "uRamu wazala ⟨את⟩ u-Aminadabhi; u-Aminadabhi wazala ⟨את⟩ uNakhshoni, inkosi yesizwe sabantwana bakwaYehuda.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "uRamu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Aminadabhi"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "u-Aminadabhi"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "u-Aminadabhi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uNakhshoni"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "uNakhshoni"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "inkosi yesizwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana bakwa-"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehuda"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:22.983304395Z",
+  "model": "glm-5.3"
+}

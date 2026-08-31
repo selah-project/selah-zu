@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 45:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Ngezingubo ezibhiyizwe ngezintsimbi yezintombi izithunywa ziyathunyelwa enkosini; izintombi ezilandela, izihlobo zawo zingeni kuwe.",
+  "tokens": [
+    {
+      "surface": "לרקמות",
+      "gloss": "ngezingubo ezibhiyizwe ngezintsimbi"
+    },
+    {
+      "surface": "תובל",
+      "gloss": "ziyathunyelwa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "enkosini"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "izintombi"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "ezilandela"
+    },
+    {
+      "surface": "רעותיה",
+      "gloss": "izihlobo zawo"
+    },
+    {
+      "surface": "מובאות",
+      "gloss": "zingeni"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:05.205772260Z",
+  "model": "glm-5.3"
+}

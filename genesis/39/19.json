@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 39:19",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Kwathi lapho iNkosi yakhe ezwa ⟨את⟩ amazwi omkakhe ao awakhuluma kuyena ethi: “Ngalokhu enze kumi indodana yakho yesigodzi,” inhliziyo yakhe yashisa ulaka.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "lapho ezwa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "iNkosi yakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazwi omkakhe"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "omkakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ao"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "awakhuluma"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "ngalokhu"
+    },
+    {
+      "surface": "האלה",
+      "gloss": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "enze"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "indodana yakho yesigodzi"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "yashisa"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ulaka"
+    }
+  ],
+  "timestamp": "2026-08-31T01:20:34.125496690Z",
+  "model": "glm-5.3"
+}

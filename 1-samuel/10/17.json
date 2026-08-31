@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "UShemueli wabizela ⟨את⟩ abantu kuYahwe ⟨e⟩-iMitsipa.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "wabizela"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemueli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "iMitsipa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:02:52.821692568Z",
+  "model": "glm-5.3"
+}

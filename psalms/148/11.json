@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 148,
+  "translation": "Amakhosi omhlaba, nazo zonke izizwe; abaphathi, nabo bonke abahluleli bomhlaba;",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Amakhosi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nazo zonke"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "abaphathi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nabo bonke"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "abahluleli"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bomhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:45:21.575546552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 18:13",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "UYahwe waseseka ku-Avraham: kungani nje uSara ehleka, ethi: ngempela-ke ngizabeletha, ngingumdala?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "waseseka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "nje"
+    },
+    {
+      "surface": "צחקה",
+      "gloss": "ehleka"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "uSara"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ke"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "אלד",
+      "gloss": "ngizabeletha"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ngingumdala"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "umdala"
+    }
+  ],
+  "timestamp": "2026-08-31T08:48:38.685225348Z",
+  "model": "glm-5.3"
+}

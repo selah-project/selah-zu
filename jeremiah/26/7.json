@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 26:7",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "abaphristi nabaphrofethi bonke abantu balalela uYirmeyahu eshoyo ⟨את⟩ lelo mezwi endlwini kaYahwe",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "balalela"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abaphristi"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "nabaphrofethi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYirmeyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "uYirmeyahu"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "eshoyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lelo mezwi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mezwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:49:11.889591236Z",
+  "model": "glm-5.3"
+}

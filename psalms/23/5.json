@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 23:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Uyabekela phambi kwami itafula phambili nezitha zami; ungcobile ngamafutha intoni yami; inkomishi yami igcwele kakhulu.",
+  "tokens": [
+    {
+      "surface": "תערך",
+      "gloss": "uyabekela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwami"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "itafula"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "phambili ne-"
+    },
+    {
+      "surface": "צררי",
+      "gloss": "izitha zami"
+    },
+    {
+      "surface": "דשנת",
+      "gloss": "ungcobile"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ngamafutha"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "intoni yami"
+    },
+    {
+      "surface": "כוסי",
+      "gloss": "inkomishi yami"
+    },
+    {
+      "surface": "רויה",
+      "gloss": "igcwele kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:57.850877492Z",
+  "model": "glm-5.3"
+}

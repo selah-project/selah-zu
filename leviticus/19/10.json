@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 19:10",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Noma isivini sakho ngeke usike ngokugcwele, futhi amagileadisi ashiyiwe esivini sakho ngeke awaqoqe; okwabampofu nangezihambi uyobashiya ⟨את⟩ wona; nginguYahwe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "וְכַרְמְךָ",
+      "gloss": "noma isivini sakho"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "תְעוֹלֵל",
+      "gloss": "usike ngokugcwele"
+    },
+    {
+      "surface": "וּפֶרֶט",
+      "gloss": "futhi amagileadisi ashiyiwe"
+    },
+    {
+      "surface": "כַּרְמְךָ",
+      "gloss": "esivini sakho"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "תְלַקֵּט",
+      "gloss": "awaqoqe"
+    },
+    {
+      "surface": "לֶעָנִי",
+      "gloss": "okwabampofu"
+    },
+    {
+      "surface": "וְלַגֵּר",
+      "gloss": "nangezihambi"
+    },
+    {
+      "surface": "תַּעֲזֹב",
+      "gloss": "uyobashiya"
+    },
+    {
+      "surface": "אֹתָם",
+      "gloss": "⟨את⟩",
+      "marks": "wona"
+    },
+    {
+      "surface": "אֲנִי",
+      "gloss": "ngingu"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אֱלֹהֵיכֶם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:53:06.262903485Z",
+  "model": "glm-5.3"
+}

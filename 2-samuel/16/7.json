@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 16:7",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi ngokunjalo washo uShimyi ekhuluma amaqhatha: Phuma, phuma, wena ndoda yegazi, ndoda yokungalungile!",
+  "tokens": [
+    {
+      "surface": "וכה",
+      "gloss": "futhi ngokunjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "washo"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "uShimyi"
+    },
+    {
+      "surface": "בקללו",
+      "gloss": "ekhuluma amaqhatha"
+    },
+    {
+      "surface": "צא",
+      "gloss": "Phuma"
+    },
+    {
+      "surface": "צא",
+      "gloss": "phuma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ndoda"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "yegazi"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "futhi ndoda"
+    },
+    {
+      "surface": "הבליעל",
+      "gloss": "yokungalungile"
+    }
+  ],
+  "timestamp": "2026-08-31T03:40:01.821763508Z",
+  "model": "glm-5.3"
+}

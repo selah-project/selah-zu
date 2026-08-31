@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 33:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Culani ngezenhlizijo, nina balungile, kuYahwe; indumiso iyafanelela abaqotho.",
+  "tokens": [
+    {
+      "surface": "רננו",
+      "gloss": "Culani ngezenhlizijo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "nina balungile"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "abaqotho"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "iyafanelela"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "indumiso"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:07.462482872Z",
+  "model": "glm-5.3"
+}

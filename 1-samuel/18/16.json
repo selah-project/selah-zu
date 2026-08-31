@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 18:16",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Futhi iYisrayeli yonke neYehudha babethanda ⟨את⟩ uDavide, ngokuba yena wayephuma futhi engena phambi kwabo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisrayeli"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "neYehudha"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "babethanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDavide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "wayephuma"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "futhi engena"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "phambi kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:23:49.708598421Z",
+  "model": "glm-5.3"
+}

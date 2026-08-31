@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "ngakho-ke uthi uYahwe wamabutho: ngenxa yokuthi anilalelangi amazwi ami ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "כה",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamabutho"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ngenyxa yokuthi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani-"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "lalelangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazwi ami"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi ami"
+    }
+  ],
+  "timestamp": "2026-08-31T04:48:35.266412144Z",
+  "model": "glm-5.3"
+}

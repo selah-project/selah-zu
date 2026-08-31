@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 17:16",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Futhi ngizamsisa ⟨את⟩ yena, futhi-ke ngizonikeza kuyena indodana kuwe; futhi ngizamsisa, futhi izaba yizizwe; amakhosi ezizweni bazavela kuyena.",
+  "tokens": [
+    {
+      "surface": "וברכתי",
+      "gloss": "futhi ngizamsisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yena (uSarahi)"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "futhi-ke"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ngizonikeza"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "וברכתיה",
+      "gloss": "futhi ngizamsisa"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "futhi izaba"
+    },
+    {
+      "surface": "לגוים",
+      "gloss": "yizizwe"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ezizweni"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bazavela"
+    }
+  ],
+  "timestamp": "2026-08-31T01:07:35.045935351Z",
+  "model": "glm-5.3"
+}

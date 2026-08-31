@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 49:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Isu suba labo ukuthi izindlu zabo ziyoqhubeka kuze kube phakade, izindlu zokuhlala zabo kuzukela nasezukeleni; babiza ngamagama abo phezu komhlabathi",
+  "tokens": [
+    {
+      "surface": "קרבם",
+      "gloss": "isu suba labo"
+    },
+    {
+      "surface": "בתימו",
+      "gloss": "izindlu zabo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "משכנתם",
+      "gloss": "izindlu zokuhlala zabo"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kuzukela"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nasezukeleni"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "babiza"
+    },
+    {
+      "surface": "בשמותם",
+      "gloss": "ngamagama abo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "אדמות",
+      "gloss": "komhlabathi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:53.120553401Z",
+  "model": "glm-5.3"
+}

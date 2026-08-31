@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "UMoshe wasesethi kumukhwe wakhe: Ngoba abantu befika kimi ukuzobuza ku-Elohim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wasesethi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "kumukhwe wakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "befika"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "ukuzobuza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:34:50.397741304Z",
+  "model": "glm-5.3"
+}

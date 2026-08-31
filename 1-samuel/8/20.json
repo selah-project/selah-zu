@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 8:20",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Sibe nathi njengazo zonke izizwe — inkosi yethu isigwebile, iphuma phambi kothu, ilwa ⟨את⟩ impi yethu.",
+  "tokens": [
+    {
+      "surface": "והיינו",
+      "gloss": "sibe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nathi"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "thi"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "njengazo zonke"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "ושפטנו",
+      "gloss": "isigwebile"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "inkosi yethu"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "iphuma"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "phambi kothu"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "ilwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "impi yethu"
+    },
+    {
+      "surface": "מלחמתנו",
+      "gloss": "impi yethu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:15:35.852542196Z",
+  "model": "glm-5.3"
+}

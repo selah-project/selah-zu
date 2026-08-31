@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "U-Yahwe washo: ngiyayifihla ⟨אֶת⟩ ku-Avraham into engiyenzayo?",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "U-Yahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "washo"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ngiyayifihla"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngi"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "ku-Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "into"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "enzayo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:07:42.105897723Z",
+  "model": "glm-5.3"
+}

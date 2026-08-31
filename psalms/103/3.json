@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 103:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 103,
+  "translation": "Othethelela zonke iziphambeko zakho,ophilisa zonke izifo zakho.",
+  "tokens": [
+    {
+      "surface": "הסלח",
+      "gloss": "Othethelela"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "עונכי",
+      "gloss": "iziphambeko zakho"
+    },
+    {
+      "surface": "הרפא",
+      "gloss": "ophilisa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "תחלאיכי",
+      "gloss": "izifo zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:07.296332957Z",
+  "model": "glm-5.3"
+}

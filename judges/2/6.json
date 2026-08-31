@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 2:6",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "U-Yehoshuwa wathuma ⟨את⟩ abantu, bese abantwana bakaSirayeli behamba, umuntu ethatha umhlaba wakhe okhokhelwe, ukuze abambe ⟨את⟩ umhlaba.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathuma"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "u-Yehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "behamba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana baka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Sirayeli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "umhlaba wakhe okhokhelwe"
+    },
+    {
+      "surface": "לרשת",
+      "gloss": "ukuze abambe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T02:59:59.096693185Z",
+  "model": "glm-5.3"
+}

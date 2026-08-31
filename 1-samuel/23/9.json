@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 23:9",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "UDavide wazi ukuthi uShawuli umenzele ububi ngasese; wathi ku-Aviyathari umpristi: Sondeza lapha i-efodi.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "wazi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "ngasese"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "u-Aviyathari"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Sondeza lapha"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "i-efodi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:25:47.007961713Z",
+  "model": "glm-5.3"
+}

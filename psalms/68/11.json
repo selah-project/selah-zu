@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 68:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 68,
+  "translation": "Umhlambi wakho wahlala kuyo; wena uElohim ulungiselela ngokuhle kwakho abampovu.",
+  "tokens": [
+    {
+      "surface": "חיתך",
+      "gloss": "umhlambi wakho"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "תכין",
+      "gloss": "ulungiselela"
+    },
+    {
+      "surface": "בטובתך",
+      "gloss": "ngokuhle kwakho"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "abampovu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wena uElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:51.661591421Z",
+  "model": "glm-5.3"
+}

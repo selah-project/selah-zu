@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Abaphambuki esifisweni sabo; kusalokhu ukudla kwabo semi emlonyeni wabo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "akuzange"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "baphambuke"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "esifisweni sabo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kusalokhu"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ukudla kwabo"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "emlonyeni wabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:11.272004058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 15:15",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Futhi wafaka ⟨את⟩ izinto ezimhloniphile zikanoyise nezakhe ezimhloniphile, endlwini kaYahwe, isiliva negolide nezitsha.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wafaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinto ezimhloniphile zikanoyise"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "izinto ezimhloniphile"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zikanoyise"
+    },
+    {
+      "surface": "וקדשו",
+      "gloss": "nezakhe ezimhloniphile"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "negolide"
+    },
+    {
+      "surface": "וכלים",
+      "gloss": "nezitsha"
+    }
+  ],
+  "timestamp": "2026-08-31T03:57:56.309664873Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 6:16",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Umpristi uzoziletha phambi kukaYahwe, azenze ⟨את⟩ isono sakhe no-⟨את⟩ isipho sakhe sokushiswa.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "uzoziletha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "azenze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isono sakhe"
+    },
+    {
+      "surface": "חטאתו",
+      "gloss": "isono sakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isipho sakhe sokushiswa"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "isipho sakhe sokushiswa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:10:56.597607097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 15:20",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Phambi kukaYahwe uElohim wakho uzokudla yona unyaka nonyaka, endaweni ayikhetha uYahwe, wena nendlu yakho.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "uzokudla yona"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "unyaka"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "nonyaka"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eyi-"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "khetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "nendlu yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T02:36:46.717566970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 66:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 66,
+  "translation": "Izimpeshizi zamafutha ngizipakamisela kuwe, kanye nempepho yezinkunzi; ngiziletha izinkomo kanye nezimbuzi eziduna. Selah.",
+  "tokens": [
+    {
+      "surface": "עלות",
+      "gloss": "izimpeshizi zokushiswa"
+    },
+    {
+      "surface": "מחים",
+      "gloss": "zamafutha"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ngizipakamisela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanye ne-"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "impepho"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "yezinkunzi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ngiziletha"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "izinkomo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanye ne-"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "izimbuzi eziduna"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:17.769656872Z",
+  "model": "glm-5.3"
+}

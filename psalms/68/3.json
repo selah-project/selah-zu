@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 68:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 68,
+  "translation": "Njengokushayiswa komusi umusi ushayiswa; njengokunyibilika kwewakshi ngaphambi kolilo, aboni banyamalale ngaphambi kuElohim.",
+  "tokens": [
+    {
+      "surface": "כהנדף",
+      "gloss": "Njengokushayiswa"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "komusi"
+    },
+    {
+      "surface": "תנדף",
+      "gloss": "ushayiswa"
+    },
+    {
+      "surface": "כהמס",
+      "gloss": "njengokunyibilika"
+    },
+    {
+      "surface": "דונג",
+      "gloss": "kwewakshi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngaphambi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "kolilo"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "banyamalale"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "aboni"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngaphambi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kuElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:41.397899163Z",
+  "model": "glm-5.3"
+}

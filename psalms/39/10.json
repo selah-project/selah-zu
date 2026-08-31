@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Ngathule, angivuli umlomo wami, ngoba wena wenzile lokho.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ngathule"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "vuli"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umlomo wami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wenzile lokho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:37.250330919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Ighosha likaDavida. Nikezani kuYahwe, nina abantwana baka-El, nikezani kuYahwe ikavodi namandla.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Ighosha"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "likaDavida"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "Nikezani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "baka-El"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "nikhezani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ikavodi"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "namandla"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:19.441232511Z",
+  "model": "glm-5.3"
+}

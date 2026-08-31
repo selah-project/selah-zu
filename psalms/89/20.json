@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 89:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Ngaleso sikhathi wakhuluma kubonweni kubakhethiwe bakho, wathi: Ngibekile usiza phezu kwanomqangi, ngaphakamise okhethiwe phakathi kwabantu.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ngaleso sikhathi"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "בחזון",
+      "gloss": "kubonweni"
+    },
+    {
+      "surface": "לחסידיך",
+      "gloss": "kubakhethiwe bakho"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "futhi wathi"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ngibekile"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "usiza"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "nomqangi"
+    },
+    {
+      "surface": "הרימותי",
+      "gloss": "ngaphakamise"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "okhethiwe"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "phakathi kwabantu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:51.254268523Z",
+  "model": "glm-5.3"
+}

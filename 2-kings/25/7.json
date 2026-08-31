@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 25:7",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi ⟨את⟩ amadodana kaTsidkiyahu ababulala emehlweni akhe; futhi ⟨את⟩ amehlo kaTsidkiyahu awenzimba, wambopha ngezintsimbi zethusi, wamisa eBhabheli.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "amadodana kaTsidkiyahu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "kaTsidkiyahu"
+    },
+    {
+      "surface": "שחטו",
+      "gloss": "ababulala"
+    },
+    {
+      "surface": "לעיניו",
+      "gloss": "emehlweni akhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "amehlo kaTsidkiyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "kaTsidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "awenzimba"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "wambopha"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "ngezintsimbi zethusi"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "eBhabheli"
+    }
+  ],
+  "timestamp": "2026-08-31T04:15:12.271152211Z",
+  "model": "glm-5.3"
+}

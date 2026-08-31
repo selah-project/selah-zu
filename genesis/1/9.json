@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 1:9",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "uElohim wasesha: amanzi angaphansi kwezulu aqoqwe endaweni eyodwa, futhi kubonakale umhlabathi omile; kwaba njalo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wasesha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יקוו",
+      "gloss": "aqoqwe"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "phansi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kwezulu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eyodwa"
+    },
+    {
+      "surface": "ותראה",
+      "gloss": "kubonakale"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "umhlabathi omile"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:01:47.219940059Z",
+  "model": "glm-5.3"
+}

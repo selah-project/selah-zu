@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "UNtamari, umkakho weNdodana, wazala kuyena ⟨את⟩ uPherezhi no⟨את⟩ uZerahi. Bonke abantwana benkosi bakwaYehudhi babe yisihlanu.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "UNtamari"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "umkakho weNdodana"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uPherezhi"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "uPherezhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uZerahi"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "uZerahi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Bonke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bakwaYehudhi"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "isihlanu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:37:17.332366699Z",
+  "model": "glm-5.3"
+}

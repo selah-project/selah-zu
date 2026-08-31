@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 133,
+  "translation": "Igesi lokwenzekela phezulu, likaDavide. Bhekani, mangakanani okuhle nangakanani okumnandi ukuhlala abafowenu ndawonye!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Igesi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lokwenzekela phezulu"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "likaDavide"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bhekani"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mangakanani"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "nangakanani"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "okumnandi"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ukuhlala"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "abafowenu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨ndawonye⟩"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ndawonye"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:06.471943857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 32:2",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Isifundo sami sizothela njengomvula, inkulumo yami inyathela njengoneswa, njengemvula encishana phezu kutshani olutsha, najanjengemvula eqinileyo phezu kokhilime.",
+  "tokens": [
+    {
+      "surface": "יערף",
+      "gloss": "sizothela"
+    },
+    {
+      "surface": "כמטר",
+      "gloss": "njengomvula"
+    },
+    {
+      "surface": "לקחי",
+      "gloss": "isifundo sami"
+    },
+    {
+      "surface": "תזל",
+      "gloss": "inyathela"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "njengoneswa"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "inkulumo yami"
+    },
+    {
+      "surface": "כשעירם",
+      "gloss": "njanjengemvula encishana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "kutshani olutsha"
+    },
+    {
+      "surface": "וכרביבים",
+      "gloss": "njanjengemvula eqinileyo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "kokhilime"
+    }
+  ],
+  "timestamp": "2026-08-31T02:46:46.760200980Z",
+  "model": "glm-5.3"
+}

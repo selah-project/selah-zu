@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Ngosuku lokuthi lwenyanga yokuqala, ngosuku lwokuqala lwenyanga, uzophakamisa ⟨את⟩ ithenti Yokuhlangana; ithenti yokusontatha.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ngosuku"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "lwenyanga"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yokuqala"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ngosuku lwokuqala"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "lwenyanga"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "uzophakamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithenti Yokuhlangana"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "ithenti yokusontatha"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ithenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "Yokuhlangana"
+    }
+  ],
+  "timestamp": "2026-08-31T01:50:23.611757471Z",
+  "model": "glm-5.3"
+}

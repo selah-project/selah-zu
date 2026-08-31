@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 17:4",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "UMoshe wakhala kuYahwe, ethi: Ngingalalutho-ke lolu abantu? kancisi kanye bayongitsheka ngetshe.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "wakhala"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ngingalalutho"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "lolu abantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kancisi kanye"
+    },
+    {
+      "surface": "מעט",
+      "gloss": ""
+    },
+    {
+      "surface": "וסקלני",
+      "gloss": "bayongitsheka ngetshe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:19.121401961Z",
+  "model": "glm-5.3"
+}

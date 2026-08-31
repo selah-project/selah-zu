@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 13:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Kepha mina ngithembela ikhesedi yakho; inhliziyo yami izojabula nsindisweni yakho. Ngingcula kuYahwe, ngoba usenzelile okuhle kimi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kepha mina"
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ngithembela"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "izojabula"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inhliziyo yami"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "nsindisweni yakho"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ngingcula"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "usenzelile okuhle"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:26.806815216Z",
+  "model": "glm-5.3"
+}

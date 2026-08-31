@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Futhi uzokwenza ⟨את⟩ izinti ngomthombothi, uzozifulela ngegolide.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uzokwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinti"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "izinti"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ngokhuni"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "omthombothi"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "uzozifulela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izinti"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ngegolide"
+    }
+  ],
+  "timestamp": "2026-08-31T01:41:12.301697231Z",
+  "model": "glm-5.3"
+}

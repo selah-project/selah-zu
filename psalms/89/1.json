@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Incwadi yokufundisa, ka-Eythani u-Ezrahi.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "incwadi yokufundisa"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "ka-Eythani"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "u-Ezrahi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:31.134134410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 84:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 84,
+  "translation": "Abadlula esigabeni seBaka bayenzela imithombo ⟨kuso⟩; imvula yokuqala iphephetha ⟨isigaba⟩ ngezibusiso.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "Abadlula"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "esigabeni"
+    },
+    {
+      "surface": "הבכא",
+      "gloss": "iBaka"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "imithombo"
+    },
+    {
+      "surface": "ישיתוהו",
+      "gloss": "bayenzela ⟨kuso⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ngezibusiso"
+    },
+    {
+      "surface": "יעטה",
+      "gloss": "iphephetha"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "imvula yokuqala"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:18.578871292Z",
+  "model": "glm-5.3"
+}

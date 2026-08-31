@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 62,
+  "translation": "Kuphela ku-Elohim, mphefumulo wami, hlala uthule; ngoba kuvela kuYena ithemba lami.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kuphela"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ku-Elohim"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "hlala uthule"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mphefumulo wami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuvela kuYena"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "ithemba lami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:56.643471964Z",
+  "model": "glm-5.3"
+}

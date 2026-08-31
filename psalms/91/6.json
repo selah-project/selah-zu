@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 91,
+  "translation": "ukhwalingo ehamba ebumnyameni, nokubhujiswa okulimazayo emini phakathi.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "ukhwalingo"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "ebumnyameni"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "nokubhujiswa"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "okulimazayo"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "emini phakathi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:48.567003272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 50:21",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Manje ngakho ningesabi; mina ngizaninakekela nani ⟨את⟩ nantwana zenu ⟨את⟩. Wathulisa abafowabo wakhuluma ezinhliziyweni zabo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "manje ngakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ninga-"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אכלכל",
+      "gloss": "ngizaninakekela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nani",
+      "marks": "nani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nantwana zenu"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "nantwana zenu"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "wathulisa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ abafowabo",
+      "marks": "abafowabo"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwe-"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "izinhliziyweni zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:26:15.609228986Z",
+  "model": "glm-5.3"
+}

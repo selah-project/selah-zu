@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "leviticus 14:45",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi uyophula ⟨את⟩ indlu, ⟨את⟩ amatshe ayo, no⟨את⟩ ezinkunini zayo, no⟨את⟩ yonke uthuli lwendlu; futhi uyozikhhipha ngaphandle komuzi, endaweni engcolile.",
+  "tokens": [
+    {
+      "surface": "ונתץ",
+      "gloss": "uyophula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatshe ayo"
+    },
+    {
+      "surface": "אבניו",
+      "gloss": "amatshe ayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "ezinkunini zayo"
+    },
+    {
+      "surface": "עציו",
+      "gloss": "ezinkuni zayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "yonke uthuli lwendlu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "uthuli"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "lwendlu"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "uyozikhhipha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "komuzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "engcolile"
+    }
+  ],
+  "timestamp": "2026-08-31T01:57:38.650407861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 64:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 64,
+  "translation": "Bonke abantu bayasaba, bakhuluma umsebenzi kaElohim, futhi baqonda nomsebenzi wakhe.",
+  "tokens": [
+    {
+      "surface": "וייראו",
+      "gloss": "bayasaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "bakhuluma"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "ומעשהו",
+      "gloss": "nomsebenzi wakhe"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "baqonda"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:10.131348420Z",
+  "model": "glm-5.3"
+}

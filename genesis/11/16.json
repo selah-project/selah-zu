@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "U-Everi waphila iminyaka emine namashumi amathathu, wazala ⟨את⟩ uPelegi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "waphila"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "U-Everi"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "emine"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "namashumi amathathu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uPelegi"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "uPelegi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:14.610516784Z",
+  "model": "glm-5.3"
+}

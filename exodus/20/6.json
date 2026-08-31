@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 20:6",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Futhi ngiwenza ikhesedi izinkulungwane, kubathandi bami nabagcinayo imiyalelo yami.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "futhi ngiwenza"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "לאלפים",
+      "gloss": "izinkulungwane"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "kubathandi bami"
+    },
+    {
+      "surface": "ולשמרי",
+      "gloss": "nabagcinayo"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "imiyalelo yami"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:04.769391596Z",
+  "model": "glm-5.3"
+}

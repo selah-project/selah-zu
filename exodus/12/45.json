@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Uhlali-ndawo nensekile angeke adle kuwo.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "Uhlali-ndawo"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "nensekile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "adle"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuwo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:51.561211524Z",
+  "model": "glm-5.3"
+}

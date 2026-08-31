@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Inhliziyo yenkosikazi yakhe ithembele kuyena, futhi inzuzo angeke ayikhale.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ithembele"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Inhliziyo"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "yenzosikazi yakhe"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "inzuzo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ayikhale"
+    }
+  ],
+  "timestamp": "2026-08-31T07:05:46.667079073Z",
+  "model": "glm-5.3"
+}

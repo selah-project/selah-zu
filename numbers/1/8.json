@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "kuYisakhari, uNetaneli indodana kaTsuari.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "kuYisakhari"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "uNetaneli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Tsuari"
+    }
+  ],
+  "timestamp": "2026-08-31T02:05:58.271602690Z",
+  "model": "glm-5.3"
+}

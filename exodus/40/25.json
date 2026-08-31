@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 40:25",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Futhi wafaka izibani ezibukhali phezu kwezinye phambi kukaYahwe, njengoba uYahwe wayesele uyalele ⟨את⟩ uMoshe.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wafaka izibani ezibukhali phezu kwezinye"
+    },
+    {
+      "surface": "הנרת",
+      "gloss": "izibani"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayesele uyalele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:49:27.686177911Z",
+  "model": "glm-5.3"
+}

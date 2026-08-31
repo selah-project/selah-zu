@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 3:5",
+  "book": "song-of-songs",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Nginifungisile, amadodakazi aseYerushalayimi, ngezimvubu nangamabhubhesi ensimini — ungavusi futhi ungaphazamisi ⟨את⟩ uthando lize luthande.",
+  "tokens": [
+    {
+      "surface": "השבעתי",
+      "gloss": "nginifungisile"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "amadodakazi aseYerushalayimi"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "amadodakazi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "aseYerushalayimi"
+    },
+    {
+      "surface": "בצבאות",
+      "gloss": "ngezimvubu"
+    },
+    {
+      "surface": "או",
+      "gloss": "nanga-"
+    },
+    {
+      "surface": "באילות",
+      "gloss": "amabhubhesi"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ensimini"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ungavusi"
+    },
+    {
+      "surface": "תעירו",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ungaphazamisi"
+    },
+    {
+      "surface": "תעוררו",
+      "gloss": "luthande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uthando"
+    },
+    {
+      "surface": "האהבה",
+      "gloss": "uthando"
+    },
+    {
+      "surface": "עד",
+      "gloss": "lize"
+    },
+    {
+      "surface": "שתחפץ",
+      "gloss": "ngaphandle kokuthanda"
+    }
+  ],
+  "timestamp": "2026-08-31T07:33:37.000059196Z",
+  "model": "glm-5.3"
+}

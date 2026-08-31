@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi uYahwe, uElohim wamabutho, uYahwe ⟨ingujana⟩ yakhe.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "Futhi uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka-"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "amabutho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ingujana yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:29:17.094337735Z",
+  "model": "glm-5.3"
+}

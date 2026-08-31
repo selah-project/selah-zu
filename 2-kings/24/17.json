@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-kings 24:17",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Yabeka inkosi yeBhabheli uMathaniya oyisefowabo esihlalweni sobukhosi esikhundleni sakhe, yakushintsha igama lakhe libe nguTsidkiya.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "yabeka esihlalweni sobukhosi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "yeBhabheli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMathaniya"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "uMathaniya"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "oyisefowabo"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "esikhundleni sakhe"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "yakushintsha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lakhe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "uTsidkiya"
+    }
+  ],
+  "timestamp": "2026-08-31T04:14:42.227575356Z",
+  "model": "glm-5.3"
+}

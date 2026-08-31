@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 51:6",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 51,
+  "translation": "Phakamisani amehlo enu ezulwini, nibheke phansi komhlaba; ngokuba amazulu azonyamalala njengomusi, umhlaba uzodala njengengubo, labahleli kuyobe sekufa njalo; insindiso yami izoba kuze kube phakade, ukulunga kwami angeke aqhunyiswe.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "phakamisani"
+    },
+    {
+      "surface": "לשמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "amehlo enu"
+    },
+    {
+      "surface": "והביטו",
+      "gloss": "nibhekisani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ngaphansi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "כעשן",
+      "gloss": "njengomusi"
+    },
+    {
+      "surface": "נמלחו",
+      "gloss": "azonyamalala"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "nomhlaba"
+    },
+    {
+      "surface": "כבגד",
+      "gloss": "njengengubo"
+    },
+    {
+      "surface": "תבלה",
+      "gloss": "uzodala"
+    },
+    {
+      "surface": "וישביה",
+      "gloss": "labahleli"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njengalo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "ימותון",
+      "gloss": "bayafa"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "insindiso yami"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "izoba"
+    },
+    {
+      "surface": "וצדקתי",
+      "gloss": "ukulunga kwami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "aqhunyiswe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:34:25.748191399Z",
+  "model": "glm-5.3"
+}

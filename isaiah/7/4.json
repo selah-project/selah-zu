@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 7:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Uthi kuye: Qiniseka uthule; ungabi nokwesaba, inhliziyo yakho ingaqhathuki ngenxa yamabelo amabili omilio omonyazezelayo, ngenxa yokukhala okukhulu kukaRetsini neArama nendodana kaRemaliyahu.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Uthi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "Qiniseka"
+    },
+    {
+      "surface": "והשקט",
+      "gloss": "uthule"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungabi nokwesaba"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "⟨wesaba⟩"
+    },
+    {
+      "surface": "ולבבך",
+      "gloss": "inhliziyo yakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ingaqhathuki"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "⟨qhathuka⟩"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ngenxa yama-"
+    },
+    {
+      "surface": "זנבות",
+      "gloss": "belo amabili"
+    },
+    {
+      "surface": "האודים",
+      "gloss": "omilio"
+    },
+    {
+      "surface": "העשנים",
+      "gloss": "omonyazezelayo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    },
+    {
+      "surface": "בחרי",
+      "gloss": "ngenxa yokukhala"
+    },
+    {
+      "surface": "אף",
+      "gloss": "okukhulu"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "kukaRetsini"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "neArama"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "nendodana"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "kaRemaliyahu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:18:39.295392686Z",
+  "model": "glm-5.3"
+}

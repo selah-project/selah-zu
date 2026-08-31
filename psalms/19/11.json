@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 19:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Zifunwa kakhulu kunengi, kunegolide elihle eliningi; zimnandi kunganono, kuncanzu lomdabu wazo.",
+  "tokens": [
+    {
+      "surface": "הנחמדים",
+      "gloss": "zifunwa kakhulu"
+    },
+    {
+      "surface": "מזהב",
+      "gloss": "kunengi"
+    },
+    {
+      "surface": "ומפז",
+      "gloss": "kunegolide elihle"
+    },
+    {
+      "surface": "רב",
+      "gloss": "elininingi"
+    },
+    {
+      "surface": "ומתוקים",
+      "gloss": "zimnandi"
+    },
+    {
+      "surface": "מדבש",
+      "gloss": "kunganono"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "kuncanzu"
+    },
+    {
+      "surface": "צופים",
+      "gloss": "lomdabu wazo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:16.042372611Z",
+  "model": "glm-5.3"
+}

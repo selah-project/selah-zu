@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 10:20",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Noma emcabangweni wakho ungaqalekisi inkosi, futhi ezindlini zekamelo lakho lokulala ungaqalekisi umpetwezinto; ngokuba inyoni yamazulu izohambisa ⟨את⟩ izwi, futhi umnikazi wamaphiko uzotshela indaba.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Noma"
+    },
+    {
+      "surface": "במדעך",
+      "gloss": "emcabangweni wakho"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "qalekisi"
+    },
+    {
+      "surface": "ובחדרי",
+      "gloss": "futhi ezindlini"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "zekamelo lakho lokulala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "qalekisi"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "umpetwezinto"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "inyoni"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yamazulu"
+    },
+    {
+      "surface": "יוליך",
+      "gloss": "izohambisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi"
+    },
+    {
+      "surface": "הקול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "futhi umnikazi"
+    },
+    {
+      "surface": "הכנפים",
+      "gloss": "wamaphiko"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "uzotshela"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "indaba"
+    }
+  ],
+  "timestamp": "2026-08-31T07:51:20.949409751Z",
+  "model": "glm-5.3"
+}

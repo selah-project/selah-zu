@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 30:32",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Enyameni yomuntu kungeke kuchithwe, futhi ngezinga lalo ningenzi enjengayo; ingcwele yona, ingcwele izoba kuni.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "enyameni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yomuntu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kungeke"
+    },
+    {
+      "surface": "ייסך",
+      "gloss": "chithwe"
+    },
+    {
+      "surface": "ובמתכנתו",
+      "gloss": "futhi ngezinga lalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ningenz-"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "enjengayo"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "njengayo"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ingcwele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ingcwele"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "izoba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:08.989931246Z",
+  "model": "glm-5.3"
+}

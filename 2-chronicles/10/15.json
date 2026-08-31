@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 10:15",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Inkosi yahlulela ukulalela abantu, ngokuba kube kuyinto evelayo ⟨kusuka⟩ ku-Elohim, ukuze uYahwe amise ⟨את⟩ izwi lakhe, alethwa ezindlebeni zika-Ahiya uShiloni kuYarobheyamu un kaNebhathi.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "yahlulela"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ukulalela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kukhona"
+    },
+    {
+      "surface": "נסבה",
+      "gloss": "kuyinto evelayo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "kusuka ku-"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "amise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi lakhe"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "izwi lakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwakhe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alethwa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ezindlebeni zika-"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "u-Ahiya"
+    },
+    {
+      "surface": "השלוני",
+      "gloss": "uShiloni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "uYarobheyamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "un"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "kaNebhathi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:34:43.341734728Z",
+  "model": "glm-5.3"
+}

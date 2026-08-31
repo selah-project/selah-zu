@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 3:10",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngelosuku lelo, usho uYahwe wamabutho, ninzayobizana munye nomakhelwane wakhe, phansi kwesihlahla somdiliya naphansi kwesihlahla somdoni.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ngelosuku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "usho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamabutho"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "ninzayobizana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munye"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "nomakhelwane wakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phansi kwe-"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "isihlahla somdiliya"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naku-"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phansi kwe-"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "isihlahla somdoni"
+    }
+  ],
+  "timestamp": "2026-08-31T05:41:25.263138185Z",
+  "model": "glm-5.3"
+}

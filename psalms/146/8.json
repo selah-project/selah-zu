@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 146:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 146,
+  "translation": "uYahwe uvula amehlo kwabangaboni; uYahwe uphakamisa abagogodile; uYahwe uthanda abalungile.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "uvula amehlo"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "kwabangaboni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "זקף",
+      "gloss": "uphakamisa"
+    },
+    {
+      "surface": "כפופים",
+      "gloss": "abagogodile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "uthanda"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abalungile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:40.723277978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 41:9",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Ilanzwa elilodwa linamathiselana elinye; zibambele ndawonye, futhi azange zehlukaniseke.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "elilodwa (ilanzwa)"
+    },
+    {
+      "surface": "באחיהו",
+      "gloss": "elinye (kunalomunye)"
+    },
+    {
+      "surface": "ידבקו",
+      "gloss": "zinamathiselana"
+    },
+    {
+      "surface": "יתלכדו",
+      "gloss": "zibambele ndawonye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi-ke azange"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "zahlukaniseke"
+    }
+  ],
+  "timestamp": "2026-08-31T07:31:17.260480616Z",
+  "model": "glm-5.3"
+}

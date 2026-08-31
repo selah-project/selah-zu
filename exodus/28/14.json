@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 28:14",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "namaketanga amabili egolide elicocekile; njengomkhawulo-ozungezile uzokwenza ⟨את⟩ wona, umsebenzi ohlotshanisiwe; bese ubeka ⟨את⟩ amaketanga ahlotshanisiwe phezu kwezilungiselelo.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "namabili"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "amaketanga"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "egolide"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "elicocekile"
+    },
+    {
+      "surface": "מגבלת",
+      "gloss": "njengomkhawulo-ozungezile"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzokwenza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wona (amaketanga)"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "ohlotshanisiwe"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "bese ubeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaketanga"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "amaketanga"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "ahlotshanisiwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "המשבצת",
+      "gloss": "zilungiselelo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:40:43.596023210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 22:9",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Inkosi yakwaIsrayeli yabiza ⟨isarisi⟩ elilodwa, yathi: Shesha uMikhayehu, indodana kaYimla.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "yabiza"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yakwaIsrayeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwa"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "⟨isarisi⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "Shesha"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "uMikhayehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka"
+    },
+    {
+      "surface": "ימלה",
+      "gloss": "Yimla"
+    }
+  ],
+  "timestamp": "2026-08-31T08:49:45.823490638Z",
+  "model": "glm-5.3"
+}

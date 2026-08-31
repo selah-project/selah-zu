@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Hawu kuwe, wena umhlaba, inkosi yakho ingenabafana, izingunya zakho zidla ekuseni!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "hawu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "inkosi yakho"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ingenabafana"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "izingunya zakho"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "zidla"
+    }
+  ],
+  "timestamp": "2026-08-31T07:49:38.639496924Z",
+  "model": "glm-5.3"
+}

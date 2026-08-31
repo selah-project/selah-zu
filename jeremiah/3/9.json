@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 3:9",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Kwaba njalo ngenxa yokwesula kwesibindi sokuphinga kwakhe, wagcwalisa ngecala ⟨את⟩ umhlaba, waphinga ⟨את⟩ itshe no⟨את⟩ isihlahla.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kwaba njalo"
+    },
+    {
+      "surface": "מקל",
+      "gloss": "ngenxa yokwesula kwesibindi"
+    },
+    {
+      "surface": "זנותה",
+      "gloss": "sokuphinga kwakhe"
+    },
+    {
+      "surface": "ותחנף",
+      "gloss": "wagcwalisa ngecala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ותנאף",
+      "gloss": "waphinga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itshe"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "itshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "isihlahla"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "isihlahla"
+    }
+  ],
+  "timestamp": "2026-08-31T04:39:28.513218583Z",
+  "model": "glm-5.3"
+}

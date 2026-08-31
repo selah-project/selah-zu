@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 78:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Imfundiso ka-Asaf. Nikani izindlebe, bantu bami, kuTorah yami; gonelezani izindlebe zenu emazwini omlomo wami.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Imfundiso"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ka-Asaf"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Nikani izindlebe"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bantu bami"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "kuTorah yami"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "gonelezani"
+    },
+    {
+      "surface": "אזנכם",
+      "gloss": "izindlebe zenu"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "emazwini"
+    },
+    {
+      "surface": "פי",
+      "gloss": "omlomo wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:22.287211616Z",
+  "model": "glm-5.3"
+}

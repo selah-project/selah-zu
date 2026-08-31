@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Wabanika icelo labo, wathumela ukushoda kunefeshi yabo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wabanika"
+    },
+    {
+      "surface": "להם",
+      "gloss": " bona"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "icelo labo"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ukushoda"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "nefeshi yabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:38.431506348Z",
+  "model": "glm-5.3"
+}

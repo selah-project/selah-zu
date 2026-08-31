@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-samuel 17:44",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "I-Filisti yathi kuDavide: Woza kimi, ngizokunika ⟨את⟩ inyama yakho izinyoni zasezulwini nas ezilwaneni zasensimini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "i-Filisti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Woza"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ngizokunika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama yakho"
+    },
+    {
+      "surface": "בשרך",
+      "gloss": "inyama yakho"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "izinyoni"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "zasezulwini"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "nas ezilwaneni"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zasensimini"
+    }
+  ],
+  "timestamp": "2026-08-31T03:23:21.189849025Z",
+  "model": "glm-5.3"
+}

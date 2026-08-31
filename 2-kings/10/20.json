@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 10:20",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "UYehu wathi: Hlanganisani isivumelwano esingcwele seBhahali. Bayeshelayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "UYehu"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "Hlanganisani esingcwele"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "isivumelwano"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "seBhahali"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "Bayeshelayo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:06:52.335375263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 3:6",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "uYahwe wengeza ukumbiza futhi uShemuweli; wavuka uShemuweli, waya ku-Eli, wathi: Ngiyapha, ngoba ungibizile. Yena wathi: Angikubizanga, ndodana yami; buyela ulale.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "wengeza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ukumbiza"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "wavuka"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "u-Eli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ngiyapha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ungibizile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ngikubizile"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ndodana yami"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "buyela"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ulale"
+    }
+  ],
+  "timestamp": "2026-08-31T03:16:07.803539861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 70,
+  "translation": "Kumqondisi wezikhati, indondoma kaDavide, yokukhumbulisa.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi wezikhati"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "indondoma kaDavide"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "yokukhumbulisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:19.829742374Z",
+  "model": "glm-5.3"
+}

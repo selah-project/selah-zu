@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 3:21",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Izwi phezu kwezintaba ezingenalutho lilalelwa — ukukhala nezicelo zabantwana baka-Israeli, ngoba banqamulile ⟨את⟩ indlela yabo, balibile ⟨את⟩ uYahwe uElohim wabo.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "שפיים",
+      "gloss": "ezintabeni ezingenalutho"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "lilalelwa"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ukukhala"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "nezicelo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "baka-Israeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "העוו",
+      "gloss": "banqamulile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlela yabo"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "indlela yabo"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "balibile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "uElohim wabo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:40:07.153535730Z",
+  "model": "glm-5.3"
+}

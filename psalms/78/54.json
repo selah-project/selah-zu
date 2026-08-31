@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 78:54",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Wabangenisela emkhawuleni wezingcwele zakhe, le ntaba ethengwa yisandla sakhe sokudla.",
+  "tokens": [
+    {
+      "surface": "ויביאם",
+      "gloss": "Wabangenisela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "umkhawulo"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "wezingcwele zakhe"
+    },
+    {
+      "surface": "הר",
+      "gloss": "intaba"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "קנתה",
+      "gloss": "ethengwa"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "isandla sakhe sokudla"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:47.076739932Z",
+  "model": "glm-5.3"
+}

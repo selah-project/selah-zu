@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 18:30",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Uzothi kubo: Ngesikhathi niphakamisa ⟨את⟩ isigimi sawo kusona, kuzobalelwa abalevi njengenzalo yesibaya sokuhlafuna nenzalo yesiphunu samagilebhisi.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "Uzothi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "בהרימכם",
+      "gloss": "Ngesikhathi niphakamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isigimi sawo"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "isigimi sawo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kusona"
+    },
+    {
+      "surface": "ונחשב",
+      "gloss": "kuzobalelwa"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "abalevi"
+    },
+    {
+      "surface": "כתבואת",
+      "gloss": "njengenzalo ye"
+    },
+    {
+      "surface": "גרן",
+      "gloss": "isibaya sokuhlafuna"
+    },
+    {
+      "surface": "וכתבואת",
+      "gloss": "nenzalo ye"
+    },
+    {
+      "surface": "יקב",
+      "gloss": "isiphunu samagilebhisi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:18:51.429691180Z",
+  "model": "glm-5.3"
+}

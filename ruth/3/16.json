@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Wafika kunina omkhulu wakhe, wathi: Ungubani ⟨את⟩, ndodakazi yami? Wamtshele ⟨את⟩ konke le ndoda eyenzile kuyena.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "wafika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "unina omkhulu wakhe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ungubani"
+    },
+    {
+      "surface": "את",
+      "gloss": "wena",
+      "marks": "ndodakazi yami"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ndodakazi yami"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "wamtshele"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "eyenzile"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "le ndoda"
+    }
+  ],
+  "timestamp": "2026-08-31T12:04:16.656678297Z",
+  "model": "glm-5.3"
+}

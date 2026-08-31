@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 85,
+  "translation": "Kumqondisi, kwabantwana bakwaKorahi, umculo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwabantwana"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "bakwaKorahi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umculo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:11.005418402Z",
+  "model": "glm-5.3"
+}

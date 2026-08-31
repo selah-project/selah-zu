@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 137,
+  "translation": "Emilwini yeBhabheli lapho sahlala; sacula ngenkathi sikhumbula ⟨את⟩ iZiyoni.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "emilwini"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "yeBhabheli"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "sahlala"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "sacula"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "ngenkathi sikhumbula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iZiyoni"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iZiyoni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:33.460568335Z",
+  "model": "glm-5.3"
+}

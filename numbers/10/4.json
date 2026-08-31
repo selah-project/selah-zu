@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 10:4",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Futhi uma kushaywa ngesinye kuphela, amakhosi amakhulu amawaka ka-Israyeli ayoqoqwa kuwe.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Futhi uma"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "ngesinye kuphela"
+    },
+    {
+      "surface": "יתקעו",
+      "gloss": "kushaywa"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "ayoqoqwa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "הנשיאים",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "amawaka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T02:13:30.866550915Z",
+  "model": "glm-5.3"
+}

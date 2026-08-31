@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 13:12",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Uyise wakhuluma nabo ethi: ngiyiphi le ndlela ahambile ngayo? Abantwana bakhe babona ⟨את⟩ indlela ayihambile umuntu ka-Elohim ovele wafika esuka eYehuda.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "nabo"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ngiyiphi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ahambile ngayo"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "babona"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abantwana bakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlela"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayihambile"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ayihambile"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ka-Elohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ovele wafika"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wafika"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "esuka eYehuda"
+    }
+  ],
+  "timestamp": "2026-08-31T03:54:50.729635823Z",
+  "model": "glm-5.3"
+}

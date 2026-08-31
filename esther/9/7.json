@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Naye ⟨את⟩ uParshandatha, naye ⟨את⟩ uDalphon, naye ⟨את⟩ uAspatha —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "uParshandatha"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "uParshandatha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "uDalphon"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "uDalphon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "uAspatha"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "uAspatha"
+    }
+  ],
+  "timestamp": "2026-08-31T07:54:02.972678744Z",
+  "model": "glm-5.3"
+}

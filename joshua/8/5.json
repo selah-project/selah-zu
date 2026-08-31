@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 8:5",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Futhi mina, nabantu bonke abanganami ⟨את⟩, nizosondela esigodini; futhi kuyokwenzeka ukuthi lapho bephuma ukusibona, njengasekuqaleni, sizobaleka phambi kwabo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "futhi mina"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nabo bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ngami"
+    },
+    {
+      "surface": "נקרב",
+      "gloss": "nizosondela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sigodini"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "futhi kuyokwenzeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "bephuma"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "ukusibona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njenga-"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "asekuqaleni"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "sizobaleka"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "phambi kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:52:23.091039573Z",
+  "model": "glm-5.3"
+}

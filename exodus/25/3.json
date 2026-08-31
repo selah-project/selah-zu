@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 25:3",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi le ⟨yilo⟩ ithuluzi — yile teruma enizoyithatha ⟨את⟩ kubo: igolide, nesiliva, nobhedu.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Futhi le"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "yile teruma"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eyi-"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "enizoyithatha"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ kubo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "nesiliva"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "nobhedu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:44.973489419Z",
+  "model": "glm-5.3"
+}

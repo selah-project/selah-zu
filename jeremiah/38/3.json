@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 38:3",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Uthi uYahwe: Leli dolobha liyazinikeza ngempela esandleni sombutho wenkosi yaseBhabheli, futhi siyasingatha.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "uthi-"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "liyazinikeza"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "lidolobha"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "leli"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni sa-"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "sombutho"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "yaseBhabheli"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "futhi siyasingatha"
+    }
+  ],
+  "timestamp": "2026-08-31T04:56:57.580598724Z",
+  "model": "glm-5.3"
+}

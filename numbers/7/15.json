@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Inkunzi eyodwa yenkomo, ihwabusana elilodwa, iwundlu eyodwa etinywene elilodwa, njengomnikelo oshisiweyo.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "inkunzi eyodwa yenkomo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eyodwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "yenkomo (etinywene elilodwa)"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "inkomo"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ihwabusana elilodwa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "iwundlu eyodwa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eyodwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "etinywene elilodwa"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "unyaka"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "njengomnikelo oshisiweyo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:10:09.626037065Z",
+  "model": "glm-5.3"
+}

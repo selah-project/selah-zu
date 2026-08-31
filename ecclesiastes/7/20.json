@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ngokuba akekho umuntu olungileyo emhlabeni ozenza okuhle futhi ongahlali esonweni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akekho"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "olungileyo"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ozenza"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi ongahlali"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "esonweni"
+    }
+  ],
+  "timestamp": "2026-08-31T08:58:25.601706790Z",
+  "model": "glm-5.3"
+}

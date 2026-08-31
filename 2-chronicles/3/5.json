@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 3:5",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi ⟨את⟩ indlu enkulu wayifulela ngokhuni lwesipayisi, wayigubhela ngelogolide elihle, waza wafakela phezulu kwayo izithombe zegundwa namaketanga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Futhi ⟨את⟩",
+      "marks": "indlu enkulu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "enkulu"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "wayifulela"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ngokhuni"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "lwesipayisi"
+    },
+    {
+      "surface": "ויחפהו",
+      "gloss": "wayigubhela"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ngelogolide"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elihle"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wafakela phezulu"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kwayo"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "izithombe zegundwa"
+    },
+    {
+      "surface": "ושרשרות",
+      "gloss": "namaketanga"
+    }
+  ],
+  "timestamp": "2026-08-31T08:32:30.142639935Z",
+  "model": "glm-5.3"
+}

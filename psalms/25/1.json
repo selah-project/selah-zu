@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Ku-Davide. Kuwe, uYahwe, inefeshi yami ngiyayiphakamisa.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Ku-Davide"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Kuwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ngiyayiphakamisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:44.641521865Z",
+  "model": "glm-5.3"
+}

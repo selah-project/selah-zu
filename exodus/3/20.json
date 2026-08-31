@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 3:20",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngiyophumelelisa ⟨את⟩ isandla sami, ngishaye ⟨את⟩ iMitsrayim ngazo zonke izimangaliso zami engizenzayo phakathi kwayo; ngemva kwalokho uzokuthuma ⟨את⟩ nina.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ngiyophumelelisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sami"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "isandla sami"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ngishaye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iMitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngazo zonke"
+    },
+    {
+      "surface": "נפלאתי",
+      "gloss": "izimangaliso zami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "zenzayo"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "phakathi kwayo"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ngemva"
+    },
+    {
+      "surface": "כן",
+      "gloss": "walokho"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "uzokuthuma"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    }
+  ],
+  "timestamp": "2026-08-31T01:29:13.426163274Z",
+  "model": "glm-5.3"
+}

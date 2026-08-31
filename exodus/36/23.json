@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 36:23",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Wakha ⟨את⟩ izingqindi zendlini yesikhumbuzo: izingqindi ezingamashumi amabili enqabeni yesifunda saseNingizimu, ngaseningizimu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingqindi zendlini yesikhumbuzo"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "izingqindi"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "endlini yesikhumbuzo"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amashumi amabili"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "izingqindi"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "enqabeni yesifunda"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "saseNingizimu"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "ngaseningizimu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:46:13.501262509Z",
+  "model": "glm-5.3"
+}

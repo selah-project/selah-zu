@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 15:3",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "UDawidi wabutha ⟨את⟩ wonke uIsrayeli eYerushalayimi, ukwenyusa ⟨את⟩ i-arki kaYahwe endaweni yayo ayeyilungelisele yona.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "wabutha"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke uIsrayeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Yerushalayimi"
+    },
+    {
+      "surface": "להעלות",
+      "gloss": "ukwenyusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-arki kaYahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "i-arki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "ndaweni yayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "yilungelisele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yona"
+    }
+  ],
+  "timestamp": "2026-08-31T08:24:17.631824586Z",
+  "model": "glm-5.3"
+}

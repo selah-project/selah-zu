@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 24:9",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Inkonjana yafaka ⟨את⟩ isandla sayo ngaphansi kobende luka-Avraham inkosi yayo, yafungisa kuye ngalendaba.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "yafaka"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "inconanjana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sayo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sayo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi kwe-"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ubende"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "inkosi yayo"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "yafungisa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "על",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lendaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-08-31T01:11:58.838741745Z",
+  "model": "glm-5.3"
+}

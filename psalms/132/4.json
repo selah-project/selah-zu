@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 132,
+  "translation": "Uma nginganiki ubuthongo amehlo ami, ukududuza iziphaphamisi zamehlo ami,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "nginganiki"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ubuthongo"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "amehlo ami"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "iziphaphamisi zamehlo"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "ukududuza"
+    }
+  ],
+  "timestamp": "2026-08-31T08:55:06.098372625Z",
+  "model": "glm-5.3"
+}

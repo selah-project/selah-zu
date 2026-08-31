@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 136:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 136,
+  "translation": "Kuye owenza yedwa izimangaliso ezinkulu, ngokuba ikhesedi yakhe iyaphila kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "לעשה",
+      "gloss": "Kuye owenza"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "izimangaliso"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ezinkulu"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yedwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:29.114945157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 60,
+  "translation": "Uyinike abasoyikayo iphikele lokusakazwa ngenxa yeqiniso. Selah.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Uyinike"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "abasoyikayo"
+    },
+    {
+      "surface": "נס",
+      "gloss": "iphikele"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "lokusakazwa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa ye-"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "iqiniso"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:42.495297860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 12:28",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Bahamba, benza abantwana baka-Israyeli, njengalokho uYahwe awamyele ngakho uMoshe no-Aharon; benza njalo.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "bahamba"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "baka-Israyeli"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengalokho"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "awamyele ngakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "no-Aharon"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "benza"
+    }
+  ],
+  "timestamp": "2026-08-31T01:33:42.078772007Z",
+  "model": "glm-5.3"
+}

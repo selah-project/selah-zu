@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 22:1",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Kwasekuthi ngemva kwalokhu uElohim wahlola ⟨את⟩ u-Avraham, wathi kuye: u-Avraham; wathi: Ngiyakhona.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwasekuthi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ngemva"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "izinto"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "zalokhu"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "wahlola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ngiyakhona"
+    }
+  ],
+  "timestamp": "2026-08-31T05:55:21.588404115Z",
+  "model": "glm-5.3"
+}

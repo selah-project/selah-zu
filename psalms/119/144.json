@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 144,
+  "ref": "psalms 119:144",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ukulunga kwezifakazelo zakho kuyakuqaphela ingunaphakade; ngiqondise, ngiphile.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "ukulunga"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "izifakazelo zakho"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ingunaphakade"
+    },
+    {
+      "surface": "הבינני",
+      "gloss": "ngiqondise"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "ngiphile"
+    }
+  ],
+  "timestamp": "2026-08-31T10:56:40.200881817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 2:3",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Nithi kubafowenu “Ami,” futhi kosiswenu “Ruhamah.”",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "Nithi"
+    },
+    {
+      "surface": "לאחיכם",
+      "gloss": "kubafowenu"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ami"
+    },
+    {
+      "surface": "ולאחותיכם",
+      "gloss": "futhi kosiswenu"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruhamah"
+    }
+  ],
+  "timestamp": "2026-08-31T05:27:17.738513124Z",
+  "model": "glm-5.3"
+}

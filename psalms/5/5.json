@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Ngokuba awusiwo wena u-El othokozela ⟨ububi⟩; okubi akusohlala kuwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "othokozela"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "akusohlala kuwe"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:30:08.329387929Z",
+  "model": "glm-5.3"
+}

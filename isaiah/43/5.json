@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 43:5",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "Ungabi nesibindi, ngoba ⟨את⟩ nawe ngimi; ngasempumalanga ngizaletha izinkulungwane zakho, futhi ngasentshonalanga ngiyakhoqokelela.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "nesibindi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe",
+      "marks": "nawe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngimi"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ngasempumalanga"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ngizaletha"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "izinkulungwane zakho"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "futhi ngasentshonalanga"
+    },
+    {
+      "surface": "אקבצך",
+      "gloss": "ngiyakhoqokelela"
+    }
+  ],
+  "timestamp": "2026-08-31T04:29:26.637219642Z",
+  "model": "glm-5.3"
+}

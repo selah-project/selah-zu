@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 38:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "wathi: Ngiyabhidha uYahwe, khumbula ngingicela ukuthi ngihambile phambi kwakho ngeqiniso nangenhloko eqotho, futhi okuhle emehlweni akho ngikwenzile; uChizkiyahu wakhala nokukhala okukhulu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ngiyabhidha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "khumbula"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngingicela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuthi ngihambile phambi kwakwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "ngihambile"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ngeqiniso"
+    },
+    {
+      "surface": "ובלב",
+      "gloss": "nangenhloko"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "eqotho"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "futhi okuhle"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "emehlweni akho"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ngikwenzile"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "wakhala"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "uChizkiyahu"
+    },
+    {
+      "surface": "בכי",
+      "gloss": "ukukhala"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "okukhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:27:29.122595657Z",
+  "model": "glm-5.3"
+}

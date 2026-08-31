@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 10:11",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Cha, akunjalo; hambani ke nina amadoda, nikhonze ⟨את⟩ uYahwe, ngokuba yilokhu nina nikufunayo. Wabaxosha ⟨את⟩ ⟨bahamba⟩ ku⟨את⟩ busweni bukaParo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "כן",
+      "gloss": "akunjalo"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "hambani"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "nina amadoda"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "nikhonze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "nikufunayo"
+    },
+    {
+      "surface": "ויגרש",
+      "gloss": "wabaxosha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨bahamba⟩"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ku⟨את⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "busweni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "bukaParo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:31:40.951928210Z",
+  "model": "glm-5.3"
+}

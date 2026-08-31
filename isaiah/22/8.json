@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Wambula ⟨את⟩ isififingi sikaYehudha; ngalolo suku ubukele ezikhali zendlini yasehlathini.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "wambula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isififingi sikaYehudha"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "isififingi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sikaYehudha"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "ubukele"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalolo suku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "ezikhali"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlini"
+    },
+    {
+      "surface": "היער",
+      "gloss": "yasehlathini"
+    }
+  ],
+  "timestamp": "2026-08-31T04:21:55.884807394Z",
+  "model": "glm-5.3"
+}

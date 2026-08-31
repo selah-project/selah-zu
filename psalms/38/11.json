@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 38:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Inhliziyo yami iyakhuma; amandla ami angiyeke; futhi ukukhanya kwamehlo ami, nabo bona, awusizo ⟨את⟩ nami.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "Inhliziyo yami"
+    },
+    {
+      "surface": "סחרחר",
+      "gloss": "iyakhuma (iyaphaphazela)"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "angiyeke"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "amandla ami"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "futhi ukukhanya"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "kwamehlo ami"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nabo"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "אין",
+      "gloss": "awusizo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:46.340153818Z",
+  "model": "glm-5.3"
+}

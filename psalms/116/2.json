@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 116,
+  "translation": "Ngoba wakhlohla indlebe yakhe kumini, futhi ngisezinsukwini zami ngiyobiza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngoba"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "wakhlohla"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "indlebe yakhe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kumina"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "futhi ngisezinsukwini zami"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ngiyobiza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:39.519804418Z",
+  "model": "glm-5.3"
+}

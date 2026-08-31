@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "INkulunkulu-Adamu wazi ⟨את⟩ uKhwawa umkakhe, wakhulelwa, wazala ⟨את⟩ uKayini, wathi: ngitholile umuntu ⟨את⟩ uYahwe.",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "INkulunkulu-Adamu"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uKhwawa"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "uKhwawa"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umkakhe"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "wakhulelwa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uKayini"
+    },
+    {
+      "surface": "קין",
+      "gloss": "uKayini"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "ngitholile"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T11:43:26.635233753Z",
+  "model": "glm-5.3"
+}

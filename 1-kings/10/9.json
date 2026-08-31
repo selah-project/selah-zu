@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 10:9",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Makabe ngabusisekile uYahwe uElohim wakho, othabele kuwe ukukubeka esidlweni sikayisrayeli, ngokuthanda uYahwe ⟨את⟩ uYisrayeli kuze kube phakade, futhi wakubeka ukuba ube yinkosi ukwenza ukwahlulela nokulunga.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Makabe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ngabusisekile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "othabele — ongu-"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "othabele"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "לתתך",
+      "gloss": "ukukubeka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "esidlweni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sikayisrayeli"
+    },
+    {
+      "surface": "באהבת",
+      "gloss": "ngokuthanda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYisrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "וישימך",
+      "gloss": "futhi wakubeka"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ukuba ube yinkosi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ukwahlulela"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "nokulunga"
+    }
+  ],
+  "timestamp": "2026-08-31T03:52:50.726197042Z",
+  "model": "glm-5.3"
+}

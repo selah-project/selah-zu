@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 89:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Izandla zami lizomelela kuye, futhi ingalo yami izomqinisa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ידי",
+      "gloss": "izandla zami"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "lizomelela"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "אף",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "זרועי",
+      "gloss": "ingalo yami"
+    },
+    {
+      "surface": "תאמצנו",
+      "gloss": "izomqinisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:13.216057937Z",
+  "model": "glm-5.3"
+}

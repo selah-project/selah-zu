@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 12:33",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Labe iMitsrayim inikela umxhwele abantu, ihlakaniphile ukubashumayeza baphume emhlabeni ngokushesha; ngokuba bathi, Sife le thina sonke.",
+  "tokens": [
+    {
+      "surface": "ותחזק",
+      "gloss": "inikela umxhwele"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "ngokushesha"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "ukubashumayeza"
+    },
+    {
+      "surface": "מן",
+      "gloss": "phuma"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "thina sonke"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "sife le"
+    }
+  ],
+  "timestamp": "2026-08-31T01:32:53.962414386Z",
+  "model": "glm-5.3"
+}

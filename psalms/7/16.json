@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Umbobo awenze, wawukhokha, wawa kulo lona awenza.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "umbobo"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "awenze"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "wawukhokha"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "wawa"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "kulo lona"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "awenza"
+    }
+  ],
+  "timestamp": "2026-08-31T05:46:01.886302178Z",
+  "model": "glm-5.3"
+}

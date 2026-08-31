@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "uElohim wasesha: kube khona isibhakabhaka phakathi kwamanzi, futhi sihlukanise phakathi kamanzi namanzi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wasesha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "kube khona"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "isibhakabhaka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "futhi kube"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "sihlukanise"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "למים",
+      "gloss": "namanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:01:47.218947882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ngakho uYehu wabhubhisa ⟨את⟩ uBhali kuSirayeli.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "wabhubhisa"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "uYehu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uBhali"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "uBhali"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "kuSirayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T04:07:28.073161749Z",
+  "model": "glm-5.3"
+}

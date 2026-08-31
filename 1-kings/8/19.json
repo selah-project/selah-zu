@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 8:19",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Kodwa wena ngeke uwakhe ⟨isihloko⟩ indlu; kepha indodana yakho ekuphuma ezithambini zakho, yona iyo kwakha indlu igama lami.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "uwakhe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kepha"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "indodana yakho"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "ekuphuma"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "ezithambini zakho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "iyo kwakha"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "igama lami"
+    }
+  ],
+  "timestamp": "2026-08-31T03:53:05.850874023Z",
+  "model": "glm-5.3"
+}

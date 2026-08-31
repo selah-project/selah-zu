@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 88:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 88,
+  "translation": "Kepha mina kuwe, uYahwe, ngalikhala, ekuseni ithandazo yami izokuhlangana nawe.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kepha mina"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ngalikhala"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ithandazo yami"
+    },
+    {
+      "surface": "תקדמך",
+      "gloss": "izokuhlangana nawe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:27.778718699Z",
+  "model": "glm-5.3"
+}

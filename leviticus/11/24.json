@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi ngezilezi nizongcoliswa: noma ngubani othinta izidumbu zazo uzongcola kuze kuse kusihlwa.",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "futhi ngezilezi"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "nizongcoliswa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "noma ngubani"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "othinta"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "izidumbu zazo"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "uzongcola"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kuse"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "kusihlwa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:53:53.992819145Z",
+  "model": "glm-5.3"
+}

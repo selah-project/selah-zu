@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 6:3",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Omunye wathi: Singawuqaboleli-ke, uhambe ⟨את⟩ izinkosi zakho. Wathi: Ngiyohamba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "Omunye"
+    },
+    {
+      "surface": "הואל",
+      "gloss": "Singawuqaboleli"
+    },
+    {
+      "surface": "נא",
+      "gloss": "-ke"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "uhambe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinkosi zakho"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "izinkosi zakho"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ngi-"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ngiyohamba"
+    }
+  ],
+  "timestamp": "2026-08-31T04:05:10.335389003Z",
+  "model": "glm-5.3"
+}

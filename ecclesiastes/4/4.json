@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Ndabona mina ⟨את⟩ wonke umzabalazo kanye ⟨את⟩ nangempumelelo yonke yomsebenzi, ngoba yona yimbango yomuntu nomakhelwane wakhe; nakhu okungenalutho nokulimala komoya.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "Ndabona"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke umzabalazo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "umzabalazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kanye ⟨את⟩",
+      "marks": "impumelelo yonke yomsebenzi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ngekonke"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "impumelelo"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "yomsebenzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "yimbango"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yomuntu"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "nomakhelwane wakhe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nakho"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "okungenalutho"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "futhi ukulimala"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "komoya"
+    }
+  ],
+  "timestamp": "2026-08-31T07:45:48.531471395Z",
+  "model": "glm-5.3"
+}

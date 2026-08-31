@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 23:1",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Umthwalo weTsori. Zinyezeleni, izikhuni zaseTarshishi, ngokuthi laphazanyiswe ⟨indlu⟩, ingenalango; kusuka ezweni laseKittim kwembulwa kubo.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Umthwalo"
+    },
+    {
+      "surface": "צר",
+      "gloss": "weTsori"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "Zinyezeleni"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "izikhuni"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "zaseTarshishi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "laphazanyiswe"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "⟨indlu⟩"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ingalango"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kusuka ezweni"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "laseKittim"
+    },
+    {
+      "surface": "נגלה",
+      "gloss": "kwembulwa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kubo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:24:22.130945702Z",
+  "model": "glm-5.3"
+}

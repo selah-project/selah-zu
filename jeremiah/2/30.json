@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 2:30",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ngizeswe ngibethe ⟨את⟩ owanabenu; isiyalo alabamukeli; inkemba yenu idlile abaprofethi benu, njengengonyama eyonakalisayo.",
+  "tokens": [
+    {
+      "surface": "לשוא",
+      "gloss": "ngizeswe"
+    },
+    {
+      "surface": "הכיתי",
+      "gloss": "ngibethe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "owanabenu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "owanabenu"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "isiyalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "alabamukeli"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "idlile"
+    },
+    {
+      "surface": "חרבכם",
+      "gloss": "inkemba yenu"
+    },
+    {
+      "surface": "נביאיכם",
+      "gloss": "abaprofethi benu"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "njengengonyama"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "eyonakalisayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:08:49.876003354Z",
+  "model": "glm-5.3"
+}

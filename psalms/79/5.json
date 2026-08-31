@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 79,
+  "translation": "Kuze kuqale nini, uYahwe? Uzothukuthela kuze kube phakade? Ubukhoheli bakho buzatshisa njengomlilo.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kuze kuqale nini"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "uzothukuthela"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "buzatshisa"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "ubukhoheli bakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:53.788854675Z",
+  "model": "glm-5.3"
+}

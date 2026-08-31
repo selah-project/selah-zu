@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 149,
+  "ref": "psalms 119:149",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Izwi lami lilalele ngekheseledi yakho, uYahwe; ngokomthetho wakho ungiphe ukuphila.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "izwi lami"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "lilalele"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "ngekheseledi yakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כמשפטך",
+      "gloss": "ngokomthetho wakho"
+    },
+    {
+      "surface": "חיני",
+      "gloss": "ungiphe ukuphila"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:58.360046359Z",
+  "model": "glm-5.3"
+}

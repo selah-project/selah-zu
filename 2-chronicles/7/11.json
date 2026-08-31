@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 7:11",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ushelomohi wafeza ⟨את⟩ indlu kaYahwe no-⟨את⟩ indlu yenkosi, no-⟨את⟩ konke okwafika enhliziyweni kashelomohi ukukwenza endlini kaYahwe nasendlini yakhe — waphumelela.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "wafeza"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Ushelomohi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu kaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "indlu yenkosi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yenkosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "okwafika"
+    },
+    {
+      "surface": "על",
+      "gloss": "enhliziyweni"
+    },
+    {
+      "surface": "לב",
+      "gloss": "enhliziyweni"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "kashelomohi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukukwenza"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ובביתו",
+      "gloss": "nasendlini yakhe"
+    },
+    {
+      "surface": "הצליח",
+      "gloss": "waphumelela"
+    }
+  ],
+  "timestamp": "2026-08-31T08:33:20.200718861Z",
+  "model": "glm-5.3"
+}

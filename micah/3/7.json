@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "micah 3:7",
+  "book": "micah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi ababonayo bayoziswa intshonalwezi, labaholelayo bayodideka; bonke bayofihla umlomo wabo ngaphezulu, ngoba akukho mpendulo ka-Elohim.",
+  "tokens": [
+    {
+      "surface": "ובשו",
+      "gloss": "bayoziswa intshonalwezi"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "ababonayo"
+    },
+    {
+      "surface": "וחפרו",
+      "gloss": "bayodideka labaholelayo"
+    },
+    {
+      "surface": "הקסמים",
+      "gloss": "labaholelayo"
+    },
+    {
+      "surface": "ועטו",
+      "gloss": "bayofihla"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezulu"
+    },
+    {
+      "surface": "שפם",
+      "gloss": "umlomo wabo (isibebe)"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "mpendulo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ka-Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T05:35:55.673119453Z",
+  "model": "glm-5.3"
+}

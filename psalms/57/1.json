@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 57:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 57,
+  "translation": "Kumqondisi wezinkomo zomculo. Ungabhubhisi. Ipsalim kaDavide, umkhithamo, ekubalekeni kwakhe ebunzimeni bukaShawuli, emhumeni.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi wezinkomo zomculo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ungabi"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "bhubhisi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "umkhithamo"
+    },
+    {
+      "surface": "בברחו",
+      "gloss": "ekubalekeni kwakhe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ebunzimeni buka-"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Shawuli"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "emhumeni"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:53.610111692Z",
+  "model": "glm-5.3"
+}

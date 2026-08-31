@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 16:3",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Ubize uYishayi emhlatshelweni, futhi mina ngizokwazisa ⟨את⟩ okuzakwenza, ugcobile kuwo ⟨את⟩ lowo engizomkhuluma nawe.",
+  "tokens": [
+    {
+      "surface": "וקראת",
+      "gloss": "ubize"
+    },
+    {
+      "surface": "לישי",
+      "gloss": "uYishayi"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "emhlatshelweni"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "futhi mina"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "ngizokwazisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okuzakwenza"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okuzakwenza"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "ugcobile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lowo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "engizomkhuluma"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nawe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:22:24.453595342Z",
+  "model": "glm-5.3"
+}

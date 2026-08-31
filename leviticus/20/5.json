@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 20:5",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Ngiyobe ngibeka mina ⟨את⟩ ubuso lomuntu lowo nangomndeni wakhe, futhi ngiyomqamba (ngimsume) ⟨את⟩ yena ⟨את⟩ naboke abazidayisa ngaye, ukuzidayisa ngemuva kukaMoleki, phakathi kwabantu babo.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "ngiyobe ngibeka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "lomuntu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "ובמשפחתו",
+      "gloss": "nangomndeni wakhe"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "futhi ngiyomqamba (ngimsume)"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "הזנים",
+      "gloss": "abazidayisa"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ngaye"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "ukuzidayisa"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ngemuva kuka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Moleki"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "phakathi kwa"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "abantu babo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:01:42.447069629Z",
+  "model": "glm-5.3"
+}

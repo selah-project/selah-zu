@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 102:23",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 102,
+  "translation": "Ekutheni izizwe ziqoqana ndawonye, nemibuso, ukukhonza ⟨את⟩ uYahwe.",
+  "tokens": [
+    {
+      "surface": "בהקבץ",
+      "gloss": "ekutheni ziqoqana"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "וממלכות",
+      "gloss": "nemibuso"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ukukhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:04.827627929Z",
+  "model": "glm-5.3"
+}

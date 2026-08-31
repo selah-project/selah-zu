@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 6:2",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Indlu eyakhwe inkosi uShelomohi kuYahwe: ubude bayo babungamakhumi ayisithupha amakhubhu, ububazi namashumi amabili, ukuphakama namakhumi amathathu amakhubhu.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "Indlu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eyakhwe"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "yakhwe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomohi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "amakhumi ayisithupha"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amakhubhu"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ubude bayo"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "namashumi amabili"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ububazi"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "namakhumi amathathu"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amakhubhu"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ukuphakama"
+    }
+  ],
+  "timestamp": "2026-08-31T03:49:20.985485846Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 22:2",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Kwathi ngonyaka wesithathu wehla uYehoshafati, inkosi yaseYehuda, eya enkoseni yaseIsrayeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ngonyaka"
+    },
+    {
+      "surface": "השלישית",
+      "gloss": "wesithathu"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "wehla"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "uYehoshafati"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yaseYehuda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eya ku"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "enkoseni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yaseIsrayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T04:03:05.067409761Z",
+  "model": "glm-5.3"
+}

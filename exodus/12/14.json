@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 12:14",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi leli suku lizoba ukukhumbula kunina; nizolibamba njengesikhunjana kuYahwe, kuzozukulwane zenu — isimiso sekuhle nizolinganisa njengesikhunjana phakade.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "futhi lizoba"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leli suku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kunina"
+    },
+    {
+      "surface": "לזכרון",
+      "gloss": "ukukhumbula"
+    },
+    {
+      "surface": "וחגתם",
+      "gloss": "nizolibamba njengesikhunjana"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isikhunjana"
+    },
+    {
+      "surface": "חג",
+      "gloss": "isikhunjana"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "kuzozukulwane zenu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "isimiso"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "תחגהו",
+      "gloss": "nizolinganisa njengesikhunjana"
+    }
+  ],
+  "timestamp": "2026-08-31T01:33:29.597457910Z",
+  "model": "glm-5.3"
+}

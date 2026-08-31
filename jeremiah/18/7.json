@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 18:7",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Ngesikhashana ngiyokhuluma ngelizwe nangombuso, ukuzikhipha nokudiliza nokubhubhisa;",
+  "tokens": [
+    {
+      "surface": "רגע",
+      "gloss": "ngesikhashana"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ngiyokhuluma"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "lizwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nange-"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "umbuso"
+    },
+    {
+      "surface": "לנתוש",
+      "gloss": "ukuzikhipha"
+    },
+    {
+      "surface": "ולנתוץ",
+      "gloss": "nokudiliza"
+    },
+    {
+      "surface": "ולהאביד",
+      "gloss": "nokubhubhisa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:47:13.712440070Z",
+  "model": "glm-5.3"
+}

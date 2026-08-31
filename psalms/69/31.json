@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 69:31",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Ngiyodumisa igama lika-Elohim ngeculo, futhi ngiyomkhulisa ngobulungisa obuhle.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "ngiyodumisa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lika-uElohim"
+    },
+    {
+      "surface": "בשיר",
+      "gloss": "ngeculo"
+    },
+    {
+      "surface": "ואגדלנו",
+      "gloss": "futhi ngiyomkhulisa"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ngokubulisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:04.312175126Z",
+  "model": "glm-5.3"
+}

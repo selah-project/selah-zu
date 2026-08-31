@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "u-Kenani waphila iminyaka engama-70, wazala ⟨את⟩ u-Mahalaleli;",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "waphila"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "u-Kenani"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ama-70"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Mahalaleli"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "u-Mahalaleli"
+    }
+  ],
+  "timestamp": "2026-08-31T01:01:55.628573819Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 16:22",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Basesibenisela u-Absalomi itenti phezulu kophahla lwendlu, yena u-Absalomi wangena kwingodlo zikayihlo phambi kwamehlo onke u-Israeli.",
+  "tokens": [
+    {
+      "surface": "ויטו",
+      "gloss": "basesibenisela"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "u-Absalomi"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "itenti"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "kophahla lwendlu"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "u-Absalomi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "פלגשי",
+      "gloss": "izingodlo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zikayihlo"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "phambi kwamehlo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israeli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:39:29.884293443Z",
+  "model": "glm-5.3"
+}

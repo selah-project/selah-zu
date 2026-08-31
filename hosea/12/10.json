@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 12:10",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi mina nginguYahwe uElohim wakho kusukela ezweni laseMitsrayim; futhi ngizokubuyisela ematendeni, njengensuku zesikhathi esinqunyiwe.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Futhi mina ngingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kusukela ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "אושיבך",
+      "gloss": "ngizokubuyisela"
+    },
+    {
+      "surface": "באהלים",
+      "gloss": "ematendeni"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "njengensuku"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "zesikhathi esinqunyiwe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:28:36.376174565Z",
+  "model": "glm-5.3"
+}

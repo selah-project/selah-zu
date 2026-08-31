@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 77:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 77,
+  "translation": "Wakhulula ngesandla sabantu bakho, abantwana bakaYakobu noYosefu. Selah.",
+  "tokens": [
+    {
+      "surface": "גאלת",
+      "gloss": "Wakhulula"
+    },
+    {
+      "surface": "בזרוע",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana baka-"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yakobu"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "noYosefu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:33.028252038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "uYahwe uElohim wenu ⟨את⟩ wanininingiza, futhi nanku namanja ninjengenkanyezi zezulu ngenani elikhulu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "wanininingiza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nini"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "futhi nanku"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namanja"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "ninjengenkanyezi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "zezulu"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ngenani elikhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:29:43.631860079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Futhi angeke nifunge ngegama lami ngamanga, uze ungazidlabululi ⟨את⟩ igama lika-Elohim wakho; nginguYahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "futhi angeke"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "nifunge"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "ngegama lami"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "ngamanga"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "uze ungazidlabululi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "lika-Elohim wakho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nginguYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:59:17.971282146Z",
+  "model": "glm-5.3"
+}

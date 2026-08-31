@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Nina niyazi ukuthi ngawo wonke amandla ami ngikhonzile ⟨את⟩ uyihlo lenu.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Nina"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "niyazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngawo wonke"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "amandla ami"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "ngikhonzile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyihlo lenu"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "uyihlo lenu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:16:42.289944330Z",
+  "model": "glm-5.3"
+}

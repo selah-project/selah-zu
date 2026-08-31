@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Ngiyadumisa mina ⟨את⟩ abafileyo abasesele kudala ngaphezu kwabaphilayo abasaphila kuze kube manje.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "Ngiyadumisa"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abafileyo"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "abafileyo"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "abasesele kudala"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "bafa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngaphezu"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "kwabaphilayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "baphila"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "kuze kube manje"
+    }
+  ],
+  "timestamp": "2026-08-31T07:45:48.531121672Z",
+  "model": "glm-5.3"
+}

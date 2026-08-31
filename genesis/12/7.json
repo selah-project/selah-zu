@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 12:7",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "uYahwe wabonakala ku-Avraham wathi: Kuzukwana kwakho ngizonikeza ⟨את⟩ leli zwe. Yakhona isibingelelo esingcwele simbelele kuYahwe obonakalaye kuyena.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wabonakala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לזרעך",
+      "gloss": "kuzukwana kwakho"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ngizonikeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leli zwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leli zwe"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "leli"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "yakhona"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "isibingelelo esingcwele"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "הנראה",
+      "gloss": "obonakalaye"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuyena"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:59.690974390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 32:23",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Wavuka ebusuku lobo, wathatha ⟨את⟩ abafazi bakhe ababili no⟨את⟩ izigqili zakhe ezimbili no⟨את⟩ izingane zakhe ezishumi nanye, wadlula ⟨את⟩ umgwaqo wokudlula weYabboqi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wavuka"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lobo"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abafazi bakhe ababili"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ababili"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "abafazi bakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "izigqili zakhe ezimbili"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "שפחתיו",
+      "gloss": "izigqili zakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "izingane zakhe ezishumi nanye"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nanye"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ezishumi"
+    },
+    {
+      "surface": "ילדיו",
+      "gloss": "izingane zakhe"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "wadlula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umgwaqo wokudlula weYabboqi"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "umgwaqo wokudlula"
+    },
+    {
+      "surface": "יבק",
+      "gloss": "weYabboqi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:16:19.407445270Z",
+  "model": "glm-5.3"
+}

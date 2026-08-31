@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Wayesephendula uEli wathi kuyona: Uzoselwa kuze kwaba nini? Susa ⟨את⟩ iwayini lakho kuwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesephendula wathi"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuyona"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "uEli"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "kwaba nini"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "uzoselwa"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "susa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwayini lakho"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "iwayini lakho"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:13:59.926000465Z",
+  "model": "glm-5.3"
+}

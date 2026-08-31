@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi ⟨את⟩ ikimbuzi izobuyisela izikhathi ezine, ngokuba wenza ⟨את⟩ leyo nto, futhi ngalokho angazinakanga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "ikimbuzi"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "ikimbuzi"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "izobuyisela"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "izikhathi ezine"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwenzekile"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leyo nto"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "leyo nto"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi ngalokho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwenzekile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angazi-"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "-nake"
+    }
+  ],
+  "timestamp": "2026-08-31T03:37:53.835544989Z",
+  "model": "glm-5.3"
+}

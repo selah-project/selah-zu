@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 44:20",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Ulidla uthuli; inhliziyo ekhohlisiwe imhambisile, futhi akasindisi ⟨את⟩ umphefumulo wakhe, futhi akasho: Ingaba akunami yini esandleni sami sokudla?",
+  "tokens": [
+    {
+      "surface": "רעה",
+      "gloss": "ulidla"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "uthuli"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "הותל",
+      "gloss": "ekhohlisiwe"
+    },
+    {
+      "surface": "הטהו",
+      "gloss": "imhambisile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi aka-"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "sindisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umphefumulo wakhe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "umphefumulo wakhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi aka-"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "sho"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ingaba akunami"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "amanga"
+    },
+    {
+      "surface": "בימיני",
+      "gloss": "esandleni sami sokudla"
+    }
+  ],
+  "timestamp": "2026-08-31T04:32:15.466599864Z",
+  "model": "glm-5.3"
+}

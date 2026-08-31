@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "uKhamori uyise kaShekhem waphuma waya kuYaakov ukukhuluma ⟨את⟩ naye.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "uKhamori"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "kaShekhem"
+    },
+    {
+      "surface": "אל",
+      "gloss": "waya ku"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakov"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ukukhuluma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    }
+  ],
+  "timestamp": "2026-08-31T01:18:28.218969135Z",
+  "model": "glm-5.3"
+}

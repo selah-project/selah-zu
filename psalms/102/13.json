@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 102:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 102,
+  "translation": "Kepha wena, uYahwe, uhlala kuze kube phakade, nokukhumbula kwako kuzosala kwezizukulwana ezilandelayo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kepha wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "uhlala"
+    },
+    {
+      "surface": "וזכרך",
+      "gloss": "nokukhumbula kwako"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwezizukulwana"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nezizukulwana"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:37.323705591Z",
+  "model": "glm-5.3"
+}

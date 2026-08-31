@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 107:28",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Bakhala kuYahwe ekujuleni kobunzima babo, futhi wabakhishula kumonakalo wabo.",
+  "tokens": [
+    {
+      "surface": "ויצעקו",
+      "gloss": "bakhala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ekujuleni kobunzima"
+    },
+    {
+      "surface": "להם",
+      "gloss": "babo"
+    },
+    {
+      "surface": "וממצוקתיהם",
+      "gloss": "futhi kumonakalo wabo"
+    },
+    {
+      "surface": "יוציאם",
+      "gloss": "wabakhishula"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:02.266507429Z",
+  "model": "glm-5.3"
+}

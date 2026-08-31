@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 46:20",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 46,
+  "translation": "Kuze kwazalelwa uYosefu, elizweni leMitsrayim, uMenashe no-Efrayim, abaZalenelayo uAsenati, indodakazi kaPoti-fera, umlungisi wezinkomba e-Oni.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "kuje kwazalelwa"
+    },
+    {
+      "surface": "ליוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "elizweneni le-"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "abaZalenelayo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uye"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "uAsenati"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi ka-"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "kaPoti-"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "-fera"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "umlungisi wezinkomba"
+    },
+    {
+      "surface": "אן",
+      "gloss": "e-Oni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMenashe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "uMenashe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Efrayim"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "u-Efrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:23:34.318749847Z",
+  "model": "glm-5.3"
+}

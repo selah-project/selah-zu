@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Bathi kuyena: Cha, u-Adonayi wethu; izinceku zakho zizile ukuthenga ukudla.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Bathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Cha"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi wethu"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "izinceku zakho"
+    },
+    {
+      "surface": "באו",
+      "gloss": "zizile"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ukuthenga"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ukudla"
+    }
+  ],
+  "timestamp": "2026-08-31T01:21:49.783450651Z",
+  "model": "glm-5.3"
+}

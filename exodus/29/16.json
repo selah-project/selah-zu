@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 29:16",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Futhi uzobulala ⟨את⟩ ihunu, uzothatha ⟨את⟩ igazi lalo, uzosela-phalaza phezu kwe-altare ezungezile.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "uzobulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ihunu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ihunu"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "uzothatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igazi lalo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "igazi lalo"
+    },
+    {
+      "surface": "וזרקת",
+      "gloss": "uzosela-phalaza"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kwe-altare"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ezungezile"
+    }
+  ],
+  "timestamp": "2026-08-31T01:41:26.125590213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 14:8",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Uyehonatan waseboleka wathi: Bheka, thina siyavela kubantu laba, siveza ubuso bethu kubona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "waseboleka"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Uyehonatan"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "siyavela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "bantu laba"
+    },
+    {
+      "surface": "ונגלינו",
+      "gloss": "siveza ubuso bethu"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubona"
+    }
+  ],
+  "timestamp": "2026-08-31T03:20:14.402219596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 24:10",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "UDavide wasesetha kuShawuli: Kungani ulalela ⟨את⟩ izwi zomuntu, ukuthi: Bheka, uDavide ufuna okungalungile kuwe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wasesetha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kuShawuli"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ulalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi zomuntu"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "zomuntu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ufuna"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "okungalungile kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:27:15.280787822Z",
+  "model": "glm-5.3"
+}

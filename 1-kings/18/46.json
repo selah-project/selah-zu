@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 18:46",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Isandla likaYahwe lalili⟨khona⟩ ku-Eliya; wabophela izinsongo zakhe, wagijima phambi kuka-Ahabi kwaze kwafika ekungenweni kwe-Yizreeli.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "lalili"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "u-Eliya"
+    },
+    {
+      "surface": "וישנס",
+      "gloss": "wabophela"
+    },
+    {
+      "surface": "מתניו",
+      "gloss": "izinsongo zakhe"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "wagijima"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "u-Ahabi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwaze kwafika"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "ekungenweni"
+    },
+    {
+      "surface": "יזרעאלה",
+      "gloss": "kwe-Yizreeli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:59:42.355060894Z",
+  "model": "glm-5.3"
+}

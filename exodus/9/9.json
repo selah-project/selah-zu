@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 9:9",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Futhi kuzokuba yithubazi ephezu komhlaba wonke weMitsrayim, futhi kuzokuba entombeni nephezu kwezilwane ukuvuvukala okuqhakazayo amathumba, kuwo wonke umhlaba weMitsrayim.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "futhi kuzokuba"
+    },
+    {
+      "surface": "לאבק",
+      "gloss": "yithubazi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ephezu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weMitsrayim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "futhi kuzokuba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ephezu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "entombeni"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nephezu"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ezilwaneni"
+    },
+    {
+      "surface": "לשחין",
+      "gloss": "ukuvuvukala"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "okuqhakazayo"
+    },
+    {
+      "surface": "אבעבעת",
+      "gloss": "amathumba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuwo wonke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:08.691658845Z",
+  "model": "glm-5.3"
+}

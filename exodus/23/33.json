@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 23:33",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Abayekuhlala ezweni lakho, ukuze bengakwenza usone ⟨את⟩ wena kuMina, ngoba uzokhonza ⟨את⟩ onkulunkulu babo, ngoba ⟨kuzoba⟩ yisivinini kuwe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bayekuhlala"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ezweni lakho"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ukuze bengakwenza"
+    },
+    {
+      "surface": "יחטיאו",
+      "gloss": "usone"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kuMina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "uzokhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onkulunkulu babo"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "onkulunkulu babo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuzaba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "yisivinini"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:39.494748389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 37:16",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "uYahwe wemikhosi, uElohim ka-Israel, ohlala phakathi kwamakherubi, wena ⟨ungu⟩-yedwa uElohim, wena wedwa, wazo zonke izinkosi zomhlaba; wena wenza ⟨את⟩ amazulu ⟨את⟩ nomhlaba.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wemikhosi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israel"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ohlala"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "phakathi kwamakherubi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yedwa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "wena wedwa"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "wazo zonke"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "izinkosi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zomhlaba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazulu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nomhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "nomhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T10:24:55.319105637Z",
+  "model": "glm-5.3"
+}

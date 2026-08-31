@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "⟨את⟩ No-Hadoramu ⟨את⟩ no-Uzali ⟨את⟩ no-Diklahi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "no-Hadoramu"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "no-Hadoramu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "no-Uzali"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "no-Uzali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "no-Diklahi"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "no-Diklahi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:15.361992078Z",
+  "model": "glm-5.3"
+}

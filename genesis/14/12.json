@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Bathatha ⟨את⟩ uLoti na-⟨את⟩ impahla yakhe, indodana yomfowabo ka-Avrahami, bese behamba; yena wayehlala eSodoma.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "bathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uLoti"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "uLoti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na-⟨את⟩",
+      "marks": "impahla yakhe"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "impahla yakhe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "yomfowabo"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ka-Avrahami"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "bese behamba"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wayehlala"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "eSodoma"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:47.803490789Z",
+  "model": "glm-5.3"
+}

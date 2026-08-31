@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 6:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Kumqondisi, ngezinkindo, esigabeni sesishiyagalombili; ingoma kaDavid.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "ngezinkindo"
+    },
+    {
+      "surface": "על",
+      "gloss": "esigabeni"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "sesishiyagalombili"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ingoma"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavid"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:45.571609705Z",
+  "model": "glm-5.3"
+}

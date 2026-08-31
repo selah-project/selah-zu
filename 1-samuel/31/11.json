@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 31:11",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Base bezwa ngaye abahlali beYabheshi aseGileyadi ⟨את⟩ lokhu okwenzile iziFilisti kukaShawuli.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "base bezwa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ngaye"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "beYabheshi"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "aseGileyadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokhu okwenzile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokhu okwenzile"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bakwenzile"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "iziFilisti"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kukaShawuli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:32:02.739261212Z",
+  "model": "glm-5.3"
+}

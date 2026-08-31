@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 15:17",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "U-Baasha inkosi yesiRayeli wavukela eYuda, walakha iRama ⟨את⟩ ukuze ungabi ⟨⟨ndawo⟩⟩ yokuphuma nokungena okuyokwu-Asa inkosi yeYuda.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wavukela"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "u-Baasha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yesiRayeli"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwa-"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "eYuda"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "walakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iRama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "iRama"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ukuze ungabi"
+    },
+    {
+      "surface": "תת",
+      "gloss": "⟨ndawo⟩ yokunika"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ukuphuma"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "nokungena"
+    },
+    {
+      "surface": "לאסא",
+      "gloss": "okuyokwu-Asa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yeYuda"
+    }
+  ],
+  "timestamp": "2026-08-31T03:58:43.891633462Z",
+  "model": "glm-5.3"
+}

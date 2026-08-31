@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 17:4",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Kuzoba ngile: umthuze lowo uzophuza, ⟨את⟩ izinkongoni ngizibizile ukuba zikudle lapho.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Kuzoba"
+    },
+    {
+      "surface": "מהנחל",
+      "gloss": "umthuze lowo"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "uzophuza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izinkongoni"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "izinkongoni"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ngizibizile"
+    },
+    {
+      "surface": "לכלכלך",
+      "gloss": "ukuba zikudle"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    }
+  ],
+  "timestamp": "2026-08-31T03:59:09.552955533Z",
+  "model": "glm-5.3"
+}

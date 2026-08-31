@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 88:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 88,
+  "translation": "Isicelo sami singangena phambi kwakho; thoba indlebe yakho ekhalweni lami.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "singangena"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "isicelo sami"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "thoba"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "indlebe yakho"
+    },
+    {
+      "surface": "לרנתי",
+      "gloss": "ekhaleni lami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:54.705583837Z",
+  "model": "glm-5.3"
+}

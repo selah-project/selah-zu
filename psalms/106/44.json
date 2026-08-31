@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Wayabona ubunzima babo, esezwa ⟨את⟩ ukukhala kwabo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wayabona"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ubunzima"
+    },
+    {
+      "surface": "להם",
+      "gloss": "babo"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "esezwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukukhala kwabo"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "ukukhala kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:23.790689073Z",
+  "model": "glm-5.3"
+}

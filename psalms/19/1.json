@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Kumqondisi ingoma. Umculo kaDavide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi ingoma"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Umculo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T08:51:48.736338344Z",
+  "model": "glm-5.3"
+}

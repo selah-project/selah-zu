@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 2:2",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Bathi abafana besiggwati, abakhonzelayo: makudingwe kumesiggwati izintombi ezintulu, ezinhle ubuso.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "abafana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "besiggwati"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "abakhonzelayo"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "makudingwe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kumesiggwati"
+    },
+    {
+      "surface": "נערות",
+      "gloss": "izintombi"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "ezintulu"
+    },
+    {
+      "surface": "טובות",
+      "gloss": "ezinhle"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ubuso"
+    }
+  ],
+  "timestamp": "2026-08-31T07:52:24.263732395Z",
+  "model": "glm-5.3"
+}

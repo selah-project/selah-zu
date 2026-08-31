@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 10:2",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Inhliziyo yabo ihlukene; manizakwaba yonile; yena uzophahlazula ama-altari abo, uzobhidliza imitshe yabo emile.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "ihlukene"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "inhliziyo yabo"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "mani"
+    },
+    {
+      "surface": "יאשמו",
+      "gloss": "zakwaba yonile"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יערף",
+      "gloss": "uzophahlazula"
+    },
+    {
+      "surface": "מזבחותם",
+      "gloss": "ama-altari abo"
+    },
+    {
+      "surface": "ישדד",
+      "gloss": "uzobhidliza"
+    },
+    {
+      "surface": "מצבותם",
+      "gloss": "imitshe yabo emile"
+    }
+  ],
+  "timestamp": "2026-08-31T05:30:03.173799088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 8:21",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "UParo wabiza uMoshe no-Aharoni, wathi: Hambani, nibhalela uElohim benu ezweni.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ולאהרן",
+      "gloss": "no-Aharoni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Hambani"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "nibhalela"
+    },
+    {
+      "surface": "לאלהיכם",
+      "gloss": "uElohim benu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:28.376231490Z",
+  "model": "glm-5.3"
+}

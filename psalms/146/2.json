@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 146:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 146,
+  "translation": "Ngingisaphila ngidumisa uYahwe; ngiculela u-Elohim wami ngingakabi nalutho.",
+  "tokens": [
+    {
+      "surface": "אהללה",
+      "gloss": "ngidumisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בחיי",
+      "gloss": "ngingisaphila"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ngiculela"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "u-Elohim wami"
+    },
+    {
+      "surface": "בעודי",
+      "gloss": "ngingakabi nalutho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:52.450478736Z",
+  "model": "glm-5.3"
+}

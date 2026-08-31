@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 9:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "uYahwe waziwa ngokwenza umthetho wokwahlulela; owenza okubi uvinjwe ngisebenzi yezandla zakhe. Higayoni. Selahi.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "waziwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "umthetho wokwahlulela"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ngokwenza"
+    },
+    {
+      "surface": "בפעל",
+      "gloss": "ngisebenzi"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "yezandla zakhe"
+    },
+    {
+      "surface": "נוקש",
+      "gloss": "uvinjwe"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "owenza okubi"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "Higayoni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:25.546383555Z",
+  "model": "glm-5.3"
+}

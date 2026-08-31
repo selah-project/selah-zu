@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 2:11",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi abantwana bakwaIsrayeli benza ⟨את⟩ okubi emehlweni kaYahwe, baze bakhonza ⟨את⟩ amaBhahali.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaIsrayeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okubi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "baze bakhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaBhahali"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "amaBhahali"
+    }
+  ],
+  "timestamp": "2026-08-31T03:00:36.132555142Z",
+  "model": "glm-5.3"
+}

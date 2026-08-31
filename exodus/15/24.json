@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Abantu banxusa kuMoshe ⟨bathi⟩: “Sizuphuza ini?”",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "banxusa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "sizuphuza"
+    }
+  ],
+  "timestamp": "2026-08-31T05:57:05.006867281Z",
+  "model": "glm-5.3"
+}

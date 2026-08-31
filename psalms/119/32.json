@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 119:32",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Indlela yemiyalo yakho ngiyogijima, ngoba uwakhulula ⟨ikhanda⟩ lami.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "yemiyalo yakho"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "ngiyogijima"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "תרחיב",
+      "gloss": "uwakhulula"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "⟨ikhanda⟩ lami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:20.723139622Z",
+  "model": "glm-5.3"
+}

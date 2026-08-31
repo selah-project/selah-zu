@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 3:27",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Inkosi yaphendula yathi: Ninikele kuyena ⟨את⟩ ingane ephilayo, ningambulali — yena unina.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "yaphendula"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "ninikele"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingane ephilayo"
+    },
+    {
+      "surface": "הילוד",
+      "gloss": "ingane"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ephilayo"
+    },
+    {
+      "surface": "והמת",
+      "gloss": "ningambulali"
+    },
+    {
+      "surface": "לא",
+      "gloss": "mosha"
+    },
+    {
+      "surface": "תמיתהו",
+      "gloss": "mosha ningambulali"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "unina"
+    }
+  ],
+  "timestamp": "2026-08-31T03:48:17.897678984Z",
+  "model": "glm-5.3"
+}

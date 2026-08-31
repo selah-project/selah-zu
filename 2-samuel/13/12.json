@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 13:12",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Wathi kuyena: Cha, mfowethu, ungangihluphi, ngoba akwenzwa njalo kwa-Israel; ungayenzi ⟨את⟩ lenkohlakalo.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "cha\/ungi-"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "mfowethu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungangi-"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "hluphi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akwa-"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kwenzwa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kwa-Israel"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungayi-"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "nzenzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkohlakalo"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "inkohlakalo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le-"
+    }
+  ],
+  "timestamp": "2026-08-31T03:37:03.855604934Z",
+  "model": "glm-5.3"
+}

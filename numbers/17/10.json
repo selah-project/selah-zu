@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 17:10",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Sukani phakathi kwezinhlanga lezi, ukuze ngizibadle ⟨את⟩ ngokushesha. Bacisha bawa obuso.",
+  "tokens": [
+    {
+      "surface": "הרמו",
+      "gloss": "Sukani"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "phakathi kw"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "izinhlanga"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "ngizibadle"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ngokushesha"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "ngokushesha"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "bawa"
+    },
+    {
+      "surface": "על",
+      "gloss": "obuso"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "obuso"
+    }
+  ],
+  "timestamp": "2026-08-31T02:18:09.171597342Z",
+  "model": "glm-5.3"
+}

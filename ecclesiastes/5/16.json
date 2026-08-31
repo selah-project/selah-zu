@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Futhi zonke izinsuku zakhe uzidla ebumnyameni, nokucasuka okuningi, nokugula kwakhe nokunikina.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Futhi nakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "izinsuku zakhe"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ebumnyameni"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "uzidla"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "nokucasuka"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "okuningi"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "nokugula kwakhe"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "nokunikina (ukucasuka)"
+    }
+  ],
+  "timestamp": "2026-08-31T07:46:49.162844701Z",
+  "model": "glm-5.3"
+}

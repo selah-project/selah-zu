@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 22:21",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Ngikhulume nawe ekuzolaneni kwakho, wena uthe angezwa; le ⟨yindela⟩ yakho kusukela ebuseni bakho, ngoba awuzwanga izwi lami.",
+  "tokens": [
+    {
+      "surface": "דברתי",
+      "gloss": "Ngikhulume nawe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "בשלותיך",
+      "gloss": "ekuzolaneni kwakho"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "wena uthi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "angezwa"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "indlela yakho"
+    },
+    {
+      "surface": "מנעוריך",
+      "gloss": "kusukela ebuseni bakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "uzwile"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "izwi lami"
+    }
+  ],
+  "timestamp": "2026-08-31T04:46:55.698835279Z",
+  "model": "glm-5.3"
+}

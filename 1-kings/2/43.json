@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 2:43",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Yini-ke engawugcinang ngawo isifungo sikaYahwe, nomyalelo engiwuphethe phezu kwakho?",
+  "tokens": [
+    {
+      "surface": "ומדוע",
+      "gloss": "yini-ke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engawugcinang"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "engawugcinang"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isifungo"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "isifungo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umyalelo"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "umyalelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engiwuphethe"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "engiwuphethe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "phezu kwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T03:48:14.312729532Z",
+  "model": "glm-5.3"
+}

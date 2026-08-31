@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 66:16",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 66,
+  "translation": "Ngokuba uYahwe uzogweba ngesililo, futhi ngesibhamu sakhe ⟨את⟩ konke inyama; futhi abadabukile bakaYahwe bazwakala ngobuningi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngesililo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "uzogweba"
+    },
+    {
+      "surface": "ובחרבו",
+      "gloss": "futhi ngesibhamu sakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke inyama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "futhi bazwakala ngobuningi"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "abadabukile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bakaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:38:25.596029194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 11:3",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "UDavide wathuma wabuza ngalowo wesifazane; kwathiwa: Ingabe akunganaye uBatsheba, indodakazi kaEliyamu, unkosikazi kaUriya umuHethti?",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathuma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "וידרש",
+      "gloss": "wabuza"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ngalowo wesifazane"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "kwathiwa"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ingabe akunganaye"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "yena"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "uBatsheba"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "kaEliyamu"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "unkosikazi"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "kaUriya"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "umuHethti"
+    }
+  ],
+  "timestamp": "2026-08-31T03:38:10.606067916Z",
+  "model": "glm-5.3"
+}

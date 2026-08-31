@@ -1,0 +1,117 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 3:2",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "uYahwe wasithi kimi: Ungamesabi ⟨את⟩ yena; ngokuba nginikeze esandleni sakho ⟨את⟩ yena, ⟨את⟩ nabo bonke abantu bakhe, ⟨את⟩ nomhlaba wakhe; uzakwenzela yena njengalokho owakwenzela uSihoni, inkosi yamaEmori, ohlala eHeshiboni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wasithi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ungamesabi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "Ungamesabi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "yena (u-Ogi)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "esandleni sakho"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nginikeze"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "yena (u-Ogi)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nabo bonke abantu bakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nomhlaba wakhe"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "umhlaba wakhe"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "uzakwenzela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengalokho"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "owakwenzela"
+    },
+    {
+      "surface": "לסיחן",
+      "gloss": "uSihoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "yamaEmori"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ohlala"
+    },
+    {
+      "surface": "בחשבון",
+      "gloss": "eHeshiboni"
+    }
+  ],
+  "timestamp": "2026-08-31T02:31:24.392276070Z",
+  "model": "glm-5.3"
+}

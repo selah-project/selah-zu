@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 16:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Kubangcwele abaselabaṅi, bona ngiṣukuma; konke okufisekayo kimi kusekubo.",
+  "tokens": [
+    {
+      "surface": "לקדושים",
+      "gloss": "Kubangcwele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "mhlabeni"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ואדירי",
+      "gloss": "ngiṣukuma kuye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "חפצי",
+      "gloss": "okufisekayo kimi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kibo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:43.139210469Z",
+  "model": "glm-5.3"
+}

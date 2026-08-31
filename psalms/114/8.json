@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 114,
+  "translation": "Okuguqula indwenge ibe amanzi odaka, intshe yomhlaba ibe umthombo wamanzi.",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "Okuguqula"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "indwenge"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "amanzi odaka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "intshe yomhlaba"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "ibe umthombo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wamanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:09.665623890Z",
+  "model": "glm-5.3"
+}

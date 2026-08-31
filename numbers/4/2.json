@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 4:2",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Phakisha ingcaciso yamadodana kaKehathi, phakathi kwamadodana kaLevi, nangezindlu zezinduli zabo, nangezindlu zookhokho babo:",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Phakisha ingcaciso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingcaciso"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ingcaciso"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "kaKehathi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "kaLevi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngezindlu zezinduli zabo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "nagezindlu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "zookhokho babo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:09:01.166976356Z",
+  "model": "glm-5.3"
+}

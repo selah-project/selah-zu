@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 15:2",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Usho kanje uYahwe wamabutho: Ngibonile ⟨את⟩ leyo ama-Amaleki ayenzile kuYisraeli, ukuthi awamisela yena endleleni, ekwenyukeleni kwakhe eMitsrayim.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kanje"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "usho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamabutho"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "ngibonile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leyo ama-Amaleki ayenzile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "leyo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ayenzile"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ama-Amaleki"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kuYisraeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "awamisela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "בעלתו",
+      "gloss": "ekwenyukeleni kwakhe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T06:04:20.773815604Z",
+  "model": "glm-5.3"
+}

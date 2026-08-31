@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 8:10",
+  "book": "daniel",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Yaze yakhula yafika emkhumbini wezulu, futhi yadhonsa phansi phakathi womkhumbu nakwezinkanyezi, yaziqhwabalalisa.",
+  "tokens": [
+    {
+      "surface": "ותגדל",
+      "gloss": "Yaze yakhula"
+    },
+    {
+      "surface": "עד",
+      "gloss": "yafika ku-"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "umkhumbu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wezulu"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "yadhonsa"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "phansi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "phakathi kwe-"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "womkhumbu"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "nakwe-"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "izinkanyezi"
+    },
+    {
+      "surface": "ותרמסם",
+      "gloss": "yaziqhwabalalisa"
+    }
+  ],
+  "timestamp": "2026-08-31T08:05:29.839389586Z",
+  "model": "glm-5.3"
+}

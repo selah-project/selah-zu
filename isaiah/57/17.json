@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 57:17",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 57,
+  "translation": "Ngenxa yokona kwakhe ngenxa yenkunzi yengcebo yaphukela umsindo wami, ngambetha; ngazifihla, futhi ngaphukela umsindo, yena wahamba engumlanduli endleleni yenhliziyo yakhe.",
+  "tokens": [
+    {
+      "surface": "בעון",
+      "gloss": "ngenxa yokona"
+    },
+    {
+      "surface": "בצעו",
+      "gloss": "ngenxa yenkunzi yengcebo yakhe"
+    },
+    {
+      "surface": "קצפתי",
+      "gloss": "ngaphukela umsindo"
+    },
+    {
+      "surface": "ואכהו",
+      "gloss": "futhi ngambetha"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "ngazifihla"
+    },
+    {
+      "surface": "ואקצף",
+      "gloss": "futhi ngaphukela umsindo"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "שובב",
+      "gloss": "engumlanduli"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "yenhliziyo yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:35:39.825704042Z",
+  "model": "glm-5.3"
+}

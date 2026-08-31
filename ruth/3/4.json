@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ruth 3:4",
+  "book": "ruth",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi kuzakuba njalo, eselala, uzayazi indawo lapho ezolala khona; uzongena, uvule izinyawo zakhe, ulele; yena uzokutshela ⟨את⟩ lokho ozokwenza.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kuzakuba njalo"
+    },
+    {
+      "surface": "בשכבו",
+      "gloss": "eselala"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "uzayazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indawo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "ezolala khona"
+    },
+    {
+      "surface": "שם",
+      "gloss": ""
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "uzongena"
+    },
+    {
+      "surface": "וגלית",
+      "gloss": "uvule"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "izinyawo zakhe"
+    },
+    {
+      "surface": "ושכבתי",
+      "gloss": "ulele"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "uzokutshela"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "תעשין",
+      "gloss": "ozokwenza"
+    }
+  ],
+  "timestamp": "2026-08-31T07:38:18.464528268Z",
+  "model": "glm-5.3"
+}

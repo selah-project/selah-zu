@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 7:3",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi ⟨את⟩ konke amafutha ayo lizokulethe kuyona, ⟨את⟩ umsila nekhesedi kanye namafutha okufiphalela ⟨את⟩ izitho zangaphakathi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "konke amafutha ayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "amafutha ayo"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "lizokulethe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuyona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umsila"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "umsila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amafutha okufiphalela"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "okufiphalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izitho zangaphakathi"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "izitho zangaphakathi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:52:31.122475712Z",
+  "model": "glm-5.3"
+}

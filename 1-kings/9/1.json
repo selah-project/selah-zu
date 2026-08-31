@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 9:1",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Kwathi lapho uShelomoh ephothula ukwakha ⟨את⟩ indlu kaYahwe no-⟨את⟩ indlu yomumbhi, no-⟨את⟩ konke ukuthakasa kukaShelomoh okwakuthanda ukukwenza,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "lapho ephothula"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ukwakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "indlu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yomumbhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "ukuthakasa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "kukaShelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwaku"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "kwakuthanda"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukukwenza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:05:57.913878025Z",
+  "model": "glm-5.3"
+}

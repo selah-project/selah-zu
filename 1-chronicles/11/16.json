@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi uDavi wayengesikhathi esithileyo esigodlweni esinamandla, futhi isiphephandlwane samaFilishti sasisesikhathini esithileyo eBhetlehema.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "futhi uDavi"
+    },
+    {
+      "surface": "אז",
+      "gloss": "wayengesikhathi esithileyo"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "esigodlweni esinamandla"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "futhi isiphephandlwane"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "samaFilishti"
+    },
+    {
+      "surface": "אז",
+      "gloss": "sasisesikhathini esithileyo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "e-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Bhetlehema"
+    }
+  ],
+  "timestamp": "2026-08-31T08:23:33.309493742Z",
+  "model": "glm-5.3"
+}

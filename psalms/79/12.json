@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 79:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 79,
+  "translation": "F ubuyisele kubakhelene nethu izikhathi eziyisikhombisa esifubeni sabo ihlazo labo ababelenza wena, u-Adonayi.",
+  "tokens": [
+    {
+      "surface": "והשב",
+      "gloss": "ubuyisele"
+    },
+    {
+      "surface": "לשכנינו",
+      "gloss": "kubakhelene nethu"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "izikhathi eziyisikhombisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חיקם",
+      "gloss": "esifubeni sabo"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "ihlazo labo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ababelenza"
+    },
+    {
+      "surface": "חרפוך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:02.468406647Z",
+  "model": "glm-5.3"
+}

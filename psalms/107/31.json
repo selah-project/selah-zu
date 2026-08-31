@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 107:31",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Makabonge uYahwe ngeikhesedi yakhe, nangezimangaliso zakhe ezibantwini abantu:",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "makabonge"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ngeikhesedi yakhe"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "nangezimangaliso zakhe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ezibantwini"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:09.680418230Z",
+  "model": "glm-5.3"
+}

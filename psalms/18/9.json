@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 18:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Nyakanyaka umusi ezimpumweni zakhe, nomlilo emlonyeni wakhe wawudla; izinkuni ezivuthayo zivuthile kuwena.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "nyakanyaka"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "umusi"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "ezimpumweni zakhe"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "nomlilo"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "emlonyeni wakhe"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "wawudla"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "izinkuni ezivuthayo"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "zivuthile"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuwena"
+    }
+  ],
+  "timestamp": "2026-08-31T11:41:10.546218804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 37:8",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "IRavshaqe wabuya, wathola ⟨את⟩ umkani waseAshuru elwa ngeLibna, ngoba wayezwile ukuthi ushaye indawo eLakishi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wabuya"
+    },
+    {
+      "surface": "רב",
+      "gloss": "iRa-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "vshaqe"
+    },
+    {
+      "surface": "וימצא",
+      "gloss": "wathola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umkani waseAshuru"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umkani"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "waseAshuru"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "elwa"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Libna"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "wayezwile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "ushaye indawo"
+    },
+    {
+      "surface": "מלכיש",
+      "gloss": "eLakishi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:28:35.749110433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 136:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 136,
+  "translation": "Kwalowo owabetha iMitsrayim ngabazalwane babo abangasekelo, ngokuthi ikhesedi lakhe lihlezi kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "למכה",
+      "gloss": "Kwalowo owabetha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "בבכוריהם",
+      "gloss": "ngabazalwane babo abangasekelo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:00.335225895Z",
+  "model": "glm-5.3"
+}

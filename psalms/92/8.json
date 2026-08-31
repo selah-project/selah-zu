@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 92:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 92,
+  "translation": "Ekutshalweni kwabi-habi emibi njengotshani, nasiphakamisa sona isithelo abasebenzi bobubi bonke, ukuze babiswa kuze kube phakade naphakade.",
+  "tokens": [
+    {
+      "surface": "בפרח",
+      "gloss": "ekutshaleni kwabi-habi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "emibi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njengo"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "utshani"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "nasiphakamisa isithelo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "abasebenzi"
+    },
+    {
+      "surface": "און",
+      "gloss": "bobubi"
+    },
+    {
+      "surface": "להשמדם",
+      "gloss": "ukuze babiswa"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "עד",
+      "gloss": "naphakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:36.313686099Z",
+  "model": "glm-5.3"
+}

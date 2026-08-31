@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 115,
+  "ref": "psalms 119:115",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Sukani kimi, nina enzi-okubi, ukuze ngigcine imiyalo ka-Elohim wami.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Sukani"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "nina enzi-okubi"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "futhi ngizoyigcina"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "imiyalo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ka-Elohim wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:37.181341344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Indoda ehlakaniphile ibeka icala ⟨את⟩ indoda eyisiwula; ithukuthele futhi ihleke, futhi akanathula.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ehlakaniphile"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "ibeka icala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indoda eyisiwula"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "eyisiwula"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "ithukuthele"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "ihleke"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi akana"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "thula"
+    }
+  ],
+  "timestamp": "2026-08-31T07:03:18.214728372Z",
+  "model": "glm-5.3"
+}

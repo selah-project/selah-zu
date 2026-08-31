@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 122,
+  "translation": "Makube ukuthula emigwaqeni yakho, ukuzola ezindlini zakho ezinkulu.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "makube"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ukuthula"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "emigwaqeni yakho"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "ukuzola"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "ezindlini zakho ezinkulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:59.653876246Z",
+  "model": "glm-5.3"
+}

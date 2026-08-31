@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 110:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 110,
+  "translation": "Ipsalma likaDavide. Ubuso bukaYahwe: Hlala ngakwesokudla kwami, kuze kube ngizenza izitha zakho isiphuphutho sezinyawo zakho.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "likaDavide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ipsalma"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ubuso bukaYahwe — isiqinisekiso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "kuNkosi yami"
+    },
+    {
+      "surface": "שב",
+      "gloss": "hlala"
+    },
+    {
+      "surface": "לימיני",
+      "gloss": "ngakwesokudla kwami"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ngizenza"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "izitha zakho"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "isiphuphutho"
+    },
+    {
+      "surface": "לרגליך",
+      "gloss": "sezinyawo zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:50.043819064Z",
+  "model": "glm-5.3"
+}

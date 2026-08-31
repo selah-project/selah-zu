@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 37:26",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Wayifulela ngegolide elihlanzekile — uphahla waso, nezindonga zaso ezungezile, nezimpondo zaso; futhi wakhele umqhele wegolide ojikeleza.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "wayifulela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "i-altare"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "elihlanzekile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uphahla waso"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "uphahla waso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izindonga zaso"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "izindonga zaso"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ezungezile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izimpondo zaso"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "izimpondo zaso"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wakhele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "umqhele"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wegolide"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ojikeleza"
+    }
+  ],
+  "timestamp": "2026-08-31T01:46:32.286783486Z",
+  "model": "glm-5.3"
+}

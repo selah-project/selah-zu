@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 64:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 64,
+  "translation": "Yizwa, uElohim, izwi lami ekukhulumeni kwami; ungiphimisele ukuphila kwami esabalweni somsundi.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Yizwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "izwi lami"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "ekukhulumeni kwami"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "esabalweni"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "umsundi"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ungiphimisele"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ukuphila kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:30.742770517Z",
+  "model": "glm-5.3"
+}

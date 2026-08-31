@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 1:10",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "iYehudha yahamba iye kumaKhenani ahlala eChevruni — igama leChevrun ngokudala yayinguKiryati-Arba — babetha ⟨את⟩ uSheshayi nange-⟨את⟩ uAkhiman nange-⟨את⟩ uTalmayi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yahamba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "iYehudha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "iye ku"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "umaKhenani"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "ahlala"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "eChevruni"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "leChevrun"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ngokudala"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "inguKiryati"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "babetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uSheshayi"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "uSheshayi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange-⟨את⟩",
+      "marks": "uAkhiman"
+    },
+    {
+      "surface": "אחימן",
+      "gloss": "uAkhiman"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange-⟨את⟩",
+      "marks": "uTalmayi"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "uTalmayi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:59:49.223158748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 10:14",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Wayekhuluma kabo njengosebezo lwentsha ezincane, ethi: Ubaba wenzesa umthwalo omkhulu ⟨את⟩, futhi mina ngizongeza phezu kwawo; ubaba wanolula ngezinduku ⟨את⟩ nina, futhi mina ngezinkalankalazona.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wayekhuluma"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kabo"
+    },
+    {
+      "surface": "כעצת",
+      "gloss": "njengosebezo"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "lwentsha ezincane"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "אכביד",
+      "gloss": "wenzesa umthwalo omkhulu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umthwalo wenu"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "umthwalo wenu"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "futhi mina"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ngizongeza"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwawo"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubaba"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "wanolula"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "ngezinduku"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "futhi mina"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "ngezinkalankalazona"
+    }
+  ],
+  "timestamp": "2026-08-31T08:34:43.341424325Z",
+  "model": "glm-5.3"
+}

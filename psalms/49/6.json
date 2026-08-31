@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Yingaki ngingesaba ezinsukwini ezimbi, isoni engihamba ngamatholeni ingizungezela?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "yingaki"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ngingesaba"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ezinsukwini"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ezimbi"
+    },
+    {
+      "surface": "עון",
+      "gloss": "isoni"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "engihamba ngamatholeni"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "ingizungezela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:14.551772896Z",
+  "model": "glm-5.3"
+}

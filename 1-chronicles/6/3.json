@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi amadodana kaKehati: uAmram, uYitshari, uChebhroni, noUziyeli.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "futhi amadodana"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "kaKehati"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "uAmram"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "uYitshari"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "uChebhroni"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "noUziyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T08:20:14.390331375Z",
+  "model": "glm-5.3"
+}

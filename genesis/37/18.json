@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 37:18",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Babambona ⟨את⟩ kude, futhi engakafiki kubona, bacisha umqondo wokumbulala ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "babambona"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (uYosefu)"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kude"
+    },
+    {
+      "surface": "ובטרם",
+      "gloss": "futhi engakafiki"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "asondele"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "ויתנכלו",
+      "gloss": "bacisha umqondo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (uYosefu)"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "wokumbulala"
+    }
+  ],
+  "timestamp": "2026-08-31T01:19:19.052366425Z",
+  "model": "glm-5.3"
+}

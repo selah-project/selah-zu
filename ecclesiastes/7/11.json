@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ihlakaniphi lihle ngokufa nokwenziwa izindlu ezinhle, futhi lingeza inzuzo kulabo ababonayo ilanga.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "lihle"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "Ihlakaniphi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ngokufa"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "nokwenziwa izindlu ezinhle"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "lingeza inzuzo"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "kulabo ababonayo"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ilanga"
+    }
+  ],
+  "timestamp": "2026-08-31T07:46:37.464351457Z",
+  "model": "glm-5.3"
+}

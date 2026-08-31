@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 110,
+  "ref": "psalms 119:110",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ababi babekela ithiniba kimi, kodwa ngeziyimiyalelo zakho angizulisanga.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "babekela"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "Ababi"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ithiniba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ומפקודיך",
+      "gloss": "kodwa ngeziyimiyalelo zakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga"
+    },
+    {
+      "surface": "תעיתי",
+      "gloss": "zulisanga"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:52.850807582Z",
+  "model": "glm-5.3"
+}

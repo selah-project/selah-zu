@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Yase uSara eshiya: Uhleko uElohim awenzela lona; lowo wonke owuzwayo uzohleka ngenxa yami.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Yase uSara eshiya"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "uSara"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "Uhleko"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "awenzela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lona (nzela)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lowo wonke"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "owuzwayo"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "uzohleka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngenxa yami"
+    }
+  ],
+  "timestamp": "2026-08-31T05:54:31.439433720Z",
+  "model": "glm-5.3"
+}

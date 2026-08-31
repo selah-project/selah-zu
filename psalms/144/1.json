@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 144:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 144,
+  "translation": "KuDavide. Ubusisiwe uYahwe, idwala lami, ofundisa izandla zami ukulwa, neminwe yami impi.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "kuDavide"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ubusisiwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "idwala lami"
+    },
+    {
+      "surface": "המלמד",
+      "gloss": "ofundisa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "izandla zami"
+    },
+    {
+      "surface": "לקרב",
+      "gloss": "ukulwa"
+    },
+    {
+      "surface": "אצבעותי",
+      "gloss": "iminwe yami"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "impi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:42.999864768Z",
+  "model": "glm-5.3"
+}

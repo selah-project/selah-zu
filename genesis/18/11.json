@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 18:11",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "UNgugogo u-Avraham noSara, basebangene eminyakeni; kuyekile ukwenzeka kuSara indlela yabesifazane.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "no-Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "noSara"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "basebangene\/gogo"
+    },
+    {
+      "surface": "באים",
+      "gloss": "bafikelele"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "eminyakeni"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "kuyekile"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ukwenzeka"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "kuSara"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "כנשים",
+      "gloss": "yabesifazane"
+    }
+  ],
+  "timestamp": "2026-08-31T08:48:38.350993130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 114,
+  "translation": "Izintaba zagijima njengamabhere, izinduli njengamawundi ezimvu",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "izintaba"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "zagijima"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "njengamabhere"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "izinduli"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "njengamawundi"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ezimvu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:58.366232937Z",
+  "model": "glm-5.3"
+}

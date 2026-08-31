@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Themba uYahwe ngehliziyo yakho yonke, futhi ungathembeli ekuqondeni kwakho.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Themba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngehliziyo yakho yonke"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ngehliziyo yakho"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi ungathembeli"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "ekuqondeni kwakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "thembeli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:47:27.156572409Z",
+  "model": "glm-5.3"
+}

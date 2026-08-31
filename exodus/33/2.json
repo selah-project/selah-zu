@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 33:2",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Ngizothumela isithunywa phambi kwakho, ngize ngixoshe ⟨את⟩ iKhanani, iEmori, iChiti, iPherizi, iChivi, neYevusi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ngizothumela"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "isithunywa"
+    },
+    {
+      "surface": "וגרשתי",
+      "gloss": "ngize ngixoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKhanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "iKhanani"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "iEmori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "iChiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "iPherizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "iChivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "neYevusi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:44:25.481217627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 8:10",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Yena uElisheya wathi kuye: Hamba, ithi kuye: Cha, uzophila uzuphila — kodwa uYahwe ungibonisile ukuthi uzofa uzufa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "uElisheya"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ithi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "uzophila"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "uzuphila"
+    },
+    {
+      "surface": "והראני",
+      "gloss": "ungibonisile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "uzofa"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "uzufa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:07:25.876921571Z",
+  "model": "glm-5.3"
+}

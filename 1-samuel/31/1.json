@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 31:1",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "AmaFilishti alwa neSirayeli, amadoda eSirayeli abaleka ebunzimeni bamaFilishti, bawa befile entabeni iGilibhoa.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "AmaFilishti"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "alwa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "neSirayeli"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "abaleka"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "eSirayeli"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ebunzimeni"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "bamaFilishti"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "bawa"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "befile"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "iGilibhoa"
+    }
+  ],
+  "timestamp": "2026-08-31T03:32:06.792905127Z",
+  "model": "glm-5.3"
+}

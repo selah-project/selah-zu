@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 25:5",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Abavukeli bakaKashdi bamlalela inkosi, bamsiza ⟨את⟩ kumabonakude eYeriho; wonke umabhalwane wakhe wachithwa kuye.",
+  "tokens": [
+    {
+      "surface": "וירדפו",
+      "gloss": "bamlalela"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "abavukeli"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "bakaKashdi"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "emuva kwe-"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "וישגו",
+      "gloss": "bamsiza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "בערבות",
+      "gloss": "kumabonakude"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "eYeriho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "חילו",
+      "gloss": "umabhalwane wakhe"
+    },
+    {
+      "surface": "נפצו",
+      "gloss": "wachithwa"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-08-31T04:15:12.270614878Z",
+  "model": "glm-5.3"
+}

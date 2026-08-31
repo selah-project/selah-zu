@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 91:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 91,
+  "translation": "Ngeze lakhe uzokumbozela, futhi phansi kwezinsiku zakhe uzothatha isiphephelo; isihlangu nesihlangu esincane ukuthembeka kwakhe.",
+  "tokens": [
+    {
+      "surface": "באברתו",
+      "gloss": "ngeze lakhe"
+    },
+    {
+      "surface": "יסך",
+      "gloss": "uzokumbozela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "futhi phansi"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "kwezinsiku zakhe"
+    },
+    {
+      "surface": "תחסה",
+      "gloss": "uzothatha isiphephelo"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "isihlangu"
+    },
+    {
+      "surface": "וסחרה",
+      "gloss": "nesihlangu esincane"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "ukuthembeka kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:49.768826290Z",
+  "model": "glm-5.3"
+}

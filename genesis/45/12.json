@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 45:12",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Futhi bhekani, amehlo enu abona, namehlo omfowenu uBinyamin, ukuthi yumlomo wami lowo ekhuluma kini.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "futhi bhekani"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "amehlo enu"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "abona"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "namehlo"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "omfowethu"
+    },
+    {
+      "surface": "בנימין",
+      "gloss": "uBinyamin"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umlomo"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ekhuluma"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-08-31T01:24:03.921078783Z",
+  "model": "glm-5.3"
+}

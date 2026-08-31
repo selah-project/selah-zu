@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 21:39",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "⟨את⟩ iHeshibhoni ⟨את⟩ nomikhalo wayo, ⟨את⟩ iYazeri ⟨את⟩ nomikhalo wayo; zonke izinduna ezine.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iHeshibhoni"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "iHeshibhoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no-",
+      "marks": "omikhalo wayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "umikhalo wayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYazeri"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "iYazeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no-",
+      "marks": "omikhalo wayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "umikhalo wayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "izinduna"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ezine"
+    }
+  ],
+  "timestamp": "2026-08-31T02:58:13.312799112Z",
+  "model": "glm-5.3"
+}

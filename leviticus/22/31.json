@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Futhi nigcine imiyalo yami, futhi niyenze ⟨את⟩; nginguYahwe.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "nigcine"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "imiyalo yami"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "niyenze"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "imiyalo yami"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nginguYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nginguYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:01:42.270215213Z",
+  "model": "glm-5.3"
+}

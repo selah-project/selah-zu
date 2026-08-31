@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 94,
+  "translation": "Futhi bathi: uYah akayiboni; uElohim kaYaakob akaqondi.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "futhi bathi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha\/aka-"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "akayiboni"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi-cha\/aka-"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "akaqondi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka-"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:39.100060660Z",
+  "model": "glm-5.3"
+}

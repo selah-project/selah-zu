@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 18:8",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Ngokuba uthunyelwa ngezinyawo zakhe esingayweni, futhi uhamba njalo engalophini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "uthunyelwa"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "esingayweni"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ngezinyawo zakhe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi e-"
+    },
+    {
+      "surface": "שבכה",
+      "gloss": "-ngalophini"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "uhamba njalo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:16:35.190781525Z",
+  "model": "glm-5.3"
+}

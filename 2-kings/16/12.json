@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 16:12",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi inkosi yafika ivela eDamasiki, futhi inkosi yabona ⟨את⟩ i-altare; futhi inkosi yasondela e-altareni, futhi yamukela izipho phezu kwalo.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yafika"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מדמשק",
+      "gloss": "ivela eDamasiki"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-altare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "yasondela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "altareni"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "yamukela izipho"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwalo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:07:08.870054155Z",
+  "model": "glm-5.3"
+}

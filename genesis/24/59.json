@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "genesis 24:59",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Bamukhisa ⟨את⟩ uRivka udadewabo, no⟨את⟩ nonina wakhe, no⟨את⟩ inceku ka-Avraham, no⟨את⟩ amadoda akhe.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "bamukhisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uRivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "uRivka"
+    },
+    {
+      "surface": "אחתם",
+      "gloss": "udadewabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "nonina wakhe"
+    },
+    {
+      "surface": "מנקתה",
+      "gloss": "nonina wakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "inceku"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "inceku"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ka-Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "amadoda akhe"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "amadoda akhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:12:23.860774488Z",
+  "model": "glm-5.3"
+}

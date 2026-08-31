@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 25:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Buka izitha zami, ngoba zandininingeze, nangezondo elibi zangizondile.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Buka"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "izitha zami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "zandininingeza"
+    },
+    {
+      "surface": "ושנאת",
+      "gloss": "nangezondo"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "elibi"
+    },
+    {
+      "surface": "שנאוני",
+      "gloss": "zangizondile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:54.099589287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 41:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "uYahwe uzomqinisa embhedeni wokugula; wonke umbelebele wakhe uwuguqule ekuguleni kwakhe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יסעדנו",
+      "gloss": "uzomqinisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "embhedeni"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "wokugula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "umbelebele wakhe"
+    },
+    {
+      "surface": "הפכת",
+      "gloss": "uwuguqule"
+    },
+    {
+      "surface": "בחליו",
+      "gloss": "ekuguleni kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:58.381398231Z",
+  "model": "glm-5.3"
+}

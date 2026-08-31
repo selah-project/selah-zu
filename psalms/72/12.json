@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 72:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 72,
+  "translation": "Ngokuba uzomsindisa odingayo umphakathi emdicisileyo, nalowomoya ophantsi ongenamsizi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "יציל",
+      "gloss": "uzomsindisa"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "odingayo umphakathi"
+    },
+    {
+      "surface": "משוע",
+      "gloss": "emdicisileyo"
+    },
+    {
+      "surface": "ועני",
+      "gloss": "nalowomoya ophantsi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ongenas"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "msizi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨uye⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:38.429822376Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Futhi nzuzo yomhlaba ilelewonke; inkosi nayo inkonjwa yinsimu.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "futhi nzuzo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yomhlaba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ilelewonke"
+    },
+    {
+      "surface": "היא",
+      "gloss": "i-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "yinsimu"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "inkonjwa"
+    }
+  ],
+  "timestamp": "2026-08-31T07:45:56.815608574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 9:6",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ohlitha igazi lomuntu, ngomuntu igazi lakhe lizohlithwa; ngokuba ngesithombe sikaElohim wenza ⟨את⟩ umuntu.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "ohlitha"
+    },
+    {
+      "surface": "דם",
+      "gloss": "igazi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "lomuntu"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ngomuntu"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "igazi lakhe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "lizohlithwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "ngesithombe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:03:13.767436764Z",
+  "model": "glm-5.3"
+}

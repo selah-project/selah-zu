@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 50:21",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Lezi wazenza, mina ngathula; wacinga ukuthi mina ngiyikhona njengawe: ngizokusola, ngizokubeka ⟨endleleni⟩ phambi kwameho akho.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wazenza"
+    },
+    {
+      "surface": "והחרשתי",
+      "gloss": "ngathula"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "wacinga"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ngiyikhona"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "njengawe"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "ngizokusola"
+    },
+    {
+      "surface": "ואערכה",
+      "gloss": "ngizokubeka"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "phambi kwameho akho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:05.896750814Z",
+  "model": "glm-5.3"
+}

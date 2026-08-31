@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 50:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "U-Adonayi uYahwe ungiphe ulwimi lwabafundisi, ukwazi ukusekela ⟨את⟩ odocile ngezwi. Ekuseni, ekuseni uvusa, ungivusa indlebe yami ukuzwa njengabafundisi.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "U-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ungiphe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ulwimi"
+    },
+    {
+      "surface": "למודים",
+      "gloss": "lwabafundisi"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ukwazi"
+    },
+    {
+      "surface": "לעות",
+      "gloss": "ukusekela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "odocile"
+    },
+    {
+      "surface": "יעף",
+      "gloss": "odocile"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ngezwi"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "uvusa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "ungivusa"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "indlebe"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ukuzwa"
+    },
+    {
+      "surface": "כלמודים",
+      "gloss": "njengabafundisi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:35:07.864764240Z",
+  "model": "glm-5.3"
+}

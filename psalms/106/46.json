@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 106:46",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Wabenza ⟨את⟩ bathole ukuzwelwa phambi kwabo bonke ababathelayo.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Wabenza bathole"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "לרחמים",
+      "gloss": "ukuzwelwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "שוביהם",
+      "gloss": "ababathelayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:59.828125612Z",
+  "model": "glm-5.3"
+}

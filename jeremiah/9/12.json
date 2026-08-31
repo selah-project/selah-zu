@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 9:12",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Futhi uYahwe wathi: Ngenxa yokuthi bashiye ⟨את⟩ umthetho wami engiwubekile phambi kwabo, futhi abalalelanga izwi lami, futhi abahambanga kuwo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Futhi wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "Ngenxa yokuthi"
+    },
+    {
+      "surface": "עזבם",
+      "gloss": "bashiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umthetho wami"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "umthetho wami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engiwubekile"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ngiwubekile"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "phambi kwabo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi aba"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "lalelanga"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "izwi lami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi aba"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "hambanga"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuwo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:42:55.867862016Z",
+  "model": "glm-5.3"
+}

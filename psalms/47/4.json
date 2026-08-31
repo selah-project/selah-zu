@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 47,
+  "translation": "Uyazithoba izizwe phansi kwethu, nezinhlanga phansi kwezinyawo zethu.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "Uyazithoba"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "phansi kwethu"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "nezinhlanga"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phansi"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "kwezinyawo zethu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:02.358041585Z",
+  "model": "glm-5.3"
+}

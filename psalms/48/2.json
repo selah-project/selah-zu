@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 48:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 48,
+  "translation": "⟨Mnandi⟩ uYahwe futhi ethweswa udumo kakhulu, edolobheni likaElohim wethu, intaba ingcwele yakhe.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "Mnandi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "futhi ethweswa udumo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "likaElohim wethu"
+    },
+    {
+      "surface": "הר",
+      "gloss": "intaba"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ingcwele yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:20.308478779Z",
+  "model": "glm-5.3"
+}

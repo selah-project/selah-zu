@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 71:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 71,
+  "translation": "Ngaye ngisekele kusukela esibelethweni, kusuka emathangabeni ka ma wami wena ungisikile ngaphandle; kuwe udumo lwami luhlala njalo.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "ngaye"
+    },
+    {
+      "surface": "נסמכתי",
+      "gloss": "ngisekele"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "kusukela esibelethweni"
+    },
+    {
+      "surface": "ממעי",
+      "gloss": "kusuka emathangabeni"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ka ma wami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "גוזי",
+      "gloss": "ungisikile ngaphandle"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "udumo lwami"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "luhlala njalo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:12.905964703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Futhi hhayi nani ngedwa mina engisika ⟨את⟩ lesi sivumelwano nesifungo lesi",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "futhi hhayi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nani"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "ngedwa"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ngisika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lesi sivumelwano"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "lesi sivumelwano"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lesi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lesifungo lesi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "isifungo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lesi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:44:56.978942970Z",
+  "model": "glm-5.3"
+}

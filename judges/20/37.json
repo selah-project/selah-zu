@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "judges 20:37",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Futhi abakile bajaha, baphuma beqhakambela iGibha; futhi abakile badonela phambili, beshaya ⟨את⟩ yonke imizi ngokomlomo weliwedi.",
+  "tokens": [
+    {
+      "surface": "והארב",
+      "gloss": "futhi abakile"
+    },
+    {
+      "surface": "החישו",
+      "gloss": "bajaha"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "baphuma beqhakambela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "iGibha"
+    },
+    {
+      "surface": "וימשך",
+      "gloss": "futhi badonela phambili"
+    },
+    {
+      "surface": "הארב",
+      "gloss": "abakile"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "beshaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke imizi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "imizi"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ngokomlomo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "weliwedi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:13:17.185859982Z",
+  "model": "glm-5.3"
+}

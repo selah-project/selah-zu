@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 115,
+  "translation": "Kungekhona thina, uYahwe, kungekhona thina, kodwa egameni lakho nike inkazimulo, ngenxa yekhesedi yakho, ngenxa yeqiniso lakho.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "akusi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akusi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "egameni lakho"
+    },
+    {
+      "surface": "תן",
+      "gloss": "nike"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "inkazimulo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "yekhesedi yakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "yeqiniso lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:05.074278291Z",
+  "model": "glm-5.3"
+}

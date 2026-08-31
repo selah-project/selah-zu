@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 26:40",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi bayazivuma izono zabo nesono sobaba babo ngesihephu abasihephayo kimi, futhi nangenxa yokuthi bahamba nami ngokuzipikela.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "bayazivuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izono zabo"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "izono zabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "isono sobaba babo"
+    },
+    {
+      "surface": "עון",
+      "gloss": "isono"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "sobaba babo"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "ngesihephu abasihephayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okhu-"
+    },
+    {
+      "surface": "מעלו",
+      "gloss": "abasihephayo"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ואף",
+      "gloss": "futhi nangenxa yokuthi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okhu-"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "bahamba"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "nami"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "ngokuzipikela"
+    }
+  ],
+  "timestamp": "2026-08-31T02:06:13.323506783Z",
+  "model": "glm-5.3"
+}

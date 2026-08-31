@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 55,
+  "translation": "Ukwesaba nokudlidliza kungena kimi, futhi ukwesaba okukhulu kungifihlile.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "nokudlidliza"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kungena"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "kungifihlile futhi"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "ukwesaba okukhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:32.700495589Z",
+  "model": "glm-5.3"
+}

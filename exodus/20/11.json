@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 20:11",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Ngokuba ngezinsuku ezisithupha uYahwe wadala ⟨את⟩ amazulu ⟨את⟩ nomhlaba, ⟨את⟩ ulwandle ⟨את⟩ nakho konke okukuyo; futhi waphumula ngosuku olwesikhombisa. Ngakho-ke uYahwe wabusisa ⟨את⟩ usuku lweShabathi, futhi walingcweza.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ezisithupha"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "insuku"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wadala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazulu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulwandle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "konke okukuyo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku-"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "וינח",
+      "gloss": "futhi waphumula"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "olwesikhombisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "-ke"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "wabusisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usuku lweShabathi"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "lweShabathi"
+    },
+    {
+      "surface": "ויקדשהו",
+      "gloss": "futhi walingcweza"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:00.470817543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 29:44",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Futhi ngizongcwatshisa ⟨את⟩ thethu lokuhlangana naye ⟨את⟩ i-altare, futhi ⟨את⟩ u-Aharon naye ⟨את⟩ amadoda akhe ngiyazongcwatshisa ukuba bengabapristi bami.",
+  "tokens": [
+    {
+      "surface": "וקדשתי",
+      "gloss": "futhi ngizongcwatshisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "thethu lokuhlangana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "thethu"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lokuhlangana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "i-altare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "u-Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "amadoda akhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "amadoda akhe"
+    },
+    {
+      "surface": "אקדש",
+      "gloss": "ngiyazongcwatshisa"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ukuba bengabapristi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bami"
+    }
+  ],
+  "timestamp": "2026-08-31T01:41:41.590425594Z",
+  "model": "glm-5.3"
+}

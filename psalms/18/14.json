@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 18:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "uYahwe waduma ezulwini, u-Elyoni wanika izwi lakhe — isale nezingcezu zomlilo.",
+  "tokens": [
+    {
+      "surface": "וירעם",
+      "gloss": "waduma"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "u-Elyoni"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "wanika"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "izwi lakhe"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "isale"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "nezingcezu"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zomlilo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:05.386551017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 72,
+  "translation": "Uzakwahlulela abantu bakho ngobulungiswa, nabampofu bakho ngomthetho.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "uzakwahlulela"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ngobulungiswa"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "nabampofu bakho"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ngomthetho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:13.970331595Z",
+  "model": "glm-5.3"
+}

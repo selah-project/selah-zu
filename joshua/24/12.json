@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 24:12",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Futhi ngathuma phambi kwenu ⟨את⟩ isibungu esibuhlungu, safudukisa ⟨את⟩ bona phambi kwenu — amakhosi amabili amaEmori — hhayi ngenkemba yakho, futhi hhayi ngesiphe sakho.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "futhi ngathuma"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibungu esibuhlungu"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "isibungu esibuhlungu"
+    },
+    {
+      "surface": "ותגרש",
+      "gloss": "safudukisa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ bona"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "amabili"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "amaEmori"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hhayi"
+    },
+    {
+      "surface": "בחרבך",
+      "gloss": "ngenkemba yakho"
+    },
+    {
+      "surface": "וloא",
+      "gloss": "futhi hhayi"
+    },
+    {
+      "surface": "בקשתך",
+      "gloss": "ngesiphe sakho"
+    }
+  ],
+  "timestamp": "2026-08-31T03:00:40.349360491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 15:18",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "futhi uYahwe wakuthuma ⟨ngendlela⟩, wathi: Hamba, futhi cima ngokucekela phansi ⟨את⟩ izoni, ⟨את⟩ i-Amaleki, futhi lwela nazo kuze kubheluhe ⟨את⟩ bonke.",
+  "tokens": [
+    {
+      "surface": "וישלחך",
+      "gloss": "futhi wakuthuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ngendlela"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "futhi wathi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Hamba"
+    },
+    {
+      "surface": "והחרמתה",
+      "gloss": "cima ngokucekela phansi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izoni"
+    },
+    {
+      "surface": "החטאים",
+      "gloss": "izoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-Amaleki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "i-Amaleki"
+    },
+    {
+      "surface": "ונלחמת",
+      "gloss": "futhi lwela"
+    },
+    {
+      "surface": "בו",
+      "gloss": "nazo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "kubheluhe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bonke"
+    }
+  ],
+  "timestamp": "2026-08-31T03:22:43.653485986Z",
+  "model": "glm-5.3"
+}

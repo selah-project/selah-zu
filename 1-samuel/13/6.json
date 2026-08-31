@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 13:6",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Amadoda akwa-Israyeli abona ukuthi §banjwe§ ingcindezi, ngokuba abantu bahunyushwa, futhi abantu bazithekela emhumeni nasemikhwanini, emadwaleni, emaphushazini nasemgodini.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "namadoda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "akwa-Israyeli"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "abona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ingcindezi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "bhunyushwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויתחבאו",
+      "gloss": "bazithekela"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "במערות",
+      "gloss": "emhumeni"
+    },
+    {
+      "surface": "ובחוחים",
+      "gloss": "nasemikhwanini"
+    },
+    {
+      "surface": "ובסלעים",
+      "gloss": "emadwaleni"
+    },
+    {
+      "surface": "ובצרחים",
+      "gloss": "emaphushazini"
+    },
+    {
+      "surface": "ובברות",
+      "gloss": "nasemgodini"
+    }
+  ],
+  "timestamp": "2026-08-31T06:02:21.192349944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 57:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 57,
+  "translation": "Intliziyo yami ilungile, uElohim; intliziyo yami ilungile; ngiyocula, ngiyodumisa.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ilungile"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yami"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ilungile"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "intliziyo yami"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ngiyocula"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "ngiyodumisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:00.472848083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 144,
+  "translation": "Enehloko labo likhuluma amanga, ngesandla sabo sokudla ⟨ngusandla⟩ sokukhohlisa.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Enehloko"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "labo likhuluma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "likhuluma"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "amanga"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "ngesandla sabo sokudla"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "⟨ngusandla⟩"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "sokukhohlisa"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:36.813334752Z",
+  "model": "glm-5.3"
+}

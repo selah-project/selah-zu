@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi kuzoba khona ukukhalo okukhulu ezweni lakwaMitsrayim lonke, okunjalo okungazange kwaba khona, futhi okunjalo okungeke kwenzelwe futhi.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "futhi kuzoba khona"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "ukukhalo"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "okukhulu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ezweni lonke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "lakwaMitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "okunjalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kungazange"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "kwaba khona"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "futhi okunjalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "okungeke"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "kwenzelwe futhi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:31:41.367519077Z",
+  "model": "glm-5.3"
+}

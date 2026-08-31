@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 44:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Njalo wazishiye, wasihlazisa; futhi awuphumi namakhosi ethu.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "wazishiye"
+    },
+    {
+      "surface": "ותכלימנו",
+      "gloss": "wasihlazisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi awu-"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "phumi"
+    },
+    {
+      "surface": "בצבאותינו",
+      "gloss": "namakhosi ethu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:56:20.777266699Z",
+  "model": "glm-5.3"
+}

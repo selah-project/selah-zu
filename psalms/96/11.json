@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 96:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 96,
+  "translation": "Mazithokoze izulu, umhlaba ujabule; ulwandle lwenakazise, lona nonke okukuwo.",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "Mazithokoze"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "izulu"
+    },
+    {
+      "surface": "ותגל",
+      "gloss": "ujabule"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "lwenakazise"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "lona nonke okukuwo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:40.989623036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 30:25",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Kwathi lapho uRakheli ezala ⟨את⟩ uYosefu, uYaakobi wathi kuLavan: Ngithumele, ngiye endaweni yami nasenyuveni yami.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ezala"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "uRakheli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakobi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "uLavan"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ngithumele"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "ngiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "מקומי",
+      "gloss": "ndaweni yami"
+    },
+    {
+      "surface": "ולארצי",
+      "gloss": "nasenyuveni yami"
+    }
+  ],
+  "timestamp": "2026-08-31T01:15:32.977308575Z",
+  "model": "glm-5.3"
+}

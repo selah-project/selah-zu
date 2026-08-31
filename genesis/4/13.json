@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "UKayini wathi kuYahwe: Isono sami singakhuni kuneso sokwamukelwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "קין",
+      "gloss": "uKayini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "singakhuni"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "isono sami"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "kuneso sokwamukelwa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:41.785750936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 88:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 88,
+  "translation": "Ngiyahlupheka mina, futhi ngifela kusukela entwashini; ngithwese ukwesaba kwakho — ngidangala.",
+  "tokens": [
+    {
+      "surface": "עני",
+      "gloss": "Ngiyahlupheka"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "וגוע",
+      "gloss": "futhi ngifela"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "kusukela entwashini"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ngithwese"
+    },
+    {
+      "surface": "אמיך",
+      "gloss": "ukwesaba kwakho"
+    },
+    {
+      "surface": "אפונה",
+      "gloss": "ngidangala"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:27.779018133Z",
+  "model": "glm-5.3"
+}

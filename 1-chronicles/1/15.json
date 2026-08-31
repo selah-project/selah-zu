@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "ne-Hivi ne-Arki ne-Sini",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "iHivi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "iHivi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "iArki"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "iArki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ ne",
+      "marks": "iSini"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "iSini"
+    }
+  ],
+  "timestamp": "2026-08-31T08:18:50.053213132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 52:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 52,
+  "translation": "Ngiyakubonga kuze kube phakade, ngoba wenzile lokhu, futhi ngilindele igama lakho, ngoba lilungile phambi kwabangcwele bakho.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ngiyakubonga"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wenzile"
+    },
+    {
+      "surface": "ואקוה",
+      "gloss": "futhi ngilindele"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "lilungile"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "kwabangcwele bakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:34.709170166Z",
+  "model": "glm-5.3"
+}

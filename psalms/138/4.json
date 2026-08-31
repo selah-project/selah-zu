@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 138,
+  "translation": "Bayakubonga, Yahwe, bonke amakhosi omhlaba, ngokuba bezwe izwini zomlomo wakho.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Bayakubonga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "bezwe"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "zomlomo wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:36.784648577Z",
+  "model": "glm-5.3"
+}

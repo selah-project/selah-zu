@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 20:20",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "UMoshe wathi kubantu: Musani ukwesaba; ngokuba uElohim ufike ukuzivivinya ⟨את⟩ nina, ukuze ukwesaba kwakhe kubenhle phezu kobuso benu, ukuze ningoni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musani"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לבעבור",
+      "gloss": "ukwenza ukuthi"
+    },
+    {
+      "surface": "נסות",
+      "gloss": "azivivinyele"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ufike"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ובעבור",
+      "gloss": "ukwenza ukuthi"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "יראתו",
+      "gloss": "ukwesaba kwakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "kobuso benu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ukuze ningo-"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "ni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:35:33.874264812Z",
+  "model": "glm-5.3"
+}

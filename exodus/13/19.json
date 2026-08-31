@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 13:19",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "uMoshe wathatha ⟨את⟩ amathambo kaYosefe naye; ngoba wafungisa ngokuqinile ⟨את⟩ abantwana bakwaIsrayeli wathi: uElohim uzakukhumbula ⟨את⟩ ngempela nina, ningaphakamisa ⟨את⟩ amathambo ami lapha nani ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amathambo kaYosefe"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "amathambo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "kaYosefe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "wafungisa"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "ngokuqinile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakwaIsrayeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaIsrayeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "uzakukhumbula"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "והעליתם",
+      "gloss": "ningaphakamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amathambo ami"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "amathambo ami"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "nani ⟨את⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T01:33:41.489809605Z",
+  "model": "glm-5.3"
+}

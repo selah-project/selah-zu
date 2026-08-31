@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ingilowo isiliva, futhi ingilowo igolide — uyisibizo sikaYahwe wamabutho.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ingilowo (eyami)"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "futhi ingilowo (eyami)"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "uyisibizo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamabutho"
+    }
+  ],
+  "timestamp": "2026-08-31T05:40:42.514279170Z",
+  "model": "glm-5.3"
+}

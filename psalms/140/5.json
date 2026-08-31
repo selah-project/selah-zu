@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 140:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 140,
+  "translation": "Ungigcine, uYahwe, ezandleni zomabi; kumuntu wezinkohlakalo ungigcine, abacabangile ukudonsa izinyawo zami.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Ungigcine"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "ezandleni zika-"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "omabi"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "kumuntu"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "wezinkohlakalo"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "ungigcine"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "cacabangile"
+    },
+    {
+      "surface": "לדחות",
+      "gloss": "ukudonsa"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "izinyawo zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:56.635735673Z",
+  "model": "glm-5.3"
+}

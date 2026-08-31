@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 20:26",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Kwaba ngokubuyela komnyaka, uBen-Hadadi wabalula ⟨את⟩ iArami, wayenyuka e-Afeki, ezolwa neYisraeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "לתשובת",
+      "gloss": "ngokubuyela"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "komnyaka"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "wabalula"
+    },
+    {
+      "surface": "בן",
+      "gloss": "uBen-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iArami"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "iArami"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wayenyuka"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "e-Afeki"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ezolwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    }
+  ],
+  "timestamp": "2026-08-31T04:01:32.798694198Z",
+  "model": "glm-5.3"
+}

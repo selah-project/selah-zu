@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 27:16",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Futhi phezu kwezizwe zikaIsrayeli: kumaRubheni, umholi wayengowakwa-Eliezere, unozikri; kumaShimoni, uShefatiyahu, unokaMahaka.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "futhi phezu kwa-"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "wezizwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zikaIsrayeli"
+    },
+    {
+      "surface": "לראובני",
+      "gloss": "kumaRubheni"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "umholi"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "Eliezere"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unozikri"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "(unozikri)"
+    },
+    {
+      "surface": "לשמעוני",
+      "gloss": "kumaShimoni"
+    },
+    {
+      "surface": "שפטיהו",
+      "gloss": "uShefatiyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unokaMahaka"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "(unokaMahaka)"
+    }
+  ],
+  "timestamp": "2026-08-31T08:29:45.491188204Z",
+  "model": "glm-5.3"
+}

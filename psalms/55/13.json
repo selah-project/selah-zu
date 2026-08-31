@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 55:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 55,
+  "translation": "Ngokuba ayizange yaba yisitha esingihlazisayo, futhi bengingayisizi; yena ozungchazileyo ayizange azikhulise ngami, futhi bengingazifihla kuye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayizange"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "isitha"
+    },
+    {
+      "surface": "יחרפני",
+      "gloss": "esingihlazisayo"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "futhi bengingayisizi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayizange"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "ozungchazileyo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngami"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "azikhulise"
+    },
+    {
+      "surface": "ואסתר",
+      "gloss": "futhi bengingazifihla"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:04.087279619Z",
+  "model": "glm-5.3"
+}

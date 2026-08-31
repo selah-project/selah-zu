@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "uYeshuwa wazala ⟨את⟩ uYoyakimu, uYoyakimu wazala ⟨את⟩ uElyashibu, uElyashibu ⟨את⟩ uYoyada.",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "uYeshuwa"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYoyakimu"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "uYoyakimu"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "uYoyakimu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElyashibu"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "uElyashibu"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "uElyashibu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYoyada"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "uYoyada"
+    }
+  ],
+  "timestamp": "2026-08-31T08:17:18.828378953Z",
+  "model": "glm-5.3"
+}

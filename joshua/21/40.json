@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "joshua 21:40",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Zonke izinduna zabantwana baMerari ngokwezindlu zabo, abasalelayo ezindwini zabalevi; lowomhlaba wabo (ulotshiwe) waba yizinduna ezibili neshumi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "izinduna"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "zabantwana ba-"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "uMerari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngokwezindlu zabo"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "abasalelayo"
+    },
+    {
+      "surface": "ממשפחות",
+      "gloss": "ezindwini za-"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "abalevi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waba yingozi — kwaba"
+    },
+    {
+      "surface": "גורלם",
+      "gloss": "ulotshiwe wabo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "izinduna"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ezibili"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "neshumi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:58:13.313000691Z",
+  "model": "glm-5.3"
+}

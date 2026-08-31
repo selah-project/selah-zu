@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 43:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "Bengingeza esibayweni se-Elohim, ku-El injabulo yokujabula kwami; bengidumisa ngekhinora, i-Elohim, i-Elohim yami.",
+  "tokens": [
+    {
+      "surface": "ואבואה",
+      "gloss": "Bengingeza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "esibayweni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "se-Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "שמחת",
+      "gloss": "injabulo"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "yokujabula kwami"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "bengidumisa"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ngekhinora"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "i-Elohim"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "i-Elohim yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:40.932776387Z",
+  "model": "glm-5.3"
+}

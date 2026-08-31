@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi uHuru wazala ⟨את⟩ uUri; futhi uUri wazala ⟨את⟩ u-Betsaleli.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "Futhi uHuru"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uUri"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "uUri"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "futhi uUri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Betsaleli"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "u-Betsaleli"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:26.380221040Z",
+  "model": "glm-5.3"
+}

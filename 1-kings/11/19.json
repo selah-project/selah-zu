@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 11:19",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "uHadadi wathola isibongo kakhulu emehlweni kaParo; wamnika umfazi, ⟨את⟩ udadewabo womfazi wakhe, udadewabo kaThafpenisi, inkosikazi enkulu.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "wathola"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "uHadadi"
+    },
+    {
+      "surface": "חן",
+      "gloss": "isibongo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wamnika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena...m-"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udadewabo womfazi wakhe"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "udadewabo"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "womfazi wakhe"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "udadewabo"
+    },
+    {
+      "surface": "תחפניס",
+      "gloss": "kaThafpenisi"
+    },
+    {
+      "surface": "הגבירה",
+      "gloss": "inkosikazi enkulu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:56:41.410605922Z",
+  "model": "glm-5.3"
+}

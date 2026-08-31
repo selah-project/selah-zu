@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 14:24",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "U Yahwe wamabutho ufunge ⟨ukuthi⟩: Njengengiacabangile, ngakho-ke kwenzeke; futhi njengengacecile, yona iyoquma.",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "ufunge"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamabutho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ukuthi⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨impela⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨impela⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njenge"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "ngiacabangile"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kwenzeke"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "futhi njenge"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "ngacecile"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "iyoquma"
+    }
+  ],
+  "timestamp": "2026-08-31T04:19:38.090646861Z",
+  "model": "glm-5.3"
+}

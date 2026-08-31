@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 4:3",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi lezi zingane zoyise wase-Eythamu: uYizreeli, noYishimayi, noYidhbhashi; igama lezelamani zabo lalinguTselelponi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Futhi lezi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "zoyise"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "wase-Eythamu"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "uYizreeli"
+    },
+    {
+      "surface": "וישמא",
+      "gloss": "noYishimayi"
+    },
+    {
+      "surface": "וידבש",
+      "gloss": "noYidhbhashi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "lezelamani zabo"
+    },
+    {
+      "surface": "הצללפוני",
+      "gloss": "linguTselelponi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:20:00.633237396Z",
+  "model": "glm-5.3"
+}

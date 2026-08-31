@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Abantwana bakwaChethi baphendula ⟨את⟩ u-Avraham, besethi kuye:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "baphendula"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana bakwa-"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Chethi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "besethi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-08-31T01:11:40.204161898Z",
+  "model": "glm-5.3"
+}

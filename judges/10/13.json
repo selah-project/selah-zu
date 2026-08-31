@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 10:13",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Nina nilishiye ⟨את⟩ mina futhi nilalele abanye onkulunkulu; ngakho-ke ngingeze ngisindise ⟨abakaki abayizingoni: ⟨את⟩ ningi⟩.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "עזבתם",
+      "gloss": "nilishiye"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mina",
+      "marks": "nilishiye"
+    },
+    {
+      "surface": "ותעבדו",
+      "gloss": "futhi nilalele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "onkulunkulu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "abanye"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ngize ngengeze"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "ukusindisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ningi",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-08-31T03:05:22.201654773Z",
+  "model": "glm-5.3"
+}

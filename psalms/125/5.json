@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 125:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 125,
+  "translation": "Futhi abaqambela izindlela zabo eziqiṭiwe, uYahwe uzobahambaletsa ⟨את⟩ abasebenzi bokona; kuthula-ukuthula kuzoba phezu kweIsrayeli.",
+  "tokens": [
+    {
+      "surface": "והמטים",
+      "gloss": "Futhi abaqambela"
+    },
+    {
+      "surface": "עקלקלותם",
+      "gloss": "izindlela zabo eziqiṭiwe"
+    },
+    {
+      "surface": "יוליכם",
+      "gloss": "uzobahambaletsa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abasebenzi bokona"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "abasebenzi"
+    },
+    {
+      "surface": "האון",
+      "gloss": "bokona"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "kuthula-ukuthula"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kweIsrayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:35.795113438Z",
+  "model": "glm-5.3"
+}

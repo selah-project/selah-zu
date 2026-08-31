@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Ngacinga ukwazi lokhu; kuyinkinga enzima emehlweni ami.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "ngacinga"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ukwazi"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kuyinkinga enzima"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨kuyi-⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni ami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:47.965030682Z",
+  "model": "glm-5.3"
+}

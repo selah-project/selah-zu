@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Yabe leli zwi liba yisona; abantu bahamba phambi kwaloyedwa, kude kuDan.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yabe ... liba"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "yisona"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "bahamba"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "loyedwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kude ku"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Dan"
+    }
+  ],
+  "timestamp": "2026-08-31T03:55:51.645308011Z",
+  "model": "glm-5.3"
+}

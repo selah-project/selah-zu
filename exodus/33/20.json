@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Wayesethi: Awukwazi ukubona ⟨את⟩ ubuso bami, ngokuba umuntu akanakubona bami aphilile.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesethi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aku-"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "-ukwazi"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bami"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso bami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akenakho"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "ukubona bami"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "aphilile"
+    }
+  ],
+  "timestamp": "2026-08-31T01:44:38.046140933Z",
+  "model": "glm-5.3"
+}

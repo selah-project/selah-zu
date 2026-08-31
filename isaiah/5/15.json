@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Yase ihlatshwa umuntu, yase yehliswa indoda, futhi amehlo ⟨abakhuphuka-pezulu⟩ wehliswa phansi.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "yase ihlatshwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "yase yehliswa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "futhi amehlo"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "abakhuphuka-pezulu"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "wehliswa phansi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:23:48.969743248Z",
+  "model": "glm-5.3"
+}

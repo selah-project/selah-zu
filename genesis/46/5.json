@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 46:5",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 46,
+  "translation": "uYaaqob wasuka eBeersheba; amadodana kaSirayeli athwala ⟨את⟩ uYaaqob uyise, ne⟨את⟩ izingane zabo, ne⟨את⟩ abafazi babo, emasondoni owathumela uParo ukuthwala ⟨את⟩ yena.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wasuka"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaaqob"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "e"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Beersheba"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "athwala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaSirayeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYaaqob"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaaqob"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "izingane zabo"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "izingane zabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "abafazi babo"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "abafazi babo"
+    },
+    {
+      "surface": "בעגלות",
+      "gloss": "emasondoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owathumela"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ukuthwala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena"
+    }
+  ],
+  "timestamp": "2026-08-31T01:24:35.705571039Z",
+  "model": "glm-5.3"
+}

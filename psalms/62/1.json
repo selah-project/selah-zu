@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 62,
+  "translation": "Kumqondisi womculo, ngeYeduthuni; inkondlo kaDaviḍi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi womculo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Yeduthuni"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "inkondlo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDaviḍi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:55.059477084Z",
+  "model": "glm-5.3"
+}

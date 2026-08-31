@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 32:25",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "UMoshe wabona ⟨את⟩ isizwe ukuthi likhululekile yilo, ngoba u-Aharoni walikhulula ukuthi libe yintshontsho phakathi kwabamelene nabo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isizwe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "likhululekile"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "walikhulula"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharoni"
+    },
+    {
+      "surface": "לשמצה",
+      "gloss": "yintshontsho"
+    },
+    {
+      "surface": "בקמיהם",
+      "gloss": "phakathi kwabamelene nabo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:52:58.558579890Z",
+  "model": "glm-5.3"
+}

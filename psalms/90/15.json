@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 90:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 90,
+  "translation": "Sijabulise njengabezinsuku osizululise ngazo, njengeminyaka esibona kuyo okubi.",
+  "tokens": [
+    {
+      "surface": "שמחנו",
+      "gloss": "Sijabulise"
+    },
+    {
+      "surface": "כימות",
+      "gloss": "njengabezinsuku"
+    },
+    {
+      "surface": "עניתנו",
+      "gloss": "osizululise"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "njengeminyaka"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "esibona kuyo"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "okubi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:52.955780060Z",
+  "model": "glm-5.3"
+}

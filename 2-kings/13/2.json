@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 13:2",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Wenza okubi emehlweni kaYahwe, wahamba ezilandela izono zikaYarovhamu indodana kaNevati, owayenziela u-Israel ⟨את⟩ ono; akazange asuke kuzona.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Wenza"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ezilandela"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "izono"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "zikaYarovhamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "kaNevati"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owayenziela"
+    },
+    {
+      "surface": "החטיא",
+      "gloss": "ono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israel"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akazange"
+    },
+    {
+      "surface": "סר",
+      "gloss": "asuke"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kuzona"
+    }
+  ],
+  "timestamp": "2026-08-31T04:10:20.697614941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 69:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Ngikhathele ngiyakhala; umomo wami ushile; amehlo ami aphelele, ngilindele uElohim wami.",
+  "tokens": [
+    {
+      "surface": "יגעתי",
+      "gloss": "Ngikhathele"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "ngiyakhala"
+    },
+    {
+      "surface": "נחר",
+      "gloss": "ushile"
+    },
+    {
+      "surface": "גרוני",
+      "gloss": "umomo wami"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "aphelele"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo ami"
+    },
+    {
+      "surface": "מיחל",
+      "gloss": "ngilindele"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "uElohim wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:53.129483592Z",
+  "model": "glm-5.3"
+}

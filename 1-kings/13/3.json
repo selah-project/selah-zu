@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 13:3",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Wayenika ngalolu suku uphawu, wathi: Lena nguphawu uYahwe alwakhuluma: Bhekani, isibekelo sezincwadi sichayiwe, futhi uhowo oluphezu kwalo luchithiwe.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "wayenika"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalolu suku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "uphawu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lena ngu-"
+    },
+    {
+      "surface": "המופת",
+      "gloss": "uphawu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alwakhuluma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bhekani"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "isibekelo sezincwadi"
+    },
+    {
+      "surface": "נקרע",
+      "gloss": "sichayiwe"
+    },
+    {
+      "surface": "ונשפך",
+      "gloss": "luchithiwe"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "uhowo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olu-"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwalo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:56:42.538735251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 74:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 74,
+  "translation": "Bathumele umlilo endaweni engcwele yakho; banyenzelise phansi indlu yokuhlala wegama lakho.",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "bathumele"
+    },
+    {
+      "surface": "באש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "מקדשך",
+      "gloss": "endaweni engcwele yakho"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "phansi"
+    },
+    {
+      "surface": "חללו",
+      "gloss": "banyenzelise"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "indlu yokuhlala"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "wegama lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:05.065127326Z",
+  "model": "glm-5.3"
+}

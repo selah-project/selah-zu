@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Icishile iShomeron, inkosi yayo, njengobhamula phezu kwamanzi.",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "icishile"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "iShomeron"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "inkosi yayo"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "njengobhamula"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kwe-"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:58.950946422Z",
+  "model": "glm-5.3"
+}

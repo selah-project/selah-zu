@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 116,
+  "translation": "uYahwe unozwelo futhi ulungile, uElohim wethu unomusa omkhulu.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "unozwelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "futhi ulungile"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "unomusa omkhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:37.860386942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Nokubona unosi wamazwe akhe ukuthi uShawuli sefefile, wawa naye esibekwini sakhe, wafa naye.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "nokubona"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "unosi wamazwe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "amazwe akhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "מת",
+      "gloss": "sefefile"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "wawa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "esibekwini sakhe"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wafa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    }
+  ],
+  "timestamp": "2026-08-31T10:20:52.487571580Z",
+  "model": "glm-5.3"
+}

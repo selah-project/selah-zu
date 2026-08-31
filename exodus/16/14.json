@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 16:14",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi ukwehla kokuna kwenyukela, futhi bheka, phezu kombuso wesimo sendlela sekukhona okumnene okunjengamabangaka, okumnene njengokholo olumhlophe phezu komhlaba.",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "futhi kwenyukela"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "ukwehla kokuna"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "ukuna"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "futhi bheka"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "פני",
+      "gloss": "umbuso we-"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "isimo sendlela"
+    },
+    {
+      "surface": "דק",
+      "gloss": "okumnene"
+    },
+    {
+      "surface": "מחספס",
+      "gloss": "okunjengamabangaka"
+    },
+    {
+      "surface": "דק",
+      "gloss": "okumnene"
+    },
+    {
+      "surface": "ככפר",
+      "gloss": "njengokholo olumhlophe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T10:12:34.689495317Z",
+  "model": "glm-5.3"
+}

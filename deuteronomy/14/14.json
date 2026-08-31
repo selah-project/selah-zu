@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "no-⟨את⟩ wonke i-orav ngokohlobo lwalo;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wonke i-orav"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "i-orav"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ngokohlobo lwalo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:36:00.781998677Z",
+  "model": "glm-5.3"
+}

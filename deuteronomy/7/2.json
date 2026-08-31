@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 7:2",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "futhi uYahwe uElohim wakho uzobanikeza phambi kwakho, futhi uzobashaya; uzobahlakazela ngokwedlondlobalo ⟨את⟩ abo; ungabashiyelani isivumelwano, futhi ungabaphathi ngesisa.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "uzobanikeza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "futhi uzobashaya"
+    },
+    {
+      "surface": "החרם",
+      "gloss": "ngokwedlondlobalo"
+    },
+    {
+      "surface": "תחרים",
+      "gloss": "uzobahlakazela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "abo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kungabi"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ushiyelane isivumelwano"
+    },
+    {
+      "surface": "להם",
+      "gloss": "nabo"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "isivumelwano"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi ungabi"
+    },
+    {
+      "surface": "תחנם",
+      "gloss": "ungabaphathi ngesisa"
+    }
+  ],
+  "timestamp": "2026-08-31T10:17:21.956779051Z",
+  "model": "glm-5.3"
+}

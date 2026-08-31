@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 10:14",
+  "book": "daniel",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ngize ukukwenza uqonde ⟨את⟩ lokho okuzokwenzeka ebantwini bakho ekugcineni kwamalanga, ngoba umbono usadinga amalanga.",
+  "tokens": [
+    {
+      "surface": "ובאתי",
+      "gloss": "ngize"
+    },
+    {
+      "surface": "להבינך",
+      "gloss": "ukukwenza uqonde"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokho okuzokwenzeka ebantwini bakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho oku"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "zokwenzeka"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "ebantwini bakho"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "ekugcineni"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kwamalanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "usadinga"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "umbono"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "amalanga"
+    }
+  ],
+  "timestamp": "2026-08-31T08:06:20.413815443Z",
+  "model": "glm-5.3"
+}

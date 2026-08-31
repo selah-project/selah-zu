@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 50:7",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Futhi u-Adonayi uYahwe ungisiza; ngakho-ke angihlakazekanga ehlezeni; ngakho-ke ngibekela ubuso bami njengedwala eliqinile, futhi ngiyazi ukuthi angeke ngihlakazeka.",
+  "tokens": [
+    {
+      "surface": "ואדני",
+      "gloss": "futhi u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "ngisiza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngakho-ke (okokuqala) - ngenxa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angi-"
+    },
+    {
+      "surface": "נכלמתי",
+      "gloss": "hlakazekanga ehlezeni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "ngibekela"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso bami"
+    },
+    {
+      "surface": "כחלמיש",
+      "gloss": "njengedwala eliqinile"
+    },
+    {
+      "surface": "ואדע",
+      "gloss": "futhi ngiyazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ngihlakazeka"
+    }
+  ],
+  "timestamp": "2026-08-31T04:34:28.719352493Z",
+  "model": "glm-5.3"
+}

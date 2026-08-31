@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 27:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Kulodwa lwayo isibindi sami asitshilo: Funani ubuso bami; ubuso bakho, uYahwe, ⟨את⟩ ngiyabufuna.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kulodwa lwayo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "asitshilo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "isibindi sami"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "Funani"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso bami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bakho"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "ngiyabufuna"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:22.296787096Z",
+  "model": "glm-5.3"
+}

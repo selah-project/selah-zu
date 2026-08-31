@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 2:19",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi ingubo encane wayeyenza yena unina, wayeyenyusela yena kusukela eminyakeni eminyakeni, ekhweleni ⟨את⟩ umyeni wakhe ukubhaxa ⟨את⟩ isibhaxo somnyaka.",
+  "tokens": [
+    {
+      "surface": "ומעיל",
+      "gloss": "futhi ingubo"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "encane"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wayeyenza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "unina"
+    },
+    {
+      "surface": "והעלתה",
+      "gloss": "wayeyenyusela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "eminyakeni"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "eminyakeni"
+    },
+    {
+      "surface": "בעלותה",
+      "gloss": "ekhweleni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umyeni wakhe"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "umyeni"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ukubhaxa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibhaxo somnyaka"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "isibhaxo"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "somnyaka"
+    }
+  ],
+  "timestamp": "2026-08-31T03:15:08.080048067Z",
+  "model": "glm-5.3"
+}

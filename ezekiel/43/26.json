@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 43:26",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "Ngezinsuku eziyisikhombisa bazokhululela ⟨את⟩ i-altare, bayihlanze ⟨את⟩ yona, baze bazalise isandla sawo.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "eziyisikhombisa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ngezinsuku"
+    },
+    {
+      "surface": "יכפרו",
+      "gloss": "bazokhululela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-altare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "bayihlanze"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona",
+      "marks": "i-altare"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "baze bazalise"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sawo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:23:23.069723830Z",
+  "model": "glm-5.3"
+}

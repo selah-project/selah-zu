@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 22:4",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Uma indoda inenza idliwe insimu noma udibi, ayithume ⟨את⟩ izinkomo, zidle ensimini yenye indoda — okuhle kakhulu kwensimu yakhe nangokuhle kakhulu kodibi lwakhe uzobuyisela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "inenza idliwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "insimu"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "udibi"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ayithume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinkomo"
+    },
+    {
+      "surface": "בעירה",
+      "gloss": "izinkomo"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "zidle"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ensimini"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "yenye indoda"
+    },
+    {
+      "surface": "מיטב",
+      "gloss": "okuhle kakhulu"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "kwensimu yakhe"
+    },
+    {
+      "surface": "ומיטב",
+      "gloss": "nangokuhle kakhulu"
+    },
+    {
+      "surface": "כרמו",
+      "gloss": "kodibi lwakhe"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "uzobuyisela"
+    }
+  ],
+  "timestamp": "2026-08-31T01:38:24.163344988Z",
+  "model": "glm-5.3"
+}

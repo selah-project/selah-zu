@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 29:30",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Izinsuku eziyisikhombisa uzozigqokisa umpristi ozolandela endaweni yakhe, oyedwa wabantwana bakhe, ongene ethangeni lokuhlangana ukukhonza endaweni engcwele.",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "eziyisikhombisa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "ילבשם",
+      "gloss": "uzozigqokisa lezi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "endaweni yakhe"
+    },
+    {
+      "surface": "מבניו",
+      "gloss": "oyedwa wabantwana bakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oca"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ongena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ithenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lokuhlangana"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ukukhonza"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "endaweni engcwele"
+    }
+  ],
+  "timestamp": "2026-08-31T01:42:10.414047045Z",
+  "model": "glm-5.3"
+}

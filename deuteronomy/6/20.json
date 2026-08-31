@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 6:20",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Uma indodana yakho ikubuza ngomuso, ithi: Yini lezi zifungo, nemithetho, nezinqumo uYahwe uElohim wetu awazalela khona nina?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "ישאלך",
+      "gloss": "ikubuza"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "indodana yakho"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ngomuso"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ithi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "lezi zifungo"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "nemithetho"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "nezinqumo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "awazalela khona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wetu"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    }
+  ],
+  "timestamp": "2026-08-31T02:31:48.102396409Z",
+  "model": "glm-5.3"
+}

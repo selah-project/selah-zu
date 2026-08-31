@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 10:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Izindlela zakhe ziqinile nangaso sonke isikhathi; izahlulelo zakho ziphezulu, kude kuye; bonke abanzakwakhe uphefumuzela kubona.",
+  "tokens": [
+    {
+      "surface": "יחילו",
+      "gloss": "ziqinile"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "izindlela zakhe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nangaso sonke"
+    },
+    {
+      "surface": "עת",
+      "gloss": "isikhathi"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ziphezulu"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "izahlulelo zakho"
+    },
+    {
+      "surface": "מנגדו",
+      "gloss": "kude kuye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "צורריו",
+      "gloss": "abanzakwakhe"
+    },
+    {
+      "surface": "יפיח",
+      "gloss": "uphefumuzela"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kubona"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:18.485455419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 3:6",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Inkosi uYehoramu yaphuma ngalosuku eSamarayimi, yabala ⟨את⟩ bonke uYisrayeli.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yaphuma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "uYehoramu"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalosuku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lolu"
+    },
+    {
+      "surface": "משמרון",
+      "gloss": "eSamarayimi"
+    },
+    {
+      "surface": "ויפקד",
+      "gloss": "yabala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonke uYisrayeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T04:03:50.660618289Z",
+  "model": "glm-5.3"
+}

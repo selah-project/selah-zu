@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 51:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 51,
+  "translation": "Kuyena, yedwa, ngihonile, nokubi kwezindle zako ngikwenzile, ukuze ulungile eweni lakho, ube hle ekwahlweni kwako.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Kuyena"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "yedwa"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "ngihonile"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "nokubi"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "kwezindle zako"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ngikwenzile"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "ulungile"
+    },
+    {
+      "surface": "בדברך",
+      "gloss": "eweni lakho"
+    },
+    {
+      "surface": "תזכה",
+      "gloss": "ube hle"
+    },
+    {
+      "surface": "בשפטך",
+      "gloss": "ekwahlweni kwako"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:36.090800578Z",
+  "model": "glm-5.3"
+}

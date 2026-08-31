@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 7:17",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Wacedisela ⟨את⟩ umndeni wakwaYehudha, wabamba ⟨את⟩ umndeni wabaseZarhi; wacedisela ⟨את⟩ umndeni wabaseZarhi kumadoda, wabanjwa uZabdi.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "wacedisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umndeni wakwaYehudha"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umndeni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "wakwaYehudha"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "wabamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umndeni wabaseZarhi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umndeni"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "wabaseZarhi"
+    },
+    {
+      "surface": "ויקרב",
+      "gloss": "wacedisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umndeni wabaseZarhi"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umndeni"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "wabaseZarhi"
+    },
+    {
+      "surface": "לגברים",
+      "gloss": "kumadoda"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "wabanjwa"
+    },
+    {
+      "surface": "זבדי",
+      "gloss": "uZabdi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:53:09.472371125Z",
+  "model": "glm-5.3"
+}

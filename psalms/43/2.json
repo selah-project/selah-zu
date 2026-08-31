@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 43:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "Ngokuba wena ungu-Elohim isiphephelo sami; kungani ungilahle? kungani ngihamba ngizila ngaphansi kwekucindezeleka k wesitha?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ungu-Elohim"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "isiphephelo sami"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "זנחתני",
+      "gloss": "ungilahle"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ngizila"
+    },
+    {
+      "surface": "אתהלך",
+      "gloss": "ngihamba"
+    },
+    {
+      "surface": "בלחץ",
+      "gloss": "ngaphansi kwekucindezeleka"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "kwesitha"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:40.932431692Z",
+  "model": "glm-5.3"
+}

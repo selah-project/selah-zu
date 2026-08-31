@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kwase kuthi, njengoba ababelethisi besaba ⟨את⟩ uElohim, wabakhalela izindlu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwase kuthi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "besaba"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "ababelethisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wabakhalela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "abakaki"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "izindlu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:25:26.948124494Z",
+  "model": "glm-5.3"
+}

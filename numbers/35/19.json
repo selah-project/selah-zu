@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Umhlawuli wegazi yena uzambulala ⟨את⟩ umbulali; ekumhlangana naye yena uzambulala.",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "Umhlawuli"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "wegazi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "uzambulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umbulali"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "umbulali"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "ekumhlangana"
+    },
+    {
+      "surface": "בו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "uzambulala"
+    }
+  ],
+  "timestamp": "2026-08-31T02:28:42.606323181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Uyenza indawo yonile ibe selwandle olungamanzi, nomhlaba omile ube semithonjeni yamanzi",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "uyenza"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "indawo yonile"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "ibe selwandle olungamanzi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "nomhlaba omile"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "omile"
+    },
+    {
+      "surface": "למוצאי",
+      "gloss": "ube semithonjeni"
+    },
+    {
+      "surface": "מים",
+      "gloss": "yamanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:53.658741547Z",
+  "model": "glm-5.3"
+}

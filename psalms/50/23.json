@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 50:23",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Ohlinzayo umnikelo wokubonga ungihlonipha; lowo ohlela indlela, ngizombonisa isindiso sika-Elohim.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "ohlinzayo"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "umnikelo wokubonga"
+    },
+    {
+      "surface": "יכבדנני",
+      "gloss": "ungihlonipha"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ohlela"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "אראנו",
+      "gloss": "ngizombonisa"
+    },
+    {
+      "surface": "בישע",
+      "gloss": "isindiso"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ka-Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:05.897404862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 5:10",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Ukuhlakanipha kukaShelomoh kwadlula ukuhlakanipha kwawo onke amadodana asempumalanga nakuso konke ukuhlakanipha kweMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ותרב",
+      "gloss": "kwadlula"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ukuhlakanipha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "kukaShelomoh"
+    },
+    {
+      "surface": "מחכמת",
+      "gloss": "ukuhlakanipha kwa-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "asempumalanga"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "nakuso konke"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ukuhlakanipha"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "kweMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T03:49:09.684102787Z",
+  "model": "glm-5.3"
+}

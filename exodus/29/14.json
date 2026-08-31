@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 29:14",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Kepha inyama yenkunu, nosizi lwazo, nodlebe lwazo, uzoshisa ngomlilo ngaphandle kwekampu; isono-ohamba yilo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩ inyama",
+      "marks": "inyama yenkunu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "yenkunu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "usizi lwazo"
+    },
+    {
+      "surface": "ערו",
+      "gloss": "usizi lwazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "udlebe lwazo"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "udlebe lwazo"
+    },
+    {
+      "surface": "תשרף",
+      "gloss": "uzoshisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngomlilo"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwekampu"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "isono-ohamba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:41:26.125321652Z",
+  "model": "glm-5.3"
+}

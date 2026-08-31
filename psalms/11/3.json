@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Uma izisekelo zibhidlizezwa, umlungisi uyakwenzani na?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "izisekelo"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "zibhidlizezwa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umlungisi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "uyakwenzani na"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "uyakwenzani na"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:34.688446445Z",
+  "model": "glm-5.3"
+}

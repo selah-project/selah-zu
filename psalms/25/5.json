@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 25:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Ngiholela ekuqininweni kwakho, ungifundise, ngokuba wena ung⟨u⟩-Elohim wensindiso yami; ⟨את⟩ kuwena ngilindele insuku yonke.",
+  "tokens": [
+    {
+      "surface": "הדריכני",
+      "gloss": "ngiholela"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ekuqininweni kwakho"
+    },
+    {
+      "surface": "ולמדני",
+      "gloss": "ungifundise"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "wensindiso yami"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "kuwena — ngilindele kuwena"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "ngilindele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "insuku"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:58.115958124Z",
+  "model": "glm-5.3"
+}

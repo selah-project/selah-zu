@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 111,
+  "ref": "psalms 119:111",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Iziqiniseko zakho ngizithole njengesifa kuze kube phakade, ngoba injabulo yenhliziyo yami yizona.",
+  "tokens": [
+    {
+      "surface": "נחלתי",
+      "gloss": "ngizithole njengesifa"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "Iziqiniseko zakho"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "injabulo"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "yenhliziyo yami"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yizona"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:52.851017542Z",
+  "model": "glm-5.3"
+}

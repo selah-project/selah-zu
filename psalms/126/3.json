@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 126,
+  "translation": "uYahwe wenzile izinto ezinkulu nathi; sasingajabulile.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "wenzile izinto ezinkulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nathi"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "sasi"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "ngajabulile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:31.994643905Z",
+  "model": "glm-5.3"
+}

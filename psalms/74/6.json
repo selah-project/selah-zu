@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 74:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 74,
+  "translation": "Manje wonke amakhobono ayo ndawonye bayawaqhekezisa ngezembe namahamela",
+  "tokens": [
+    {
+      "surface": "ועת",
+      "gloss": "manje"
+    },
+    {
+      "surface": "פתוחיה",
+      "gloss": "amakhobono ayo"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "בכשיל",
+      "gloss": "ngezembe"
+    },
+    {
+      "surface": "וכילפת",
+      "gloss": "namahamela"
+    },
+    {
+      "surface": "יהלמון",
+      "gloss": "bayawaqhekezisa"
+    }
+  ],
+  "timestamp": "2026-08-31T11:59:24.141455121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 42:9",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Bheka, izinto zakuqala zafika, ezintsha ngiyazimemezela; ngaphambi kokuqhakaza kwazo nginizwisa.",
+  "tokens": [
+    {
+      "surface": "הראשנות",
+      "gloss": "izinto zakuqala"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "באו",
+      "gloss": "zafika"
+    },
+    {
+      "surface": "וחדשות",
+      "gloss": "ezintsha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "ngiyazimemezela"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ngaphambi koku-"
+    },
+    {
+      "surface": "תצמחנה",
+      "gloss": "qhakaza kwazo"
+    },
+    {
+      "surface": "אשמיע",
+      "gloss": "nginizwisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    }
+  ],
+  "timestamp": "2026-08-31T04:29:17.718183645Z",
+  "model": "glm-5.3"
+}

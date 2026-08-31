@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Njalo uthe uYahwe uElohim wami: Yisa ⟨את⟩ imfuyo eyokubulawa.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Njalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wami"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "Yisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imfuyo"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "imfuyo"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "eyokubulawa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:07.274261686Z",
+  "model": "glm-5.3"
+}

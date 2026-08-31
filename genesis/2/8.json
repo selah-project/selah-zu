@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi uYahwe uElohim watshala insimu e-Edeni, empumalanga; wabeka khona ⟨את⟩ indoda ayeyilumbele.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "futhi watshala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "גן",
+      "gloss": "insimu"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "e-Edeni"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "empumalanga"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indoda"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayeyi"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "lumbele"
+    }
+  ],
+  "timestamp": "2026-08-31T01:01:52.089115010Z",
+  "model": "glm-5.3"
+}

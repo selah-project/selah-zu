@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 64:8",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 64,
+  "translation": "Ungathukuthele kangangaka, uYahwe, ungakhumbuli isiphambeko kuze kube phakade; bheka, sicela, singabantu bakho sonke.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Unga"
+    },
+    {
+      "surface": "תקצף",
+      "gloss": "thukuthele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kangangaka"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ungakhumbuli"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "khumbula"
+    },
+    {
+      "surface": "עון",
+      "gloss": "isiphambeko"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "sicela ubheke"
+    },
+    {
+      "surface": "נא",
+      "gloss": "sicela"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "sonke"
+    }
+  ],
+  "timestamp": "2026-08-31T04:37:14.588566692Z",
+  "model": "glm-5.3"
+}

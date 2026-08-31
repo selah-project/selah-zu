@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 97:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 97,
+  "translation": "Thokoza nina abalungile kuYahwe, nibongele ⟨ukukhumbula⟩ kungcwele lakhe.",
+  "tokens": [
+    {
+      "surface": "שמחו",
+      "gloss": "Thokoza nina"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abalungile"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "nibongele"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "ukukhumbula"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "kungcwele lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:17.381536732Z",
+  "model": "glm-5.3"
+}

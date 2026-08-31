@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi ⟨את⟩ amafutha ayo wonke uzawakhuphela kuyo, aze awenise ku-altare.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amafutha ayo wonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "amafutha ayo"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "uzawakhuphela"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "aze awenise"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ku-altare"
+    }
+  ],
+  "timestamp": "2026-08-31T05:57:33.600942733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 1:30",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "uYahwe uElohim wenu ohamba phambili kwenu, yena uzolwela kini, njengakho konke akwenzile ⟨את⟩ ngani eMitsrayim emehlweni enu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ohamba phambili"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "uzolwela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "njengakho konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwenzile"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akwenzile"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ngani"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "emehlweni enu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:30:05.060076428Z",
+  "model": "glm-5.3"
+}

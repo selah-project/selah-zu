@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 25:13",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi uzakwenza amabhadi omuthi wesitina, uzakuzigcina ngegolide ⟨את⟩ wona.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "uzakwenza"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "amabhadi"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "omuthi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "wesitina"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "uzakuzigcina nge-"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wona",
+      "marks": "amabhadi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "igolide"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:04.559555280Z",
+  "model": "glm-5.3"
+}

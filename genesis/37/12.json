@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Abafowabo bakhe bahamba bayokwelusa ⟨את⟩ izimvu zikayise eShekhem.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "bahamba"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abafowabo bakhe"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "bayokwelusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izimvu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "izimvu"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "zikayabo"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "eShekhem"
+    }
+  ],
+  "timestamp": "2026-08-31T01:18:47.931013640Z",
+  "model": "glm-5.3"
+}

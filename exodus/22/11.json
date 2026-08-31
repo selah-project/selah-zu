@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 22:11",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Futhi uma kutshekile kutshekelwa kuyena, uzobuyisela kumnikazi wawo",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Futhi uma"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "kutshekile"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "kutshekelwa"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "uzobuyisela"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "kumnikazi wawo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:46.413047308Z",
+  "model": "glm-5.3"
+}

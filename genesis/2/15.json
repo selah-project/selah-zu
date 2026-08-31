@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 2:15",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Uthatha uYahwe uElohim ⟨את⟩ umuntu, amnikeza isikhundla esiphumulekile ensimini ye-Edeni, ukuyilima nokuyigcina.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Uthatha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "וינחהו",
+      "gloss": "amnikeza isikhundla esiphumulekile"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "ensimini"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "ye-Edeni"
+    },
+    {
+      "surface": "לעבדה",
+      "gloss": "ukuyilima"
+    },
+    {
+      "surface": "ולשמרה",
+      "gloss": "nokuyigcina"
+    }
+  ],
+  "timestamp": "2026-08-31T01:01:57.996032704Z",
+  "model": "glm-5.3"
+}

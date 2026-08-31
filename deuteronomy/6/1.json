@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 6:1",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi le yiyumithetho, izimiso nezinqumo, uYahwe uElohim benu, eyayalela ukunifundisa ⟨את⟩ ukuyenza ezweni enidlulela kona ukulithatha.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "Futhi le"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "yiyumithetho"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "izimiso"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "nezinqumo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "eyayalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim benu"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "ukunifundisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukuyenza"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "enidlulela"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kona"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ukulithatha"
+    }
+  ],
+  "timestamp": "2026-08-31T02:33:21.321167911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Wakhulelwa wazala indodana, wayibiza ⟨את⟩ igama layo u-Eri.",
+  "tokens": [
+    {
+      "surface": "וַתַּהַר",
+      "gloss": "Wakhulelwa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wayibiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama layo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama layo"
+    },
+    {
+      "surface": "ער",
+      "gloss": "u-Eri"
+    }
+  ],
+  "timestamp": "2026-08-31T01:20:13.884047322Z",
+  "model": "glm-5.3"
+}

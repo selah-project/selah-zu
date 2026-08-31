@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 1:4",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kwathi, lapho ngizwa ⟨את⟩ lelo mazwi, ngahlala ngakhala, ngabongwa izinsuku, bengizila ukudla ngithandaza phambi kuElohim wamazulu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "כשמעי",
+      "gloss": "lapho ngizwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lelo mazwi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ngahlala"
+    },
+    {
+      "surface": "ואבכה",
+      "gloss": "ngakhala"
+    },
+    {
+      "surface": "ואתאבלה",
+      "gloss": "ngabongwa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "bengi-"
+    },
+    {
+      "surface": "צם",
+      "gloss": "zila ukudla"
+    },
+    {
+      "surface": "ומתפלל",
+      "gloss": "ngithandaza"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wamazulu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:13:00.814287497Z",
+  "model": "glm-5.3"
+}

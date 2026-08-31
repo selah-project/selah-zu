@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 30:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Futhi maqondana nonina isibungelelo sikaParo singaba yisihlazo, nesiphephelo esithunzweni seMitsrayim singaba yinhlonipho",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Futhi singaba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ngokunina maqondana nonina"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "isibungelelo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "sikaParo"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "yisihlazo"
+    },
+    {
+      "surface": "והחסות",
+      "gloss": "nesiphephelo"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "esithunzweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "seMitsrayim"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "singaba yinhlonipho"
+    }
+  ],
+  "timestamp": "2026-08-31T04:26:24.249767936Z",
+  "model": "glm-5.3"
+}

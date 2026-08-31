@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 8:3",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Kwasekupheleni kweminyaka eyisikhombisa umfazi wabuyela ezweni lamaPelishti, waphuma ukukhala kunkosi ⟨ngokwe⟩ ndlu yakhe nendlela yakhe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwase"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "isikhombisa"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ותשב",
+      "gloss": "wabuyela"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "lamaPelishti"
+    },
+    {
+      "surface": "ותצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "לצעק",
+      "gloss": "ukukhala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngokwe"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "indlu yakhe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nan"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "indlela yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T11:40:06.363752033Z",
+  "model": "glm-5.3"
+}

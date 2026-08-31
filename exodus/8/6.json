@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 8:6",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Wathi: Ngomuso. Wathi: Njengenkulumo yakho, ukuze wazi ukuthi akekho ⟨ofana⟩ noYahwe uElohim wethu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "ngomuso"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "njengenkulumo yakho"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "wazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akekho"
+    },
+    {
+      "surface": "כיהוה",
+      "gloss": "ofana noYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:01.817300335Z",
+  "model": "glm-5.3"
+}

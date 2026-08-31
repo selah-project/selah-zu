@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "NgeGathi ningenzi sazi; lelani, ningakhali; eBethe-le-Aphra ndigingile ngomhlabathi.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "eGathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musani"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "ukwenza sazi"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "lelani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ninga"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "ukulila"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "eBethe"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "le-Aphra"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ngomhlabathi"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "ndigingile"
+    }
+  ],
+  "timestamp": "2026-08-31T05:35:31.192190194Z",
+  "model": "glm-5.3"
+}

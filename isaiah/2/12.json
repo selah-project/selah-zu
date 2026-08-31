@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 2:12",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ngokuba kukhona usuku lukaYahwe wezimpondo, phezu kwazo zonke izinto eziqhayisayo neziphakeme, futhi phezu kwazo zonke eziphakanyisiweyo; futhi zizoncikaziswa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "lukaYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wezimpondo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "eziqhayisayo"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "neziphakeme"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi phezu kwa-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "eziphakanyisiweyo"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "futhi zizoncikaziswa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:14:43.496194828Z",
+  "model": "glm-5.3"
+}

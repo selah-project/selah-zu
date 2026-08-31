@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Ohlabayo indoda futhi ifa — ngokufa uzakufa.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "Ohlabayo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "futhi ifa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ngokufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "uzakufa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:41.462786394Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 89:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Ikhesedi kaYahwe kuze kube phakade ngiyakucula; kumkhokho nokumkhokha ngiyazazisa ukuthembeka kwakho emlonyeni wami.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ngiyakucula"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kumkhokho"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nokumkhokha"
+    },
+    {
+      "surface": "אודיע",
+      "gloss": "ngiyazazisa"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ukuthembeka kwakho"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "emlonyeni wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:31.134408700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ndathi kini ngaleso sikhathi, ngithi: Angikwazi, ngiyedwa, ukunithwala ⟨את⟩ nini;",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ndathi"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ngaleso"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sikhathi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngithi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "angikwazi"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ngiyedwa"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ukunithwala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nini"
+    }
+  ],
+  "timestamp": "2026-08-31T02:29:43.631612891Z",
+  "model": "glm-5.3"
+}

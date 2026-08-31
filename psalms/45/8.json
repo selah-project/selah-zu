@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 45:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Uthande ubulungisi, uzonde ububi; ngakho-ke uElohim, u-Elohim wakho, wagcoba amafutha okujabula ngaphezu kwabahlobo bakho.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Uthande"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ubulungisi"
+    },
+    {
+      "surface": "ותשנא",
+      "gloss": "uzonde"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "משחך",
+      "gloss": "wagcoba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "u-Elohim wakho"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "okujabula"
+    },
+    {
+      "surface": "מחבריך",
+      "gloss": "ngaphezu kwabahlobo bakho"
+    }
+  ],
+  "timestamp": "2026-08-31T11:39:04.273912688Z",
+  "model": "glm-5.3"
+}

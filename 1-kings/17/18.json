@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 17:18",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Yasuthi ku-Eliyahu: Ngiseni mina nawe, wena ndoda ka-Elohim? Uzungele ukungikhumbuza ⟨את⟩ isono sami, bese ubulala ⟨את⟩ indodana yami?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "yasuthi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Eliyahu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ngiseni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ndoda"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ka-Elohim"
+    },
+    {
+      "surface": "באת",
+      "gloss": "Uzungele"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ukungikhumbuza"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "ukukhumbuza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isono sami"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "isono sami"
+    },
+    {
+      "surface": "ולהמית",
+      "gloss": "bese ubulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indodana yami"
+    },
+    {
+      "surface": "בני",
+      "gloss": "indodana yami"
+    }
+  ],
+  "timestamp": "2026-08-31T11:44:07.915579042Z",
+  "model": "glm-5.3"
+}

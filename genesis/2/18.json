@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "UYahwe uElohim wathi: Akhilahlelekile ukuthi umuntu abe yedwa; ngizakwenza ⟨kuye⟩ umsizi olingana naye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akhi-"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "-lahlelekile"
+    },
+    {
+      "surface": "היות",
+      "gloss": "ukuthi...abe"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yedwa"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ngizakwenza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kuye⟩"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "umsizi"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "olingana naye"
+    }
+  ],
+  "timestamp": "2026-08-31T01:01:41.274190143Z",
+  "model": "glm-5.3"
+}

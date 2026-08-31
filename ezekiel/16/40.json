@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezekiel 16:40",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Baphakamisa iqembu elikhulu ngokumelene nawe, bakushaya ngamatshe, bakhipha imiphimbo yakho ngezikhali zabo ezimbaxa.",
+  "tokens": [
+    {
+      "surface": "והעלו",
+      "gloss": "baphakamisa"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ngokumelene nawe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "iqembu elikhulu"
+    },
+    {
+      "surface": "ורגמו",
+      "gloss": "bakushaya ngamatshe"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "ngamatshe"
+    },
+    {
+      "surface": "ובתקוך",
+      "gloss": "bakhipha imiphimbo yakho"
+    },
+    {
+      "surface": "בחרבותם",
+      "gloss": "ngezikhali zabo ezimbaxa"
+    }
+  ],
+  "timestamp": "2026-08-31T05:09:13.786715652Z",
+  "model": "glm-5.3"
+}

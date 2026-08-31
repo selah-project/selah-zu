@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 24:24",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Abantu bathi kuYehoshuwa: UYahwe uElohim wethu siyomkhhonza, nelizwi lakhe siyaluzwa.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe uElohim wethu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "siyomkhhonza"
+    },
+    {
+      "surface": "ובקולו",
+      "gloss": "nelizwi lakhe"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "siyaluzwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:02:04.709400994Z",
+  "model": "glm-5.3"
+}

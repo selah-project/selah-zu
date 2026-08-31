@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 4:42",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi ababalwayo ngemindeni yamadodana kaMerari, ngemindeni yabo, ngokwendlu yokobaba;",
+  "tokens": [
+    {
+      "surface": "ופקודי",
+      "gloss": "Futhi ababalwayo"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ngemindeni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yamadodana"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "kaMerari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngemindeni yabo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ngokwendlu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "yokobaba"
+    }
+  ],
+  "timestamp": "2026-08-31T02:08:52.490929167Z",
+  "model": "glm-5.3"
+}

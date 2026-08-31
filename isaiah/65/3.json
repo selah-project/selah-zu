@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 65:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 65,
+  "translation": "Isizwe esingicasukela njalo ⟨את⟩ ebunzimeni bami; esihlabela emasimini, esitshisa impepho ematileni.",
+  "tokens": [
+    {
+      "surface": "העם",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "המכעיסים",
+      "gloss": "esingicasukela"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ebunzimeni bami"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ebuso"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "esihlabela"
+    },
+    {
+      "surface": "בגנות",
+      "gloss": "emasimini"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "esitshisa impepho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ema"
+    },
+    {
+      "surface": "הלבנים",
+      "gloss": "tileni"
+    }
+  ],
+  "timestamp": "2026-08-31T04:38:19.678543843Z",
+  "model": "glm-5.3"
+}

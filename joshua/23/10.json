@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 23:10",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Indoda eyodwa kini izolandela izinkulungwane, ngoba uYahwe u-Elohim wenu, yena ulwela nina, njengoba anikhulumile.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eyodwa"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ירדף",
+      "gloss": "izolandela"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "izinkulungwane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "u-Elohim wenu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "ulwela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "anikhulumile"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    }
+  ],
+  "timestamp": "2026-08-31T03:00:04.944468152Z",
+  "model": "glm-5.3"
+}

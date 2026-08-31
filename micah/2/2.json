@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 2:2",
+  "book": "micah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Bafisa amasimu abawathatha ngamandla, nezindlu bazithatha; bacindeza indoda nendlu yayo, nomuntu nefa lakhe.",
+  "tokens": [
+    {
+      "surface": "וחמדו",
+      "gloss": "Bafisa"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "amasimu"
+    },
+    {
+      "surface": "וגזלו",
+      "gloss": "abawathatha ngamandla"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "nezindlu"
+    },
+    {
+      "surface": "ונשאו",
+      "gloss": "bazithatha"
+    },
+    {
+      "surface": "ועשקו",
+      "gloss": "bacindeza"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "וביתו",
+      "gloss": "nendlu yayo"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "nomuntu"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "nefa lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:34:52.018058943Z",
+  "model": "glm-5.3"
+}

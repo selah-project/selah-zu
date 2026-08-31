@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 26:10",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi umhlaba wavula ⟨את⟩ umlomo wawo, wabadla ⟨את⟩ labo noKorahi ekufeni komhlangano, ngokudla kwelangi ⟨את⟩ amadoda angu-⟨amakhulu amabili namashumi amahlanu⟩; futhi basala benguphawu.",
+  "tokens": [
+    {
+      "surface": "ותפתח",
+      "gloss": "wavula"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umlomo"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "umlomo wawo"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "wabadla"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ labo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no",
+      "marks": "uKorahi"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "uKorahi"
+    },
+    {
+      "surface": "במות",
+      "gloss": "ekufeni"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "komhlangano"
+    },
+    {
+      "surface": "באכל",
+      "gloss": "ngokudla"
+    },
+    {
+      "surface": "האש",
+      "gloss": "kwelangi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadoda angu-amakhulu amabili namashumi amahlanu"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "namashumi amahlanu"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "angu-amakhulu amabili"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "basala bengu-"
+    },
+    {
+      "surface": "לנס",
+      "gloss": "uphawu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:16:41.860257246Z",
+  "model": "glm-5.3"
+}

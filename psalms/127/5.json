@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 127:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 127,
+  "translation": "Ubusisiwe indoda egcwalisile ⟨את⟩ isibhamu sayo ngazo; angeke bahlazeka, ngoba bethula ⟨את⟩ izitha esigabanweni.",
+  "tokens": [
+    {
+      "surface": "אַשְׁרֵ֤י",
+      "gloss": "Ubusisiwe"
+    },
+    {
+      "surface": "הַגֶּ֗בֶר",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "אֲשֶׁ֤ר",
+      "gloss": "ogcwalisile"
+    },
+    {
+      "surface": "מִלֵּ֥א",
+      "gloss": "egcwalisile"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "isibhamu sayo"
+    },
+    {
+      "surface": "אַשְׁפָּת֗וֹ",
+      "gloss": "isibhamu sayo"
+    },
+    {
+      "surface": "מֵ֫הֶ֥ם",
+      "gloss": "ngazo"
+    },
+    {
+      "surface": "לֹֽא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יֵבֹ֑שׁוּ",
+      "gloss": "bahlazeka"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "יְדַבְּר֖וּ",
+      "gloss": "bethula"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "izitha"
+    },
+    {
+      "surface": "אוֹיְבִ֣ים",
+      "gloss": "izitha"
+    },
+    {
+      "surface": "בַּשָּֽׁעַר",
+      "gloss": "esigabanweni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:26.943362122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Futhi ngiyakwenza kuwena ⟨את⟩ lokho engingakwenzanga, no⟨את⟩ oku engingakwenzi okufana nawo futhi, ngenxa yazo zonke izidyabo zakho.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "futhi ngiyakwenza"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hhayi"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ngakwenza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "oku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hhayi"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ngingakwenzi"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "okufana nawo"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ngenxa yako"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "izidyabo zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T05:05:59.133700448Z",
+  "model": "glm-5.3"
+}

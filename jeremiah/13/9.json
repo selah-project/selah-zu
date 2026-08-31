@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 13:9",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Kanjalo usho uYahwe: Ngale ndlela ngizonyonyoba ⟨את⟩ isithukuthuku sikaYehudha nange⟨את⟩ isithukuthuku esikhulu seYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Kanjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "usho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "Ngale ndlela"
+    },
+    {
+      "surface": "אשחית",
+      "gloss": "ngizonyonyoba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isithukuthuku sikaYehudha"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "isithukuthuku"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "sikaYehudha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isithukuthuku esikhulu seYerushalayimi"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "isithukuthuku"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "seYerushalayimi"
+    },
+    {
+      "surface": "הרב",
+      "gloss": "esikhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:45:18.615867661Z",
+  "model": "glm-5.3"
+}

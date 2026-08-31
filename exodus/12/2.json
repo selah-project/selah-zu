@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Inyanga leli ninayona inhloko yezinyanga; eyokuqala yona inina yezinyanga zomnyaka.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "inyanga"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ninayona"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "inhloko"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "yezinyanga"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "eyokuqala"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "inina"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "yezinyanga"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "zomnyaka"
+    }
+  ],
+  "timestamp": "2026-08-31T01:32:03.454037910Z",
+  "model": "glm-5.3"
+}

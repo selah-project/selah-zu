@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 39:7",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Futhi ⟨את⟩ amehlo kaTsidkiyahu wawakhubeka, wambopha ngezintambo zethusi, ukumisa eBhabheli ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amehlo kaTsidkiyahu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "kaTsidkiyahu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "wawakhubeka"
+    },
+    {
+      "surface": "ויאסרהו",
+      "gloss": "wambopha"
+    },
+    {
+      "surface": "בנחשתים",
+      "gloss": "ngezintambo zethusi"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "ukumisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (uTsidkiyahu)"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "eBhabheli"
+    }
+  ],
+  "timestamp": "2026-08-31T04:56:06.182318465Z",
+  "model": "glm-5.3"
+}

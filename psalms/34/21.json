@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Uyagcina wonke amathambo akhe; oyedwa kuzo awusoze waphuka.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Uyagcina"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "amathambo akhe"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "oyedwa"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "kuzo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awusoze"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "waphuka"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:16.932950821Z",
+  "model": "glm-5.3"
+}

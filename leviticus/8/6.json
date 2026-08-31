@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "UMoshe wasondelisa ⟨את⟩ u-Aharon no⟨את⟩ abantwana bakhe, wabageza ngamanzi.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "wasondelisa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ויאת",
+      "gloss": "no⟨את⟩",
+      "marks": "abantwana bakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abantwana bakhe"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "wabageza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "u-Aharon nabantwana bakhe"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ngamanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:54:41.291637821Z",
+  "model": "glm-5.3"
+}

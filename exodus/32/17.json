@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 32:17",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Futhi uYehoshuwa wezwa ⟨את⟩ izwi lomuzi ekukhaleni, wayesethi kuMoshe: izwi lokulwa lizwe enkampeni.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wezwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lomuzi"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ekukhaleni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesethi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "lokulwa"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "enkampeni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:44:04.929810039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 94:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 94,
+  "translation": "Qondani, nina buhlakuya phakathi kwabantu; nina ziyegenye, nizohlakanipha nini?",
+  "tokens": [
+    {
+      "surface": "בינו",
+      "gloss": "qondani"
+    },
+    {
+      "surface": "בערים",
+      "gloss": "nina buhlakuya"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "phakathi kwabantu"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "nina ziyegenye"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nini"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "nizohlakanipha"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:39.100191344Z",
+  "model": "glm-5.3"
+}

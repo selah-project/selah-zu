@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 116,
+  "translation": "Futhi ngegame laYahwe ngiyobiza: 'Awu, Yahwe, sula umphefumulo wami!'",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "Futhi ngegame"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "laYahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ngiyobiza"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "Awu, ngiyacela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "sula\/yalusa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumulo wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:39.520204012Z",
+  "model": "glm-5.3"
+}

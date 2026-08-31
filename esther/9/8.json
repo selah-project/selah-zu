@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Naye ⟨את⟩ uPoratha, naye ⟨את⟩ uAdalja, naye ⟨את⟩ uAridatha —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "uPoratha"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "uPoratha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "uAdalja"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "uAdalja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "uAridatha"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "uAridatha"
+    }
+  ],
+  "timestamp": "2026-08-31T07:54:02.972865375Z",
+  "model": "glm-5.3"
+}

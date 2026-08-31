@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Futhi osipweni lolu limi phambili lomhlabandi labantwana beYisakari wayenguNetaneli indodana kaTsuari.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "futhi e-"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "osipweni"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "lomhlabandi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "beYisakara"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "uNetaneli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "kaTsuari"
+    }
+  ],
+  "timestamp": "2026-08-31T02:12:59.456469321Z",
+  "model": "glm-5.3"
+}

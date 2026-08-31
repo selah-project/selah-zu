@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Suka, hamba uyoiYiniwe, umuzi omkhulu, ubizise kulo ⟨את⟩ isaziso engisizoshoyo kuwe.",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Suka"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uyo"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "iYiniwe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "umuzi"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "omkhulu"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "ubizise"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kulo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isaziso"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "isaziso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sizoshoyo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:02.300313219Z",
+  "model": "glm-5.3"
+}

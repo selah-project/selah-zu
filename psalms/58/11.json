@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 58:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 58,
+  "translation": "Umulungile uzojabula ngokubona ukuphindisela; izinyawo zakhe uzozigeza ngegazi lomoni.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "uzojabula"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "umlungile\/olungileyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokubona"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ubona"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ukuphindisela"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "izinyawo zakhe"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "uzozigeza"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ngegazi"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "lomoni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:11.931378471Z",
+  "model": "glm-5.3"
+}

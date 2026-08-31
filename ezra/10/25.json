@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 10:25",
+  "book": "ezra",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Futhi kusuka ku-Israyeli: emadodweni ka-Paroshi, uRamyah, no-Yiziyah, noMalkiyah, noMiyamin, no-Elazari, noMalkiyah, noBenayah.",
+  "tokens": [
+    {
+      "surface": "ומישראל",
+      "gloss": "kusuka ku-Israyeli"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "emadodweni ka-"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "u-Paroshi"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "uRamyah"
+    },
+    {
+      "surface": "ויזיה",
+      "gloss": "no-Yiziyah"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "noMalkiyah"
+    },
+    {
+      "surface": "ומימן",
+      "gloss": "noMiyamin"
+    },
+    {
+      "surface": "ואלעזר",
+      "gloss": "no-Elazari"
+    },
+    {
+      "surface": "ומלכיה",
+      "gloss": "noMalkiyah"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "noBenayah"
+    }
+  ],
+  "timestamp": "2026-08-31T08:10:42.280941867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,142 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 7:7",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi uShelomoh wangenisa ngukuthi kungcwele indikimana yendiied. — indikimana yendlu yesigodlo esingaphambi kwendlu kaYahwe, ngokuba wanikela lapha izinkonzo ezishisiwe namafutha okuthula; ngokuba i-altare yensimbi uShelomoh ayenziyo ayengakwazi ukubamba ⟨את⟩ umnikelo oshisiwe, ⟨את⟩ umnikelo wezikuni kanye ⟨את⟩ amafutha.",
+  "tokens": [
+    {
+      "surface": "ויקדש",
+      "gloss": "wangenisa ngukuthi kungcwele"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indikimana yendlu yesigodlo"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "indikimana"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "yendlu yesigodlo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "engaphambi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kendlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wanikela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "העלות",
+      "gloss": "izinkonzo ezishisiwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amafutha okuthula"
+    },
+    {
+      "surface": "חלבי",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "okuthula"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "yensimbi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ayenziyo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayengakwazi"
+    },
+    {
+      "surface": "יכול",
+      "gloss": "ukwazi"
+    },
+    {
+      "surface": "להכיל",
+      "gloss": "ukubamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnikelo oshisiwe"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "umnikelo oshisiwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umnikelo wezikuni"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "umnikelo wezikuni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amafutha"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "amafutha"
+    }
+  ],
+  "timestamp": "2026-08-31T08:33:16.561450656Z",
+  "model": "glm-5.3"
+}

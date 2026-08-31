@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 21:15",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi oshayayo uyise noma unina — uyabulawa, ubulawa ngempela.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "Futhi oshayayo"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "noma unina"
+    },
+    {
+      "surface": "מות",
+      "gloss": "uyabulawa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ubulawa ngempela"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:13.474422915Z",
+  "model": "glm-5.3"
+}

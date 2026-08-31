@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 44:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Usisusa uye emuva kusonileso, labo abasizondayo basizuzula basizuzele thina.",
+  "tokens": [
+    {
+      "surface": "תשיבנו",
+      "gloss": "Usisusa uye emuva"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "emuva"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "צר",
+      "gloss": "sonileso"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "labo abasizondayo"
+    },
+    {
+      "surface": "שסו",
+      "gloss": "basizuzula"
+    },
+    {
+      "surface": "למו",
+      "gloss": "basizuzele thina"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:28.082060796Z",
+  "model": "glm-5.3"
+}

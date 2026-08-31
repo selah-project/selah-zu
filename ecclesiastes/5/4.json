@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Kuhle okhothungathembisi, kunokhothuzithembisa ungakhokheli.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kuhle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "thembisi"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "kunokhothuzithembisa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi unga"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "khokheli"
+    }
+  ],
+  "timestamp": "2026-08-31T07:45:38.617985802Z",
+  "model": "glm-5.3"
+}

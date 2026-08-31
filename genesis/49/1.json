@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 49:1",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "UYaqobhu wabizela abantwana bakhe wathi: Qoqani, ndinixelele ⟨את⟩ lokho okuzakunithinta ⟨את⟩ nina ekupheleni kwamanga.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wabizela"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaqobhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abantwana bakhe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "האספו",
+      "gloss": "qoqani"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "ndinixelele"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "loko okuzakunithinta"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "loko"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "okuzakunithinta"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "kwamanga"
+    }
+  ],
+  "timestamp": "2026-08-31T01:26:12.722514775Z",
+  "model": "glm-5.3"
+}

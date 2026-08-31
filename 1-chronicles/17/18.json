@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 17:18",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Yini enye uDawidi engakungezela kuwe yona ukwenza udumo, ⟨את⟩ inkonjana yakho? Futhi wena ⟨את⟩ inkonjana yakho uyayazi.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "engakungezela"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "enye"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "לכבוד",
+      "gloss": "ukwenza udumu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkonjana yakho"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "inkonjana yakho"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "futhi wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkonjana yakho"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "inkonjana yakho"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "uyayazi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:27:17.558683606Z",
+  "model": "glm-5.3"
+}

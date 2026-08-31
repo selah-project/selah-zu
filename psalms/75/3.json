@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 75,
+  "translation": "Ngiyathatha isikhathi esinqunyiwe, mina; ngokobulungisa ngiyahlulela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngiyathatha isikhathi esinqunyiwe, mina; ngokobulungisa ngiyahlalela —"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ngiyathatha"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "isikhathi esinqunyiwe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ngokobulungisa"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "ngiyahlulela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:01.266578149Z",
+  "model": "glm-5.3"
+}

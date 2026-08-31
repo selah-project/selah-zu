@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 2:8",
+  "book": "jonah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Uma umphefumulo wami usobuthaka phezu kwami, ngakhumbula ⟨את⟩ uYahwe; futhi umthandazo wami wafika kuwe, ethempelini elingcwele lakho.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "uma usobuthaka"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumulo wami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "זכרתי",
+      "gloss": "ngakhumbula"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "futhi wafika"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "umthandazo wami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ithempeli"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "elingcwele lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T05:35:42.052802995Z",
+  "model": "glm-5.3"
+}

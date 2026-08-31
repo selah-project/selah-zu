@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 16:18",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Kwathi lapho u-Zimri ebona ukuthi umuzi uthathwe, wangena ethempelini lelikhaya likankosi, waze wabhisa ngomlilo ⟨את⟩ ikhaya likankosi phezulu kwakhe, wafa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "lapho ebona"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "u-Zimri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "uthathwe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "umuzi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "ithempeli"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ikhaya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "likankosi"
+    },
+    {
+      "surface": "וישרף",
+      "gloss": "wabhisa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezulu kwakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikhaya likankosi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ikhaya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "likankosi"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngomlilo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wafa"
+    }
+  ],
+  "timestamp": "2026-08-31T03:58:34.376668669Z",
+  "model": "glm-5.3"
+}

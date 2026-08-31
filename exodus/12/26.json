@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi kuzokwenzeka uma izinkanenu zenu zisho kunina: Yini le nsizakalo kunina?",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "futhi kuzokwenzeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "uma"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "zisho"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kunina"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "izinkanenu zenu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "insizakalo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kunina"
+    }
+  ],
+  "timestamp": "2026-08-31T01:33:42.078396579Z",
+  "model": "glm-5.3"
+}

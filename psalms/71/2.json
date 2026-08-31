@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 71:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 71,
+  "translation": "Ngelungelo lakho undonsele undikhulule; thoba indlebe yakho kuwe kuze kufike kimi, undiphilise.",
+  "tokens": [
+    {
+      "surface": "בצדקתך",
+      "gloss": "Ngelungelo lakho"
+    },
+    {
+      "surface": "תצילני",
+      "gloss": "undonsele"
+    },
+    {
+      "surface": "ותפלטני",
+      "gloss": "undikhulule"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "thoba"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuze kufike kimi"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "indlebe yakho"
+    },
+    {
+      "surface": "והושיעני",
+      "gloss": "undiphilise"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:12.234533158Z",
+  "model": "glm-5.3"
+}

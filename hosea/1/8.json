@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Wamukelisa ⟨את⟩ uLo-Ruchama, wakhulelwa futhi, wazala indodana.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "wamukelisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uLo-Ruchama"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Lo-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Ruchama"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "wakhulelwa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    }
+  ],
+  "timestamp": "2026-08-31T05:27:19.416760453Z",
+  "model": "glm-5.3"
+}

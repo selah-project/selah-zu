@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Amadodana ka-ʿAzgadi, izinkulungwane ezimbili, izinkulungwane ezintathu... — correction: izinkulungwane ezimbili, amakhulu amathathu, amashumi amabili nambili.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Amadodana ka-"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "ʿAzgadi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "izinkulungwane ezimbili"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "(amakhulu) amathathu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amashumi amabili"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "nambili"
+    }
+  ],
+  "timestamp": "2026-08-31T08:16:11.617267790Z",
+  "model": "glm-5.3"
+}

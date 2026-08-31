@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 55,
+  "translation": "Midlize, u-Adonayi, hlukanisa ulimi lwabo, ngoba ngibone ubudlova nobungani e{dolobheni}",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "Midlize"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "hlukanisa"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ulimi lwabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ngibone"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ubudlova"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "nobungani"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "edolobheni"
+    }
+  ],
+  "timestamp": "2026-08-31T10:30:52.515761069Z",
+  "model": "glm-5.3"
+}

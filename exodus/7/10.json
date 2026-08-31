@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 7:10",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "UMoshe no-Aharon bangena kuParo, bayenza njalo njengoba uYahwe awabizela ngakhona; u-Aharon waphonsa ⟨את⟩ induku yakhe phambi kukaParo naphambi kwabasebenzi bakhe, yaba yinyoka.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "bangena"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "no-Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "bayenza"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "awabizela ngakhona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "waphonsa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "induku yakhe"
+    },
+    {
+      "surface": "מטהו",
+      "gloss": "induku yakhe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "naphambi kwa"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "abasebenzi bakhe"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "לתנין",
+      "gloss": "yinyoka"
+    }
+  ],
+  "timestamp": "2026-08-31T01:28:08.716928634Z",
+  "model": "glm-5.3"
+}

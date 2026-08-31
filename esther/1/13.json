@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 1:13",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Inkosi yakusho kubaholi abayazi izikhathi, ngokuba kunjalo indaba yenkosi phambi kwanabo bonke abayazi umthetho nohlulelo —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yakusho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "kubaholi"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "abayazi"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "izikhathi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kunjalo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "indaba"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yenkosi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "abayazi"
+    },
+    {
+      "surface": "דת",
+      "gloss": "umthetho"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "nohlulelo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:58:26.064965049Z",
+  "model": "glm-5.3"
+}

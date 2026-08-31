@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 24:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Phakamisani izinhloko zenu, masango; niphakanyiswe, iminyango yaphakade; ngingene inkosi yenkazimulo.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "phakamisani"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "masango"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "izinhloko zenu"
+    },
+    {
+      "surface": "והנשאו",
+      "gloss": "niphakanyiswe"
+    },
+    {
+      "surface": "פתחי",
+      "gloss": "iminyango"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "yaphakade"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "ngingene"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "yenkazimulo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:11.869557272Z",
+  "model": "glm-5.3"
+}

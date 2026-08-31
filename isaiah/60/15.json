@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 60:15",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 60,
+  "translation": "Esikhatheni ubuwusishiwe nokhunjulwe, ingedwa ongadluli owodwa, ngizokumisa ukuba ube ngukhazimula olungapheli, injabulo yesizukulwana nesizukulwana.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "esikhatheni"
+    },
+    {
+      "surface": "היותך",
+      "gloss": "ubuwu-"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "sishiwe"
+    },
+    {
+      "surface": "ושנואה",
+      "gloss": "nokhunjulwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ingedwa onga-"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "dluli owodwa"
+    },
+    {
+      "surface": "ושמתיך",
+      "gloss": "ngizokumisa"
+    },
+    {
+      "surface": "לגאון",
+      "gloss": "ukuba ube ngukhazimula"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "olungapheli"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "injabulo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "yesizukulwana"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "nesizukulwana"
+    }
+  ],
+  "timestamp": "2026-08-31T04:36:02.800618927Z",
+  "model": "glm-5.3"
+}

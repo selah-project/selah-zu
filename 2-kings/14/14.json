@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 14:14",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi wathatha ⟨את⟩ wonke igolide nesiliva, no⟨את⟩ wonke izitsha ezatholakala endlwini kaYahwe nasemigubheni yendlu yenkosi, no⟨את⟩ amadodana ezinkomishi, wabuyela eShomrona.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke igolide"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "nesiliva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wonke izitsha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "izitsha"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "ezatholakala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "nasemigubheni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "yendlu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yenkosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amadodana ezinkomishi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "התערבות",
+      "gloss": "ezinkomishi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wabuyela"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "eShomrona"
+    }
+  ],
+  "timestamp": "2026-08-31T04:09:49.569402155Z",
+  "model": "glm-5.3"
+}

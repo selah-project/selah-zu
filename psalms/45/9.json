@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 45:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Umthombo wokunambitha — imvuthu, ama-alosi nekashea — wonke umfanekiso wemikhuba yakho unamphanga ovela emizini yamazinyo endlini enkulu yokusingatha; ngokwakha isikhashana (esihle) sokujabulisa wena.",
+  "tokens": [
+    {
+      "surface": "מר",
+      "gloss": "imvuthu"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "nama-alosi"
+    },
+    {
+      "surface": "קציעות",
+      "gloss": "nekashea"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "בגדתיך",
+      "gloss": "izingubo zakho"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ivela"
+    },
+    {
+      "surface": "היכלי",
+      "gloss": "eziNdlunkulu"
+    },
+    {
+      "surface": "שן",
+      "gloss": "zamazinyo"
+    },
+    {
+      "surface": "מני",
+      "gloss": "okuyiminyonjo"
+    },
+    {
+      "surface": "שמחוך",
+      "gloss": "zakujabulisa wena"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:18.168132619Z",
+  "model": "glm-5.3"
+}

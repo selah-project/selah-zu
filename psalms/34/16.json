@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Amehlo kaYahwe ⟨aqonde⟩ abalungile, izindlebe zakhe ⟨ziqonde⟩ ukukhala kwabo.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Amehlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aqonde"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abalungile"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "izindlebe zakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ziqonde"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ukukhala kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:22.274253154Z",
+  "model": "glm-5.3"
+}

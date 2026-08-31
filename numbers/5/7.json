@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 5:7",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "bazavuma ⟨את⟩ isono abasenzile, abuyisele ⟨את⟩ icala layo ngokuphelele kwayo, futhi bangephule ikunthi yesihlanu kulo, banike lowo abasola kuye.",
+  "tokens": [
+    {
+      "surface": "והתודו",
+      "gloss": "bazavuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isono abasenzile"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "isono labo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "senzile"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "abuyisele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icala layo"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "icala layo"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "ngokuphelele kwayo"
+    },
+    {
+      "surface": "וחמישתו",
+      "gloss": "futhi ikunthi yesihlanu"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "bangeze"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kulo"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "banike"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "abasola kuye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-08-31T02:11:03.746400182Z",
+  "model": "glm-5.3"
+}

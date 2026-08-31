@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 69:27",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Ngokuba lowo ⟨owawu⟩betha, bayamlandela, futhi ubuhlungu bezilimele zakho bayabuxoxa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowo okhona"
+    },
+    {
+      "surface": "הכית",
+      "gloss": "owabetha"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "bayamlandela"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi ngo-"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "ubuhlungu"
+    },
+    {
+      "surface": "חלליך",
+      "gloss": "bezilimele zakho"
+    },
+    {
+      "surface": "יסספרו",
+      "gloss": "bayabuxoxa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:37.581157831Z",
+  "model": "glm-5.3"
+}

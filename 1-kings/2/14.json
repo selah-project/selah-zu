@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Wathi futhi: “Nginenkulumo engiyikuthumela kina.” Yathi: “Khuluma.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi futhi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "inkulumo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "engiyi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuthumela kina"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Khuluma"
+    }
+  ],
+  "timestamp": "2026-08-31T03:46:38.630935764Z",
+  "model": "glm-5.3"
+}

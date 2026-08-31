@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 29:15",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Futhi uzo-⟨thatha⟩ ⟨את⟩ ihunu elilodwa, nu-Aharon nabantwana bakhe bazobeka ⟨את⟩ izandla zabo ehhovu lihunu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ihunu elilodwa"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ihunu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uzothatha"
+    },
+    {
+      "surface": "וסמכו",
+      "gloss": "bazobeka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "nabantwana bakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izandla zabo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "izandla zabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ehhovu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "lihunu lihunu"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "lihunu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:41:26.125456107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 3:20",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Kwathatha ekuseni, ekwenyukeleni kwesipesheli, futhi bheka — amanzi ayezwa endleleni yesuka eEdome, futhi umhlaba wazigcwalisa ⟨את⟩ amanzi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathatha"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "כעלות",
+      "gloss": "ekwenyukeleni"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "kwesipesheli"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "futhi bheka"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ayezwa"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "endleleni yesuka"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "eEdome"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "futhi wazigcwalisa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amanzi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:04:13.153657146Z",
+  "model": "glm-5.3"
+}

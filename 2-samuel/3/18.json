@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 3:18",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Manje yenzani ngoba uYahwe wakhuluma noDavide, esithi: Ngesandla soDavide inkonzi yami ngizasindisa ⟨את⟩ abantu bami uYisrayeli esandleni samaFilisti nasesandleni sonke izitha zabo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Manje"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "yenzani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Davide"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "Ngesandla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "soDavide"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "inkonzi yami"
+    },
+    {
+      "surface": "הושיע",
+      "gloss": "ngizasindisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bami uYisrayeli"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bami"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "samaFilisti"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "nasesandleni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "izitha zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:33:21.393978055Z",
+  "model": "glm-5.3"
+}

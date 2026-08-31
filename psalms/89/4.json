@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 89:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Ngasika isivumelwano ⟨ku⟩lowo engimkhethileyo; ngafunga kuDavide izinkonzi yami.",
+  "tokens": [
+    {
+      "surface": "כרתי",
+      "gloss": "ngasika"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "isivumelwano"
+    },
+    {
+      "surface": "לבחירי",
+      "gloss": "kulowo engimkhethileyo"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ngafunga"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuDavide"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "izinkonzi yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:31.134734955Z",
+  "model": "glm-5.3"
+}

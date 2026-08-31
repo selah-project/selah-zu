@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "U-Avraham walusula ⟨את⟩ isandla lakhe, wathatha ⟨את⟩ umese, ukubulala ⟨את⟩ indodana yakhe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "walusula"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla lakhe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla lakhe"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umese"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "umese"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "ukubulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indodana yakhe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:11:03.612713312Z",
+  "model": "glm-5.3"
+}

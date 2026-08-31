@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "micah 1:4",
+  "book": "micah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi intaba izinyunyama ngaphansi kwakhe, nezigodi ziyachabuka, njengesibani phambi komlilo, njengamanisi ahlikihla esithebheni.",
+  "tokens": [
+    {
+      "surface": "ונמסו",
+      "gloss": "izinyunyama"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "intaba"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ngaphansi kwakhe"
+    },
+    {
+      "surface": "ו העמקים",
+      "gloss": "nezigodi"
+    },
+    {
+      "surface": "יתבקעו",
+      "gloss": "ziyachabuka"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "njengesibani"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "phambi ko-"
+    },
+    {
+      "surface": "האש",
+      "gloss": "mlilo"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "njengamanisi"
+    },
+    {
+      "surface": "מגרים",
+      "gloss": "ahlikihla"
+    },
+    {
+      "surface": "במורד",
+      "gloss": "esithebheni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:14:38.437128367Z",
+  "model": "glm-5.3"
+}

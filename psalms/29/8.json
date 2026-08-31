@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Izwi likaYahwe liyenzisa ukudonswa inhlahlambezwe; uYahwe wenza ukudonswa inhlahlambezwe yeKadeshi.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "liyenzisa ukudonswa"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "inhlahlambezwe"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "wenza ukudonswa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "inhlahlambezwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "yeKadeshi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:32.378984888Z",
+  "model": "glm-5.3"
+}

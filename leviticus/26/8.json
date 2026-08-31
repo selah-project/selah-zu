@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 26:8",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi abayisihlanu kunina bazozingela abangamakhulu amahlanu, futhi abangamakhulu amahlanu kunina bazozingela abangamashumi ayizigidi ziyozingela, futhi izitha zenu ziwile phambi kwenu ngenkemba.",
+  "tokens": [
+    {
+      "surface": "ורדפו",
+      "gloss": "bazozingela"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kunina"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "abayisihlanu"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "abangamakhulu amahlanu"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "futhi abangamakhulu amahlanu"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kunina"
+    },
+    {
+      "surface": "רבבה",
+      "gloss": "abangamashumi ayizigidi"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "ziyozingela"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "futhi ziwile"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "izitha zenu"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ngenkemba"
+    }
+  ],
+  "timestamp": "2026-08-31T05:58:16.401620439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 35:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Kepha lapho ngicingqizayo bajabulile, bahlanganile; abahlekisi bahlangana phezu kwami, futhi angazazi; behlaba, futhi awaphumuli.",
+  "tokens": [
+    {
+      "surface": "ובצלעי",
+      "gloss": "lapho ngicingqizayo"
+    },
+    {
+      "surface": "שמחו",
+      "gloss": "bajabulile"
+    },
+    {
+      "surface": "ונאספו",
+      "gloss": "bahlanganile"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "bahlangana"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "נכים",
+      "gloss": "abahlekisi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi awu"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "angazazi"
+    },
+    {
+      "surface": "קרעו",
+      "gloss": "behlaba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi awu"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "aphumuli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:19.963446727Z",
+  "model": "glm-5.3"
+}

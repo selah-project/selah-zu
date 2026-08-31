@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 23:1",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Bamtshela uDavide ukuthi: Bheka, abaFilisiti balwa neKheyla, futhi bephanga ⟨את⟩ izibaya.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "Bamtshela"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "abaFilisiti"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "balwa"
+    },
+    {
+      "surface": "בקעילה",
+      "gloss": "neKheyla"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "futhi bona"
+    },
+    {
+      "surface": "שסים",
+      "gloss": "bephanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izibaya"
+    },
+    {
+      "surface": "הגרנות",
+      "gloss": "izibaya"
+    }
+  ],
+  "timestamp": "2026-08-31T03:26:46.690486036Z",
+  "model": "glm-5.3"
+}

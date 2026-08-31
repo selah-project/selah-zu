@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 118,
+  "translation": "Kusukela ebunzimeni ngabiza uYah; uYah wangiphendula ebusweni obubanzi.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Kusukela"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "ebunzimeni"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ngabiza"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "wangiphendula"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "ebusweni obubanzi"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:39.483233362Z",
+  "model": "glm-5.3"
+}

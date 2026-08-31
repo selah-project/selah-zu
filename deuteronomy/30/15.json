@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Bheka, ngibekile phambi kwakho namuhla ⟨את⟩ ukuphila ⟨את⟩ nokuhle, ⟨את⟩ ukufa ⟨את⟩ nokubi.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ngibekile"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuphila"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ukuphila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nokuhle"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "nokuhle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ukufa"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ukufa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nokubi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "nokubi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:02:14.995526247Z",
+  "model": "glm-5.3"
+}

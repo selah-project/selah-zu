@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 31:10",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "nende ⟨את⟩ izingubo zokusebenza, nende ⟨את⟩ izingubo ezingcwele zo-Aharon umpristi, nende ⟨את⟩ izingubo zabantwana bakhe ukuze bensebenze njengabapristi,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izingubo zokusebenza"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "izingubo"
+    },
+    {
+      "surface": "השרד",
+      "gloss": "zokusebenza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izingubo ezingcwele zo-Aharon"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "izingubo"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ezingcwele"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "wo-Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izingubo zabantwana bakhe"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "izingubo"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "zabantwana bakhe"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ukuzensebenzisa njengompristi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:41:38.614390237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 25:18",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi inkosi yabulali abathatha ⟨את⟩ uSerayahi umpristi oyinhloko, no⟨את⟩ uTsefanyahu umpristi wesibili, no⟨את⟩ abathathu abagadi besango.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wayethatha"
+    },
+    {
+      "surface": "רב",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "yabulali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uSerayahi"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "uSerayahi"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "oyinhloko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uTsefanyahu"
+    },
+    {
+      "surface": "צפניהו",
+      "gloss": "uTsefanyahu"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "wesibili"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abathathu abagadi besango"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "abathathu"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "abagadi"
+    },
+    {
+      "surface": "הסף",
+      "gloss": "besango"
+    }
+  ],
+  "timestamp": "2026-08-31T04:16:19.082264413Z",
+  "model": "glm-5.3"
+}

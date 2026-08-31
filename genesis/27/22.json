@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 27:22",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "UYaaqob wasondela kuYitschak uyise, wathi-mlomo; wathi ⟨uyise⟩: Izwi lizwi likaYaaqob, kepha izandla izandla zikaEsav.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "wasondela"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaaqob"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "uYitschak"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "וימשהו",
+      "gloss": "wathi-mlomo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lizwi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "likaYaaqob"
+    },
+    {
+      "surface": "והידים",
+      "gloss": "kepha izandla"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "izandla"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "zikaEsav"
+    }
+  ],
+  "timestamp": "2026-08-31T01:14:23.189497215Z",
+  "model": "glm-5.3"
+}

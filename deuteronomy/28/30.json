@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 28:30",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Uzokhetha umfazi, kodwa enye indoda izolala naye; indlu uzoyakha, kodwa ungazukuhlala kuyona; ilande lezamagilevhe uzozilima, kodwa ungazukuzisebenzisa izithelo zawo.",
+  "tokens": [
+    {
+      "surface": "אשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "תארש",
+      "gloss": "uzokhetha"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "kodwa indoda"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "enye"
+    },
+    {
+      "surface": "ישגלנה",
+      "gloss": "izolala naye"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "uzoyakha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa ungazuku-"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "hlala"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuyona"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ilande lezamagilevhe"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "uzozilima"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa ungazuku-"
+    },
+    {
+      "surface": "תחללנו",
+      "gloss": "zisebenzisa izithelo zawo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:18:07.001970280Z",
+  "model": "glm-5.3"
+}

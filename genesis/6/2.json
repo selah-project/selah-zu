@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 6:2",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Abantwana bakaElohim bababona ⟨את⟩ amadodakazi abantu ukuthi bahle; baya bethatha abafazi kubona, kuzo zonke ezabezikhetha.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "bababona"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "bakaElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadodakazi abantu"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "amadodakazi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "טבת",
+      "gloss": "bahle"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kona"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "baya bethatha"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "abafazi"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eza-"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "bezikhetha"
+    }
+  ],
+  "timestamp": "2026-08-31T01:04:44.754157653Z",
+  "model": "glm-5.3"
+}

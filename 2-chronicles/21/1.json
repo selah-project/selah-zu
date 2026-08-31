@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 21:1",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "uYehoshafati walela nooyise, wangcatshwa nooyise edolobheni likaDavi; uYehoram indodana yakhe wabusa esikhundleni sakhe.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "walela"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "uYehoshafati"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nooyise-"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "-nooyise"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "wangcatshwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nooyise-"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "-nooyise"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "likaDavi"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wabusa"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "uYehoram"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "esikhundleni sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:40:04.919642770Z",
+  "model": "glm-5.3"
+}

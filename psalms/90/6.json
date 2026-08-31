@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 90,
+  "translation": "Ekuseni iyaqhamuka ihamba; kusihlwa iyabunwa yomile.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "iyaqhamuka"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "ihamba"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "kusihlwa"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "iyabunwa"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "yomile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:10.457588945Z",
+  "model": "glm-5.3"
+}

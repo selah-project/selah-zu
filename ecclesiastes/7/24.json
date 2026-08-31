@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Kude lokho okwenziwayo, futhi kuyanzulu kanzima — ngubani oyokuthola?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "kude"
+    },
+    {
+      "surface": "מה",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "okwenziwayo"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "futhi kuyanzulu"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "nzulu kanzima"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "oyokuthola"
+    }
+  ],
+  "timestamp": "2026-08-31T07:47:40.706372776Z",
+  "model": "glm-5.3"
+}

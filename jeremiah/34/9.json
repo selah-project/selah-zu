@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 34:9",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "ukuthi umuntu akhulule ⟨את⟩ isigqila sakhe futhi umuntu akhulule ⟨את⟩ unonkonyane wakhe, iHebheru nesifazane iHebheru, bakhululekile, ukuze kungasengci yedwa kubona, nguYehudi umfowabo.",
+  "tokens": [
+    {
+      "surface": "לשלח",
+      "gloss": "akhulule"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isigqila sakhe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "isigqila sakhe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "futhi umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unonkonyane wakhe"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "unonkonyane wakhe"
+    },
+    {
+      "surface": "העברי",
+      "gloss": "iHebheru"
+    },
+    {
+      "surface": "והעבריה",
+      "gloss": "nesifazane iHebheru"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "bakhululekile"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ukuz"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ukukhonza"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "ביהודי",
+      "gloss": "nguYehudi"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "umfowabo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yedwa"
+    }
+  ],
+  "timestamp": "2026-08-31T11:43:58.372334118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 80:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 80,
+  "translation": "uYahwe uElohim wemikhosi, usibuyisele; ukhanyise ubuso bakho, sizasindiswa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wemikhosi"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "usibuyisele"
+    },
+    {
+      "surface": "האר",
+      "gloss": "ukhanyise"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "sizasindiswa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:18.484313898Z",
+  "model": "glm-5.3"
+}

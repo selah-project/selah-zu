@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "U-Yehoshuwa ungunaprende ka-Nuni, isihlangu so hammer ka-Yahwe, washona eneminyaka engu-110.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "washona"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "u-Yehoshuwa"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ungunaprende ka-"
+    },
+    {
+      "surface": "נון",
+      "gloss": "uNuni"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "isihlangu so hammer ka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ineminyaka engu-"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ikhulu"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "neshumi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iminyaka"
+    }
+  ],
+  "timestamp": "2026-08-31T02:59:59.097151173Z",
+  "model": "glm-5.3"
+}

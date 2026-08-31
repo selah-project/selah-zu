@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 21:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "uYahwe, ngamandla akho inkosi ijabulile, futhi ngesiphephelo sakho ithokoza kakhulu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "ngamandla akho"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ijabulile"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ובישועתך",
+      "gloss": "futhi ngesiphephelo sakho"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "יגיל",
+      "gloss": "ithokoza"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:11.894690591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 40:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Ngokuningi wenze wena uYahwe u-Elohim wami; izimangaliso zakho nemicabango yakhu nge-thina angekho olingana nawe; ngizotshuma futhi ngizokhuluma, ziqinile kunokubalwa.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "ngokuningi"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "u-Elohim wami"
+    },
+    {
+      "surface": "נפלאתיך",
+      "gloss": "izimangaliso zakho"
+    },
+    {
+      "surface": "ומחשבתיך",
+      "gloss": "nemicabango yakho"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "nge-thina"
+    },
+    {
+      "surface": "אין",
+      "gloss": "angekho"
+    },
+    {
+      "surface": "ערך",
+      "gloss": "olingana"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "אגידה",
+      "gloss": "ngizotshuma"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "futhi ngizokhuluma"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "ziqinile"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "kunokubalwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:29.590930707Z",
+  "model": "glm-5.3"
+}

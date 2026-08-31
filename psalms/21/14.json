@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 21:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Phakama, uYahwe, ngamandla akho; siyocula sidumisa amandla akho obulawe.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Phakama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "ngamandla akho"
+    },
+    {
+      "surface": "נשירה",
+      "gloss": "siyocula"
+    },
+    {
+      "surface": "ונזמרה",
+      "gloss": "sidumisa"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "amandla akho obulawe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:11.633540485Z",
+  "model": "glm-5.3"
+}

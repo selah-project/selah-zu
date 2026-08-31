@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Ungangishiya uYahwe, uElohim wami; ungangikudeki.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ngishiya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ngikudeki"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "-ki (kimina)"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:23.635370108Z",
+  "model": "glm-5.3"
+}

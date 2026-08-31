@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 94,
+  "translation": "Ifelokazi nomhlali basibulala, izintandane basibulala ngobudlova.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "ifelokazi"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "nomhlali"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "bayabulala"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "izintandane"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "bayabulala ngobudlova"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:39.099902945Z",
+  "model": "glm-5.3"
+}

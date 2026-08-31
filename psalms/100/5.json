@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 100,
+  "translation": "Ngokuba uYahwe ⟨uyiwona⟩ ulungile; ikhesedi layo lihlezi kuze kube phakade, nokwethembeka kwayo kuyafikelela kuzukulwane nangakwazukulwane.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ulungile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi layo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nokufikelela"
+    },
+    {
+      "surface": "דר",
+      "gloss": "kuzukulwane"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nangakwazukulwane"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "kwethembeka kwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:31.827757712Z",
+  "model": "glm-5.3"
+}

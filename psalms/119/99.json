@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 99,
+  "ref": "psalms 119:99",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngedlula konke abafundisi bami ngokuhlakanipha, ngokuba iziqiniseko zakho ziyahlulela kimi.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "Ngedlula konke"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "abafundisi bami"
+    },
+    {
+      "surface": "השכלתי",
+      "gloss": "ngokuhlakanipha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "iziqiniseko zakho"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "ziyahlulela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:31.347678865Z",
+  "model": "glm-5.3"
+}

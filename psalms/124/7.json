@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 124:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 124,
+  "translation": "Umphefumulo wethu waphunyela njengononyana ethimeni yabayohlwayo; ithimu yaphukile, nathi siphunyele",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Umphefumulo wethu"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "njengononyana"
+    },
+    {
+      "surface": "נמלטה",
+      "gloss": "waphunyela"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "ethimeni"
+    },
+    {
+      "surface": "יוקשים",
+      "gloss": "yabayohlwayo"
+    },
+    {
+      "surface": "הפח",
+      "gloss": "ithimu"
+    },
+    {
+      "surface": "נשבר",
+      "gloss": "yaphukile"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "nathi"
+    },
+    {
+      "surface": "נמלטנו",
+      "gloss": "siphunyele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:25.752983559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 16:5",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi kuzakuba ngosuku lwesithupha, bazakulungisa ⟨את⟩ lokho abazakuletha; futhi kuzakuba ngokuphindwe kabili phezu kwalokho abakuhlanganisa nsuku zonke.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "futhi kuzakuba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "lwesithupha"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "bazakulungisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokho abazakuletha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "יביאו",
+      "gloss": "abazakuletha"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "futhi kuzakuba"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ngokuphindwe kabili"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lalokho"
+    },
+    {
+      "surface": "ילקטו",
+      "gloss": "abakuhlanganisa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "nsuku"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zonke"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:00.761626320Z",
+  "model": "glm-5.3"
+}

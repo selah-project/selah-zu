@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 113,
+  "translation": "Makubekhona ubusisi igama likaYahwe, kusukela manje ⟨ kuze kube ngu-kuhele ⟩.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "makubekhona"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama li-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "makubekhona ubusisi"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kusukela manje"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:53.663687554Z",
+  "model": "glm-5.3"
+}

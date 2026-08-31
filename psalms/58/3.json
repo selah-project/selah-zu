@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 58,
+  "translation": "Ye, enhliziyweni nenzela ububi; emhlabeni niyisilinganisa ubukhosi bezandla zenu.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ye"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "enhliziyweni"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "nenzela"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ubukhosi"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "bezandla zenu"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "niyisilinganisa"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:37.468536405Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 1:8",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi izandla zomuntu zazisezansi kwamaphepho abo, ezinhlangothini zabo ezine, futhi ubuso babo namaphephu abo babune kubona bonke.",
+  "tokens": [
+    {
+      "surface": "וידו",
+      "gloss": "futhi izandla"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "zomuntu"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "zazisezansi"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "kwamaphephu abo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezinhlangothini"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "ezine"
+    },
+    {
+      "surface": "רבעיהם",
+      "gloss": "zabo"
+    },
+    {
+      "surface": "ופניהם",
+      "gloss": "futhi ubuso babo"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "namaphephu abo"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "babune kubona bonke"
+    }
+  ],
+  "timestamp": "2026-08-31T05:03:21.763794018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 60:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 60,
+  "translation": "iGiliyadi ingeyami, uMenashhe ungengami; u-Efrayimi ungumsizi wehlami lokho — lona uYehuda ungumcakazi wami.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ingeyami"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "iGiliyadi"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "futhi ungengami"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "uMenashhe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "futhi u-Efrayimi"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "umsizi wehlami"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "wehlami lokho"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehuda"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "ungumcakazi wami"
+    }
+  ],
+  "timestamp": "2026-08-31T11:41:05.687616624Z",
+  "model": "glm-5.3"
+}

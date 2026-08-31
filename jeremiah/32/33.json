@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "jeremiah 32:33",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Baphendukela kimi umhlana, hhayi ubuso; futhi bengifundisa ⟨את⟩ ekuvukeni kuseni ngifundisa, kodwa abezwa ukuthatha isiyalezo.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "baphendukela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "umhlana"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hhayi"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "bengifundisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "השכם",
+      "gloss": "ekuvukeni kuseni"
+    },
+    {
+      "surface": "ולמד",
+      "gloss": "ngifundisa"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "kodwa abezwa"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "abezwa"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ukuthatha"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "isiyalezo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:53:36.324931756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 4:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Bantwana bensizwa, kuze kube nini inkazimulo yami ihlaziywe? Nithanda into engenalutho, nifuna amanga. Selah.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Bantwana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "bensizwa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "inkazimulo yami"
+    },
+    {
+      "surface": "לכלמה",
+      "gloss": "ihlaziywe"
+    },
+    {
+      "surface": "תאהבון",
+      "gloss": "Nithanda"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "into engenalutho"
+    },
+    {
+      "surface": "תבקשו",
+      "gloss": "nifuna"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "amanga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T05:46:28.592848998Z",
+  "model": "glm-5.3"
+}

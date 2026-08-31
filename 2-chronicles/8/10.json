@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 8:10",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Lena izikhulu zoMkhaphuzi bokulingisa ababe inkosi uShelomo, amahlanu namakhulu amabili, ababusa esizweni.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "lena"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "izikhulu"
+    },
+    {
+      "surface": "הנציבים",
+      "gloss": "zoMkhaphuzi bokulingisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ababe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomo"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "amahlanu"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "namakhulu amabili"
+    },
+    {
+      "surface": "הרדים",
+      "gloss": "ababusa"
+    },
+    {
+      "surface": "בעם",
+      "gloss": "esizweni"
+    }
+  ],
+  "timestamp": "2026-08-31T08:33:58.867715182Z",
+  "model": "glm-5.3"
+}

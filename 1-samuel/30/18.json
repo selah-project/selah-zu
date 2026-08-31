@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 30:18",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "UDavide wasindisa ⟨את⟩ konke ama-Amaleki ayekuthathile; futhi ⟨את⟩ abafazi bakhe ababili uDavide wasibakhulula.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "wasindisa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ocha"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "ayekuthathile"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ama-Amaleki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "abafazi bakhe ababili"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ababili"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "abafazi bakhe"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "wasibakhulula"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T03:29:17.062908466Z",
+  "model": "glm-5.3"
+}

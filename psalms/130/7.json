@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 130:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 130,
+  "translation": "Makalindele iYisraeli kuYahwe, ngokuba kuYahwe kukhona ikhesedi, futhi kuyayingcqwakeleyo kuyena insindiso.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "makalindele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisraeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "החסד",
+      "gloss": "kukhona ikhesedi"
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "futhi kuyiningi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "פדות",
+      "gloss": "insindiso"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:32.970932003Z",
+  "model": "glm-5.3"
+}

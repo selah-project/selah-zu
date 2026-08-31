@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 18:9",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Inkambu yodadewabo, indodakazi kayihlo noma indodakazi kunina, ozelwe emkhunjini noma ozelwe phandle — kayivumbuki inkambu yaso.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "inkambu"
+    },
+    {
+      "surface": "אחותך",
+      "gloss": "yodadewabo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "kayihlo"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "kunina"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "ozelwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "emkhunjini"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "מולדת",
+      "gloss": "ozelwe"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "phandle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kayivumbuki"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "kayivumbuki"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "inkambu yaso"
+    }
+  ],
+  "timestamp": "2026-08-31T01:58:42.899258525Z",
+  "model": "glm-5.3"
+}

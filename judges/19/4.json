@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 19:4",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Umkhwenyana wakhe, ubaba wentombazane, wamzinza ngamandla, wahlala ⟨את⟩ kuye izinsuku ezintathu; badla, banatha, balala lapho.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "wamzinza ngamandla"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "Umkhwenyana wakhe"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubaba"
+    },
+    {
+      "surface": "הנערה",
+      "gloss": "wentombazane"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kuye"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "badla"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "banatha"
+    },
+    {
+      "surface": "וילינו",
+      "gloss": "balala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    }
+  ],
+  "timestamp": "2026-08-31T03:12:10.494164719Z",
+  "model": "glm-5.3"
+}

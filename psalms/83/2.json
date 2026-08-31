@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 83,
+  "translation": "uElohim, ungabi nthula kubona, ungamchithi umlomo, ungaphumuli, u-El.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "nthula"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungamchithi"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "umlomo"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ungaphumuli"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "⟨phumula⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:46.853539278Z",
+  "model": "glm-5.3"
+}

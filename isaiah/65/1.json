@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 65:1",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 65,
+  "translation": "Ngiphendulwa yilabo abangangibuzi; ngitholakala yilabo abangangifuni. Ngishilo: Nginile, nginile, kuisizwe esingabizi igama lami.",
+  "tokens": [
+    {
+      "surface": "נדרשתי",
+      "gloss": "ngiphendulwa"
+    },
+    {
+      "surface": "ללוא",
+      "gloss": "abanga-"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "buzi"
+    },
+    {
+      "surface": "נמצאתי",
+      "gloss": "ngitholakala"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "abanga-"
+    },
+    {
+      "surface": "בקשני",
+      "gloss": "funi"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ngishilo"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "nginile"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "nginile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "esinga"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "bizi"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "igama lami"
+    }
+  ],
+  "timestamp": "2026-08-31T04:38:19.677911448Z",
+  "model": "glm-5.3"
+}

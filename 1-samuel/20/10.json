@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "UDavide wathi kuGonatanhi: Ngubani ozongixelela? Noma uma kaka yakuphendula ngesinkwa esibuhlungu, kuyakuba njani na?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "UDavide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "UGonatanhi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ozongixelela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kuyakuba njani na"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "yakuphendula"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "kaka"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ngesinkwa esibuhlungu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:23:31.743747660Z",
+  "model": "glm-5.3"
+}

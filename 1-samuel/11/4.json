@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 11:4",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Izithunywa zahefika eGibeya kaShawuli, zaba khuluma lamazwi ezindlebeni zabantu; bonke abantu bathatha ⟨את⟩ izwi labo, bakhala. (literal: Izithunywa zafika eGibeya kaShawuli, zakhuluma amazwi ezindlebeni zabantu; abantu bonke baphakamisa ⟨את⟩ izwi labo, bakhala)",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "zahefika\/zaza"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "izithunywa"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "iGibeya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kaShawuli"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "zaba khuluma"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ezindlebeni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "baphakamisa\/bathatha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi labo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "izwi labo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "bakhala"
+    }
+  ],
+  "timestamp": "2026-08-31T03:19:56.728921301Z",
+  "model": "glm-5.3"
+}

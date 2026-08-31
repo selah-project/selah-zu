@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ngaphenduka ngahlehla entabeni, ngabeka ⟨את⟩ amathebhula e-earkeni engiyenzileyo; apho zazinze khona, njengoko uYahwe engiphoqile.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "ngaphenduka"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "ngahlehla"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ngabeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amathebhula"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "amathebhula"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "e-earkeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engiyenzileyo"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ngayenza"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "zazinze"
+    },
+    {
+      "surface": "שם",
+      "gloss": "apho"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "engiphoqile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:34:26.262076816Z",
+  "model": "glm-5.3"
+}

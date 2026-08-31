@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 18:25",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Futhi umhlaba wadangala, ngabhekisisa ububi bwawo phezu kwawo, futhi umhlaba waphalaza ⟨את⟩ abahlali bawo.",
+  "tokens": [
+    {
+      "surface": "ותטמא",
+      "gloss": "futhi wadangala"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ואפקד",
+      "gloss": "ngabhekisisa"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "ububi bwawo"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "phezu kwawo"
+    },
+    {
+      "surface": "ותקא",
+      "gloss": "futhi waphalaza"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahlali bawo"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "abahlali bawo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:59:03.035276422Z",
+  "model": "glm-5.3"
+}

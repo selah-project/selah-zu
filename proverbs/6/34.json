@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 6:34",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ngoba umona uyintukuthelo yomuntu, futhi azikhulula ⟨ngosuku⟩ lokuziphindiselela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngoba"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "umona"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "intukuthelo"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "yomuntu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi azi-"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "khulula"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "lokuziphindiselela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:49:06.697648705Z",
+  "model": "glm-5.3"
+}

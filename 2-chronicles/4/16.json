@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 4:16",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi ⟨את⟩ izitsha, futhi ⟨את⟩ izikhuphi, futhi ⟨את⟩ imikhonzo, futhi ⟨את⟩ zonke izinto zazo — uKhuramu uyise wazenzela inkosi uShelomo, endlwini kaYahwe, ngethusi elikhanyayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izitsha"
+    },
+    {
+      "surface": "הסירות",
+      "gloss": "izitsha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izikhuphi"
+    },
+    {
+      "surface": "היעים",
+      "gloss": "izikhuphi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imikhonzo"
+    },
+    {
+      "surface": "המזלגות",
+      "gloss": "imikhonzo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zonke izinto zazo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "izinto zazo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wazenzela"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "uKhuramu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ngethusi"
+    },
+    {
+      "surface": "מרוק",
+      "gloss": "elikhanyayo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:32:08.170105256Z",
+  "model": "glm-5.3"
+}

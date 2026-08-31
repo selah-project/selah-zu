@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 94:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 94,
+  "translation": "uYahwe waba yisiphephelo esiphakeme sami, no-Elohim wami ube yilitshe lokuzihlomela kwami.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sami"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "isiphephelo esiphakeme"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "no-Elohim wami"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "litshe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "lokuzihlomela kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:40.519858568Z",
+  "model": "glm-5.3"
+}

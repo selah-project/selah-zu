@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 32:3",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Abantu bonke bazikhulula ⟨את⟩ izindlebe zangolwe ezizindlebeni zabo, baze baziletha ku-Aharoni.",
+  "tokens": [
+    {
+      "surface": "ויתפרקו",
+      "gloss": "bazikhulula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izindlebe zangolwe"
+    },
+    {
+      "surface": "נזמי",
+      "gloss": "izindlebe zangolwe"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zangolwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi-"
+    },
+    {
+      "surface": "באזניהם",
+      "gloss": "zindlebeni zabo"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "baziletha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:44:23.947981573Z",
+  "model": "glm-5.3"
+}

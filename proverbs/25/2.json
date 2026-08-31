@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Ikhabhodi likaElohim ukufihla indaba, nenkhabhodi yamakhosi ukucwaninga indaba.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "ikhabhodi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "likaElohim"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "ukufihla"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "indaba"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "nenkhabhodi"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "yamakhosi"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "ukucwaninga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "indaba"
+    }
+  ],
+  "timestamp": "2026-08-31T07:00:40.298329244Z",
+  "model": "glm-5.3"
+}

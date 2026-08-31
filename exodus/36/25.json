@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Futhi ohlangothini lwesibili lwehema, ngasenyakatho, wenza amaphlanga angamashumi amabili.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "ohlangothini"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "lwehema"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "lwesibili"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ngasenyakatho-⟨celeni⟩"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "enyakatho"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amashumi amabili"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "amaphlanga"
+    }
+  ],
+  "timestamp": "2026-08-31T01:45:32.659699175Z",
+  "model": "glm-5.3"
+}

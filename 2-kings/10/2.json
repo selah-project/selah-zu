@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 10:2",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Futhi manje, ekufikeni le ncwadi kini, futhi nani ⟨את⟩ ningabanzi bennosi yenu, futhi nani ⟨את⟩ nabelwa nezivandla, nedolobha eliqinile nezikhali —",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "futhi manje"
+    },
+    {
+      "surface": "כבא",
+      "gloss": "ekufikeni"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "le ncwadi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "futhi nani ⟨את⟩",
+      "marks": "nani ningabanzi bennosi yenu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abanzi"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "bennosi yenu"
+    },
+    {
+      "surface": "ואתכם",
+      "gloss": "futhi nani ⟨את⟩",
+      "marks": "nani nabelwa nezivandla nedolobha nezikhali"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "izibhamu"
+    },
+    {
+      "surface": "והסוסים",
+      "gloss": "nezivandla"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "nedolobha"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "eliqinile"
+    },
+    {
+      "surface": "והנשק",
+      "gloss": "nezikhali"
+    }
+  ],
+  "timestamp": "2026-08-31T04:07:11.021572522Z",
+  "model": "glm-5.3"
+}

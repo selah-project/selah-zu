@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 29:25",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Bayahamba bayakhonza izitha-nkosi ezinye, bayazikhuphela-phakamisa zonke lezo — izitha-nkosi ezingazaziyo, ezingabelwanga ⟨kuzo⟩;",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "bayahamba"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "bayakhonza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "izitha-nkosi"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ezinye"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "bayazikhuphela-phakamisa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "zonke lezo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "izitha-nkosi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "zinga-"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "zaziyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ezinga-"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "belwanga"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuzo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:01:21.552330216Z",
+  "model": "glm-5.3"
+}

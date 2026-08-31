@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Futhi u-Elishe wathi kuyena: Thatha umuci nezizinhlaka. Futhi wathatha kuyena umuci nezizinhlaka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Futhi wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "u-Elishe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Thatha"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "umuci"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "nezizinhlaka"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "futhi wathatha"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "umuci"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "nezizinhlaka"
+    }
+  ],
+  "timestamp": "2026-08-31T04:10:05.168200767Z",
+  "model": "glm-5.3"
+}

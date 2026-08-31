@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 31:24",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Thandani ⟨את⟩ uYahwe, bonke okhethekile bakhe; uYahwe ulondoloza abathembekileyo, futhi ubuyisela ngokweqisa lowo owenza ukuzikhukhumeza.",
+  "tokens": [
+    {
+      "surface": "אהבו",
+      "gloss": "Thandani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "okhethekile bakhe"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "abathembekileyo"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "ulondoloza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "futhi ubuyisela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokweqisa"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ngokweqisa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "lowo owenza"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ukuzikhukhumeza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:57.583680470Z",
+  "model": "glm-5.3"
+}

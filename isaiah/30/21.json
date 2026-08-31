@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 30:21",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Futhi izindlebe zakho zizuzwa izwi lingemva kwakho elithi: Lena yindlela, hambani kuyo, uma niya kwesokudla futhi uma niya kwesokunxele.",
+  "tokens": [
+    {
+      "surface": "ואזניך",
+      "gloss": "futhi izindlebe zakho"
+    },
+    {
+      "surface": "תשמענה",
+      "gloss": "zizuzwa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "מאחריך",
+      "gloss": "lingemva kwakho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "elithi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "yindlela"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "hambani"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תאמינו",
+      "gloss": "niya kwesokudla"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "futhi uma"
+    },
+    {
+      "surface": "תשמאילו",
+      "gloss": "niya kwesokunxele"
+    }
+  ],
+  "timestamp": "2026-08-31T04:26:56.921948956Z",
+  "model": "glm-5.3"
+}

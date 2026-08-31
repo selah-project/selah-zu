@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi ⟨את⟩ abantwana bakhe angeke ngibakhathazele, ngoba bangabantwana bobufebe yilaba.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakhe"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "abantwana bakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ngibakhathazele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "bobufebe"
+    },
+    {
+      "surface": "המה",
+      "gloss": "yilaba"
+    }
+  ],
+  "timestamp": "2026-08-31T05:27:03.746504828Z",
+  "model": "glm-5.3"
+}

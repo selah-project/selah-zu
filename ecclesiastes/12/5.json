@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 12:5",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi bazoyiswa ukwesaba ukuphakama, nezinsongo endleleni; umthomonga uzothomba, igciwane lizoba yisithwalo, nesithelo somdoni sizosphela; ngoba umuntu uya endlwini yakhe enokuphela, nalabolileyo bayozungeza emasokweni.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Futhi"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "ukuphakama"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "bazoyiswa ukwesaba"
+    },
+    {
+      "surface": "וחתחתים",
+      "gloss": "nezinsongo"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "וינאץ",
+      "gloss": "uzothomba"
+    },
+    {
+      "surface": "השקד",
+      "gloss": "umthomonga"
+    },
+    {
+      "surface": "ויסתבל",
+      "gloss": "lizoba yisithwalo"
+    },
+    {
+      "surface": "החגב",
+      "gloss": "igciwane"
+    },
+    {
+      "surface": "ותפר",
+      "gloss": "sizosphela"
+    },
+    {
+      "surface": "האביונה",
+      "gloss": "isithelo somdoni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "uya"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "עולמו",
+      "gloss": "enokuphela"
+    },
+    {
+      "surface": "וסבבו",
+      "gloss": "bayozungeza"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "emasokweni"
+    },
+    {
+      "surface": "הספדים",
+      "gloss": "abalileyo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:50:49.114438392Z",
+  "model": "glm-5.3"
+}

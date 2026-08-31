@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 105:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "Akavumelanga ⟨umuntu⟩ ukubacobozela, wabhekana ngezinkosi ngenxa yabo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "akavumelanga"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "akavumelanga"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "ukubacobozela"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "wabhekana ngezinkosi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ngenxa yabo"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "izinkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:23.974027880Z",
+  "model": "glm-5.3"
+}

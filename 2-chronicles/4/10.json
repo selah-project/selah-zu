@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Wabekela olwandle ⟨את⟩ ngasekhanda langasese ngempumalanga, phambili nasesidlangothini senzondo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "olwandle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wabekela"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "ngasekhanda langasese"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "langasese"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ngempumalanga"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "phambili na-"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "sesidlangothini senzondo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:32:13.769511259Z",
+  "model": "glm-5.3"
+}

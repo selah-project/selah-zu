@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Sondela ku-inefeshi yami uyihlabele; ngenxa yezitha zami, undikhulule.",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "sondela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "uyihlabele (uyikhokhele njengosizi)"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenkxa"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "izitha zami"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "undikhulule"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:56.027144459Z",
+  "model": "glm-5.3"
+}

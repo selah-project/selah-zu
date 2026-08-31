@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi umpristi uzothatha isakhi esisandleni sakho, asibeka phambi kwesibingcelo uYahwe uElohim wakho.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "uzothatha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "isakhi"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "esisandleni sakho"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "asibeka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwe-"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "isibingcelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T02:42:58.784210467Z",
+  "model": "glm-5.3"
+}

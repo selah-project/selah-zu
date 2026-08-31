@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 91,
+  "translation": "Ezandleni bakufudumezela, ukuze ungahlangabezisi unyawo lwakho lithintane litye.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ezindleni"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "iziphalahlamvu zezandla"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "bakufudumezela"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ukuze kungabi"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "uhlasele"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "itye"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "unyawo lwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:38.949648554Z",
+  "model": "glm-5.3"
+}

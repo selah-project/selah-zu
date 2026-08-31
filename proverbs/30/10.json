@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Ungabe usolisa izwi elibi isiguli ku-Adonayi waso, hleze isikwebele, we ugwegwe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ungabe"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "usolisa izwi elibi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "isiguli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "Adonayi waso"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hleze"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "isikwebele"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "we ugwegwe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:02:58.847438861Z",
+  "model": "glm-5.3"
+}

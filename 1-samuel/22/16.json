@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Inkosi yathi: Uzofa ngempela, wena u-Akhimeleki, wena nonke umuzi wetata wakho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Inkosi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "uzofa"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "u-Akhimeleki"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nonke wonke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "umuzi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "wetata wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T03:27:01.940365152Z",
+  "model": "glm-5.3"
+}

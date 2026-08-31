@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Wafaka ⟨את⟩ izinkwendle ezingxoweni ezisezinhlangothini zethanga, ukuphatha ⟨את⟩ ithanga.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Wafaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinkwendle"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "izinkwendle"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "ezingxoweni"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezise-"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "zinhlangothini"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "zethanga"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ukuphatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithanga"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ithanga"
+    }
+  ],
+  "timestamp": "2026-08-31T01:45:50.478812967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 55:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 55,
+  "translation": "Ukutshazwa kusele kuwo; bawahwela iSheol bephila; ngokuba ububi busedolobheni lwabo, emaphakathi kwabo.",
+  "tokens": [
+    {
+      "surface": "ישימות",
+      "gloss": "Ukutshazwa"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "bawahwela"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "iSheol"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "bephila"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "במגורם",
+      "gloss": "busedolobheni lwabo"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "emaphakathi kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:04.087919208Z",
+  "model": "glm-5.3"
+}

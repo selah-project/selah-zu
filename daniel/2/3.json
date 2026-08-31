@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Inkosi yathi kubo: Ngiyephuphile iphuphu, umoya wami uphazanyisekile ukwazi ⟨את⟩ lelo phuphu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Inkosi"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "iphuphu"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "Ngiyephuphile"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "uphazanyisekile"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "umoya wami"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ukwazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lelo phuphu"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "lelo phuphu"
+    }
+  ],
+  "timestamp": "2026-08-31T07:55:56.132274392Z",
+  "model": "glm-5.3"
+}

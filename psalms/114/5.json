@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 114,
+  "translation": "Yini wena, lwandle, ukuthi ubaleka? Wena, iYardeni, ukuthi uphendukela emuva?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Yini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lwandle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "ubaleka"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "iYardeni"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "uphendukela emuva"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "emuva"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:09.665099269Z",
+  "model": "glm-5.3"
+}

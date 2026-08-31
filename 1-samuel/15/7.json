@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 15:7",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "UShawuli washaya ⟨את⟩ ama-Amaleki kusuka eHavila, ukuze ufinyelele eShuri, okungasebusweni beMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "washaya"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ama-Amaleki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "ama-Amaleki"
+    },
+    {
+      "surface": "מחוילה",
+      "gloss": "kusuka eHavila"
+    },
+    {
+      "surface": "בואך",
+      "gloss": "ukuzungeza"
+    },
+    {
+      "surface": "שור",
+      "gloss": "eShuri"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okungu-"
+    },
+    {
+      "surface": "על",
+      "gloss": "isebusweni"
+    },
+    {
+      "surface": "פני",
+      "gloss": "be-"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "eMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T03:21:51.627203313Z",
+  "model": "glm-5.3"
+}

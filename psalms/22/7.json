@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Kepha mina ⟨ngiyi⟩-mpethu, angeye ngumuntu; ihlazo labantu, nengcaliwe yisizwe.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "Kepha mina"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "impethu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "angeye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ihlazo"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "labantu"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "nengcaliwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "isizwe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:03.291049178Z",
+  "model": "glm-5.3"
+}

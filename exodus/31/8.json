@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 31:8",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "no⟨את⟩ itafula ⟨את⟩ nezinto zalo, no⟨את⟩ ilambethi elihlanzekile kanye nonke izinto zalo, no⟨את⟩ i-altari yimpepho —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "itafula"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "itafula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ nezinto",
+      "marks": "zalo"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "ilambethi elihlanzekile"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "ilambethi"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "elihlanzekile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kanye no⟨את⟩",
+      "marks": "izinto zalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "izinto zalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "i-altari yimpepho"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altari"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "yimpepho"
+    }
+  ],
+  "timestamp": "2026-08-31T01:42:40.770012963Z",
+  "model": "glm-5.3"
+}

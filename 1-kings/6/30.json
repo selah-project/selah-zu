@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi phansi kwenkaba yendlu wayesisigcwalisa ngegolide, ngaphakathi nangaphandle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "phansi kwenkaba yendlu"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "phansi kwenkaba"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "endlu"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "wayesisigcwalisa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ngegolide"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "ngaphakathi"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "nangaphandle"
+    }
+  ],
+  "timestamp": "2026-08-31T03:49:20.665179963Z",
+  "model": "glm-5.3"
+}

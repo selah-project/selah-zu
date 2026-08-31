@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "lo u-El onginike ukubuyisela, futhi ohlehlise izizwe ngaphansi kwami.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "lo u-El"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "onginike"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "ukubuyisela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "(ngimi)"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "futhi ohlehlise"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "ngaphansi kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T08:51:58.361731354Z",
+  "model": "glm-5.3"
+}

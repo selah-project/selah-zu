@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 111:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 111,
+  "translation": "Ubukhosi nobuhle izenzo zakhe, ubulungiswa bakhe bumile kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "Ubukhosi"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "nobuhle"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "izenzo zakhe"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ubulungiswa bakhe"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "bumile"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:35.522941626Z",
+  "model": "glm-5.3"
+}

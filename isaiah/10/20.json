@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 10:20",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Futhi kuzakwenzeka ngalosuku, okusele kukaYisrayeli nalokhubazelekileyo kobuYa'akobhu ngeke kusekele futhi lowo owayokulimaza; bese kusekela uYahwe, oNgcwele wakwaYisrayeli, ngeqiniso.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "futhi kuzakwenzeka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalosuku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "olunjalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "kusekele futhi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "naphezulu"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "okusele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kukaYisrayeli"
+    },
+    {
+      "surface": "ופליטת",
+      "gloss": "nalokhubazelekileyo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kwasekhaya"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "likaYa'akobhu"
+    },
+    {
+      "surface": "להשען",
+      "gloss": "ukusekela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "lowo owayokulimaza"
+    },
+    {
+      "surface": "ונשען",
+      "gloss": "bese kusekela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "oNgcwele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wakwaYisrayeli"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ngeqiniso"
+    }
+  ],
+  "timestamp": "2026-08-31T04:20:18.640721614Z",
+  "model": "glm-5.3"
+}

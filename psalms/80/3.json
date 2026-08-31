@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 80:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 80,
+  "translation": "Phambi kuka-Efrayimi nakaBhenjamini nakaManase, vusa amandla akho ⟨את⟩, uze usindise thina.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "Phambi kuka-"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimi"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "nakaBhenjamini"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "nakaManase"
+    },
+    {
+      "surface": "עוררה",
+      "gloss": "vusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amandla akho"
+    },
+    {
+      "surface": "גבורתך",
+      "gloss": "amandla akho"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "uze"
+    },
+    {
+      "surface": "לישעתה",
+      "gloss": "usindise"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:13.039737023Z",
+  "model": "glm-5.3"
+}

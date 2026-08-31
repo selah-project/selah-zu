@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 8:1",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Umthetho wonke engiwuphawula kini namuhla niwuzingele ukuwenza, ukuze niphile, nande, ninge nithathe ⟨את⟩ umhlaba uYahwe awufungela kubaba benu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "umthetho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ngiwuphawula kini"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    },
+    {
+      "surface": "תשמרון",
+      "gloss": "niwuzingele"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukuwenza"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "תחיון",
+      "gloss": "niphile"
+    },
+    {
+      "surface": "ורביתם",
+      "gloss": "nande"
+    },
+    {
+      "surface": "ובאתם",
+      "gloss": "ninge"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "nithathe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "awufungela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "kubaba benu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:35:29.951614390Z",
+  "model": "glm-5.3"
+}

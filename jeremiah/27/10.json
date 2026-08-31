@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 27:10",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Ngokuba bezibonga-manga kini ukuze kubenze kudabuke kude ⟨את⟩ nina kusuka ezweni lenu, futhi nginigxoshe ⟨את⟩ nina nibhubhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "manga"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bena-"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "bezibonga-manga"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "הרחיק",
+      "gloss": "kudabuke-kude"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kusuka"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "ezweni lenu"
+    },
+    {
+      "surface": "והדחתי",
+      "gloss": "futhi nginigxoshe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "ואבדתם",
+      "gloss": "nibhubhe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:26:04.808753070Z",
+  "model": "glm-5.3"
+}

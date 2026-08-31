@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 8:3",
+  "book": "daniel",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngangibuka ngibona, futhi bheka, kwemi iramu elilodwa phambi kwe-Ulayi, walama izindlebe-zezimpondo ezimbili; futhi lezo zindlebe-zezimpondo zaziphezulu, kodwa eyodwa yayiphezulu kuneyesibili, yona ephezulu yakhuphukela ngemuva.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ngangibuka"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo ami"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ngibona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "futhi bheka"
+    },
+    {
+      "surface": "איל",
+      "gloss": "iramu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "imi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "האבל",
+      "gloss": "i-Ulayi"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "walama"
+    },
+    {
+      "surface": "קרנים",
+      "gloss": "izimpondo ezimbili"
+    },
+    {
+      "surface": "והקרנים",
+      "gloss": "futhi lezo zimpondo"
+    },
+    {
+      "surface": "גבהות",
+      "gloss": "zaziphezulu"
+    },
+    {
+      "surface": "והאחת",
+      "gloss": "kodwa eyodwa"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "yayiphezulu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kune-"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "eyesibili"
+    },
+    {
+      "surface": "והגבהה",
+      "gloss": "yona ephezulu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yakhuphukela"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "ngemuva"
+    }
+  ],
+  "timestamp": "2026-08-31T08:59:27.631984998Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Lezi izizukulwane zikaSheymu: uSheymu wayeneminyaka engangamakhulu angu-100 wazala ⟨את⟩ u-Arpakshadi, iminyaka emibili ngemva komcilizi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "izizukulwane"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ukaSheymu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "uSheymu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "wayeneminyaka"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "engu-100"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Arpakshadi"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "u-Arpakshadi"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "iminyaka emibili"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ngemva"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "omcilizi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:07.902253532Z",
+  "model": "glm-5.3"
+}

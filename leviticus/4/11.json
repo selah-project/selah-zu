@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 4:11",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi ⟨את⟩ isikhumba senkunzi, no-⟨את⟩ inyama yayo yonke, kanye nohlangothi lwenhloko yayo nomilenze yayo, kanye neziqeba zayo kanye nemfucuza yayo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Futhi ⟨את⟩",
+      "marks": "isikhumba senkunzi"
+    },
+    {
+      "surface": "עור",
+      "gloss": "isikhumba"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "senkunzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "inyama yayo yonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "inyama yayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kanye nohlangothi"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "wenhloko yayo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "kanye no-"
+    },
+    {
+      "surface": "כרעיו",
+      "gloss": "umilenze yayo"
+    },
+    {
+      "surface": "וקרבו",
+      "gloss": "neziqeba zayo"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "nemfucuza yayo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:52:00.947643910Z",
+  "model": "glm-5.3"
+}

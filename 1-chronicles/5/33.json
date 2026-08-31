@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "uMerajoth wazala ⟨את⟩ u-Amarjah, u-Amarjah lowo wazala ⟨את⟩ u-Achitubhi.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "uMerajoth"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Amarjah"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "u-Amarjah"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "u-Amarjah lowo"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Achitubhi"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "u-Achitubhi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:20:12.632120175Z",
+  "model": "glm-5.3"
+}

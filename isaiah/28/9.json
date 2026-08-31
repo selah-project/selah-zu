@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 28:9",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "⟨את⟩ ubani uyomfundisa ulwazi, futhi ⟨את⟩ ubani uzomenza ⟨aqonde⟩ umlayezo? Labo benkululiwe ebubisi, bakhishwe ezabele.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ubani"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "uyomfundisa"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "ubani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ubani"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "uzomenza ⟨aqonde⟩"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "umlayezo"
+    },
+    {
+      "surface": "גמולי",
+      "gloss": "labo benkululiwe"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ebubisi"
+    },
+    {
+      "surface": "עתיקי",
+      "gloss": "bakhishwe"
+    },
+    {
+      "surface": "משדים",
+      "gloss": "ezabele"
+    }
+  ],
+  "timestamp": "2026-08-31T04:24:28.911469254Z",
+  "model": "glm-5.3"
+}

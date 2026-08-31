@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Thethani niboneni ukuthi uYahwe ⟨uhle⟩; ulusizi ⟨aluhluma⟩ ⟨kuye⟩ othagazekileyo egceke lezinkomo — hhayi, ngibusisiwe umuntu obalekela kuye.",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "Thethani"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "niboneni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "uhle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ngibusisiwe"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "obalekela kuye"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:09.478001496Z",
+  "model": "glm-5.3"
+}

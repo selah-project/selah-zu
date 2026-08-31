@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi lezi zithombo zikaTerahi: uTerahi wabeletha ⟨את⟩ u-Avramu ⟨את⟩ UNachori ⟨את⟩ noHaranu, uHaranu wabeletha ⟨את⟩ uLoti.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "futhi lezi"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "izithombo"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "kaTerahi"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "uTerahi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wabeletha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avramu"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "u-Avramu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "UNachori"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "UNachori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uHaranu"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "uHaranu"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "uHaranu"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wabeletha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uLoti"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "uLoti"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:08.480202306Z",
+  "model": "glm-5.3"
+}

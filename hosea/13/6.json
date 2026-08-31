@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 13:6",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Njengokwalusa kwabo bakhuliswa, bagcwele; bagcwele, khona intliziyo yabo yenyukela phezulu; ngakho bangikhohliwe mina.",
+  "tokens": [
+    {
+      "surface": "כמרעיתם",
+      "gloss": "Njengokwalusa kwabo"
+    },
+    {
+      "surface": "וישבעו",
+      "gloss": "bakhuliswa, bagcwele"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "bagcwele"
+    },
+    {
+      "surface": "וירם",
+      "gloss": "yenyukela phezulu"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "intliziyo yabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "khona \/ ngakho"
+    },
+    {
+      "surface": "שכחוני",
+      "gloss": "bangikhohliwe mina"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:18.629716733Z",
+  "model": "glm-5.3"
+}

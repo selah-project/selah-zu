@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "malachi 2:3",
+  "book": "malachi",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Yiselwe, ngiyaqamba ⟨את⟩ inzalo yenu, futhi ngizophalaza undwendwe ebusweni benu, undwendwe wemikosi yenu, futhi uzanithatha ngaye.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Yiselwe, mina"
+    },
+    {
+      "surface": "גער",
+      "gloss": "ngiyaqamba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzalo yenu"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "inzalo yenu"
+    },
+    {
+      "surface": "וזריתי",
+      "gloss": "futhi ngizophalaza"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "undwendwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "busweni benu"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "undwendwe"
+    },
+    {
+      "surface": "חגיכם",
+      "gloss": "wemikosi yenu"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "futhi uzanithatha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ngaye"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:47.822224466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ngokuba abaphilayo bayazi ukuthi bazakufa, kodwa abafileyo abayazi ⟨lutho⟩, futhi abasekho ⟨inkokhelo⟩ abayinzuzo, ngokuba ukukhunjulwa kwabo sekukhohliwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "abaphilayo"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "bayazi"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "ukuthi bazakufa"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "kodwa abafileyo"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "abayizi"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "azi"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "lutho"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi asekho"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sekuvinjelwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "inkokhelo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "sekukhohliwe"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ukukhunjulwa kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:49:01.602087061Z",
+  "model": "glm-5.3"
+}

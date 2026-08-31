@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 30:2",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Ikhubitha kuyoba ubude beli, futhi ikhubitha ububanzi beli; lizokuba lesikwele; futhi amakhubitha amabili ukuphakama kwawo; izimpondo zawo zizophuma kulo.",
+  "tokens": [
+    {
+      "surface": "אמה",
+      "gloss": "ikhubitha"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ubude bawo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "futhi ikhubitha"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ububanzi bawo"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "lesikwele"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "lizokuba"
+    },
+    {
+      "surface": "ואמתים",
+      "gloss": "futhi amakhubitha amabili"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ukuphakama kwawo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kulo"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "izimpondo zawo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:42:15.880984074Z",
+  "model": "glm-5.3"
+}

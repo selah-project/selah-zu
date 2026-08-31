@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 33:8",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Futhi wathi kuLeyvi: AmaThumi akho nama-Uri akho kuze kube yilowo othembekile wakho, owamuzamela eMassa, owaphikisana laye emanzini aseMeriba.",
+  "tokens": [
+    {
+      "surface": "וללוי",
+      "gloss": "Futhi wathi kuLeyvi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "תמיך",
+      "gloss": "AmaThumi akho"
+    },
+    {
+      "surface": "ואוריך",
+      "gloss": "nama-Uri akho"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kwilowo"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "othembekile wakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owo"
+    },
+    {
+      "surface": "נסיתו",
+      "gloss": "wamuzamela"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "eMassa"
+    },
+    {
+      "surface": "תריבהו",
+      "gloss": "owaphikisana laye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ela-"
+    },
+    {
+      "surface": "מי",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "aseMeriba"
+    }
+  ],
+  "timestamp": "2026-08-31T02:47:31.128202029Z",
+  "model": "glm-5.3"
+}

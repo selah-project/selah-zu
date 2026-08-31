@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 3:6",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "U-Yehoshuwa wasithi kubapristi egama lokuthi: Phakamisani ⟨את⟩ isibumbu sendibano, niqedele phambi kwabantu. Baphakamisela ⟨את⟩ isibumbu sendibano, bahamba phambi kwabantu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wasithi"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "u-Yehoshuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "egama lokuthi"
+    },
+    {
+      "surface": "שאו",
+      "gloss": "Phakamisani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibumbu sendibano"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isibumbu"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "sendibano"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "niqedele"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "Baphakamisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibumbu sendibano"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isibumbu"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "sendibano"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "bahamba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:50:22.336426568Z",
+  "model": "glm-5.3"
+}

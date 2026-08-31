@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 95:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 95,
+  "translation": "Wozani, sigcine phansi sihlabela, sikleame, sikhothame phambi kukaYahwe okwenza thina",
+  "tokens": [
+    {
+      "surface": "באו",
+      "gloss": "wozani"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "sigcine phansi sihlabela"
+    },
+    {
+      "surface": "ונכרעה",
+      "gloss": "sikleame"
+    },
+    {
+      "surface": "נברכה",
+      "gloss": "sikhothame"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עשנו",
+      "gloss": "okwenza thina"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:31.935541824Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 10:21",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "uYahwe wasethi kuMoshe: Nwebisa isandla sakho ezulwini, ukuze kubekhona ubumnyama phezu komhlaba weMitsrayim, ubumnyama obuzwakalayo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wasethi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Nwebisa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezulwini-phezu-kwa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ukuze kubekhona"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ubumnyama"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu-kwa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weMitsrayim"
+    },
+    {
+      "surface": "וימש",
+      "gloss": "obuzwakalayo"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ubumnyama"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:09.954018232Z",
+  "model": "glm-5.3"
+}

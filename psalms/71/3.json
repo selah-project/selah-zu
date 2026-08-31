@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 71:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 71,
+  "translation": "Yiba ngidlwana lesizinda sokungena kulo njalo; wamisa umyalelo wokungisindisa, ngoba idlwana lami nesigodlo sami ⟨ngu⟩wena.",
+  "tokens": [
+    {
+      "surface": "היה",
+      "gloss": "Yiba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "idlwana lesizinda"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "sokuhlala"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ukungena"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "wamisa umyalelo"
+    },
+    {
+      "surface": "להושיעני",
+      "gloss": "wokungisindisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "idlwana lami"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "nesigodlo sami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:17.589801992Z",
+  "model": "glm-5.3"
+}

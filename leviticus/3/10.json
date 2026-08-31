@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 3:10",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "no⟨את⟩ izinpumu ezimbili, no⟨את⟩ amafuthu okukhona phezu kwazo, okukhona emahlombe, no⟨את⟩ icala lomdlwane eliku-isibindi, phezu kwezinpumu uzosisusa;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izinpumu ezimbili"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "izinpumu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amafuthu"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "amafuthu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okukhona"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "phezu kwazo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okukhona"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "amahlombe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "icala lomdlwane"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "icala lomdlwane"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "kwesibindi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "kwezinpumu"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "uzosisusa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:50:19.774555503Z",
+  "model": "glm-5.3"
+}

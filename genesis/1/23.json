@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kwaba ⟨khona⟩ ukuthwa, kwaba ⟨khona⟩ kusa; usuku olwesihlanu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwaba"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ukuthwa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "kusa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "olwesihlanu"
+    }
+  ],
+  "timestamp": "2026-08-31T05:54:11.228494233Z",
+  "model": "glm-5.3"
+}

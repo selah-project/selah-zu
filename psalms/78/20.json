@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Bhezu! Washeqa idwala, manzi aphaphame futhi imifula yageleza; ngakube nangekhobokazi uyakwazi ukunika, noma alungise inyama yabantu bakhe?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "bhezu!"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "washeqa"
+    },
+    {
+      "surface": "צור",
+      "gloss": "idwala"
+    },
+    {
+      "surface": "ויזובו",
+      "gloss": "aphaphame futhi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "manzi"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "futhi imifula"
+    },
+    {
+      "surface": "ישטפו",
+      "gloss": "yageleza"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "ngakube nangekhobokazi"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "gekhobokazi elilandelayo — kuhlanganiswe"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "uyakwazi"
+    },
+    {
+      "surface": "תת",
+      "gloss": "ukunika"
+    },
+    {
+      "surface": "אם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "alungise"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "yabantu bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:26.680129897Z",
+  "model": "glm-5.3"
+}

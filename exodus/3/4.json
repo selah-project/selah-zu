@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 3:4",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "uYahwe wabona ukuthi uphendukile ukuyobona; wayesembiza uElohim kuyena phakathi komuthi wathi: uMoshe, uMoshe! Wathi: Ngiyale.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "סר",
+      "gloss": "uphendukile"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ukuyobona"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wayesembiza"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "komuthi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ngiyale"
+    }
+  ],
+  "timestamp": "2026-08-31T01:27:06.946113736Z",
+  "model": "glm-5.3"
+}

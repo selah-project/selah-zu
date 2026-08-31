@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 10:3",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Wasuka ngemva kwakhe uYayiri umGiladi, wahlulela ⟨את⟩ iYisraeli iminyaka engamashumi amabili nambili.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wasuka"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ngemva kwakhe"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "uYayiri"
+    },
+    {
+      "surface": "הגלעדי",
+      "gloss": "umGiladi"
+    },
+    {
+      "surface": "וישפט",
+      "gloss": "wahlulela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisraeli"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amashumi amabili"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "nambili"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    }
+  ],
+  "timestamp": "2026-08-31T03:06:40.647469073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 5:1",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Kwaba khona ukukhala okukhulu kwabantu nebafazi babo, phambene nabazalwane babo abayiYuda.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "kwaba khona"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "ukukhala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "nebafazi babo"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "okukhulu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "phambene na-"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "abazalwane babo"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "abayiYuda"
+    }
+  ],
+  "timestamp": "2026-08-31T08:14:35.341797380Z",
+  "model": "glm-5.3"
+}

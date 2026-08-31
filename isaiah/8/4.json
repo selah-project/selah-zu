@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 8:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngokuba ngaphambi kokuthi umntwana azi ukubiza ubaba nomama, uzophakamisa ⟨את⟩ indlamu yeDamasiko no⟨את⟩ impindiso yeShomeroni phambi kukankosi weAshuru.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ngaphambi kokuthi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "umntwana"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ukubiza"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubaba"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "nomama"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "uzophakamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlamu yeDamasiko"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "indlamu"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "iDamasiko"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "impindiso yeShomeroni"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "impindiso"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "yeShomeroni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kukankosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "weAshuru"
+    }
+  ],
+  "timestamp": "2026-08-31T04:18:30.432409049Z",
+  "model": "glm-5.3"
+}

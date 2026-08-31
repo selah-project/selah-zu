@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 19:21",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Futhi uYahwe uzongaziwa yiMitsrayim, futhi iMitsrayim izoyazi ⟨את⟩ uYahwe ngalolo suku, futhi izokhonza ngezimpesheni nangenisipho, futhi izibophe isithembiso kuYahwe futhi igcwalise.",
+  "tokens": [
+    {
+      "surface": "ונודע",
+      "gloss": "uzongaziwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "yiMitsrayim"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "izoyazi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalolu"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "suku"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "izokhonza"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ngezimpesheni"
+    },
+    {
+      "surface": "ומנחה",
+      "gloss": "nangenisipho"
+    },
+    {
+      "surface": "ונדרו",
+      "gloss": "izibophe"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "isithembiso"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ושלמו",
+      "gloss": "igcwalise"
+    }
+  ],
+  "timestamp": "2026-08-31T04:21:39.263504822Z",
+  "model": "glm-5.3"
+}

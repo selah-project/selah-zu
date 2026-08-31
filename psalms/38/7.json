@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Ngikhontiwe, ngigobile kakhulu; nsuku zonke ngihamba ngizila ukukhanya.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "ngihlanelelwe"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "ngigobile"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kude kube"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "insuku"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ngizila ukukhanya"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ngihamba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:23.632059709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 1:17",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kodwa abazalisi bemesaba uElohim, futhi abenzenjengokusho kwenkosi yeMitsrayim kubona, basisa phila abantwana abangamadoda.",
+  "tokens": [
+    {
+      "surface": "ותיראן",
+      "gloss": "bemesaba"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "abazalisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi abenza"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "⟨benzenjalo⟩"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokusho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okwasho"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsrayim"
+    },
+    {
+      "surface": "ותחיין",
+      "gloss": "basisa phila"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "abantwana abangamadoda"
+    }
+  ],
+  "timestamp": "2026-08-31T01:26:07.388074132Z",
+  "model": "glm-5.3"
+}

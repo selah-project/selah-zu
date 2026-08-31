@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 6:15",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Newubani wezinkwa ezingavinyiwe: amafuku esigungu ehlanganiswe ngo-oyile, namalevisi angavinyiwe agcwaliswe ngo-oyile, nezinkemba zabo zokudla nezinkemba zabo zokuphuzwa.",
+  "tokens": [
+    {
+      "surface": "וסל",
+      "gloss": "Newubani"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "wezinkwa ezingavinyiwe"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "esigungu"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "amafuku"
+    },
+    {
+      "surface": "בלולת",
+      "gloss": "ehlanganiswe"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ngo-oyile"
+    },
+    {
+      "surface": "ורקיקי",
+      "gloss": "namalevisi"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "angavinyiwe"
+    },
+    {
+      "surface": "משחים",
+      "gloss": "agcwaliswe"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ngo-oyile"
+    },
+    {
+      "surface": "ומנחתם",
+      "gloss": "nezinkemba zabo zokudla"
+    },
+    {
+      "surface": "ונסכיהם",
+      "gloss": "nezinkemba zabo zokuphuzwa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:10:56.597480185Z",
+  "model": "glm-5.3"
+}

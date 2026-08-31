@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 70,
+  "translation": "Babuyele ngokwehlulekile ngesiswe sabo, abathi, He-aqa, he-aqa.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "Babuyele"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ngokwehlulekile"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "ngesiswe sabo"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "abathi"
+    },
+    {
+      "surface": "האח",
+      "gloss": "He-aqa"
+    },
+    {
+      "surface": "האח",
+      "gloss": "he-aqa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:19.830393697Z",
+  "model": "glm-5.3"
+}

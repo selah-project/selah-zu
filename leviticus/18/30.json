@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 18:30",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Futhi nizogcina ⟨את⟩ isiphetho sami, ukuze ningazenzi izeqetho ezingcolileyo ezenziwe phambi kwenu, futhi ningeke nizahlukanise ngazo; nginguYahwe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "futhi nizogcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiphetho sami"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "isiphetho sami"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ukuze ningazenzi"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "zenzi"
+    },
+    {
+      "surface": "מחקות",
+      "gloss": "izeqetho"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "engcolileyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezwenziwe"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "ezenziwe"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi ningeke"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "nizahlukanise"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ngazo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:58:33.983034813Z",
+  "model": "glm-5.3"
+}

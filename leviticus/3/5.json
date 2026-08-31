@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 3:5",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi abantwana bakwa-Aharon bazoyitshisa ⟨את⟩-yo ku-altari, phezu kwenhlawulo yesishisayo, engaphezulu kwezinkuni, ezingaphezulu komlilo — isipho somlilo, iphunga elimnandi kuYahwe.",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "bazoyitshisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-yo",
+      "marks": "amafutha (izingxenye zokuqhashiswa)"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "bakwa-Aharon"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ku-altari"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "kwenhlawulo yesishisayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku-"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kwezinkuni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku-"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "האש",
+      "gloss": "komlilo"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "isipho somlilo"
+    },
+    {
+      "surface": "ריח",
+      "gloss": "iphunga"
+    },
+    {
+      "surface": "ניחח",
+      "gloss": "elimnandi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:51:01.093035122Z",
+  "model": "glm-5.3"
+}

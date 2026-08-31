@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Ngakho-ke ukuzikhukhumela kuyizingcezu zezinkomo zokuqoshwa kubo, ububi bazingxobo bazo babelula ngendwangu.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "kuyizingcezu zezinkomo"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ukuzikhukhumela"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "bazingxobo"
+    },
+    {
+      "surface": "שית",
+      "gloss": "bazingxobo zendwangu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kubo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:03.991716519Z",
+  "model": "glm-5.3"
+}

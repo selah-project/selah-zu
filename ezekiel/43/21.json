@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 43:21",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "Uzothatha ⟨את⟩ inkunzi yonqenqema yesono, uyoshisa phakathi endaweni eqoshiwe yendlu, ngaphandle kweNgcwele.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "uzothatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkunzi yonqenqema yesono"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "yonqenqema yesono"
+    },
+    {
+      "surface": "ושרפו",
+      "gloss": "uyoshisa"
+    },
+    {
+      "surface": "במפקד",
+      "gloss": "endaweni eqoshiwe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "yendlu"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "kweNgcwele"
+    }
+  ],
+  "timestamp": "2026-08-31T05:23:23.699365088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 51,
+  "translation": "Inhliziyo ehlanzekile udale engimeni, uElohim, nomoya oqotho uwubuse kabusha engadeni lwami.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Inhliziyo"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ehlanzekile"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "udale"
+    },
+    {
+      "surface": "לי",
+      "gloss": "engimeni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "nomoya"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "oqotho"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "uwubuse kabusha"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "engadeni lwami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:33.391275909Z",
+  "model": "glm-5.3"
+}

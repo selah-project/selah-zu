@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 18:10",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Njengoba uYahwe uElohim wakho ephila, awukho isizwe nombuso lapho inkosi yami ingazange ithumele khona ukukufuna, bathi: akukho; wafungisa ⟨את⟩ umbuso futhi ⟨את⟩ isizwe ukuthi angeke bakuthola.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "ephila"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma\/awukho"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ukhona"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "וממלכה",
+      "gloss": "nombuso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ingazange"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ithumele"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "inkosi yami"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "לבקשך",
+      "gloss": "ukukufuna"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "והשביע",
+      "gloss": "wafungisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umbuso"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "umbuso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "isizwe"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "ימצאכה",
+      "gloss": "bakuthola"
+    }
+  ],
+  "timestamp": "2026-08-31T03:59:39.552045121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 8:15",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Futhi ngemva kwalokho abalevi bangena ukukhonza ⟨את⟩ ithenti yokuhlangana, futhi uzobahlanza ⟨את⟩ bona, uzobanyusa ⟨את⟩ bona njengesipho sokuzungezisa.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "futhi ngemva kwa-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "bangena"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "abalevi"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ukukhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithenti yokuhlangana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ithenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuhlangana"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "futhi uzobahlanza"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "abalevi"
+    },
+    {
+      "surface": "והנפת",
+      "gloss": "uzobanyusa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "abalevi"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "njengesipho sokuzungezisa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:13:30.736247527Z",
+  "model": "glm-5.3"
+}

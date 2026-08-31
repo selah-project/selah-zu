@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Wabenzela idili, badla futhi banatha.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wabenzela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "abanthethi abaqashiwe ababomvu — them"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "idili"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "badla"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "banatha"
+    }
+  ],
+  "timestamp": "2026-08-31T01:13:27.812641011Z",
+  "model": "glm-5.3"
+}

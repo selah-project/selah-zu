@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 36:17",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Kuze ngifike futhi nginthathe ⟨את⟩ nini, ngiye ezweni elifana nasezweni lenu — izwe lembila newayini, izwe losinkwa namasimu obhiwane.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kuze"
+    },
+    {
+      "surface": "באי",
+      "gloss": "ngifike"
+    },
+    {
+      "surface": "ולקחתי",
+      "gloss": "futhi nginthathe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "כארצכם",
+      "gloss": "elifana nasezweni lenu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "lembila"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "newayini"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "losinkwa"
+    },
+    {
+      "surface": "וכרמים",
+      "gloss": "namasimu obhiwane"
+    }
+  ],
+  "timestamp": "2026-08-31T04:28:09.855349465Z",
+  "model": "glm-5.3"
+}

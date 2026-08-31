@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 36:1",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Kwasekuyisikhathi emvamise kweminyaka eyishuminane nesine yokubusa kwenkosi uChizkiyahu, uSanheribu inkosi yaseAshuru wanqamuka wangena ezweni wanikezela amabutfo wonkhe lawo emadolobha ayimbongolo aseYuda, wabamba wona.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwasekuyisikhathi"
+    },
+    {
+      "surface": "בארבע",
+      "gloss": "kweyine"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ishumi"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kwenkosi"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "uChizkiyahu"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "wanqamuka wangena"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "uSanheribu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "yaseAshuru"
+    },
+    {
+      "surface": "על",
+      "gloss": "wanikezela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onkhe"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "emadolobha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "aseYuda"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "ayimbongolo"
+    },
+    {
+      "surface": "ויתפשם",
+      "gloss": "wabamba wona"
+    }
+  ],
+  "timestamp": "2026-08-31T11:44:22.475565012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 47:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 47,
+  "translation": "Kuzokhululwa ubumnene bakho, nakho ukuhlazeka kwakho kuzobonakala; ngizothatha ukuziphindisela, futhi angeke ngihlangane nomuntu ⟨njengomuntu⟩.",
+  "tokens": [
+    {
+      "surface": "תגל",
+      "gloss": "kuzokhululwa"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "ubumnene bakho"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nako"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "kuzobonakala"
+    },
+    {
+      "surface": "חרפתך",
+      "gloss": "ukuhlazeka kwakho"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ukuziphindisela"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ngizothatha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi angeke"
+    },
+    {
+      "surface": "אפגע",
+      "gloss": "ngihlangane"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "nomuntu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:32:18.527435272Z",
+  "model": "glm-5.3"
+}

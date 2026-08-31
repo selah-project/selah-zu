@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 2:9",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi-ke manje ungambeki engenasohlwayo, ngokuba wena ungumuntu ohlakaniphile, futhi uzoyazi ⟨את⟩ lokho okuzokwenzela yena, uzohlehla-ke ⟨את⟩ ubudala bakhe ngegazi eSheol.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "futhi-ke manje"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תנקהו",
+      "gloss": "mbeki engenasohlwayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ohlakaniphile"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "futhi uzoyizi…azi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokho okuzokwenzela yena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "okuzokwenzela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "והורדת",
+      "gloss": "uzohlehla-ke"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubudala bakhe"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "ubudala bakhe"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ngegazi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "eSheol"
+    }
+  ],
+  "timestamp": "2026-08-31T03:46:44.736810932Z",
+  "model": "glm-5.3"
+}

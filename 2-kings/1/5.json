@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 1:5",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Abathunywa babuyela kuye, wathi kubo: kungani niphendukile?",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "babuyela"
+    },
+    {
+      "surface": "המלאכים",
+      "gloss": "abathunywa"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨lokhu⟩"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "niphendukile"
+    }
+  ],
+  "timestamp": "2026-08-31T04:03:22.892837170Z",
+  "model": "glm-5.3"
+}

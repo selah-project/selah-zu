@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Ngokuba wena wenza ngokufihlekile, kodwa mina ngiyakwenza ⟨את⟩ lokhu phambi kuka-Israyeli wonke, naphambi kwelanga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ngokufihlekile"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kodwa mina"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ngiyakwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokhu"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "—"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "naphambi kuka-"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "elanga"
+    }
+  ],
+  "timestamp": "2026-08-31T03:36:54.083932411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ingabe ayikholi yini iħlakaniphi, lokho okuħlanzekileyo kunikeza izwi layo?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "ingabe ayikho... yini"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "iħlakaniphi"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ikhola"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "lokho okuħlanzekileyo"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "kunikeza"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "izwi layo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:49:07.174154564Z",
+  "model": "glm-5.3"
+}

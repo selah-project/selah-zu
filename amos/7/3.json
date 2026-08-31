@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "UYahwe wazisola ngale; akuzukwenzeka, usho uYahwe.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "wazisola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ng"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akuzukwenzeka ⟨akuna⟩"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "akuzukwenzeka"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "usho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:31.106579554Z",
+  "model": "glm-5.3"
+}

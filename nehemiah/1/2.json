@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 1:2",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Weza uHanani, oyedwa ozalwane bami, yena namadoda avela kuYuda; ngababuza ngabeLuda abasindileyo, abashiywe ngokuthunjwa, nangeYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Weza"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "uHanani"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "oyedwa"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "ozalwane bami"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "namadoda"
+    },
+    {
+      "surface": "מיהודה",
+      "gloss": "avela kuYuda"
+    },
+    {
+      "surface": "ואשאלם",
+      "gloss": "ngababuza"
+    },
+    {
+      "surface": "על",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "abeLuda"
+    },
+    {
+      "surface": "הפליטה",
+      "gloss": "abasindileyo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "נשארו",
+      "gloss": "abashiywe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngokuthunjwa"
+    },
+    {
+      "surface": "השבי",
+      "gloss": "ekuthunjweni"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi nga-"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:13:00.813802270Z",
+  "model": "glm-5.3"
+}

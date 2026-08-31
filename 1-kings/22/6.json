@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 22:6",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Inkosi yakwa-Israyeli yaqoqa ⟨את⟩ abaprofethi, abayizi-400 ngaphezu kwezigaba ezine izigaba amadoda, yathi kubo: Nginga eRamoto yaseGileyadi ukulwa, noma ngiyeke? Bathi: Nyuka; u-Adonayi uzoyinika esandleni senkosi.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "yaqoqa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yakwa-Israyeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaprofethi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "abaprofethi"
+    },
+    {
+      "surface": "כארבע",
+      "gloss": "bayizi-400 ngaphezu kwezigaba ezine"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "izigaba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "Ngingaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Ramoto"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "yaseGileyadi"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ukulwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "אחדל",
+      "gloss": "ngiyeke"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "Bathi"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Nyuka"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "uzoyinika"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "senkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:03:07.130101008Z",
+  "model": "glm-5.3"
+}

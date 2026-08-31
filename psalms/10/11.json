@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Uthi enhliziyweni yakhe, 'U-El ukhohliwe; ufihle ubuso bakhe; akaboni kuze kube phakade.'",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "enhliziyweni yakhe"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "ukhohliwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "ufihle"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "aboni"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:23.898703699Z",
+  "model": "glm-5.3"
+}

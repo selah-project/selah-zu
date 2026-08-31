@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ruth 2:1",
+  "book": "ruth",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "UNaomi wayenomuntu owaziwayo oyindoda yomyeni wakhe, indoda eyingibhonxi eqinileyo, kumendi ka-Elimeleki; igama lakhe lalinginguBoazi.",
+  "tokens": [
+    {
+      "surface": "ולנעמי",
+      "gloss": "UNaomi wayenomuntu owaziwayo"
+    },
+    {
+      "surface": "מידע",
+      "gloss": "owaziwayo"
+    },
+    {
+      "surface": "לאישה",
+      "gloss": "yomyeni wakhe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "eyingibhonxi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "eqinileyo"
+    },
+    {
+      "surface": "ממשפחת",
+      "gloss": "kumendi ka-"
+    },
+    {
+      "surface": "אלימלך",
+      "gloss": "u-Elimeleki"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "inguBoazi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:37:46.266859841Z",
+  "model": "glm-5.3"
+}

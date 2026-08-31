@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 97:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 97,
+  "translation": "Ifu nomkhitha okuzungezile; ubulungiswa nomthetho yisisekelo sodwa lwakhe.",
+  "tokens": [
+    {
+      "surface": "ענן",
+      "gloss": "ifu"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "nomkhitha"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "okuzungezile"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ubulungiswa"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "nomthetho"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "yisisekelo"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "sodwa lwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:32.193545760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 152,
+  "ref": "psalms 119:152",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Kudala ngazi ngobufakazi bakho sayi ukuthi ukuze kuze phakade uwaba misile.",
+  "tokens": [
+    {
+      "surface": "קדם",
+      "gloss": "kudala"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ngazi"
+    },
+    {
+      "surface": "מעדתיך",
+      "gloss": "ngobufakazi bakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ukuze kuze phakade"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "uwaba misile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:58.360825153Z",
+  "model": "glm-5.3"
+}

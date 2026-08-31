@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Uhle wena, futhi wenza okuhle; ngifundise imithetho yakho.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "uhle"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "futhi wenza okuhle"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "ngifundise"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "imithetho yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:35.855473083Z",
+  "model": "glm-5.3"
+}

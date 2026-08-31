@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 12:16",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Laba ngabantu abaye lawula iYordani ngenyanga yokuqala, yonke imifula yayo igcwele phezu konke umngcele wayo, baza babhidayo bonke abantu basembindeni, empumalange mpumalanga nasentshonalange ntshonalanga.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Laba"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ngabantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "lawula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYordani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "iYordani"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ngenyanga"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "yokuqala"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "igcwele"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "גדיתיו",
+      "gloss": "umngcele wayo"
+    },
+    {
+      "surface": "ויבריחו",
+      "gloss": "baza babhidayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonke abantu basembindeni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "abantu basembindeni"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "empumalange mpumalanga"
+    },
+    {
+      "surface": "ולמערב",
+      "gloss": "nasentshonalange ntshonalanga"
+    }
+  ],
+  "timestamp": "2026-08-31T08:23:23.470484507Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "I-Israel yangena e-Mitsrayim, uYaakov wahlala njengomfokazi ezweni likaKhamu.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yangena"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "I-Israel"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "e-Mitsrayim"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "uYaakov"
+    },
+    {
+      "surface": "גר",
+      "gloss": "wahlala njengomfokazi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "חם",
+      "gloss": "likaKhamu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:24.295813743Z",
+  "model": "glm-5.3"
+}

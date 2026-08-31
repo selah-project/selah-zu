@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Isizukulwane sihamba, isizukulwane siza, nomhlaba uhlale umi kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "isizukulwane"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "sihamba"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "isizukulwane"
+    },
+    {
+      "surface": "בא",
+      "gloss": "siza"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "nomhlaba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "uhlale umi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:57:58.152124945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 25:24",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "No-⟨את⟩ wonke amakhosi e-Arabhu, no-⟨את⟩ wonke amakhosi abahlanganiswe abahlala esigodlweni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "wonke amakhosi e-Arabhu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "e-Arabhu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "wonke amakhosi abahlanganiswe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "abahlanganiswe"
+    },
+    {
+      "surface": "השכנים",
+      "gloss": "abahlala"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "esigodlweni"
+    }
+  ],
+  "timestamp": "2026-08-31T04:48:28.331729774Z",
+  "model": "glm-5.3"
+}

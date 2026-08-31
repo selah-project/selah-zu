@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 48:13",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 48,
+  "translation": "uYosefu wathatha ⟨את⟩ bobabili — ⟨את⟩ uEfrayimi ngesandla sakhe sokudla, eceleni esokunxele kukaIsrayeli, noMenashhe ngesokunxele sakhe, eceleni esokudla kukaIsrayeli — wabasondeza kuyena.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bobabili"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bobabili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uEfrayimi"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "uEfrayimi"
+    },
+    {
+      "surface": "בימינו",
+      "gloss": "ngesandla sakhe sokudla"
+    },
+    {
+      "surface": "משמאל",
+      "gloss": "eceleni esokunxele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kukaIsrayeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "uMenashhe"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "uMenashhe"
+    },
+    {
+      "surface": "בשמאלו",
+      "gloss": "ngesokunxele sakhe"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "eceleni esokudla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kukaIsrayeli"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "wabasondeza"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuyena"
+    }
+  ],
+  "timestamp": "2026-08-31T01:24:53.952138745Z",
+  "model": "glm-5.3"
+}

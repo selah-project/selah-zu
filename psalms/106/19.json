@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Benza inyonyane embhedeni eKhorebe, bamukhomba umfanekiso wokuncibilika.",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "inyonyane embhedeni"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "eKhorebe"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "bamukhomba"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "umfanekiso wokuncibilika"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:31.367126899Z",
+  "model": "glm-5.3"
+}

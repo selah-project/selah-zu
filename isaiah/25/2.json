@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 25:2",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Ngoba uyenzile idolobha libe yiqhaga leziwula, idolobha eliqinile libe yokuwa; ingadi yezizwe zingaselona idolobha, kuze kube phakade ngeke yakhiwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "uyenzile"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "idolobha"
+    },
+    {
+      "surface": "לגל",
+      "gloss": "libe yiqhaga leziwula"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "idolobha"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "eliqinile"
+    },
+    {
+      "surface": "למפלה",
+      "gloss": "libe yokuwa"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "ingadi"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "yezizwe zingaselona"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "idolobha"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "yakhiwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:24:41.733642062Z",
+  "model": "glm-5.3"
+}

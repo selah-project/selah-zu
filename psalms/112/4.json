@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 112:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 112,
+  "translation": "Kwakhalakhazela ukukhanya ebumnyameni kubalungileyo — onomusa, onesihawu, yolungile.",
+  "tokens": [
+    {
+      "surface": "זרח",
+      "gloss": "Kwakhalakhazela"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ebumnyameni"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ukukhanya"
+    },
+    {
+      "surface": "לישרים",
+      "gloss": "kubalungileyo"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "onomusa"
+    },
+    {
+      "surface": "ורחום",
+      "gloss": "onesihawu"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "yolungile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:06.444536901Z",
+  "model": "glm-5.3"
+}

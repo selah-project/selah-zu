@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 8:21",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "AmaLevi azenza inhlanzi yokuzikhulula ezonweni, awasha izimpahla zawo; u-Aharon wawenqa ⟨את⟩ wona njengenhlanzi yokunyathelisa phambi kukaYahwe; u-Aharon wenza ukubuyisana ngokwabo ukuzihlambulula kwawo.",
+  "tokens": [
+    {
+      "surface": "ויתחטאו",
+      "gloss": "azenzi inhlanzi yokuzikhulula ezonweni"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "amaLevi"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "awasha"
+    },
+    {
+      "surface": "בגדיהם",
+      "gloss": "izimpahla zawo"
+    },
+    {
+      "surface": "וינף",
+      "gloss": "wawenqa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wona (amaLevi)"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "njengenhlanzi yokunyathelisa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויכפר",
+      "gloss": "wenza ukubuyisana"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ngokwabo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "לטהרם",
+      "gloss": "ukuzihlambulula kwawo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:15:34.908813562Z",
+  "model": "glm-5.3"
+}

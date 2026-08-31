@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 149,
+  "translation": "ukwenza isindlese ezizweni, izijeziso ezintweni zamaqembu;",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "isindlese"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ezizweni"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "izijeziso"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ezi-"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "zamaqembu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:45:47.020981905Z",
+  "model": "glm-5.3"
+}

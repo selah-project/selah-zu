@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 3:10",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "ukudlulisa umbuso ovela endlwini kaShawuli, nokumisa ⟨את⟩ isihlalo sobukhosi sikaDavide phezu kukaIsrayeli nakuphezu kukaYehuda, kusuka eDani yaze yaya eBere-Sheba.",
+  "tokens": [
+    {
+      "surface": "להעביר",
+      "gloss": "ukudlulisa"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "umbuso"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ovela endlwini"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kaShawuli"
+    },
+    {
+      "surface": "ולהקים",
+      "gloss": "nokumisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isihlalo sobukhosi sikaDavide"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "isihlalo sobukhosi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "sikaDavide"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kukaIsrayeli"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nakuphezu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kukaYehuda"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "kusuka eDani"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "yaze yaya"
+    },
+    {
+      "surface": "באר",
+      "gloss": "eBere-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Sheba"
+    }
+  ],
+  "timestamp": "2026-08-31T03:32:01.942195303Z",
+  "model": "glm-5.3"
+}

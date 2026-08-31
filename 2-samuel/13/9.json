@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 13:9",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Wathatha i-pani ⟨את⟩ wamunca phambi kwakhe, wala ukudla; wathi u-Amnon: Khishani wonke umuntu odedele mina; basuka wonke umuntu kuyena.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-pani"
+    },
+    {
+      "surface": "המשרת",
+      "gloss": "i-pani"
+    },
+    {
+      "surface": "ותצק",
+      "gloss": "wamunca"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "וימאן",
+      "gloss": "wala"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "u-Amnon"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "khishani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "odedele mina"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "basuka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "kuyena"
+    }
+  ],
+  "timestamp": "2026-08-31T03:37:03.855061245Z",
+  "model": "glm-5.3"
+}

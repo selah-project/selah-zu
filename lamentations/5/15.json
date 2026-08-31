@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Ujabulo enhliziyweni yethu luyekile; intantela yethu iguquile yaba lilila.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "luyekile"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ujabulo"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "enhliziyweni yethu"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "iguquile"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "yaba lilila"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "intantela yethu"
+    }
+  ],
+  "timestamp": "2026-08-31T07:43:09.806347423Z",
+  "model": "glm-5.3"
+}

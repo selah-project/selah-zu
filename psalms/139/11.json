@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 139,
+  "translation": "Ngingasho ukuthi: ngempela ubumnyama buyongigcoba, kodwa ebusuku kuzoba kukhanya ngiangaki;",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ngingasho ukuthi"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ubumnyama"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "buyongigcoba"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "kodwa ebusuku"
+    },
+    {
+      "surface": "אור",
+      "gloss": "kuzoba kukhanya"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "ngiangaki"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:28.807193470Z",
+  "model": "glm-5.3"
+}

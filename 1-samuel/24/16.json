@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 24:16",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Abe uYahwe ⟨nguMahluleli⟩, ahlulele phakathi kwami nawe, abone, aphikisele ⟨את⟩ icala lami, angikhulule esandleni sakho.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Abe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "⟨nguMahluleli⟩"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ahlulele"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "phakathi kwami"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "abone"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "aphikisele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icala lami"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "icala lami"
+    },
+    {
+      "surface": "וישפטני",
+      "gloss": "angikhulule"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "esandleni sakho"
+    }
+  ],
+  "timestamp": "2026-08-31T03:26:09.801481156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 22:11",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "UTsidkiya indodana kaKenaana wazenzele amahorni ensimbi, wathi: Njalo uthe uYahwe, Ngezi uzokuzaba ⟨את⟩ iAram kuze kubaphela.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wazenzele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "uTsidkiya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "כנענה",
+      "gloss": "kaKenaana"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "amahorni"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ensimbi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "ngezi"
+    },
+    {
+      "surface": "תנגח",
+      "gloss": "uzokuzaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iAram"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "iAram"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "כלתם",
+      "gloss": "kubaphela"
+    }
+  ],
+  "timestamp": "2026-08-31T08:50:14.717721011Z",
+  "model": "glm-5.3"
+}

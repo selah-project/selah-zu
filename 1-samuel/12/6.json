@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 12:6",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "UShemuweli wathi kubantu: uYahwe owenza ⟨את⟩ uMoshe ⟨את⟩ no-Aharon, nowaphakamisela ⟨את⟩ oobaba benu phuma ezweni laseMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bantu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no-",
+      "marks": "u-Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "nowa-"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "phakamisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oobaba benu"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "oobaba benu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "phuma ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T03:19:09.345145749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 22:30",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Ngokuba ngawe ngiyogijima ngaphakathi kweqembu; ngoElohim wami ngiyogxuma idonga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ngawe"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "ngiyogijima"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "iqembu"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "ngoElohim wami"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "ngiyogxuma"
+    },
+    {
+      "surface": "שור",
+      "gloss": "idonga"
+    }
+  ],
+  "timestamp": "2026-08-31T03:44:28.111479075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "UNjaneși wasesithi kumfazi: Angeke nife nifile kwenyani;",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wasesithi"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "UNjaneși"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Angeke"
+    },
+    {
+      "surface": "מות",
+      "gloss": "nifile"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "nife kwenyani"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:37.058473223Z",
+  "model": "glm-5.3"
+}

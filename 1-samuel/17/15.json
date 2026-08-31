@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 17:15",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "uDavide waya wabuya esikhathini sikaShawuli ukulusa ⟨את⟩ izimvu kayise eBeit-Lechemi.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "wabuya"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "ukulusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izimvu"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "izimvu"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kayise"
+    },
+    {
+      "surface": "בית",
+      "gloss": "eBeit-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Lechemi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:22:52.359274037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 25:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "UYokshan wazala ⟨את⟩ uSheba no⟨את⟩ uDedan; abantwana bakaDedan babesinguAshuri, abaLetushi namaLeumi.",
+  "tokens": [
+    {
+      "surface": "ויקשן",
+      "gloss": "uYokshan"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uSheba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "uSheba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uDedan"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "uDedan"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "bakoDedan"
+    },
+    {
+      "surface": "היו",
+      "gloss": "babesi"
+    },
+    {
+      "surface": "אשורם",
+      "gloss": "inguAshuri"
+    },
+    {
+      "surface": "ולטושים",
+      "gloss": "abaLetushi"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "namaLeumi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:13:07.756935121Z",
+  "model": "glm-5.3"
+}

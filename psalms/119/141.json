@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngincile ngingathandeki, kepha imiyalelo yakho ayingikhohliwe.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "Ngincile"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "nungathandeki"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "imiyalelo yakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi-"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "ngikhohliwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:08.983732839Z",
+  "model": "glm-5.3"
+}

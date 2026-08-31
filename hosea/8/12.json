@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngingabhala kuyena izinkulungwane zemithetho yami, kodwa ziyabalwa njengento engajwayelekile.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "ngingabhala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "izinkulungwane"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "imithetho yami"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njengento"
+    },
+    {
+      "surface": "זר",
+      "gloss": "engajwayelekile"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "ziyabalwa"
+    }
+  ],
+  "timestamp": "2026-08-31T05:27:55.494231623Z",
+  "model": "glm-5.3"
+}

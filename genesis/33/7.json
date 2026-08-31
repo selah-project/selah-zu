@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 33:7",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "ULeia nengane zakhe zaziswa zonke, zakhuleka; ngemva kwawo uYosefu noRakele baziswa, bakhuleka.",
+  "tokens": [
+    {
+      "surface": "ותגש",
+      "gloss": "zaziswa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "uLeia"
+    },
+    {
+      "surface": "וילדיה",
+      "gloss": "nengane zakhe"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "zakhuleka"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ngemva kwawo"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "baziswa"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "noRakele"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "bakhuleka"
+    }
+  ],
+  "timestamp": "2026-08-31T08:48:52.053409229Z",
+  "model": "glm-5.3"
+}

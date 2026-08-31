@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jonah 3:5",
+  "book": "jonah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Abantu baseNinive bakholwa kuElohim, bamemezela ukuzila, bagqoka amasaka, kusukela kubakhulu bayo kufike kubancane bayo.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "bakholwa"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "aseNinive"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "bamemezela"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ukuzila"
+    },
+    {
+      "surface": "וילבשו",
+      "gloss": "bagqoka"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "amasaka"
+    },
+    {
+      "surface": "מגדולם",
+      "gloss": "kusukela kubakhulu bayo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kufike"
+    },
+    {
+      "surface": "קטנם",
+      "gloss": "kubancane bayo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:36:21.784658818Z",
+  "model": "glm-5.3"
+}

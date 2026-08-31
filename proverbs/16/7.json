@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 16:7",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Ekuthandweni kukaYahwe izindlela zomuntu, nabaningani bakhe ubazolisa ⟨naye⟩.",
+  "tokens": [
+    {
+      "surface": "ברצות",
+      "gloss": "Ekuthandweni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kukaYahwe"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "izindlela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "zomuntu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nabaningani"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "bakhe"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ubazolisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "naye"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:51.384310985Z",
+  "model": "glm-5.3"
+}

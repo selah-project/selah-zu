@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 22:3",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Ingabe ikholophu lakho liyajabulisa uShadayi, uma ulungile? noma kunenzuzo, uma izindlela zakho ziphelele?",
+  "tokens": [
+    {
+      "surface": "החפץ",
+      "gloss": "iyajabulisa"
+    },
+    {
+      "surface": "לשדי",
+      "gloss": "uShadayi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "ulungile"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "inzuzo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תתם",
+      "gloss": "zipelele"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "izindlela zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T07:19:36.192159274Z",
+  "model": "glm-5.3"
+}

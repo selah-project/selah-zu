@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 21:22",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "No-⟨את⟩ iKibtsayim nezinkambu zayo, no-⟨את⟩ iBeyith-Horoni nezinkambu zayo — amadolobha amane.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "iKibtsayim"
+    },
+    {
+      "surface": "קבצים",
+      "gloss": "iKibtsayim"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "izinkambu zayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "izinkambu zayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "iBeyith-Horoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iBeyith"
+    },
+    {
+      "surface": "חורן",
+      "gloss": "iHoroni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "izinkambu zayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "izinkambu zayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "amadolobha"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "amane"
+    }
+  ],
+  "timestamp": "2026-08-31T02:58:05.638385826Z",
+  "model": "glm-5.3"
+}

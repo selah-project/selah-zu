@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 72:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 72,
+  "translation": "Makube nokunye okuningi komumbu emhlabeni, phakathi phezulu kwezintaba; izithelo zazo ziyonqabanga njengeLebanoni, baphuma emzini bachuma njengotshani womhlaba.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "makube"
+    },
+    {
+      "surface": "פסת",
+      "gloss": "ngokuningi"
+    },
+    {
+      "surface": "בר",
+      "gloss": "komumbu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "kwezintaba"
+    },
+    {
+      "surface": "ירעש",
+      "gloss": "ziyonqabanga"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "njengeLebanoni"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "izithelo zayo"
+    },
+    {
+      "surface": "ויציצו",
+      "gloss": "baphuma bachuma"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "emzini"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "njengotshani"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "womhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:21.595761981Z",
+  "model": "glm-5.3"
+}

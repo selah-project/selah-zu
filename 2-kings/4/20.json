@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 4:20",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Wamphakamisa, wamletha kunina, wahlala emathangeni akhe kwaze kwasemini, wafa.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "wamphakamisa"
+    },
+    {
+      "surface": "ויביאהו",
+      "gloss": "wamletha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "unina"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "על",
+      "gloss": "ema"
+    },
+    {
+      "surface": "ברכיה",
+      "gloss": "thangeni akhe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwaze kwa"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "semini"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wafa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:04:46.517571271Z",
+  "model": "glm-5.3"
+}

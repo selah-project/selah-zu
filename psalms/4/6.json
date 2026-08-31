@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Nikhethela izinhlolovo zokulunga, nithembele kuYahwe.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Nikhethela"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "izinhlolovo"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "zokulunga"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "nithembele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:10.507937531Z",
+  "model": "glm-5.3"
+}

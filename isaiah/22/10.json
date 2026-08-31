@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 22:10",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Futhi ⟨את⟩ izindlu zaseYerushalayimi nalibala, naza nichitha izindlu ukuze niqinise idolobho-ndonga.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "izindlu zaseYerushalayimi"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "izindlu"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "aseYerushalayimi"
+    },
+    {
+      "surface": "ספרתם",
+      "gloss": "nalibala"
+    },
+    {
+      "surface": "ותתצו",
+      "gloss": "naza nichitha"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "izindlu"
+    },
+    {
+      "surface": "לבצר",
+      "gloss": "ukuze niqinise"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "idolobho-ndonga"
+    }
+  ],
+  "timestamp": "2026-08-31T04:21:49.357369245Z",
+  "model": "glm-5.3"
+}

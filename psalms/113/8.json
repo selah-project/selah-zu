@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 113,
+  "translation": "ukumhlalisa nabadumileyo, nabadumileyo babantu bakhe.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "ukumhlalisa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na-"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "abadumileyo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na-"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "abadumileyo"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bantu bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:20.893079Z",
+  "model": "glm-5.3"
+}

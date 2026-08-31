@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 55:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 55,
+  "translation": "Ngenxa yezwi lesitha, nangenxa yenteano yokohlakala, ngoba bengisa ububi phezu kwami, futhi entukuthezweni bayizonda.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Ngenxa yezwi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "lesitha"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "nangenxa"
+    },
+    {
+      "surface": "עקת",
+      "gloss": "yokucindezelwa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "lomohlakahlaka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "ימיטו",
+      "gloss": "bengisa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "און",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "ובאף",
+      "gloss": "futhi entukuthezweni"
+    },
+    {
+      "surface": "ישטמוני",
+      "gloss": "bayizonda"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:15.533472317Z",
+  "model": "glm-5.3"
+}

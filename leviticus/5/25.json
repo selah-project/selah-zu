@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 5:25",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Futhi uzoletha ⟨את⟩ i-ashamu yakhe kuYahwe — isiduna esiphelele esivela ezimvini, ngenani lakho, njengomnikelo we-ashamu, kumphristi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "i-ashamu yakhe"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "i-ashamu yakhe"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "uzoletha"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "איל",
+      "gloss": "isiduna"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "esiphelele"
+    },
+    {
+      "surface": "מן",
+      "gloss": "esivela"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ezimvini"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "ngenani lakho"
+    },
+    {
+      "surface": "לאשם",
+      "gloss": "njengomnikelo we-ashamu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umphristi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:50:54.421265630Z",
+  "model": "glm-5.3"
+}

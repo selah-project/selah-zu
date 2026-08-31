@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 46,
+  "translation": "Uyekisa impi kuze kusele izinhlangozi zomhlaba; uphula umesele, usika umkhonto izingcezu, izimoto zempi azitshisa ngomlilo.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "Uyekisa"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "impi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kusele"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "izinhlangozi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zomhlaba"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "umesele"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "uphula"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "usika izingcezu"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "umkhonto"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "izimoto zempi"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "azitshisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngomlilo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:54.263142711Z",
+  "model": "glm-5.3"
+}

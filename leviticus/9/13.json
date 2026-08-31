@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 9:13",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Isinikelo esishiswayo bambiselela kuyena ngezinqunqunu zaso, ⟨את⟩ nekhanda; wasitshisa phezu kwe-altare.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isinikelo esishiswayo"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "isinikelo esishiswayo"
+    },
+    {
+      "surface": "המציאו",
+      "gloss": "bambiselela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "ngezinqunqunu zaso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ikhanda"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ikhanda"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "wasitshisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "i-altare"
+    }
+  ],
+  "timestamp": "2026-08-31T01:53:41.027721786Z",
+  "model": "glm-5.3"
+}

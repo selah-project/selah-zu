@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 47:1",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 47,
+  "translation": "Leli ilizwi likaYahwe elafika kuYirmeyahu ⟨profethi⟩ elaku mayelana namaFilisthiyim, ngaphambi kokuba uParo ashaye ⟨את⟩ iGaza.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "okwakhe"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "uYirmeyahu"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "profethi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "elaku"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaFilisthiyim"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ngaphambi kokuba"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ashaye"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iGaza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "iGaza"
+    }
+  ],
+  "timestamp": "2026-08-31T04:59:43.791475235Z",
+  "model": "glm-5.3"
+}

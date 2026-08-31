@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 39:9",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Ibingu-yesine nkunzi ⟨isikwele⟩; benze ⟨את⟩ i-hashe neziqhombe kabelu; izandla ezidlangalazile ubude bayo, ngesandla elidlangalazile ububanzi bayo, neziqhombe kabelu.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "yesine nkunzi ⟨isikwele⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ibingu"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "neziqhombe kabelu"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "benze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-hashe"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "i-hashe"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "isandla elidlangalazile"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ubude bayo"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "ngesandla elidlangalazile"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ububanzi bayo"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "neziqhombe kabelu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:45:54.710908964Z",
+  "model": "glm-5.3"
+}

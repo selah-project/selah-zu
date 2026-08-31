@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 24:18",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Wathi kuyena uDavide: Ulungile ⟨wena⟩ kunezonina, ngokuba wena ungenzela ⟨isiphephelo⟩ okuhle, yona ngingenzela okubi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "Ulungile"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kunezonina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "גמלתני",
+      "gloss": "ungenzela isiphephelo"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "yona"
+    },
+    {
+      "surface": "גמלתיך",
+      "gloss": "ngingenzela isiphephelo"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "okubi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:26:10.433880347Z",
+  "model": "glm-5.3"
+}

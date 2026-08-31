@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 3:9",
+  "book": "jonah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ubani umqondo — uyangaphenduka uElohim, aze asuse intukuthelo yakhe, sibe singabhujwa?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ubani umqondo"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "⟨umqondo⟩"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "uyangaphenduka"
+    },
+    {
+      "surface": "ונחם",
+      "gloss": "⟨aze asuse⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "asuse"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "intukuthelo"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "yakhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "singa-"
+    },
+    {
+      "surface": "נאבד",
+      "gloss": "bhujwa"
+    }
+  ],
+  "timestamp": "2026-08-31T10:29:34.173650876Z",
+  "model": "glm-5.3"
+}

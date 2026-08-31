@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 17:8",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Bahamba nemicimbo yezizwe uYahwe awazixosha ngaphambi kwabantwana bakwa-Israyeli, nakwenzinkosi zakwa-Israyeli abazenzileyo.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "bahamba"
+    },
+    {
+      "surface": "בחקות",
+      "gloss": "nemicimbo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "yezizwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awazi-"
+    },
+    {
+      "surface": "הוריש",
+      "gloss": "xosha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngaphambi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kwabantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "nakwenzinkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zakwa-Israyeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "zenzileyo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:11:27.278669709Z",
+  "model": "glm-5.3"
+}

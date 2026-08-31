@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Ngokuba kuwe, uYahwe, ngilingile; wena uzophendula, u-Adonayi uElohim wami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "ngilingile"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "uzophendula"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:11.097281350Z",
+  "model": "glm-5.3"
+}

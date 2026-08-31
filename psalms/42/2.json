@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Njengeharti elangazelela imifula yamanzi, kanjalo inefeshi yami ilangazelela wena, uElohim.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "njengeharti"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ilangazelela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "imifula"
+    },
+    {
+      "surface": "מים",
+      "gloss": "yamanzi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "ilangazelela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:18.887146321Z",
+  "model": "glm-5.3"
+}

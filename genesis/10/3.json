@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Amadodana iGomera: iAshkenazi, noRifati, noTogarama.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "Amadodana"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "iGomera"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "iAshkenazi"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "noRifati"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "noTogarama"
+    }
+  ],
+  "timestamp": "2026-08-31T05:55:02.821014141Z",
+  "model": "glm-5.3"
+}

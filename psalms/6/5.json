@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Buyisela, uYahwe; khulula inefeshi yami; ngisindise ngenxa ye-ikhesedi yakho.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Buyisela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "khulula"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ngisindise"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa ye-"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:40.786112674Z",
+  "model": "glm-5.3"
+}

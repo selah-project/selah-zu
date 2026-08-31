@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Futhi uzogcina ⟨את⟩ lolu hlelo ngesikhathi salo, kusukela emini eyizinsuku kuye emini yezinsuku.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "futhi uzogcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lolu hlelo"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "lolu hlelo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "ngesikhathi salo"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "kusukela emini eyizinsuku"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "kuye emini yezinsuku"
+    }
+  ],
+  "timestamp": "2026-08-31T01:32:34.282053779Z",
+  "model": "glm-5.3"
+}

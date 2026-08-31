@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 1:20",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kepha uma enqaba futhi nibukhothama, inkemba niyodliwa ngayo; ngoba umlomo kaYahwe uwushilo.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kepha uma"
+    },
+    {
+      "surface": "תמאנו",
+      "gloss": "enqaba"
+    },
+    {
+      "surface": "ומריתם",
+      "gloss": "futhi nibukhothama"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "inkemba"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "niyodliwa ngayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umlomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "uwushilo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:15:50.802439602Z",
+  "model": "glm-5.3"
+}

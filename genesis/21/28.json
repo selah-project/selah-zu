@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi u-Avraham wabeka ⟨את⟩ iziwane zesimvu ezisiyisikhombisa ezizodwa.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "futhi wabeka"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iziwane zesimvu ezisiyisikhombisa"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ezisiyisikhombisa"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "iziwane zesimvu"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "(zesimvu)"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "ezizodwa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:10:48.430841471Z",
+  "model": "glm-5.3"
+}

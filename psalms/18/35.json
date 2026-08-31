@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "ongifundisa izandla zami ⟨ukuze⟩ zilwe, ubethe ubhedu lwelesiCwili izandla zami.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "ongifundisa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "izandla zami"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ukuze zilwe"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "ubethe"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ubhedu"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "lwelesiCwili"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "izandla zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:39.197728591Z",
+  "model": "glm-5.3"
+}

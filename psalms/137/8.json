@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 137:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 137,
+  "translation": "Ndodakazi weBhabheli, ohlolakalisiweyo, uhisimuhisi lowo ozokukhokhela ngezipho zakho lezo ezenzela thina.",
+  "tokens": [
+    {
+      "surface": "בת",
+      "gloss": "Ndodakazi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "weBhabheli"
+    },
+    {
+      "surface": "השדודה",
+      "gloss": "ohlolakalisiweyo"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "uhisimuhisi lowo"
+    },
+    {
+      "surface": "שישלם",
+      "gloss": "ozokukhokhela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lezona zipho zakho"
+    },
+    {
+      "surface": "גמולך",
+      "gloss": "nezipho zakho"
+    },
+    {
+      "surface": "שגמלת",
+      "gloss": "ezenzela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:31.658829612Z",
+  "model": "glm-5.3"
+}

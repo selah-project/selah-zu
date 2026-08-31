@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 7:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "weze inkosi ibe yingonyama ilahle inefeshi yami, ihlabe ihlukanisa, kungabikho osindisayo",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "weze"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "ilahle"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "ibe yingonyama"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ihlabe ihlukanisa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kungabikho"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "osindisayo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:30:05.951358056Z",
+  "model": "glm-5.3"
+}

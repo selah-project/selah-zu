@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 9:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Amazwe ancisile emgodini abawenzile; enthanjeni abawufihle kona, inyawo yabo ibambeke.",
+  "tokens": [
+    {
+      "surface": "טבעו",
+      "gloss": "ancisile"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "Amazwe"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "emgodini"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "abawenzile"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "enthanjeni"
+    },
+    {
+      "surface": "זו",
+      "gloss": "kona"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "abawufihle"
+    },
+    {
+      "surface": "נלכדה",
+      "gloss": "ibambeke"
+    },
+    {
+      "surface": "רגלם",
+      "gloss": "inyawo yabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:48.102409855Z",
+  "model": "glm-5.3"
+}

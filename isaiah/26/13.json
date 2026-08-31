@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 26:13",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "uYahwe uElohim wethu, abaningani babengabanikazi bethu ngaphandle kwakho; kuwe yedwa sikhumbula igama lakho.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "בעלונו",
+      "gloss": "babengabanikazi bethu"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "abaningani"
+    },
+    {
+      "surface": "זולתך",
+      "gloss": "ngaphandle kwakho"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "yedwa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "נזכיר",
+      "gloss": "sikhumbula"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T04:23:57.842919147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "ilanga esikhundleni selanga, izinyo esikhundleni sesinyo, isandla esikhundleni sesandla, unyawo esikhundleni senyawo.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "esikhundleni selanga"
+    },
+    {
+      "surface": "עין",
+      "gloss": "—"
+    },
+    {
+      "surface": "שן",
+      "gloss": "izinyo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "esikhundleni sesinyo"
+    },
+    {
+      "surface": "שן",
+      "gloss": "—"
+    },
+    {
+      "surface": "יד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "esikhundleni sesandla"
+    },
+    {
+      "surface": "יד",
+      "gloss": "—"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "unyawo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "esikhundleni senyawo"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:58.745169679Z",
+  "model": "glm-5.3"
+}

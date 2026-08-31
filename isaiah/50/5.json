@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "u-Adonayi uYahwe wavula indlebe yami, futhi mina angiphikisanga; angabuyanga emuva.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "wavula"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "indlebe"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "futhi mina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "phikisanga"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "emuva"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "buyanga"
+    }
+  ],
+  "timestamp": "2026-08-31T04:34:28.718932154Z",
+  "model": "glm-5.3"
+}

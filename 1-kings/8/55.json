@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-kings 8:55",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Wayemi, wabusisa ⟨את⟩ ibandla lonke lika-Israyeli ngezinhlamvu ezinkulu, esho nokuthi:",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Wayemi"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wabusisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibandla lonke lika-Israyeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ibandla"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lika-Israyeli"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ngezinhlamvu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ezinkulu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esho nokuthi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:53:44.920959947Z",
+  "model": "glm-5.3"
+}

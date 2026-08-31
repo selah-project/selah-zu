@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 17:5",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Ngakho uYahwe wamisa ⟨את⟩ umbuso esandleni sakhe, wonke uYehuda wamnikela uYehoshafati isipho, waba ⟨uye⟩ nengeba nenkhazimulo eningi.",
+  "tokens": [
+    {
+      "surface": "ויכן",
+      "gloss": "Ngakho wamisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umbuso"
+    },
+    {
+      "surface": "הממלכה",
+      "gloss": "umbuso"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "esandleni sakhe"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "wamnikela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehuda"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "isipho"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "uYehoshafati"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uye"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ngeba"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "nenkhazimulo"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "eningi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:38:42.896144052Z",
+  "model": "glm-5.3"
+}

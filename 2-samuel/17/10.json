@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 17:10",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Futhi yena nakaye owohlobo lwamandla, inhliziyo yakhe njengenhliziyo yengonyama, uzonyamalala ngokuphelele; ngokuba iIsrayeli lonke liyazi ukuthi uyise ungumgibeli, nalabo abanaye ⟨את⟩ ngabonya abamandla.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "futhi yena"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nakaye"
+    },
+    {
+      "surface": "בן",
+      "gloss": "owohlobo lwe-"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ongu-"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inhliziyo yakhe"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "njengenhliziyo"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "yengonyama"
+    },
+    {
+      "surface": "המס",
+      "gloss": "uzonyamalala"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "ngokuphelele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "liyazi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iIsrayeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ungumgibeli"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "nalabo aba-"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "abamandla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "nalabo abamandla"
+    }
+  ],
+  "timestamp": "2026-08-31T03:40:38.913986328Z",
+  "model": "glm-5.3"
+}

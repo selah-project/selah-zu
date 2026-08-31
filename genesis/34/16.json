@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 34:16",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Sizonikeza ⟨את⟩ amadodakazi ethu kini, no⟨את⟩ amadodakazi enu sizothatha thina, sihlale nani, sibe yisizwe esisodwa",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "sizonikeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadodakazi ethu"
+    },
+    {
+      "surface": "בנתינו",
+      "gloss": "amadodakazi ethu"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "amadodakazi enu"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "amadodakazi enu"
+    },
+    {
+      "surface": "נקח",
+      "gloss": "sizothatha"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "וישבנו",
+      "gloss": "sihlale"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "nani ⟨את⟩"
+    },
+    {
+      "surface": "והיינו",
+      "gloss": "sibe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "yisizwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "esisodwa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:18:30.105331991Z",
+  "model": "glm-5.3"
+}

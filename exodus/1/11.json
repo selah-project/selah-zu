@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 1:11",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Babeka kubona abaphezulu bezigwegqo ukuze babambelezela ngezithwalo zabo; yakhwa amadolobha okulondoloza kuParo, ⟨את⟩ iPitomi no⟨את⟩ iRamesesi.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "babeka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abaphezulu"
+    },
+    {
+      "surface": "מסים",
+      "gloss": "bezigwegqo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "ענתו",
+      "gloss": "babambelezela"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "ngezithwalo zabo"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "yakhwa"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "amadolobha"
+    },
+    {
+      "surface": "מסכנות",
+      "gloss": "okulondoloza"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kuParo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iPitomi"
+    },
+    {
+      "surface": "פתם",
+      "gloss": "iPitomi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iRamesesi"
+    },
+    {
+      "surface": "רעמסס",
+      "gloss": "iRamesesi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:25:46.312137857Z",
+  "model": "glm-5.3"
+}

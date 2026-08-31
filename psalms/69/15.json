@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 69:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Sindisa mina kusuka kudaka, ungangivumela ukuthi ngicwelize; ngisindiswe kubazondayo, nasemibindini eyajulile yamanzi.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Sindisa mina"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "kusuka kudaka"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ungangivumela"
+    },
+    {
+      "surface": "אטבעה",
+      "gloss": "ukuthi ngicwelize"
+    },
+    {
+      "surface": "אנצלה",
+      "gloss": "ngisindiswe"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "kubazondayo"
+    },
+    {
+      "surface": "וממעמקי",
+      "gloss": "nasemibindini eyajulile"
+    },
+    {
+      "surface": "מים",
+      "gloss": "yamanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:12.783570265Z",
+  "model": "glm-5.3"
+}

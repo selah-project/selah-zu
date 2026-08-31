@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 8:14",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Abathakathi benze njalo ngezabuni zabo ukuze bakhiphe ⟨את⟩ amakhanikhanwa, kodwa abakwazanga; amakhanikhanwa aba esilwanene nasemhlwempini.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "Benzé njalo"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "abathakathi"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "ngezabuni zabo"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ukuze bakhiphe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amakhanikhanwa"
+    },
+    {
+      "surface": "הכנים",
+      "gloss": "amakhanikhanwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa abakwazanga"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "abakwazanga"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "aba"
+    },
+    {
+      "surface": "הכנם",
+      "gloss": "amakhanikhanwa"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "esilwanene"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "nasemhlwempini"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:42.535648951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 9:14",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ngokuba ngalesi sikhashana mina ngithumela ⟨את⟩ zonke izigelamwanzi zami ebulibeleni lwakho, nakumakhonza akho, nasemzini wakho, ukuze wazi ukuthi alikho ⟨⟨ilodwa⟩⟩ engingafani nalo emhlabeni wonke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ngalesi sikhashana"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ngithumela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke izigelamwanzi zami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "מגפתי",
+      "gloss": "izigelamwanzi zami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ibulibeleni lwakho"
+    },
+    {
+      "surface": "ובעבדיך",
+      "gloss": "nakumakhonza akho"
+    },
+    {
+      "surface": "ובעמך",
+      "gloss": "nasemzini wakho"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "wazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alikho"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "ongafani nami"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "emhlabeni wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:33.430149757Z",
+  "model": "glm-5.3"
+}

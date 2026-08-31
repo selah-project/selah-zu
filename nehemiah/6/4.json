@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 6:4",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Bathumela kimi ngalomumo lolu ⟨את⟩ izikhathi ezine, ngabaphendula ngalomumo lolu.",
+  "tokens": [
+    {
+      "surface": "וישלחו",
+      "gloss": "bathumela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ngalomumo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lolu"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ezine"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "izikhathi"
+    },
+    {
+      "surface": "ואשיב",
+      "gloss": "ngabaphendula"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ngalomumo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lolu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:36:50.622451699Z",
+  "model": "glm-5.3"
+}

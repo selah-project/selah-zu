@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 29:1",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "AmaPelishti aqoqa ⟨את⟩ wonke amabuthe awo eAfeka, kanti uIsrayeli abehlelele emthonjeni oseYizreeli.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "aqoqa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaPelishti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke amabuthe awo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "amabuthe awo"
+    },
+    {
+      "surface": "אפקה",
+      "gloss": "eAfeka"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "kanti uIsrayeli"
+    },
+    {
+      "surface": "חנים",
+      "gloss": "abehlelele"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "emthonjeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ose-"
+    },
+    {
+      "surface": "ביזרעאל",
+      "gloss": "iYizreeli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:29:29.713863615Z",
+  "model": "glm-5.3"
+}

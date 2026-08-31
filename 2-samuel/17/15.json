@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 17:15",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "UKhushayi wathi kuTsadoki naku-Abiyathari abapristi: ngale ndlela nangale ndlela welule u-Akhithofeli ⟨את⟩ u-Absalomi nelule nabomdala bakwa-Israel; kodwa ngale ndlela nangale ndlela ngabe ngilulela yimi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "futhi-wathi"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "uKhushayi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "uTsadoki"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naku"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "u-Abiyathari"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "ngale-ndlela"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "nangale-ndlela"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "welule"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "u-Akhithofeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Absalomi"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "u-Absalomi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi-⟨את⟩",
+      "marks": "abomdala bakwa-Israel"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "abomdala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israel"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "kodwa-ngale-ndlela"
+    },
+    {
+      "surface": "וכזאת",
+      "gloss": "nangale-ndlela"
+    },
+    {
+      "surface": "יעצתי",
+      "gloss": "ngabe-ngilulela"
+    },
+    {
+      "surface": "אני",
+      "gloss": "yimi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:41:33.914641212Z",
+  "model": "glm-5.3"
+}

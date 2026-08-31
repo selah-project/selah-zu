@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 2:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Amakhosi ⟨we⟩omhlaba aqabuka emi, futhi abaphathi bahlangana ndawonye, ichokonza uYahwe nomuMashiya wakhe",
+  "tokens": [
+    {
+      "surface": "יתיצבו",
+      "gloss": "aqabuka emi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "futhi abaphathi"
+    },
+    {
+      "surface": "נוסדו",
+      "gloss": "bahlangana ndawonye"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ichokonza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "omuMashiya wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:59.371967933Z",
+  "model": "glm-5.3"
+}

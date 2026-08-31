@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Nizwisele, izulu, ngiyokhuluma; umhlaba uzwe amazwi omlomo wami.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "Nizwisele"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "izulu"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ngiyokhuluma"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "uzwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "פי",
+      "gloss": "omlomo wami"
+    }
+  ],
+  "timestamp": "2026-08-31T02:46:46.759928995Z",
+  "model": "glm-5.3"
+}

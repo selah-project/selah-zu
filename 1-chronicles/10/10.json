@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 10:10",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Bafaka ⟨את⟩ izikhali zakhe endlwini yonkulunkulu babo, bamisa ⟨את⟩ ikhanda lakhe endlwini kaDagoni.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Bafaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izikhali zakhe"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "izikhali zakhe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "yonkulunkulu babo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "ikhanda lakhe"
+    },
+    {
+      "surface": "גלגלתו",
+      "gloss": "ikhanda lakhe"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "bamisa ngokuqinile"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "kaDagoni"
+    }
+  ],
+  "timestamp": "2026-08-31T08:22:44.251643948Z",
+  "model": "glm-5.3"
+}

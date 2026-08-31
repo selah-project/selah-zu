@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 35:14",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "No⟨את⟩ isibani sokukhanya nezitsha zaso, no⟨את⟩ izibani zaso, no⟨את⟩ amafutha okukhanyisa",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "isibani sokukhanya"
+    },
+    {
+      "surface": "מנרת",
+      "gloss": "isibani"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "sokukhanya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "izitsha zaso"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "izitsha zaso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "izibani zaso"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "izibani zaso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "amafutha okukhanyisa"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "okukhanyisa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:44:52.251393264Z",
+  "model": "glm-5.3"
+}

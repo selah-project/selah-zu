@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 142:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 142,
+  "translation": "Nakela ukukhala kwami, ngoba ngicishe ngaphansi kakhulu; ngisindise kubalweli bami, ngoba banamandla kunami.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Nakela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "ukukhala kwami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ngicishe ngaphansi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ngisindise"
+    },
+    {
+      "surface": "מרדפי",
+      "gloss": "kubalweli bami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "banamandla"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kunami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:39.499151893Z",
+  "model": "glm-5.3"
+}

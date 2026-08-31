@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Bengenazimpahla bahamba benzi bunjalo, futhi belambile bathwala izigaxa.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "benzi bunjalo"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "bahamba"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ungenzi"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "zimpahla"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "futhi belambile"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "bathwala"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "izigaxa"
+    }
+  ],
+  "timestamp": "2026-08-31T07:20:47.920139258Z",
+  "model": "glm-5.3"
+}

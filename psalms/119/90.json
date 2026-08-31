@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 90,
+  "ref": "psalms 119:90",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Kuzukukhokhelwa izizukulwana ngezizukulwana ukwethembeka kwakho; wakha umhlaba, ⟨futhi⟩ uyaluma.",
+  "tokens": [
+    {
+      "surface": "לדר",
+      "gloss": "izizukulwaneni"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ngezizukulwana"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ukwethembeka kwakho"
+    },
+    {
+      "surface": "כוננת",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "⟨futhi⟩ uyaluma"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:24.921920571Z",
+  "model": "glm-5.3"
+}

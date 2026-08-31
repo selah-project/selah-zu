@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 96:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 96,
+  "translation": "Culani kuYahwe, busisani igama lakhe, memezani insindiso yakhe usuku ngosuku.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Culani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "busisani"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "memezani"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "insindiso yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:27.824948388Z",
+  "model": "glm-5.3"
+}

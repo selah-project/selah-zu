@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Kumqondisi, okukaDavide, umculo-ncwadi. uElohim wezikhwazi zami, ungathuli.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "okukaDavide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umculo-ncwadi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "wezikhwazi zami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "thuli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:56.985513412Z",
+  "model": "glm-5.3"
+}

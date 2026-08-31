@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Kwanelile kini ukujikeleza le ntaba; phendukelani kini enyakatho.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "kwanelile"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "סב",
+      "gloss": "ukujikeleza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le ntaba"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "le ntaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "phendukelani"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "enyakatho"
+    }
+  ],
+  "timestamp": "2026-08-31T02:29:56.827535194Z",
+  "model": "glm-5.3"
+}

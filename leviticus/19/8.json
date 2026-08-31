@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 19:8",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Futhi owakudla kuzo uzophatha isono lakhe, ngokuba wayidukisa ⟨את⟩ ukungcwele kukaYahwe; loyo umphefumulo uzosikwa phakathi kwabantu bakhe.",
+  "tokens": [
+    {
+      "surface": "ואכליו",
+      "gloss": "Futhi owakudla kuzo"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "isono lakhe"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "uzophatha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukungcwele kukaYahwe"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ukungcwele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kukaYahwe"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "wayidukisa"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "uzosikwa"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "umphefumulo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "loyo"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "phakathi kwabantu bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:00:16.104301557Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 38:30",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Wazenza ngayo izisekelo zesango sotende wokuhlangana, ⟨את⟩ i-altare yensimbi, ⟨את⟩ nalophahla olunsimbi olwalulo, n ⟨את⟩ wonke amathuluzi e-altare;",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wazenza"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ngayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izisekelo zesango sotende wokuhlangana"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "izisekelo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "isango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "otende"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "wokuhlangana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i-altare yensimbi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "yensimbi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lophahla olunsimbi olwalulo"
+    },
+    {
+      "surface": "מכבר",
+      "gloss": "lophahla"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "olunsimbi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olwalulo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-lo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wonke amathuluzi e-altare"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "amathuluzi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "e-altare"
+    }
+  ],
+  "timestamp": "2026-08-31T01:46:06.589290948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Wathuma ⟨את⟩ ijothi kuyena, ukubona ukuthi ingabe amanzi acishile kubuso bomhlabathi",
+  "tokens": [
+    {
+      "surface": "וַיְשַׁלַּ֥ח",
+      "gloss": "wathuma"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ijothi"
+    },
+    {
+      "surface": "הַיּוֹנָ֖ה",
+      "gloss": "ijothi"
+    },
+    {
+      "surface": "מֵאִתּ֑וֹ",
+      "gloss": "kuyena ⟨את⟩"
+    },
+    {
+      "surface": "לִרְאֹת֙",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "הֲקַ֣לּוּ",
+      "gloss": "ingabe acishile"
+    },
+    {
+      "surface": "הַמַּ֔יִם",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "מֵעַ֖ל",
+      "gloss": "kubuso"
+    },
+    {
+      "surface": "פְּנֵ֥י",
+      "gloss": "bomhlabathi"
+    },
+    {
+      "surface": "הָֽאֲדָמָֽה",
+      "gloss": "bomhlabathi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:03:56.900295879Z",
+  "model": "glm-5.3"
+}

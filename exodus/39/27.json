@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 39:27",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Benza ⟨את⟩ izikhindi zohlanga olumhlophe, umsebenzi wokhwela indandatho, ku-Aharon nakubantabakhe.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izikhindi"
+    },
+    {
+      "surface": "הכתנת",
+      "gloss": "izikhindi"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ohlanga olumhlophe"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "wokhwela indandatho"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ku-Aharon"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "nakubantabakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:49:49.723586464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 52:27",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 52,
+  "translation": "Inkosi yeBhabheli yabetha ⟨את⟩ bona, yabulala eRiblahi, ezweni lamaHamati. Wayesethunyela uYehudha ⟨kude⟩ nomhlaba wakhe.",
+  "tokens": [
+    {
+      "surface": "ויכה",
+      "gloss": "yabetha"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi yeBhabheli ... bona"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "yeBhabheli"
+    },
+    {
+      "surface": "וימתם",
+      "gloss": "yabulala"
+    },
+    {
+      "surface": "ברבלה",
+      "gloss": "eRiblahi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "lamaHamati"
+    },
+    {
+      "surface": "ויגל",
+      "gloss": "wathunyelwa"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehudha"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kude"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "nomhlaba wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:51:19.044344964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 34:29",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Yathathwa-nje ⟨את⟩ wonke umnotho wabo, no-⟨את⟩ wonke umntwana wabo omnene, no-⟨את⟩ abafazi babo njengezigcwegcwe, baphange, no-⟨את⟩ konke okwakusekhaya.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wonke umnotho wabo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "umnotho wabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "wonke umntwana wabo omnene"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "umntwana wabo omnene"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "abafazi babo"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "abafazi babo"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "njengezigcwegcwe"
+    },
+    {
+      "surface": "ויבזו",
+      "gloss": "baphange"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "konke okwakusekhaya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwaku-"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "sekhaya"
+    }
+  ],
+  "timestamp": "2026-08-31T01:18:12.768468995Z",
+  "model": "glm-5.3"
+}

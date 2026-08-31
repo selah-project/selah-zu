@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Umyalezi wasuka wahamba, wangena waza wxelwa kuDavide yonke into uJowabu amyeleyo.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wasuka wahamba"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "Umyalezi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "waza wxelwa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke into"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "into"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "amyeleyo"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uJowabu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:36:44.236236528Z",
+  "model": "glm-5.3"
+}

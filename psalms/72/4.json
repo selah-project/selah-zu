@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 72:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 72,
+  "translation": "Uzakwahlulela abampofu babantu, asindise izingane zabampofu, asephuze umonakalisi.",
+  "tokens": [
+    {
+      "surface": "ישפט",
+      "gloss": "uzakwahlulela"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "abampofu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "asindise"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "izingane zaba-"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "abampofu"
+    },
+    {
+      "surface": "וידכא",
+      "gloss": "asephuze"
+    },
+    {
+      "surface": "עושק",
+      "gloss": "umonakalisi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:13.970657781Z",
+  "model": "glm-5.3"
+}

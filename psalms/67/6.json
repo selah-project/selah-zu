@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 67:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 67,
+  "translation": "Izizwe ziyanidumisa, uElohim; izizwe zonke ziyanidumisa.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "ziyanidumisa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "ziyanidumisa"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "zonke"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:41.937153005Z",
+  "model": "glm-5.3"
+}

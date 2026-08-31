@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 28:6",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Futhi bazoyenza ⟨את⟩ i-efodi — ngegolide, neluhlaza okwesibhakabhaka, nobunsomi, nobomvu obuvela kuzingotho, nezindwangu zefayini ezintwine — umsebenzi wobuchwepheshe.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "futhi bazoyenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-efodi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "i-efodi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ngegolide"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "eluhlaza okwesibhakabhaka"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "nobunsomi"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "elingotho"
+    },
+    {
+      "surface": "שני",
+      "gloss": "lobomvu-olugcwele"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "nezindwangu zefayini"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ezintwine"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "wobuchwepheshe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:40:33.855340895Z",
+  "model": "glm-5.3"
+}

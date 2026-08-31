@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 24:19",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Futhi wena wazisa namuhla ⟨את⟩ lokho okwenziwe kimi ⟨את⟩ ngokuhle: ⟨את⟩ lokho okwangiqambele uYahwe esandleni sakho, ungabangibulali.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Futhi wena"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "wazisa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho oku-"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "wenziwe"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kimi"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho oku-"
+    },
+    {
+      "surface": "סגרני",
+      "gloss": "ngiqambele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "esandleni sakho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "הרגתני",
+      "gloss": "bangibulali"
+    }
+  ],
+  "timestamp": "2026-08-31T03:26:10.434030169Z",
+  "model": "glm-5.3"
+}

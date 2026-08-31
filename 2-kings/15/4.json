@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 15:4",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Kodwa izindawo eziphakeme azikususwanga; isidlalo sabantu sasaqhubeka nezinkuni zokuhlabela besatshisa kulezozindawo.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Kodwa"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "izindawo eziphakeme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kamusukuswanga"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "azikususwanga"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "sasaqhubeka"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מזבחים",
+      "gloss": "bezahlabela"
+    },
+    {
+      "surface": "ומקטרים",
+      "gloss": "besatshisa"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "kulezozindawo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:09:54.719176251Z",
+  "model": "glm-5.3"
+}

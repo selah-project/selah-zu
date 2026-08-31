@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Waphuza kwewayini, wabhemuka, wazibamba ngaphakathi kwehema yakhe.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "waphuza"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwe-"
+    },
+    {
+      "surface": "היין",
+      "gloss": "wayini"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "wabhemuka"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "wazibamba"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ngaphakathi"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "ihema yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:03:42.305027961Z",
+  "model": "glm-5.3"
+}

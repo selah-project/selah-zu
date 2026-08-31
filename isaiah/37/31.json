@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 37:31",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Futhi okusindile kwendlu kaYehuda kuzokhula futhi: impande ehansi, kuzenza izithelo phezulu.",
+  "tokens": [
+    {
+      "surface": "ויספה",
+      "gloss": "kuzokhula futhi"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "okusindile"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kwendlu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kaYehuda"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "okusalile"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "impande"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ehansi"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "kuzenza"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "izithelo"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "phezulu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:28:04.838024945Z",
+  "model": "glm-5.3"
+}

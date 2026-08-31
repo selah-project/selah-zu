@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 59:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 59,
+  "translation": "Ndikhulule kubachwephele bami, uElohim wami; ngiphephise abavukayo ngaphezu kwami.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Ndikhulule"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "kubachwephele bami"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wami"
+    },
+    {
+      "surface": "ממתקוממי",
+      "gloss": "abavukayo"
+    },
+    {
+      "surface": "תשגבני",
+      "gloss": "ngiphephise"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:26.651149616Z",
+  "model": "glm-5.3"
+}

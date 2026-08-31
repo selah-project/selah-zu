@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 145:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 145,
+  "translation": "uYahwe useduze nabo bonke abam.bizayo, nabonke abam.bizayo ngokwengeqo.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "useduze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nabo bonke"
+    },
+    {
+      "surface": "קראיו",
+      "gloss": "abam.bizayo"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "nabonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abam.bizayo"
+    },
+    {
+      "surface": "יקראהו",
+      "gloss": "abam.bizayo"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "ngokwengeqo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:27.035386437Z",
+  "model": "glm-5.3"
+}

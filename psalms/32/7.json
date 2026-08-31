@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 32:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Wena usiphephelo sami; ungigcina ekuminyameni; ungizungezisa ngezingoma zokuphunyiswa. Selah.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "usiphephelo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sami"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ekuminyameni"
+    },
+    {
+      "surface": "תצרני",
+      "gloss": "ungigcina"
+    },
+    {
+      "surface": "רני",
+      "gloss": "ngezingoma"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "zokuphunyiswa"
+    },
+    {
+      "surface": "תסובבני",
+      "gloss": "ungizungezisa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:03.670284206Z",
+  "model": "glm-5.3"
+}

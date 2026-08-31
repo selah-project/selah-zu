@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 1:1",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "La ⟨⟨ngu⟩⟩ amazwi akhuluma uMoshe kuwo wonke iYisraeli, ngale kwesiZulwana ⟨А ngesiza⟩—ngaseceleni komfula iYardeni, ehlane, e-Araba, phambi kweSufu, phakathi kweParani naphakathi kweTofeli, neLabani, neHatseroti, neDi-Zahabi.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "La"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akhuluma"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisraeli"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ngaseceleni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "komfula iYardeni"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ehlaneni"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "e-Araba"
+    },
+    {
+      "surface": "מול",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "iSufu"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwe-"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "iParani"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "naphakathi kwe-"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "iTofeli"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "neLabani"
+    },
+    {
+      "surface": "וחצרת",
+      "gloss": "neHatseroti"
+    },
+    {
+      "surface": "ודי",
+      "gloss": "neDi-"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "Zahabi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:30:51.615154833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Futhi abantu bema kude, yena uMoshe wasondela esithunzini esinzima lapho uElohim abe khona.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "bema"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kude"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "wasondela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "esithunzini esinzima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:35:27.982248754Z",
+  "model": "glm-5.3"
+}

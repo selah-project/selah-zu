@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Ngokuba ngangingathuli, amathambo ami abola, ekukhala kwami konke usuku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "ngangingathuli"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "abola"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "amathambo ami"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "ekukhala kwami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "usuku"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:26.265391953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "izinhloko zomhlaba ⟨abantu⟩: u-Paroshi, uPahathi-Mowabhi, u-Elamu, u-Zattu, u-Bani.",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "izinhloko"
+    },
+    {
+      "surface": "העם",
+      "gloss": "zomhlaba ⟨abantu⟩"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "u-Paroshi"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "uPahathi-"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Mowabhi"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "u-Elamu"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "u-Zattu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "u-Bani"
+    }
+  ],
+  "timestamp": "2026-08-31T08:16:44.729724588Z",
+  "model": "glm-5.3"
+}

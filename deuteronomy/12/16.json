@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "kuphela igazi nilingedli; emhlabeni niliphele njengamanzi.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "igazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nilingedli"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": ""
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "niliphele"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "njengamanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:37:00.905603654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 16:2",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "UDavide wacedile ukwenza izinkonzo ezishisiwe neziphumuliso, wabusisa ⟨את⟩ isizwe ngegama likaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "wacedile"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "מהעלות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "izonzo ezishisiwe"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "neziphumuliso"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wabusisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isizwe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ngegama lika-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:24:45.217791271Z",
+  "model": "glm-5.3"
+}

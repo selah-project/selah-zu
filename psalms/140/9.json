@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 140,
+  "translation": "uYahwe, ungaziniki izinkanuko zomoni; icebo lakhe ungaliqalisi, ukuze ⟨bengaphakemi⟩. Selah.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ziniki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "izinkanuko"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zomoni"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "icebo lakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "liqalisi"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "baphakeme"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:32.697629373Z",
+  "model": "glm-5.3"
+}

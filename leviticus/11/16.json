@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "no⟨את⟩ intokazana yeYa'ana, no⟨את⟩ iTachmasi, no⟨את⟩ iShachafi, no⟨את⟩ iNetzi ngokwezinhlobo zawo;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "intokazana yeYa'ana"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intokazana"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "yeYa'ana"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iTachmasi"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "iTachmasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iShachafi"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "iShachafi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iNetzi"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "iNetzi"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ngokwezinhlobo zawo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:53:38.027152769Z",
+  "model": "glm-5.3"
+}

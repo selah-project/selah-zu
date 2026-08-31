@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 3:8",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Wena uzalele ⟨את⟩ abapristi abaphakamisayo isibumbu sendibano, uthi: Nifike esondweni samanzi oYordanini, yimani oYordanini.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "תצוה",
+      "gloss": "uzalele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abapristi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "abaphakamisayo"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isibumbu"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "sendibano"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "כבאכם",
+      "gloss": "Nifike"
+    },
+    {
+      "surface": "עד",
+      "gloss": "e-"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "sondweni"
+    },
+    {
+      "surface": "מי",
+      "gloss": "samadzi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "oYordanini"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "oYordanini"
+    },
+    {
+      "surface": "תעמדו",
+      "gloss": "yimani"
+    }
+  ],
+  "timestamp": "2026-08-31T02:50:22.336708681Z",
+  "model": "glm-5.3"
+}

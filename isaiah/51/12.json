@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 51:12",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 51,
+  "translation": "Ngi, ngi yena onganiduduzayo; ngubani wena, uyesaba umuntu ozofa, noNdodana yomuntu oyiswa njengutshani?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ngi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מנחמכם",
+      "gloss": "onganiduduzayo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "את",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ותיראי",
+      "gloss": "uyesaba"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ozofa"
+    },
+    {
+      "surface": "ומבן",
+      "gloss": "noNdodana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yomuntu"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "njengotshani"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "oyiswa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:34:08.284405530Z",
+  "model": "glm-5.3"
+}

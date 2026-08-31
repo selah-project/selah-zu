@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Umoya wemimoya, uthe uQohelethi; umoya wemimoya, konke kuwumoya.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Umoya"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "wemimoya"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "uQohelethi"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "wemimoya"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "kuwumoya"
+    }
+  ],
+  "timestamp": "2026-08-31T08:57:57.623822834Z",
+  "model": "glm-5.3"
+}

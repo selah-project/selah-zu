@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 18:23",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Uma lena into uyenzile ⟨את⟩ lena into, futhi uElohim akuyalela ngakho-ke, uzokwazi ukuminya, futhi laba bonke abantu bonke lapha ngesikhathi bazoza ezindaweni zawo ngokuthula.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imisebenzi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "imisebenzi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uyenzile"
+    },
+    {
+      "surface": "וצוך",
+      "gloss": "futhi akuyalela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ויכלת",
+      "gloss": "futhi uzokwazi"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ukuminya"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "futhi nayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "indawo yawo"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "bazoza"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ngokuthula"
+    }
+  ],
+  "timestamp": "2026-08-31T01:35:32.295382693Z",
+  "model": "glm-5.3"
+}

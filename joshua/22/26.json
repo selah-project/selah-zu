@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 22:26",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Sase siyithi: asizenzele ngokwethu ukwakha ⟨את⟩ i-altare, hhayi ngesi-olwa noma ngesi-zebheshi.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "sase siyithi"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "asizenzele"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ke"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ngokwethu"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ukwakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-altare"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hhayi"
+    },
+    {
+      "surface": "לעולה",
+      "gloss": "ngesi-olwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "noma hhayi"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ngesi-zebheshi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:59:12.111167908Z",
+  "model": "glm-5.3"
+}

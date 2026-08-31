@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Wakhulelwa futhi wazala indodana, yabiza ⟨את⟩ igama layo u-Onani.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "Wakhulelwa"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "yabiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama layo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama layo"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "u-Onani"
+    }
+  ],
+  "timestamp": "2026-08-31T01:20:13.884189182Z",
+  "model": "glm-5.3"
+}

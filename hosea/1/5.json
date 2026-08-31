@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi kuzokwenzeka ngalolo suku, ngizophhlula ⟨את⟩ uthi lweYisrayeli, esigodini saseYizreeli.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "futhi kuzokwenzeka"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalosuku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "ngizophhlula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uthi lweYisrayeli"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lweYisrayeli"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "esigodini"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "saseYizreeli"
+    }
+  ],
+  "timestamp": "2026-08-31T05:27:19.416155089Z",
+  "model": "glm-5.3"
+}

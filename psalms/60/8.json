@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 60:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 60,
+  "translation": "uElohim ukhulume engcwele yakhe; ngizijabulisa, ngihlukanisa iShekemi, futhi ngilinganisa isigodi seSukothi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ukhulume"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "engcwele yakhe"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "ngizijabulisa"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "ngihlukanisa"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "iShekemi"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "futhi isigodi"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "seSukothi"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "ngilinganisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:42.495729654Z",
+  "model": "glm-5.3"
+}

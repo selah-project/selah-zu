@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 8:12",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngaleso sikhathi uShelomoh wathi: uYahwe uthi uzohlela ebumnyameni obukhulu.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ngaleso sikhathi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "uzohlela"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "ebumnyameni obukhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:52:58.619760118Z",
+  "model": "glm-5.3"
+}

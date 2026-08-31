@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Izinyembezi zami zaziyisinkwa sami usuku nemini, ekutheni kimi: Uphi uElohim wakho? — usuku wonke.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "zazi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "sami"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "izinyembezi zami"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "isinkwa"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "nemini"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "ekutheni"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "איה",
+      "gloss": "uphi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:18.887533832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 9:15",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "AmaYuda aseShushani aqoqana nangosuku lweshumi nane lwenyanga ye-Adari, wabulala eShushani amadoda angamakhulu amathathu, kepha ⟨engobuthumphu⟩ abalulelanga ⟨את⟩ isandla sabo.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "aqoqana"
+    },
+    {
+      "surface": "היהודיים",
+      "gloss": "amaYuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ase"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "eShushani"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nangosuku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "osuku"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "leshumi nane"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "nane"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "lwenyanga"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "ye-Adari"
+    },
+    {
+      "surface": "ויהרגו",
+      "gloss": "wabulala"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "eShushani"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "amathathu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "ובבזה",
+      "gloss": "kobuthumphu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kepha abalulelanga"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "abalulelanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sabo"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "isandla sabo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:55:15.825087934Z",
+  "model": "glm-5.3"
+}

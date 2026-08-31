@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 45:17",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "iYisrayeli ⟦isindisiwe⟧ nguYahwe, insindiso yezinkulungwane zezinkulungwane; ningeke nihlazwe futhi ningeke nihlazekile kuze kube phakade nakaphakade.",
+  "tokens": [
+    {
+      "surface": "ישראל",
+      "gloss": "iYisrayeli"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "⟦isindisiwe⟧"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "insindiso"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "yezinkulungwane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "(ashiye)"
+    },
+    {
+      "surface": "תבשו",
+      "gloss": "nihlazwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi (ashiye)"
+    },
+    {
+      "surface": "תכלמו",
+      "gloss": "ngeke... nihlazekile"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולמי",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "עד",
+      "gloss": "nakaphakade"
+    }
+  ],
+  "timestamp": "2026-08-31T04:32:42.517747656Z",
+  "model": "glm-5.3"
+}

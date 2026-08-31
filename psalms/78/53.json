@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 78:53",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Wabahola ngokuphepha, bengasabi; nelwaba lawo ilwandle lacashaza ⟨את⟩ izitha zabo.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Wabahola"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ngokuphepha"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bengasabi"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "basaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izitha zabo"
+    },
+    {
+      "surface": "אויביהם",
+      "gloss": "izitha zabo"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "lacashaza"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ilwandle"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:47.076508110Z",
+  "model": "glm-5.3"
+}

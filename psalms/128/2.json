@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 128:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 128,
+  "translation": "Uzodla umsebenzi wezandla zakho; makuhle ngokuphelele wena, futhi kuzokuhle ⟨kuwe⟩.",
+  "tokens": [
+    {
+      "surface": "יגיע",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "wezandla zakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "Uzodla"
+    },
+    {
+      "surface": "אשריך",
+      "gloss": "makuhle ngokuphelele wena"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "futhi kuzokuhle"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kuwe⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:50.143797548Z",
+  "model": "glm-5.3"
+}

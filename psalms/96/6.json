@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 96:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 96,
+  "translation": "Ubukhosi nobukhazimula phambi kwakhe; amandla nobuhle endaweni yakhe engcwele.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "ubukhosi"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "nobukhazimula"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "nobuhle"
+    },
+    {
+      "surface": "במקדשו",
+      "gloss": "endaweni yakhe engcwele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:37.060184933Z",
+  "model": "glm-5.3"
+}

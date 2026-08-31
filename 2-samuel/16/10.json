@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-samuel 16:10",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Inkosi yathi: Ngitheni mina nani, zinsizwa zikaTseruyah? Uma egwaza futhi uma uYahwe wathi kuye: Gwaza ⟨את⟩ uDawidi; ngubani othi: Kungani wenze kanjalo?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Inkosi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Ngitheni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ולכם",
+      "gloss": "nani"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zinsizwa"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "zikaTseruyah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "uma"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "egwaza"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "futhi uma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "Gwaza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "othi"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Kungani"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanjalo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:39:57.843975550Z",
+  "model": "glm-5.3"
+}

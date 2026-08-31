@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 17:25",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Kwasekuqaleni kokuhlala kwabo lapho, babengayiki ⟨את⟩ uYahwe; ngakho uYahwe wathumela kubona ⟨את⟩ amabhubesi, abe bbulala phakathi kwabo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwasekuqaleni"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "ekuqaleni"
+    },
+    {
+      "surface": "שבתם",
+      "gloss": "kokuhlala kwabo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "babengayiki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amabhubesi"
+    },
+    {
+      "surface": "האריות",
+      "gloss": "amabhubesi"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "abe"
+    },
+    {
+      "surface": "הרגים",
+      "gloss": "bbulala"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "phakathi kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:12:21.109531609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 16:6",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Ngu-ke kuphela endaweni uYahwe uElohim wakho ayikhetha ukuthi igama lakhe lihlale khona, lapho uzozibulala ⟨את⟩ i-Pesakh ngekhasho, ngesikhathi ilanga lishona, ngosuku olungu-mqondo wokuphuma kwakho eMitsrayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngu-ke"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le-"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "ayikhetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "lihlale"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "uzozibulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-Pesakh"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "i-Pesakh"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ngekhasho"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "ngesikhathi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ilanga lishona"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "osuku olungu-mqondo"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "wokuphuma kwakho"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T02:37:19.409395005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 18:30",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Inkosi yathi: Fulathela, uma lapha. Wafulathela, wasuma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "סב",
+      "gloss": "fulathela"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "uma"
+    },
+    {
+      "surface": "כה",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "ויסב",
+      "gloss": "wafulathela"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "wasuma"
+    }
+  ],
+  "timestamp": "2026-08-31T03:42:09.895700757Z",
+  "model": "glm-5.3"
+}

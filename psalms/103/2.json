@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 103:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 103,
+  "translation": "Busisa, mphefumulo wami, uYahwe, ungakhohlwa konke okuzuzile ngakho.",
+  "tokens": [
+    {
+      "surface": "ברכי",
+      "gloss": "Busisa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mphefumulo wami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ungakhohlwa"
+    },
+    {
+      "surface": "תשכחי",
+      "gloss": "ungakhohlwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "גמוליו",
+      "gloss": "okuzuzile ngakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:07.296166092Z",
+  "model": "glm-5.3"
+}

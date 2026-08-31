@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "uYahwe uzonikeza ⟨את⟩ izulu lomhlaba wakhe uthuli nomhlabathi; lizwe livela ezulwini kuwe kuze kuchithwe wena.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "uzonikeza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izulu lomhlaba wakhe"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "izulu"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "lomhlaba wakhe"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "uthuli"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "nomhlabathi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "livela"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "lizwe"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "kuchithwe wena"
+    }
+  ],
+  "timestamp": "2026-08-31T02:44:14.037512331Z",
+  "model": "glm-5.3"
+}

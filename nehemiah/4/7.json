@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 4:7",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Ndamisa ⟨abakaki abayizingoni⟩abagadi ezizansi zendawo, ngemuva kwodonga, ezindaweni ezivulekile; bese ndamisa ⟨את⟩ abantu ngokwezindlu zabo, ngezikemba zabo, ngezikori zabo namabhumu abo.",
+  "tokens": [
+    {
+      "surface": "ואעמיד",
+      "gloss": "ndamisa"
+    },
+    {
+      "surface": "מתחתיות",
+      "gloss": "ezizansi zendawo"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ngemuva kwe-"
+    },
+    {
+      "surface": "לחומה",
+      "gloss": "odonga"
+    },
+    {
+      "surface": "בצחחיים",
+      "gloss": "ezindaweni ezivulekile"
+    },
+    {
+      "surface": "ואעמיד",
+      "gloss": "bese ndamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "למשפחות",
+      "gloss": "ngokwezindlu zabo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "חרבתיהם",
+      "gloss": "izinkemba zabo"
+    },
+    {
+      "surface": "רמחיהם",
+      "gloss": "izikori zabo"
+    },
+    {
+      "surface": "וקשתתיהם",
+      "gloss": "namabhumu abo"
+    }
+  ],
+  "timestamp": "2026-08-31T09:00:41.766035701Z",
+  "model": "glm-5.3"
+}

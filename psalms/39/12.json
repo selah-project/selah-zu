@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 39:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Ngezinyelelo ngesono ulungisa indoda, uyimosha njengesibungu into ayithandayo; kungempela wonke umuntu ulutho olungenalutho. Sela.",
+  "tokens": [
+    {
+      "surface": "בתוכחות",
+      "gloss": "ngezinyelelo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "עון",
+      "gloss": "sono"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "ulungisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "ותמס",
+      "gloss": "uyimosha"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "njengesibungu"
+    },
+    {
+      "surface": "חמודו",
+      "gloss": "into ayithandayo"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kungempela"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ulutho olungenalutho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:37.250744483Z",
+  "model": "glm-5.3"
+}

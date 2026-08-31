@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 14:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Lapho bayesaba ukwesaba okukhulu, ngokuba uElohim ukutholangenini kokuhle komunye nesizukulwane eziningono zobulungiswa.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "bayesaba"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ukwesaba okukhulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "esizukulwaneni"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "eziningono zobulungiswa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:10.936180882Z",
+  "model": "glm-5.3"
+}

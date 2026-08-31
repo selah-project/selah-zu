@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nahum 1:10",
+  "book": "nahum",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngokuba njengamazungeza ohlanganiswe ndawonye, njengabaphuzi benzelwe ngokusela kwabo, bazodliwa njengotshani omomileyo ogcwele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "njengamazungeza"
+    },
+    {
+      "surface": "סירים",
+      "gloss": "ohlanganiswe"
+    },
+    {
+      "surface": "סבכים",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "וכסבאם",
+      "gloss": "ngokusela kwabo"
+    },
+    {
+      "surface": "סבואים",
+      "gloss": "njengabaphuzi"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "bazodliwa"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "njengotshani"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "omomileyo"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ogcwele"
+    }
+  ],
+  "timestamp": "2026-08-31T05:36:45.286711292Z",
+  "model": "glm-5.3"
+}

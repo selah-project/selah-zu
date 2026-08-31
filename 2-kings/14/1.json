@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 14:1",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Nonyaka wesibili kaYuwashu ndodana kaYawahazi inkosi yakwa-Israyeli, u-Amatsiyahu ndodana kaYuwashu inkosi yakwaYuda waqala ukubusa.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Nonyaka we-"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "wesibili"
+    },
+    {
+      "surface": "ליואש",
+      "gloss": "kaYuwashu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ndodana ka-"
+    },
+    {
+      "surface": "יואחז",
+      "gloss": "Yawahazi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi ya-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kwa-Israyeli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "waqala ukubusa"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "u-Amatsiyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ndodana ka-"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Yuwashu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi ya-"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kwaYuda"
+    }
+  ],
+  "timestamp": "2026-08-31T04:09:30.420054636Z",
+  "model": "glm-5.3"
+}

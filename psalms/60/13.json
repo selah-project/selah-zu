@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 60,
+  "translation": "Sipheni isizwe sokwedlula unkinga; kungaba lutho impilo yokusindisa komuntu.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Sipheni"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "sisize"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "unkinga"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "kungaba lutho"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "ukusindisa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "komuntu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:27.732262778Z",
+  "model": "glm-5.3"
+}

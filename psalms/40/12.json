@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 40:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Wena, uYahwe, ungavimbeli izwelo lakho kimi; ikhesedi yakho neqiniso lakho zonke izinsuku zingigcine.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungavi-"
+    },
+    {
+      "surface": "תכלא",
+      "gloss": "vimbeli"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "izwelo lakho"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "neqiniso lakho"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "zonke izinsuku"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "zingigcile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:58.375769122Z",
+  "model": "glm-5.3"
+}

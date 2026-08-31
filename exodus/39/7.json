@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 39:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Wabeka ⟨את⟩ wona emahlombe ei-efodi, amatshe okukhumbula, amadodana ka-Israyeli; njengoko wayengiyale uYahwe ⟨את⟩ uMoshe.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "Wabeka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ wona",
+      "marks": "amatshe (o-shohamu)"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "mahlombe"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ei-efodi"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "amatshe"
+    },
+    {
+      "surface": "זכרון",
+      "gloss": "okukhumbula"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israyeli"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoko"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayengiyale"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:47:10.093782636Z",
+  "model": "glm-5.3"
+}

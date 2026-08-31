@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Makabusisiwe uYahwe, uElohim ka-Israyeli, kusukela kuze kube phakade nakuphakade; makusho wonke umhlakahlaka: Ameni. Dumelani uYah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Makabusisiwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kusukela"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "na"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "kuphakade"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "makusho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umhlakahlaka"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Ameni"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Dumelani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:59.828435104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 3:15",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi ngizobeka ubuntu bubendvuna phakathi kwakho noursesifazane, phakathi kokhokho bakho nokhokho bakhe: yena uzokuchoboza ikhanda, wena uzomchoboza indlenye.",
+  "tokens": [
+    {
+      "surface": "ואיבה",
+      "gloss": "ubuntu bubendvuna"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ngizobeka"
+    },
+    {
+      "surface": "בינך",
+      "gloss": "phakathi kwakho"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "naphakathi"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "kowesifazane"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "naphakathi"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "kokhokho bakho"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "naphakathi"
+    },
+    {
+      "surface": "זרעה",
+      "gloss": "kokhokho bakhe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ישופך",
+      "gloss": "uzokuchoboza"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ikhanda"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תשופנו",
+      "gloss": "uzomchoboza"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "indlenye"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:26.708729095Z",
+  "model": "glm-5.3"
+}

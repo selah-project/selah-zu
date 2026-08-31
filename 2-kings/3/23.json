@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 3:23",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Bathi: Ingazi leli! Aqedwe-qedwa ngempela amakhosi, kushaywana omunye ⟨את⟩ nomunye; manje-ke, uMowabhe, olwini!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ingazi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "aqedwe"
+    },
+    {
+      "surface": "נחרבו",
+      "gloss": "aqedwe ngempela"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "shaywana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omunye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omunye (umngane wakhe)"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "nomunye"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "manje-ke"
+    },
+    {
+      "surface": "לשלל",
+      "gloss": "olwini"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "uMowabhe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:04:18.849047874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 5:9",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Mabenze nzima imisebenzi kubantu, banze bayenze, futhi banganabuqotho abukholwe ⟨ezweni⟩? — futhi banganaki amazwi amanga.",
+  "tokens": [
+    {
+      "surface": "תכבד",
+      "gloss": "mabenze nzima"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "imisebenzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "bantu"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "banze bayenze"
+    },
+    {
+      "surface": "בה",
+      "gloss": "yona"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi banganaki"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "banganaki"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "amanga"
+    }
+  ],
+  "timestamp": "2026-08-31T01:27:55.935511511Z",
+  "model": "glm-5.3"
+}

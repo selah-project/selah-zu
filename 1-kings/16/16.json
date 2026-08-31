@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 16:16",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Abantu abacimile bayezwa ukuthi: UZimri ucimile icebo, futhi wabulala ⟨את⟩ inkosi; ngakho-ke onke u-Israel amenze inkosi u-Omri, induna yempi, phezu kuka-Israel ngalolo suku, enkampini.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "bayezwa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "Abantu"
+    },
+    {
+      "surface": "החנים",
+      "gloss": "abacimile"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "קשר",
+      "gloss": "ucimile icebo"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "uZimri"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "wabulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "amenze inkosi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Omri"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "u-Omri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "induna"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "yempi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kuka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalolu-"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "suku"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "enkampini"
+    }
+  ],
+  "timestamp": "2026-08-31T03:58:27.733039599Z",
+  "model": "glm-5.3"
+}

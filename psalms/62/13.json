@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 62:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 62,
+  "translation": "Futhi kuwe, u-Adonayi, kukhona ikhesedi, ngoba wena uyakhokha umuntu njengokwenzakwakhe.",
+  "tokens": [
+    {
+      "surface": "וּלְךָ",
+      "gloss": "futhi kuwe"
+    },
+    {
+      "surface": "אֲדֹנָי",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "חֶסֶד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "כִּי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תְשַׁלֵּם",
+      "gloss": "uyakhokha"
+    },
+    {
+      "surface": "לְאִישׁ",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "כְּמַעֲשֵׂהוּ",
+      "gloss": "njengokwenzakwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:12.555824836Z",
+  "model": "glm-5.3"
+}

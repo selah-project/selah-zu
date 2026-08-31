@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Izindebe zabalulekileyo zithulula ulwazi, kodwa intliziyo yeziswe ayingenalokho.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "izindebe"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "zabalulekileyo"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "zithulula"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "kodwa intliziyo"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "yeziswe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngenalokho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:55:01.075984077Z",
+  "model": "glm-5.3"
+}

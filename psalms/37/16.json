@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Kuhle okuncane komqotho kunokuqoqela kwabaningi ababi.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Kuhle"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "okuncane"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "komqotho"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "kunokuqoqela"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "abaningi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:36.471467070Z",
+  "model": "glm-5.3"
+}

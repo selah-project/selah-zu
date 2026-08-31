@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 135:21",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 135,
+  "translation": "Makabiwe uYahwe ovela eTsiyoni, ohlala eYerushalayimi. Dumisani uYah.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Makabiwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "evela eTsiyoni"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "ohlala"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Dumisani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:28.336683111Z",
+  "model": "glm-5.3"
+}

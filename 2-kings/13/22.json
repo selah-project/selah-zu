@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 13:22",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "UHazaeli inkosi yakwaArami wayecindezela ⟨את⟩ uIsrayeli konke izinsuku zikaYehoahazi.",
+  "tokens": [
+    {
+      "surface": "וחזאל",
+      "gloss": "UHazaeli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "yakwaArami"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "wayecindezela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uIsrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "zikaYehoahazi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:09:10.017160388Z",
+  "model": "glm-5.3"
+}

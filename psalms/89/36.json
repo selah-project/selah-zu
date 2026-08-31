@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Kanye ingafunga ngokungcwele kwami: angeke ngikhohlise uDavide.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "kanye"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ngafunga"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "ngokungcwele kwami"
+    },
+    {
+      "surface": "אם",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "ngimkhohlise"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:17.898871872Z",
+  "model": "glm-5.3"
+}

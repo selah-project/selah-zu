@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Yaye u-Abhimelekhi wathi ku-Yitschak: Hamba usuke kithi, ngoba wedlula thina kakhulu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "u-Abhimelekhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Yitschak"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Hamba usuke"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "kithi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "wedlula thina"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kithina"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:13:30.066535561Z",
+  "model": "glm-5.3"
+}

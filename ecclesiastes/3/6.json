@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Isikhathi sokufuna, nesikhathi sokulahla; isikhathi sokugcina, nesikhathi sokuphonsa lanele.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "isikhathi"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "sokufuna"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nesikhathi"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "sokulahla"
+    },
+    {
+      "surface": "עת",
+      "gloss": "isikhathi"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "sokugcina"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nesikhathi"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "sokuphonsa lanele"
+    }
+  ],
+  "timestamp": "2026-08-31T07:48:35.246257140Z",
+  "model": "glm-5.3"
+}

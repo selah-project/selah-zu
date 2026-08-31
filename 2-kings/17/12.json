@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "futhi bakhonzela wona izithombe ezingcolile, ngezo into uYahwe ayishilo kubo ukuthi: ningenzi ⟨את⟩ lomsebenzi lo.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "bakhonza"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "izithombe ezingcolile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngezo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ashilo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ningenzi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lomsebenzi lo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lomsebenzi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:11:30.406668167Z",
+  "model": "glm-5.3"
+}

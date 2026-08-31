@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "UMoshe wasikhulula ⟨את⟩ umkhwenyane wakhe wasinyathelisa waya ezweni lakhe.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wasikhulula"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umkhwenyane wakhe"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "umkhwenyane wakhe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨engaye⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "zweni lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:34:21.240928427Z",
+  "model": "glm-5.3"
+}

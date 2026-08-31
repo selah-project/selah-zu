@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Intliziyo yabahlakaniphile isendlini yokulila, njalo intliziyo yabaphukuphuku isendlini yothokozi.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Intliziyo"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "yabahlakaniphile"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "isendlini"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "yokulila"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "njalo intliziyo"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "yabaphukuphuku"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "isendlini"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "yothokozi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:46:37.129296657Z",
+  "model": "glm-5.3"
+}

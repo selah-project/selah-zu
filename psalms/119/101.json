@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngakho konke indlela ebhilendi nzima, ngavimbela izinyawo zami, ukuze ngigcine izwi lakho.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ngakho konke"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ebilendi nzima"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "ngavimbela"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "izinyawo zami"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ngigcine"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "izwi lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:45.851196660Z",
+  "model": "glm-5.3"
+}

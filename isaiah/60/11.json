@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 60:11",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 60,
+  "translation": "Futhi iminyango yakho izovulwa njalo, emini nasebusuku angeke ivalwe, ukulotshelwa kuwe ubutyebi bezizwe, nabakumendo ⟨bayo⟩ behamba ngomkhankaso.",
+  "tokens": [
+    {
+      "surface": "ופתחו",
+      "gloss": "izovulwa"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "iminyango yakho"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "emini"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "nasebusuku"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יסגרו",
+      "gloss": "ivalwe"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ukulotshelwa"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ubutyebi"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "bezizwe"
+    },
+    {
+      "surface": "ומלכיהם",
+      "gloss": "nabakumendo"
+    },
+    {
+      "surface": "נהוגים",
+      "gloss": "behamba ngomkhankaso"
+    }
+  ],
+  "timestamp": "2026-08-31T04:35:59.390122026Z",
+  "model": "glm-5.3"
+}

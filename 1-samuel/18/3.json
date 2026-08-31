@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 18:3",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Yonathani noDavide benza isivumelwano, ngokuthanda kwakhe uYonathani ⟨את⟩ yena njengokuphila kwakhe uqobo.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "benza isivumelwano"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "uYehonathani"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "noDavide"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "isivumelwano"
+    },
+    {
+      "surface": "באהבתו",
+      "gloss": "ngokuthanda kwakhe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (uyedwa — njengokuphila kwakhe uqobo)"
+    },
+    {
+      "surface": "כנפשו",
+      "gloss": "njengokuphila kwakhe uqobo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:20:03.256992338Z",
+  "model": "glm-5.3"
+}

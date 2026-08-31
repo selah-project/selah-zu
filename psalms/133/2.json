@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 133:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 133,
+  "translation": "Njengamafutha amahle ehlela phezu kwekhanda, ehlela ezintweni, intwe ka-Aharon, ehlela emlonyeni wemiphala yakhe.",
+  "tokens": [
+    {
+      "surface": "כשמן",
+      "gloss": "Njengamafutha"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "amahle"
+    },
+    {
+      "surface": "על",
+      "gloss": "ehlela phezu"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "kwekhanda"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ehlela"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "ezintweni"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "intwe"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ka-Aharon"
+    },
+    {
+      "surface": "שירד",
+      "gloss": "ehlela"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "פי",
+      "gloss": "emlonyeni"
+    },
+    {
+      "surface": "מדותיו",
+      "gloss": "wemiphala yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:06.472387875Z",
+  "model": "glm-5.3"
+}

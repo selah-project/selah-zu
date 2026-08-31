@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Futhi izikhumba zezimpondo ezi bomvu, nezikhumba ze-tachashi, nemithi ye-shittim",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "Futhi izikhumba"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "zezimpondo"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "ezi bomvu"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "nezikhumba"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "ze-tachashi"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "nemithi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ye-shittim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:43:15.131717578Z",
+  "model": "glm-5.3"
+}

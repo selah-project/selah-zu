@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "micah 2:1",
+  "book": "micah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Hoyi nina enicabanga ububi nanisebenza okubi emikhukhwazeni yenu; ekukhaleni kwekusasa bayayenza, ngokuba isandla sabo siku-El.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Hoyi"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "nina enicabanga"
+    },
+    {
+      "surface": "און",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "ופעלי",
+      "gloss": "nanisebenza"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "emikhukhwazeni yenu"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ekukhaleni"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "kwekusasa"
+    },
+    {
+      "surface": "יעשוה",
+      "gloss": "bayayenza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kukhona"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ku-El"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "isandla sabo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:34:52.017805887Z",
+  "model": "glm-5.3"
+}

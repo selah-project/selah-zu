@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Kepha mina njengesithuli angizwa, futhi njengesimumbulu engavuli umlomo wakhe.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Kepha mina"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "njengesithuli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angi-"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "zwa"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "futhi njengesimumbulu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enga-"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "vuli"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "umlomo wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:11.096977376Z",
+  "model": "glm-5.3"
+}

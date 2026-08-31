@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 17:2",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Abantu bayaphikisana noMoshe, bathi: Siniphe amanzi ukuze siphuze. UMoshe wathi kubo: Yini eniphikisana ngami yona? yini eniyazivavinya ⟨את⟩ uYahwe yona?",
+  "tokens": [
+    {
+      "surface": "וירב",
+      "gloss": "bayaphikisana"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "תנו",
+      "gloss": "siniphe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "-si-"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "ונשתה",
+      "gloss": "ukuze siphuze"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "תריבון",
+      "gloss": "eniphikisana"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ngami"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "תנסון",
+      "gloss": "eniyazivavinya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:19.121090932Z",
+  "model": "glm-5.3"
+}

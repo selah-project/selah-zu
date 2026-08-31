@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi mina, ngokwenelelo kwami ngizohamba; mkhululeni ngingabambezeleki, ngingabe nenessa.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Futhi mina"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "ngokwenelelo kwami"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ngizohamba"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "ngingabambezeleki (mkhulula)"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ngingabe ninessa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:46.819452219Z",
+  "model": "glm-5.3"
+}

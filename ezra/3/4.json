@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 3:4",
+  "book": "ezra",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Benza ⟨את⟩ umkhosi weSukoti njengokulotshiwe, kanye nenzinkonzo ezishiswa zansuku zonke ngokubalwa, njengomthetho wesiko lolu daba lwansuku ngelusuku lalo.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umkhosi weSukoti"
+    },
+    {
+      "surface": "חג",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "weSukoti"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "njengokulotshiwe"
+    },
+    {
+      "surface": "ועלת",
+      "gloss": "kanye nenzinkonzo ezishiswa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "zansuku"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ngokubalwa"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "njengomthetho wesiko"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lolu daba"
+    },
+    {
+      "surface": "יום",
+      "gloss": "lwansuku"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "ngelusuku lalo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:08:35.485751551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 1:2",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "ngezinsuku zalezo, ngesikhathi inkosi u-Achashverosh ihlezi esigodlweni sobukhosi bakhe, esitholakala eShushan, ebhirheni.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "ngezinsuku"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "zalezo"
+    },
+    {
+      "surface": "כשבת",
+      "gloss": "ngesikhathi...ihlezi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "u-Achashverosh"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "esigodlweni"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "sobukhosi bakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esitholakala"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "eShushan"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "ebhirheni"
+    }
+  ],
+  "timestamp": "2026-08-31T07:52:29.580557763Z",
+  "model": "glm-5.3"
+}

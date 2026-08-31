@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 18:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Kumqondisi, isisebenzi sikaYahwe, uDavide, okhuluma kuYahwe ⟨את⟩ amagama lomculo lo, ngosusu uYahwe amsizile esandleni sezitha zakhe zonke nasesandleni sikaShawuli.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "isisebenzi sika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okhuluma"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okhuluma"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagama lomculo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "lomculo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosusu"
+    },
+    {
+      "surface": "הציל",
+      "gloss": "amsizile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "msizile esandleni sezitha"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "sezitha zakhe"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "nasesandleni"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "sikaShawuli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:21.677463642Z",
+  "model": "glm-5.3"
+}

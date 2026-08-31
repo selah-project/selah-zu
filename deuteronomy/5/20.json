@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Futhi ungangabi yisiqgogo-solwa esingamanga sohmakhelwane wakho.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "futhi unga-"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ngabi yisiqgogo-solwa"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "sohmakhelwane wakho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "solwa"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "esingamanga"
+    }
+  ],
+  "timestamp": "2026-08-31T02:31:19.615550930Z",
+  "model": "glm-5.3"
+}

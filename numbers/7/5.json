@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 7:5",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Thatha kubona ⟨את⟩, futhi zibe ukukhonza ⟨את⟩ inkonzo yetenti yokuhlangana; uzinike ⟨את⟩ kubalevi, yilowo ngokwenkonzo yakhe.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Thatha"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "kubona ⟨את⟩"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "futhi zibe"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ukukhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkonzo"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "inkonzo"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "yetenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuhlangana"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "uzinike"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "abalevi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuya"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "kubalevi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yilowo"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ngokwe"
+    },
+    {
+      "surface": "עבדתו",
+      "gloss": "inkonzo yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:10:41.525659581Z",
+  "model": "glm-5.3"
+}

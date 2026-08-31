@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 30:25",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Futhi uzoyenza ⟨את⟩ ngamafutha okugcoba okungcwele, umixo ohlanganisiwe, umsebenzi womxobi; amafutha okugcoba okungcwele ayo⟨ukuba⟩ ngawo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "futhi uzoyenza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "amafutha okugcoba okungcwele"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "okugcoba"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "okungcwele"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "umixo"
+    },
+    {
+      "surface": "מרקחת",
+      "gloss": "ohlanganisiwe"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "רקח",
+      "gloss": "womxobi"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "okugcoba"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "okungcwele"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ayo⟨ukuba⟩ ngawo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:41:32.852960940Z",
+  "model": "glm-5.3"
+}

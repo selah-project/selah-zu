@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 1:1",
+  "book": "lamentations",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Yehwa kanjani ihlala yodwa idolobha, lelo elalinabantu abaningi! Lathumba njengafelokazi, elalilikhulu ezizweni, elaliyinkosikazi ezifundazweni — lathumba ⟨umkhokhi womrhiso⟩.",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Yehwa kanjani"
+    },
+    {
+      "surface": "ישבה",
+      "gloss": "ihlala"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "yodwa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "idolobha"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "elinabantu abaningi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "lathumba"
+    },
+    {
+      "surface": "כאלמנה",
+      "gloss": "njengafelokazi"
+    },
+    {
+      "surface": "רבתי",
+      "gloss": "elikhulu"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ezizweni"
+    },
+    {
+      "surface": "שרתי",
+      "gloss": "inkosikazi"
+    },
+    {
+      "surface": "במדינות",
+      "gloss": "ezifundazweni"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "lathumba"
+    },
+    {
+      "surface": "למס",
+      "gloss": "⟨umkhokhi womrhiso⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T07:40:33.663670105Z",
+  "model": "glm-5.3"
+}

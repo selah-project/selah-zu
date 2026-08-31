@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 146,
+  "translation": "Owenzayo amazulu nomhlaba, ⟨את⟩ ulwandle no⟨את⟩ konke okukulo; ogcinayo iqiniso kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Owenzayo"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "nomhlaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulwandle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "konke okukulo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okukulo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "-kulo"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "ogcinayo"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "iqiniso"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:40.722941594Z",
+  "model": "glm-5.3"
+}

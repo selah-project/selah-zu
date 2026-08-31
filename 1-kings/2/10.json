@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi uDavide walala ⟨nge⟩-nabayise, wabethekwa edolobheni likaDavide.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "futhi walala"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "abayise"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "wabethekwa"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "likaDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T03:46:44.737040728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 28:10",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Amagama ayisithupha ethu eqhweni elilodwa, kanye ⟨את⟩ namagama alandelayo ayisithupha eqhweni elyesibili, ngokokuzalwa kwabo.",
+  "tokens": [
+    {
+      "surface": "ששה",
+      "gloss": "ayisithupha"
+    },
+    {
+      "surface": "משמתם",
+      "gloss": "amagama ethu"
+    },
+    {
+      "surface": "על",
+      "gloss": "eqhweni"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "iqho"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kanye ⟨את⟩",
+      "marks": "namagama alandelayo ayisithupha"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "namagama"
+    },
+    {
+      "surface": "הששה",
+      "gloss": "ayisithupha"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "alandelayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "eqhweni"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "iqho"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "elyesibili"
+    },
+    {
+      "surface": "כתולדתם",
+      "gloss": "ngokokuzalwa kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:38.918242220Z",
+  "model": "glm-5.3"
+}

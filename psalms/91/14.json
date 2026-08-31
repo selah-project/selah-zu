@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 91:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 91,
+  "translation": "Ngoba wazinikela kimi, ngizomukhulula; ngizomukhuphela phezulu, ngoba uyayazi into yegama lami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngoba"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "חשק",
+      "gloss": "wazinikela (othandweni)"
+    },
+    {
+      "surface": "ואפלטהו",
+      "gloss": "ngizomukhulula"
+    },
+    {
+      "surface": "אשגבהו",
+      "gloss": "ngizomukhuphela phezulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "uyayazi into"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "yegama lami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:53.003901155Z",
+  "model": "glm-5.3"
+}

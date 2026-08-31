@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi eceleni kwabo waqinisa uRafaya indodana kaHuri, inkosi yesigaba esisodwa seYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "futhi eceleni"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "kwabo"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "waqinisa"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "uRafaya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "חור",
+      "gloss": "uHuri"
+    },
+    {
+      "surface": "שר",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "yesigaba esisodwa"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "sesigaba"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "seYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:13:33.778740662Z",
+  "model": "glm-5.3"
+}

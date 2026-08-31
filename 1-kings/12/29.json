@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Wabeka ⟨את⟩ oyedwa eBeyith-eli, futhi ⟨את⟩ owodwa wamisa eDani.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyedwa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "oyedwa"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "eBeyith-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "owodwa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "owodwa"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "eDani"
+    }
+  ],
+  "timestamp": "2026-08-31T03:55:51.645074302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 1:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Inkomo yazi umnikazi wayo, y loshu inqola yasekhaya lenkosi yayo; uSirayeli akanazi, abantu bami abaqondi.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "yazi"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inkomo"
+    },
+    {
+      "surface": "קנהו",
+      "gloss": "umnikazi wayo"
+    },
+    {
+      "surface": "וחמור",
+      "gloss": "y loshu"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "inqola yasekhaya"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "lenkosi yayo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uSirayeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aka"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "nazi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aba"
+    },
+    {
+      "surface": "התבונן",
+      "gloss": "qondi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:16:01.365311049Z",
+  "model": "glm-5.3"
+}

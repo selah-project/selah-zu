@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 9:20",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Owesaba ⟨את⟩ izwi lukaYahwe, phakathi kweziguli zikaParo, wabalekisa ⟨את⟩ iziguli zakhe no⟨את⟩ izinkomo zakhe wayesa ezindlini.",
+  "tokens": [
+    {
+      "surface": "הירא",
+      "gloss": "owesaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi lukaYahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ukaYahwe"
+    },
+    {
+      "surface": "מעבדי",
+      "gloss": "phakathi kweziguli"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "zikaParo"
+    },
+    {
+      "surface": "הניס",
+      "gloss": "wabalekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iziguli zakhe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "iziguli zakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "izinkomo zakhe"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "izinkomo zakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "wayesa"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ezindlini"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:43.951156107Z",
+  "model": "glm-5.3"
+}

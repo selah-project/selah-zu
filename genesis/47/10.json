@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 47,
+  "translation": "UYaakob wabusisa ⟨את⟩ uParo, waphuma phambi kuParo.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "wabusisa"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "UYaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uParo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:24:08.837989321Z",
+  "model": "glm-5.3"
+}

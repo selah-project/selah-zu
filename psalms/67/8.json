@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 67:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 67,
+  "translation": "uElohim usisibusise, futhi wonke amaphethelo omhlaba ayalimoya ⟨את⟩ yena.",
+  "tokens": [
+    {
+      "surface": "יברכנו",
+      "gloss": "usisibusise"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "futhi ayalimoya"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "wonke amaphethelo omhlaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "amaphethelo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "omhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:41.937443568Z",
+  "model": "glm-5.3"
+}

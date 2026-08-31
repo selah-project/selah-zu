@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 16:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Ungiyazisa indlela yokuphila; ukuqedisela kwemisebezi kukho εἰς ⟨את⟩ ubuso bakho; izinto ezinhle zisandleni sakho sokudla kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "תודיעני",
+      "gloss": "Ungiyazisa"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "yokuphila"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ukuqedisela"
+    },
+    {
+      "surface": "שמחות",
+      "gloss": "kwemisebezi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bakho"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "נעמות",
+      "gloss": "izinto ezinhle"
+    },
+    {
+      "surface": "בימינך",
+      "gloss": "sisandleni sakho sokudla"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T10:56:21.197687940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 39:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Ngempela njengesithombe uhamba umuntu; ngempela umoya-ongenalutho bayazixabuxa; aqwemba umhlaba futhi akazi ukuthi ngubani ozoqwemba lowo mhlaba.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Ngempela"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "njengesithombe"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "uhamba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "umoya-ongenalutho"
+    },
+    {
+      "surface": "יהמיון",
+      "gloss": "bayazixabuxa"
+    },
+    {
+      "surface": "יצבר",
+      "gloss": "aqwemba umhlaba"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi akazi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "אספם",
+      "gloss": "ozoqwemba lowo mhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:53.569533101Z",
+  "model": "glm-5.3"
+}

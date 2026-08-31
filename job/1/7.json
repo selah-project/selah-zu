@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 1:7",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Wayesephendula uYahwe: Uthe kuHasatani: Uvelaphi? Hasatani waphendula ⟨את⟩ uYahwe wathi: Ngisuka ngihamba-hamba emhlabeni, ngihamba ngiya phambili emhlabeni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesephendula\/uthi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Hasatani"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "velaphi"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "uza"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "waphendula"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "Hasatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "משוט",
+      "gloss": "ukuhamba-hamba"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "futhi ukuhamba ngiya phambili"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuwo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:56:47.506462493Z",
+  "model": "glm-5.3"
+}

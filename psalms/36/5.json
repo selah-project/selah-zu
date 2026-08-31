@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Ububi bucwaninga ocansini lwakhe; uzibekela endleleni engenalungo; okubi akanakusukumeza.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "bucwaninga"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "ocansini lwakhe"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "uzibekela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engenal"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ungo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akanaku"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "sukumeza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:40.233545700Z",
+  "model": "glm-5.3"
+}

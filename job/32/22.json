@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 32:22",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "ngoba angazi ukunika izihloko zokudumisa — kancane umenzi wami ungangithatha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "angazi"
+    },
+    {
+      "surface": "אכנה",
+      "gloss": "ukunika izihloko zokudumisa"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "kancane"
+    },
+    {
+      "surface": "ישאני",
+      "gloss": "ungangithatha"
+    },
+    {
+      "surface": "עשני",
+      "gloss": "umenzi wami"
+    }
+  ],
+  "timestamp": "2026-08-31T07:24:00.374309100Z",
+  "model": "glm-5.3"
+}

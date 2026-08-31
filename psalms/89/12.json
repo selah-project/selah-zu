@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 89:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Izulu ngezakho, futhi umhlaba ngezakho; ihlabathi nokugcwele kwalo — wena uwamisele iziseko zawo.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ngezakho"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "izulu"
+    },
+    {
+      "surface": "אף",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ngezakho"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ihlabathi"
+    },
+    {
+      "surface": "ומלאה",
+      "gloss": "nokugcwele kwalo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יסדתם",
+      "gloss": "uwamisele iziseko zawo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:28.317116670Z",
+  "model": "glm-5.3"
+}

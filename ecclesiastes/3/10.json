@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngibonile ⟨את⟩ inhlekelele abantwana bantu abayinike yona uElohim ukuba bahlupheke ngayo.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ngibonile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inhlekelele"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "inhlekelele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "נתן",
+      "gloss": "abayinike"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "bantu"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "ukuba bahlupheke"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngayo"
+    }
+  ],
+  "timestamp": "2026-08-31T11:45:16.512105585Z",
+  "model": "glm-5.3"
+}

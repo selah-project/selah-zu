@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "uParo wezwa ⟨את⟩ leli daba, wafuna ukubulala ⟨את⟩ uMoshe. uMoshe wabaleka ebunzimeni bukaParo, wahlala ezweni laseMidiyani, wahlala eduzane nomsizi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wezwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leli daba"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "leli daba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "ויבקש",
+      "gloss": "wafuna"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "ukubulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "wabaleka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ebunzimeni buka"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "laseMidiyani"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "על",
+      "gloss": "eduzane na"
+    },
+    {
+      "surface": "הבאר",
+      "gloss": "umsizi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:26:57.773409409Z",
+  "model": "glm-5.3"
+}

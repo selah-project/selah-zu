@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "malachi 3:22",
+  "book": "malachi",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Khumbulani umthetho kaMoshe, inceku yami, engangimyalela ⟨את⟩ yena eHorebi kuIsrayeli yonke, izimiso nezinqumo.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Khumbulani"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "umthetho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kaMoshe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "inceku yami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engangi-"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "myalela"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "eHorebi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "izimiso"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "nezinqumo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:48.326795702Z",
+  "model": "glm-5.3"
+}

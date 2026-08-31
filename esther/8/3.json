@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 8:3",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "U-Estere wengeza wakhuluma phambi kwenkosi, wawa phambi kwezinyawo zayo, wakhala, wacela kuyena ukususa ⟨את⟩ ububi bukaHaman u-Agagi, nange-⟨את⟩ icebo lakhe elabetha ngalo abantu abaYuda.",
+  "tokens": [
+    {
+      "surface": "ותוסף",
+      "gloss": "wengeza"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "u-Estere"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ותפל",
+      "gloss": "wawa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "izinyawo zayo"
+    },
+    {
+      "surface": "ותבך",
+      "gloss": "wakhala"
+    },
+    {
+      "surface": "ותתחנן",
+      "gloss": "wacela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ukususa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ububi bukaHaman"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "המן",
+      "gloss": "bukaHaman"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "u-Agagi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "icebo lakhe"
+    },
+    {
+      "surface": "מחשבתו",
+      "gloss": "icebo lakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ela-"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "betha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngalo"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "amaYuda"
+    }
+  ],
+  "timestamp": "2026-08-31T07:54:28.682245671Z",
+  "model": "glm-5.3"
+}

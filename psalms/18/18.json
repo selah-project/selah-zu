@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 18:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Wangisindisa ezitheni zami ezinzima, nasitheni abangizondayo, ngoba benamandla kumina.",
+  "tokens": [
+    {
+      "surface": "יצילני",
+      "gloss": "Wangisindisa"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "ezitheni zami"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ezinzima"
+    },
+    {
+      "surface": "ומשנאי",
+      "gloss": "nasithena abangizondayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אמצו",
+      "gloss": "benamandla"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kumina"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:59.478015485Z",
+  "model": "glm-5.3"
+}

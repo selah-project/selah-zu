@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 139:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 139,
+  "translation": "Amebo akho abona isiqu sami esingakadalwa; encwadini yakho zonke zibhalwe — izinsuku ezingakadalwa, kungakena yilodwa yazo.",
+  "tokens": [
+    {
+      "surface": "גלמי",
+      "gloss": "isiqu sami esingakadalwa"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "abona"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "amebo akho"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "encwadini yakho"
+    },
+    {
+      "surface": "ספרך",
+      "gloss": "encwadini yakho"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "zibhalwe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "ezingakadalwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kungakena"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yilodwa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "yazo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:08.347128023Z",
+  "model": "glm-5.3"
+}

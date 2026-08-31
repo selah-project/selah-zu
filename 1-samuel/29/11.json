@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 29:11",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "UDavide wavuka kuseni, yena nezakhe amadoda, ukuze bahambe ekuseni ukubuyela ezweni lakwaFilisti; amaFilisti anyukela eYizreeli.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "wavuka kuseni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "nezakhe amadoda"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuze bahambe"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ukubuyela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "lakwaFilisti"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "amaFilisti"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "anyukela"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "eYizreeli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:04:39.276135518Z",
+  "model": "glm-5.3"
+}

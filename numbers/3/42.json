@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 3:42",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "UMoshe wabala, njengokuba uYahwe wayemyleile, ⟨את⟩ wonke abazalwa kuqala phakathi kwabantwana bakwa-Israyeli.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "wabala"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokuba"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayemyalele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke abazalwa kuqala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "בכר",
+      "gloss": "abazalwa kuqala"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "phakathi kwabantwana ba"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T02:08:35.882943088Z",
+  "model": "glm-5.3"
+}

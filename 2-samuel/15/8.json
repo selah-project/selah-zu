@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 15:8",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Ngokuba izinkonzo zakho zenze isithembiso ekuthuleni kwakhe eGeshuri, e-Aramu, sithi: Uma uYahwe ungibuyisela ngempela eYerushalayimi, ngizokhonza uYahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "isithembiso"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "zenze isithembiso"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "izinkonzo zakho"
+    },
+    {
+      "surface": "בשבתי",
+      "gloss": "ekuhlala kwami"
+    },
+    {
+      "surface": "בגשור",
+      "gloss": "eGeshuri"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "e-Aramu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "sithi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ngempela abuyisela"
+    },
+    {
+      "surface": "ישיבני",
+      "gloss": "ungibuyisela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "ועבדתי",
+      "gloss": "ngizokhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:39:08.005746172Z",
+  "model": "glm-5.3"
+}

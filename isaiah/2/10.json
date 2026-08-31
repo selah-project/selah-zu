@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 2:10",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ngena emjyezweni, futhi zithule emthonjeni, phambi kokwesaba uYahwe nokuqhamuka kobukhosi bakhe.",
+  "tokens": [
+    {
+      "surface": "בוא",
+      "gloss": "ngena"
+    },
+    {
+      "surface": "בצור",
+      "gloss": "emjyezweni"
+    },
+    {
+      "surface": "והטמן",
+      "gloss": "futhi zithule"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "emthonjeni"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ומהדר",
+      "gloss": "nokuqhamuka kwe-"
+    },
+    {
+      "surface": "גאנו",
+      "gloss": "ubukhosi bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:14:43.495845803Z",
+  "model": "glm-5.3"
+}

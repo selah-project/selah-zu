@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Naye ⟨את⟩ u-Ofiri, naye ⟨את⟩ iChavilah, naye ⟨את⟩ uYovavi; bonke laba babengabantwana bukaYaketani.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "u-Ofiri"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "u-Ofiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "iChavilah"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "iChavilah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "uYovavi"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "uYovavi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "laba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "ukaYaketani"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:01.035200023Z",
+  "model": "glm-5.3"
+}

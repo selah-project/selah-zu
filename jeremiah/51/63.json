@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "jeremiah 51:63",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 51,
+  "translation": "Futhi kuyoba njalo, nxa usuphele ukufunda ⟨את⟩ le ncwadi, uzobopha itshe kuyo, uyophonsa phakathi kwePhrata.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Futhi kuyoba njalo"
+    },
+    {
+      "surface": "ככלתך",
+      "gloss": "nxa usuphele"
+    },
+    {
+      "surface": "לקרא",
+      "gloss": "ukufunda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le ncwadi"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "incwadi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "תקשר",
+      "gloss": "uzobopha"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "itshe"
+    },
+    {
+      "surface": "והשלכתו",
+      "gloss": "uyophonsa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "phakathi kwe-"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "iPhrata"
+    }
+  ],
+  "timestamp": "2026-08-31T05:02:36.208453151Z",
+  "model": "glm-5.3"
+}

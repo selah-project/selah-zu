@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 21:27",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Kwathi lapho u-Ahabu ezwa ⟨את⟩ lelo zimfundo, wasoma izembatho zakhe, wafaka isamba esinyameni sakhe, wazila ukudla, walala esambeni, wahamba kancane.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "lapho...ezwa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "u-Ahabu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lelo zimfundo"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "imfundo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "wasoma"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "izembatho zakhe"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wafaka"
+    },
+    {
+      "surface": "שק",
+      "gloss": "isamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "esinyameni"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "sakhe"
+    },
+    {
+      "surface": "ויצום",
+      "gloss": "wazila ukudla"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "walala"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "esambeni"
+    },
+    {
+      "surface": "ויהלך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "אט",
+      "gloss": "kancane"
+    }
+  ],
+  "timestamp": "2026-08-31T04:01:58.563632125Z",
+  "model": "glm-5.3"
+}

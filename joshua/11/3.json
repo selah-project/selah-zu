@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 11:3",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "NakaKhanani ngasempumalanga nangasentonzima, namaEmori, namaChithi, namaPerizi, namaYebusi entabeni, namaChivi ngaphansi kweChermoni, ezweni lamaMitsipa.",
+  "tokens": [
+    {
+      "surface": "הכנעני",
+      "gloss": "nakaKhanani"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "ngasempumalanga"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "nangasentonzima"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "namaEmori"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "namaChithi"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "namaPerizi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "namaYebusi"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "namaChivi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi kwe"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Chermoni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "lamaMitsipa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:54:50.095625243Z",
+  "model": "glm-5.3"
+}

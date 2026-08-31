@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 149:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 149,
+  "translation": "ukubopha amakhosi abo ngezikhwama zensimbi kanye nabahloniphekile babo ngezintambo zensimbi.",
+  "tokens": [
+    {
+      "surface": "לאסר",
+      "gloss": "ukubopha"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "amakhosi abo"
+    },
+    {
+      "surface": "בזקים",
+      "gloss": "ngezikhwama zensimbi"
+    },
+    {
+      "surface": "ונכבדיהם",
+      "gloss": "kanye nabahloniphekile babo"
+    },
+    {
+      "surface": "בכבלי",
+      "gloss": "ngezintambo"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "zensimbi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:45:47.021112449Z",
+  "model": "glm-5.3"
+}

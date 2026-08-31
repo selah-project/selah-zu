@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 11:3",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Wayenabafazi abayizinhloli — izinkosazana ezingamakhulu ayisikhombisa — nezifazana ezingamakhulu amathathu; futhi abafazi bakhe baphendukisa ⟨את⟩ inhliziyo yakhe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wayene"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "abafazi"
+    },
+    {
+      "surface": "שרות",
+      "gloss": "izinhloli"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "isikhombisa"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "ופלגשים",
+      "gloss": "nezifazana"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "isithathu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "ויטו",
+      "gloss": "baphendukisa"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "abafazi bakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inhliziyo yakhe"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inhliziyo yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:57:29.922544033Z",
+  "model": "glm-5.3"
+}

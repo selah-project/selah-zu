@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 115:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 115,
+  "translation": "Nina abamesabayo uYahwe, thembani kuYahwe; yena ungowasizo lwabo nesiphephelo sabo.",
+  "tokens": [
+    {
+      "surface": "יראי",
+      "gloss": "abamesabayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "thembani"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "עזרם",
+      "gloss": "owasizo lwabo"
+    },
+    {
+      "surface": "ומגנם",
+      "gloss": "nesiphephelo sabo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:14.904438685Z",
+  "model": "glm-5.3"
+}

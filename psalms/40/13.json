@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 40:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Ngokuba izinkulungwane zeziwula zingihlanganise; izingcoli zami zingibambe, kangikwazi ukubona; zinengi kunezinwele zokanda lwami, nenhliziyo yami ingishiye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אפפו",
+      "gloss": "zingihlanganise"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ongaphezulu"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "izinkulungwane zeziwula"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikela"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingenalo"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "inani"
+    },
+    {
+      "surface": "השיגוני",
+      "gloss": "zingibambe"
+    },
+    {
+      "surface": "עונתי",
+      "gloss": "izingcoli zami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi-ke kangikwazi"
+    },
+    {
+      "surface": "יכלתי",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "לראות",
+      "gloss": ""
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "zinengi"
+    },
+    {
+      "surface": "משערות",
+      "gloss": "kunezinwele"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "zokanda lwami"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "nenhliziyo yami"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "ingishiye"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:11.410854890Z",
+  "model": "glm-5.3"
+}

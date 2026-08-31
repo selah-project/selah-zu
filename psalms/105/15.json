@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 105:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "Musani ukuthinta abagcotshiwe bami, nomusani ukwenza okubi kubaprofethi bami.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musani"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "ukuthinta"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "uMashiya wami (abagcotshiwe bami)"
+    },
+    {
+      "surface": "ולנביאי",
+      "gloss": "nakubaprofethi bami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musani"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "ukwenza okubi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:23.974186014Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi uzothola umusa nokuhlakanipha okuhle emehlweni kaElohim nomuntu.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "futhi uzothola"
+    },
+    {
+      "surface": "חן",
+      "gloss": "umusa"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "nokuhlakanipha"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "nomuntu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:48:06.462151570Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 11:24",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "wahlanganisa amadoda aze abe yinduna yesigodi lapho uDavide ebabulala ⟨את⟩; bashiya uDameseki, bahlela lapho, babusisa eDameseki.",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": "wahlanganisa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "aye"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "שר",
+      "gloss": "yinduna"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "yesigodi"
+    },
+    {
+      "surface": "בהרג",
+      "gloss": "lapho ebabulala"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "amadoda (ababulawayo)"
+    },
+    {
+      "surface": "והלכו",
+      "gloss": "bashiya baya"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "uDameseki"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "bahlela"
+    },
+    {
+      "surface": "בה",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "וימלכו",
+      "gloss": "babusisa"
+    },
+    {
+      "surface": "בדמשק",
+      "gloss": "eDameseki"
+    }
+  ],
+  "timestamp": "2026-08-31T06:06:39.617696880Z",
+  "model": "glm-5.3"
+}

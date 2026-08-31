@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Kepha wena, uYahwe, ungsivikela ngami; unginkazimulo yami, nonjis' umkhosi wami.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kepha wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "isivikelo"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ngami"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "inkazimulo yami"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "nonjis'"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "umkhosi wami"
+    }
+  ],
+  "timestamp": "2026-08-31T05:46:08.641855228Z",
+  "model": "glm-5.3"
+}

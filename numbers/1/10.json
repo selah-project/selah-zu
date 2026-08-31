@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 1:10",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "KubantwabakaYosefu: kukaEfrayimi u-Elishama indodana ka-Ammihudi; kukaManasse uGamliyeli indodana kaPedahutsuri.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Kubantwaba"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "kaYosefu"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "kukaEfrayimi"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "u-Elishama"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "ka-Ammihudi"
+    },
+    {
+      "surface": "למנשה",
+      "gloss": "kukaManasse"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "uGamliyeli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "פדהצור",
+      "gloss": "kaPedahutsuri"
+    }
+  ],
+  "timestamp": "2026-08-31T02:06:30.265528456Z",
+  "model": "glm-5.3"
+}

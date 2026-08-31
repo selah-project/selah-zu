@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 107:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Ngokuba bazamazela amazwi ka-El, baphikisa icebo lika-Elyoni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "המרו",
+      "gloss": "bazamazela"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka-El"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "baphikisa icebo"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "lika-Elyoni"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:52.204139115Z",
+  "model": "glm-5.3"
+}

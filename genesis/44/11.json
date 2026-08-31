@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 44:11",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Bashesha, bahlisa isikhwama sakhe ilowo yedwa emhlabeni, futhi bavula isikhwama sakhe ilowo yedwa.",
+  "tokens": [
+    {
+      "surface": "וימהרו",
+      "gloss": "bashesha"
+    },
+    {
+      "surface": "ויורדו",
+      "gloss": "bahlisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ilowo yedwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isikhwama sakhe"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "isikhwama sakhe"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "ויפתחו",
+      "gloss": "bavula"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ilowo yedwa"
+    },
+    {
+      "surface": "אמתחתו",
+      "gloss": "isikhwama sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:22:52.192099226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 84:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 84,
+  "translation": "Ngokuba ilanga nesivikelo nguYahwe u-Elohim; ikhesedi nenkazimulo uYahwe uzayinika; akunampahla enhle ayoyenqabela abahamba ngokungcolile okungenayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "nesivikelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "nenkazimulo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "uzanika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akuna"
+    },
+    {
+      "surface": "ימנע",
+      "gloss": "ayoyenqabela"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "enhle"
+    },
+    {
+      "surface": "להלכים",
+      "gloss": "abahamba"
+    },
+    {
+      "surface": "בתמים",
+      "gloss": "ngokungcolile okungenayo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:57.086752582Z",
+  "model": "glm-5.3"
+}

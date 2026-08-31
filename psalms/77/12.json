@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 77,
+  "translation": "Ngiyokukhumbuza izenzo zoYah; ngokuthi ngiyokhumbula izimangaliso zakho zasendulo.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "Ngiyokukhumbuza"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "izenzo"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ngiyokhumbula"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "zasendulo"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "izimangaliso zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:44.047803777Z",
+  "model": "glm-5.3"
+}

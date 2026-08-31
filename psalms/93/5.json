@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 93:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 93,
+  "translation": "Izifungo zakho zithembekile kakhulu; kuyafanelela ukungcwele endlwini yakho, uYahwe, kuze kube yisikhathi eside yizinsuku.",
+  "tokens": [
+    {
+      "surface": "עדתיך",
+      "gloss": "izifungo zakho"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "zithembekile"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "endlwini yakho"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "kuyafanelela"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ukungcwele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "kuze kube yisikhathi eside"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "yizinsuku"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:25.436217089Z",
+  "model": "glm-5.3"
+}

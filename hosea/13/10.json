@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 13:10",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Iphi manje inkosi yakho, yehlise ikusindise emizini yakho yonke; nabahluleli bakho obabesho ukuthi, Nike inkosi namakhosi?",
+  "tokens": [
+    {
+      "surface": "אהי",
+      "gloss": "Iphi"
+    },
+    {
+      "surface": "מלכך",
+      "gloss": "inkosi yakho"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "manje"
+    },
+    {
+      "surface": "ויושיעך",
+      "gloss": "ehlise ikusindise"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "emizini yakho"
+    },
+    {
+      "surface": "וושפטיך",
+      "gloss": "nabahluleli bakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oba-"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "besho"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "Nike"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "namakhosi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:14:46.250107018Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-chronicles 6:35",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "uzuzwe ezulwini ⟨את⟩ ithandazo yabo, futhi ⟨את⟩ isicelo sabo, futhi ulungise icala labo.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "uzuzwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithandazo yabo"
+    },
+    {
+      "surface": "תפלתם",
+      "gloss": "ithandazo yabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "isicelo sabo"
+    },
+    {
+      "surface": "תחנתם",
+      "gloss": "isicelo sabo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "futhi ulungise"
+    },
+    {
+      "surface": "משפטם",
+      "gloss": "icala labo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:33:25.844066633Z",
+  "model": "glm-5.3"
+}

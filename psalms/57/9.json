@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 57,
+  "translation": "Vuka, ikavodi yami; vuka, i-neveli ne-kinori; ngiyovusa ⟨umkhathi⟩.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "vuka"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ikavodi yami"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "vuka"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "i-neveli"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ne-kinori"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ngiyovusa"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "umkhathi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:30:59.524300721Z",
+  "model": "glm-5.3"
+}

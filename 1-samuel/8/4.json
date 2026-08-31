@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 8:4",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ake badibana bonke omdala bakwa-Israeli, befika kuShemuweli eRama.",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "badibana"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "omdala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israeli"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "befika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuweli"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "eRama"
+    }
+  ],
+  "timestamp": "2026-08-31T03:15:51.139680933Z",
+  "model": "glm-5.3"
+}

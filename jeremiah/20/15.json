@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 20:15",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Olelwe yilo umuntu ozakazela ⟨את⟩ ubaba wami igama elithi: 'Kuzelwe indodana yakho — indodana yesilisa,' amjabulise kakhulu.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Olelwe"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "yilo umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ozakazela"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ozakazela igama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubaba wami"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubaba wami"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "elithi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "Kuzelwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yakho"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "yesilisa"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "amjabulise"
+    },
+    {
+      "surface": "שמחהו",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:46:43.309112097Z",
+  "model": "glm-5.3"
+}

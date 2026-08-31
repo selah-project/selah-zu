@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 20:24",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "I-altari yomhlabathi uzoyenza kimina; uzozibizela phezu kwayo ⟨את⟩ onikelwano bakho abashiswayo ne⟨את⟩ imikomiso yakho yokuthula, ⟨את⟩ izimvu zakho ne⟨את⟩ inkomo zakho; endaweni yonke lapho ngikhumbulisa khona ⟨את⟩ igama lami, ngizofika kuwe, futhi ngizukusisa.",
+  "tokens": [
+    {
+      "surface": "מזבח",
+      "gloss": "i-altari"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "yomhlabathi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzoyenza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimina"
+    },
+    {
+      "surface": "וזבחת",
+      "gloss": "uzozibizela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onikelwano bakho abashiswayo"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "onikelwano bakho abashiswayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imikomiso yakho yokuthula"
+    },
+    {
+      "surface": "שלמיך",
+      "gloss": "imikomiso yakho yokuthula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izimvu zakho"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "izimvu zakho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inkomo zakho"
+    },
+    {
+      "surface": "בקרך",
+      "gloss": "inkomo zakho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuwo wonke"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "ngikhumbulisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lami"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "igama lami"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ngizofika"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "וברכתיך",
+      "gloss": "ngizukusisa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:35:27.982855376Z",
+  "model": "glm-5.3"
+}

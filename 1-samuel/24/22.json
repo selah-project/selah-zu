@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 24:22",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Futhi manze, funga ngoYahwe kimi, ukuthi ngeke usike ⟨את⟩ umzukulwana wami ngemva kwami, futhi ngeke utshabalalise ⟨את⟩ igama lami endlwini kayihlo wami.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "futhi manze"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "funga"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ngoYahwe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ukuthi ngeke"
+    },
+    {
+      "surface": "תכרית",
+      "gloss": "usike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umzukulwana wami"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "umzukulwana wami"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ngemva kwami"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "futhi ngeke"
+    },
+    {
+      "surface": "תשמיד",
+      "gloss": "utshabalalise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lami"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "igama lami"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "kayihlo wami"
+    }
+  ],
+  "timestamp": "2026-08-31T03:25:22.224059826Z",
+  "model": "glm-5.3"
+}

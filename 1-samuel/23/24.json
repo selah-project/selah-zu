@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 23:24",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Bavuka baya eZifhi ngaphambili kukaShawuli; uDavide namadoda akhe besendlebeni yeMaoni, e-Arabha, ehlanza kwesiHelevu.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "bavuka"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "baya"
+    },
+    {
+      "surface": "זיפה",
+      "gloss": "eZifhi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ngaphambili kuka-"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "namadoda akhe"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "endlebeni ye-"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "eMaoni"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "e-Arabha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ehlanza kwe-"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "isandla sokudla \/ inzansi"
+    },
+    {
+      "surface": "הישימון",
+      "gloss": "esiHelevu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:20:38.351115021Z",
+  "model": "glm-5.3"
+}

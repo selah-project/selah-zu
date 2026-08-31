@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ungabi yisihlakaniphi emehlweni akho; yesaba ⟨את⟩ uYahwe, futhi suka kobubi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Unga-"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "bi"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yisihlakaniphi"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "emehlweni akho"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "yesaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "futhi suka"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "kobubi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:47:27.157006995Z",
+  "model": "glm-5.3"
+}

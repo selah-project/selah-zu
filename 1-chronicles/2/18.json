@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 2:18",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi uKalebu, ndodana kaChetsroni, wazala ⟨את⟩ u-Azuba, unkosikazi, no-⟨את⟩ u-Yeriyothu; futhi laba abantwana bakhe: uYesheru, noShobabu, no-Ardoni.",
+  "tokens": [
+    {
+      "surface": "וכלב",
+      "gloss": "Futhi uKalebu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ndodana"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "kaChetsroni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Azuba"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "u-Azuba"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "unkosikazi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "u-Yeriyothu"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "u-Yeriyothu"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "futhi laba"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "abantwana bakhe"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "uYesheru"
+    },
+    {
+      "surface": "ושובב",
+      "gloss": "noShobabu"
+    },
+    {
+      "surface": "וארדון",
+      "gloss": "no-Ardoni"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:26.379956600Z",
+  "model": "glm-5.3"
+}

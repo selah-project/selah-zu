@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 41:30",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Futhi kuzovuka iminyaka yesikhombisa yokuzala emva kwayo, futhi konke ukugcwele kuzoxatshazwa endaweni yaseMitsrayim, futhi indlala izophelisa ⟨את⟩ umhlaba.",
+  "tokens": [
+    {
+      "surface": "וקמו",
+      "gloss": "kuzovuka"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "yesikhombisa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "yokuzala"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "emva kwayo"
+    },
+    {
+      "surface": "ונשכח",
+      "gloss": "futhi ... kuzoxatshazwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "ukugcwele"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yaseMitsrayim"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "futhi ... izophelisa"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "indlala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T01:20:21.832537910Z",
+  "model": "glm-5.3"
+}

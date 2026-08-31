@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi amadodana kaYavani: uElishahi, noTarshishahi, amaKithimi, namaRodanimi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "futhi amadodana ka-"
+    },
+    {
+      "surface": "יון",
+      "gloss": "ukaYavani"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "uElishahi"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "noTarshishahi"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "amaKithimi"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "namaRodanimi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:18:52.652951679Z",
+  "model": "glm-5.3"
+}

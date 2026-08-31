@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "uYahwe wathi kuSathana: Bheka, usezandleni zakho; kuphela ⟨את⟩ ukuphila kwakhe uwugcine.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "uSathana"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "usezandleni zakho"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuphila kwakhe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ukuphila kwakhe"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "uwugcine"
+    }
+  ],
+  "timestamp": "2026-08-31T07:08:13.004706182Z",
+  "model": "glm-5.3"
+}

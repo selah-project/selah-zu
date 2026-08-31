@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 90,
+  "translation": "Isicelo sikaMoshe, indoda ka-Elohim. u-Adonayi, indawo yokuhlala wena ubungiwona thina, ezizukulwaneni nangezizukulwane.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Isicelo"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "sikaMoshe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ka-Elohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "indawo yokuhlala"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ubungiwona"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "ezizukulwaneni"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "nagezizukulwane"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:58.497193944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 19:15",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "uYahwe wathi kuye: “Hamba, buyela ohambweni lwakhe osehlathini laseDamasiko; ufike, uthonge ⟨את⟩ uHaza-eli abe yinkosi phezu kweAramu.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Hamba"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "buyela"
+    },
+    {
+      "surface": "לדרכך",
+      "gloss": "ohambweni lwakho"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "osehlathini"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "laseDamasiko"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "ufike"
+    },
+    {
+      "surface": "ומשחת",
+      "gloss": "uthonge"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uHaza-eli"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "uHaza-eli"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "abe yinkosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "kweAramu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:07:02.655643399Z",
+  "model": "glm-5.3"
+}

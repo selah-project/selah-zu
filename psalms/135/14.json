@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 135:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 135,
+  "translation": "Ngokuba uYahwe uzakwenza isigwebo abantu bakhe, futhi ⟨ngezinceku zakhe⟩ uzakuzola umoya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "uzakwenza isigwebo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi ⟨nge⟩"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "izinceku zakhe"
+    },
+    {
+      "surface": "יתנחם",
+      "gloss": "uzakuzola umoya"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:49.051052474Z",
+  "model": "glm-5.3"
+}

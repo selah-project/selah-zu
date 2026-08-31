@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 106:21",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Bashiyela engcbazimula u-El umsindisi wabo, enza izinto ezinkulu eMitsrayim,",
+  "tokens": [
+    {
+      "surface": "שכחו",
+      "gloss": "bashiyela engcbazimula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "מושיעם",
+      "gloss": "umsindisi wabo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "enza"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "izinto ezinkulu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "eMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:43.369555204Z",
+  "model": "glm-5.3"
+}

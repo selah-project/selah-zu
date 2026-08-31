@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 18:4",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Futhi igama lomunye linguEliyezera, ngokuthi uElohim kayihlo wami wayengisiza, wangisindisa esikhaliBu sikaParo.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "lomunye"
+    },
+    {
+      "surface": "אליעזר",
+      "gloss": "linguEliyezera"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "kayihlo wami"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "wayengisiza"
+    },
+    {
+      "surface": "ויצלני",
+      "gloss": "wangisindisa"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "esikhaliBu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "sikaParo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:01.997668477Z",
+  "model": "glm-5.3"
+}

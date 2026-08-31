@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Awunamandla okuzibulala ⟨את⟩ i-Pesakh emnyango wenye yezinkosi zakho, uYahwe uElohim wakho aninikeza yona.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "unamandla"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "okuzibulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-Pesakh"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "i-Pesakh"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "emnyango wenye"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "yezinkosi zakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "aninikeza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "yona"
+    }
+  ],
+  "timestamp": "2026-08-31T02:37:19.409113871Z",
+  "model": "glm-5.3"
+}

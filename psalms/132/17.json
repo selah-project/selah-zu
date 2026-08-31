@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 132:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 132,
+  "translation": "Lapho-ke ngiyokumisa ukhula kwezinkuni zikaDavide; ngilungiselele izibani lomaka uMashiya wami.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Lapho-ke"
+    },
+    {
+      "surface": "אצמיח",
+      "gloss": "ngiyokumisa ukhula"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "izinkuni"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "zikaDavide"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "ngilungiselele"
+    },
+    {
+      "surface": "נר",
+      "gloss": "izibani"
+    },
+    {
+      "surface": "למשיחי",
+      "gloss": "lomaka uMashiya wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:24.329796981Z",
+  "model": "glm-5.3"
+}

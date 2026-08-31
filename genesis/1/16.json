@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 1:16",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi uElohim wadala ⟨את⟩ izibani ezimbili ezinkulu, ⟨את⟩ isibani esikhulu ukubusa usuku, futhi ⟨את⟩ isibani esincane ukubusa ubusuku, futhi ⟨את⟩ izinkanyezi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "futhi wadala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izibani ezimbili ezinkulu"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "המארת",
+      "gloss": "izibani"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "ezinkulu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibani esikhulu"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "isibani"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "esikhulu"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "ukubusa"
+    },
+    {
+      "surface": "היום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "isibani esincane"
+    },
+    {
+      "surface": "המאור",
+      "gloss": "isibani"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "esincane"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "ukubusa"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ubusuku"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "izinkanyezi"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "izinkanyezi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:01:48.661288814Z",
+  "model": "glm-5.3"
+}

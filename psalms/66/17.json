@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 66,
+  "translation": "Kuyena ngomlomo wami ngambiza, lobudumo busendlini yomunye phansi kolimi lwami.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ngomlomo wami"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ngambiza"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "lobudumo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phansi"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "kolimi lwami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:15.211504049Z",
+  "model": "glm-5.3"
+}

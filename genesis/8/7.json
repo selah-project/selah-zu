@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Wathuma ⟨את⟩ inkonkoni, yaphuma, yehamba- hamba iphenduka- phenduka kwaze kwaba yilapho amanzi omile beguduqela emhlabeni",
+  "tokens": [
+    {
+      "surface": "וַיְשַׁלַּ֖ח",
+      "gloss": "wathuma"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "inkonkoni"
+    },
+    {
+      "surface": "הָעֹרֵ֑ב",
+      "gloss": "inkonkoni"
+    },
+    {
+      "surface": "וַיֵּצֵ֤א",
+      "gloss": "yaphuma"
+    },
+    {
+      "surface": "יָצֹא֙",
+      "gloss": "ehamba- hamba"
+    },
+    {
+      "surface": "וָשׁ֔וֹב",
+      "gloss": "iphenduka"
+    },
+    {
+      "surface": "עַ֣ד",
+      "gloss": "kwaze kwaba"
+    },
+    {
+      "surface": "יְבֹ֥שֶׁת",
+      "gloss": "omile"
+    },
+    {
+      "surface": "הַמַּ֖יִם",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "מֵעַ֥ל",
+      "gloss": "beguduqela"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:03:56.900152692Z",
+  "model": "glm-5.3"
+}

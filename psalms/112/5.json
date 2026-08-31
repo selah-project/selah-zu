@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 112:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 112,
+  "translation": "Kuhle umuntu onezandla ezivulekile futhi odaysisa; uzophatha izindaba zakhe ngobulungiswa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Kuhle"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "onezandla ezivulekile"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "futhi odaysisa"
+    },
+    {
+      "surface": "יכלכל",
+      "gloss": "uzophatha"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "izindaba zakhe"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ngobulungiswa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:03.278541462Z",
+  "model": "glm-5.3"
+}

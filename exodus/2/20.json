@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 2:20",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Wase ethi kuantwana bakhe: nankabe yena? kungani niyekela indoda ⟨את⟩? Nimenyeni …… ukuthi adle …… ukudla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wase ethi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "nantwana bakhe"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "nankabe yena"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lokhu\/kanje"
+    },
+    {
+      "surface": "עזבתן",
+      "gloss": "niyekela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indoda"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "nimenyeni"
+    },
+    {
+      "surface": "לו",
+      "gloss": "…… kuye"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "adle"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ukudla"
+    }
+  ],
+  "timestamp": "2026-08-31T01:26:12.680250446Z",
+  "model": "glm-5.3"
+}

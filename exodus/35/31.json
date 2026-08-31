@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 35:31",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Wamzalisa ⟨את⟩ ngomoya ka-Elohim — ngehlakahlisombulu, ngeqonda, nolwazi, nangomsebenzi wonke.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "wamzalisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "yena (uBetsaleli)"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ngomoya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ka-Elohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ngehlakahlisombulu"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "ngeqonda"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "nolwazi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "nango-"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "msebenzi wonke"
+    }
+  ],
+  "timestamp": "2026-08-31T01:45:39.452545628Z",
+  "model": "glm-5.3"
+}

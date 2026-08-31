@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 24:1",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "U-Avraham wayesemdala, wangena ezinsukwini, futhi uYahwe wabusisa ⟨את⟩ u-Avraham ngakho konke.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "U-Avraham"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "wayesemdala"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ezinsukwini"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "futhi uYahwe"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "wabusisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngakho konke"
+    }
+  ],
+  "timestamp": "2026-08-31T01:11:57.197192211Z",
+  "model": "glm-5.3"
+}

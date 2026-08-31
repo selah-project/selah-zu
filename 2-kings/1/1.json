@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 1:1",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "I-Moabi yaphikisana ne-Israeli emva kokufa kuka-Ahavu.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "yaphikisana"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "i-Moabi"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ne-Israeli"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva"
+    },
+    {
+      "surface": "מות",
+      "gloss": "kokufa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "kuka-Ahavu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:03:44.474399094Z",
+  "model": "glm-5.3"
+}

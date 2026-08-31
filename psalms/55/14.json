@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 55,
+  "translation": "Kepha wena — umuntu ongangitho, umngane wami oqotho, nowaziwayo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Kepha wena"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "ongangitho"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "umngane wami oqotho"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "nowaziwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:04.087548739Z",
+  "model": "glm-5.3"
+}

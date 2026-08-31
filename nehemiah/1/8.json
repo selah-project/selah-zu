@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 1:8",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Khumbula ngesicelo igama oyalise ngalo uMoshe izinkonzi yakho, ukuze uthi: Nina niyokwephula isivumelwano, mina ngiyokuchithahanisa phakathi kwabezizwe.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Khumbula"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngesicelo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "igama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "oyalise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "izinkonzi yakho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukuze uthi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Nina"
+    },
+    {
+      "surface": "תמעלו",
+      "gloss": "niyokwephula isivumelwano"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אפיץ",
+      "gloss": "ngiyokuchithahanisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ni-"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "phakathi kwabezizwe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:35:55.790220632Z",
+  "model": "glm-5.3"
+}

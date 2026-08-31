@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 103:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 103,
+  "translation": "Ikhesedi likaYahwe livela ku-olamu laze kube yingu-olamu phezu kwabamesabayo, futhi ubulungiswa bakhe kube kubantwana babantwana",
+  "tokens": [
+    {
+      "surface": "וחסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ku-olamu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ingu-olamu"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "abamesabayo"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "ubulungiswa bakhe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kube kubantwana"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bantwana"
+    }
+  ],
+  "timestamp": "2026-08-31T10:56:41.178550566Z",
+  "model": "glm-5.3"
+}

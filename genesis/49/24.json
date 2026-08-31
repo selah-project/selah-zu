@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 49:24",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Ubethi bakhe bahlala buqinile, kanti izigaba zezandla zakhe zaqiniswa yizandla zoQhawe likaYakobi; kusuka khona lapho kunoMalusi, iLitye lika-Israel.",
+  "tokens": [
+    {
+      "surface": "ותשב",
+      "gloss": "bahlala"
+    },
+    {
+      "surface": "באיתן",
+      "gloss": "buqinile"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "ubethi bakhe"
+    },
+    {
+      "surface": "ויפזו",
+      "gloss": "zaqiniswa"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "izigaba"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "zezandla zakhe"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "yizandla za-"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "oQhawe"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "likaYakobi"
+    },
+    {
+      "surface": "משם",
+      "gloss": "kusuka khona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "uMalusi"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "iLitye"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "lika-Israel"
+    }
+  ],
+  "timestamp": "2026-08-31T01:25:35.275223453Z",
+  "model": "glm-5.3"
+}

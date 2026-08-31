@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 18:30",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "ULiya wathi kubantu bonke: Sondelani kimi. Bonke abantu basondela kuyena; walungisa ⟨את⟩ i-altare likaYahwe elabhidliziwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "uLiya"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ku-…-bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bantu bonke"
+    },
+    {
+      "surface": "גשו",
+      "gloss": "sondelani"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ויגשו",
+      "gloss": "basondela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "walungisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-altare likaYahwe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "ההרוס",
+      "gloss": "elabhidliziwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:00:43.767502321Z",
+  "model": "glm-5.3"
+}

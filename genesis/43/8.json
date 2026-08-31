@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 43:8",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "UYehudha wathi kuYisrayeli uyise: Mthumele lo mshwama nami ⟨את⟩, sivuke sihambe, sihle siphile singafi — thina nawe nantwana bethu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehudha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisrayeli"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "mthumele"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "lo mshwama"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nami",
+      "marks": "nami"
+    },
+    {
+      "surface": "ונקומה",
+      "gloss": "futhi sivuke"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "futhi sihambe"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "futhi siphile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi singafi"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "sifa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naye"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naye"
+    },
+    {
+      "surface": "טפנו",
+      "gloss": "antwana bethu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:23:20.171281241Z",
+  "model": "glm-5.3"
+}

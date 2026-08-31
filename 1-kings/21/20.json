@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 21:20",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "U-Ahab wathi ku-Eliyahu: Ingabe ungitholile, ndithiwe wena? Yena wathi: Ngikutholile; ngoba uzithengisele ukwenza okubi emehlweni kaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "u-Ahab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "u-Eliyahu"
+    },
+    {
+      "surface": "המצאתני",
+      "gloss": "ungitholile"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ndithiwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "Ngikutholile"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "התמכרך",
+      "gloss": "uzithengisele"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:01:10.365743446Z",
+  "model": "glm-5.3"
+}

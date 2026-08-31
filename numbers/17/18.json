@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 17:18",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "⟨את⟩ igama lika-Aharoni uyalibhala emkhontweni weLevi, ngokuba umkhonto oyedwa ungowelikhanda lendaba yokhokho babo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "igama lika-Aharoni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "lika-Aharoni"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "uyalibhala"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "mkhontweni"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "weLevi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "umkhonto"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "oyedwa"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "owelikhanda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "lendaba"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "yokhokho babo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:17:39.049811512Z",
+  "model": "glm-5.3"
+}

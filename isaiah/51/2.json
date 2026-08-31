@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 51:2",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 51,
+  "translation": "Bhekani ku-Avraham uyise wenu, naku-Sarahi onizelwa yena; ngokuba yedwa ngambiza, ngimitshele, ngimandinisa.",
+  "tokens": [
+    {
+      "surface": "הביטו",
+      "gloss": "Bhekani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "uyise wenu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naku-"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "u-Sarahi"
+    },
+    {
+      "surface": "תחוללכם",
+      "gloss": "onizelwa yena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yedwa"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "ngambiza"
+    },
+    {
+      "surface": "ואברכהו",
+      "gloss": "ngimitshele"
+    },
+    {
+      "surface": "וארבהו",
+      "gloss": "ngimandinisa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:35:17.461206207Z",
+  "model": "glm-5.3"
+}

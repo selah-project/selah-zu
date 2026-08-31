@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 21:3",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "UDavide wathi kubaseGibhoni: Ngingakwazi-ni ukunikweni, futhi ngabe-ni ukuwenza isikhanselo, ukuze nibusise ⟨את⟩ ifa likaYahwe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הגבענים",
+      "gloss": "baseGibhoni"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ngingakwazi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ukunikweni"
+    },
+    {
+      "surface": "ובמה",
+      "gloss": "ngabe-ni"
+    },
+    {
+      "surface": "אכפר",
+      "gloss": "isikhanselo"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "nibusise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifa likaYahwe"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:44:04.506002574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ngedlulisela amasebenzi ami; ngazakhela ⟨ngami⟩ izindlu, ngatifakela ⟨ngami⟩ imivande yewini.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "ngedlulisela"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "amasebenzi ami"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ngazakhela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngami"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "izindlu"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "ngatifakela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngami"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "imivande yewini"
+    }
+  ],
+  "timestamp": "2026-08-31T07:43:56.262635806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Bahleba bakhuluma ngobubi ngokwehlukunywa, kusukela phezulu bayakhuluma.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "bahleba"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "bakhuluma"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ngobubi"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "ngokwehlukunywa"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "kusukela phezulu"
+    },
+    {
+      "surface": "ידבברו",
+      "gloss": "bayakhuluma"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:03.992086918Z",
+  "model": "glm-5.3"
+}

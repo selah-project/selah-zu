@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 11:34",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Wayibiza ngegama le_ndawo_ leyo iKhibrothi-haTaava, ngoba lapho bambelela abantu ababe nomdhlaliso.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wayibiza ngegama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lendawo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leyo"
+    },
+    {
+      "surface": "קברות",
+      "gloss": "iKhibrothi (amathuna)"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "haTaava (lomdhlaliso)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "bambelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "המתאוים",
+      "gloss": "ababe nomdhlaliso"
+    }
+  ],
+  "timestamp": "2026-08-31T02:14:36.660745301Z",
+  "model": "glm-5.3"
+}

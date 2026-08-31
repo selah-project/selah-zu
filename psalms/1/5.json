@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 1:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngenxa yalokho ababi angeke basukume ekuweni kwentela, futhi aboni angeke basukume esigabheni sabalungileyo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ngenxa"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yalokho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "basukume"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ekuweni kwentela"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "futhi aboni"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "esigabheni"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "sabalungileyo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:15.887282256Z",
+  "model": "glm-5.3"
+}

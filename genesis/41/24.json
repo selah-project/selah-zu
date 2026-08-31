@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 41:24",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Amagxalaba amancaba adlile ⟨את⟩ amagxalaba ayisikhombisa amahle; ndayitshela abaphapa, kwase kungekho oshitshelayo.",
+  "tokens": [
+    {
+      "surface": "ותבלען",
+      "gloss": "adlile"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "amagxalaba"
+    },
+    {
+      "surface": "הדקת",
+      "gloss": "amancaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagxalaba ayisikhombisa amahle"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ayisikhombisa"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "amagxalaba"
+    },
+    {
+      "surface": "הטבות",
+      "gloss": "amahle"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ndayitshela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "abaphapa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kwase kungekho"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "oshitshelayo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    }
+  ],
+  "timestamp": "2026-08-31T01:21:06.629499367Z",
+  "model": "glm-5.3"
+}

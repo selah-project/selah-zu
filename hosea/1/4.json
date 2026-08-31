@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 1:4",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "UYahwe wathi kuye: Biza igama lakhe uYizreeli, ngokuba esikhathini esifushane ngizobhekisela ⟨את⟩ igazi leYizreeli endlwini kaYehu, futhi ngizomisa ubukhosi bendlu kaYisrayeli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "UYahwe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Biza"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "uYizreeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "esikhathini"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "esifushane"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "ngizobhekisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igazi leYizreeli"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "igazi la"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Yizreeli"
+    },
+    {
+      "surface": "על",
+      "gloss": "endlwini ka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu ya"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "kaYehu"
+    },
+    {
+      "surface": "והשבתי",
+      "gloss": "futhi ngizomisa"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ubukhosi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bendlu ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T05:27:18.726430841Z",
+  "model": "glm-5.3"
+}

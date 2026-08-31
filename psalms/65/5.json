@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 65:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 65,
+  "translation": "Mahle ⟦ngokweTanakh⟧ ⟨abakhethiweyo⟩: oyikhetha futhi amukela eduze kwakhe, uhlala ezihlangothini zakho; sakhulisiwe ngokuhle kwezindlu yakho, indlu engcwele yetemphele yakho.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Mahle"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "oyikhetha"
+    },
+    {
+      "surface": "ותקרב",
+      "gloss": "futhi amukela eduze kwakhe"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "uhlala"
+    },
+    {
+      "surface": "חצריך",
+      "gloss": "ezihlangothini zakho"
+    },
+    {
+      "surface": "נשבעה",
+      "gloss": "sakhulisiwe"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ngokuhle"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wezindlu yakho"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "engcwele"
+    },
+    {
+      "surface": "היכלך",
+      "gloss": "yetemphele yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:36.571647541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi ku-Aharoni kwazalwa ⟨את⟩ uNadabi, ⟨את⟩ no-Abihuyu, ⟨את⟩ u-Elazari, ⟨את⟩ no-Ithamari.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "Futhi kwazalwa"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ku-Aharoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uNadabi"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "uNadabi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "u-Abihuyu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Elazari"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "u-Elazari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "u-Ithamari"
+    }
+  ],
+  "timestamp": "2026-08-31T02:23:55.969979493Z",
+  "model": "glm-5.3"
+}

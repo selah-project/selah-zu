@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 132:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 132,
+  "translation": "Nabapristi bayo ngizobambatha ngensindiso; nabathembekile bayo bayokhwazela injabulo.",
+  "tokens": [
+    {
+      "surface": "וכהניה",
+      "gloss": "nabapristi bayo"
+    },
+    {
+      "surface": "אלביש",
+      "gloss": "ngizobambatha"
+    },
+    {
+      "surface": "ישע",
+      "gloss": "ngensindiso"
+    },
+    {
+      "surface": "וחסידיה",
+      "gloss": "nabathembekile bayo"
+    },
+    {
+      "surface": "רנן",
+      "gloss": "ukukhwazela"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bayokhwazela injabulo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:37.700897423Z",
+  "model": "glm-5.3"
+}

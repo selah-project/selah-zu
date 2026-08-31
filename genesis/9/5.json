@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 9:5",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Futhi ngempela igazi lenu, lezimpilo zenu, lingizophendula; esandleni sona isilo silodwa sendalo ngisophendula; futhi esandleni somuntu — esandleni somuntu, umfowabo — ngizophendula ⟨את⟩ umphefumulo womuntu.",
+  "tokens": [
+    {
+      "surface": "ואך",
+      "gloss": "futhi ngempela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igazi lenu"
+    },
+    {
+      "surface": "דמכם",
+      "gloss": "igazi lenu"
+    },
+    {
+      "surface": "לנפשתיכם",
+      "gloss": "lezimpilo zenu"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ngiphendula \/ ngibeka umbiko"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sona isilo silodwa"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "sendalo"
+    },
+    {
+      "surface": "אדרשנו",
+      "gloss": "ngisophendula"
+    },
+    {
+      "surface": "ומיד",
+      "gloss": "futhi esandleni"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "somuntu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "somuntu"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umfowabo"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ngizophendula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umphefumulo womuntu"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "umphefumulo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "womuntu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:03:13.766983457Z",
+  "model": "glm-5.3"
+}

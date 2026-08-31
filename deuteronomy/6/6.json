@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi amazwi lawa engiwumyala ngayo leli langa azoba phezu kwezinhliziyo zako.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "futhi azoba"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lawa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "wumyala"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngaleli langa"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "izinhliziyo zako"
+    }
+  ],
+  "timestamp": "2026-08-31T02:31:27.712456444Z",
+  "model": "glm-5.3"
+}

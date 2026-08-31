@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 21:3",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "nodadewabo intombazane engashadileyo, oseduzane naye, engangabi yendoda; ngiyona uyangavunyelwa ukuzenyingcolisa.",
+  "tokens": [
+    {
+      "surface": "ולאחתו",
+      "gloss": "nodadewabo"
+    },
+    {
+      "surface": "הבתולה",
+      "gloss": "intombazane engashadileyo"
+    },
+    {
+      "surface": "הקרובה",
+      "gloss": "oseduzane"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engangabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "eyayiba"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "yendoda"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ngiyona"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "uyavunyelwa ukuzenyingcolisa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:02:36.252013309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 27:21",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "UYitschak wathi kuYaaqob: Sondela ngesicelo, ngiyozwa-mlomo wena, ndodana yami — ngabe wena lo, ndodana yami uEsav, noma cha?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "uYitschak"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaaqob"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "Sondela"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngesicelo"
+    },
+    {
+      "surface": "ואמשך",
+      "gloss": "ngiyozwa-mlomo wena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ndodana yami"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ndodana yami"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uEsav"
+    },
+    {
+      "surface": "אם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    }
+  ],
+  "timestamp": "2026-08-31T01:14:23.189251773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "U-Avrahamu wasondela, wathi: Ngempela yini uzakutsakazisa ilungile ndawonye nongenalungelo?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "wasondela"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avrahamu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "האף",
+      "gloss": "Ngempela yini"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "uzakutsakazisa"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ilungile"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndawonye no-"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ongenalungelo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:55:06.686375714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 4:6",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Ingabe ukwesaba kwenu akusona isiqiniseko senwe? ithemba lenu, nokuphelele kwendlela zenu?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ingabe"
+    },
+    {
+      "surface": "יראתך",
+      "gloss": "ukwesaba kwenu"
+    },
+    {
+      "surface": "כסלתך",
+      "gloss": "isiqiniseko senwe"
+    },
+    {
+      "surface": "תקותך",
+      "gloss": "ithemba lenu"
+    },
+    {
+      "surface": "ותם",
+      "gloss": "nokuphelele"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "kwendlela zenu"
+    }
+  ],
+  "timestamp": "2026-08-31T07:06:40.172979590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 44:18",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Abazi, futhi abaqondi, ngoba iboyiwe ukubona kwamehlo abo, nokubeqa kwezinhliziyo zabo.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "a-"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bazi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi a-"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "baqondi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "טח",
+      "gloss": "iboyiwe"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "amehlo abo"
+    },
+    {
+      "surface": "מהשכיל",
+      "gloss": "ukubeqa"
+    },
+    {
+      "surface": "לבתם",
+      "gloss": "izinhliziyo zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:32:15.466222760Z",
+  "model": "glm-5.3"
+}

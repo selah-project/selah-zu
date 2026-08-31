@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 56:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 56,
+  "translation": "Ngenkohlakalo bayophuma — ngolaka lwakho, Elohimi, wehlise abantu.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ngenkohlakalo (nga-)"
+    },
+    {
+      "surface": "און",
+      "gloss": "inkohlakalo"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "bayophuma"
+    },
+    {
+      "surface": "למו",
+      "gloss": "bona"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ngolaka"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "wehlise"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohimi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:24.287044843Z",
+  "model": "glm-5.3"
+}

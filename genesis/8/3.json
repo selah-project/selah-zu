@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Amanzi abuyela emhlabeni ada udabuka, amanye acisha ekupheleni kwamashumi amahlanu namakhulu alikhulu lamalanga.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "abuyela"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "(emhlabeni)"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ada"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "udabuka"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "acisha"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanye"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "amashumi amahlanu"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "namakhulu alikhulu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "lamalanga"
+    }
+  ],
+  "timestamp": "2026-08-31T05:55:19.571986089Z",
+  "model": "glm-5.3"
+}

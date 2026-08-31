@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 46:7",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 46,
+  "translation": "Amadodana akhe namadodana amdodana akhe ⟨את⟩ naye, amadodakazi akhe namadodakana amdodana akhe, nanonke ⟨את⟩ inzalo yakhe wayingenisa ⟨את⟩ naye eMitsrayim.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "amadodana akhe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "namadodana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "amdodana akhe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "amadodakazi akhe"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "namadodakana"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "amdodana akhe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nanonke"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "inzalo yakhe"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "wayingenisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "eMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:24:35.705958201Z",
+  "model": "glm-5.3"
+}

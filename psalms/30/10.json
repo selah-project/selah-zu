@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 30:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Yini inzuzo egazini lami, lapho ngihhla ⟨ngiya⟩ emgodini? Ingabe uthuli luyakudumisa? Ingabe luyokutshela iqiniso lakho?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Yini"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "inzuzo"
+    },
+    {
+      "surface": "בדמי",
+      "gloss": "egazini lami"
+    },
+    {
+      "surface": "ברדתי",
+      "gloss": "lapho ngihhla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "emgodini"
+    },
+    {
+      "surface": "היודך",
+      "gloss": "luyakudumisa"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "uthuli"
+    },
+    {
+      "surface": "היגיד",
+      "gloss": "luyokutshela"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "iqiniso lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:14.485284671Z",
+  "model": "glm-5.3"
+}

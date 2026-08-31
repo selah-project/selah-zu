@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 104:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 104,
+  "translation": "Uyawasela umhlaba ezisekelweni zayo; ngeke idideze kuze kube phakade nakuze kube ninde.",
+  "tokens": [
+    {
+      "surface": "יסד",
+      "gloss": "uyawasela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezisekelweni"
+    },
+    {
+      "surface": "מכוניה",
+      "gloss": "zayo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "idideze"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nakuze kube ninde"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:51.816455062Z",
+  "model": "glm-5.3"
+}

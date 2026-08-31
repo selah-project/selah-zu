@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 26:5",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi okwanquma kuzofinyelela ⟨את⟩ isivuno sezithombo, futhi isivuno sezithombo sizofinyelela ⟨את⟩ isikhathi sokutshalwa, nidla inkombilo yenu ukuze mukhule, nihlale ngekhothemba emhlabeni wenu.",
+  "tokens": [
+    {
+      "surface": "והשיג",
+      "gloss": "kuzofinyelela"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kunina"
+    },
+    {
+      "surface": "דיש",
+      "gloss": "okwanquma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isivuno sezithombo"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "isivuno sezithombo"
+    },
+    {
+      "surface": "ובציר",
+      "gloss": "futhi isivuno sezithombo"
+    },
+    {
+      "surface": "ישיג",
+      "gloss": "sizofinyelela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isikhathi sokutshalwa"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "isikhathi sokutshalwa"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "nidla"
+    },
+    {
+      "surface": "לחמכם",
+      "gloss": "inkombilo yenu"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ukuze mukhule"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "nihlale"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ngekhothemba"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "emhlabeni wenu"
+    }
+  ],
+  "timestamp": "2026-08-31T05:58:16.400655363Z",
+  "model": "glm-5.3"
+}

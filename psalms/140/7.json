@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 140,
+  "translation": "Ngisho kuYahwe: u-El wami ⟨ungu⟩wena; yezisela indlebe, uYahwe, izwi lezicelo zami.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Ngisho"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "u-El wami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "yezisela indlebe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "lezicelo zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:56.636359058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 6:5",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi uzothanda ⟨את⟩ uYahwe uElohim wakho ngezinhliziyo zako zonke, futhi ngemphefumulo wako wonke, futhi ngamandla ako wonke.",
+  "tokens": [
+    {
+      "surface": "ואהבת",
+      "gloss": "futhi uzothanda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe uElohim wakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngezonke"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "izinhliziyo zako"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "futhi ngezonke"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "imphefumulo yako"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "futhi ngamandla"
+    },
+    {
+      "surface": "מאדך",
+      "gloss": "ako wonke"
+    }
+  ],
+  "timestamp": "2026-08-31T02:31:27.712148837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 59:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 59,
+  "translation": "Ngokuba izandla zenu zigenze ngegazi, neminwe yenu ngesoni; milomo yenu ikhulume amanga, ulimi lwenu lunyanyalisela ububi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "כפיכם",
+      "gloss": "izandla zenu (izibambo)"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "zigenze"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "ngeligazi"
+    },
+    {
+      "surface": "ואצבעותיכם",
+      "gloss": "neminwe yenu"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "ngesoni"
+    },
+    {
+      "surface": "שפתותיכם",
+      "gloss": "milomo yenu"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "ikhulume"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "amanga"
+    },
+    {
+      "surface": "לשונכם",
+      "gloss": "ulimi lwenu"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "lunyanyalisela"
+    }
+  ],
+  "timestamp": "2026-08-31T04:36:39.933228699Z",
+  "model": "glm-5.3"
+}

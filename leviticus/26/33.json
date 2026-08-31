@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 26:33",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi ⟨את⟩ nani ngizonisalaza ezizweni, futhi ngiyokhishela inkemba ngemva kwenu; izwe lenu lizoba yidota, futhi imidolobha yenu izoba yindlu enkulu yidota.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "⟨את⟩ nani"
+    },
+    {
+      "surface": "אזרה",
+      "gloss": "ngizonisalaza"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ezizweni"
+    },
+    {
+      "surface": "והריקתי",
+      "gloss": "futhi ngiyokhishela"
+    },
+    {
+      "surface": "אחריכם",
+      "gloss": "ngemva kwenu"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "inkemba"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "futhi izoba"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "izwe lenu"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "yidota"
+    },
+    {
+      "surface": "ועריכם",
+      "gloss": "futhi imidolobha yenu"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "izoba"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "yindlu enkulu yidota"
+    }
+  ],
+  "timestamp": "2026-08-31T02:06:26.978512807Z",
+  "model": "glm-5.3"
+}

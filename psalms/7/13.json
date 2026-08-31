@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Uma engaphenduki, uyoshuba umhlabiso wakhe; ubende umqala wakhe, awulungisele ⟨wona⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "engaphenduki"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "umhlabiso wakhe"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "uyoshuba"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "umqala wakhe"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ubende"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "awulungisele"
+    }
+  ],
+  "timestamp": "2026-08-31T05:46:01.877825345Z",
+  "model": "glm-5.3"
+}

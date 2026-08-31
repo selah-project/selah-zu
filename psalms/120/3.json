@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 120,
+  "translation": "Yini akunike yona, nani engeza kuwe, ulimi lokwenkohliso?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Yini"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "akunike"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "nani"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "engeza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ulimi"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "lokwenkohliso"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:56.980325284Z",
+  "model": "glm-5.3"
+}

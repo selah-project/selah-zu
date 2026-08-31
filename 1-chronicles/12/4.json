@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 12:4",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "NoYishmayahu owaseGibheona, indoda enamandla phakathi kwangamashumi amathathu, futhi engaphezu kwawo.",
+  "tokens": [
+    {
+      "surface": "וישמעיה",
+      "gloss": "noYishmayahu"
+    },
+    {
+      "surface": "הגבעוני",
+      "gloss": "owaseGibheona"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "indoda enamandla"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "phakathi kwangamashumi amathathu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi engaphezu"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "kwawo (amashumi amathathu)"
+    }
+  ],
+  "timestamp": "2026-08-31T09:01:42.928745937Z",
+  "model": "glm-5.3"
+}

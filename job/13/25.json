@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Ingabe iqabu elixoshiwe yiniwindla uzolibambelela ngolaka? Futhi ⟨את⟩ udaka olomile uzoluxosha?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "ingabe iqabu elixoshiwe yiniwindla"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "elixoshiwe yiniwindla"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "uzolibambelela ngolaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "udaka olomile"
+    },
+    {
+      "surface": "קש",
+      "gloss": "udaka olomile"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "olomile"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "uzoluxosha"
+    }
+  ],
+  "timestamp": "2026-08-31T07:14:04.598480022Z",
+  "model": "glm-5.3"
+}

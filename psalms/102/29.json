@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 102:29",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 102,
+  "translation": "Amadodana ezinceku zakho ayzohlala njalo, kanye nenzalo yazo phambi kwakho izohlale imile.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "ezinceku zakho"
+    },
+    {
+      "surface": "ישכונו",
+      "gloss": "ayzohlala njalo"
+    },
+    {
+      "surface": "וזרעם",
+      "gloss": "kanye nenzalo yazo"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "izohlale imile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:42.659524927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 12:4",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "futhi amasango esigodlo evaliwe, lapho izwi lengiya lithobeka, futhi ⟨abavuki⟩ bevuka ngezwi lonyeni, futhi onke amadodakazi okucula aqhwabela;",
+  "tokens": [
+    {
+      "surface": "וסגרו",
+      "gloss": "futhi evaliwe"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "amasango"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "esigodlo"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "lapho lithobeka"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "הטחנה",
+      "gloss": "lengiya"
+    },
+    {
+      "surface": "ויקום",
+      "gloss": "futhi bevuka"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ngezwi"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "lonyeni"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "futhi aqhwabela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "amadodakazi"
+    },
+    {
+      "surface": "השיר",
+      "gloss": "okucula"
+    }
+  ],
+  "timestamp": "2026-08-31T07:50:42.605489817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Ngokuba akayi ⟨ukuthatha⟩ lutho ekufeni kwakhe; inkazimulo yakhe ayiyi kuhlehla kuye.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "ekufeni kwakhe"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "⟨ukuthatha⟩ lutho"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "lutho (⟨konke⟩)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayiyi"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "kuhlehla"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "kuye (emumva)"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "inkazimulo yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:24.588914068Z",
+  "model": "glm-5.3"
+}

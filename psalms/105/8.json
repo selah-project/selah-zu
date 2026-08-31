@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 105:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "Ukhumbule `isivumelwano` sakhe kuze kube phakade; `lizwi` `aliqondisile` kuwukhuluma-izinkulungwane ezinkulungwane zezizukulwane;",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Ukhumbule"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "`isivumelwano` sakhe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "`lizwi`"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "`aliqondisile`"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "kuwukhuluma-izinkulungwane ezinkulungwane"
+    },
+    {
+      "surface": "דור",
+      "gloss": "zezizukulwane"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:30.995904860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 39:4",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Uyisefu wathola umusa emehlweni akhe, wamkhonzela; wamqashisa phezu kendlini yakhe, yaye konke anakhe wakubeka esandleni sakhe.",
+  "tokens": [
+    {
+      "surface": "וימצא",
+      "gloss": "wathola"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Uyisefu"
+    },
+    {
+      "surface": "חן",
+      "gloss": "umusa"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "emehlweni akhe"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "wamkhonzela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ umkhonza",
+      "marks": "wamkhonzela"
+    },
+    {
+      "surface": "ויפקדהו",
+      "gloss": "wamqashisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "kendlini yakhe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "יש",
+      "gloss": "anakhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "uye"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wakubeka"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "esandleni sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:20:44.665403007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 148,
+  "translation": "Makudumise igama likaYahwe, ngokuba yena wayalela, ⟨את⟩ kwadalwa.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "makudumise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "kwadalwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:22.122098324Z",
+  "model": "glm-5.3"
+}

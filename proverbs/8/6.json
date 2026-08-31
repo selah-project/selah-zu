@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 8:6",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Lalelani, ngokuthi ngikhuluma izinto ezivelele, nokuvulwa kwezindebe zami kungokuthembekile.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Lalelani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "izinto ezivelele"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ngikhuluma"
+    },
+    {
+      "surface": "ומפתח",
+      "gloss": "nokuvulwa"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "izindebe zami"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "kungokuthembekile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:50:17.122726155Z",
+  "model": "glm-5.3"
+}

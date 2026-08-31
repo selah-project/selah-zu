@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 35:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "NguDavide. Yibambe-ncwebane uYahwe ⟨את⟩ abayongqabalayo nami; zulazula ⟨את⟩ abazulazulayo nami.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "NguDavide"
+    },
+    {
+      "surface": "ריבה",
+      "gloss": "Yibambe-ncwebane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abayongqabalayo nami"
+    },
+    {
+      "surface": "יריבי",
+      "gloss": "abayongqabalayo nami"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "zulazula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abazulazulayo nami"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "abazulazulayo nami"
+    }
+  ],
+  "timestamp": "2026-08-31T10:30:58.058695290Z",
+  "model": "glm-5.3"
+}

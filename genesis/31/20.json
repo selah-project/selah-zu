@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "uYaakob waziba ⟨את⟩ inhliziyo kaLavani uMarami, ngokungamtsheli, ngokuba ebalekile.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "waziba"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inhliziyo kaLavani"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "kaLavani"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "uMarami"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngoku-"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "kungamtsheli"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "mtsheli"
+    },
+    {
+      "surface": "לו",
+      "gloss": "m-"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ebalekile"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T01:16:53.477555339Z",
+  "model": "glm-5.3"
+}

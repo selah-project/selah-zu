@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 50:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Amazulu azwakalisa ukulunga kwakhe, ngokuba uElohim unguhloli, ⟨nguye⟩. Sele.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "azwakalisa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "צדקו",
+      "gloss": "ukulunga kwakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "unguhloli"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nguye"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:41.210307944Z",
+  "model": "glm-5.3"
+}

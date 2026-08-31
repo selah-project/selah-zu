@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 64:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 64,
+  "translation": "Babangele ukwehla; ulimi lwabo lungele wona; bonke ababonayo bazobaleka.",
+  "tokens": [
+    {
+      "surface": "ויכשילוהו",
+      "gloss": "babangele ukwehla"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "lungele"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ulimi lwabo"
+    },
+    {
+      "surface": "יתנדדו",
+      "gloss": "bazobaleka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ababonayo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ngabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:10.131094526Z",
+  "model": "glm-5.3"
+}

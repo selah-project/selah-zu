@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Ngakho-ke abantu bakhe babuyela lapha, amanzi okhanji egcwele athwazwa kubona.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "babuyela"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "okhanji egcwele"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "athwazwa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kubona"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:39.518236231Z",
+  "model": "glm-5.3"
+}

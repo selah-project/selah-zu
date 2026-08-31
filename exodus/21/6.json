@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 21:6",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "inkosi yakhe izomsondeza kuElohim, futhi imsondeze esandleni sesango noma komsungo waso; inkosi yakhe izobhixa ⟨את⟩ indlebe yakhe ngesibani; futhi uzonkonza kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "והגישו",
+      "gloss": "izomsondeza"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "inkosi yakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "והגישו",
+      "gloss": "futhi imsondeze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "isango"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המזוזה",
+      "gloss": "umsungo waso isango"
+    },
+    {
+      "surface": "ורצע",
+      "gloss": "izobhixa"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "inkosi yakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlebe yakhe"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "indlebe yakhe"
+    },
+    {
+      "surface": "במרצע",
+      "gloss": "ngesibani"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "uzonkonza"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:47.915818396Z",
+  "model": "glm-5.3"
+}

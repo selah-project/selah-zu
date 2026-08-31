@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 18:2",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Wayeseya uEliyahu ukuzibonakalisa ku-Ahabu; futhi indlala yayinzima kakhulu eShomroni.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Wayeseya"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "uEliyahu"
+    },
+    {
+      "surface": "להראות",
+      "gloss": "ukuzibonakalisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "u-Ahabu"
+    },
+    {
+      "surface": "והרעב",
+      "gloss": "futhi indlala"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "yayinzima kakhulu"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "eShomroni"
+    }
+  ],
+  "timestamp": "2026-08-31T03:59:33.831439838Z",
+  "model": "glm-5.3"
+}

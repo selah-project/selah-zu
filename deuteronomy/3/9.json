@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "AmaTsidoni ayayibiza iHermoni uShiriyoni, amaEmori bayayibiza yena uSheniri.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "AmaTsidoni"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ayayibiza"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "iHermoni"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "uShiriyoni"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "amaEmori"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "bayayibiza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "uSheniri"
+    }
+  ],
+  "timestamp": "2026-08-31T06:00:20.087903906Z",
+  "model": "glm-5.3"
+}

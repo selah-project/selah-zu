@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "IZwi elifike kuYirmeyahu elivela kuYahwe ⟨את⟩, elithi:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "iZwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eli"
+    },
+    {
+      "surface": "היה",
+      "gloss": "elifike"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "uYirmeyahu"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "elivela kuYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "elithi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:51:51.865829053Z",
+  "model": "glm-5.3"
+}

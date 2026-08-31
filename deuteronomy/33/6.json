@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Maphile uReyuveni, angafi, futhi amadoda akhe abe yinombolo.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "Maphile"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "uReyuveni"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi anga-"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "fi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "futhi abe"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "amadoda akhe"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "yinombolo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:47:31.127836659Z",
+  "model": "glm-5.3"
+}

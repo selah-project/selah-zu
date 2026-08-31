@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 7:16",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi uma isetho sakhe singesifungo noma singesipho sokuzithandaya, ngosuku alethe ngalo ⟨את⟩ isetho lakhe siyoḓliwa; futhi kusasa kwayalo, futhi okuseleyo kulo kuyoḓliwa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "futhi uma"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "singesisifungo"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "singesipho sokuzithandaya"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "isetho"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "sakhe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "הקריבו",
+      "gloss": "alethe ngalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isetho lakhe"
+    },
+    {
+      "surface": "זבחו",
+      "gloss": "isetho lakhe"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "siyoḓliwa"
+    },
+    {
+      "surface": "וממחרת",
+      "gloss": "futhi kusasa kwayalo"
+    },
+    {
+      "surface": "והנותר",
+      "gloss": "futhi okuseleyo"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kulo"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kuyoḓliwa"
+    }
+  ],
+  "timestamp": "2026-08-31T05:58:32.921621917Z",
+  "model": "glm-5.3"
+}

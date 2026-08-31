@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 143:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 143,
+  "translation": "Ngikhumbule izinsuku zasemandulo; ngihlezi ngicabanga ngomsebenzi wakho wonke; ngomsebenzi wezandla zakho ngizophulela.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "ngikhumbule"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "zasemandulo"
+    },
+    {
+      "surface": "הגיתי",
+      "gloss": "ngihlezi ngicabanga"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "פעלך",
+      "gloss": "ngomsebenzi wakho"
+    },
+    {
+      "surface": "במעשה",
+      "gloss": "ngomsebenzi"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "wezandla zakho"
+    },
+    {
+      "surface": "אשוחח",
+      "gloss": "ngizophulela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:45.810160234Z",
+  "model": "glm-5.3"
+}

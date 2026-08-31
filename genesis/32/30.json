@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "U-Yaqovu wabuza, esithi:Khomba-ke igama lakho. Wathi:Kungani-ke lokhu ubuza igama lami? Wambulala ⟨את⟩ lapha.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "wabuza"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaqovu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "khomba"
+    },
+    {
+      "surface": "נא",
+      "gloss": "-ke"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "ubuza"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "igama lami"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wambulala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uYaqovu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapha"
+    }
+  ],
+  "timestamp": "2026-08-31T01:17:04.979463942Z",
+  "model": "glm-5.3"
+}

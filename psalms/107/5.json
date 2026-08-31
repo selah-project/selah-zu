@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Belangaba namabhulukwe, benomfutho, umphefumulo wabo uphelelwe amandla ngaphakathi kubona.",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "Belangaba namabhulukwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "benomfutho"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "umphefumulo wabo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ngaphakathi kubona"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "uphelelwe amandla"
+    }
+  ],
+  "timestamp": "2026-08-31T10:56:44.588856931Z",
+  "model": "glm-5.3"
+}

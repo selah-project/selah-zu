@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Noma ngikhala ngingcekeza, uvala ithandazo lami.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Noma"
+    },
+    {
+      "surface": "כי",
+      "gloss": "noma"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ngikhala"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "ngingcekeza"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "uvala"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ithandazo lami"
+    }
+  ],
+  "timestamp": "2026-08-31T07:40:47.642293389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 39:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Ngifokaziswa ngokuthula, ngingenalutho; ngazivumela thula ngisho ngokuhle; ubuhlungu bami baphazamisekile.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Ngifokaziswa"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ngokuthula, ngingenalutho"
+    },
+    {
+      "surface": "החשיתי",
+      "gloss": "ngazivumela thula"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "ngisho ngokuhle"
+    },
+    {
+      "surface": "וכאבי",
+      "gloss": "ubuhlungu bami"
+    },
+    {
+      "surface": "נעכר",
+      "gloss": "baphazamisekile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:12.772014601Z",
+  "model": "glm-5.3"
+}

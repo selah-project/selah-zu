@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 34:31",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Bathi bona: Kungafanele na ukuthi ihe lisebenzise ⟨את⟩ udadewethu njengesiphingi?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "Bathi"
+    },
+    {
+      "surface": "הכזונה",
+      "gloss": "njengesiphingi"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kungafanele na ukuthi ihe lisebenzise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "udadewethu"
+    },
+    {
+      "surface": "אחותנו",
+      "gloss": "udadewethu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:18:12.768905609Z",
+  "model": "glm-5.3"
+}

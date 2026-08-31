@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "uYahwe wayekhuluma noMoshe nangu-Aharon, ⟨ethi⟩,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wayekhuluma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nangu-"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ethi⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T01:57:56.176009078Z",
+  "model": "glm-5.3"
+}

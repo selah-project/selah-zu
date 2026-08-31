@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 1:6",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kusho uYahwe nje: Ngenxa yamaphuzu amathathu kaGaza, nangamane, angeke ngibuyisele isigwebo; ngokuba bahunjisile ukuhunjiswa okuphelele ukuzinikela kwoEdoma.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "nje"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kusho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "amathathu"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "amaphuzu"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "kaGaza"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi ngenxa"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "yamane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "ngibuyisele"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "הגלותם",
+      "gloss": "bahunjisile"
+    },
+    {
+      "surface": "גלות",
+      "gloss": "ukuhunjiswa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "okuphelele"
+    },
+    {
+      "surface": "להסגיר",
+      "gloss": "ukuzinikela"
+    },
+    {
+      "surface": "לאדום",
+      "gloss": "kwoEdoma"
+    }
+  ],
+  "timestamp": "2026-08-31T05:31:26.306901513Z",
+  "model": "glm-5.3"
+}

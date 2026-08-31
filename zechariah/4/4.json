@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Ndaziphendula ngathi kumlingisi-kaYahwe owayekhuluma nami: Yini lezi, ndoda yami inkosi?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "ndaziphendula"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ngathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "umlingisi-kaYahwe"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "owayekhuluma"
+    },
+    {
+      "surface": "בי",
+      "gloss": "nami"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "-"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ndoda yami inkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:42:25.907054241Z",
+  "model": "glm-5.3"
+}

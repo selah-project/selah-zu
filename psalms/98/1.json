@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 98:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 98,
+  "translation": "Ipsalimu.Culani kuYahwe iculo elisha, ngoba wenzile izimangaliso; insindiso yenzelwe yiniYadzakudla lakhe nengezandla elingcwele lakhe.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Ipsalimu"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Culani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "iculo"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "elisha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "izimangaliso"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenzile"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "insindiso yenzelwe yini"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "iNkundlakudla yakhe"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "nengezandla"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "elingcwele lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:33.298180889Z",
+  "model": "glm-5.3"
+}

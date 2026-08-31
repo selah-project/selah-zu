@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 96,
+  "translation": "Nikanani kuYahwe, zizalakazi zezizwe; nikanani kuYahwe inkazimulo namandla.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "nikanani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "zizalakazi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "zezizwe"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "nikanani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "inkazimulo"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "namandla"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:37.060339923Z",
+  "model": "glm-5.3"
+}

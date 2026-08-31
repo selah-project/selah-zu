@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 16:10",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Ndakwembesa ingubo yodweba, ndakunxathelisa izicathulo zesikhumba se-tahashi, ndakumatabaza ngesizi, ndakusonga ngesilika.",
+  "tokens": [
+    {
+      "surface": "ואלבישך",
+      "gloss": "ndakwembesa"
+    },
+    {
+      "surface": "רקמה",
+      "gloss": "ingubo yodweba"
+    },
+    {
+      "surface": "ואנעלך",
+      "gloss": "ndakunxathelisa izicathulo"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "zesikhumba se-tahashi"
+    },
+    {
+      "surface": "ואחבשך",
+      "gloss": "ndakumatabaza"
+    },
+    {
+      "surface": "בשש",
+      "gloss": "ngesizi"
+    },
+    {
+      "surface": "ואכסך",
+      "gloss": "ndakusonga"
+    },
+    {
+      "surface": "משי",
+      "gloss": "ngesilika"
+    }
+  ],
+  "timestamp": "2026-08-31T05:09:10.002467128Z",
+  "model": "glm-5.3"
+}

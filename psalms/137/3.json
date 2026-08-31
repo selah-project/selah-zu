@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 137:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 137,
+  "translation": "Ngokuba lapho abasikhaphekile basicela amazwi engoma, futhi abasihlabayo besicela injabulo, bebesithi: «Culani ngeyodwa yezingoma zikaZiyoni.»",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "שאלונו",
+      "gloss": "basicela"
+    },
+    {
+      "surface": "שובינו",
+      "gloss": "abasikhaphekile"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "engoma"
+    },
+    {
+      "surface": "ותוללינו",
+      "gloss": "abasihlabayo"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "injabulo"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "Culani"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "nge-…-ethu"
+    },
+    {
+      "surface": "משיר",
+      "gloss": "ngeyodwa yezingoma"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "zikaZiyoni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:33.461091140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 28:3",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "USemueli wayesefa, wonke uYisraeli wamlila, wamngcwaba eRama, edolobheni lakhe; uShawuli wasusa abane-mimoya ⟨את⟩ nabazi emhlabeni wonke.",
+  "tokens": [
+    {
+      "surface": "ושמואל",
+      "gloss": "uShemueli"
+    },
+    {
+      "surface": "מת",
+      "gloss": "wayesefa"
+    },
+    {
+      "surface": "ויספדו",
+      "gloss": "wamlilile"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisraeli"
+    },
+    {
+      "surface": "ויקברהו",
+      "gloss": "wamngcwaba"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "eRama"
+    },
+    {
+      "surface": "ובעירו",
+      "gloss": "edolobheni lakhe"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "wasusa"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "abane-mimoya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abazi"
+    },
+    {
+      "surface": "הידענים",
+      "gloss": "abazi"
+    },
+    {
+      "surface": "מהארץ",
+      "gloss": "emhlabeni wonke"
+    }
+  ],
+  "timestamp": "2026-08-31T03:30:09.051049430Z",
+  "model": "glm-5.3"
+}

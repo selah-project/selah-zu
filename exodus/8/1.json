@@ -1,0 +1,107 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 8:1",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "uYahwe wathi kuMoshe: Yisho kuAharon: Lolisha ⟨את⟩ isandla sakho ngesikhova sakho phezu kwemilambo, phezu kwezinkalo zamanzı́, naphezu kwamachibi, uvuse ⟨את⟩ izintuli phezu komhlaba weMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Yisho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "uAharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Lolisha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sakho"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "במטך",
+      "gloss": "ngesikhova sakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "הנהרת",
+      "gloss": "imilambo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "היארים",
+      "gloss": "izinkalo zamanzi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "naphezu kwa-"
+    },
+    {
+      "surface": "האגמים",
+      "gloss": "amachibi"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "uvuse"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izintuli"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "izintuli"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:58.614086425Z",
+  "model": "glm-5.3"
+}

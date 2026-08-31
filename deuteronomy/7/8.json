@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 7:8",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Kodwa ngenxa yokuthanda uYahwe nina, nangokugcina isifungo awayesifungile kubaba benu, uYahwe wanikhuphula ngesandla esinamandla futhi wanikhulula endlwini yeziguli, esandleni soParo inkosi yeMitsrayim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "מאהבת",
+      "gloss": "ngenxa yokuthanda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "ומשמרו",
+      "gloss": "futhi nangokugcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isifungo"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "isifungo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awayesifungile"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ukufunga"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "kubaba benu"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "wanikhuphula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "esinamandla"
+    },
+    {
+      "surface": "ויפדך",
+      "gloss": "futhi wakukhulula"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "yeziguli"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "soParo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T06:01:03.689956211Z",
+  "model": "glm-5.3"
+}

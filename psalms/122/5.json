@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 122,
+  "translation": "Ngokuba lapho zihlezi izihlalo zokulawula, izihlalo zendlu kaDavide.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "zihlezi"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "izihlalo"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "zokulawula"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "izihlalo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "zendlu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "kaDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:59.653383894Z",
+  "model": "glm-5.3"
+}

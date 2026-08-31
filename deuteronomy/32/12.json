@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "uYahwe wedwa wamholisa; futhi awukho u-el wangaphandle obhekene naye.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "wedwa"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "wamholisa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi awukho"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "obhekene naye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-el"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wangaphandle"
+    }
+  ],
+  "timestamp": "2026-08-31T02:46:44.508322822Z",
+  "model": "glm-5.3"
+}

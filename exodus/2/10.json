@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 2:10",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Umntwana wakhula, yamngenisa ku-indodakazi kaParo, waba ⟨yindodana⟩ yakhe. Yabiza igama lakhe uMoshe, yathi: Ngokuba ku-amanzi ngamukhokha.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "wakhula"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "umntwana"
+    },
+    {
+      "surface": "ותבאהו",
+      "gloss": "yamngenisa"
+    },
+    {
+      "surface": "לבת",
+      "gloss": "ku-indodakazi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yakhe"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "yindodana"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "yabiza"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "משיתהו",
+      "gloss": "ngamukhokha"
+    }
+  ],
+  "timestamp": "2026-08-31T01:26:06.713350208Z",
+  "model": "glm-5.3"
+}

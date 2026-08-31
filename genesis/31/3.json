@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 31:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "uYahwe wasesithi kuYaakob: Buyela ezweni lookhokho bakho nakwindawo yakho yokuzalwa, nginge ⟨nomi⟩ lawe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wasesithi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "Buyela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zweni"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "lookhokho bakho"
+    },
+    {
+      "surface": "ולמולדתך",
+      "gloss": "nakwindawo yakho yokuzalwa"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "nginge ⟨nomi⟩"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "lawe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:16:48.047664351Z",
+  "model": "glm-5.3"
+}

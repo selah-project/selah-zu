@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Amadayili ababi bangihlonzele, iThora yakho angayikhohli.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "amadayili"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "bangihlonzele"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "iThora yakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angayi-"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "khohli"
+    }
+  ],
+  "timestamp": "2026-08-31T11:40:54.202022590Z",
+  "model": "glm-5.3"
+}

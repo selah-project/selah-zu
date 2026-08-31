@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Lalelani ⟨את⟩ izwi elisho uYahwe kuni, ndlu kaYisraeli.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Lalelani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eli-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "elisho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaYisraeli"
+    }
+  ],
+  "timestamp": "2026-08-31T04:43:16.862129424Z",
+  "model": "glm-5.3"
+}

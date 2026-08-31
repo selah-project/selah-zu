@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 4:29",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Amadodana kaMmerari, ngezizwe zabo, ngezindlu zookhokho babo, uzobala ⟨את⟩ bona.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "amadodana ka"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Mmerari"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngezizwe zabo"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ngezindlu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "zookhokho babo"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "uzobala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    }
+  ],
+  "timestamp": "2026-08-31T02:09:31.408234661Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "wasikhupha ⟨את⟩ thina lapho, ukuze asifike ngaphakathi ⟨את⟩ thina ukusinika ⟨את⟩ izwe ajule kakhulu kuyihlo bethu.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩",
+      "marks": "thina (isiqondiso sokukhipha)"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "wasikhupha"
+    },
+    {
+      "surface": "משם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "asifike ngaphakathi"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "thina (isondelwa sokufika)"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ukusinika"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kithi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "la- (okujulwe)"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "ajule kakhulu"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "kuyihlo bethu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:31:43.986477748Z",
+  "model": "glm-5.3"
+}

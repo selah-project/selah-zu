@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 19:1",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Kwathi lapho ukumkani uChizkiyahu ezwa lokhu, wasica izimbathi zakhe, wazigeza ngesaka, wangena endlini kaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "lapho ezwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ukumkani"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "uChizkiyahu"
+    },
+    {
+      "surface": "ויקרע",
+      "gloss": "wasica"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izimbathi zakhe"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "izimbathi zakhe"
+    },
+    {
+      "surface": "ויתכס",
+      "gloss": "wazigeza"
+    },
+    {
+      "surface": "בשק",
+      "gloss": "ngesaka"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:12:36.550051947Z",
+  "model": "glm-5.3"
+}

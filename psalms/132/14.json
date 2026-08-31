@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 132,
+  "translation": "Le ⟨yi⟩ indawo yami yokuphumula, kuze kube phakade; lapha ngizohlala, ngokuba ngiyifisile.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Le"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "indawo yami yokuphumula"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עד",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "פה",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ngizohlala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "ngiyifisile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:37.700471216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Bambelela ngamahhashi, bamngcwaba ⟨את⟩ kanye nooyise zakhe edolobheni lakwaYehuda.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "bambelela"
+    },
+    {
+      "surface": "על",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "amahhashi"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "bamngcwaba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (u-Amatsiyahu)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanye no-"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "ooyise zakhe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "lakwaYehuda"
+    }
+  ],
+  "timestamp": "2026-08-31T10:38:55.135439258Z",
+  "model": "glm-5.3"
+}

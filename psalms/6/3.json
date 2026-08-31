@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 6:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ngenze umusa uYahwe, ngoba ngicinusile; ngiphilise uYahwe, ngoba amathambo ami aphazamisekile.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ngenze umosa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אמלל",
+      "gloss": "ngicinusile"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "רפאני",
+      "gloss": "ngiphilise"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "aphazamisekile"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "amathambo ami"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:45.572049182Z",
+  "model": "glm-5.3"
+}

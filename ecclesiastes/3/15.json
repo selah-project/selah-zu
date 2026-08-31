@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Lokhu okwenzikeyo kade yilo, nalokhu okuzakwenzeka kade kwenzekile; futhi uElohim uyofuna ⟨את⟩ okulandelwayo.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "okwenzikeyo"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "kade"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "nalokhu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "okuzakwenzeka"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "kade"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kwenzekile"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "futhi uElohim"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "uyofuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okulandelwayo"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "okulandelwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:44:45.677142428Z",
+  "model": "glm-5.3"
+}

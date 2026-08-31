@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 28:14",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Futhi ungaphambuki ezweni zonke izindleko engikuyaleza ⟨את⟩ nina namuhla, ngakwesokudla noma ngakwesokunxele, ukuhamba ngemva kwezinye izilo ukuze uzikhonzela.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "futhi ungabi"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "ophambukile"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ezweni zonke"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "izindleko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engikuyaleza"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ngiyaleza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ngakwesokudla"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "noma ngakwesokunxele"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuhamba"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ngemva kwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "izilo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ezinye"
+    },
+    {
+      "surface": "לעבדם",
+      "gloss": "ukuze uzikhonzela"
+    }
+  ],
+  "timestamp": "2026-08-31T02:43:42.895719686Z",
+  "model": "glm-5.3"
+}

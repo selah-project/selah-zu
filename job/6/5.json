@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ingabe idube lendle liyakhala ngaphezu kwetshani, noma inkabi ikhala ngaphezu kokudla kwayo?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "Ingabe liyakhala"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "idube lendle"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngaphezu kwa-"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "itshani"
+    },
+    {
+      "surface": "אם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "ikhala"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inkabi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu kwa-"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "kokudla kwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:10:53.168774330Z",
+  "model": "glm-5.3"
+}

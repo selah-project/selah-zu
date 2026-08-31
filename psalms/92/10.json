@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 92:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 92,
+  "translation": "Ngokuba, bheka, izitha zakho, uYahwe; ngokuba, bheka, izitha zakho ziyanyamalala; bonke abasebenzi bobubi bayahlakazeka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "izitha zakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "izitha zakho"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ziyanyamalala"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "bayahlakazeka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "abasebenzi"
+    },
+    {
+      "surface": "און",
+      "gloss": "bobubi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:39.730848485Z",
+  "model": "glm-5.3"
+}

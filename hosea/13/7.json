@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Ngaba ngabo njengengonyama ekhaliphayo, njengengwe endleleni engilindele khona.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "Ngaba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ngabo"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge-"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "ingonyama ekhaliphayo"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "njengengwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "indleleni"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "engilindele khona"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:18.629873260Z",
+  "model": "glm-5.3"
+}

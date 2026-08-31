@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Okwesishumi-nanye ku-Eliyashibi, okwesishumi-nambili kuYakimi.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "ku-Eliyashibi"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "⟨isihumi-nanye⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨-nanye⟩"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "kuYakimi"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "⟨isihumi-nambili⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨-nambili⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T08:28:33.070616985Z",
+  "model": "glm-5.3"
+}

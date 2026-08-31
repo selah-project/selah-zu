@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 10:16",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Wathi: Woza ⟨את⟩ nami ubone inkanuko yami ngokuYahwe. Bamsayida esiteshwini sakhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "woza"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ nami"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ubone"
+    },
+    {
+      "surface": "בקנאתי",
+      "gloss": "inkanuko yami"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ngokuYahwe"
+    },
+    {
+      "surface": "וירכבו",
+      "gloss": "bamsayida"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "esiteshwini sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:07:03.046378808Z",
+  "model": "glm-5.3"
+}

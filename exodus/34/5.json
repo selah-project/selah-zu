@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Futhi uYahwe wehla esifazwaneni samafu, wamiswa ⟨kanye⟩ naye lapho, wabizela ngegama likaYahwe.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "wehla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "esifazwaneni samafu"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "wamiswa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kanye naye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wabizela"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ngegama lika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:43:35.374099112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 84,
+  "translation": "Bayahamba bemandla beya emandleni; bayobonakala kuElohim eTsiyoni.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "Bayahamba"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "bemandla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "beya"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "emandleni"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "bayobonakala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "eTsiyoni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:18.579037737Z",
+  "model": "glm-5.3"
+}

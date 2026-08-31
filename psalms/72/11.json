@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 72:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 72,
+  "translation": "Futhi bazomkhalela konke amakhosi, wonke amazwe azomkhonza.",
+  "tokens": [
+    {
+      "surface": "וישתחוו",
+      "gloss": "Futhi bazomkhalela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨uye⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "amazwe"
+    },
+    {
+      "surface": "יעבדוהו",
+      "gloss": "azomkhonza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:38.429632462Z",
+  "model": "glm-5.3"
+}

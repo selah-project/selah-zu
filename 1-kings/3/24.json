@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Yase inkosi ithi: Lethani mina inkemba; bayiletha inkemba phambi kwenkosi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Yase ithi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Lethani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "inkemba"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bayiletha"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "inkemba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:47:05.754136831Z",
+  "model": "glm-5.3"
+}

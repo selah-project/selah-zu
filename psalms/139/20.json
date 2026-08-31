@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 139:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 139,
+  "translation": "Abasha bakhuluma ngawe ngenjongo eyimbi; izitha zakho ziphakamisa ⟨igama lakho⟩ ngeze.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "abasha"
+    },
+    {
+      "surface": "יאמרך",
+      "gloss": "bakhuluma ngawe"
+    },
+    {
+      "surface": "למזמה",
+      "gloss": "ngenjongo eyimbi"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ziphakamisa"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "ngeze"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "izitha zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:50.399511213Z",
+  "model": "glm-5.3"
+}

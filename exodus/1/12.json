@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 1:12",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi njengoba bengcwatshwa ⟨את⟩ yilokho beyanda futhi besakazeka; badinizwa ngenxa yabantwana bakwa-Israyeli.",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "futhi njengoba"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "bengcwatshwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yilokho (abantwana bakwa-Israyeli)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "yilokho"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "beyanda"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "futhi kanjalo"
+    },
+    {
+      "surface": "יפרץ",
+      "gloss": "besakazeka"
+    },
+    {
+      "surface": "ויקצו",
+      "gloss": "badinizwa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa yabantwana baka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana baka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T01:25:46.312278460Z",
+  "model": "glm-5.3"
+}

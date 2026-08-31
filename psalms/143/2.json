@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 143:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 143,
+  "translation": "Futhi ungangenisi esigwebini ⟨את⟩ isigqili sakho, ngokuba alinalo bulunga phambi kwakho noma yimuphi omunyakayo.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "futhi ungangi"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ungenisi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "esigwebini"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isigqili sakho"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "isigqili sakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alinalo"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "bulunga"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "noma yimuphi"
+    },
+    {
+      "surface": "חי",
+      "gloss": "omunyakayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:37.549785907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Futhi iso lakho alizondezi umusa: inefeshi ngokwefeshi, iso ngokweso, izinyo ngokwazinyo, isandla ngokwesandla, unyawo ngokwenyawo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "futhi...-cha"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "alizondezi umusa"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "iso lakho"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "inefeshi"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ngokwefeshi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "iso"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ngokweso"
+    },
+    {
+      "surface": "שן",
+      "gloss": "izinyo"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "ngokwazinyo"
+    },
+    {
+      "surface": "יד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngokwesandla"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "unyawo"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "ngokwenyawo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:38:54.744190943Z",
+  "model": "glm-5.3"
+}

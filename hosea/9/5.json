@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Niyezokwenini ngosuku olumisiwe, nangosuku lokuhlela lukaYahwe?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "niyezokwenini"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "niyezokwenini"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "olumisiwe"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "nangosuku"
+    },
+    {
+      "surface": "חג",
+      "gloss": "lokuhlela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lukaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:30:05.661113151Z",
+  "model": "glm-5.3"
+}

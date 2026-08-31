@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngingaba njengesikhumba sezivini esomile ngumsinga; izimiso zakho angeke ngazilibala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ngingaba"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "njengesikhumba sezivini"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "ngumsinga"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "izimiso zakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "(ngi)zilibala"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:23.628800937Z",
+  "model": "glm-5.3"
+}

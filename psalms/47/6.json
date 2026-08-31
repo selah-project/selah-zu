@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 47,
+  "translation": "uElohim unyukile ⟨ngomkhosi wezwi lakhe⟩, uYahwe ⟨ngesandla somsindo wesandla sokulala⟩ — uElohim unyukile ngokubizwa okukhulu, uYahwe ngesandla somsindo weshofa.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "unyukile"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ngokubizwa okukhulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ngesandla somsindo"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "weshofa"
+    }
+  ],
+  "timestamp": "2026-08-31T11:45:23.064792086Z",
+  "model": "glm-5.3"
+}

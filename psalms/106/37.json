@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 106:37",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Baleza abantwana babo, amadodana nabantwana besifazane, ⟨את⟩ oonabanye bangcwele ezinikelwa abantwana abafowethu—hhayi: bahlabela ⟨את⟩ amadodana abo nomabuyebo babo ezinkonzweni zeziShedim ezibizwa ngokuthi uShadayi akusoze—bahlabela ⟨את⟩ amadodana abo nododakazi babo kumashadim (amadimonaka).",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "bahlabela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadodana abo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "amadodana abo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ododakazi babo"
+    },
+    {
+      "surface": "בנותיהם",
+      "gloss": "ododakazi babo"
+    },
+    {
+      "surface": "לשדים",
+      "gloss": "kumashadim"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:37.826754191Z",
+  "model": "glm-5.3"
+}

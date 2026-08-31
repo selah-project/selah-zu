@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 50:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Kunalokho, kuwubi u-Elohim uthe: “Unalo ilutho ukukhuluma imithetho yami, noma ukuthatha isivumelwano sami emlonyeni wakho?",
+  "tokens": [
+    {
+      "surface": "ולרשע",
+      "gloss": "Kunalokho, kuwubi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "ukukhuluma"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "imithetho yami"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "ukuthatha"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "isivumelwano sami"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "e-"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "mlonyeni wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:38.078558383Z",
+  "model": "glm-5.3"
+}

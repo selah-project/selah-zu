@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 65:12",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 65,
+  "translation": "ngakho-ke ngizokubala nina engecelweni, nonke ennikhohliwe ubuthongo bugwinywe, ngoba ngabizela ningepheni, ngakhuluma ningezenwa, nenza okubi emehlweni ami, futhi nikhethe lokho engangikuthandi.",
+  "tokens": [
+    {
+      "surface": "ומניתי",
+      "gloss": "ngizokubala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "engecelweni"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "engecelweni"
+    },
+    {
+      "surface": "וכלכם",
+      "gloss": "nonke"
+    },
+    {
+      "surface": "לטבח",
+      "gloss": "ubuthongo bugwinywe"
+    },
+    {
+      "surface": "תכרעו",
+      "gloss": "ennikhohliwe"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ngabizela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ningepheni"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": ""
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ngakhuluma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ningezenwa"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": ""
+    },
+    {
+      "surface": "ותעשו",
+      "gloss": "nenza"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni ami"
+    },
+    {
+      "surface": "ובאשר",
+      "gloss": "futhi nikhethe lokho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engangikuthandi"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": ""
+    },
+    {
+      "surface": "בחרתם",
+      "gloss": "nikhethe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:37:56.320480954Z",
+  "model": "glm-5.3"
+}

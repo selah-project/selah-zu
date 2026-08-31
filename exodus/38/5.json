@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 38:5",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Wathela izindandatho ezine ezikwezikuphela ezine zenkani yensimbi, abayizindlu zezigodo.",
+  "tokens": [
+    {
+      "surface": "ויצק",
+      "gloss": "wathela"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ezine"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "izindandatho"
+    },
+    {
+      "surface": "בארבע",
+      "gloss": "ezikwezikuphela ezine"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "izikuphela"
+    },
+    {
+      "surface": "למכבר",
+      "gloss": "yenkani"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "yensimbi"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "abayizindlu"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "zezigodo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:45:30.679723277Z",
+  "model": "glm-5.3"
+}

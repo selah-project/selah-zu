@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Kuphela njengalokho kudliwa ⟨את⟩ inhlangu no-⟨את⟩ ihardi, njalo uyayidla; ongcolileyo nomsulwa ndawonye bayayidla.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kuphela"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengalokho"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kudliwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inhlangu"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "inhlangu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "ihardi"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "ihardi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "uyayidla"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ongcolileyo"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "nomsulwa"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "bayayidla"
+    }
+  ],
+  "timestamp": "2026-08-31T02:36:38.469572126Z",
+  "model": "glm-5.3"
+}

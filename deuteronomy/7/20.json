@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 7:20",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi ⟨את⟩ izinhlwa uzakuthumela uYahwe uElohim wakho phakathi kwawo, kwaze kwabulawa abaseleyo nabafihliwe kubuso bakho.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Futhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinhlwa"
+    },
+    {
+      "surface": "הצרעה",
+      "gloss": "izinhlwa"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "uzakuthumela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "בם",
+      "gloss": "phakathi kwawo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwaze"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "kwabulawa"
+    },
+    {
+      "surface": "הנשארים",
+      "gloss": "abaseleyo"
+    },
+    {
+      "surface": "והנסתרים",
+      "gloss": "nabafihliwe"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "kubuso bakho"
+    }
+  ],
+  "timestamp": "2026-08-31T02:34:20.806931368Z",
+  "model": "glm-5.3"
+}

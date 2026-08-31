@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 14:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Abazi yini bonke abasebenzisa ububi, abadla abantu bami njengoba badla inkwa, uYahwe abambizi?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "yini"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "abazi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "abasebenzisa"
+    },
+    {
+      "surface": "און",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "אכלי",
+      "gloss": "abadla"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bami"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "badla"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "inkwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a-"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "bambizi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:00.729102279Z",
+  "model": "glm-5.3"
+}

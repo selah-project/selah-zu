@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 21:19",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "bambatha uyise nenina, bamyisa ⟨את⟩ yena kubadala bedolobha lakhe, nasemsango wendawo yakhe;",
+  "tokens": [
+    {
+      "surface": "ותפשו",
+      "gloss": "bambatha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "nenina"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "bamyisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (indodana)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "badala"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "bedolobha lakhe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "na"
+    },
+    {
+      "surface": "שער",
+      "gloss": "emsango"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "wendawo yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:40:17.525251435Z",
+  "model": "glm-5.3"
+}

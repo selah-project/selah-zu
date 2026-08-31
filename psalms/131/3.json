@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 131,
+  "translation": "u-Israyeli, malinde kuYahwe, kusukela manje kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "malinde"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israyeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kusukela manje"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:42.491148635Z",
+  "model": "glm-5.3"
+}

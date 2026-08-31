@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 107:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Basho abaguquziwe nguYahwe, abaguquzwa yisandla somcindezeli;",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Basho"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "abaguquziwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abaguquzwa"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "abaguquzwa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "yisandla"
+    },
+    {
+      "surface": "צר",
+      "gloss": "somcindezeli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:26.907835422Z",
+  "model": "glm-5.3"
+}

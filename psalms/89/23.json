@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Isitha angeke simcinezeli, nomntwana wenkohlakalo angeke samphazamisi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "simcinezeli"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "isitha"
+    },
+    {
+      "surface": "בו",
+      "gloss": "sim-"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "nomntwana"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "wenkohlakalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "samphazamisi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:13.216201682Z",
+  "model": "glm-5.3"
+}

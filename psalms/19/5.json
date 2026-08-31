@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 19:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Kuyo yonke ihlabathi uphuma umugqa wawo, nasokuphela komhlaba amazwi abo; elelanga wabeka itenti kubo.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "kuyo yonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ihlabathi"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uphuma"
+    },
+    {
+      "surface": "קום",
+      "gloss": "umugqa"
+    },
+    {
+      "surface": "ובקצה",
+      "gloss": "nasokuphela"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "מליהם",
+      "gloss": "amazwi abo"
+    },
+    {
+      "surface": "לשמש",
+      "gloss": "elelanga"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "itenti"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kubo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:31.560445655Z",
+  "model": "glm-5.3"
+}

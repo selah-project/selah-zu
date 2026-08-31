@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi umphristi uyala, bakhupha ⟨את⟩ amatshe anosilonda, bawaphonsa ngaphandle kwedolobha, endaweni engcolile.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "futhi uyala"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umphristi"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "bakhupha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatshe"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "amatshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a-"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "nosilonda"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "isilonda"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "bawaphonsa"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "amatshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kwedolobha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ndaweni"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "engcolile"
+    }
+  ],
+  "timestamp": "2026-08-31T01:56:40.791226851Z",
+  "model": "glm-5.3"
+}

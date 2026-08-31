@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 3:23",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Endodeni eyindlela yakhe ifihliwe, futhi u-Eloah amvalele ngakhe?",
+  "tokens": [
+    {
+      "surface": "לגבר",
+      "gloss": "endodeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eyi-"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "indlela yakhe"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "ifihliwe"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "futhi avalele"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "u-Eloah"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "ngakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:56:20.132209375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Kwasekuthi ebusuku, wayesethatha ⟨את⟩ uLiya indodakazi yakhe, wayesemngenisa kuyena; yena wayesengena kuyena.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwasekuthi"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wayesethatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uLiya indodakazi yakhe"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "uLiya"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "indodakazi yakhe"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wayesemngenisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "kuyena"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "wayesengena"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "kuyena"
+    }
+  ],
+  "timestamp": "2026-08-31T01:14:19.585399500Z",
+  "model": "glm-5.3"
+}

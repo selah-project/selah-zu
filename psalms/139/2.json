@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 139:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 139,
+  "translation": "Wena uyazi ukuhlala kwami nokuvuka kwami; uyaqonda imicabango yami kude.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "uyazi"
+    },
+    {
+      "surface": "שבתי",
+      "gloss": "ukuhlala kwami"
+    },
+    {
+      "surface": "וקומי",
+      "gloss": "nokuvuka kwami"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "uyaqonda"
+    },
+    {
+      "surface": "לרעי",
+      "gloss": "imicabango yami"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "kude"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:42.189431985Z",
+  "model": "glm-5.3"
+}

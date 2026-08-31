@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 14:6",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Ngizaba njengomvuna ku-Israyeli; uzamilela njengesibomu, futhi uzakha izimpande zawo njenge-Lebanoni.",
+  "tokens": [
+    {
+      "surface": "אהיה",
+      "gloss": "Ngizaba"
+    },
+    {
+      "surface": "כטל",
+      "gloss": "njengomvuna"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ku-Israyeli"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "uzamilela"
+    },
+    {
+      "surface": "כשושנה",
+      "gloss": "njengesibomu"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "futhi uzakha"
+    },
+    {
+      "surface": "שרשיו",
+      "gloss": "izimpande zawo"
+    },
+    {
+      "surface": "כלבנון",
+      "gloss": "njenge-Lebanoni"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:18.156832301Z",
+  "model": "glm-5.3"
+}

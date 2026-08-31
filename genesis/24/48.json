@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 24:48",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Ngakhothama, ngabambelela kuYahwe, ngase ngibusisa ⟨את⟩ uYahwe, uElohim wenkosi yami u-Avraham, ongiholile endleleni eqinisile ukuthatha ⟨את⟩ indodana yesibongo senkosi yami endodaneni yakhe.",
+  "tokens": [
+    {
+      "surface": "ואקד",
+      "gloss": "ngakhothama"
+    },
+    {
+      "surface": "ואשתחוה",
+      "gloss": "ngabambelela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ואברך",
+      "gloss": "ngase ngibusisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "wenkosi yami"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "הנחני",
+      "gloss": "ongiholile"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "eqinisile"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ukuthatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indodana yesibongo senkosi yami"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "yesibongo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "senkosi yami"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "endodaneni yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:13:59.375574711Z",
+  "model": "glm-5.3"
+}

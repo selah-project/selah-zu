@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 3:10",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Inkosi kaSirayeli yathi: Ahha, ngoba uYahwe ubizile lezi inkosi ezintathu ukuzinikeza esandleni saseMowabhu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaSirayeli"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ahha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ubizile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "lezi inkosi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ukuzinikeza"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "esandleni saseMowabhu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "saseMowabhu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:07:29.070520338Z",
+  "model": "glm-5.3"
+}

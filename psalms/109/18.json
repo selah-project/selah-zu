@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 109:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Wazigqokisa isiqalekiso njengembadi yakhe, sangena njengamanzi ezithweni zakhe, najengafutha kumathambo akhe.",
+  "tokens": [
+    {
+      "surface": "וילבש",
+      "gloss": "wazigqokisa"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "isiqalekiso"
+    },
+    {
+      "surface": "כמדו",
+      "gloss": "njengembadi yakhe"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "sangena"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "njengamanzi"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "ezithweni zakhe"
+    },
+    {
+      "surface": "וכשמן",
+      "gloss": "najengafutha"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "kumathambo akhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:51.744802208Z",
+  "model": "glm-5.3"
+}

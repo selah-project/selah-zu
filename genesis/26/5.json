@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 26:5",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "ngokuba u-Avraham walalela izwi lami, wagcina isigwebo sami, imiyalo yami, izimiso zami nomthetho wami.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨njengoba⟩"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "walalela"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "izwi lami"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "wagcina"
+    },
+    {
+      "surface": "משמרתי",
+      "gloss": "isigwebo sami"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "imiyalo yami"
+    },
+    {
+      "surface": "חקותי",
+      "gloss": "izimiso zami"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "nomthetho wami"
+    }
+  ],
+  "timestamp": "2026-08-31T01:13:21.677552592Z",
+  "model": "glm-5.3"
+}

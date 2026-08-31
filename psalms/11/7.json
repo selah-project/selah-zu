@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 11:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Ngokuba uYahwe ulungile, uthanda ukulunga; abaqotho bazobona ubuso bakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ulungile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "ukulunga"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "uthanda"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "abaqotho"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "bazobona"
+    },
+    {
+      "surface": "פנימו",
+      "gloss": "ubuso bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:01.478368314Z",
+  "model": "glm-5.3"
+}

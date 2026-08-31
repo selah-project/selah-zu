@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 80,
+  "translation": "uElohim wamabutho, ubuyela ngesicelo sethu; buka ezulwini, ubone, uphawule le vini.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamabutho"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ubuyela"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngesicelo sethu"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "buka"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ubone"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "uphawule"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "le vini"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:49.243280378Z",
+  "model": "glm-5.3"
+}

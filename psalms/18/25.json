@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 18:25",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "uYahwe ubuyisela kimi njengokulunga kwami, njengokuhlanzeka kwezandla zami phambi kamehlo akhe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ubuyisela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "כצדקי",
+      "gloss": "njengokulunga kwami"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "njengokuhlanzeka"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "kwezandla zami"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "amehlo akhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:59.522618860Z",
+  "model": "glm-5.3"
+}

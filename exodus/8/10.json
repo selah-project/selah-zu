@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Zabezelwa zibe ngamabomu, amabomu-hwamabombo; umhlaba waba nolphundvu.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "zabezelwa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "amatulwa (izibombo)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "izibombo"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "izibombo"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "waba nolphundvu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:03.033453817Z",
+  "model": "glm-5.3"
+}

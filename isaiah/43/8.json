@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "Yakhishela abantu abampange amehlo azo, futhi abathulumende izindlebe zabo zinazo.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "Yakhishela"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "עור",
+      "gloss": "abampange"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "futhi amehlo"
+    },
+    {
+      "surface": "יש",
+      "gloss": "azo (ezinazo)"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "abathulumende"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "izindlebe"
+    },
+    {
+      "surface": "למו",
+      "gloss": "zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:29:26.637790921Z",
+  "model": "glm-5.3"
+}

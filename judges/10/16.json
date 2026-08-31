@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 10:16",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Bese esusa ⟨את⟩ amadabuka abangazelwe phakathi kwabo, bese eqhuba inkonzo kuYahwe; bese umphefumulo wakhe unciphile ngokwesizi kuka-Israeli.",
+  "tokens": [
+    {
+      "surface": "ויסירו",
+      "gloss": "bese esusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadabuka abangazelwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "amadabuka"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "abangazelwe"
+    },
+    {
+      "surface": "מקרבם",
+      "gloss": "phakathi kwabo"
+    },
+    {
+      "surface": "ויעבדו",
+      "gloss": "bese eqhuba inkonzo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "kuYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ותקצר",
+      "gloss": "bese unciphile"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "umphefumulo wakhe"
+    },
+    {
+      "surface": "בעמל",
+      "gloss": "ngokwesizi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kuka-Israeli"
+    }
+  ],
+  "timestamp": "2026-08-31T10:19:21.906632641Z",
+  "model": "glm-5.3"
+}

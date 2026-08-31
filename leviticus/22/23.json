@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 22:23",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Kodwa inkomo noma umsila elinonqenqema olude kakhudlwana noma oluncishisiwe — njengesipho esivolontiya ungasenza ⟨את⟩; kodwa njengesithembiso angeke samukelwa.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "kodwa inkomo"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "noma umsila"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "elinonqenqema olude kakhudlwana"
+    },
+    {
+      "surface": "וקלוט",
+      "gloss": "noma oluncishisiwe"
+    },
+    {
+      "surface": "נדבה",
+      "gloss": "njengesipho esivolontiya"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ungasenza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "njengesithembiso (izipho ezivolontiya noma izithembiso)"
+    },
+    {
+      "surface": "ולנדר",
+      "gloss": "kodwa njengesithembiso"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "samukelwa"
+    }
+  ],
+  "timestamp": "2026-08-31T10:14:50.436636812Z",
+  "model": "glm-5.3"
+}

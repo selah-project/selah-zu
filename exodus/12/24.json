@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Nizogcina ⟨את⟩ lomyalelo njengomthetho kuwe nakubantwana bakho kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "nizogcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lomyalelo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "lomyalelo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "njengomthetho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "nakubantwana bakho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T01:32:53.506054276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 1:11",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi iMitsrayim wazala ⟨את⟩ abantwana baLudi no ⟨את⟩ abantwana baAnamu no ⟨את⟩ abantwana baLehabu no ⟨את⟩ abantwana baNafthukhi.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "futhi iMitsrayim"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana baLudi"
+    },
+    {
+      "surface": "לודיים",
+      "gloss": "abantwana baLudi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no ⟨את⟩",
+      "marks": "abantwana baAnamu"
+    },
+    {
+      "surface": "ענמים",
+      "gloss": "abantwana baAnamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no ⟨את⟩",
+      "marks": "abantwana baLehabu"
+    },
+    {
+      "surface": "להבים",
+      "gloss": "abantwana baLehabu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no ⟨את⟩",
+      "marks": "abantwana baNafthukhi"
+    },
+    {
+      "surface": "נפתחים",
+      "gloss": "abantwana baNafthukhi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:18:55.213769761Z",
+  "model": "glm-5.3"
+}

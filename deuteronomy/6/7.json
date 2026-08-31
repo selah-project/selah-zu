@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 6:7",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi uzozifundisa kabanzi izingane zakho, futhi uzokhuluma ngazo lapho uhlezi endlwini yakho, futhi lapho uhamba endleleni, futhi lapho ulala, futhi lapho uvuka.",
+  "tokens": [
+    {
+      "surface": "ושננתם",
+      "gloss": "futhi uzozifundisa kabanzi"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "izingane zakho"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "futhi uzokhuluma"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ngazo"
+    },
+    {
+      "surface": "בשבתך",
+      "gloss": "lapho uhlezi"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "endlwini yakho"
+    },
+    {
+      "surface": "ובלכתך",
+      "gloss": "futhi lapho uhamba"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "ובשכבך",
+      "gloss": "futhi lapho ulala"
+    },
+    {
+      "surface": "ובקומך",
+      "gloss": "futhi lapho uvuka"
+    }
+  ],
+  "timestamp": "2026-08-31T02:31:27.712599002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 19:2",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Baphuma eRafidimi, bafika esidlengedlewaneni saseSinayi, balala phambili esidlengedlewaneni; uYisrayeli wahlala lapha phambili entabeni.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "Baphuma"
+    },
+    {
+      "surface": "מרפידים",
+      "gloss": "eRafidimi"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bafika"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "esidlengedlewaneni"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "saseSinayi"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "balala phambili"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "esidlengedlewaneni"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "phambili kwa-"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "entabeni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:34:52.732420381Z",
+  "model": "glm-5.3"
+}

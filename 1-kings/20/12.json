@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 20:12",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Kwathi lapho ezwa leli zenzo, yena ephuza, yena namakosi ezindlini zokuphansa, wathi kumkhonzi bakhe: Zibekani. Bayazibeka pheze kwesigodi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "lapho ezwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leli zenzo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "leli zenzo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ephuza"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "namakosi"
+    },
+    {
+      "surface": "בסכות",
+      "gloss": "ezindlini zokuphansa"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "umkhonzi bakhe"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Zibekani"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "Bayazibeka"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "isigodi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:00:08.745350777Z",
+  "model": "glm-5.3"
+}

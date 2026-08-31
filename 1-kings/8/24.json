@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 8:24",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "ongigcinile inkonzi yakho uDavide uyise ⟨את⟩ oko owakuthetha kuye; wathetha ngomlomo wakho, wazalisa ngesandla sakho, njengokwamanje namhlanje.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ongigcinile"
+    },
+    {
+      "surface": "שמרת",
+      "gloss": "ugcinile"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "inkonzi yakho"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oko owakuthetha kuye"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "owakuthetha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "wathetha"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "ngomlomo wakho"
+    },
+    {
+      "surface": "ובידך",
+      "gloss": "ngesandla sakho"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "wazalisa"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "njengokwamanje"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "namhlanje"
+    }
+  ],
+  "timestamp": "2026-08-31T03:52:55.738927786Z",
+  "model": "glm-5.3"
+}

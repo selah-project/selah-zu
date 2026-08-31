@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 3:8",
+  "book": "ruth",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Kwaba sekuphakathi kwabusuku, indoda yakhathazeka yajika; futhi bheka, umfazi elele emilenzeni yakhe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "sekuphakathi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "kwabusuku"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "yakhathazeka"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "וילפת",
+      "gloss": "yajika"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "elele"
+    },
+    {
+      "surface": "מרגלתיו",
+      "gloss": "emilenzeni yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:36:57.523235320Z",
+  "model": "glm-5.3"
+}

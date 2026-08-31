@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Nalokho akwenzile kini elangabini, kuze nafika lapha ⟨endaweni⟩.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "nalokho"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "akwenzile"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "elangabini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "nafika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lapha"
+    }
+  ],
+  "timestamp": "2026-08-31T02:35:18.092791308Z",
+  "model": "glm-5.3"
+}

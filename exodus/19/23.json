@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 19:23",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "uMoshe wasesethi kuYahwe: Abantu awakwazi ukunyuka intaba iSina, ngokuba wena uwusile kithi wathi: Misa umkhawulo ⟨את⟩ entabeni, uyihlambulule.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wasesethi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a-"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "akwazi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "ukunyuka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הר",
+      "gloss": "intaba"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "iSina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "העדתה",
+      "gloss": "uwusile"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "kithi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "Misa umkhawulo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "entabeni"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "וקדשתו",
+      "gloss": "uyihlambulule"
+    }
+  ],
+  "timestamp": "2026-08-31T01:35:00.740702832Z",
+  "model": "glm-5.3"
+}

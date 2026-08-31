@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 14:16",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Ngokuba inkosi izozwa ukuze ilondoloze inkosikazi yayo esebenza ⟨את⟩ esandleni somuntu olahlula ⟨את⟩ wona mina ⟨את⟩ nomntanami ndawonye, kusukela kulasizinda sikaElohim.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "izozwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "ukuze ilondoloze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosikazi yayo esebenza"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "inkosikazi yayo esebenza"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "omuntu"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "olahlula"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ wona mina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no",
+      "marks": "omntanami"
+    },
+    {
+      "surface": "בני",
+      "gloss": "omntanami"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "מנחלת",
+      "gloss": "kusukela kulasizinda"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "sikaElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T10:21:17.038054003Z",
+  "model": "glm-5.3"
+}

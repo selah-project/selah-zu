@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Ngingange ngangikholelwa ukubona ukuhle kukaYahwe emhlabeni wokuphila.",
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "ngingange"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "ngangikholelwa"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ukuhle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kukaYahwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wokuphila"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:48.256076681Z",
+  "model": "glm-5.3"
+}

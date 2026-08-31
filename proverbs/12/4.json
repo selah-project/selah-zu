@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 12:4",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Umfazi oqotho uyisikhombiso-sokukhanya somyeni wakhe, koduna oyenza ihlazo uyimvubela kumathambo akhe.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "oqotho"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "isikhombiso-sokukhanya"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "umyeni wakhe"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "koduna njengemvubela"
+    },
+    {
+      "surface": "בעצמותיו",
+      "gloss": "kumathambo akhe"
+    },
+    {
+      "surface": "מבישה",
+      "gloss": "oyenza ihlazo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:52:29.102036118Z",
+  "model": "glm-5.3"
+}

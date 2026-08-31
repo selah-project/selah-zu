@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "hosea 12:13",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi uYaakobi wabalela ensimini yase-Aramu, futhi iSirayeli wakhonzela umfazi, futhi ngenxa yomfazi wagcina ⟨izimvu⟩.",
+  "tokens": [
+    {
+      "surface": "ויברח",
+      "gloss": "futhi wabalela"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakobi"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ensimini"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "yase-Aramu"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "futhi wakhonzela"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iSirayeli"
+    },
+    {
+      "surface": "באשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "ובאשה",
+      "gloss": "ngenxa yomfazi"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "wagcina ⟨izimvu⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T05:27:55.391261705Z",
+  "model": "glm-5.3"
+}

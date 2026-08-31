@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 24:15",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Wathutha uYehoyakini eBhabhiloni, no⟨את⟩ unina inkosi, no⟨את⟩ oonokhwe inkosi, no⟨את⟩ izikhonza zawo, no⟨את⟩ amakhulu omhlaba — wadhula ngehliselo avela eYerushalayimi waya eBhabhiloni.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "wathutha ngehliselo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYehoyakini"
+    },
+    {
+      "surface": "יהויכין",
+      "gloss": "uYehoyakini"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "eBhabhiloni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "unina inkosi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "unina"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "oonokhwe inkosi"
+    },
+    {
+      "surface": "נשי",
+      "gloss": "oonokhwe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "izikhonza zawo"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "izikhonza zawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "amakhulu omhlaba"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "הוליך",
+      "gloss": "wadhula"
+    },
+    {
+      "surface": "גולה",
+      "gloss": "ngehliselo"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "avela eYerushalayimi"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "waya eBhabhiloni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:08:27.538505246Z",
+  "model": "glm-5.3"
+}

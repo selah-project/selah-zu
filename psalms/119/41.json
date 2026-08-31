@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 119:41",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Futhi mazingafika kimi ikhesedi yakho, uYahwe, insindiso yakho, njengokwenzakalayo ngokwezwi lakho.",
+  "tokens": [
+    {
+      "surface": "ויבאני",
+      "gloss": "mazingafika kimi"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "insindiso yakho"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "njengokwenzakalayo ngokwezwi lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:50.554305726Z",
+  "model": "glm-5.3"
+}

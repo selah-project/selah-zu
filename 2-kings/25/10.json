@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 25:10",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "No⟨את⟩ amadonga eYerushalayimi ajikeleze kwaphulwa wonke amabutho amaKashidi ari nomduna wabahlabezi",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "amadonga"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "amadonga"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ajikeleze"
+    },
+    {
+      "surface": "נתצו",
+      "gloss": "kwaphulwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "amabutho"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "amaKashidi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ari"
+    },
+    {
+      "surface": "רב",
+      "gloss": "umduna"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wabahlabezi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:15:23.120552671Z",
+  "model": "glm-5.3"
+}

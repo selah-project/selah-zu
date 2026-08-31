@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 60:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 60,
+  "translation": "iMowabi yindlebe yokugezela kwami; phezu kwe-Edomu ngizophonsa isicathulo sami; phezu kwami, iFulisitiya, khala ngenxa yami.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "iMowabi"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "indlebe yokugezela"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "kwami"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "kwe-Edomu"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ngizophonsa"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "isicathulo sami"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "iFulisitiya"
+    },
+    {
+      "surface": "התרעעי",
+      "gloss": "khala"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:06.705310022Z",
+  "model": "glm-5.3"
+}

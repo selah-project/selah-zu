@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 136:24",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 136,
+  "translation": "Wasikhulula ezithunikweni zethu: ngoba ikhesedi yakhe ihlezi kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "ויפרקנו",
+      "gloss": "wasikhulula"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "ezithunikweni zethu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:53.568748940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Indlela yamanga susa kimi, ngoralo wakho ngihlakaniphe.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yamanga"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "susa"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "ngoralo wakho"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ngihlakaniphe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:20.722629110Z",
+  "model": "glm-5.3"
+}

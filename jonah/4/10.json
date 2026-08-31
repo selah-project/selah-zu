@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 4:10",
+  "book": "jonah",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "uYahwe wathi: wena wawukhalela iqliqayoni, oyungeke ulime ngayo futhi oyungeke uyilimbaze — eyayiyindodana yobusuku elilodwa, futhi yafa ngebusuku elilodwa.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "חסת",
+      "gloss": "wawukhalela"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngeng"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "iqliqayoni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engayenza yona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hhayi"
+    },
+    {
+      "surface": "עמלת",
+      "gloss": "ulime"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi hhayi"
+    },
+    {
+      "surface": "גדלתו",
+      "gloss": "uyilimbaze"
+    },
+    {
+      "surface": "שבן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "yobusuku"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yayiyona"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "futhi indodana"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "yobusuku"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "yafa"
+    }
+  ],
+  "timestamp": "2026-08-31T05:35:52.186653893Z",
+  "model": "glm-5.3"
+}

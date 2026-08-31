@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 22:22",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Umoya uzodla ⟨zonke⟩ izabalazi zakho, nabathandi bakho bayahamba esigwinyweni; ngoba ngakho uzuzwa ungenwa isihlungu ngenxa yonke ububi bakho.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "רעיך",
+      "gloss": "izabalazi zakho"
+    },
+    {
+      "surface": "תרעה",
+      "gloss": "uzodla"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "ומאהביך",
+      "gloss": "nabathandi bakho"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "esigwinyweni"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bayahamba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "תבשי",
+      "gloss": "uzuzwa"
+    },
+    {
+      "surface": "ונכלמת",
+      "gloss": "ungenwa isihlungu"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ngenxa yonke"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "ububi bakho"
+    }
+  ],
+  "timestamp": "2026-08-31T04:46:55.699085680Z",
+  "model": "glm-5.3"
+}

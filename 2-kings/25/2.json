@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Idolobha lalingenisiwe esimenzweni wokucinga kwaze kwayo unyaka weyishumi nanye enkosi uTsidkiyahu.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "lalingenisiwe"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "Idolobha"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "esimenzweni wokucinga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwaze kwayo"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "weyi-"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "shumi nanye"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "unyaka"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "enkosi"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "uTsidkiyahu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:16:28.458760919Z",
+  "model": "glm-5.3"
+}

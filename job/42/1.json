@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "U-Iyobhi waphendula ⟨את⟩ uYahwe, wayesethi:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "waphendula"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "U-Iyobhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesethi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:32:10.123868645Z",
+  "model": "glm-5.3"
+}

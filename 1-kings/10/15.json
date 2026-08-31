@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 10:15",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ngaphandle kweyabahambibezindawo nentengiselwano yabarhwebi, nakho konke kokumakosi ohlanga oluhlukile nabaphathi bezwe.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "ngaphandle kwe-"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "yaba-"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "hambibezindawo"
+    },
+    {
+      "surface": "ומסחר",
+      "gloss": "nentengiselwano"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "yabarhwebi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nakho konke koku-"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "kokumakosi"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ohlanga oluhlukile"
+    },
+    {
+      "surface": "ופחות",
+      "gloss": "nabaphathi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bezwe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:52:38.838757335Z",
+  "model": "glm-5.3"
+}

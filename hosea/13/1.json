@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 13:1",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Ngenkathi u-Efrayima ekhuluma, kwakungwesaba; waphakama yena kwa-Israeli, kodwa wazeka ngeBaali, wafa.",
+  "tokens": [
+    {
+      "surface": "כדבר",
+      "gloss": "ngenkathi...ekhuluma"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "u-Efrayima"
+    },
+    {
+      "surface": "רתת",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "waphakama"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kwa-Israeli"
+    },
+    {
+      "surface": "ויאשם",
+      "gloss": "wazeka"
+    },
+    {
+      "surface": "בבעל",
+      "gloss": "ngeBaali"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wafa"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:35.359860477Z",
+  "model": "glm-5.3"
+}

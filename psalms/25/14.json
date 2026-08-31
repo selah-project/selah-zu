@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 25:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Umfihlo kaYahwe uwukho kulabo abamesabayo, nesezivumelwano sakhe ukuze abayazi.",
+  "tokens": [
+    {
+      "surface": "סוד",
+      "gloss": "umfihlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "kulabo abamesabayo"
+    },
+    {
+      "surface": "ובריתו",
+      "gloss": "nesezivumelwano sakhe"
+    },
+    {
+      "surface": "להודיעם",
+      "gloss": "ukuze abayazi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:59.161984143Z",
+  "model": "glm-5.3"
+}

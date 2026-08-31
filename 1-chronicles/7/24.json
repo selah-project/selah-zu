@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 7:24",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Indodakazi yakhe iSheyera; yakha ⟨את⟩ iBethi-Horoni elingezansi nephezulu, no-Ezeni iSheyera.",
+  "tokens": [
+    {
+      "surface": "ובתו",
+      "gloss": "futhi indodakazi yakhe"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "iSheyera"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "yakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iBethi-Horoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iBethi"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "iHoroni"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "elingezansi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iphezulu"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "nephezulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i-Ezeni iSheyera"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "i-Ezeni"
+    },
+    {
+      "surface": "שארה",
+      "gloss": "iSheyera"
+    }
+  ],
+  "timestamp": "2026-08-31T08:22:05.489259906Z",
+  "model": "glm-5.3"
+}

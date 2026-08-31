@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 46:1",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 46,
+  "translation": "UBhele waguquza amadolo, uNebho wakhothama; izithombe zabo zaba ezilwaneni nasenkunzini; lokho enanithwala kwenziwe umthwelo, umthwelo olala ubuntu mponde.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "waguquza amadolo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "UBhele"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "wakhothama"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "uNebho"
+    },
+    {
+      "surface": "היו",
+      "gloss": "zaba"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "izithombe zabo"
+    },
+    {
+      "surface": "לחיה",
+      "gloss": "ezilwaneni"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "nasenkunzini"
+    },
+    {
+      "surface": "נשאתיכם",
+      "gloss": "lokho enanithwala"
+    },
+    {
+      "surface": "עמוסות",
+      "gloss": "kwenziwe umthwelo"
+    },
+    {
+      "surface": "משא",
+      "gloss": "umthwelo"
+    },
+    {
+      "surface": "לעיפה",
+      "gloss": "olala ubuntu mponde"
+    }
+  ],
+  "timestamp": "2026-08-31T10:24:34.031792083Z",
+  "model": "glm-5.3"
+}

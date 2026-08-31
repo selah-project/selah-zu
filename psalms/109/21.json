@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 109:21",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Kodwa wena, uYahwe u-Adonayi, yenza ⟨את⟩ ngami ngenxa yegama lakho, ngoba ikhesedi yakho ithokozisa, ngisindise.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "kodwa wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yenza"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ngami"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa ye-"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "egama lakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ithokozisa"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ngisindise"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:18.974527725Z",
+  "model": "glm-5.3"
+}

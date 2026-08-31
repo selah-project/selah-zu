@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Kwasekugcineni kweminyaka engamashumi amabili uShelomoh eyayakhe ⟨את⟩ indlu kaYahwe no⟨את⟩ indlu yakhe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwasekugcineni"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amashumi amabili"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eyayakhe"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "wayakha"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu kaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "indlu yakhe"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "indlu yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:34:02.504154677Z",
+  "model": "glm-5.3"
+}

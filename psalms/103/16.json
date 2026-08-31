@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 103:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 103,
+  "translation": "Ngokuba umoya udla phezu kwaso kwasekungasilo; endaweni yaso kayisayilwazi njalo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "udla phezu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kwaso"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "kwasekungasilo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kayise"
+    },
+    {
+      "surface": "יכירנו",
+      "gloss": "yilwazi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "njala"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "endaweni yaso"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:10.306040562Z",
+  "model": "glm-5.3"
+}

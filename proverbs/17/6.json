@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Isikhumba sokudla samadala ngabantwana babantwana; futhi ukukhanya kobuhle babantwana ngabayise.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "isikhumba sokudla"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "samadala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana ba-"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "futhi ubuhle"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "babantwana"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ngabayise"
+    }
+  ],
+  "timestamp": "2026-08-31T06:54:46.534056554Z",
+  "model": "glm-5.3"
+}

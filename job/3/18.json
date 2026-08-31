@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 3:18",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ndawonye ababoshelwe bekhululekile; abezwa ⟨isizwi⟩ somcindezeli.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "אסירים",
+      "gloss": "ababoshelwe"
+    },
+    {
+      "surface": "שאננו",
+      "gloss": "bekhululekile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "abezwa"
+    },
+    {
+      "surface": "קול",
+      "gloss": "isizwi"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "somcindezeli"
+    }
+  ],
+  "timestamp": "2026-08-31T07:06:57.558735755Z",
+  "model": "glm-5.3"
+}

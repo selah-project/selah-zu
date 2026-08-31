@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 22:16",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Uma uyise enqaba ngokuphelele ukumnika kuyena, uzokhokha isiliva njengemali yokweshela yezintombi.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "enqaba"
+    },
+    {
+      "surface": "ימאן",
+      "gloss": "ngokuphelele"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "לתתה",
+      "gloss": "ukumnika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "uzokhokha"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "njengemali yokweshela"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "yezintombi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:43.311664317Z",
+  "model": "glm-5.3"
+}

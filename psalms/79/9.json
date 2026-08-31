@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 79:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 79,
+  "translation": "Sisize thina, uElohim wokwesula kwethu, ngenxa yenkazimulo yegama lakho; usisundle, ukhokhele ngezono zethu, ngenxa yegama lakho.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Sisize thina"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ישענו",
+      "gloss": "wokwesula kwethu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa ye"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨isizathu⟩"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "inkazimulo"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yegama lakho"
+    },
+    {
+      "surface": "והצילנו",
+      "gloss": "usisundle"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "ukhokhele"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge"
+    },
+    {
+      "surface": "חטאתינו",
+      "gloss": "zono zethu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa ye"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yegama lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:02.467782843Z",
+  "model": "glm-5.3"
+}

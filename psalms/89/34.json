@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 89:34",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Kodwa ikhesedi yami angiyikuyisusa kuyena, ngingaqambi-qamba eqinisweni lami.",
+  "tokens": [
+    {
+      "surface": "וחסדי",
+      "gloss": "kodwa ikhesedi yami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angiyiku-"
+    },
+    {
+      "surface": "אפיר",
+      "gloss": "-susa"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi angi-"
+    },
+    {
+      "surface": "אשקר",
+      "gloss": "-qambi-qamba"
+    },
+    {
+      "surface": "באמונתי",
+      "gloss": "eqinisweni lami"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:34.801979759Z",
+  "model": "glm-5.3"
+}

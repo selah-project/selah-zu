@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 29:10",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Ngokuba uYahwe wathela phezu kwenu umoya wokulala okujulile, waze wavala ⟨את⟩ amehlo enu — abaphrofethi; futhi izinhloko zenu ⟨את⟩ — ababonwayo, wazifihla.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "wathela"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "phezu kwenu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "wokulala okujulile"
+    },
+    {
+      "surface": "ויעצם",
+      "gloss": "waze wavala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amehlo enu"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "amehlo enu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaphrofethi"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "abaphrofethi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "izinhloko zenu"
+    },
+    {
+      "surface": "ראשיכם",
+      "gloss": "izinhloko zenu"
+    },
+    {
+      "surface": "החזים",
+      "gloss": "ababonwayo"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "wazifihla"
+    }
+  ],
+  "timestamp": "2026-08-31T04:25:58.542534447Z",
+  "model": "glm-5.3"
+}

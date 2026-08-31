@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 102,
+  "translation": "Ngokuba izinsuku zami ziphelile njengomsi, futhi amathambo ami ashiswe njengesibani somlilo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ziphelile"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "njengomsi"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "izinsuku zami"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "futhi amathambo ami"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge"
+    },
+    {
+      "surface": "קד",
+      "gloss": "sibani somlilo"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "ashiswe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:04.606675723Z",
+  "model": "glm-5.3"
+}

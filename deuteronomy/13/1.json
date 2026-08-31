@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 13:1",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "⟨את⟩ Yonke indaba engiyiyalelayo ⟨את⟩ kini, ⟨את⟩ yona niyoyigcina ukuyenza; ungangezi okwalutho phezu kwayo, futhi ungayinciphisa okwalutho kuwo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke indaba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "indaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngi"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "yiyalelayo"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ kini"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona",
+      "marks": "yonke indaba"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "niyoyigcina"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukuyenza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "ungangezi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwayo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi cha"
+    },
+    {
+      "surface": "תגרע",
+      "gloss": "ungayinciphisa"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuwo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:38:10.138234292Z",
+  "model": "glm-5.3"
+}

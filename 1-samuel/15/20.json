@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 15:20",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Futhi uSawuli wathi kuSamuweli: Cha, ngizwile ilizwi likaYahwe, futhi ngahamba ngendlela uYahwe engithumela ngayo, futhi ngilethe ⟨את⟩ u-Agagi, inkosi yase-Amaleki, futhi ⟨את⟩ i-Amaleki ngayibamba ngokucekela phansi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "futhi wathi"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uSawuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uSamuweli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okuthi"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ngizwile"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "ואלך",
+      "gloss": "futhi ngahamba"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ngendlela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engithumela ngayo"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "engithumela ngayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ואביא",
+      "gloss": "futhi ngilethe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Agagi"
+    },
+    {
+      "surface": "אגג",
+      "gloss": "u-Agagi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "yase-Amaleki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "i-Amaleki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "i-Amaleki"
+    },
+    {
+      "surface": "החרמתי",
+      "gloss": "ngayibamba ngokucekela phansi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:22:43.653818597Z",
+  "model": "glm-5.3"
+}

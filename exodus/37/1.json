@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 37:1",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "U-Betsalel wenza ⟨את⟩ i-arkhi ngemithi yeshitimu: amakhubhi amabili nengxenye ubude bayo, ikhubha nengxenye ububanzi bayo, nokhubha nengxenye ukuphakama kwayo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "U-Betsalel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-arkhi"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "i-arkhi"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ngemithi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "yeshitimu"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "amakhubhi amabili"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "nengxenye"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ubude bayo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ikhubha"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "nengxenye"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ububanzi bayo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "nokhubha"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "nengxenye"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ukuphakama kwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:52:55.401213298Z",
+  "model": "glm-5.3"
+}

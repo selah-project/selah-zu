@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 3:3",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Wathi kimi: Ndodana womuntu, yidlisa isisu sakho, ugcwalise yonke izitho zangaphakathi zakho ⟨את⟩ le migqibo engikunika yona. Ngiyayidla, yaba yilanga ejulile njengowesi emlomeni wami.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ndodana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "womuntu"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "isu sakho"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "yidlisa"
+    },
+    {
+      "surface": "ומעיך",
+      "gloss": "izitho zangaphakathi zakho"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ugcwalise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le migqibo"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "le migqibo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nikayo"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "Ngiyayidla"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "emlomeni wami"
+    },
+    {
+      "surface": "כדבש",
+      "gloss": "njengowesi"
+    },
+    {
+      "surface": "למתוק",
+      "gloss": "ejulile"
+    }
+  ],
+  "timestamp": "2026-08-31T05:05:45.041326693Z",
+  "model": "glm-5.3"
+}

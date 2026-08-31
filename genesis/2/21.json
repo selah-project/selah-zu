@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 2:21",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "U-Yahwe uElohim wadonsisa ukulala okujulile phezu kwendoda, yalala; wathatha eyodwa emacaleni ayo, wavalile inyama ⟨endaweni yayo⟩.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "wadonsisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "ukulala okujulile"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "endoda"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "yalala"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "eyodwa"
+    },
+    {
+      "surface": "מצלעתיו",
+      "gloss": "emacaleni ayo"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "wavalile"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "תחתנה",
+      "gloss": "endaweni yayo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:13.209934719Z",
+  "model": "glm-5.3"
+}

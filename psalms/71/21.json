@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 71:21",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 71,
+  "translation": "Uzongeza ubukhulu bami, ubuyele ungigcwalise unduduza.",
+  "tokens": [
+    {
+      "surface": "תרב",
+      "gloss": "Uzongeza"
+    },
+    {
+      "surface": "גדלתי",
+      "gloss": "ubukhulu bami"
+    },
+    {
+      "surface": "ותסב",
+      "gloss": "ubuyele ungigcwalise"
+    },
+    {
+      "surface": "תנחמני",
+      "gloss": "unduduza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:45.178142188Z",
+  "model": "glm-5.3"
+}

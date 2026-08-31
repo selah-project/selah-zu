@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Bathi, «U-El uyayazi yini? kukhona yini ulwazi ku-Elyoni?»",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "uyayazi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "kukhona yini"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "ku-Elyoni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:39.518399603Z",
+  "model": "glm-5.3"
+}

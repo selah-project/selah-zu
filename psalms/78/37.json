@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 78:37",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Futhi intliziyo yazo ayengaqinile kuye, futhi azithembekanga esivumelwaneni sakhe.",
+  "tokens": [
+    {
+      "surface": "ולבם",
+      "gloss": "futhi intliziyo yazo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "iqinile"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi cha"
+    },
+    {
+      "surface": "נאמנו",
+      "gloss": "azithembekanga"
+    },
+    {
+      "surface": "בבריתו",
+      "gloss": "esivumelwaneni sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:51.553332572Z",
+  "model": "glm-5.3"
+}

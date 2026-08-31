@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Ngingagabhela yini lo u-El engamgabhelanga? Ngingalahla yini isitha lo uYahwe engamlahlanga isitha?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Nginga- yini"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "-gabhela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engakwa-"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "gabhela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "Nginga- yini"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "-lahla isitha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engakwa-"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "lahla isitha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:22:42.528600029Z",
+  "model": "glm-5.3"
+}

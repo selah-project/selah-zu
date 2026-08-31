@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Ngingaba yisihawu kubona; bayabona, bayanyakazisa izinhloko zabo.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "kungaba"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ngingaba"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "isihawu"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "bayabona"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "bayanyakazisa"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "izinhloko zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:12.383678763Z",
+  "model": "glm-5.3"
+}

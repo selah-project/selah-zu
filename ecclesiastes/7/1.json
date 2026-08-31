@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Kuhle igama kunojwala oluhle, njalo losuku lokufa kunesuku lokuzalwa kwakhe.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Kuhle"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "kunojwala"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "oluhle"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "njalo losuku"
+    },
+    {
+      "surface": "המות",
+      "gloss": "lokufa"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "kunesuku"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "lokuzalwa kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:46:37.128657767Z",
+  "model": "glm-5.3"
+}

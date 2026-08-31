@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Ngokuba uYahwe uzizwa abampofu, futhi ⟨את⟩ ababoshwa bakhe akawabazehlisanga.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uzizwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ku⟩"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "abampofu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ababoshwa bakhe"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "ababoshwa bakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akawanga"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "abazehlisanga"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:18.892099954Z",
+  "model": "glm-5.3"
+}

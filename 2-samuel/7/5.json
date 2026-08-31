@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 7:5",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Hamba uthi kumkhonzi wami, kuDavide: Njalo uthe uYahwe, Ingabe wena uzongakhela yini indlu yokuhlala ngiyo?",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Hamba"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "umkhonzi wami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Njalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Ingabe wena"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "uzongakhela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "לשבתי",
+      "gloss": "yokuhlala ngiyo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:35:54.897542466Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Zamazani phambi kwakhe, wonke umhlaba; ⟨futhi⟩ ihlezi liqinile, lingagungci.",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "Zamazani"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨futhi⟩"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ihlezi liqinile"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ihlezi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "linga-"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "-gungci"
+    }
+  ],
+  "timestamp": "2026-08-31T08:25:20.185028398Z",
+  "model": "glm-5.3"
+}

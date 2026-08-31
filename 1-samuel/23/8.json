@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 23:8",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "UShawuli wabizela ⟨את⟩ wonke abantu empi, ukwehla eQeila, ukuzungelela uDawidi nomadoda akhe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wabizela"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke abantu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "empi"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ukwehla"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "eQeila"
+    },
+    {
+      "surface": "לצור",
+      "gloss": "ukuzungelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no-"
+    },
+    {
+      "surface": "אנשיו",
+      "gloss": "madoda akhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:03:39.726854304Z",
+  "model": "glm-5.3"
+}

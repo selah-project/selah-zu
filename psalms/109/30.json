@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 109:30",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Ngizobonga uYahwe ngokweqile ngomlomo wami, phakathi kwabaningi ngizomdumisa.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "Ngizobonga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ngokweqile"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ngomlomo wami"
+    },
+    {
+      "surface": "ובתוך",
+      "gloss": "phakathi kwa"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baningi"
+    },
+    {
+      "surface": "אהללנו",
+      "gloss": "ngizomdumisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:15.367917046Z",
+  "model": "glm-5.3"
+}

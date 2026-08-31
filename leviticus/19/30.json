@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "⟨את⟩ Amasabatha ami niwagcina, futhi isikhungo sami esingcwele niyasaba; nginguYahwe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Amasabatha ami"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "Amasabatha ami"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "niwagcina"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "futhi isikhungo sami esingcwele"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "niyasaba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:58:47.768817410Z",
+  "model": "glm-5.3"
+}

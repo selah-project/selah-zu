@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 30:17",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "La yimithetho uYahwe wayala ngayo ⟨את⟩ uMoshe, phakathi kwendoda nomyeni wayo, phakathi kuyise nendodakazi yayo, eselushweni lwayo, endlini kayise.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "La"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "yimithetho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "לאשתו",
+      "gloss": "nomyeni wayo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "אב",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "לבתו",
+      "gloss": "nendodakazi yayo"
+    },
+    {
+      "surface": "בנעריה",
+      "gloss": "eselushweni lwayo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "kayise"
+    }
+  ],
+  "timestamp": "2026-08-31T02:25:17.818248713Z",
+  "model": "glm-5.3"
+}

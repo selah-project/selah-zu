@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Futhi phezu kwabutho ohlangothi lwendodana zikaGadi kwakungu-Elyasafi indodana kaDeyueli.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "phezu kwa"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "abutho"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ohlangothi lwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "indodana zika"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Gadi"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "u-Elyasafi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Deyueli"
+    }
+  ],
+  "timestamp": "2026-08-31T02:13:00.852821244Z",
+  "model": "glm-5.3"
+}

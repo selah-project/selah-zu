@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 109:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Ngesizathu sokuthi akakhumbulanga ukwenza ikhesedi, waze walandela umuntu ophisile kanzima nomswe, nonhlitiyo yaphukile, ukuyibulala.",
+  "tokens": [
+    {
+      "surface": "יען",
+      "gloss": "ngesizathu sokuthi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "khumbulanga"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "waze walandela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ophisile kanzima"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "nomswe"
+    },
+    {
+      "surface": "ונכאה",
+      "gloss": "no"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "nhlitiyo yaphukile"
+    },
+    {
+      "surface": "למותת",
+      "gloss": "ukuyibulala"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:16.948956598Z",
+  "model": "glm-5.3"
+}

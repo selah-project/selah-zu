@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 49:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Ngoba inefeshi yakhe iyibusisa ekuphileni kwakhe, futhi bayokudumisa, ngokuba uzenza okuhle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "inefeshi yakhe"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "ekuphileni kwakhe"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "iyibusisa"
+    },
+    {
+      "surface": "ויודך",
+      "gloss": "futhi bayokudumisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "uzenza okuhle"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwena"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:24.589093854Z",
+  "model": "glm-5.3"
+}

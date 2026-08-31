@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Njalo-ke yenza umuntu ohlambulza ⟨את⟩ umngane wake, athi: ngingedwa ngidlala ngingakahlelanga na?",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "njalo-ke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ohlambulza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umngane wake"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "umngane wake"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "athi"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "na?"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "ngidlala"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngingedwa"
+    }
+  ],
+  "timestamp": "2026-08-31T08:56:02.427030576Z",
+  "model": "glm-5.3"
+}

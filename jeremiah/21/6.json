@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 21:6",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi ngiyobetha ⟨את⟩ abahlali baledolobha leli, no-⟨את⟩ ntu now-⟨את⟩ ntilo: ngeqhaligi enkulu bayofa.",
+  "tokens": [
+    {
+      "surface": "והכיתי",
+      "gloss": "ngiyobetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahlali baledolobha leli"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "baledolobha"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "leli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umuntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "inhlwane"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "inhlwane"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ngeqhaligi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "enkulu"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "bayofa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:47:34.097971377Z",
+  "model": "glm-5.3"
+}

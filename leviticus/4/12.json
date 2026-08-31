@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 4:12",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi uzokhipha ⟨את⟩ inkunzi yonke, aze ayise ngaphandle kwenkolwa, endaweni ehlanzekile, lapho kuthulwa khona umlotha; futhi uzoshisa ⟨את⟩ yona ngezinkuni emlilweni; lapho kuthulwa khona umlotha lapho izoshiswa.",
+  "tokens": [
+    {
+      "surface": "והוציא",
+      "gloss": "Futhi uzokhipha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkunzi yonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aze ayise"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwenkolwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ndaweni"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ehlanzekile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "lapho kuthulwa khona"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "umlotha"
+    },
+    {
+      "surface": "ושרף",
+      "gloss": "futhi uzoshisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona",
+      "marks": "inkunzi yonke"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "zinkuni"
+    },
+    {
+      "surface": "באש",
+      "gloss": "emlilweni"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "lapho kuthulwa khona"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "umlotha"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "izoshiswa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:52:00.947822369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 35:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Njengomngane, njengomfowethu kimi, ngangingihamba; njengomzudzo kanina, ngidabukile ngangingizithobile.",
+  "tokens": [
+    {
+      "surface": "כרע",
+      "gloss": "njengomngane"
+    },
+    {
+      "surface": "כאח",
+      "gloss": "njengomfowethu"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "התהלכתי",
+      "gloss": "ngangingihamba"
+    },
+    {
+      "surface": "כאבל",
+      "gloss": "njengomzudzo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kanina"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "ngidabukile"
+    },
+    {
+      "surface": "שחותי",
+      "gloss": "ngingingizithobile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:19.963297254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 35:1",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "UMoshe waqoqa ⟨את⟩ wonke umhlangano wabantwana bakwa-Israyeli, wathi kubo: Lezi yizwi uYahwe ayalelayo ukuzi⟨enze⟩.",
+  "tokens": [
+    {
+      "surface": "ויקהל",
+      "gloss": "waqoqa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke umhlangano wabantwana bakwa-Israyeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "umhlangano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayalelayo"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ayalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ukuzi⟨enza⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izwi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:44:49.569526533Z",
+  "model": "glm-5.3"
+}

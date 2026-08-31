@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 41:15",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "uParo wathi kuYosefu: Ngiphuphe iphupho, alinampendulo ⟨את⟩ yalo; mina ngizwile ngawe ukuthi: uzwa iphupho uyalihumusha ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "iphupho"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "ngiphuphe"
+    },
+    {
+      "surface": "ופתר",
+      "gloss": "nokuhlaziya"
+    },
+    {
+      "surface": "אין",
+      "gloss": "alikho"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yalo (iphupho)"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ngizwile"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ngawe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "uzwa"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "iphupho"
+    },
+    {
+      "surface": "לפתר",
+      "gloss": "ukulihumusha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "iphupho"
+    }
+  ],
+  "timestamp": "2026-08-31T01:21:17.358929886Z",
+  "model": "glm-5.3"
+}

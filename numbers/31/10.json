@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 31:10",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "No⟨את⟩ wonke amadolobha abo, ezindaweni zokuhlala kwawo, no⟨את⟩ wonke izigodlo zabo — bashisa ngomlilo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "wonke amadolobha abo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "עריהם",
+      "gloss": "amadolobha abo"
+    },
+    {
+      "surface": "במושבתם",
+      "gloss": "ezindaweni zokuhlala kwawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "wonke izigodlo zabo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "izigodlo zabo"
+    },
+    {
+      "surface": "שרפו",
+      "gloss": "bashisa"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ngomlilo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:26:29.211051263Z",
+  "model": "glm-5.3"
+}

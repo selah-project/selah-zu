@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 89:42",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Bamile yonke abadabula umgwaqo; waba yisihawu kubakhelene naye.",
+  "tokens": [
+    {
+      "surface": "שסהו",
+      "gloss": "bamile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "abadabula"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "umgwaqo"
+    },
+    {
+      "surface": "היה",
+      "gloss": "waba"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "yisihawu"
+    },
+    {
+      "surface": "לשכניו",
+      "gloss": "kubakhelene naye"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:46.289067276Z",
+  "model": "glm-5.3"
+}

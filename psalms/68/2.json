@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 68:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 68,
+  "translation": "Mavuke uElohim, zabalaze izitha zakhe; futhi baleke abazondiyo bakhe ebusweni bakhe.",
+  "tokens": [
+    {
+      "surface": "יקום",
+      "gloss": "Mavuke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יפוצו",
+      "gloss": "zabalaze"
+    },
+    {
+      "surface": "אויביו",
+      "gloss": "izitha zakhe"
+    },
+    {
+      "surface": "וינוסו",
+      "gloss": "futhi baleke"
+    },
+    {
+      "surface": "משנאיו",
+      "gloss": "abazondiyo bakhe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ebusweni bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:41.397697933Z",
+  "model": "glm-5.3"
+}

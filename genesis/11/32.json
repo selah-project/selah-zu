@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Iminsuku kaTherahi yaba yiminyaka engamakhulu amabili nanhlanu; uTherahi wafa eHarani.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "yaba yi-"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iminsuku ka-"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "uTherahi"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "nanhlanu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "engamakhulu amabili"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wafa"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "uTherahi"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "eHarani"
+    }
+  ],
+  "timestamp": "2026-08-31T01:06:11.001280370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 37:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Thula kuYahwe futhi linda kuye; ungavuthweka ngenxa yalowo ephumelela endleleni yakhe, ngenxa yomuntu enza izindlela ezimbi.",
+  "tokens": [
+    {
+      "surface": "דום",
+      "gloss": "Thula"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "והתחולל",
+      "gloss": "futhi linda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "vuthweka"
+    },
+    {
+      "surface": "במצליח",
+      "gloss": "ngenxa yalowo ephumelela"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "endleleni yakhe"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ngenxa yomuntu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "enza"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "izindlela ezimbi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:40.516472321Z",
+  "model": "glm-5.3"
+}

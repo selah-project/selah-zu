@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 49:25",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Kuvela ku-El kayihlo, noyakusiza, no⟨את⟩ uShadayi, noyakukusisa: ngokusisa kwezulu okuphezulu, ngokusisa kothwomi olulalela ngaphansi, ngokusisa webele nombelethisi.",
+  "tokens": [
+    {
+      "surface": "מאל",
+      "gloss": "kuvela ku-El"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "kayihlo"
+    },
+    {
+      "surface": "ויעזרך",
+      "gloss": "noyakusiza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uShadayi"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "uShadayi"
+    },
+    {
+      "surface": "ויברכך",
+      "gloss": "noyakukusisa"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "ngokusisa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "kwezulu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "okuphezulu"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "ngokusisa"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "kothwomi"
+    },
+    {
+      "surface": "רבצת",
+      "gloss": "olulalela"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "ngokusisa"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "webele"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "nombelethisi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:26:09.543829563Z",
+  "model": "glm-5.3"
+}

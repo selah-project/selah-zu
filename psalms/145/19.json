@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 145:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 145,
+  "translation": "Ithando labo abamesabayō bazakwenzela, ⟨את⟩ ukukhala kwabo uzakulalela, abasindise.",
+  "tokens": [
+    {
+      "surface": "רצון",
+      "gloss": "Ithando labo"
+    },
+    {
+      "surface": "יראיו",
+      "gloss": "abamesabayō"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uzakwenzela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ukukhala kwabo"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "ukukhala kwabo"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "uzakulalela"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "abasindise"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:27.035538145Z",
+  "model": "glm-5.3"
+}

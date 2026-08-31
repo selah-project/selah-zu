@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 23:39",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "ngakho-ke bheka, mina ngizonisusa ngokuphelele, futhi ngonishiya nina no-⟨את⟩ umuzi engangiwunika nina nasekuyobabeni, phambi kwesibongo sami.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bheka mina"
+    },
+    {
+      "surface": "ונשיתי",
+      "gloss": "futhi ngonisusa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "נשא"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ngokuphelele"
+    },
+    {
+      "surface": "ונטשתי",
+      "gloss": "futhi ngonishiya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "ואת"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "umuzi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "umuzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engangi-"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "wunika"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "ולאבותיכם",
+      "gloss": "nasekuyobabeni"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kwesibongo sami"
+    }
+  ],
+  "timestamp": "2026-08-31T04:49:07.805285593Z",
+  "model": "glm-5.3"
+}

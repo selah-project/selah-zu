@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ukugoda kwabohlwayo kubamhlupha, yena engakwazi ukuhlola indlela eya edolobheni.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "ukugoda"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "kwabohlwayo"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "kubamhlupha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engakwazi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuhlola"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eya"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "edolobheni"
+    }
+  ],
+  "timestamp": "2026-08-31T07:49:38.639344798Z",
+  "model": "glm-5.3"
+}

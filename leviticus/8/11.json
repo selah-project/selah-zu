@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 8:11",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Wayechitha komlayo phezu kwe-altari izikhathi eziyisikhombisa, wagcoba ⟨את⟩ i-altari ⟨את⟩ nazo zonke izinto zayo, ⟨את⟩ nesitsha sokugezela ⟨את⟩ nesisekelo sawo, ukuze azingekele.",
+  "tokens": [
+    {
+      "surface": "ויז",
+      "gloss": "wayechitha"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "komlayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kwe-altari"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "eziyisikhombisa"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "izikhathi"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "wagcoba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-altari"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "i-altari"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "zonke izinto zayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "izinto zayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isitsha sokugezela"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "isitsha sokugezela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isisekelo sawo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "isisekelo sawo"
+    },
+    {
+      "surface": "לקדשם",
+      "gloss": "ukuze azingekele"
+    }
+  ],
+  "timestamp": "2026-08-31T01:53:40.580608435Z",
+  "model": "glm-5.3"
+}

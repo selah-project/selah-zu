@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 27:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Yizwa, uYahwe, izwi lami, ngiyabiza; ungihawukele, ungidabele.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Yizwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "izwi lami"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ngiyabiza"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "ungihawukele"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "ungidabele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:22.296620721Z",
+  "model": "glm-5.3"
+}

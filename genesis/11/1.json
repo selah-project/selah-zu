@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Yaba yilokhu umhlaba wonke unolimi ⟨olulodwa⟩, namazwi ayeyisawodwa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yaba yilokhu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ulimi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "olulodwa"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "namazwi"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "ayeyisawodwa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:56.992654646Z",
+  "model": "glm-5.3"
+}

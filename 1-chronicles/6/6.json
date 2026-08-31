@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 6:6",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "uYoashi indodana yakhe, u-Iddo indodana yakhe, uZerachi indodana yakhe, uYeathe rayi indodana yakhe.",
+  "tokens": [
+    {
+      "surface": "יואח",
+      "gloss": "uYoashi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "u-Iddo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "uZerachi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "יאתרי",
+      "gloss": "uYeathe rayi"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:20:07.146246493Z",
+  "model": "glm-5.3"
+}

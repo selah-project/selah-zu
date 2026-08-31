@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 54:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 54,
+  "translation": "uElohim, uzwe isicelo sami; misa indlebe {ku}mazwéngomlomo wami.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uzwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "isicelo sami"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "misa indlebe"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "kuamazwé"
+    },
+    {
+      "surface": "פי",
+      "gloss": "omlomo wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:16.312447403Z",
+  "model": "glm-5.3"
+}

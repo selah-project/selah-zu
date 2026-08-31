@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 132:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 132,
+  "translation": "Abapristi bakho mabagqoke ubulungiswa, nendabuko abathembekileyo bakho mabadansaze injabulo.",
+  "tokens": [
+    {
+      "surface": "כהניך",
+      "gloss": "abapristi bakho"
+    },
+    {
+      "surface": "ילבשו",
+      "gloss": "mabagqoke"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ubulungiswa"
+    },
+    {
+      "surface": "וחסידיך",
+      "gloss": "abathembekileyo bakho"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "mabadansaze injabulo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:45.471812814Z",
+  "model": "glm-5.3"
+}

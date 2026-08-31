@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 1:16",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngayala ⟨את⟩ abahluleli zenu ngaleso sikhathi, ngithi: Lilalele izindlela phakathi kwezibhai zenu, nilahle ngxabano (—) ngokulunga phakathi komuntu nodadewabo (—) nasongenile (—).",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "ngayala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahluleli zenu"
+    },
+    {
+      "surface": "שפטיכם",
+      "gloss": "abahluleli zenu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ngaleso"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "sikhathi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngithi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "lilalele"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwe-"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "izibhai zenu"
+    },
+    {
+      "surface": "ושפטתם",
+      "gloss": "nilahle ngxabano"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ngokulunga"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwe-"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "no-"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "dadewabo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "na-"
+    },
+    {
+      "surface": "גרowo",
+      "gloss": "songenile"
+    }
+  ],
+  "timestamp": "2026-08-31T02:30:12.969011174Z",
+  "model": "glm-5.3"
+}

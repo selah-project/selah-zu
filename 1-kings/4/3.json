@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 4:3",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "uElichorefi noAchiya, amadodana kaShisha, babengabahleli; uYehoshafati, indodana kaAchiludi, yayingumbhali-memori.",
+  "tokens": [
+    {
+      "surface": "אליחרף",
+      "gloss": "uElichorefi"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "noAchiya"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana ka"
+    },
+    {
+      "surface": "שישא",
+      "gloss": "uShisha"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "abahleli"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "uYehoshafati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "uAchiludi"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "umbhali-memori"
+    }
+  ],
+  "timestamp": "2026-08-31T03:47:38.125225980Z",
+  "model": "glm-5.3"
+}

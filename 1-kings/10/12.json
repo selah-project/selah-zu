@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 10:12",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Inkosi yenza ⟨את⟩ izinkuni ze-almugi ukwesekela indlu kaYahwe nendlu yenkosi, kanye nezingcingo zomculo nezihlabelelo zabadumisi; akaze kafike njengalokho izinkuni ze-almugi, futhi azibonakalanga kuze kube usuku lolu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "yenza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Inkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinkuni ze-almugi"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "izinkuni"
+    },
+    {
+      "surface": "האלמגים",
+      "gloss": "ze-almugi"
+    },
+    {
+      "surface": "מסעד",
+      "gloss": "ukwesekela"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "nendlu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yenkosi"
+    },
+    {
+      "surface": "וכנרות",
+      "gloss": "kanye nezingcingo zomculo"
+    },
+    {
+      "surface": "ונבלים",
+      "gloss": "nezihlabelelo"
+    },
+    {
+      "surface": "לשרים",
+      "gloss": "zabadumisi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akaze"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kafike"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njengalokho"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "izinkuni"
+    },
+    {
+      "surface": "אלמגים",
+      "gloss": "ze-almugi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi azi-"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "bonakalanga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "היום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lolu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:52:50.727039048Z",
+  "model": "glm-5.3"
+}

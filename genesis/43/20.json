@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 43:20",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "Bathi, Ngiyacela, u-Adonayi wami, wehla ngempela ekuqaleni ukuzothenga ukudla.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Ngiyacela"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi wami"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ukwehla"
+    },
+    {
+      "surface": "ירדנו",
+      "gloss": "wehla"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "ekuqaleni"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ukuzothenga"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ukudla"
+    }
+  ],
+  "timestamp": "2026-08-31T01:22:22.683415183Z",
+  "model": "glm-5.3"
+}

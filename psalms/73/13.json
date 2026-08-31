@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 73:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Kweqiniso, ngingenalutho ngihlambulule inhliziyo yami, ngawasha izandla zami ngokungenacala.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kweqiniso"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ngingenalutho"
+    },
+    {
+      "surface": "זכיתי",
+      "gloss": "ngihlambulule"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "inhliziyo yami"
+    },
+    {
+      "surface": "וארחץ",
+      "gloss": "ngawasha"
+    },
+    {
+      "surface": "בנקיון",
+      "gloss": "ngokungeenacala"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "izandla zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:47.964424061Z",
+  "model": "glm-5.3"
+}

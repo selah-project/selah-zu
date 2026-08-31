@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "uDavide wenyuka khona, wahlala kwizindawo eziqinile zase-En-Gedi.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "wenyuka khona"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "משם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "kwizindawo eziqinile"
+    },
+    {
+      "surface": "עין",
+      "gloss": "i-En-Gedi"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "i-En-Gedi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:26:36.458757863Z",
+  "model": "glm-5.3"
+}

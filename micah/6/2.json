@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "micah 6:2",
+  "book": "micah",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Lalelani, zintaba, ⟨את⟩ icala likaYahwe, namatshe aqhubekayo — iziseko zomhlaba; ngokuba uYahwe unecala nabantu bakhe, futhi ne-Israyeli uzophikisana naye.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Lalelani"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "zintaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icala"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "icala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "והאתנים",
+      "gloss": "namatshe aqhubekayo"
+    },
+    {
+      "surface": "מסדי",
+      "gloss": "iziseko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zomhlaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "icala"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "futhi ne-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iIsrayeli"
+    },
+    {
+      "surface": "יתוכח",
+      "gloss": "uzophikisana naye"
+    }
+  ],
+  "timestamp": "2026-08-31T05:38:31.281939062Z",
+  "model": "glm-5.3"
+}

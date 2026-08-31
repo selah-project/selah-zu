@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 7:3",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Usho kanje uYahwe wamabutho, uElohim kaIsrael: Lungisani izindlela zenu nemisebenzi yenu, benginikuhlala ⟨את⟩ nina endaweni le.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kanje"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Usho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamabutho"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaIsrael"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "Lungisani"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "izindlela zenu"
+    },
+    {
+      "surface": "ומעלליכם",
+      "gloss": "nemisebenzi yenu"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "benginikuhlala"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina (izithunywa zokuhlala)"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-08-31T04:41:48.702978584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 17:1",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Isono leYuda silotshwe ngepeni yensimbi, ngesiphambosi sedimayi; sicushiwe ethebhule lezinhliziyo zabo, nasemikhondweni yama-altare abenu.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "Isono"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "leYuda"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "silotshwe"
+    },
+    {
+      "surface": "בעט",
+      "gloss": "ngepeni"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "yensimbi"
+    },
+    {
+      "surface": "בצפרן",
+      "gloss": "ngesiphambosi"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "sedimayi"
+    },
+    {
+      "surface": "חרושה",
+      "gloss": "sicushiwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "ethebhule"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "lezinhliziyo zabo"
+    },
+    {
+      "surface": "ולקרנות",
+      "gloss": "nasemikhondweni"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "yama-altare abenu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:46:14.912455057Z",
+  "model": "glm-5.3"
+}

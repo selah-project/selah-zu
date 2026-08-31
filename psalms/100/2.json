@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 100,
+  "translation": "Khonzani ⟨את⟩ uYahwe ngokujabula; ngenani ebusweni bakhe ngecekiso.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Khonzani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ngokujabula"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ngenani"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ebusweni bakhe"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "ngecekiso"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:00.502318072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 7:6",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ngokuba angihlalanga endlwini kusukela osukwini lapho ngakhuphula khona ⟨את⟩ amadodana ka-Israyeli aMitsrayim, nanamuhla; ngangihamba ngethenti nasesikhunjini.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "hlalanga"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "למיום",
+      "gloss": "kusukela osukwini"
+    },
+    {
+      "surface": "העלתי",
+      "gloss": "ngakhuphula khona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadodana ka-Israyeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israyeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "aMitsrayim"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "futhi kuze ku"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla losuku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ngangi-"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ngethenti"
+    },
+    {
+      "surface": "ובמשכן",
+      "gloss": "nasesikhunjini"
+    }
+  ],
+  "timestamp": "2026-08-31T10:20:54.256629950Z",
+  "model": "glm-5.3"
+}

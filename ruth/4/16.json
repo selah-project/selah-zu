@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "UNaomi wathatha ⟨את⟩ umntwana, wambeka esifubeni sakhe, waba yina unakekeli.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "uNaomi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umntwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "umntwana"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "wambeka"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "esifubeni sakhe"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "waba yina"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "unakekeli"
+    }
+  ],
+  "timestamp": "2026-08-31T07:38:30.724935632Z",
+  "model": "glm-5.3"
+}

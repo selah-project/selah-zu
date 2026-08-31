@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 26:15",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi uzokwenza ⟨את⟩ amapulangi ohambisela ngomhlabathisi woshitimhi ogcwele ukuma.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "Futhi uzokwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amapulangi"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "amapulangi"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ohambisela"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ngomhlabathisi"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "oshitimhi"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "ogcwele ukuma"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:48.305352380Z",
+  "model": "glm-5.3"
+}

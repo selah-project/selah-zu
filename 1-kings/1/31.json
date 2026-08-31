@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 1:31",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "IBat-Shebha wakhuleka ubuso bakhe emhlabeni, wakhuleka enkosini, wathi: Mhlawumbe iNkosi yami inkosi uDavide iphile kuze kube ninde.",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "wakhuleka"
+    },
+    {
+      "surface": "בת",
+      "gloss": "IBat-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Shebha"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "wakhuleka enkosini"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "enkosini"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "mhlawumbe iphile"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "iNkosi yami"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "kuze kube ninde"
+    }
+  ],
+  "timestamp": "2026-08-31T03:46:40.844535661Z",
+  "model": "glm-5.3"
+}

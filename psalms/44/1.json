@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Kumlawuli; kubantwana bakaKorahi; umqondiso.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumlawuli"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kubantwana"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "bakaKorahi"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "umqondiso"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:32.563007989Z",
+  "model": "glm-5.3"
+}

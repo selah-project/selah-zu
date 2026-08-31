@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 88:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 88,
+  "translation": "Ususuze kude abangazi bami kimi, ungibekile ukuthi ngibe yinto engacelayo kubona, ngivaliwe, angiphumi.",
+  "tokens": [
+    {
+      "surface": "הרחקת",
+      "gloss": "ususuze kude"
+    },
+    {
+      "surface": "מידעי",
+      "gloss": "abangazi bami"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "שתני",
+      "gloss": "ungibekile"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "yinto engacelayo"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "כלא",
+      "gloss": "ngivaliwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "anga(phumi)"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "phumi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:54.890531095Z",
+  "model": "glm-5.3"
+}

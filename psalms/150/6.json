@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 150,
+  "translation": "Konke okunomphefumulo kudumise uYah; dumisani uYah!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Konke"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "okunomphefumulo"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "kudumise"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "dumisani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:58.197549474Z",
+  "model": "glm-5.3"
+}

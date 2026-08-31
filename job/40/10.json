@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Zikhokhele ngesibindi esikhulu nobukhosi, futhi gqoka ubukhosi nobuhle.",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "zikhokhele"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨manje⟩"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "isibindi esikhulu"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "nobukhosi"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "ubukhosi"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "nobuhle"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "gqoka"
+    }
+  ],
+  "timestamp": "2026-08-31T07:31:29.940837404Z",
+  "model": "glm-5.3"
+}

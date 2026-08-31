@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 11:14",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi uYahwe wavusa isitha kuShelomo: ⟨את⟩ uHadadi i-Edomi, ozalwa yinkosi, yena wayese-Edomu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wavusa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "isitha"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "kuShelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uHadadi"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "uHadadi"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "i-Edomi"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "ozalwa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yinkosi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "e-Edomu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:55:38.155982465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 9:35",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Intliziyo kaParo yabanzeka wazinza, futhi akalanga ⟨את⟩ abantwana bakaSirayeli, njengalokho uYahwe ayeKhuluma ngesandla sikaMoshe.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "yabanzeka wazinza (yabaqinile)"
+    },
+    {
+      "surface": "לב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi akalanga (cha)"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "akhuphuli\/athumeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakaSirayeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaSirayeli"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengalokho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ayeKhuluma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "משה",
+      "gloss": "sikaMoshe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:29:47.425205371Z",
+  "model": "glm-5.3"
+}

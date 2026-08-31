@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 1:15",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi zibe yizibani emkhathini wamazulu, ukukhanyisa phezu komhlaba; futhi kwaba njalo.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "futhi zibe"
+    },
+    {
+      "surface": "למאורת",
+      "gloss": "yizibani"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "emkhathini"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wamazulu"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "ukukhanyisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "futhi kwaba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:01:48.661041625Z",
+  "model": "glm-5.3"
+}

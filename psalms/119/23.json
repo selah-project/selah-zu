@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 119:23",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Nakuba izikhosi zihlale zikhuluma ngami, izinkonzo zakho—yena izinkonzo yakho—icabanga ngezimiso zakho.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Nakuba"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "zihlale"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "izikhosi"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngami"
+    },
+    {
+      "surface": "נדברו",
+      "gloss": "zikhuluma"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "izinkonzo yakho"
+    },
+    {
+      "surface": "ישיח",
+      "gloss": "icabanga"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "ngezimiso zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:52.693968046Z",
+  "model": "glm-5.3"
+}

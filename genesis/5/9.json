@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "u-Enoshi waphila iminyaka engamatshopha, wazala ⟨את⟩ u-Kenani;",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "waphila"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "u-Enoshi"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "amatshopha"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Kenani"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "u-Kenani"
+    }
+  ],
+  "timestamp": "2026-08-31T01:01:55.626514588Z",
+  "model": "glm-5.3"
+}

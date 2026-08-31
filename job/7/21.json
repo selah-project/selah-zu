@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 7:21",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Yingani ungavukeli cala lami, ungasisusi ⟨את⟩ isono lami? Ngokuba manje ngizolala engcwabeni, futhi uzongiqonda — futhi ngingasekho.",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "Yingani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "vukeli"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "cala lami"
+    },
+    {
+      "surface": "ותעביר",
+      "gloss": "ungasisusi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isono lami"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "isono lami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "engcwabeni"
+    },
+    {
+      "surface": "אשכב",
+      "gloss": "ngizolala"
+    },
+    {
+      "surface": "ושחרתני",
+      "gloss": "uzongiqonda"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "ngingasekho"
+    }
+  ],
+  "timestamp": "2026-08-31T07:08:56.581924544Z",
+  "model": "glm-5.3"
+}

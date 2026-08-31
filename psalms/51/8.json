@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 51:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 51,
+  "translation": "Bheka, iqiniso ulifunakwizinsimbi zangaphakathi, futhi ekuthuneni ungisizisaukwazi ulwazi.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "iqiniso"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "ulifuna"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "kwizinsimbi zangaphakathi"
+    },
+    {
+      "surface": "ובסתם",
+      "gloss": "futhi ekuthuneni"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "תודיעני",
+      "gloss": "ungisizisaukwazi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:36.091148695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Ongecolile izandla, futhi uhlanzekile enhliziyweni, ongaphakamisanga umphefumulo wakhe kuamanga, futhi ongefinyele ngamanga.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "ongecolile"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "izandla"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "futhi uhlanzekile"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "enhliziyweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ongu-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ange-"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "phakamisanga"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "kuamanga"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumulo wakhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi ange-"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "finyele"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "ngamanga"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:05.447644493Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "uYahwe wayekhuluma kuMoshe, ethi:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wayekhuluma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:40:52.426098465Z",
+  "model": "glm-5.3"
+}

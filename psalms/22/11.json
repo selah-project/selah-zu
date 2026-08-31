@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Kuwe ngangiphonselwe kusukela esibelethweni, kusukela esizahleni sikanina; u-El wami wena unguye.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "Kuwe"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "ngangiphonselwe"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "kusukela esibelethweni"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "kusukela esizahleni"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "sikanina"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "u-El wami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena unguye"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:25.237236467Z",
+  "model": "glm-5.3"
+}

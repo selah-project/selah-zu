@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Yaphela izulu nomhlaba, nawo wonke amabutho awo.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "yaphela"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "izulu"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "nomhlaba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nawo wonke"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "amabutho awo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:36.677863925Z",
+  "model": "glm-5.3"
+}

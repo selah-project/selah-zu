@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "exodus 12:51",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Kwaba njalo ngosuku lokho uqobo uYahwe wakhishela ⟨את⟩ amadodana ka-Israyeli ezweni leMitsrayim ngemimango yabo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwaba njalo"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ngosuku lokho uqobo"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "wakhishela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadodana ka-Israyeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israyeli"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "leMitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "mimango yabo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:31:48.737714503Z",
+  "model": "glm-5.3"
+}

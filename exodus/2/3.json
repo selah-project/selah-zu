@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 2:3",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Wase engasakwazi ukumfihla, wathathela yena ibhokisi lekhala, wasilonda ngekhama nangophethuli; wafaka kiso ⟨את⟩ umntwana, wasibeka phakathi kwemibhobho emngceleni womfula.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "engasakwazi (wase-)"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "ukwazi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ngasas"
+    },
+    {
+      "surface": "הצפינו",
+      "gloss": "ukumfihla"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "wathathela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "תבת",
+      "gloss": "ibhokisi"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "lekhala (papyrus)"
+    },
+    {
+      "surface": "ותחמרה",
+      "gloss": "wasilonda"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "ngekhama"
+    },
+    {
+      "surface": "ובזפת",
+      "gloss": "nangophethuli"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "wafaka"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kiso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umntwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "umntwana"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "wasibeka"
+    },
+    {
+      "surface": "בסוף",
+      "gloss": "phakathi kwemibhobho"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "emngceleni"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "womfula"
+    }
+  ],
+  "timestamp": "2026-08-31T01:27:02.588461346Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 6:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Iliso lami linciphile ngenxa yokukhathazeka; sekudala liphelile ngabo bonke abasoki bami.",
+  "tokens": [
+    {
+      "surface": "עששה",
+      "gloss": "linciphile"
+    },
+    {
+      "surface": "מכעס",
+      "gloss": "ngenxa yokukhathazeka"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "Iliso lami"
+    },
+    {
+      "surface": "עתקה",
+      "gloss": "sekudala liphelile"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngabo bonke"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "abasoki bami"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:40.786691635Z",
+  "model": "glm-5.3"
+}

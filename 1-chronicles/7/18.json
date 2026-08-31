@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi udadewabo uMolekethe wazala ⟨את⟩ u-Ishodi, ⟨את⟩ no-Abiezeri, ⟨את⟩ noMahala.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "Futhi udadewabo"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "uMolekethe"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Ishodi"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "u-Ishodi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no-",
+      "marks": "u-Abiezeri"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "u-Abiezeri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no-",
+      "marks": "uMahala"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "uMahala"
+    }
+  ],
+  "timestamp": "2026-08-31T08:21:52.510726456Z",
+  "model": "glm-5.3"
+}

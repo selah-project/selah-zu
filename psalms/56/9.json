@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 56:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 56,
+  "translation": "Ukuhlakazeka kwami uwubale wena; beka izinyembezi zami esibhodweni sakho; azikho yini ezincwadini zakho?",
+  "tokens": [
+    {
+      "surface": "נדי",
+      "gloss": "ukuhlakazeka kwami"
+    },
+    {
+      "surface": "ספרתה",
+      "gloss": "uwubale"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "שימה",
+      "gloss": "beka"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "izinyembezi zami"
+    },
+    {
+      "surface": "בנאדך",
+      "gloss": "esibhodweni sakho"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "azikho yini"
+    },
+    {
+      "surface": "בספרתך",
+      "gloss": "ezincwadini zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:40.467700426Z",
+  "model": "glm-5.3"
+}

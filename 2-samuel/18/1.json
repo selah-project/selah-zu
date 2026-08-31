@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 18:1",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "uDavide wabala ⟨את⟩ abantu ababe ⟨את⟩ naye, wabeka phezu kwabo iziphathi zezinkulungwane neziphathi zamakhulu.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "wabala"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ababe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "phezu kwabo"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "iziphathi"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "zezinkulungwane"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "neziphathi"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "zamakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:06:03.430956336Z",
+  "model": "glm-5.3"
+}

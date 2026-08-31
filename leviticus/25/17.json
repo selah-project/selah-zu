@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 25:17",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi ningeke nihluphe umuntu ⟨את⟩ umnakhe; futhi uzoyesaba u-Elohim wakho; ngokuba nginguYahwe u-Elohim wenu.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "futhi ningeke"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "nihluphe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnakhe"
+    },
+    {
+      "surface": "עמיתו",
+      "gloss": "umnakhe"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "futhi uzoyesaba"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "u-Elohim wakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nging"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "u-Elohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:04:47.565579592Z",
+  "model": "glm-5.3"
+}

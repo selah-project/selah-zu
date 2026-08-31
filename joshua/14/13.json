@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "joshua 14:13",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "U-Yehoshuwa wambusisa, wabanikeza ⟨את⟩ iKhebhroni kuKhelebhi indodana kaYefunehi njengokufakelwayo.",
+  "tokens": [
+    {
+      "surface": "ויברכהו",
+      "gloss": "wambusisa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "U-Yehoshuwa"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wabanikeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKhebhroni"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "iKhebhroni"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "kuKhelebhi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "kaYefunehi"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "njengokufakelwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:54:03.190841091Z",
+  "model": "glm-5.3"
+}

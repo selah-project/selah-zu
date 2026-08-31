@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Kanjalo uthe uYahwe, uElohim kaIsrayeli, ngawe, wena uBharuki:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ngawe"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "uBharuki"
+    }
+  ],
+  "timestamp": "2026-08-31T04:59:04.121127193Z",
+  "model": "glm-5.3"
+}

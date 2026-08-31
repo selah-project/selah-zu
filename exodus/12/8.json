@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 12:8",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi bayodla ⟨את⟩ inyama ngobusuku obu, ibhakwe ngomlilo, nangezinkwa ezingavinyiwe; ngemifino enamuncu bayoyidla.",
+  "tokens": [
+    {
+      "surface": "ואכלו",
+      "gloss": "bayodla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ngobusuku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "obu"
+    },
+    {
+      "surface": "צלי",
+      "gloss": "ibhakwe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ngomlilo"
+    },
+    {
+      "surface": "ומצות",
+      "gloss": "nangezinkwa ezingavinyiwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "מררים",
+      "gloss": "imifino enamuncu"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "bayoyidla (yona)"
+    }
+  ],
+  "timestamp": "2026-08-31T01:32:19.134895881Z",
+  "model": "glm-5.3"
+}

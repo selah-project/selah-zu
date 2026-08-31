@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Oqoqa njengesibani amanzi olwandle, obeka izinkimbinkimbi ezindlini zakhe zokugcina.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "Oqoqa"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "njengesibani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "obeka"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "ezindlini zokugcina"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "izinkimbinkimbi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:01.695297650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 103:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 103,
+  "translation": "Kubagcini bvesiwombevo sakhe, nasekukhumbuleni imiyalo yakhe ukuze bayenze.",
+  "tokens": [
+    {
+      "surface": "לשמרי",
+      "gloss": "kubagcini"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "isiwombevo sakhe"
+    },
+    {
+      "surface": "ולזכרי",
+      "gloss": "nasekukhumbuleni"
+    },
+    {
+      "surface": "פקדיו",
+      "gloss": "imiyalo yakhe"
+    },
+    {
+      "surface": "לעשותם",
+      "gloss": "ukuze bayenze"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:44.797564021Z",
+  "model": "glm-5.3"
+}

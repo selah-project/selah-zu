@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Kungani angifile ngisembeletheni? Ngabe ngaphuma esiswini ngafa.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kungani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angifile... ngafa"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "ngisembeletheni"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "angifile"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "esiswini"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "ngaphuma"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "ngafa"
+    }
+  ],
+  "timestamp": "2026-08-31T07:07:23.374132869Z",
+  "model": "glm-5.3"
+}

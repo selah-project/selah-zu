@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 34:16",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "kepha naphenduka, nanihlazisa ⟨את⟩ igama lami, nibuyisela umuntu ⟨את⟩ isigqila sakhe nasomunye umuntu ⟨את⟩ gqilikazi lakhe, enabathumele khona bekhululekile ngokwezimpilo zabo, nibaphinde nabanqoba ukuba babengabenu, izigqili nezigqilikazi.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "naphenduka"
+    },
+    {
+      "surface": "ותחללו",
+      "gloss": "nanihlazisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lami"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "igama lami"
+    },
+    {
+      "surface": "ותשבו",
+      "gloss": "nibuyisela"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isigqila sakhe"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "isigqila sakhe"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "nasomunye umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "gqilikazi lakhe"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "gqilikazi lakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ena-"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "nabathumele khona"
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "bekhululekile"
+    },
+    {
+      "surface": "לנפשם",
+      "gloss": "ngokwezimpilo zabo"
+    },
+    {
+      "surface": "ותכבשו",
+      "gloss": "nibanqoba"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "babengabenu"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "babengabenu"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "izigqili"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "nezigqilikazi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:54:27.531735189Z",
+  "model": "glm-5.3"
+}

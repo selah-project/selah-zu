@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Uganelekile wena edolobheni, futhi uganelekile wenasemhlabathini.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "uganelekile"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "futhi uganelekile"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "nasemhlabathini"
+    }
+  ],
+  "timestamp": "2026-08-31T02:43:42.896154065Z",
+  "model": "glm-5.3"
+}

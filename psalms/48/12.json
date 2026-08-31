@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 48:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 48,
+  "translation": "Monti weZiyoni mayijabule; amadodakazi akwaYuda makazele ngenxa yezinkantolo zakho.",
+  "tokens": [
+    {
+      "surface": "יִשְׂמַח",
+      "gloss": "mayijabule"
+    },
+    {
+      "surface": "הַר",
+      "gloss": "Monti"
+    },
+    {
+      "surface": "צִיּוֹן",
+      "gloss": "weZiyoni"
+    },
+    {
+      "surface": "תָּגֵלְנָה",
+      "gloss": "makazele"
+    },
+    {
+      "surface": "בְּנוֹת",
+      "gloss": "amadodakazi"
+    },
+    {
+      "surface": "יְהוּדָה",
+      "gloss": "akwaYuda"
+    },
+    {
+      "surface": "לְמַעַן",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "מִשְׁפָּטֶיךָ",
+      "gloss": "zezinkantolo zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:11.206636536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 14:16",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi wena: phakamisa ⟨את⟩ induku yakho, unwebise ⟨את⟩ isandla sakho phezu kolwandle ukuze luhlukaniswe; abantwana bakaYisrayeli bazongena phakathi kolwandle endaweni omile.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "futhi wena"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "phakamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "induku yakho"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "induku yakho"
+    },
+    {
+      "surface": "ונטה",
+      "gloss": "unwebise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sakho"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "ובקעהו",
+      "gloss": "kuze luhlukaniswe"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "bazongena"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaYisrayeli"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi kwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "ביבשה",
+      "gloss": "endaweni omile"
+    }
+  ],
+  "timestamp": "2026-08-31T01:33:26.400363781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 69:36",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Ngokuba uElohim uzosindisa iZiyoni, futhi uzakha amadolobha aseYuda; bazohlala khona, bayizuzele.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "uzosindisa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iZiyoni"
+    },
+    {
+      "surface": "ויבנה",
+      "gloss": "futhi uzakha"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "amadolobha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "aseYuda"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "bazohlala"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "וירשוה",
+      "gloss": "bayizuzele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:18.892437734Z",
+  "model": "glm-5.3"
+}

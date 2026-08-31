@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 18:33",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Ingabe onkulunkulu bezizwe bamnqaba ngempela, ilodwa ngalodwa, ⟨את⟩ izwe lakhe esandleni senkosi yaseAshuru?",
+  "tokens": [
+    {
+      "surface": "ההצל",
+      "gloss": "bamnqaba ngempela"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "bamnqaba"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "onkulunkulu"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "bezizwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ilodwa ngalodwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwe lakhe"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "izwe lakhe"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "senkosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "yaseAshuru"
+    }
+  ],
+  "timestamp": "2026-08-31T04:11:54.290774924Z",
+  "model": "glm-5.3"
+}

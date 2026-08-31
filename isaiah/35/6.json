@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 35:6",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Ngaleso sikhathi umkhhubazekile uzogxuma njengenhlosi, ulimi lwabathulile luzodumisa; ngoba amanzi aphukile esigodini, nemifula elaswini.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ngaleso sikhathi"
+    },
+    {
+      "surface": "ידלג",
+      "gloss": "uzogxuma"
+    },
+    {
+      "surface": "כאיל",
+      "gloss": "njengenhlosi"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "umkhhubazekile"
+    },
+    {
+      "surface": "ותרן",
+      "gloss": "luzodumisa"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ulimi"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "lwabathulile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "נבקעו",
+      "gloss": "aphukile"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "esigodini"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "ונחלים",
+      "gloss": "nemifula"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "elaswini"
+    }
+  ],
+  "timestamp": "2026-08-31T04:28:39.035828819Z",
+  "model": "glm-5.3"
+}

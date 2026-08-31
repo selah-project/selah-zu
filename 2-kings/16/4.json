@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 16:4",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Wahlabela izihlabo wathwasa impepho ezindaweni eziphakemile, futhi ezintabeni, nangaphansi komuthi wonke oluhlaza othe cwaka.",
+  "tokens": [
+    {
+      "surface": "ויזבח",
+      "gloss": "wahlabela izihlabo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "wathwasa impepho"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "ezindaweni eziphakemile"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ezintabeni"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "nangaphansi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "komuthi wonke"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "komuthi"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "oluhlaza othe cwaka"
+    }
+  ],
+  "timestamp": "2026-08-31T04:12:01.538137644Z",
+  "model": "glm-5.3"
+}

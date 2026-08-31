@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 129,
+  "translation": "Mabe njengotshani bamakhaya, esoma ngaphambi kokushunqwa.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "mabe"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "njengotshani"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "bamakhaya"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "ngaphambi koku-"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "ukushunqwa"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "esoma"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:11.611701061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "UNathi wathi kuDavide: Yenza konke okusentlweni yakho, ngokuba uElohim unawe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "uNathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "kusentlweni yakhe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yenza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "unawe"
+    }
+  ],
+  "timestamp": "2026-08-31T09:01:53.763129614Z",
+  "model": "glm-5.3"
+}

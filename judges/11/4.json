@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Kwaze kwaba ngemva sezinsuku, izingane zakwaAmmoni zalwa nezakwaSirayeli.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwaze kwaba"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "ngemva sezinsuku"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "zalwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "izingane"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "zakwaAmmoni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ne"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zakwaSirayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:08:50.465341110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 98:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 98,
+  "translation": "Memezani kuYahwe, wonke umhlaba; qhumanisani, nigidizelani, culani.",
+  "tokens": [
+    {
+      "surface": "הריעו",
+      "gloss": "Memezani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "פצחו",
+      "gloss": "qhumanisani"
+    },
+    {
+      "surface": "ורננו",
+      "gloss": "nigidizelani"
+    },
+    {
+      "surface": "וזמרו",
+      "gloss": "culani"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:33.299034699Z",
+  "model": "glm-5.3"
+}

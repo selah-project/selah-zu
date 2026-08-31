@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 92:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 92,
+  "translation": "Abadliwe imizi endlwini kaYahwe, emagcekeni kuElohim wethu bayaqhamuka.",
+  "tokens": [
+    {
+      "surface": "שתולים",
+      "gloss": "Abadliwe imizi"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "בחצרות",
+      "gloss": "emagcekeni"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "kuElohim wethu"
+    },
+    {
+      "surface": "יפריחו",
+      "gloss": "bayaqhamuka"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:04.020176395Z",
+  "model": "glm-5.3"
+}

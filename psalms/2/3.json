@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 2:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Asibophule ⟨את⟩ izibopho zabo futhi asilahle izintambo zabo kusuka kithi",
+  "tokens": [
+    {
+      "surface": "ננתקה",
+      "gloss": "Asibophule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izibopho zabo"
+    },
+    {
+      "surface": "מוסרותימו",
+      "gloss": "izibopho zabo"
+    },
+    {
+      "surface": "ונשליכה",
+      "gloss": "futhi asilahle"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kusuka kithi"
+    },
+    {
+      "surface": "עבתימו",
+      "gloss": "izintambo zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:59.372125927Z",
+  "model": "glm-5.3"
+}

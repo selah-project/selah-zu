@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 10:4",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Uyihlo wenzisa ⟨את⟩ injola yethu; manje yehlisa umsebenzi olunzima uyihlo, nenjola esindayo o awufakela phezu kwethu, bese sikukhonza.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "uyihlo"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "wenzisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "injola yethu"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "injola yethu"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "yehlisa"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uyihlo"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "olunzima"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "nenjola"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "esindayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "awufakela"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "phezu kwethu"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "sizokukhonza"
+    }
+  ],
+  "timestamp": "2026-08-31T08:33:55.753796529Z",
+  "model": "glm-5.3"
+}

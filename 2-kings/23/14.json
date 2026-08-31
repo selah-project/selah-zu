@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-kings 23:14",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Waphula ⟨את⟩ izithombe ezimi, wasika ⟨את⟩ amaAsherah, wagcwalisa ngezinkomba zomuntu indawo yazo.",
+  "tokens": [
+    {
+      "surface": "ושבר",
+      "gloss": "Waphula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izithombe ezimi"
+    },
+    {
+      "surface": "המצבות",
+      "gloss": "izithombe ezimi"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "wasika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaAsherah"
+    },
+    {
+      "surface": "האשרים",
+      "gloss": "amaAsherah"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "wagcwalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indawo yazo"
+    },
+    {
+      "surface": "מקומם",
+      "gloss": "indawo yazo"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ngezinkomba"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "zomuntu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:14:54.983647784Z",
+  "model": "glm-5.3"
+}

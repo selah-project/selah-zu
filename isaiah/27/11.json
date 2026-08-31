@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 27:11",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Ekomeni kwesivuno sayo kuzophuka; abesifazane bezofika, bayakushisa ⟨את⟩; ngokuba hhayi isizwe esinolwazi, ngakho-ke lowo owenziwayo ngeke amhawukele, futhi lo oqambe ngeke amnakele.",
+  "tokens": [
+    {
+      "surface": "ביבש",
+      "gloss": "ekomeni"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "kwesivuno sayo"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "kuzophuka"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "abesifazane"
+    },
+    {
+      "surface": "באות",
+      "gloss": "bezofika"
+    },
+    {
+      "surface": "מאירות",
+      "gloss": "bayakushisa"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "leyo nto (izisekelo ezomile)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hhayi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "בינות",
+      "gloss": "esinolwazi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nguye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "ירחמנו",
+      "gloss": "amhawukele"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "lowo owenziwayo"
+    },
+    {
+      "surface": "ויצרו",
+      "gloss": "futhi lo oqambe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "amnakele"
+    }
+  ],
+  "timestamp": "2026-08-31T04:23:54.309160952Z",
+  "model": "glm-5.3"
+}

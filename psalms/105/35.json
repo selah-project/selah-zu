@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "Zadla wonke utshani ezweni labo, zadla isithelo somhlabathile wabo.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "Zadla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "utshani"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "ezweni labo"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "zadla"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "isithelo"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "somhlabathile wabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:11.066813406Z",
+  "model": "glm-5.3"
+}

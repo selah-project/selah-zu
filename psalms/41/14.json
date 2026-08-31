@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 41:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Sibusisiwe uYahwe, uElohim ka-Israyeli, kusukela kuze kube phakade, kuze kube phakade. Amen, futhi Amen.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Sibusisiwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "מהעולם",
+      "gloss": "kusukela kuze kube phakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "futhi kuze kube"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "kube phakade"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "futhi Amen"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:45.310388353Z",
+  "model": "glm-5.3"
+}

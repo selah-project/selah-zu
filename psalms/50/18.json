@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Uma ubona isela ugijima naye, futhi nabaqamuli ingxenye yakho.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ubona"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "isela"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "ugijima"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "futhi na-"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "abaqamuli"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "ingxenye yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:57.555158393Z",
+  "model": "glm-5.3"
+}

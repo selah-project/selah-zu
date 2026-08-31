@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Amanga ngawazonda ngokuzonda okuyize, umthetho wakho ngiwuthande.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "amanga"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ngawazonda"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "ngokuzonda okuyize"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "umthetho wakho"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ngiwuthande"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:13.252816883Z",
+  "model": "glm-5.3"
+}

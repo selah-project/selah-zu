@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 18:29",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Kwathi lapho sekudlule uma emini, baprofetha kaze kwenyuka imnikelo yansuku, kwakungekho lizwi, futhi kwakungekho ophendulayo, futhi kwakungekho oqaphelayo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כעבר",
+      "gloss": "lapho sekudlule"
+    },
+    {
+      "surface": "הצהרים",
+      "gloss": "uma emini"
+    },
+    {
+      "surface": "ויתנבאו",
+      "gloss": "baprofetha"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kaze"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "kwenyuka"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "imnikelo yansuku"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kwakungekho"
+    },
+    {
+      "surface": "קול",
+      "gloss": "lizwi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi kwakungekho"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ophendulayo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi kwakungekho"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "oqaphelayo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:00:43.767250941Z",
+  "model": "glm-5.3"
+}

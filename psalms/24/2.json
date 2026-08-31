@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Ngokuba yena phezu kolwandle wawumisela ⟨wo⟩, futhi phezu kemilambo uyawumisela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "wawumisela ⟨wo⟩"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi phezu kwa-"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "emilambo"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "uyawumisela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:05.447229113Z",
+  "model": "glm-5.3"
+}

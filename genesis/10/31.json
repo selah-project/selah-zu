@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 10:31",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Laba ngabantwana bukaShemi, ngokwemindeni yabo, ngokwezilimi zabo, ezweni labo, ngokwezizwe zabo.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "laba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ukaShemi"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngokwemindeni yabo"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "ngokwezilimi zabo"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "ezweni labo"
+    },
+    {
+      "surface": "לגויהם",
+      "gloss": "ngokwezizwe zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:01.035596125Z",
+  "model": "glm-5.3"
+}

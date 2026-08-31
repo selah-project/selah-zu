@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 40:21",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Wabuyisela ⟨את⟩ induna yabasizi-buzwayo esibuzweni sawo, wabe esetha ikhomoshi(?) ...",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "wabuyisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "induna yabasizi-buzwayo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "induna"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "yabasizi-buzwayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "esi-"
+    },
+    {
+      "surface": "משקהו",
+      "gloss": "buzweni sawo"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wabe esetha"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ikomishi"
+    },
+    {
+      "surface": "על",
+      "gloss": "esi-"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ndleni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "sikaParo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:19:24.591964666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 74,
+  "translation": "Buka isivumelwano: ngokuba izindawo ezimnyama zomhlaba zigcwele izindawo zobukhuni.",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "Buka"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "isivumelwano"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "zigcwele"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "izindawo ezimnyama"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zomhlaba"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "izindawo"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "zobukhuni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:45.885163984Z",
+  "model": "glm-5.3"
+}

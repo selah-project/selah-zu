@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 1:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "uElohim wabiza ⟨⟨okomileyo⟩⟩ umhlaba, wabiza ⟨⟨iqoqo⟩⟩ lamanizi ulwandle; futhi uElohim wabona ukuthi kuhle.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "okomileyo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ולמקוה",
+      "gloss": "wabiza iqoqo"
+    },
+    {
+      "surface": "המים",
+      "gloss": "lamanizi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kuhle"
+    }
+  ],
+  "timestamp": "2026-08-31T01:01:35.872324872Z",
+  "model": "glm-5.3"
+}

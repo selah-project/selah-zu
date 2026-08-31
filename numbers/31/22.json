@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Kuphela ⟨את⟩ igolide kanye ⟨את⟩ nesiliva, ⟨את⟩ uthusi, ⟨את⟩ insimbi, ⟨את⟩ uthini, kanye ⟨את⟩ neledi —",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kuphela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igolide"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kanye ⟨את⟩ ne",
+      "marks": "isiliva"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uthusi"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "uthusi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insimbi"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "insimbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uthini"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "uthini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kanye ⟨את⟩ ne",
+      "marks": "eledi"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "eledi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:25:46.166946370Z",
+  "model": "glm-5.3"
+}

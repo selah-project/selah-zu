@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 25:12",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Kodwa abampofukazi bezwe washiya umduna wabahlabezi ukuba babe ngabalimi bezivini nabahlakuleli",
+  "tokens": [
+    {
+      "surface": "ומדלת",
+      "gloss": "abampofukazi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bezwe"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "washiya"
+    },
+    {
+      "surface": "רב",
+      "gloss": "umduna"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "wabahlabezi"
+    },
+    {
+      "surface": "לכרמים",
+      "gloss": "ngabalimi bezivini"
+    },
+    {
+      "surface": "וליגבים",
+      "gloss": "nabahlakuleli"
+    }
+  ],
+  "timestamp": "2026-08-31T04:15:23.120848055Z",
+  "model": "glm-5.3"
+}

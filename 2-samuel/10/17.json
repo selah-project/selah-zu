@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 10:17",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Kwaziswa kuDavide, waqoqa ⟨את⟩ wonke uIsrayeli, wedlula ⟨את⟩ uYordani, weza eHelamu. IAram yabalalela ngokumelene noDavide, yalwa naye.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kwaziswa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuDavide"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "waqoqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke uIsrayeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "wedlula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYordani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "uYordani"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "weza"
+    },
+    {
+      "surface": "חלאמה",
+      "gloss": "eHelamu"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "yabalalela"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "iAram"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ngokumelene no-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "yalwa"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    }
+  ],
+  "timestamp": "2026-08-31T03:36:34.188838104Z",
+  "model": "glm-5.3"
+}

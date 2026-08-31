@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 3:10",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Wathi kimi: Ndodana womuntu, ⟨את⟩ wonke amazwi ami engiwakhuluma kuwe — wamukela wonke enhliziyweni yakho, futhi nangezindlebeni zakho uzwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Ndodana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "womuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke amazwi ami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi ami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "wamukela"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "enhliziyweni yakho"
+    },
+    {
+      "surface": "ובאזניך",
+      "gloss": "nangezindlebeni zakho"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uzwe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:05:32.141881800Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 176,
+  "ref": "psalms 119:176",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngidukile njengesimvu elahlekile; funa isinceku sakho, ngokuba imiyalo yakho angiyikhohliwe.",
+  "tokens": [
+    {
+      "surface": "תעיתי",
+      "gloss": "Ngidukile"
+    },
+    {
+      "surface": "כשה",
+      "gloss": "njengesimvu"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "elahlekile"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "funa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "isinceku sakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "imiyalo yakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angi-"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "yikhohliwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:15.820597097Z",
+  "model": "glm-5.3"
+}

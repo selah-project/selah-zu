@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 15:30",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Futhi umpristi uzokwenza ⟨את⟩ eyodwa isono, no⟨את⟩ eyodwa isipho esishiswayo, futhi umpristi uzomthethelela yena phambi kukaYahwe ngenxa yokuchithwa kobungcoliseko bakhe.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "futhi uzokwenza"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "eyodwa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "eyodwa"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "isono (isipho sesono)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "eyodwa"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "eyodwa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "isipho esishiswayo"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "futhi uzokwenzela ukuthethelela"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מזוב",
+      "gloss": "yokuchithwa"
+    },
+    {
+      "surface": "טמאתה",
+      "gloss": "kobungcoliseko bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:59:19.865547732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 51:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 51,
+  "translation": "Bheka, ngokwenkosazana yonke ngazalwa, futhisonweni umama wangingcisa.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "בעוון",
+      "gloss": "ngokwenkosazana yonke"
+    },
+    {
+      "surface": "חוללתי",
+      "gloss": "ngazalwa"
+    },
+    {
+      "surface": "ובחטא",
+      "gloss": "futhi sonweni"
+    },
+    {
+      "surface": "יחמתני",
+      "gloss": "wangingcisa"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "umama"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:36.090979665Z",
+  "model": "glm-5.3"
+}

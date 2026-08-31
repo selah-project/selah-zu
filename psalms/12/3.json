@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 12:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Amanga akhuluma umuntu engenantakana yakhe — izindebe ezilumbatheza; enhliziyweni nangenhliziyo bakhuluma ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "amanga"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "akhuluma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "enganentakana yakhe"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "enganentakana yakhe"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "izindebe"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "ezilumbatheza"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "enhliziyweni"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "nangenhliziyo"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "bakhuluma"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:52.917695503Z",
+  "model": "glm-5.3"
+}

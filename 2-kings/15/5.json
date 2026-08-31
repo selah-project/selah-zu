@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 15:5",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "uYahwe wahlaba ⟨את⟩ inkosi, yaba unonkwili kuze kufike usuku lokufa kwakhe, wahlala endlini eyingcelosi; uYothamu indodana yenkosi waba phezu kwendlu, ehulela ⟨את⟩ abantu belizwe.",
+  "tokens": [
+    {
+      "surface": "וינגע",
+      "gloss": "wahlaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "מצרע",
+      "gloss": "unonkwili"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kufike"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "lokufa kwakhe"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlini"
+    },
+    {
+      "surface": "החפשית",
+      "gloss": "eyingcelosi"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "uYothamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yenkosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "kwendlu"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ehulela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "belizwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:08:03.222572262Z",
+  "model": "glm-5.3"
+}

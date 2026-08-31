@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 42:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Njengokubethwa kwezinqamulo zami, izitha zami zingihlazo, ekushoneni kwazo kuwe sisikhathi sonke: u-Elohim wakhe ulaphi?",
+  "tokens": [
+    {
+      "surface": "ברצח",
+      "gloss": "njengokubethwa"
+    },
+    {
+      "surface": "בעצמותי",
+      "gloss": "kwezinqamulo zami"
+    },
+    {
+      "surface": "חרפוני",
+      "gloss": "zingihlazo"
+    },
+    {
+      "surface": "צוררי",
+      "gloss": "izitha zami"
+    },
+    {
+      "surface": "באמרם",
+      "gloss": "ekushoneni kwazo"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "sisikhathi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ulaphi"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "u-Elohim wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:37.835388067Z",
+  "model": "glm-5.3"
+}

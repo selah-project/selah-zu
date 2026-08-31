@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 137:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 137,
+  "translation": "Ulimi lwami ludumele emigomeni yami uma engikukhumbuli, uma engikhuphi ⟨את⟩ iYerushalayimi phezulu entokweni yosizi lwami.",
+  "tokens": [
+    {
+      "surface": "תדבק",
+      "gloss": "ladumele"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ulimi lwami"
+    },
+    {
+      "surface": "לחכי",
+      "gloss": "emigomeni yami"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אזכרכי",
+      "gloss": "khumbuli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "khuphi phezulu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYerushalayimi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "entokweni"
+    },
+    {
+      "surface": "שמחתי",
+      "gloss": "osizi lwami"
+    }
+  ],
+  "timestamp": "2026-08-31T11:41:17.391068332Z",
+  "model": "glm-5.3"
+}

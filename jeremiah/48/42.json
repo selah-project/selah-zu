@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 48:42",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 48,
+  "translation": "Futhi iMoab izanyekelwa ukuthi ibe ⟨sizwe⟩, ngokuba kuYahwe uzikhulisele.",
+  "tokens": [
+    {
+      "surface": "ונשמד",
+      "gloss": "futhi izanyekelwa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "iMoab"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ukusuka kubasizwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "uzikhulisele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:11:20.096185498Z",
+  "model": "glm-5.3"
+}

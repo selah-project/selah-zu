@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Bafaka ⟨את⟩ amafutha ezifubeni, wawushisa amafutha ku-altare.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "Bafaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amafutha"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "fubeni"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "wawushisa"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "ku-altare"
+    }
+  ],
+  "timestamp": "2026-08-31T01:54:30.757320846Z",
+  "model": "glm-5.3"
+}

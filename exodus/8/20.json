@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 8:20",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Futhi uYahwe wenza njalo, futhi i-arov enzima yangena endlini kaParo nasemizini yezincekw zakhe naseyonke indawo yeMitsrayim; indawo yonakaliswa ngobuso be-arov.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "futhi wenza njalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "futhi yangena"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "i-arov"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "enzima"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "endlini"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "nasemizini"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "yake zezincekw"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "naseyonke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsrayim"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "yonakaliswa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngobuso"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "be-arov"
+    }
+  ],
+  "timestamp": "2026-08-31T01:29:55.951811665Z",
+  "model": "glm-5.3"
+}

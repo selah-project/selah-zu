@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 8:6",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngobe bazophuma ukulandela thu de besihudule ⟨את⟩ bele ngaphandle kwesigodi; ngobe bazothi balahlekela phambi kwethu njengasekuqaleni; futhi sizobaleka phambi kwabo.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "bazophuma"
+    },
+    {
+      "surface": "אחרינו",
+      "gloss": "ukulandela thina"
+    },
+    {
+      "surface": "עד",
+      "gloss": "de"
+    },
+    {
+      "surface": "התיקנו",
+      "gloss": "besihudule"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bele"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngaphandle kwa-"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "sigodi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngobe"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bazothi"
+    },
+    {
+      "surface": "נסים",
+      "gloss": "balahlekela"
+    },
+    {
+      "surface": "לפנינו",
+      "gloss": "phambi kwethu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njenga-"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "asekuqaleni"
+    },
+    {
+      "surface": "ונסנו",
+      "gloss": "sizobaleka"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "phambi kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:52:23.091470879Z",
+  "model": "glm-5.3"
+}

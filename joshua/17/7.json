@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 17:7",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Futhi umkhawulo kaMenashe wawusuka eAsheri, iMikimetahi, ese phambi kweShekemu; umkhawulo wahamba ngasesokudla, kuze kufikelele kubahlali be-En-Tapuwa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "futhi kwaba"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "umkhawulo"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "kaMenashe"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "kusuka eAsheri"
+    },
+    {
+      "surface": "המכמתת",
+      "gloss": "iMikimetahi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ese"
+    },
+    {
+      "surface": "על",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "פני",
+      "gloss": "phambi (kwe-)"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "kweShekemu"
+    },
+    {
+      "surface": "והלך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "umkhawulo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngasesokudla uku-"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "ngasesokudla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "kubahlali"
+    },
+    {
+      "surface": "עין",
+      "gloss": "be-En-"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "Tapuwa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:57:05.942354493Z",
+  "model": "glm-5.3"
+}

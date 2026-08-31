@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 3:24",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngokuba phambi kokudla kwami kufika ukhalelo lwami, futhi ukukala kwami kuthathelwa njengamanzi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwe-"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "ukudla kwami"
+    },
+    {
+      "surface": "אנחתי",
+      "gloss": "ukhalelo lwami"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "kufika"
+    },
+    {
+      "surface": "ויתכו",
+      "gloss": "futhi kuthathelwa"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "njengamanzi"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ukukala kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T08:56:20.132485341Z",
+  "model": "glm-5.3"
+}

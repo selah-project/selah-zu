@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 10:12",
+  "book": "ezra",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Bese wonke umhlangano waphendula wathi ngezwi elikhulu: Kunjalo; kithi ukwenza njengamagama akho.",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "waphendula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "umhlangano"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ngezwi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "elikhulu"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Kunjalo"
+    },
+    {
+      "surface": "כדבריך",
+      "gloss": "njengamagama akho"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kithi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    }
+  ],
+  "timestamp": "2026-08-31T08:12:00.248965077Z",
+  "model": "glm-5.3"
+}

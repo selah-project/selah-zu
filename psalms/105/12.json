@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "Uma beyingabantu ababalwa ngesibalo, bathi banjalo abambalwa, futhi bezingeni ezweni.",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "Uma beyi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ababalwa ngesibalo"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "bathi banjalo abambalwa"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "futhi bezingeni"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ezweni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:16.574917135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Ningabaseli mlilo kuzo zonke izindawo zokuhlala kini ngosuku lwe-sabatha.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ningabaseli"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "baseli"
+    },
+    {
+      "surface": "אש",
+      "gloss": "mlilo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "izindawo zokuhlala kini"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "lwe-sabatha"
+    }
+  ],
+  "timestamp": "2026-08-31T01:44:49.570000654Z",
+  "model": "glm-5.3"
+}

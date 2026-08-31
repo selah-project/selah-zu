@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "UYaakov waya endleleni yakhe, abathunyi bakaElohim bambambelela.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "uYaakov"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "endleleni yakhe"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "bambambelela"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "abathunyi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "bakaElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:17:07.278647643Z",
+  "model": "glm-5.3"
+}

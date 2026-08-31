@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "AbafowabakaYosef abayishumi bayehla ukuyothenga ingile eMitsrayim.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "bayehla"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "abafowa-"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "bakaYosef"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ayishumi"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "ukuyothenga"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ingile"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:22:30.238624265Z",
+  "model": "glm-5.3"
+}

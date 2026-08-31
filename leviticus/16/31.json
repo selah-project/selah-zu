@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "iSabbath yesokudlula konke iyona ilenu, futhi niyozisola ⟨את⟩ imiphefumulo yenu — isimiso samaphakade.",
+  "tokens": [
+    {
+      "surface": "שַׁבַּ֨ת",
+      "gloss": "iSabbath"
+    },
+    {
+      "surface": "שַׁבָּת֥וֹן",
+      "gloss": "yesokudlula konke"
+    },
+    {
+      "surface": "הִיא֙",
+      "gloss": "iyona"
+    },
+    {
+      "surface": "לָכֶ֔ם",
+      "gloss": "ilenu"
+    },
+    {
+      "surface": "וְעִנִּיתֶ֖ם",
+      "gloss": "futhi niyozisola"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "imiphefumulo yenu"
+    },
+    {
+      "surface": "נַפְשֹׁתֵיכֶ֑ם",
+      "gloss": "imiphefumulo yenu"
+    },
+    {
+      "surface": "חֻקַּ֖ת",
+      "gloss": "isimiso"
+    },
+    {
+      "surface": "עוֹלָֽם",
+      "gloss": "samaphakade"
+    }
+  ],
+  "timestamp": "2026-08-31T10:13:59.818666248Z",
+  "model": "glm-5.3"
+}

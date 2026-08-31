@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ngokuba yini engeziwe kumhlakaniphile kunesisilima? Yini enamumpofu oyezela ukuhamba phambi kwabaphilayo?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "engeziwe"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "kumhlakaniphile"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kunesi-"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "silima"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "enampofu"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "oyezela"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "ukuhamba"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "baphilayo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:47:12.663454794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 2:5",
+  "book": "haggai",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "⟨Ngokwe⟩lizwi engalibeka ⟨את⟩ njengesivumelwano nani ekuphumeni kwenu eMitsrayim — umoya wami umi phakathi kwenu; musani ukwesaba.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engalibeka njengesivumelwano nani"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "ngalibeka njengesivumelwano (ngalidabula)"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nani"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "ekuphumeni kwenu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "ורוחי",
+      "gloss": "futhi umoya wami"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "umi"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "phakathi kwenu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musani"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ukwesaba"
+    }
+  ],
+  "timestamp": "2026-08-31T05:40:42.513697835Z",
+  "model": "glm-5.3"
+}

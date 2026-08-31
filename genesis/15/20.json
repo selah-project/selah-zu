@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "⟨את⟩ amaHithi, ⟨את⟩ amaPerizi, ⟨את⟩ namaRefayimi;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amaHithi"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "amaHithi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amaPerizi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "amaPerizi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amaRefayimi"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "amaRefayimi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:06:31.259600646Z",
+  "model": "glm-5.3"
+}

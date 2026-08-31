@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 78:50",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Wakholisa indlela yokuluka lwakhe; akazange asindise ⟨את⟩ imiphefumulo yabo ekufeni, futhi ⟨את⟩ ukuphila kwabo wanikela kulesifo.",
+  "tokens": [
+    {
+      "surface": "יפלס",
+      "gloss": "wakholisa"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "לאפו",
+      "gloss": "yokuluka lwakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akazange"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "asindise"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ekufeni"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "imiphefumulo yabo"
+    },
+    {
+      "surface": "וחיתם",
+      "gloss": "futhi ukuphila kwabo"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "kulesifo"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "wanikela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:53.291529196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngiyeke ngidlule ⟨את⟩ ngibone izwe elihle elingakwesokudla kweJorodane, leli ntaba elihle, neLebanoni.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "ngidlule"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngiyacele"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "futhi ngibone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwe elihle"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "elihle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "elingakwesokudla kwe"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Jorodane"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "leli ntaba"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "elihle"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "neLebanoni"
+    }
+  ],
+  "timestamp": "2026-08-31T02:31:19.231003509Z",
+  "model": "glm-5.3"
+}

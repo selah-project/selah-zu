@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Bathatha ⟨את⟩ wonke impahla yokuhlasela, no⟨את⟩ wonke okuthathiwe — kubantu nakuzwilwane.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "bathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke impahla yokuhlasela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "impahla yokuhlasela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "wonke okuthathiwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "okuthathiwe"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "kubantu"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "nakuzwilwane"
+    }
+  ],
+  "timestamp": "2026-08-31T02:26:29.211236078Z",
+  "model": "glm-5.3"
+}

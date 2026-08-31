@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Wabafunyana, wakhuluma kubona ⟨את⟩ lawa mazwi.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "Wabafunyana"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lawa mazwi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "lawa mazwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    }
+  ],
+  "timestamp": "2026-08-31T01:22:58.306695256Z",
+  "model": "glm-5.3"
+}

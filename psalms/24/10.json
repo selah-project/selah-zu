@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Ngubani yena lo, inkosi yenkazimulo? uYahwe wezimpi — yena ungunkosi yenkazimulo. Selah.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "yenkazimulo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wezimpi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "yenkazimulo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:47.179797217Z",
+  "model": "glm-5.3"
+}

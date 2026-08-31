@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 18:8",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "uma lelo lizwe libuyela ebubeni baso obu ngangikhuluma ngabo, ngizophenduka ngaye kobubi obu ngangicabanga ukukwenza kulo.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "lingabuyela"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "lelo lizwe"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "מרעתו",
+      "gloss": "ebubeni baso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "obu"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ngangikhuluma"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ngalo"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "ngizophenduka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaye"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "kobubi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "obu"
+    },
+    {
+      "surface": "חשבתי",
+      "gloss": "ngangicabanga"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukukwenza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kulo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:47:13.712570126Z",
+  "model": "glm-5.3"
+}

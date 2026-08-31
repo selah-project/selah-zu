@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 4:7",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Baphalishithi basaba, ngokuba bathi beseyo: U-Elohim ufikile enkampini. Basethi: Ha-a kithina! Ngokuba akuzange kwenzeke njalo izolo noma omunye umhlaba oqedile.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "basaba"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "Baphalishithi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bathi beseyo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ufikile"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "nkampini"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "basethi"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ha-a"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kithina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akuzange"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kwenzeke"
+    },
+    {
+      "surface": "כזאת",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "izolo"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "noma omunye umhlaba oqedile"
+    }
+  ],
+  "timestamp": "2026-08-31T03:15:50.992218501Z",
+  "model": "glm-5.3"
+}

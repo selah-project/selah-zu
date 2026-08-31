@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 39:15",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Benza phezu kwesifuba izintambo ezihlotshanisiwe, umsebenzi wokuzingeza, wegolide elihlane.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "isifuba"
+    },
+    {
+      "surface": "שרשרת",
+      "gloss": "izintambo"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "ezihlotshanisiwe"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "wokuzingeza"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wegolide"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "elihlane"
+    }
+  ],
+  "timestamp": "2026-08-31T01:47:06.610300961Z",
+  "model": "glm-5.3"
+}

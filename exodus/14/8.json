@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 14:8",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "uYahwe waqinisa ⟨את⟩ inhliziyo kaParo inkosi yaseMitsrayim, walandela emva kwabantwana bakwa-Israyeli; abantwana bakwa-Israyeli baphuma ngesandla esiphakeme.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "waqinisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inhliziyo kaParo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yaseMitsrayim"
+    },
+    {
+      "surface": "וירדף",
+      "gloss": "walandela"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva kwa-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "baphuma"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "esiphakeme"
+    }
+  ],
+  "timestamp": "2026-08-31T01:32:21.817616768Z",
+  "model": "glm-5.3"
+}

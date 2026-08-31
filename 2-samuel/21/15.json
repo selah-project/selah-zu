@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 21:15",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Kwaba khona futhi impi yamaFilisti ⟨את⟩ ⟨naye⟩ uIsrayeli; uDavide wehla, naleziqandeli zakhe naye, balwa namaFilisti, uDavide wabuthakathaka.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "Kwaba khona"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "impi"
+    },
+    {
+      "surface": "לפלשתים",
+      "gloss": "yamaFilisti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨naye⟩",
+      "marks": "uIsrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "wehla"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "naleziqandeli zakhe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "balwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ne-",
+      "marks": "amaFilisti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaFilisti"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "wabuthakathaka"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T03:43:20.307309604Z",
+  "model": "glm-5.3"
+}

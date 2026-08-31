@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 146:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 146,
+  "translation": "Ubusisiwe ⟨lowo⟩ ongusizo lwakhe ngu-Elohim kaYaakobu, ithemba lakhe likuYahwe iElohim yakhe.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Ubusisiwe"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "⟨lowo⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "kaYaakobu"
+    },
+    {
+      "surface": "בעזרו",
+      "gloss": "ongusizo lwakhe"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "ithemba lakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "liku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "iElohim yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:40.722628261Z",
+  "model": "glm-5.3"
+}

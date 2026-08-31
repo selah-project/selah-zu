@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Susa omoni ephambi kwenkosi, futhi isihlalo sakhe sizinziswa ngobulungisa.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "Susa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "omoni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ephambi kwe-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ויכון",
+      "gloss": "futhi ... sizinziswa"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "ngobulungisa"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "isihlalo sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:00:54.180575019Z",
+  "model": "glm-5.3"
+}

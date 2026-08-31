@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Ukulungile, ukulungile uzilandele, ukuze uphile, uthathe ⟨את⟩ ilizwe uYahwe uElohim wakho akunikezona kuwe.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "ukulungile"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ukulungile"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "uzilandele"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "uphile"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "uthathe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwa-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akunikezona"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:37:35.520351371Z",
+  "model": "glm-5.3"
+}

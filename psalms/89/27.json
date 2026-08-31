@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Yena uyangibiza: Wena unguyise wami, u-Elohim wami, nedwala losindiso lwami.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Yena"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "uyangibiza"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "unguyise wami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "u-Elohim wami"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "nedwala"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "losindiso lwami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:50.380011432Z",
+  "model": "glm-5.3"
+}

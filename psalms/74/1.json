@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 74:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 74,
+  "translation": "Umculo wokufundisa ka-Asaph: Kungani, uElohim, usisikile isikhashana, ushisa intukuthelo yakho ⟨ku⟩zimvu zokwakhiwa kwakho?",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "umculo wokufundisa"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ka-Asaph"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "usisikile"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "isikhashana"
+    },
+    {
+      "surface": "יעשן",
+      "gloss": "ushisa"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "intukuthelo yakho"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "⟨ku⟩zimvu"
+    },
+    {
+      "surface": "מרעיתך",
+      "gloss": "zokwakhiwa kwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:10.638466310Z",
+  "model": "glm-5.3"
+}

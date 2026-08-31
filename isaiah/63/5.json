@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 63:5",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 63,
+  "translation": "Ndabheka futhi, kwakungekho ⟨msizi⟩; ndamangalela futhi, kwakungekho ⟨oseqelayo⟩; ngakho ingalo yami yasindisela mina, futhi ulaka lwami — lona lwasekela mina.",
+  "tokens": [
+    {
+      "surface": "ואביט",
+      "gloss": "Ndabheka futhi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi, kwakungekho"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "msizi"
+    },
+    {
+      "surface": "ואשתומם",
+      "gloss": "ndamangalela futhi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi, kwakungekho"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "oseqelayo"
+    },
+    {
+      "surface": "ותושע",
+      "gloss": "yasindisela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "זרעי",
+      "gloss": "ingalo yami"
+    },
+    {
+      "surface": "וחמתי",
+      "gloss": "futhi ulaka lwami"
+    },
+    {
+      "surface": "היא",
+      "gloss": "lona"
+    },
+    {
+      "surface": "סמכתני",
+      "gloss": "lwasekela mina"
+    }
+  ],
+  "timestamp": "2026-08-31T04:37:11.530503195Z",
+  "model": "glm-5.3"
+}

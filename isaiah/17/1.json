@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Umthwalo weDamesheki. Bheka, iDamesheki iyasuswa ⟨kubudolobha⟩, futhi izuba yindumba yokonakala.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Umthwalo"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "weDamesheki"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "iDamesheki"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "iyasuswa"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "ekubeni idolobha"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "futhi izuba"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "indumba"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "yokonakala"
+    }
+  ],
+  "timestamp": "2026-08-31T04:22:38.136257068Z",
+  "model": "glm-5.3"
+}

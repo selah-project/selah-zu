@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 27:12",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Inkoselele izolibeka ⟨את⟩ phakathi kokuhle nakokubi; njengokubiza kwakho, wena inkoselele, njalo kuzoba.",
+  "tokens": [
+    {
+      "surface": "והעריך",
+      "gloss": "izolibeka ixabiso"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "inkoselele"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "phakathi kokuhle nakokubi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kuka-"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nakuka-"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "njengokubiza kwakho"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "inkoselele"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuzoba"
+    }
+  ],
+  "timestamp": "2026-08-31T02:07:03.281344129Z",
+  "model": "glm-5.3"
+}

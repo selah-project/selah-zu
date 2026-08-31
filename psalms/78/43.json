@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 78:43",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Lapho ebeka izinkomba zakhe eMitsrayim, nezimangaliso zakhe ensimini yakwaTsoani.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Lapho"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ebeka"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "izinkomba zakhe"
+    },
+    {
+      "surface": "ומופתיו",
+      "gloss": "nezimangaliso zakhe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ensimini"
+    },
+    {
+      "surface": "צען",
+      "gloss": "yakwaTsoani"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:39.626775137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "UNjalo uShalumi wazala ⟨את⟩ uYekamya, futhi uYekamya wazala ⟨את⟩ uElishama.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "UNjalo uShalumi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYekamya"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "uYekamya"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "futhi uYekamya"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElishama"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "uElishama"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:21.524219107Z",
+  "model": "glm-5.3"
+}

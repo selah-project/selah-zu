@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-kings 13:6",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Kodwa abaphendukanga ezonweni zendlu kaYarobhuamu, owayenza ⟨את⟩ iIsrayeli ihosa; kuqhubeka kuwo; futhi iAshera yayimi eSamariya.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "abaphendukanga"
+    },
+    {
+      "surface": "מחטאות",
+      "gloss": "ezonweni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "zendlu"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "kaYarobhuamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "onga-"
+    },
+    {
+      "surface": "החטי",
+      "gloss": "enza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iIsrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iIsrayeli"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "kuqhubeka"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "האשרה",
+      "gloss": "iAshera"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "yayimi"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "eSamariya"
+    }
+  ],
+  "timestamp": "2026-08-31T04:10:11.630638022Z",
+  "model": "glm-5.3"
+}

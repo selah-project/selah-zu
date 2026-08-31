@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 119:39",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Susa ⟨⟨את⟩⟩ izweli lami engililesaba, ngoba izinqumo zakho zilungile.",
+  "tokens": [
+    {
+      "surface": "העבר",
+      "gloss": "Susa"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "izweli lami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "lesaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "izinqumo zakho"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "zilungile"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:14.996674063Z",
+  "model": "glm-5.3"
+}

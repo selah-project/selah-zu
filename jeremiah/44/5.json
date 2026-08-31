@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 44:5",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Kodwa abazange balalele, futhi abazange bankaliki ⟨את⟩ izindlebe zabo ukubuyela ebubini babo, ukuze bangashisi insensi kuwo onkulunkulu abanye.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kodwa abazange"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "balalele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi abazange"
+    },
+    {
+      "surface": "הטו",
+      "gloss": "bankaliki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izindlebe zabo"
+    },
+    {
+      "surface": "אזנם",
+      "gloss": "izindlebe zabo"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ukubuyela"
+    },
+    {
+      "surface": "מרעתם",
+      "gloss": "ebubini babo"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ukuze bungeke"
+    },
+    {
+      "surface": "קטר",
+      "gloss": "bashise insensi"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuwo onkulunkulu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "abanye"
+    }
+  ],
+  "timestamp": "2026-08-31T04:59:46.401710576Z",
+  "model": "glm-5.3"
+}

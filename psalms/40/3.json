@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 40:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Wangikhuphula endlini yonakeleyo yamhlabathi adonsa, wamisa izinyawo zami phezu kwedwala, wenzimbela izinyathelo zami.",
+  "tokens": [
+    {
+      "surface": "ויעלני",
+      "gloss": "Wangikhuphula"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "endlini yonakeleyo"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "yamhlabathi adonsa"
+    },
+    {
+      "surface": "מטיט",
+      "gloss": "yamhlabathi adonsa"
+    },
+    {
+      "surface": "היון",
+      "gloss": "adonsa"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "dwala"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "izinyawo zami"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "wenzimbela"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "izinyathelo zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:11.272095175Z",
+  "model": "glm-5.3"
+}

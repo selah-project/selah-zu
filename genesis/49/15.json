@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Wabona ukuphumula ukuthi kulungile, no-⟨את⟩ umhlaba ukuthi umnandi; wanqabela isibambo sakhe ukuthwala, waba yinceku engumthwalo.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "Wabona"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ukuphumula"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kulungile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "umnandi"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "wanqabela"
+    },
+    {
+      "surface": "שכמו",
+      "gloss": "isibambo sakhe"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "ukuthwala"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "למס",
+      "gloss": "engumthwalo"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "yinceku"
+    }
+  ],
+  "timestamp": "2026-08-31T01:25:49.795429154Z",
+  "model": "glm-5.3"
+}

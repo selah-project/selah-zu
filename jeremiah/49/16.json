@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 49:16",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Uwesaba kwakho kukukholisile, no⟨את⟩ ukuzikhukhumala kwenhliziyo yakho, wena ohlala emigwenyeni yeombo lomhlaba, ubambe ubukhosi bendawo ephezulu; noma ukhuphule isibaya sakho njengenkongwane, ngikhona kukwehlisa lapho, kusho uYahwe.",
+  "tokens": [
+    {
+      "surface": "תפלצתך",
+      "gloss": "uwesaba kwakho"
+    },
+    {
+      "surface": "השיא",
+      "gloss": "kukukholisile"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ukuzikhukhumala"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "ukuzikhukhumala"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "kwenhliziyo yakho"
+    },
+    {
+      "surface": "שכני",
+      "gloss": "ohlala"
+    },
+    {
+      "surface": "בחגוי",
+      "gloss": "emigwenyeni"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "yeombo lomhlaba"
+    },
+    {
+      "surface": "תפשי",
+      "gloss": "ubambe"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ephezulu"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "ubukhosi bendawo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "noma"
+    },
+    {
+      "surface": "תגביה",
+      "gloss": "ukhuphule"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "njengenkongwane"
+    },
+    {
+      "surface": "קנך",
+      "gloss": "isibaya sakho"
+    },
+    {
+      "surface": "משם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "אורידך",
+      "gloss": "ngikhona kukwehlisa"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kusho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:01:30.094275004Z",
+  "model": "glm-5.3"
+}

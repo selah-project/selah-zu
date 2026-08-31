@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "IYisrayeli wathi: Yini nanenzela okubi kangaka kimi, ngokumtshela lo muntu ukuthi ninaye omunye umfowenu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisrayeli"
+    },
+    {
+      "surface": "למה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "nanenzela okubi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "ukumtshela"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "lo muntu"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "kutholakala"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "אח",
+      "gloss": "umfowenu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:23:20.170874173Z",
+  "model": "glm-5.3"
+}

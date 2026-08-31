@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 35:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Futhi inefeshi yami izothokoza nguYahwe, izujabula esindisweni sakhe.",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "futhi inefeshi yami"
+    },
+    {
+      "surface": "תגיל",
+      "gloss": "izothokoza"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "תשיש",
+      "gloss": "izujabula"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "esindisweni sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:57.158468416Z",
+  "model": "glm-5.3"
+}

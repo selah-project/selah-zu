@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 3:14",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngakho-ke ngifungile ngasebzinwaneni zomuzi ka- Eli ukuthi engeke inkonzo yobubi yomuzi ka- Eli isuswe ngesiphelo nangomnikelo, kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "ולכן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "ngifungile"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ngomuzi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka- Eli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "engeke"
+    },
+    {
+      "surface": "יתכפר",
+      "gloss": "isuswe"
+    },
+    {
+      "surface": "עון",
+      "gloss": "inkonzo yobubi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "omuzi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ka- Eli"
+    },
+    {
+      "surface": "בזבח",
+      "gloss": "ngesiphelo"
+    },
+    {
+      "surface": "ובמנחה",
+      "gloss": "nangomnikelo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T03:16:00.374291050Z",
+  "model": "glm-5.3"
+}

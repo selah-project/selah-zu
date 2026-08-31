@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Inkosi yakwaMitsrayim yakhuluma kozalwane bokubeletha abamaHebheru, egama lomunye kwaba yiShifra, negama lomunye wesibili uPua.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yakhuluma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yakwaMitsrayim"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "kozalwane bokubeletha"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "abamaHebheru"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "egama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "lomunye"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "yiShifra"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "negama"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "lomunye wesibili"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "uPua"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:29.485736509Z",
+  "model": "glm-5.3"
+}

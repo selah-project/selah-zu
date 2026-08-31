@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Abazidlayo bangihlehlise kakhulu; entholweni yakho angaziguqulanga.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "Abazidlayo"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "bangihlehlise"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kude"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "entholweni yakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angazi-"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "-guqulanga"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:56.457660346Z",
+  "model": "glm-5.3"
+}

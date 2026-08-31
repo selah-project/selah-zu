@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Kodwa uma kuvela ukulimala okukhulu, uzonikeza inefeshi engaphansi kwenefeshi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Kodwa uma"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "ukulimala okukhulu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuvela"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "uzonikeza"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "inefeshi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "engaphansi kwe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "inefeshi"
+    }
+  ],
+  "timestamp": "2026-08-31T11:39:36.829080894Z",
+  "model": "glm-5.3"
+}

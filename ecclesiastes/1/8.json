@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Izinto zonke ziyadina, umuntu akakwazi ukuzikhuluma; iso alisaseli ukubona, futhi indlovu ayigcwalisi ukuzeva.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "izinto"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "ziyadina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "akakwazi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ukuzikhuluma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "alisaseli"
+    },
+    {
+      "surface": "עין",
+      "gloss": "iso"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi cha"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ayigcwalisi"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "indlovu"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ukuzeva"
+    }
+  ],
+  "timestamp": "2026-08-31T07:43:47.631222055Z",
+  "model": "glm-5.3"
+}

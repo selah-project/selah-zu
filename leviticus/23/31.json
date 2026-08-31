@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 23:31",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Konke umsebenzi ningenawenza; ⟨ku⟩-yisimiso se-olamu kuzizukulwane zenu, kuzo zonke izindawo zokuhlala zenu.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ningawenza"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "isimiso"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "se-olamu"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "kuzizukulwane zenu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "izindawo zokuhlala zenu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:14:49.244597865Z",
+  "model": "glm-5.3"
+}

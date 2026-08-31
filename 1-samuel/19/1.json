@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 19:1",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "USawuli wakhuluma noYonathani indodana yakhe, nayo yonke izinceku zakhe, ukubulala ⟨את⟩ uDavide; uYonathani indodana kaSawuli wayethanda uDavide kakhulu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uSawuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no-"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "uYonathani"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "no-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "izinceku zakhe"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ukubulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDavide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "uYonathani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uSawuli"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "wayethanda"
+    },
+    {
+      "surface": "בדוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:25:10.831149485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 23:40",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Futhi nizothatha kuni ngosuku lokuqala isithelo somuthi wobuhle, amaqabunga ezomkhomo, ithuba lomuthi ogcwele amaqabunga, namakhuni omlambo; futhi nizothokoza phambi kukaYahwe uElohim wenu izinsuku eziyisikhombisa.",
+  "tokens": [
+    {
+      "surface": "ולקחתם",
+      "gloss": "Futhi nizothatha"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "lokuqala"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "isithelo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "somuthi"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "wobuhle"
+    },
+    {
+      "surface": "כפת",
+      "gloss": "amaqabunga"
+    },
+    {
+      "surface": "תמרים",
+      "gloss": "ezomkhomo"
+    },
+    {
+      "surface": "וענף",
+      "gloss": "ithuba"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "lomuthi"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "ogcwele amaqabunga"
+    },
+    {
+      "surface": "וערבי",
+      "gloss": "namakhuni"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "omlambo"
+    },
+    {
+      "surface": "ושמחתם",
+      "gloss": "futhi nizothokoza"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "eziyi-"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku esikhombisa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:05:47.127866355Z",
+  "model": "glm-5.3"
+}

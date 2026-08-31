@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 26:4",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "futhi nizonikeza izimvula zenu ngesikhathi zazo, futhi umhlaba uzonikeza ukhiqize wakhe, futhi izihlahla zasimunye zonikeza izithombo zazo —",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "futhi nizonikeza"
+    },
+    {
+      "surface": "גשמיכם",
+      "gloss": "izimvula zenu"
+    },
+    {
+      "surface": "בעתם",
+      "gloss": "ngesikhathi zazo"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "futhi uzonikeza"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ukhiqize wakhe"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "futhi izihlahla"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "zasimunye"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "zonikeza"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "izithombo zazo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:05:44.599840954Z",
+  "model": "glm-5.3"
+}

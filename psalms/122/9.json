@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 122,
+  "translation": "Ngenxa yendlu kaYahwe uElohim wethu, ngizofuna okuhle kuwena.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ngenxa ya-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "ngizofuna"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwena"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:17.796834681Z",
+  "model": "glm-5.3"
+}

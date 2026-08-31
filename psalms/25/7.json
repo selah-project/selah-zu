@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 25:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Izono zobusha bami neziphambeko zimi ungazikhumbuli; ngesikhesedi sakho khumbula mina, wena, ngenxa yokuhle kwakho, uYahwe.",
+  "tokens": [
+    {
+      "surface": "חטאות",
+      "gloss": "izono"
+    },
+    {
+      "surface": "נעורי",
+      "gloss": "zobusha bami"
+    },
+    {
+      "surface": "ופשעי",
+      "gloss": "neziphambeko zami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "zikhumbuli"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "ngesikhesedi sakho"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "khumbula"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa yezwi"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "yokuhle kwakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:58.116570473Z",
+  "model": "glm-5.3"
+}

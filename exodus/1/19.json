@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 1:19",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Abazalisi bathi kuParo: Ngesoba abesifazana baseHebheru angeke njengabesifazana baseMitsrayim, ngoba basemandla; ngaphambi kokuba umzalisi efike kubona, sebezalile.",
+  "tokens": [
+    {
+      "surface": "ותאמרן",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "abazalisi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngesoba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "כנשים",
+      "gloss": "njengabesifazana"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "baseMitsrayim"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "abesifazana baseHebheru"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "basemandla"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨bona⟩"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ngaphambi kokuba"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "efike"
+    },
+    {
+      "surface": "אלהן",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "umzalisi"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "sebezalile"
+    }
+  ],
+  "timestamp": "2026-08-31T01:26:07.388520735Z",
+  "model": "glm-5.3"
+}

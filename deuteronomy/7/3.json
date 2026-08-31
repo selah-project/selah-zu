@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi ungashadisizi kubo: indodakazi yakho ungayiniki ndodana yakhe, futhi indodakazi yakhe ungayithathi yodwa ndodana yakho.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "futhi unga"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "shadisizi"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "indodakazi yakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "yiniki"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ndodana yakhe"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "futhi indodakazi yakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "yithathi"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "yodwa ndodana yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T02:33:24.053330623Z",
+  "model": "glm-5.3"
+}

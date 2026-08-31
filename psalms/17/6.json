@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Mina ngibizile wena, ngokuba wena ungangiphendula, u-El; thoba indlebe yakho kum, uzwe inkulumo yami.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "ngibizile wena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ungangiphendula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "הט",
+      "gloss": "thoba"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "indlebe yakho"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kum"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uzwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "inkulumo yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:59.621292515Z",
+  "model": "glm-5.3"
+}

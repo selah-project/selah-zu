@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 77:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 77,
+  "translation": "Ngiyakhumbula u-Elohim, ngiyazula; ngicinga, umoya wami uyathwasa. Selah.",
+  "tokens": [
+    {
+      "surface": "אזכרה",
+      "gloss": "Ngiyakhumbula"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "ואהמיה",
+      "gloss": "ngiyazula"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "ngicinga"
+    },
+    {
+      "surface": "ותתעטף",
+      "gloss": "uyathwasa"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "umoya wami"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:51.194557963Z",
+  "model": "glm-5.3"
+}

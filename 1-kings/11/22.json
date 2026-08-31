@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 11:22",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "uParo wathi kuye: kukho mhlawumbe okusizayo na kimi, bheka, ufunxa ukuhamba ezweni lakho? wathi: cha; kodwa ngempela ungithumele.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "mhlawumbe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kukho…na"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "okusizayo"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "והנך",
+      "gloss": "bheka wena"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ufunxa"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuhamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ezweni lakho"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ngimpela"
+    },
+    {
+      "surface": "תשלחני",
+      "gloss": "ungithumele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:06:39.617329904Z",
+  "model": "glm-5.3"
+}

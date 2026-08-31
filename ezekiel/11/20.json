@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 11:20",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Ukuze bahambe ngezimiso zami, futhi ⟨את⟩ izinqumo zami bazigcine, bazenze ⟨את⟩ izona; futhi bayoba yisizwe esingeyami, futhi mina ngiyoba yinguElohim wabo.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ukuze"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "ngezimiso zami"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bahambe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "izinqumo zami"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "izinqumo zami"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "bazigcine"
+    },
+    {
+      "surface": "ועשו",
+      "gloss": "futhi bazenze"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ izona",
+      "marks": "izimiso nezinqumo zami"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "futhi bayoba"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "futhi mina"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ngiyoba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T05:08:17.010295966Z",
+  "model": "glm-5.3"
+}

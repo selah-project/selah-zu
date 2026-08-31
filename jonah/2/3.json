@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 2:3",
+  "book": "jonah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "wathi: Ngikhalela engcindezeleni yami kuYahwe, wangiphendula; esisiswini seSheol ngikhale, wezwa izwi lami.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ngikhalela"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "engcindezeleni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "yami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויענני",
+      "gloss": "wangiphendula"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "esisiswini"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "iSheol"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ngikhale"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "wezwa"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "izwi lami"
+    }
+  ],
+  "timestamp": "2026-08-31T05:35:39.907335201Z",
+  "model": "glm-5.3"
+}

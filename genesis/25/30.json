@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 25:30",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "uEsav wathi kuYaakob: Ngiphuzise ngesicotho le nto ebomvu, ebomvu le, ngoba ngidangele. Ngaleso sizathu kwabizwa igama lakhe u-Edoma.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uEsav"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakob"
+    },
+    {
+      "surface": "הלעיטני",
+      "gloss": "Ngiphuzise"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngesicotho"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ebomvu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ebomvu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "ngidangele"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaleso"
+    },
+    {
+      "surface": "כן",
+      "gloss": "sizathu"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "kwabizwa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "u-Edoma"
+    }
+  ],
+  "timestamp": "2026-08-31T01:12:54.570977672Z",
+  "model": "glm-5.3"
+}

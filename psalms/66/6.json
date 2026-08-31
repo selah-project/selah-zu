@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 66:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 66,
+  "translation": "Wakushintsha ulwandle laba yomhlabathi owomile; phakathi kolwandle bayadlula ngezinyawo; lapho thina sijabula ngaye.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Wakushintsha"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "ליבשה",
+      "gloss": "laba yomhlabathi owomile"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "phakathi kolwandle"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "bayadlula"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "ngezinyawo"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "נשמחה",
+      "gloss": "thina sijabula"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngaye"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:22.334610628Z",
+  "model": "glm-5.3"
+}

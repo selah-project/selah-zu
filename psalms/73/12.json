@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 73:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Bheka, laba bayoni, abanenhlobo phakade, beveza ubucebesi.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "laba"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "bayoni"
+    },
+    {
+      "surface": "ושלוי",
+      "gloss": "abanenhlobo"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "השגו",
+      "gloss": "beveza"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ubucebesi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:39.518556200Z",
+  "model": "glm-5.3"
+}

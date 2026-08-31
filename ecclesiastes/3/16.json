@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi okuningi ngibone ngaphansi kwelanga: endaweni yesigwebo khona ububi, nase ndaweni yokulunga khona ububi.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "futhi okuningi"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ngibone"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi kwe-"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kelanga"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "yesigwebo"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "khona"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "nase ndaweni"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "yokulunga"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "khona"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "ububi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:44:45.677311179Z",
+  "model": "glm-5.3"
+}

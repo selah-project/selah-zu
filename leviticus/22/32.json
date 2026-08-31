@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 22:32",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Futhi ningayonakalisi ⟨את⟩ igama lami elingcwele; futhi ngizangcwatshiswa phakathi kwabantwana bakwa-Israyeli; nginguYahwe oningcwelezisa.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "futhi cha"
+    },
+    {
+      "surface": "תחללו",
+      "gloss": "ningayonakalisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lami elingcwele"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "lami elingcwele"
+    },
+    {
+      "surface": "ונקדשתי",
+      "gloss": "futhi ngizangcwatshiswa"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi kwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana bakwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "אני",
+      "gloss": "nginguYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nginguYahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "oningcwelezisa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:01:42.270348202Z",
+  "model": "glm-5.3"
+}

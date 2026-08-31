@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 32:11",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Njengenkanka evusa ukufulela kwesibaya sayo, ebambelela phezu kwezinyoni zayo ezincane, esabiza amaphiko ayo, ethatha yona, ibe yisibindi esiphephetha phezu kophiko lwayo — uYahwe.",
+  "tokens": [
+    {
+      "surface": "כנשר",
+      "gloss": "njengenkanka"
+    },
+    {
+      "surface": "יעיר",
+      "gloss": "evusa"
+    },
+    {
+      "surface": "קנו",
+      "gloss": "isibaya sayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwezinyoni zayo ezincane"
+    },
+    {
+      "surface": "גוזליו",
+      "gloss": "phezu kwezinyoni zayo ezincane"
+    },
+    {
+      "surface": "ירחף",
+      "gloss": "ebambelela"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "esabiza"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "amaphiko ayo"
+    },
+    {
+      "surface": "יקחהו",
+      "gloss": "ethatha yona"
+    },
+    {
+      "surface": "ישאהו",
+      "gloss": "ibe yisibindi esiphephetha"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "אברתו",
+      "gloss": "kophiko lwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:46:44.508174467Z",
+  "model": "glm-5.3"
+}

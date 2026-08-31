@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 20:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Sizophakamisa izwi lethemba lesiphephelo sakho, futhi ngegama likaElohim wethu sizophakamisa ibhulukwe; uYahwe uzazalisa zonke izicelo zakho.",
+  "tokens": [
+    {
+      "surface": "נרננה",
+      "gloss": "Sizophakamisa izwi lethemba"
+    },
+    {
+      "surface": "בישועתך",
+      "gloss": "ngesiphephelo sakho"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "futhi ngegama"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "likaElohim wethu"
+    },
+    {
+      "surface": "נדגל",
+      "gloss": "sizophakamisa ibhulukwe"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "uzazalisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "משאלותיך",
+      "gloss": "izicelo zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:21.431457616Z",
+  "model": "glm-5.3"
+}

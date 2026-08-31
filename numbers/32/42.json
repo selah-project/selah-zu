@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 32:42",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Futhi uNovahi wahamba wathatha ⟨את⟩ iKenathi no⟨את⟩ amadodana ayo, wayibiza ngegama lakhe uNovahi.",
+  "tokens": [
+    {
+      "surface": "ונבח",
+      "gloss": "Futhi uNovahi"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKenathi"
+    },
+    {
+      "surface": "קנת",
+      "gloss": "iKenathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "amadodana ayo"
+    },
+    {
+      "surface": "בנתיה",
+      "gloss": "amadodana ayo"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wayibiza"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yona"
+    },
+    {
+      "surface": "נבח",
+      "gloss": "uNovahi"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "ngegama lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:25:23.594598706Z",
+  "model": "glm-5.3"
+}

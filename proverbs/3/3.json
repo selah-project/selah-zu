@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ikhesedi nenqiniso kungakushiyi; zibophe emqameni wakho, uzibhale ethebhuludini lenhliziyo yakho.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "nenqiniso"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kunga-"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "shiyi"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "zibophe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "emqameni wakho"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "uzibhale"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "ethebhuludini"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "lenhliziyo yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:48:06.462020608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 1:25",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Wayabonisa ⟨את⟩ umkhondo wendawo, basebeqha ⟨את⟩ le ndawo ngomlomo wendlameni, kepha lowo muntu nabayiphele ndabeni bakhipha bonke abantu bakhe basebebeka eceleni.",
+  "tokens": [
+    {
+      "surface": "ויראם",
+      "gloss": "wabonisa-wo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umkhondo wendawo"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "umkhondo wendawo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "le ndawo"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "basebeqha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le ndawo"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "le ndawo"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ngomlomo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "wendlameni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lowo muntu"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lowo muntu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bayiphele ndabeni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bayiphele ndabeni"
+    },
+    {
+      "surface": "משפחתו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "bakhuphela eceleni"
+    }
+  ],
+  "timestamp": "2026-08-31T03:01:08.619568210Z",
+  "model": "glm-5.3"
+}

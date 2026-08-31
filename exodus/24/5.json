@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 24:5",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Wayethumela ⟨את⟩ izinsizwa zabantwana baka-Israeli, zaze zaphekela izinhlawulo zokushiswa, zadumba izinhlawulo zokuthula kuYahwe — izingunyazi.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wayethumela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinsizwa zabantwana baka-Israeli"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "izinsizwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana baka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israeli"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "zaphekela"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "izinhlawulo zokushiswa"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "zadumba"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "izinhlawulo"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "zokuthula"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "izingunyazi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:38:44.499775186Z",
+  "model": "glm-5.3"
+}

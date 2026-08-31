@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 29:12",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Futhi uzothatha egazini lenkunzi, futhi uzofaka emikhonweni yesibekelo ngesig sakho; futhi ⟨את⟩ igazi lonke uzolichitha esisekelweni sesibekelo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "futhi uzothatha"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "egazini"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "lenkunzi"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "futhi uzofaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku–"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "emikhonweni"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "yesibekelo"
+    },
+    {
+      "surface": "באצבעך",
+      "gloss": "ngesig sakho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "igazi lonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "igazi"
+    },
+    {
+      "surface": "תשפך",
+      "gloss": "uzolichitha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku–"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "esisekelweni"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sesibekelo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:40:56.572969412Z",
+  "model": "glm-5.3"
+}

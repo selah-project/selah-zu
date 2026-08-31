@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 34:13",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Ngokuba izimpawu zokunikela ezibukhosi zabo nizozitshonalisa, izinti eziqinisiwe zabo nizozichitha-phangisa, futhi izihlahla ze-Asherah zayo nizozidabula.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izimpawu zokunikela ezibukhosi zabo"
+    },
+    {
+      "surface": "מזבחתם",
+      "gloss": "izimpawu zokunikela ezibukhosi zabo"
+    },
+    {
+      "surface": "תתצון",
+      "gloss": "nizozitshonalisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izinti eziqinisiwe zabo"
+    },
+    {
+      "surface": "מצבתם",
+      "gloss": "izinti eziqinisiwe zabo"
+    },
+    {
+      "surface": "תשברון",
+      "gloss": "nizozichitha-phangisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izihlahla ze-Asherah zayo"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "izihlahla ze-Asherah zayo"
+    },
+    {
+      "surface": "תכרתון",
+      "gloss": "nizozidabula"
+    }
+  ],
+  "timestamp": "2026-08-31T01:43:23.574078906Z",
+  "model": "glm-5.3"
+}

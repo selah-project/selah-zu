@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 68:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 68,
+  "translation": "Ubaba wezingane ezinganazali, nomahluleli wezihlalu, uElohim endlini yakhe engcwele.",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "Ubaba"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "wezingane ezinganazali"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "nomahluleli"
+    },
+    {
+      "surface": "אלמנות",
+      "gloss": "wezihlalu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "במעון",
+      "gloss": "endlini yakhe"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "engcwele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:41.791253935Z",
+  "model": "glm-5.3"
+}

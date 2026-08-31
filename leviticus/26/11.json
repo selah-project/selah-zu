@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 26:11",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi ngiyobeka itende lami phakathi kwenu, futhi umphefumulo wami awunawo ukuzonda ⟨את⟩ nina.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "futhi ngiyobeka"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "itende lami"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "phakathi kwenu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi cha"
+    },
+    {
+      "surface": "תגעל",
+      "gloss": "ukuzonda\/ukwalasa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumulo wami"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    }
+  ],
+  "timestamp": "2026-08-31T02:05:26.331954124Z",
+  "model": "glm-5.3"
+}

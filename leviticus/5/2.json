@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 5:2",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Noma inefeshi ethinta noma yiluphi udaka, noma umzimba ofile wezilwane ezingcolile, noma umzimba ofile wezinkomo ezingcolile, noma umzimba ofile wezilwane ezinyamalalayo ezingcolile, loko kufihlekile kuyena, yena ungcolile, aphinde abe nesono.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "inefeshi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engu"
+    },
+    {
+      "surface": "תגע",
+      "gloss": "ethinta"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "noma yiluphi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "udaka"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "olungcolile"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "בנבלת",
+      "gloss": "umzimba ofile we"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "izilwane"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "ezingcolile"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "בנבלת",
+      "gloss": "umzimba ofile we"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "izinkomo"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "ezingcolile"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "בנבלת",
+      "gloss": "umzimba ofile we"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "izilwane ezinyamalalayo"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ezingcolile"
+    },
+    {
+      "surface": "ונעלם",
+      "gloss": "kufihlekile"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ungcolile"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "aphinde abe nesono"
+    }
+  ],
+  "timestamp": "2026-08-31T01:52:55.680659839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi ngeza ⟨את⟩ indodana yensizakazi ngizoyibeka ibe yisizwe, ngoba uyimbewu yakho yona.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Futhi ngeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indodana yensizakazi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "yensizakazi"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ibe yisizwe"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "ngizoyibeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "imbewu yakho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yona"
+    }
+  ],
+  "timestamp": "2026-08-31T01:11:30.935377945Z",
+  "model": "glm-5.3"
+}

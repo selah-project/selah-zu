@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 106:24",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Balahla umhlaba ofisayo, abakholelwa ezweni lakhe.",
+  "tokens": [
+    {
+      "surface": "וימאסו",
+      "gloss": "balahla"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "חמדה",
+      "gloss": "ofisayo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "abakholelwa"
+    },
+    {
+      "surface": "לדברו",
+      "gloss": "ezweni lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:43.370168671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 96:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 96,
+  "translation": "Tshazani inkazimulo yakhe ezizweni, emizweni {yonke} izimangaliso zakhe.",
+  "tokens": [
+    {
+      "surface": "ספרו",
+      "gloss": "Tshazani"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ezizweni"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "inkazimulo yakhe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "emizweni {yonke}"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "emizweni"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "izimangaliso zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:27.825150945Z",
+  "model": "glm-5.3"
+}

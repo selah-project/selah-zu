@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 86,
+  "translation": "Thokozisa inefeshi yezinkonzi zakho, ngoba kuwena, Nkos' u-Adonayi, inefeshi yami ngiyayiphakamisa.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Thokozisa"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "inefeshi"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "yezinkonzi zakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwena"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Nkos' u-Adonayi"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ngiyayiphakamisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:07.337281385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 26:17",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "⟨את⟩ uYahwe uye wamemeza namuhla ukuthi abe nguElohim wakho, nokuhamba ezindleleni zakhe, nokugcina izimiso zakhe nemiyalo yakhe nomahlulelo wakhe, nokulalela izwi lakhe.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "האמרת",
+      "gloss": "uye wamemeza"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ukuthi abe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwena"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "nguElohim"
+    },
+    {
+      "surface": "וללכת",
+      "gloss": "nokuhamba"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "ezindleleni zakhe"
+    },
+    {
+      "surface": "ולשמר",
+      "gloss": "nokugcina"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "izimiso zakhe"
+    },
+    {
+      "surface": "ומצותיו",
+      "gloss": "nemyalo yakhe"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "nomahlulelo wakhe"
+    },
+    {
+      "surface": "ולשמע",
+      "gloss": "nokulalela"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "izwi lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:42:18.047468290Z",
+  "model": "glm-5.3"
+}

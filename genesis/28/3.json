@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 28:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Futhi u-El Shadayi akusikisele, akukhulise, akwandise, ube yiqoqo lamazwe.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Futhi u-El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadayi"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "akusikisele"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "wena"
+    },
+    {
+      "surface": "ויפרך",
+      "gloss": "akukhulise"
+    },
+    {
+      "surface": "וירבך",
+      "gloss": "akwandise"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ube"
+    },
+    {
+      "surface": "לקהל",
+      "gloss": "yiqoqo"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "lamazwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:15:51.416229053Z",
+  "model": "glm-5.3"
+}

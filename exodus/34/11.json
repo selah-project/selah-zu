@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 34:11",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Gcina wena ⟨את⟩ lokho engikuyala khona namuhla; bhele, mina ngixosha phambi kwakho ⟨את⟩ ama-Emori, amaKanani, amaHiti, amaPerizi, amaHivi, namaYebusi.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Gcina"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokho engikuyala khona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ngikuyala"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bhele, mina"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "ngixosha"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ama-Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ama-Emori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "amaKanani"
+    },
+    {
+      "surface": "והחתי",
+      "gloss": "amaHiti"
+    },
+    {
+      "surface": "והפרזי",
+      "gloss": "amaPerizi"
+    },
+    {
+      "surface": "והחוי",
+      "gloss": "amaHivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "amaYebusi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:44:00.261654659Z",
+  "model": "glm-5.3"
+}

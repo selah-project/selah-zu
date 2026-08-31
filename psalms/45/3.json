@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 45:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Umhle kakhudlwana kubantwana babantu; umboko wathathelwa emlonyeni wakho; ngakho-ke uElohim ukusisizele ngokuphakade.",
+  "tokens": [
+    {
+      "surface": "יפיפית",
+      "gloss": "Umhle kakhudlwana"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "kubantwana baka-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הוצק",
+      "gloss": "wathathelwa"
+    },
+    {
+      "surface": "חן",
+      "gloss": "umboko (umusa omuhle)"
+    },
+    {
+      "surface": "בשפתותיך",
+      "gloss": "emlonyeni wakho (ezindebeni zakho)"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "lokho (ngakho-ke)"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "ukusisizele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ngokuphakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:23.348248275Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 8:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Emlonyeni wezinsana nezinsana ezincane usungule amandla, ngenxa yezitha zakho, ukuthulisa isitha nomzuzisi.",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "Emlonyeni"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "wezinsana"
+    },
+    {
+      "surface": "וינקים",
+      "gloss": "nezinsana ezincane"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "usungule"
+    },
+    {
+      "surface": "עז",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa yezitha zakho"
+    },
+    {
+      "surface": "צורריך",
+      "gloss": "ngenxa yezitha zakho"
+    },
+    {
+      "surface": "להשבית",
+      "gloss": "ukuthulisa"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "isitha"
+    },
+    {
+      "surface": "ומתנקם",
+      "gloss": "nomzuzisi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:46:50.712804239Z",
+  "model": "glm-5.3"
+}

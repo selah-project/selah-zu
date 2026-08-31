@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 57:12",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 57,
+  "translation": "Mina ngizokudalula ubulungiswa bakho, ne-⟨את⟩ imisebenzi yakho, kodwa leyo ngeke ikusize.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ngizokudalula"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ubulungiswa bakho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imisebenzi yakho"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "imisebenzi yakho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa cha"
+    },
+    {
+      "surface": "יועילוך",
+      "gloss": "ngeke ikusize"
+    }
+  ],
+  "timestamp": "2026-08-31T04:34:37.945793330Z",
+  "model": "glm-5.3"
+}

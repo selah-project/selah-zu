@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 6:22",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Uma uhamba izokukhokhela ⟨את⟩ we; uma ulala izokuvikela phezu kwakho; futhi uma uvuka, yona izokhuluma nawe.",
+  "tokens": [
+    {
+      "surface": "בהתהלכך",
+      "gloss": "uma uhamba"
+    },
+    {
+      "surface": "תנחה",
+      "gloss": "izokukhokhela"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "we"
+    },
+    {
+      "surface": "בשכבך",
+      "gloss": "uma ulala"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "izokuvikela"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "phezu kwakho"
+    },
+    {
+      "surface": "והקיצות",
+      "gloss": "futhi uma uvuka"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yona"
+    },
+    {
+      "surface": "תשיחך",
+      "gloss": "izokhuluma nawe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:45.425832979Z",
+  "model": "glm-5.3"
+}

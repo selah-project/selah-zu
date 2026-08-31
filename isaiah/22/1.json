@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Umthwalo wesiganga sezibono. Kwenzenjani-ke kuwe manje, ukuthi ukhwele wonke phezulu ezindlini?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Umthwalo"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "wesiganga"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "sezibono"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Kwenzenjani"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "manje"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "ukhwele"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "phezulu ezindlini"
+    }
+  ],
+  "timestamp": "2026-08-31T04:22:59.708452497Z",
+  "model": "glm-5.3"
+}

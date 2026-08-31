@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 14:22",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "futhi amathoba amabili noma amajenge amabili, okwasandla sakhe esifinyelelayo; okulodwa kuzoba isono, futhi elinye isishiso;",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "futhi amabili"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "amathoba"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "שני",
+      "gloss": "amabili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amajenge"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "amajenge"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwa"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "esifinyelelayo"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "futhi kuzoba"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "okulodwa"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "isono"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "futhi elinye"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "isishiso"
+    }
+  ],
+  "timestamp": "2026-08-31T05:58:13.593645010Z",
+  "model": "glm-5.3"
+}

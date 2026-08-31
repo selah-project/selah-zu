@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 40:20",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Wathatha, wabeka ⟨את⟩ ubufakazi e-aroni, wafaka ⟨את⟩ izigodo e-aronini, wabeka ⟨את⟩ isikhanselo phezu kwe-aroni ngaphezulu.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubufakazi"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ubufakazi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wafaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izigodo"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "izigodo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aronini"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isikhanselo"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "isikhanselo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "aroni"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ngaphezulu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:50:21.047704103Z",
+  "model": "glm-5.3"
+}

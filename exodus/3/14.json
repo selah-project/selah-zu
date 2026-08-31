@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 3:14",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "uElohim wathi kuMoshe: Ngingiyona engiyona. Waphinda wathi: Uzotsho kanje kubantwana bakwa-Israyeli: Ngingiyona ungithumele kini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ngingiyona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "yona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "waphinda wathi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kanje"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "uzotsho"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kubantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "Ngingiyona"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ungithumele"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kini"
+    }
+  ],
+  "timestamp": "2026-08-31T05:57:09.611071970Z",
+  "model": "glm-5.3"
+}

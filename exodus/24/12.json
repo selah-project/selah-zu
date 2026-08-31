@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 24:12",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "uYahwe wathi kuMoshe: Yeqa elethwendwe ukuya kimi, ubelapho, benginikeza ⟨את⟩ amatafula edwala, nomthetho, nomyalo engiwabhalela ukuba ubaholele.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Yeqa"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ukuya kimi"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "elethwendwe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ube"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "benginikeza"
+    },
+    {
+      "surface": "לך",
+      "gloss": "we"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatafula edwala"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "amatafula"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "edwala"
+    },
+    {
+      "surface": "והתורה",
+      "gloss": "nomthetho"
+    },
+    {
+      "surface": "והמצוה",
+      "gloss": "nomyalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engiwabhalela"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "bengiwabhala"
+    },
+    {
+      "surface": "להורתם",
+      "gloss": "ukuba ubaholele"
+    }
+  ],
+  "timestamp": "2026-08-31T10:12:46.791735718Z",
+  "model": "glm-5.3"
+}

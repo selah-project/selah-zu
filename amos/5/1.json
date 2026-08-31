@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Lalelani leliZwi ⟨את⟩ lokhu engiliphakamisela kini — intshialo, ndlu yakwaSirayeli.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Lalelani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leliZwi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "leliZwi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okuthi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ngiliphakamisela"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "intshialo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yakwaSirayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T05:33:52.146880624Z",
+  "model": "glm-5.3"
+}

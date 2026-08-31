@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 32:8",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Njalo-ke benza obaba benu, lapho ngibathumela ⟨את⟩ kusuka eKadesh-bhanea ukubona ⟨את⟩ ilizwe.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "njalo-ke"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "obaba benu"
+    },
+    {
+      "surface": "בשלחי",
+      "gloss": "lapho ngibathumela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "obaba benu \/ kusuka eKadesh-bhanea"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "kusuka e-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Kadesh-bhanea"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ukubona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilizwe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:16:50.100824049Z",
+  "model": "glm-5.3"
+}

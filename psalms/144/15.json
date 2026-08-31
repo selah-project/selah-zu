@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 144:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 144,
+  "translation": "Bathuliswe abantu abakunjalo kuyena; bathuliswe abantu abakuyo uYahwe engu-Elohim wabo.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "bathuliswe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "שככה",
+      "gloss": "abakunjalo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "bathuliswe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "שיהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "engu-Elohim wabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:00.972542070Z",
+  "model": "glm-5.3"
+}

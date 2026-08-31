@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 20:9",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Ngokuba yilowo nalowo umuntu ozokhalima ⟨את⟩ uyise no-⟨את⟩ unina, ngokufa uzofa; uyise no-unina ukhalele — igazi lakhe lili-e.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yilowo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "nalowo umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ozokhalima"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "ukhalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyise"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "unina"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "unina"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ngokufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "uzofa"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "no-unina"
+    },
+    {
+      "surface": "קלל",
+      "gloss": "ukhalele"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "igazi lakhe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-08-31T02:02:03.770665196Z",
+  "model": "glm-5.3"
+}

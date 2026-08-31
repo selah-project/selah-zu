@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "haggai 1:4",
+  "book": "haggai",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ingabe yisikhathi ngani—nihlangabezene nihlangana—ukuhlala ezindlini zenu ezinophahla oluhleliwe, yilé ndlu ise yenakile?",
+  "tokens": [
+    {
+      "surface": "העת",
+      "gloss": "Ingabe yisikhathi"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ngani"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nihlangabezene"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ukuhlala"
+    },
+    {
+      "surface": "בבתיכם",
+      "gloss": "ezindlini zenu"
+    },
+    {
+      "surface": "ספונים",
+      "gloss": "ezinophahla oluhleliwe"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "yilé ndlu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "isenakile"
+    }
+  ],
+  "timestamp": "2026-08-31T05:41:22.111223995Z",
+  "model": "glm-5.3"
+}

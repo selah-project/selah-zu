@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 20:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Makathumele ⟨⟨lusizo⟩⟩ lwakho esigungwini esingcwele; aze eZiyoni makusekele.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "Makathumele"
+    },
+    {
+      "surface": "עזרך",
+      "gloss": "lusizo lwakho"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "esigungwini esingcwele"
+    },
+    {
+      "surface": "ומציון",
+      "gloss": "aze eZiyoni"
+    },
+    {
+      "surface": "יסעדך",
+      "gloss": "makusekele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:16.716079501Z",
+  "model": "glm-5.3"
+}

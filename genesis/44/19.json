@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "U-Adonayi wami wobuzela ⟨את⟩ izinceku zakhe, esithi: Ingabe ninobaba noma umfowenu?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "U-Adonayi wami"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "wobuzela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinceku zakhe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "izinceku zakhe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esithi"
+    },
+    {
+      "surface": "היש",
+      "gloss": "Ingabe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nino"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ubaba"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "אח",
+      "gloss": "umfowenu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:23:07.547650574Z",
+  "model": "glm-5.3"
+}

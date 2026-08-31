@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 26:18",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Sathwala, sazinhlungvu, saza sabeletha ⟨isiphazamisi-moya⟩; asizange senze izimpilo emhlabeni, futhi abahlali bemhlaba abawela phansi.",
+  "tokens": [
+    {
+      "surface": "הרינו",
+      "gloss": "sathwala"
+    },
+    {
+      "surface": "חלנו",
+      "gloss": "sazinhlungvu"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "⟨njengoba⟩"
+    },
+    {
+      "surface": "ילדנו",
+      "gloss": "sabeletha"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "isiphazamisi-moya"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "izimpilo"
+    },
+    {
+      "surface": "בל",
+      "gloss": "asizange"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "senze"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "futhi aba-"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "awela phansi"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "bemhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T04:24:18.817786099Z",
+  "model": "glm-5.3"
+}

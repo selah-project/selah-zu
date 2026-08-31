@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Umoya kaYahwe ukhulume ngami, nelizwi lakhe phezu kolimi lwami.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Umoya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ukhulume"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngami"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "nelizwi lakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "kolimi lwami"
+    }
+  ],
+  "timestamp": "2026-08-31T03:45:11.603673407Z",
+  "model": "glm-5.3"
+}

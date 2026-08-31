@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 84:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 84,
+  "translation": "Iyalangazelela, yebo icithile, ⟨inefeshi⟩ yami ezinkantweni zikaYahwe; inhliziyo yami nenyama yami ziyacula ku-El ophilile.",
+  "tokens": [
+    {
+      "surface": "נכספה",
+      "gloss": "Iyalangazelela"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "yebo"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "icithile"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "⟨inefeshi⟩ yami"
+    },
+    {
+      "surface": "לחצרות",
+      "gloss": "ezinkantweni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "zikaYahwe"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inhliziyo yami"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "nenyama yami"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ziyacula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ophilile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:44.161910413Z",
+  "model": "glm-5.3"
+}

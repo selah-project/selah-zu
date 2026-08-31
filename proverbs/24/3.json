@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Ngobuhlakani indlu iyakhanywa, ngoqonde iyasimiswa.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "ngobuhlakani"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "iyakhanywa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "futhi ngoqonde"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "iyasimisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:59:30.974825840Z",
+  "model": "glm-5.3"
+}

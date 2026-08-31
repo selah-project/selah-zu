@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Bazi ukuthi isandla sakho yilokhu — wena, uYahwe, wenze lokhu.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "Bazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "yilokhu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "wenze lokhu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:12.384086390Z",
+  "model": "glm-5.3"
+}

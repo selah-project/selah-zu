@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 104:35",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 104,
+  "translation": "Mabaphelile aboni emhlabeni, futhi abalungile ingabe besekhona. Ngibusise, mphefumulo wami, ⟨את⟩ uYahwe. Dumisani uYah!",
+  "tokens": [
+    {
+      "surface": "יתמו",
+      "gloss": "Mabaphelile"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "aboni"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mhlabeni"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "futhi abalungile"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "besekhona"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ingabe"
+    },
+    {
+      "surface": "ברכי",
+      "gloss": "Ngibusise"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mphefumulo wami"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Dumisani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:15.302086873Z",
+  "model": "glm-5.3"
+}

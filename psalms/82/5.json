@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 82,
+  "translation": "Abazi futhi abaqondi, ebumnyameni bahamba; iziseko zonke zomhlaba ziyazanyonzwa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "abazi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "azi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi abaqondi"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "qondi"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "ebumnyameni"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "bahamba"
+    },
+    {
+      "surface": "ימוטו",
+      "gloss": "ziyazanyonzwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "iziseko"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zomhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:58.345609726Z",
+  "model": "glm-5.3"
+}

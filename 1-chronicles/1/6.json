@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi amadodana kaGomeri: uAshkenazi, noDifathi, noTogarmahi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "futhi amadodana ka-"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ukaGomeri"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "uAshkenazi"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "noDifathi"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "noTogarmahi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:18:52.652821694Z",
+  "model": "glm-5.3"
+}

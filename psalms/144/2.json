@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 144:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 144,
+  "translation": "Ikhesedi lami nesiphephelo sami, indawo yami ephezulu nomsindisi wami, kimi isihlangu sami, futhi kuyena ngithembela, othoba ⟨abantu⟩ bami ngezansi kwami.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "ikhesedi lami"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "nesiphephelo sami"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "indawo yami ephezulu"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "nomsindisi wami"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "isihlangu sami"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "futhi kuyena"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "ngithembela"
+    },
+    {
+      "surface": "הרודד",
+      "gloss": "othoba"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bami"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "ngezansi kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:43.000186693Z",
+  "model": "glm-5.3"
+}

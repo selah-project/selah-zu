@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 1:22",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "uElohim wababusisa ⟨את⟩ bona ⟨את⟩ amanzi, esezinjenezelwe emanzini; futhi inyoni mumele ngumhlaba.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "wababusisa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "esezinjenezelwe"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "banikele"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "nandekele"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "gazise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amanzi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ngamanzi olwandle"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "futhi inyoni"
+    },
+    {
+      "surface": "ירב",
+      "gloss": "mumele"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ngumhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T10:52:34.060861608Z",
+  "model": "glm-5.3"
+}

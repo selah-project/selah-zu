@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 103,
+  "translation": "Cha, kayilwi phakade, futhi cha, kayigcini phakade ⟨intukuthelo yakhe⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "kayilwi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi cha"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "kayigcini ⟨intukuthelo yakhe⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:01.791467588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 10:25",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "U-Yehoshuwa wathi kubo: ningasabi ningaphazamise; qinani nibe namandla, ngokuba ngakho-ke uYahwe uzakwenza lokhu kuzo zonke izitha zenu enilwa ⟨את⟩ nazo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "u-Yehoshuwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ninga-"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ninga-"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "phazamise"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "qinani"
+    },
+    {
+      "surface": "ואמצו",
+      "gloss": "nibe namandla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uzakwenza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "izitha zenu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ena-"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni-"
+    },
+    {
+      "surface": "נלחמים",
+      "gloss": "lwa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "nazo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:53:47.273578324Z",
+  "model": "glm-5.3"
+}

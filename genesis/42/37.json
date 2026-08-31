@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 42:37",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Wathi uRe'uveni kuyise, ethi: ⟨את⟩ amadodana ami amabili ungawabulala uma ngingambuyisela kuwe; mnikele esandleni sami, mina ngimuzobuyisela kuwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "uRe'uveni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "yise"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadodana ami amabili"
+    },
+    {
+      "surface": "שני",
+      "gloss": "amabili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana ami"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "ungawabulala"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "אביאנו",
+      "gloss": "ngingambuyisela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "mnikele"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (esandleni sami)"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "isandla sami"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "ngimuzobuyisela"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:21:22.229058532Z",
+  "model": "glm-5.3"
+}

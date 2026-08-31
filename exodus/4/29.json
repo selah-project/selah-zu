@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 4:29",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "uMoshe no-Aharoni baya, baza baqoqa ⟨את⟩ wonke amaduna amadala abantwana bakwa-Israyeli.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "baya"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "no-Aharoni"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "baza baqoqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke amaduna amadala abantwana bakwa-Israyeli"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "amaduna amadala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T01:28:16.052555280Z",
+  "model": "glm-5.3"
+}

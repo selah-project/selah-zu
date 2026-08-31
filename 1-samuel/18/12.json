@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 18:12",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "UShawuli wasaba ubuso bukaDavide, ngokuba uYahwe wayenaye, futhi wayesukuma kuShawuli.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wasaba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ubuso bu"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "היה",
+      "gloss": "waye"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "enaye"
+    },
+    {
+      "surface": "ומעם",
+      "gloss": "futhi esuka"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kuShawuli"
+    },
+    {
+      "surface": "סר",
+      "gloss": "wayesukuma"
+    }
+  ],
+  "timestamp": "2026-08-31T03:23:43.219734646Z",
+  "model": "glm-5.3"
+}

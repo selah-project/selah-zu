@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 10:7",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Kodwa lapho niqoqa ⟨את⟩ umhlangano, nikhole, kodwa ningakhisi isimemo.",
+  "tokens": [
+    {
+      "surface": "ובהקהיל",
+      "gloss": "lapho niqoqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlangano"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "umhlangano"
+    },
+    {
+      "surface": "תתקעו",
+      "gloss": "nikhole"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa ninga-"
+    },
+    {
+      "surface": "תריעו",
+      "gloss": "khisi isimemo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:13:05.396304873Z",
+  "model": "glm-5.3"
+}

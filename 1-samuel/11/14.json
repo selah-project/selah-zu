@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 11:14",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "USamuwele wathi kubantu: Yizani, ake siye eGiligali, siyonqaza ubukosi khona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uSamuwele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Yizani"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ake siye"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "eGiligali"
+    },
+    {
+      "surface": "ונחדש",
+      "gloss": "siyonqaza"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ubukosi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:18:21.211776271Z",
+  "model": "glm-5.3"
+}

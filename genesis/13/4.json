@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 13:4",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Endaweni yesibankisi esenze khona ekuqaleni; lapha u-Avram wayebiza igama likaYahwe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "endaweni ye-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sibankisi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esenze khona"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "enze"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "ekuqaleni"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wayebiza"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "u-Avram"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "igama lika-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:39.999422235Z",
+  "model": "glm-5.3"
+}

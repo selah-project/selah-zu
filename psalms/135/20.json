@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 135:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 135,
+  "translation": "Ndlu kaLevi, busisani ⟨את⟩ uYahwe; nina nesabayo uYahwe, busisani ⟨את⟩ uYahwe.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Ndlu"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "kaLevi"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "busisani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "nina nesabayo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "busisani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:02.560720602Z",
+  "model": "glm-5.3"
+}

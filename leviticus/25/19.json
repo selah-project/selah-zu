@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 25:19",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Ihlabathi lizonikeza izithelo zalo, futhi niyodla niwugcwele, futhi niyohlala lapho ngokuthula.",
+  "tokens": [
+    {
+      "surface": "ונתנה",
+      "gloss": "lizonikeza"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ihlabathi"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "izithelo zalo"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "futhi niyodla"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "niwugcwele"
+    },
+    {
+      "surface": "וישבתם",
+      "gloss": "futhi niyohlala"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ngokuthula"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "lapho"
+    }
+  ],
+  "timestamp": "2026-08-31T02:04:47.566210031Z",
+  "model": "glm-5.3"
+}

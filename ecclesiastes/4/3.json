@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi kuhle kunababili lowo ⟨את⟩ ongakabi khona, ongazange abone ⟨את⟩ umsebenzi omubi owenziwa ngaphansi kombono.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "Futhi kuhle"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "kunababili"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lowo ongakabi khona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "kungakabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "nga"
+    },
+    {
+      "surface": "היה",
+      "gloss": "khona"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ongazange"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "aboni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umsebenzi omubi"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "omubi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owenziwa"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "wenziwa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kombono"
+    }
+  ],
+  "timestamp": "2026-08-31T07:45:48.531289933Z",
+  "model": "glm-5.3"
+}

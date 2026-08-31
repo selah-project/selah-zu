@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "KukaZebuluni: u-Eliyabi indodana kaKheloni.",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "KukaZebuluni"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "u-Eliyabi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "kaKheloni"
+    }
+  ],
+  "timestamp": "2026-08-31T02:06:30.265293211Z",
+  "model": "glm-5.3"
+}

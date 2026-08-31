@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 15:9",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Isitha sathi: Ngizolandela, ngizofinyela, ngizohlukanisa impahla yempi; umphefumulo wami uzogcwaliswa ⟨ngabo⟩; ngizokhipha inkemba yami, isandla sami sizobahlakazela.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "sathi"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "isitha"
+    },
+    {
+      "surface": "ארדף",
+      "gloss": "ngizolandela"
+    },
+    {
+      "surface": "אשיג",
+      "gloss": "ngizofinyela"
+    },
+    {
+      "surface": "אחלק",
+      "gloss": "ngizohlukanisa"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "impahla yempi"
+    },
+    {
+      "surface": "תמלאמו",
+      "gloss": "uzogcwaliswa"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumulo wami"
+    },
+    {
+      "surface": "אריק",
+      "gloss": "ngizokhipha"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "inkemba yami"
+    },
+    {
+      "surface": "תורישמו",
+      "gloss": "sizobahlakazela"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "isandla sami"
+    }
+  ],
+  "timestamp": "2026-08-31T01:32:15.309833766Z",
+  "model": "glm-5.3"
+}

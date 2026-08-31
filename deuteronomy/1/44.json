@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 1:44",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "IAmori, ehlala leyo ntaba, yaphuma ibhekene nani, yanilandela njengoba kwenza izinyosi, yanishaya eSeyiri, kufikela iChormahi.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "yaphuma"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "iAmori"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "ehlala"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leyo"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "ibhekene nani"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "yanilandela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nani",
+      "marks": "nani"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "תעשינה",
+      "gloss": "kwenza"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "izinyosi"
+    },
+    {
+      "surface": "ויכתו",
+      "gloss": "yanishaya"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nani",
+      "marks": "nani"
+    },
+    {
+      "surface": "בשעיר",
+      "gloss": "eSeyiri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikela"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "iChormahi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:30:02.499461893Z",
+  "model": "glm-5.3"
+}

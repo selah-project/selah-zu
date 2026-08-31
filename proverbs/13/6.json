@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Ubuntu lugcina indlela yalowo othile; lobubi lujikisa isono.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "ubuntu"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "lugcina"
+    },
+    {
+      "surface": "תם",
+      "gloss": "othile"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "lobubi"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "lujikisa"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "isono"
+    }
+  ],
+  "timestamp": "2026-08-31T06:52:16.059784180Z",
+  "model": "glm-5.3"
+}

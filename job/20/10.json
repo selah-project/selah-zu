@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 20:10",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Izingane zakhe zizocela ukwamukelwa kabi mpofu, izandla zakhe zizophendula ubucebo bakhe.",
+  "tokens": [
+    {
+      "surface": "בניו",
+      "gloss": "izingane zakhe"
+    },
+    {
+      "surface": "ירצו",
+      "gloss": "zizocela ukwamukelwa"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "abi mpofu"
+    },
+    {
+      "surface": "וידיו",
+      "gloss": "izandla zakhe"
+    },
+    {
+      "surface": "תשבנה",
+      "gloss": "zizophendula"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "ubucebo bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:19:40.774555485Z",
+  "model": "glm-5.3"
+}

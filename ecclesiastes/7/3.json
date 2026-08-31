@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Kuhle isinengiso kunekuhleka, ngoba ngobuhlungu bobuso intliziyo iyalungiswa.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Kuhle"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "isinengiso"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "kunekuhleka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ngobuhlungu"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "bobuso"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "iyalungiswa"
+    },
+    {
+      "surface": "לב",
+      "gloss": "intliziyo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:46:37.129164017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 89:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "uYahwe, uElohim wamabutho, ngubani ofana nawe, uYah oqinile? Nokane akwesabekile okuzungezile.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wa-"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "amabutho"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ofana nawe"
+    },
+    {
+      "surface": "חסין",
+      "gloss": "oqinile"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "nokane akwesabekile"
+    },
+    {
+      "surface": "סביבותיך",
+      "gloss": "okuzungezile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:28.316512214Z",
+  "model": "glm-5.3"
+}

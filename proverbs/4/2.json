@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Ngokuba okuhle nginikuphile; ungayeki ithoko yami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "⟨okuhle⟩ okufundiswayo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nginikuphile"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨ni-⟩"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "ithoko yami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungayeki ⟨-ki⟩"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "ungayeki"
+    }
+  ],
+  "timestamp": "2026-08-31T06:47:58.426737081Z",
+  "model": "glm-5.3"
+}

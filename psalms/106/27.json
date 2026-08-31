@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 106:27",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "nokwenza ukuthi imbewu yabo iwe phakathi kwezizwe, nokubahlakaza emazweni ahlukene.",
+  "tokens": [
+    {
+      "surface": "ולהפיל",
+      "gloss": "nokwenza ukuthi... iwe"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "imbewu yabo"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "phakathi kwezizwe"
+    },
+    {
+      "surface": "ולזרותם",
+      "gloss": "nokubahlakaza"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "emazweni ahlukene"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:49.322099234Z",
+  "model": "glm-5.3"
+}

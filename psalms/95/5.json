@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 95,
+  "translation": "Okwakhe ilwandle, ngoba yena uwadala, lomhlaba omile izandla zakhe zazwakha.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "okwakhe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwakhe"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ilwandle"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "futhi yena"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "uwadala"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "lomhlaba omile"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "izandla zakhe"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "zazwakha"
+    }
+  ],
+  "timestamp": "2026-08-31T11:17:31.714987961Z",
+  "model": "glm-5.3"
+}

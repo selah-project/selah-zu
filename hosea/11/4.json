@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 11:4",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Ngamatshe insimbi yomuntu ngabadonsa, ngezintambo zothando; futhi ngaba yilowo ophakamisa ijogi engaphezulu kwehlombe labo, futhi ngakhukhumala kuye ukuthi angidla.",
+  "tokens": [
+    {
+      "surface": "בחבלי",
+      "gloss": "Ngamatshe"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "insimbi yomuntu"
+    },
+    {
+      "surface": "אמשכם",
+      "gloss": "ngabadonsa"
+    },
+    {
+      "surface": "בעבתות",
+      "gloss": "ngezintambo"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "zothando"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "futhi ngaba yilowo"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "כמרימי",
+      "gloss": "ophakamisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ijogi"
+    },
+    {
+      "surface": "על",
+      "gloss": "engaphezulu kwe-"
+    },
+    {
+      "surface": "לחיהם",
+      "gloss": "ehlombe labo"
+    },
+    {
+      "surface": "ואט",
+      "gloss": "futhi ngakhukhumala"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אוכיל",
+      "gloss": "angidla"
+    }
+  ],
+  "timestamp": "2026-08-31T05:28:55.400568071Z",
+  "model": "glm-5.3"
+}

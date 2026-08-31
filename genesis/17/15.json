@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Futhi uElohim wathi ku-Avraham: uSarayi umkakho — musa ukumbiza ⟨את⟩ igama lakhe uSarayi, ngoba uSarahi ⟨igama⟩ lakhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "futhi wathi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "uSarayi"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "umkakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "musa"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ukubiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lakhe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "uSarayi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "uSarahi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "igama lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:07:35.045769813Z",
+  "model": "glm-5.3"
+}

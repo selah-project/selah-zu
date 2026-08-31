@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 18:7",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "UDawidi wathatha ⟨את⟩ izikhleti zegolide ezazikhona kuzinceku zikaHadadezeri, wayazisa eYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izikhleti zegolide"
+    },
+    {
+      "surface": "שלטי",
+      "gloss": "izikhleti"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zegolide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezazikhona"
+    },
+    {
+      "surface": "היו",
+      "gloss": "zazingokho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "izinceku"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "zikaHadadezeri"
+    },
+    {
+      "surface": "ויביאם",
+      "gloss": "wayazisa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:26:47.544049953Z",
+  "model": "glm-5.3"
+}

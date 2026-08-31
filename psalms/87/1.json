@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 87:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 87,
+  "translation": "Kubantwana bakaKorahi, umculo, ingoma. Isisekelo sayo simi ezintabeni ezingcwele.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "Kubantwana baka"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "uKorahi"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umculo"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ingoma"
+    },
+    {
+      "surface": "יסודתו",
+      "gloss": "isisekelo sayo simi"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "ezintabeni"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ezingcwele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:19.449498324Z",
+  "model": "glm-5.3"
+}

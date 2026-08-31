@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 50:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Nikelela u-Elohim umnikelo wokubonga, uze uwakhokhele ku-Elyoni izithembiso zakho;",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "nikelela umnikelo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ku-Elohim"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "wokubonga"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "uze uwakhokhele"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "ku-Elyoni"
+    },
+    {
+      "surface": "נדריך",
+      "gloss": "izithembiso zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:38.078282348Z",
+  "model": "glm-5.3"
+}

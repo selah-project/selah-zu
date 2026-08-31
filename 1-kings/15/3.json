@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 15:3",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Wahamba ezonweni zonke zikayise obengawenzile ngaphambi kwakhe; inhliziyo yakhe yayingaphelele kuYahwe uElohim wakhe, njengenhliziyo kaDavide uyise.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Wahamba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ezonweni zonke"
+    },
+    {
+      "surface": "חטאות",
+      "gloss": "ezonweni"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "zikayise"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "obengawenzile"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "awenzile"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ngaphambi kwakhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yayingaphelele"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yayinga-"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "inhliziyo yakhe"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "phelele"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "uElohim wakhe"
+    },
+    {
+      "surface": "כלבב",
+      "gloss": "njengenhliziyo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    }
+  ],
+  "timestamp": "2026-08-31T03:59:01.205396327Z",
+  "model": "glm-5.3"
+}

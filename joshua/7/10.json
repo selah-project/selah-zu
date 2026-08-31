@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "uYahwe wathi kuYehoshuwa: Sukuma wena; kungani lokhu, wena uwele ubuso bakho?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "קם",
+      "gloss": "Sukuma"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "uwele"
+    },
+    {
+      "surface": "על",
+      "gloss": "phevu"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    }
+  ],
+  "timestamp": "2026-08-31T02:52:10.467864412Z",
+  "model": "glm-5.3"
+}

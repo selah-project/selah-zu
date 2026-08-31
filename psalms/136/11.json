@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 136:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 136,
+  "translation": "Futhi wakhishwa uIsrayeli phakathi kwabo, ngokuthi ikhesedi lakhe lihlezi kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "Futhi wakhishwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "מתוכם",
+      "gloss": "phakathi kwabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:00.335376904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 143:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 143,
+  "translation": "Ngifundise ukwenza ukwethandekayo kwakho, ngoba wena ungelo wami; umoya wakho umuhle, ungiholele ezweni elilinganayo.",
+  "tokens": [
+    {
+      "surface": "למדני",
+      "gloss": "Ngifundise"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "ukwethandekayo kwakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלוהי",
+      "gloss": "ungelo wami"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "umoya wakho"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "umuhle"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ungiholele"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "elilinganayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:35.129632061Z",
+  "model": "glm-5.3"
+}

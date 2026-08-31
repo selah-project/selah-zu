@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 1:15",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Wayengenakho uBath-sheba kuyinkosi, engqamuaneni; inkosi wayesedala kakhulu; futhi uAbishagi owaseShuname wayekhonza ⟨את⟩ inkosi.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "wayengenakho"
+    },
+    {
+      "surface": "בת",
+      "gloss": "-shebha (ingxenye yegama)"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "uBath-sheba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "החדרה",
+      "gloss": "engqamuaneni"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "futhi inkosi"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "wayesedala"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ואבישג",
+      "gloss": "futhi uAbishagi"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "owaseShuname"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "wayekhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:46:04.259222224Z",
+  "model": "glm-5.3"
+}

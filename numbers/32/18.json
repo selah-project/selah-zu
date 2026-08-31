@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 32:18",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Asibuyeli ezindlini zethu, kuzekube izinyane zika-Israeli zithathe izifa, umuntu izifa lakhe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "asi-"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "buyeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ezindlini zethu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuzekube"
+    },
+    {
+      "surface": "התנחל",
+      "gloss": "zithathe izifa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "izinyane za-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israeli"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "izifa lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:26:53.396977727Z",
+  "model": "glm-5.3"
+}

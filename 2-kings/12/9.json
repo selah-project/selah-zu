@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 12:9",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Abapristi bamukelile ukungathatha isiliva ku⟨את⟩ abantu, nokungalungi ⟨את⟩ iziphuko zendlu.",
+  "tokens": [
+    {
+      "surface": "ויאתו",
+      "gloss": "bamukelile"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ukunga-"
+    },
+    {
+      "surface": "קחת",
+      "gloss": "thatha"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ku⟨את⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "nokunga-"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "lungisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iziphuko zendlu"
+    },
+    {
+      "surface": "בדק",
+      "gloss": "iziphuko"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "yendlu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:09:59.952361845Z",
+  "model": "glm-5.3"
+}

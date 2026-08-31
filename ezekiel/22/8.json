@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Izinto zami zangcwele wazidela, futhi ⟨את⟩ amaShabbath ami wazinyazisa.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "izinto zami zangcwele"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "wazidela"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "amaShabbath ami"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "amaShabbath ami"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "wazinyazisa"
+    }
+  ],
+  "timestamp": "2026-08-31T05:11:54.143940450Z",
+  "model": "glm-5.3"
+}

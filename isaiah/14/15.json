@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Kepha uzodiselwa ku-iSheoli, ezimbizeni zomkhakhaba.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kepha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "iSheoli"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "uzodiselwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "zimbizeni"
+    },
+    {
+      "surface": "בור",
+      "gloss": "zomkhakhaba"
+    }
+  ],
+  "timestamp": "2026-08-31T04:20:11.166440587Z",
+  "model": "glm-5.3"
+}

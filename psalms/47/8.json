@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 47,
+  "translation": "Ngokuba inkosi yomhlaba wonke ngu-Elohim; culani ngengoma enohlakaniphe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yomhlaba wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "yomhlaba wonke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ngu-Elohim"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "culani"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ngenohlakaniphe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:52.950734327Z",
+  "model": "glm-5.3"
+}

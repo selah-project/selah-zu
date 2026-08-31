@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 17:19",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "uYahwe, ngenxa yezinceku zakho nokwenhliziyo yakho, wenzile ⟨את⟩ le nkulunkulukazi yonke, ukuze wazise ⟨את⟩ zonke izinkulunkulukazi.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "yezinceku zakho"
+    },
+    {
+      "surface": "וכלבך",
+      "gloss": "nokwenhliziyo yakho"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wenzile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le nkulunkulukazi yonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "inkulunkulukazi"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "להדיע",
+      "gloss": "ukuze wazise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke izinkulunkulukazi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הגדלות",
+      "gloss": "izinkulunkulukazi"
+    }
+  ],
+  "timestamp": "2026-08-31T11:45:33.739610355Z",
+  "model": "glm-5.3"
+}

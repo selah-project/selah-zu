@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 42:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Angeke adangele, angeke aphazanywe, kuze aseke ukwahlulela emhlabeni; futhi izinga zolwandle zilindele umthetho wakhe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Angeke"
+    },
+    {
+      "surface": "יכהה",
+      "gloss": "adangele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "aphazanywe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "aseke"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ukwahlulela"
+    },
+    {
+      "surface": "ולתורתו",
+      "gloss": "futhi umthetho wakhe"
+    },
+    {
+      "surface": "איים",
+      "gloss": "izinga zolwandle"
+    },
+    {
+      "surface": "ייחילו",
+      "gloss": "zilindele"
+    }
+  ],
+  "timestamp": "2026-08-31T04:30:53.081880181Z",
+  "model": "glm-5.3"
+}

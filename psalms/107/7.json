@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Wabahola endleleni eqondile, ukuze bahambele edolobheni lokuhlala.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "wabahola"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "eqondile"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuze bahambele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "lokuhlala"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:53.829220345Z",
+  "model": "glm-5.3"
+}

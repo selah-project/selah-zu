@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 36:22",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Izandla ezimbili zanikezwa eqindini elilodwa, zixhunyiwe enye kwenye; ngokunjalo wakha zonke izingqindi zendlini yesikhumbuzo.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "ידת",
+      "gloss": "izandla"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "eqindini"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "zixhunyiwe"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "enye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "enye"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngokunjalo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "izingqindi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "endlini yesikhumbuzo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:46:13.501119742Z",
+  "model": "glm-5.3"
+}

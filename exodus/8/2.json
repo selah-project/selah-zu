@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 8:2",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "uAharon walolisha ⟨את⟩ isandla sakhe phezu kwamanzi akeMitsrayim, yaze yenyuka intuli, yaze yagubha ⟨את⟩ umhlaba weMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "walolisha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "uAharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sakhe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "amanzi a-"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "yenyuka"
+    },
+    {
+      "surface": "הצפרדע",
+      "gloss": "intuli"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "yagubha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:58.614341716Z",
+  "model": "glm-5.3"
+}

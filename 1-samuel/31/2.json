@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 31:2",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "AmaFilishti anamathela kuShawuli ⟨את⟩ nakwizindodana zakhe ⟨את⟩, amaFilishti abulala uYehonathani ⟨את⟩, no-Abinadabi ⟨את⟩, noMalkishuwa ⟨את⟩, izindodana zoShawuli.",
+  "tokens": [
+    {
+      "surface": "וידבקו",
+      "gloss": "anamathela"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "AmaFilishti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShawuli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kuShawuli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izindodana zakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "izindodana zakhe"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "abulala"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "AmaFilishti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYehonathani"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "uYehonathani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Abinadabi"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "u-Abinadabi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uMalkishuwa"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "uMalki-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "shuwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "izindodana"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "zoShawuli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:32:06.793231662Z",
+  "model": "glm-5.3"
+}

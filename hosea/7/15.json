@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi mina ngibafundise, ngaqinisa izingalo zabo; kepha kimi bacabanga okubi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Futhi mina"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "ngibafundise"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "ngaqinisa"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "izingalo zabo"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "kepha kimi"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "bacabanga"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:13:38.441249978Z",
+  "model": "glm-5.3"
+}

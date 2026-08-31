@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 6:16",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Wakha ⟨את⟩ amashumi amabili amakubhede emva kwendlu ngezibani zezedari, kusukela esiphansi kuye kumadonga; wakha yona ngaphakathi ibe lidhebiri, ingcweti engcwele kakhulu.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Wakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amashumi amabili amakubhede"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amashumi amabili"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amakubhede"
+    },
+    {
+      "surface": "מירכותי",
+      "gloss": "emva kwe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "endlu"
+    },
+    {
+      "surface": "בצלעות",
+      "gloss": "ngezibani"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "zezedari"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kusukela"
+    },
+    {
+      "surface": "הקרקע",
+      "gloss": "esiphansi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuye ku"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "kumadonga"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yona"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ngaphakathi"
+    },
+    {
+      "surface": "לדביר",
+      "gloss": "ibe lidhebiri"
+    },
+    {
+      "surface": "לקדש",
+      "gloss": "ingcweti"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "engcwele kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:50:06.212566418Z",
+  "model": "glm-5.3"
+}

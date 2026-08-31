@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 12:15",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Abaholi bukaParo bamubona ⟨את⟩ yena, bamdumisa kuParo; lo musho wathathwa waya endlini kaParo.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "bamubona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yena"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abaholi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "bukaParo"
+    },
+    {
+      "surface": "ויהללו",
+      "gloss": "bamdumisa"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ yena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "wathathwa"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "lo musho"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endl"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:27.315425378Z",
+  "model": "glm-5.3"
+}

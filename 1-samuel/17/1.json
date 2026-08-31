@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 17:1",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Ngesikhathi-⟨ezinye⟩, iPelishtiyim aqoqa ⟨את⟩ amabutho ayo avela empi, waqoqana eSokho, elethiwe eYuda, wamisa umbhede wawo phakathi kweSokho ne-Azekaha, e-Efes-Damimi.",
+  "tokens": [
+    {
+      "surface": "ויאספו",
+      "gloss": "aqoqa"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "iPelishtiyim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amabutho ayo"
+    },
+    {
+      "surface": "מחניהם",
+      "gloss": "amabutho ayo"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "avela empi"
+    },
+    {
+      "surface": "ויאספפו",
+      "gloss": "waqoqana"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "eSokho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elethiwe"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "eYuda"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "wamisa umbhede wawo"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwe"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "eSokho"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "e-Azekaha"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "e-Efes-"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "Damimi"
+    }
+  ],
+  "timestamp": "2026-08-31T11:05:57.396947835Z",
+  "model": "glm-5.3"
+}

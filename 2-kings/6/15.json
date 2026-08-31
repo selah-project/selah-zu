@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 6:15",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Kuseni isikhonzi sendoda ka-Elohim savuka sokuphuma, futhi bheka, umkhosi uzungezile ⟨את⟩ umuzi, namahashi nezinqwelo zempi. Insizwa yakhe yathi kuye: Awo! u-Adonayi wami, singasenzani?",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "Kuseni"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "isikhonzi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ka-Elohim"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ukuvuka"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "futhi bheka"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "uzungezile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuzi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "umuzi"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "namahashi"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "nezinqwelo zempi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "insizwa yakhe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Awo!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi wami"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "singasenzani"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "senza"
+    }
+  ],
+  "timestamp": "2026-08-31T04:04:48.440317135Z",
+  "model": "glm-5.3"
+}

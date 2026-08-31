@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Konke okunyakazayo okuphilayo kuzoba ukudla kwenu; njengotshani oluhlaza nginikonile ⟨את⟩ konke.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Konke"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "okunyakazayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨yona⟩"
+    },
+    {
+      "surface": "חי",
+      "gloss": "okuphilayo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kwenu"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuzoba"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "njengotshani"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "oluhlaza"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nginikonile"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨ninikelwe⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    }
+  ],
+  "timestamp": "2026-08-31T01:04:15.620692755Z",
+  "model": "glm-5.3"
+}

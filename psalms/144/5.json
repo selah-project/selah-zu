@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 144:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 144,
+  "translation": "uYahwe, thoba izulu zakho uze wehle; thinta izintaba zibhace.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הט",
+      "gloss": "thoba"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "izulu zakho"
+    },
+    {
+      "surface": "ותרד",
+      "gloss": "uze wehle"
+    },
+    {
+      "surface": "גע",
+      "gloss": "thinta"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "izintaba"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "zibhace"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:55.912569602Z",
+  "model": "glm-5.3"
+}

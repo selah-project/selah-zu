@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 7:3",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Yavalelwa ngesidangothi ngaphezu, ezibambezweni ezizingaphezu kwezinsika ezingamashumi amane nanhlanu, ayishumi nanhlanu ngokunye hleko.",
+  "tokens": [
+    {
+      "surface": "וספן",
+      "gloss": "yavalelwa"
+    },
+    {
+      "surface": "בארז",
+      "gloss": "ngesidangothi"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ngaphezu"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwe"
+    },
+    {
+      "surface": "הצלעת",
+      "gloss": "ezibambezweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "על",
+      "gloss": "zingaphezu"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "kwezinsika"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "amashumi amane"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "nanhlanu"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ayishumi"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "nanhlanu"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "ngokunye hleko"
+    }
+  ],
+  "timestamp": "2026-08-31T03:50:32.885792758Z",
+  "model": "glm-5.3"
+}

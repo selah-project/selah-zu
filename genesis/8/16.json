@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 8:16",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Phuma endumbeni, wena nomyeni wakho, nabanakho nabafazi babantwana bakho, ⟨את⟩ wena.",
+  "tokens": [
+    {
+      "surface": "צא",
+      "gloss": "Phuma"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "endumbeni"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "nomyeni wakho"
+    },
+    {
+      "surface": "ובניך",
+      "gloss": "nabanakho"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "nabafazi"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "babantwana bakho"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wena"
+    }
+  ],
+  "timestamp": "2026-08-31T01:03:37.849976333Z",
+  "model": "glm-5.3"
+}

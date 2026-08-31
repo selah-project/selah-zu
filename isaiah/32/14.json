@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 32:14",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Ngokuba isigodlo siyoshiywa, umkhakha wesixeko uyoshiywa; iqhina nobulungu bezozoba izibaya kuze kube phakade, ube umdoko wezingulube zasendle, ubusinga bemikhwehle.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "ארמון",
+      "gloss": "isigodlo"
+    },
+    {
+      "surface": "נטש",
+      "gloss": "siyoshiywa"
+    },
+    {
+      "surface": "המון",
+      "gloss": "umkhakha"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "wesixeko"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "uyoshiywa"
+    },
+    {
+      "surface": "עפל",
+      "gloss": "iqhina"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "nobulungu"
+    },
+    {
+      "surface": "היה",
+      "gloss": "izoba"
+    },
+    {
+      "surface": "בעד",
+      "gloss": " ⟨ku⟩ "
+    },
+    {
+      "surface": "מערות",
+      "gloss": "izibaya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "umdoko"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "wezingulube zasendle"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "ubusinga"
+    },
+    {
+      "surface": "עדרים",
+      "gloss": "bemikhwehle"
+    }
+  ],
+  "timestamp": "2026-08-31T04:25:21.489566596Z",
+  "model": "glm-5.3"
+}

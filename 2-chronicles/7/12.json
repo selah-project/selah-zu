@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 7:12",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "UYahwe wabonakala kushelomohi ebusuku, wathi kuye: Nzwe ngiye ngikuzwela ⟨את⟩ ithandazo yakho, ngikhethile indawo leyo mina ibe yindlu yokuhlabela.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wabonakala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "UYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "kushelomohi"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "Nzwe ngiye ngikuzwela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithandazo yakho"
+    },
+    {
+      "surface": "תפלתך",
+      "gloss": "ithandazo yakho"
+    },
+    {
+      "surface": "ובחרתי",
+      "gloss": "ngikhethile"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leyo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ibe yindlu"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "yokuhlabela"
+    }
+  ],
+  "timestamp": "2026-08-31T08:33:20.200905984Z",
+  "model": "glm-5.3"
+}

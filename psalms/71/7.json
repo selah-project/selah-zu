@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 71:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 71,
+  "translation": "Ngingaba yisibonakaliso kubaningi, kepha wena ungusiphephelo sami esinamandla.",
+  "tokens": [
+    {
+      "surface": "כמופת",
+      "gloss": "ngingaba yisibonakaliso"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ngingaba"
+    },
+    {
+      "surface": "לרבים",
+      "gloss": "kubaningi"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "kepha wena"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ungusiphephelo sami"
+    },
+    {
+      "surface": "עז",
+      "gloss": "esinamandla"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:12.906174453Z",
+  "model": "glm-5.3"
+}

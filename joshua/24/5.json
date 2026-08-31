@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 24:5",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Ngathuma uMoshe no-Aharoni, ngaze ngashaya iMitsrayim njengalokho engakwenzile phakathi kwalo; ngemva kwakho ngakhishela ⟨את⟩ ninodwa.",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "ngathuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "u-Aharoni"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharoni"
+    },
+    {
+      "surface": "ואגף",
+      "gloss": "ngashaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iMitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengalokho"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "engakwenzile"
+    },
+    {
+      "surface": "בקרבו",
+      "gloss": "phakathi kwalo"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ngemva kwakho"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "ngakhishela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ninodwa"
+    }
+  ],
+  "timestamp": "2026-08-31T03:00:32.802210073Z",
+  "model": "glm-5.3"
+}

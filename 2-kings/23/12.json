@@ -1,0 +1,136 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 23:12",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Futhi inkosi yavunjisa izibayweni esebuphezulu begumbi eliphezulu likaAhazi amakhosi aJuda awazenzileyo, nezibayweni azenzile uMenashhe ezindlini ezimbili zendlu kaYahwe; yaphuthuma lapho, walahla ⟨את⟩ uthuli wazo emfuleni iKidroni.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izibayweni (zeqembu lokuqala)"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "izibayweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ese"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "kophahla"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "begumbi eliphezulu"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "likaAhazi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "awazenzileyo"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "aJuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izibayweni (zeqembu lesibili)"
+    },
+    {
+      "surface": "המזבחות",
+      "gloss": "izibayweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "awo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "azenzile"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "uMenashhe"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "ezimbini"
+    },
+    {
+      "surface": "חצרות",
+      "gloss": "ezindlini zangasese"
+    },
+    {
+      "surface": "בית",
+      "gloss": "yendlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "yavunjisa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "yaphuthuma"
+    },
+    {
+      "surface": "משם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "walahla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uthuli wazo"
+    },
+    {
+      "surface": "עפרם",
+      "gloss": "uthuli wazo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "umfuleni"
+    },
+    {
+      "surface": "קדרון",
+      "gloss": "iKidroni"
+    }
+  ],
+  "timestamp": "2026-08-31T04:14:12.201729575Z",
+  "model": "glm-5.3"
+}

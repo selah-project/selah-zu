@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 12:3",
+  "book": "daniel",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi abahlakaniphile bazokhanya njengokukhanya kwesibhakabhaka, futhi abalungisayo abaningi njenginkanyezi, kuze kube phakade nanaphakade.",
+  "tokens": [
+    {
+      "surface": "והמשכלים",
+      "gloss": "futhi abahlakaniphile"
+    },
+    {
+      "surface": "יזהרו",
+      "gloss": "bazokhanya"
+    },
+    {
+      "surface": "כזהר",
+      "gloss": "njengokukhanya"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "kwesibhakabhaka"
+    },
+    {
+      "surface": "ומצדיקי",
+      "gloss": "futhi abalungisayo"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "abaningi"
+    },
+    {
+      "surface": "ככוכבים",
+      "gloss": "njenginkanyezi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nanaphakade"
+    }
+  ],
+  "timestamp": "2026-08-31T08:07:37.673588777Z",
+  "model": "glm-5.3"
+}

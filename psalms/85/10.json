@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 85:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 85,
+  "translation": "Kepha insindiso yakhe iseduze nabasabayoyo, ukuze inkazimulo ihlale ezweni lethu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kepha"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "iseduze"
+    },
+    {
+      "surface": "ליראיו",
+      "gloss": "nabasabayoyo"
+    },
+    {
+      "surface": "ישעו",
+      "gloss": "insindiso yakhe"
+    },
+    {
+      "surface": "לשכן",
+      "gloss": "ihlale"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "inkazimulo"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "ezweni lethu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:12.066667166Z",
+  "model": "glm-5.3"
+}

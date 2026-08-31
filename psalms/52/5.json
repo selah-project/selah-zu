@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 52,
+  "translation": "Wathanda okubi kunokulungile, ubuxoki kunokukhuluma ubulungiswa. Selah.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "wathanda"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "kunokulungile"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ubuxoki"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "kunokukhuluma"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ubulungiswa"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:18.484830978Z",
+  "model": "glm-5.3"
+}

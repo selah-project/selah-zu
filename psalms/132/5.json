@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 132,
+  "translation": "Ngizofuna ngithola indawo kaYahwe, izindlu zokuhlala zoMsimanzi ka-uYakobi.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ngithola"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ngithola"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "izindlu zokuhlala"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "zoMsimanzi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ka-uYakobi"
+    }
+  ],
+  "timestamp": "2026-08-31T11:45:04.015971439Z",
+  "model": "glm-5.3"
+}

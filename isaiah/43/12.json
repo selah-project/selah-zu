@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 43:12",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "Mina ngatshela, futhi ngasindisa, futhi ngazwakalisa, futhi kwakungekho ongokwakude phakathi kwenu; futhi nina ningizifakazi, kusho uYahwe, futhi mina ngingu-El.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "הגדתי",
+      "gloss": "ngatshela"
+    },
+    {
+      "surface": "והושעתי",
+      "gloss": "futhi ngasindisa"
+    },
+    {
+      "surface": "והשמעתי",
+      "gloss": "futhi ngazwakalisa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi kwakungekho"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "phakathi kwenu"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ongokwakude"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "futhi nina"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ningizifakazi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kusho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "futhi mina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngingu-El"
+    }
+  ],
+  "timestamp": "2026-08-31T04:29:47.550139858Z",
+  "model": "glm-5.3"
+}

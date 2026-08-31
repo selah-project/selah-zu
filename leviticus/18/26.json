@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 18:26",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Futhi thina nigcina ⟨את⟩ izimiso zami n⟨את⟩ imithetho yami, ningazi ngokwenzayo okuyinye yalezi zidyabhadi, owazalwa elizweni lalingcolile uqobo lomfokazi ohlala phakathi kwenu.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "futhi nigcina"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "thina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izimiso zami"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "izimiso zami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "imithetho yami"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "imithetho yami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi ningazi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "niyenza"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "okuyinye"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "izidyabhadi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "owazalwa elizweni"
+    },
+    {
+      "surface": "והגר",
+      "gloss": "nibling nomfokazi"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ohlala"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "phakathi kwenu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:59:03.035497418Z",
+  "model": "glm-5.3"
+}

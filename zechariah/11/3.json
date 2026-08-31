@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 11:3",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Izwi likukhalwa kwabalusi, ngokuba inkazimulo yabo yashontshwa; izwi lokukala kwamabhubesi asekhalweni, ngokuba ubukhosi beJordani bushontshiwe.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Izwi"
+    },
+    {
+      "surface": "יללת",
+      "gloss": "likukhalwa"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "kwabalusi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שדדה",
+      "gloss": "yashontshwa"
+    },
+    {
+      "surface": "אדרתם",
+      "gloss": "inkazimulo yabo"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "שאגת",
+      "gloss": "lokukala"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "kwamabhubesi asekhalweni"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "bushontshiwe"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ubukhosi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "beJordani"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:07.274108860Z",
+  "model": "glm-5.3"
+}

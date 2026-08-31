@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Kepha laba amakhosi amahlanu abaleka, bacinga bacashile emhumeni eMakedha.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "abaleka"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "amahlanu"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "laba"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "bacashile"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "emhumeni"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "eMakedha"
+    }
+  ],
+  "timestamp": "2026-08-31T02:53:30.772841612Z",
+  "model": "glm-5.3"
+}

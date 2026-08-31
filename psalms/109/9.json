@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Abantwana bakhe maba ngamatehule, nowakhe maba ngumfelokazi.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "maba"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abantwana bakhe"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "ngamatehule"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "nowakhe"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "ngumfelokazi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:30.806781031Z",
+  "model": "glm-5.3"
+}

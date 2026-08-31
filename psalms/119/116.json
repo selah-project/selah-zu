@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 116,
+  "ref": "psalms 119:116",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngisize njengelizwi lakho ukuze ngiphile, futhi ungangibisi ithemba lami.",
+  "tokens": [
+    {
+      "surface": "סמכני",
+      "gloss": "Ngisize"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "njengelizwi lakho"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "futhi ngizophila"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi ungangi..."
+    },
+    {
+      "surface": "תבישני",
+      "gloss": "...bisi"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "ithemba lami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:37.181689182Z",
+  "model": "glm-5.3"
+}

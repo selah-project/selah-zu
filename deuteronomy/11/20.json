@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Uzowabhala emikhonweni yomnyango wentlu yakho naseminyango yakho.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "Uzowabhala"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "emikhonweni yomnyango"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wentlu yakho"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "naseminyango yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:01:52.057705050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 55:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 55,
+  "translation": "Nika indlebe, uElohim, ithandazo lami, ungazange ungifihle enthatweni yami.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "Nika indlebe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ithandazo lami"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ungazange"
+    },
+    {
+      "surface": "תתעלם",
+      "gloss": "ungifihle"
+    },
+    {
+      "surface": "מתחנתי",
+      "gloss": "enthatweni yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:15.533107506Z",
+  "model": "glm-5.3"
+}

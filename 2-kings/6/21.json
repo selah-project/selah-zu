@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 6:21",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Inkosi yakwa-Israyeli yase ithi ku-Elisha, ngesikhathi ibona ⟨את⟩-ona: Baba wami, ngingababulala yini, ngingababulala yini?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yase ithi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yakwa-Israyeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "u-Elisha"
+    },
+    {
+      "surface": "כראתו",
+      "gloss": "ngesikhathi ibona"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩-bona",
+      "marks": "bona"
+    },
+    {
+      "surface": "האכה",
+      "gloss": "ngingababulala yini"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "ngingababulala yini"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "baba wami"
+    }
+  ],
+  "timestamp": "2026-08-31T04:05:11.758609184Z",
+  "model": "glm-5.3"
+}

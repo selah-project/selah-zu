@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 7:10",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi inkazo ka-Israyili ifakaza ebubeni buso baso, kodwa ababuyelwe kuYahwe uElohim wabo, futhi abambhangisile ngakho konke lokhu.",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "ifakaza"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "inkazo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israyili"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "ebubeni buso baso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa ababuyelwe"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "⟨abuyela⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "uElohim wabo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi abambhangisile"
+    },
+    {
+      "surface": "בקשהו",
+      "gloss": "⟨mhangisa⟩ yena"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngakho konke"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "lokhu"
+    }
+  ],
+  "timestamp": "2026-08-31T05:27:50.169262502Z",
+  "model": "glm-5.3"
+}

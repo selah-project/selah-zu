@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 1:3",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "UDavide wathi kuye: Ubuya ngaphi? Yena wathi kuye: Ngiphunyule emhumeni weIsrayeli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ngaphi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "Ubuya"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "buya"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ממחנה",
+      "gloss": "emhumeni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weIsrayeli"
+    },
+    {
+      "surface": "נמלטתי",
+      "gloss": "Ngiphunyule"
+    }
+  ],
+  "timestamp": "2026-08-31T10:20:41.936446189Z",
+  "model": "glm-5.3"
+}

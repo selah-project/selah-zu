@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 13:11",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "ULoti wakhetha ⟨את⟩ wonke isiqingi seYoridani; uLoti wahamba empumalanga, bahlukana umuntu ngesonto lodadewabo.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "wakhetha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨yena⟩"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "uLoti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke isiqingi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "isiqingi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "seYoridani"
+    },
+    {
+      "surface": "ויסע",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "uLoti"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "empumalanga"
+    },
+    {
+      "surface": "ויפרדו",
+      "gloss": "bahlukana"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ngesonto"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "lodadewabo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:26.235736118Z",
+  "model": "glm-5.3"
+}

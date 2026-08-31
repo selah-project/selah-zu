@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 92,
+  "translation": "Njani ukukhula kwezisebenzo zakho, uYahwe; kakhulu ukujulile imicabango yakho.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "njani"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "ukukhula"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "izisebenzo zakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "ukujulile"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "imicabango yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:36.313295025Z",
+  "model": "glm-5.3"
+}

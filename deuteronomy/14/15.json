@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "no-⟨את⟩ i-bat ha-ya'anah, no-⟨את⟩ i-tachmas, no-⟨את⟩ i-shachaf, no-⟨את⟩ i-nes ngokohlobo lwalo;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i-bat ha-ya'anah"
+    },
+    {
+      "surface": "בת",
+      "gloss": "i-bat"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "ha-ya'anah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i-tachmas"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "i-tachmas"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i-shachaf"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "i-shachaf"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i-nes"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "i-nes"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ngokohlobo lwalo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:36:00.782126008Z",
+  "model": "glm-5.3"
+}

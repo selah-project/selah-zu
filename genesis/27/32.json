@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "UYitsxaq uyise wathi kuye: Ungubani wena? Wathi: Ngingendodana yakho, ingonyena yakho yokuqala, uEsawu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "uYitsxaq"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ungubani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ngingendodana yakho"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "ingonyena yakho yokuqala"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uEsawu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:14:59.266957472Z",
+  "model": "glm-5.3"
+}

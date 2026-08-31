@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 28:26",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Okuseleyo kwezwi zakhe, nakho konke amaqhube ngakho, okuqala nokokugcina, bheka, kubhaliwe encwadini yamakhosi aseYehudha nase-Israeli.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "okuseleyo"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "kwezwi zakhe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nakho konke"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "amaqhube ngakho"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "okuqala"
+    },
+    {
+      "surface": "והאחרונים",
+      "gloss": "nokokugcina"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "kubhaliwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ncwadini ya-"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amakhosi a-"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "seYehudha"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "nase-Israeli"
+    }
+  ],
+  "timestamp": "2026-08-31T09:03:53.721182107Z",
+  "model": "glm-5.3"
+}

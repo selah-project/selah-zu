@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 60:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 60,
+  "translation": "Ngesikhathi eqhuba umbuso iArama-Naharayimu neArama-Tsoba, uYowabhi wabuya wabetha ⟨את⟩ iEdoma eSikweni soniletha — izinkulungwane eziyishumi nambili.",
+  "tokens": [
+    {
+      "surface": "בהצותו",
+      "gloss": "Ngesikhathi eqhuba umbuso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iArama-Naharayimu"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "iArama"
+    },
+    {
+      "surface": "נהרים",
+      "gloss": "Naharayimu (yomifula emibili)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "iArama-Tsoba"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "iArama"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Tsoba"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wabuya"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYowabhi"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wabetha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iEdoma"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "iEdoma"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "eSikweni"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "soniletha"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ambili"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "eshumi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "izinkulungwane"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:02.482938446Z",
+  "model": "glm-5.3"
+}

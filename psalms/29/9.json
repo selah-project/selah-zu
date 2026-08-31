@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 29:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Izwi likaYahwe likhahlazela izinpofu zokuzala, futhi lambesa amahlathi; kanti ethempeleni lakhe konke kusho inkazimulo.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "יחולל",
+      "gloss": "likhahlazela"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "izinpofu zokuzala"
+    },
+    {
+      "surface": "ויחשף",
+      "gloss": "futhi lambesa"
+    },
+    {
+      "surface": "יערות",
+      "gloss": "amahlathi"
+    },
+    {
+      "surface": "ובהיכלו",
+      "gloss": "kanti ethempeleni lakhe"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kusho"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "inkazimulo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:24.438460356Z",
+  "model": "glm-5.3"
+}

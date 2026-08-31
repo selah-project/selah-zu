@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Wajika waya kundlela yesiLwandle, walanxa: amakhanda amakhulu amahlanu ezinti zokulanda, ngestigi lokulanda.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "Wajika waya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "הים",
+      "gloss": "yesiLwandle"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "walanxa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "amahlanu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "ezinti zokulanda"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ngestigi lokulanda"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "zokulanda"
+    }
+  ],
+  "timestamp": "2026-08-31T05:22:18.064252795Z",
+  "model": "glm-5.3"
+}

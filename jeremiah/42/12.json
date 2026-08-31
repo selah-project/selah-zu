@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Futhi ngizinika imisa, futhi yena abe nomusa kinina, futhi anisibuyisela emhlabathini wenu.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "Futhi ngizinika"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kinina"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "imisa"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "futhi abe nomusa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-nin",
+      "marks": "kinina"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "futhi anisibuyisela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩-nin",
+      "marks": "nin"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "mhlabathini wenu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:59:52.390970194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 48:5",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 48,
+  "translation": "Ngakho ngakutshela kusukela ngaleso sikhathi, ngaphambi kokuba kufike ngakwenza wezwa, ukuze ungabi: „izithombe zami eziqamukiwe zenze lezo, nomqobe wami nophahla lami olunyathelisiwe ngawo lamyala.”",
+  "tokens": [
+    {
+      "surface": "ואגיד",
+      "gloss": "ngakutshela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "kusukela ngaleso sikhathi"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ngaphambi kokuba"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kufike"
+    },
+    {
+      "surface": "השמעתיך",
+      "gloss": "ngakwenza wezwa"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ukuze ungabi"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ungasho"
+    },
+    {
+      "surface": "עצבי",
+      "gloss": "izithombe zami eziqamukiwe"
+    },
+    {
+      "surface": "עשם",
+      "gloss": "zenze lezo"
+    },
+    {
+      "surface": "ופסלי",
+      "gloss": "nomqobe wami"
+    },
+    {
+      "surface": "ונסכי",
+      "gloss": "nophahla lami olunyathelisiwe"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ngawo lamyala"
+    }
+  ],
+  "timestamp": "2026-08-31T04:31:49.319655095Z",
+  "model": "glm-5.3"
+}

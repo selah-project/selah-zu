@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Bonke laba baguquile amadolo bawe, kanti thina sivukile saqiniswa obala.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "labo"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "baguquile amadolo"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "bawe"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "kanti thina"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "sivukile"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "saqiniswa obala"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:25.848462230Z",
+  "model": "glm-5.3"
+}

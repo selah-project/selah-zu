@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 105,
+  "ref": "psalms 119:105",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Isibani sezinyawo zami izwi lakho, nokhanya lomgwaqo wami.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "isibani"
+    },
+    {
+      "surface": "לרגלי",
+      "gloss": "sezinyawo zami"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "izwi lakho"
+    },
+    {
+      "surface": "ואור",
+      "gloss": "nokhanya"
+    },
+    {
+      "surface": "לנתיבתי",
+      "gloss": "lomgwaqo wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:40.941374162Z",
+  "model": "glm-5.3"
+}

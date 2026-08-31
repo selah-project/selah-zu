@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Walala walala phansi kwesihlahla esisodwa, bheka, isithunywa samthinta sathi kuye: Sukuma, udle.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "walala"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "walala (ukulala)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phansi"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "kwesihlahla"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "esisodwa"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨lokhu⟩"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "isithunywa"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "samthinta"
+    },
+    {
+      "surface": "בו",
+      "gloss": "(omthinta)"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "sathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "קום",
+      "gloss": "sukuma"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "udle"
+    }
+  ],
+  "timestamp": "2026-08-31T04:00:16.114819487Z",
+  "model": "glm-5.3"
+}

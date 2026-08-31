@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 3:16",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Hamba, qoqa ⟨את⟩ amadoda amdala akwa-Israyeli, uthi kibo: uYahwe, u-Elohim wobaba benu, uvele kimi, u-Elohim ka-Avraham, ka-Yitschaki, noYaakobi, ethi: Ngakubona ngakubona ⟨את⟩ nina, noku-⟨את⟩ okwenziwe kini eMitsrayim.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Hamba"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "qoqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadoda amdala akwa-Israyeli"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "amadoda amdala"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "akwa-Israyeli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kibo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "wobaba benu"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "uvele"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ka-Avraham"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ka-Yitschaki"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "noYaakobi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "ngaku-"
+    },
+    {
+      "surface": "פקדתי",
+      "gloss": "bona ngakubona"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "noku-⟨את⟩",
+      "marks": "okwenziwe kini eMitsrayim"
+    },
+    {
+      "surface": "העשוי",
+      "gloss": "okwenziwe"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "eMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T05:57:09.611788949Z",
+  "model": "glm-5.3"
+}

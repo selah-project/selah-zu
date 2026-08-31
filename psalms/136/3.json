@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 136:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 136,
+  "translation": "Nikela umusa ku-Adonayi weziloNkosi, ngokuba ikhesedi yakhe iyaphila kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Nikela umusa"
+    },
+    {
+      "surface": "לאדני",
+      "gloss": "ku-Adonayi we-"
+    },
+    {
+      "surface": "האדנים",
+      "gloss": "ziloNkosi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:29.114770819Z",
+  "model": "glm-5.3"
+}

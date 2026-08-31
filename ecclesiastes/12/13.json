@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Isiphetho sedaba, sonke sekuzwakalile: yezisa uElohim ⟨את⟩, ulugcine ⟨את⟩ imiyalo yakhe, ngoba le yikho konke komuntu.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "isiphetho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "sedaba"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "sekuzwakalile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "yezisa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imiyalo yakhe"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "imiyalo yakhe"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ulugcine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "komuntu"
+    }
+  ],
+  "timestamp": "2026-08-31T07:49:35.814923618Z",
+  "model": "glm-5.3"
+}

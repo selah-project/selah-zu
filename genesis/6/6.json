@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi uYahwe wazisola ukuthi wenzile ⟨את⟩ umuntu emhlabeni, futhi waphathwa ubuhlungu enhliziyweni yakhe.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "futhi wazisola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenzile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "futhi waphathwa ubuhlungu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "enhliziyweni yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:04:04.488777074Z",
+  "model": "glm-5.3"
+}

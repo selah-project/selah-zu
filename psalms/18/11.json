@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 18:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Wahambelela phezu kwekerubhi, wazibonzela ⟨indiza⟩, wasondela phansi phakathi kwezinsimbi zomoya-mvunge.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "wahambelela"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "kerubhi"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "wazibonzela ⟨indiza⟩"
+    },
+    {
+      "surface": "וידא",
+      "gloss": "wasondela phansi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phakathi kwezinsimbi ze-"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "insimbi"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya-mvunge"
+    }
+  ],
+  "timestamp": "2026-08-31T11:41:07.133631122Z",
+  "model": "glm-5.3"
+}

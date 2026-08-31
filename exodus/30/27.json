@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 30:27",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Nendiza ⟨את⟩ itafula ⟨את⟩ nayo ⟨את⟩ konke izitshalo zalo, no ⟨את⟩ isibani ⟨את⟩ nazo ⟨את⟩ izitshalo zaso, no ⟨את⟩ i-altare lensimbi",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no",
+      "marks": "itafula"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "itafula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ nayo",
+      "marks": "konke izitshalo zalo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "izitshalo zalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no",
+      "marks": "isibani"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "isibani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ nazo",
+      "marks": "izitshalo zaso"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "izitshalo zaso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no",
+      "marks": "i-altare lensimbi"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "הקטרת",
+      "gloss": "lensimbi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:12:58.892191869Z",
+  "model": "glm-5.3"
+}

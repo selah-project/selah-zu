@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Wase enza ⟨את⟩ izingadi zohamba lweMishikana, ngokhuni lwesikhathi-miti, zimi.\n    ",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Wase enza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingadi"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "izingadi"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "zohamba lweMishikana"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ngokhuni"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "lwesikhathi-miti"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "zimi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:46:38.840143555Z",
+  "model": "glm-5.3"
+}

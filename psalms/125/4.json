@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 125:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 125,
+  "translation": "Yenza okuhle, Yahwe, kubalungile, nakwalabo abaqotho ezinhliziyweni zabo.",
+  "tokens": [
+    {
+      "surface": "היטיבה",
+      "gloss": "Yenza okuhle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לטובים",
+      "gloss": "kubalungile"
+    },
+    {
+      "surface": "ולישרים",
+      "gloss": "nakwalabo abaqotho"
+    },
+    {
+      "surface": "בלבותם",
+      "gloss": "ezinhliziyweni zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:27.248913721Z",
+  "model": "glm-5.3"
+}

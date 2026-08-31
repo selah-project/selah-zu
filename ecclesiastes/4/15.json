@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Ngibonile ⟨את⟩ bonke abaphilayo bahamba phansi kwenkanyezo, nothile lomntwana wesibili ozomima esikhundleni sakhe.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ngibonile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonke abaphilayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "abaphilayo"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "bahamba"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "phansi kwe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "inkanyezo"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nothile"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "lomntwana"
+    },
+    {
+      "surface": "השני",
+      "gloss": "wesibili"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "zomima"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "esikhundleni sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:34:25.116060987Z",
+  "model": "glm-5.3"
+}

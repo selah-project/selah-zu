@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi yena uzokhuluma ⟨ngokwakho⟩ ebantwini; futhi kuzotheka, yena uzakuba yomlomo wakho, wena uzakuba ngu-Elohim kuyena.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "uzokhuluma"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ngokwakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuzotheka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uzakuba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wakho"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "omlomo"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "uzakuba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ngu-Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:28:33.414467735Z",
+  "model": "glm-5.3"
+}

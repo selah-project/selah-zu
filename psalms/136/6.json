@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 136:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 136,
+  "translation": "Kuye osabalalisa ⟨את⟩ umhlaba ngaphezu kwezinsi amanzi, ngokuba ikhesedi yakhe yimi kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "לרקע",
+      "gloss": "osabalalisa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu kwezinsi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:46.966350361Z",
+  "model": "glm-5.3"
+}

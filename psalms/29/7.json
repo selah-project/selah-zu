@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Izwi likaYahwe lisika izilangabi zomlilo.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "lisika"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "izilangabi"
+    },
+    {
+      "surface": "אש",
+      "gloss": "zomlilo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:32.378817604Z",
+  "model": "glm-5.3"
+}

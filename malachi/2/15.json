@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "malachi 2:15",
+  "book": "malachi",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Kanti hhayi oyedwa owenza lokhu, ananenye umoya kuye; futhi oyedwa ufunani? Inzalo kaElohim. Ngakho-ke zibhekani emoyeni wenu — nangekheni lentsha yakho ungabhukuda.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kanti hhayi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "oyedwa"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "owenza"
+    },
+    {
+      "surface": "ושאר",
+      "gloss": "ananenye"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "futhi ini"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "oyedwa"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ufunani"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "Inzalo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "ונשמרתם",
+      "gloss": "zibhekani"
+    },
+    {
+      "surface": "ברוחכם",
+      "gloss": "emoyeni wenu"
+    },
+    {
+      "surface": "ובאשת",
+      "gloss": "nangekheni"
+    },
+    {
+      "surface": "נעוריך",
+      "gloss": "lentsha yakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musuku"
+    },
+    {
+      "surface": "יבגד",
+      "gloss": "ukubhukuda"
+    }
+  ],
+  "timestamp": "2026-08-31T05:46:03.957998621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 4:25",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Yahamba wafika kumuntu ka-Elohim, entabeni yaseKarmeli. Kwathi lapho umuntu ka-Elohim embona ⟨את⟩ kude, wathi kuGechazi, insizwa yakhe: Bheka, leyo Shunamite;",
+  "tokens": [
+    {
+      "surface": "ותלך",
+      "gloss": "yahamba"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "wafika"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ka-Elohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "הר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "yaseKarmeli"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "lapho-embona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ka-Elohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yena (kude)"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "kude"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גיחזי",
+      "gloss": "uGechazi"
+    },
+    {
+      "surface": "נערו",
+      "gloss": "insizwa yakhe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "השונמית",
+      "gloss": "Shunamite"
+    },
+    {
+      "surface": "הלז",
+      "gloss": "leyo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:04:32.167163738Z",
+  "model": "glm-5.3"
+}

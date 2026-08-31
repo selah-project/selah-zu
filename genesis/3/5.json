@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 3:5",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngokuba uElohim uyaziokuthi ngosuku nidla kuwo, amehlo enu azovuleka, futhi nizoba njengo-Elohim, sazi okuhle nokubi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "uyazi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "okuthi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "אכלכם",
+      "gloss": "nidla"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "ונפקחו",
+      "gloss": "futhi azovuleka"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "amehlo enu"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "futhi nizoba"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "njengo-Elohim"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "sazi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "nokubi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:12.061022103Z",
+  "model": "glm-5.3"
+}

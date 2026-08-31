@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 2:4",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Kwasekuthi, xa isithunywa sikaYahwe besikusho ⟨את⟩ leyo mazwi kuwo wonke amadodana ka-Israel, abantu baphakamisa ⟨את⟩ izwi labo, bakhala.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwasekuthi"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "xa besikusho"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "isithunywa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leyo mazwi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "mazwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "leyo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kuwo wonke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israel"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "baphakamisa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi labo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "izwi labo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "bakhala"
+    }
+  ],
+  "timestamp": "2026-08-31T03:01:18.834586724Z",
+  "model": "glm-5.3"
+}

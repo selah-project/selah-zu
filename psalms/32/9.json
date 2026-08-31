@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 32:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Ungabi njengenhlekelele noma njengesilozane, asinawo ukuqonda; ngesibaya nesiphambano, izihlobiso zaso, ukuze zibambezele, ukuze zingasondeli kuwe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "njenge-"
+    },
+    {
+      "surface": "כסוס",
+      "gloss": "inhlekelele"
+    },
+    {
+      "surface": "כפרד",
+      "gloss": "isilozane"
+    },
+    {
+      "surface": "אין",
+      "gloss": "asinawo"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "ukuqonda"
+    },
+    {
+      "surface": "במתג",
+      "gloss": "ngesibaya"
+    },
+    {
+      "surface": "ורסן",
+      "gloss": "nesiphambano"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "izihlobiso zaso"
+    },
+    {
+      "surface": "לבלום",
+      "gloss": "ukuze zibambezele"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ukuze zinga-"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "sondeli"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:56.833132736Z",
+  "model": "glm-5.3"
+}

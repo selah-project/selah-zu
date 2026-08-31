@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 64:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 64,
+  "translation": "Abacholisisa ulwimi lwabo njengesibili, balungiselela imicibisholo yabo — inkulumo embitterhu.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Ab"
+    },
+    {
+      "surface": "שננו",
+      "gloss": "cholisisa"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "njengesibili"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ulwimi lwabo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "balungiselela"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "imicibisholo yabo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "inkulumo"
+    },
+    {
+      "surface": "מר",
+      "gloss": "embitterhu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:30.743135816Z",
+  "model": "glm-5.3"
+}

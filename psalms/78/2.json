@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Ngizovula umlomo wami ngokwesibonelo; ngizokhuluma izincondolo zasendulo.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Ngizovula"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "ngokwesibonelo"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umlomo wami"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "ngizokhuluma"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "izincondolo"
+    },
+    {
+      "surface": "מני",
+      "gloss": "zase-"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ndulo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:22.287432961Z",
+  "model": "glm-5.3"
+}

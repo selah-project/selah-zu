@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 16:12",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Ngizwile ⟨את⟩ amagunjana abantwana baka-Israyeli; khuluma kibo uthi: Ngesikhathi sokushona kwelanga nidla inyama, ekuseni nigcwaliswa ngesinkwa; nazi ukuthi nginguYahwe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "שמעתי",
+      "gloss": "ngizwile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagunjana abantwana baka-Israyeli"
+    },
+    {
+      "surface": "תלונת",
+      "gloss": "amagunjana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "baka-Israyeli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "khuluma"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kibo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "kwesikhathi sokushona kwelanga"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nidla"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "ובבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "nigcwaliswa"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ngesinkwa"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "nazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:34:19.890532067Z",
+  "model": "glm-5.3"
+}

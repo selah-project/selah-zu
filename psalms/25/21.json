@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 25:21",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Ukuzinza nokqotho kungigcine, ngoba ngikulindele wena.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "ukuzinza"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "nokqotho"
+    },
+    {
+      "surface": "יצרוני",
+      "gloss": "kungigcine"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "קויתיך",
+      "gloss": "ngikulindele wena"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:43.872278785Z",
+  "model": "glm-5.3"
+}

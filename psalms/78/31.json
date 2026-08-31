@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 78:31",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Futhi intukuthelo kaElohim yenuka phezu kwabo, wayebulala phakathi kwezinamandla zawo, futhi amadoda asemusha akwaYisraeli wawadonsela phansi.",
+  "tokens": [
+    {
+      "surface": "ואף",
+      "gloss": "futhi intukuthelo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yenuka"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "phezu kwabo"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "wayebulala"
+    },
+    {
+      "surface": "במשמניהם",
+      "gloss": "phakathi kwezinamandla zawo"
+    },
+    {
+      "surface": "ובחורי",
+      "gloss": "futhi amadoda asemusha"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "akwaYisraeli"
+    },
+    {
+      "surface": "הכריע",
+      "gloss": "wawadonsela phansi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:11.272163379Z",
+  "model": "glm-5.3"
+}

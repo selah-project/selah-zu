@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 9:11",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ngasinyanga yesibili, ngosuku olweshuminane nane, phakathi kwezinsuku zokuhlangana kwentwaba Nenza ⟨את⟩ yona; ngamakhekhe asengcolileyo nangotshani obunyunyane Noyidla.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "ngasinyanga"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yesibili"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ngolweshuminane"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "nane"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "kwezinsuku zokuhlangana kwentwaba"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "enza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona",
+      "marks": "iPesaka (it)"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngama"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "amakhekhe asengcolileyo"
+    },
+    {
+      "surface": "ומררים",
+      "gloss": "otshani obunyunyane"
+    },
+    {
+      "surface": "יאכלהו",
+      "gloss": "oyidla"
+    }
+  ],
+  "timestamp": "2026-08-31T02:13:23.115209913Z",
+  "model": "glm-5.3"
+}

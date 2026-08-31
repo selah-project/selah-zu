@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 36:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Ubulungiswa bakho bunjengamazintaba ka-El; izinkantolo zakho zingolwandle olukhulu olujulile; umuntu nezilwane zomhlaba uyazisindisa, uYahwe.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "ubulungiswa bakho"
+    },
+    {
+      "surface": "כהררי",
+      "gloss": "bunjengamazintaba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka-El"
+    },
+    {
+      "surface": "משפטך",
+      "gloss": "izinkantolo zakho"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "olwandle olujulile"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "olukhulu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ובהמה",
+      "gloss": "nezilwane zomhlaba"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "uyazisindisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:40.233979380Z",
+  "model": "glm-5.3"
+}

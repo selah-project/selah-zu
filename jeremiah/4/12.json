@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Umoya othagethekileyo ovela kulezo uzofika kimi; manje futhi mina ngizokhuluma izinkantolo ⟨את⟩ ⟨kuwo⟩.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Umoya"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "othagethekileyo"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ovela kulezo"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "uzofika"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ngizokhuluma"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "izinkantolo"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "kuwo (izinkantolo kubona)"
+    }
+  ],
+  "timestamp": "2026-08-31T04:40:10.198508218Z",
+  "model": "glm-5.3"
+}

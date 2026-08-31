@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 18:17",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Kwathi lapho u-Ahab ebona ⟨את⟩ u-Eliyahu, u-Ahab wathi kuyena: Ingawe yini wena, onxusayo uIsrayeli?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "lapho ebona"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "u-Ahab"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Eliyahu"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "u-Eliyahu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "u-Ahab"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "ingawe yini wena"
+    },
+    {
+      "surface": "זה",
+      "gloss": "←"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "onxusayo"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:59:59.093855566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Udadewabo wamela kude, ukuze azi ukuthi kuzakwenziwa ini kuye.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "wamela"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "udadewabo"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kude"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "ukuze azi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ini"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kuzakwenziwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-08-31T01:27:02.588594265Z",
+  "model": "glm-5.3"
+}

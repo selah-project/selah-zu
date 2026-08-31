@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 6:11",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Isiphahamithi sikaYahwe sahlala endlini ka-Obhedi-Edomi owebhaGati izinyanga ezintathu; uYahwe wabusisa ⟨את⟩ u-Obhedi-Edomi ⟨את⟩ nomuzi wakhe wonke.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "sahlala"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isiphahamithi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlini"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ka-Obhedi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edomi"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "owebhaGati"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "izinyanga"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wabusisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Obhedi-Edomi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "u-Obhedi"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "-Edomi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no-",
+      "marks": "umuzi wakhe wonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "umuzi wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:34:08.752294582Z",
+  "model": "glm-5.3"
+}

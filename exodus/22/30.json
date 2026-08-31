@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 22:30",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Futhi nina madoda angcwele nibengabami; inyama eyivukelwe yizilwane ensimini angeke niyidle; niyophonsela izinja ⟨את⟩ yona.",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "Futhi nina madoda"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "angcwele"
+    },
+    {
+      "surface": "תהיון",
+      "gloss": "nibengabami"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "Futhi inyama"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ensimini"
+    },
+    {
+      "surface": "טרפה",
+      "gloss": "eyivukelwe yizilwane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "niyidle"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "izinja"
+    },
+    {
+      "surface": "תשלכון",
+      "gloss": "niyophonsela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yona (inyama)"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:36.241847991Z",
+  "model": "glm-5.3"
+}

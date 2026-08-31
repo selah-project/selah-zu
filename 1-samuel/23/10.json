@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 23:10",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "UDavide wathi: uYahwe, uElohim ka-Israeli, izinkonjani zakho zizwile ngempela ukuthi uShawuli ufuna ukuza eKheylahi ukubhubhisa idolobha ngenxa yami.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israeli"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "zizwile"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "izinkonjani zakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ufuna"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ukuza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "קעילה",
+      "gloss": "eKheylahi"
+    },
+    {
+      "surface": "לשחת",
+      "gloss": "ukubhubhisa"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "idolobha"
+    },
+    {
+      "surface": "בעבורי",
+      "gloss": "ngenxa yami"
+    }
+  ],
+  "timestamp": "2026-08-31T03:25:47.008217702Z",
+  "model": "glm-5.3"
+}

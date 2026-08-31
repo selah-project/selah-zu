@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "u-Achitubhi wazala ⟨את⟩ uTsadokhi, uTsadokhi wazala ⟨את⟩ u-Achimaatsi.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "u-Achitubhi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uTsadokhi"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "uTsadokhi"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "uTsadokhi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Achimaatsi"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "u-Achimaatsi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:20:12.632393416Z",
+  "model": "glm-5.3"
+}

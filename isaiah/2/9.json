@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi indoda yakhlehla, umuntu wancipha, futhi ungabamemezi ⟨abakaki abayizingoni⟩.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "futhi yakhlehla"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "futhi wancipha"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi ungabi"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ubamemeze"
+    },
+    {
+      "surface": "להם",
+      "gloss": "lo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:14:43.495595820Z",
+  "model": "glm-5.3"
+}

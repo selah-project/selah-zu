@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Inefeshi yethu ilindele uYahwe; umsizi wethu nesiphephelo sethu ⟨nguyena⟩.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Inefeshi yethu"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "ilindele"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "umsizi wethu"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "nesiphephelo sethu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "nguyena"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:59.533438909Z",
+  "model": "glm-5.3"
+}

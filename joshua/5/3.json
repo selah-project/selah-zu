@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 5:3",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "uYehoshuwa wazenzela iziphuku zesibani, wahlabela ⟨את⟩ abantwana bakwa-Israyeli entabeni yeZibhambu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wazenzela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ngokwakhe"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "iziphuku"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "zesibani"
+    },
+    {
+      "surface": "וימל",
+      "gloss": "wahlabela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakwa-Israyeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "ntabeni"
+    },
+    {
+      "surface": "הערלות",
+      "gloss": "yezibhambu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:51:33.549234451Z",
+  "model": "glm-5.3"
+}

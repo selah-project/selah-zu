@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Kodwa kuKayini nase sipho sakhe uYahwe awubhekanga; uKayini wathukuthela kakhulu, ubuso bakhe bwaba buthonsile.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "kodwa ku"
+    },
+    {
+      "surface": "קין",
+      "gloss": "uKayini"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nase"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "isipho sakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha ⟨awu-⟩"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "bhekanga"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "wathukuthela"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "uKayini"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "bwaba buthonsile"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:23.575369341Z",
+  "model": "glm-5.3"
+}

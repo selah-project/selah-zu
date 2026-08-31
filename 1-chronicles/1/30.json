@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "noMishima, noDuma, uMasa, uKhadadi, noTeyima.",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "uMishima"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "noDuma"
+    },
+    {
+      "surface": "משא",
+      "gloss": "uMasa"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "uKhadadi"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "noTeyima"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:03.971601591Z",
+  "model": "glm-5.3"
+}

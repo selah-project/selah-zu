@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngoba nizoba njengesihlahla-ayili eliwothulwayo amaqabungalo, futhi njengesivande esingenawo amanzi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "nizoba"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "njengesihlahla-ayili"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "liwothulwayo"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "amaqabungalo"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "futhi njengesivande"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "esingenawo"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-31T04:16:05.673035540Z",
+  "model": "glm-5.3"
+}

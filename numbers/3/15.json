@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 3:15",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Bala ⟨את⟩ abantwana bakwaLevi ngokwendlu yookhokho babo, ngokwezizwe zawo; onke amadoda, kusukela kulowo ozalwe inyanga eyodwa nangaphezulu, uzobabala.",
+  "tokens": [
+    {
+      "surface": "פקד",
+      "gloss": "bala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakwaLevi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "bakwaLevi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ngokwendlu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "yookhokho babo"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngokwezizwe zawo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "kusukela kulowo ozalwa"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "inyanga eyodwa"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "nangaphezulu"
+    },
+    {
+      "surface": "תפקדם",
+      "gloss": "uzobabala"
+    }
+  ],
+  "timestamp": "2026-08-31T02:09:02.597103084Z",
+  "model": "glm-5.3"
+}

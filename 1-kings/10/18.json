@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 10:18",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Futhi inkosi yenza isihlalo esikhulu samazinyo endlovu, sathi salayelwa ngegolide elicwilisiwe.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "futhi yenza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "isihlalo"
+    },
+    {
+      "surface": "שן",
+      "gloss": "amazinyo endlovu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "esikhulu"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "futhi salayelwa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ngegolide"
+    },
+    {
+      "surface": "מופז",
+      "gloss": "elicwilisiwe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:53:55.993652330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 66,
+  "translation": "Culani inkazimulo yegama lakhe; yenzani inkazimulo ukudumisa kwakhe.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Culani"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "inkazimulo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "yenzani"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "inkazimulo"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ukudumisa kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:45.414501834Z",
+  "model": "glm-5.3"
+}

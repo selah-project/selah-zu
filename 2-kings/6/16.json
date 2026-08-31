@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 6:16",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Wathi: Ungabi nesabi, ngoba baningi abakahle ⟨את⟩ nathi kunabalabo abakahle ⟨את⟩ nabo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "nesabi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baningi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ nathi"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "kuna-"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": ""
+    }
+  ],
+  "timestamp": "2026-08-31T04:04:48.440507608Z",
+  "model": "glm-5.3"
+}

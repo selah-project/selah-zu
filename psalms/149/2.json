@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 149:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 149,
+  "translation": "uIsrayeli ajabule kuMenzakhe; abantwana beTsiyoni bajabule ngoNkosi yabo inkosi.",
+  "tokens": [
+    {
+      "surface": "ישמח",
+      "gloss": "ajabule"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "בעשיו",
+      "gloss": "kuMenzakhe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "beTsiyoni"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "bajabule"
+    },
+    {
+      "surface": "במלכם",
+      "gloss": "ngoSikazi wabo inkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:52.009839773Z",
+  "model": "glm-5.3"
+}

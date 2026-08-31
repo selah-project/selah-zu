@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 76,
+  "translation": "KwiYehudha uElohim uyaziwa; kwiYisraeli igama lakhe likhulu.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "uyaziwa"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "KwiYehudha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "kwiYisraeli"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "likhulu"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:27.960344667Z",
+  "model": "glm-5.3"
+}

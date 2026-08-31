@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Ngoba indlu ka-Israeli nendlu kaYehudha zenze isigwenya esikhulu kimi, kusho uYahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngoba"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "isigwenya esikhulu"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "zenze isigwenya"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israeli"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "nendlu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kaYehudha"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kusho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:40:23.263244127Z",
+  "model": "glm-5.3"
+}

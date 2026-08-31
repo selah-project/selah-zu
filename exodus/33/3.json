@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 33:3",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Uyobona indawo ekhotha ubisi nekhezo, ngokuba anginyuki ngikumaphakathi kwenu, ngoba nina nisabantu banqenqema, hleze nginidlage endleleni.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "uyobona"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ekhotha"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ubisi"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "nekhezo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angi-"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "nyuki"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ngikumaphakathi kwenu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "bantu"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "banqenqema"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "khanda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "פן",
+      "gloss": "hleze"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "nginidlage"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:44:25.481374922Z",
+  "model": "glm-5.3"
+}

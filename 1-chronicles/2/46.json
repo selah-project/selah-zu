@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 2:46",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "U-Eyifa, unguni lukaKalebe, wazala ⟨את⟩ uKharani ⟨את⟩ noMotsa ⟨את⟩ noGazesi; uKharani wazala ⟨את⟩ uGazesi.",
+  "tokens": [
+    {
+      "surface": "ועיפה",
+      "gloss": "U-Eyifa"
+    },
+    {
+      "surface": "פילגש",
+      "gloss": "unguni"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "lukaKalebe"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uKharani"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "uKharani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noMotsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "noMotsa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noGazesi"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "noGazesi"
+    },
+    {
+      "surface": "וחרן",
+      "gloss": "uKharani"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uGazesi"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "uGazesi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:25.398844386Z",
+  "model": "glm-5.3"
+}

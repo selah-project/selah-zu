@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Phula ingalo yomoni nomkohlisi; hletha ububi bakhe — kungatholakale lutho.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "phula"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ingalo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "yomoni"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "nomkohlisi"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "hletha"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "ububi bakhe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kungatholakale"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "lutho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:53.918504508Z",
+  "model": "glm-5.3"
+}

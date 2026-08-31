@@ -1,0 +1,111 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 10:12",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "uYahwe wathi kuMoshe: Lula isandla sakho phezu kwezwe leMitsrayim ngezenqe, zize zenyuke ezweni leMitsrayim, zidle ⟨את⟩ wonke utshani belizwe, ⟨את⟩ konke okushiye isikhukhula.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "lula"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ezwe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "leMitsrayim"
+    },
+    {
+      "surface": "בארבה",
+      "gloss": "ngezenqe"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "zize zenyuke"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "leMitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "leMitsrayim"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "zidle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke utshani"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "utshani"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "belizwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke okushiye isikhukhula"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwe"
+    },
+    {
+      "surface": "השאיר",
+      "gloss": "okushiye"
+    },
+    {
+      "surface": "הברד",
+      "gloss": "isikhukhula"
+    }
+  ],
+  "timestamp": "2026-08-31T01:31:40.952169252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 21:8",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi umngcwelise yena, ngokuba ⟨את⟩ ukudla kwe-Elohim wakho yena uyakukuletha; uyakuba ungumngcwele kuwe, ngokuba ngiyingcwele mina, uYahwe, oningcwelisayo.",
+  "tokens": [
+    {
+      "surface": "וקדשתו",
+      "gloss": "futhi umngcwelise yena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukudla kwe-Elohim wakho"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "kwe-Elohim wakho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "uyakukuletha"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ungumngcwele"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uyakuba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ngiyingcwele"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מקדשכם",
+      "gloss": "oningcwelisayo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:58:37.823367380Z",
+  "model": "glm-5.3"
+}

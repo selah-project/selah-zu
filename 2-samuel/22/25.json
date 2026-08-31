@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 22:25",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Futhi uYahwe wabuyisela kimi njengokulunga kwami, njengokuhlanzekile kwami phambi kamehlo akhe.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "futhi wabuyisela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "כצדקתי",
+      "gloss": "njengokulunga kwami"
+    },
+    {
+      "surface": "כברי",
+      "gloss": "njengokuhlanzekile kwami"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "kamehlo akhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:44:49.031035454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 49:31",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Lapho bagcotshisa ⟨את⟩ u-Avraham no-⟨את⟩ uSara umkakhe; lapho bagcotshisa ⟨את⟩ uYitsaka no-⟨את⟩ uRivka umkakhe; futhi lapho ngigcotshise ⟨את⟩ uLea",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "bagcotshisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "uSara"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "uSara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umkakhe"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "bagcotshisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYitsaka"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "uYitsaka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "uRivka"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "uRivka"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umkakhe"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "futhi lapho"
+    },
+    {
+      "surface": "קברתי",
+      "gloss": "ngigcotshise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uLea"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "uLea"
+    }
+  ],
+  "timestamp": "2026-08-31T01:26:12.515529725Z",
+  "model": "glm-5.3"
+}

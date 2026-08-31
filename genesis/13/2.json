@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "U-Avram wayenesisindwe ⟨kakhulu⟩ ngoyigo, nangesiliva nangegolide.",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "u-Avram"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "wayenesisindwe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "ngoyigo"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "nangesiliva"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "nangegolide"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:39.999136001Z",
+  "model": "glm-5.3"
+}

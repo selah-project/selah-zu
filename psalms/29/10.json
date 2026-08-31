@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "uYahwe wayehlalela umkhululo, futhi uYahwe uhlala njengenkosi kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "umkhululo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "wayehlalela"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "futhi uhlala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "njengenkosi"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:24.438716066Z",
+  "model": "glm-5.3"
+}

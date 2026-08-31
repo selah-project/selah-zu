@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 16:22",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi lenduna yamabuzi izohwala phezu kwakho ⟨את⟩ zonke izoni zabo, iye ezweni elihlukanisiwe; futhi ayithume ⟨את⟩ lenduna yamabuzi esigodini.",
+  "tokens": [
+    {
+      "surface": "ונשא",
+      "gloss": "futhi izohwala"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "lenduna yamabuzi"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke izoni zabo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "עונתם",
+      "gloss": "izoni zabo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "elihlukanisiwe"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "futhi ayithume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lenduna yamabuzi"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "lenduna yamabuzi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "esigodini"
+    }
+  ],
+  "timestamp": "2026-08-31T02:00:03.570329625Z",
+  "model": "glm-5.3"
+}

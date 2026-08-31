@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Angayihlabezeli inhloni ngesikhathi esibi, futhi ezinsukwini zendlala bayoziswa.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Angayihlabezeli"
+    },
+    {
+      "surface": "יבשו",
+      "gloss": "inhloni"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ngesikhathi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "esibi"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "futhi ezinsukwini"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "zendlala"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "bayoziswa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:49.580909630Z",
+  "model": "glm-5.3"
+}

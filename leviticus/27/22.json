@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 27:22",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Futhi uma engcwelesa kuYahwe ⟨את⟩ insimu yakho ukuthenga, engasezinsimweni zobunikazi bakhe —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "futhi uma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insimu yakho ukuthenga"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "insimu"
+    },
+    {
+      "surface": "מקנתו",
+      "gloss": "yakhe ukuthenga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engase-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "משדה",
+      "gloss": "ezinsimweni"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "zobunikazi bakhe"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "engcwelesa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:07:10.307333401Z",
+  "model": "glm-5.3"
+}

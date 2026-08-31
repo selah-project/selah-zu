@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 1:6",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "U-Adoni-Bezek wabaleka; bamlandulela, bammunca, bamsika ⟨את⟩ izinzipho ezinkulu zezandla zakhe nezenyawo zakhe.",
+  "tokens": [
+    {
+      "surface": "וינס",
+      "gloss": "wabaleka"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adoni-"
+    },
+    {
+      "surface": "בזק",
+      "gloss": "Bezek"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "bamlandulela"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "emuva kwakhe"
+    },
+    {
+      "surface": "ויאחזו",
+      "gloss": "bammunca"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "u-Adoni-Bezek"
+    },
+    {
+      "surface": "ויקצצו",
+      "gloss": "bamsika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinzipho ezinkulu"
+    },
+    {
+      "surface": "בהנות",
+      "gloss": "izinzipho ezinkulu"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "zezandla zakhe"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "nezenyawo zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:00:38.284602099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 72:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 72,
+  "translation": "Uyozwelana ngompofu nangongangenam lutho, ukuphila kwabampofu uyokusindisa.",
+  "tokens": [
+    {
+      "surface": "יחס",
+      "gloss": "uyozwelana"
+    },
+    {
+      "surface": "על",
+      "gloss": "ng-"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ompofu"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "nangongangenam-lutho"
+    },
+    {
+      "surface": "ונפשות",
+      "gloss": "ukuphila"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "kwabampofu"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "uyokusindisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:21.594993594Z",
+  "model": "glm-5.3"
+}

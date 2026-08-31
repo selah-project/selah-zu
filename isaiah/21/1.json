@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 21:1",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Isithwalo senkangala yolwandle: njengozikhukhukazi eNingizimu ezidlula, kufika esinkangaleni, evela emhlabeni owesabekayo.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "isithwalo"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "inkangala"
+    },
+    {
+      "surface": "ים",
+      "gloss": "yolwandle"
+    },
+    {
+      "surface": "כסופות",
+      "gloss": "njengozikhukhukazi"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "eNingizimu"
+    },
+    {
+      "surface": "לחלף",
+      "gloss": "ezidlula"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "esinkangaleni"
+    },
+    {
+      "surface": "בא",
+      "gloss": "kufika"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "evela emhlabeni"
+    },
+    {
+      "surface": "נוראה",
+      "gloss": "owesabekayo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:22:25.620185488Z",
+  "model": "glm-5.3"
+}

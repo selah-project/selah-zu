@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 6:1",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Kwase kwenzeke lokhu: lapho umuntu eqalisa ukwandilela ebusweni bomhlaba, kwazalwa amadodakazi kubona.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwase kwenzeke lokhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "החל",
+      "gloss": "eqalisa"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "ukuwandilela"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ebusweni"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bomhlaba"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "amadodakazi"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "kwazalwa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubona"
+    }
+  ],
+  "timestamp": "2026-08-31T01:04:44.753847183Z",
+  "model": "glm-5.3"
+}

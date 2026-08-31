@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 33:4",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "IMitsrayim yabe iphitha ⟨את⟩ abaye uYahwe ababethela abo, wonke abazalwa kuqala; nasezithonjini zabo uYahwe wenza izigwebo.",
+  "tokens": [
+    {
+      "surface": "ומצרים",
+      "gloss": "IMitsrayim"
+    },
+    {
+      "surface": "מקברים",
+      "gloss": "iphitha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaye uYahwe ababethela abo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abaye"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ababethela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "abo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "abazalwa kuqala"
+    },
+    {
+      "surface": "ובאלהיהם",
+      "gloss": "nasezithonjini zabo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "izigwebo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:00:27.581583374Z",
+  "model": "glm-5.3"
+}

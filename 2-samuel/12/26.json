@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 12:26",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "UYoabu walwa neRabba yabantwana baka-Amoni, wathatha ⟨את⟩ idolobha lobukhosi.",
+  "tokens": [
+    {
+      "surface": "וילחם",
+      "gloss": "walwa"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "UYoabu"
+    },
+    {
+      "surface": "ברבת",
+      "gloss": "neRabba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "baka-Amoni"
+    },
+    {
+      "surface": "וילכד",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idolobha lobukhosi"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "idolobha"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "lobukhosi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:36:52.435489486Z",
+  "model": "glm-5.3"
+}

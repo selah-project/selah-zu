@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 142:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 142,
+  "translation": "Buka kwesokudla uze ubone, ⟨futhi⟩ akunalabo engingamaziyo; indawo yokubalekela iphelelile kimi, akunalabo ofunayo inefeshi yami.",
+  "tokens": [
+    {
+      "surface": "הביט",
+      "gloss": "buka"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "kwesokudla"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "uze ubone"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "⟨futhi⟩ akunalabo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "enginga-"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "maziyo"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "iphelelile"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "indawo yokubalekela"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akunalabo"
+    },
+    {
+      "surface": "דורש",
+      "gloss": "ofunayo"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "inefeshi yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:39.498602127Z",
+  "model": "glm-5.3"
+}

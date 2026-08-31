@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 93,
+  "ref": "psalms 119:93",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Kuze kube phakade angeke ngikhohlange imiyalo yakho, ngokuba ngayo ungiphilisile.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "אשכח",
+      "gloss": "ngikhohlange"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "imiyalo yakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ngayo"
+    },
+    {
+      "surface": "חייתני",
+      "gloss": "ungiphilisile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:40.513620882Z",
+  "model": "glm-5.3"
+}

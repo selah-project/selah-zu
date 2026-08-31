@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Abaganga bakhokhla mina imigodo, okungabi hhayi njengomthetho wakho.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "bakhokhla"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "abaganga"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "imigodo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okungabi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hhayi"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "njengomthetho wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:43.770532844Z",
+  "model": "glm-5.3"
+}

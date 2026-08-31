@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "U-Yosefu weza kubo ekuseni, wababona ⟨את⟩ bengazinikele ⟨ezibuhlungu⟩.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "weza"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "U-Yosefu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wababona"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "bengazinikele"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "⟨ezibuhlungu⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T01:19:57.188349187Z",
+  "model": "glm-5.3"
+}

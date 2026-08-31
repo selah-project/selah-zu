@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Ngokuba amehlo enu abonile ⟨את⟩ wonke umsebenzi omkhulu kaYahwe owawenzile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "amehlo enu"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "abonile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke umsebenzi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "omkhulu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owawenzile"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "owawenzile"
+    }
+  ],
+  "timestamp": "2026-08-31T02:35:18.093348268Z",
+  "model": "glm-5.3"
+}

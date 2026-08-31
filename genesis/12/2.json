@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 12:2",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi ngiyakwenza ube yisizwe esikhulu, ngiyakubusisa, futhi ngiyakukhulisa igama lakho; ube usibusiso.",
+  "tokens": [
+    {
+      "surface": "ואעשך",
+      "gloss": "ngiyakwenza ube"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "yisizwe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "esikhulu"
+    },
+    {
+      "surface": "ואברכך",
+      "gloss": "ngiyakubusisa"
+    },
+    {
+      "surface": "ואגדלה",
+      "gloss": "ngiyakukhulisa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ube"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "usibusiso"
+    }
+  ],
+  "timestamp": "2026-08-31T01:06:02.294717853Z",
+  "model": "glm-5.3"
+}

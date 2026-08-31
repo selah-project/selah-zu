@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 147:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 147,
+  "translation": "Dumisani uYah, ngoba kuhle ukucula indumiso kuElohim wethu, ngoba kulungile futhi kuhle kakhulu udumo.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumisani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kuhle"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "ukucula indumiso"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "kuElohim wethu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "kulungile futhi kuhle kakhulu"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "kuhle kakhulu"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "udumo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:55:10.360413046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 4:8",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Isono sezwe lami bayasidla, futhi kuobubi bwabo bayikhupha inefeshi yabo.",
+  "tokens": [
+    {
+      "surface": "חטאת",
+      "gloss": "Isono"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "sezwe lami"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bayasidla"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi ku"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "obubi bwabo"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "bayikhupha"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "inefeshi yabo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:26:46.036387214Z",
+  "model": "glm-5.3"
+}

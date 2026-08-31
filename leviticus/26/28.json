@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 26:28",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Mina ngiyohamba nani ngolaka lokungahambisani, futhi ngiyohlenga ⟨את⟩ nina, mina ngedwa, izikhombisa ngenxa yezono zenu.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "ngiyohamba"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nani"
+    },
+    {
+      "surface": "בחמת",
+      "gloss": "ngolaka"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "lokungahambisani"
+    },
+    {
+      "surface": "ויסרתי",
+      "gloss": "futhi ngiyohlenga"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "אף",
+      "gloss": "nagedwa\/yebo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "izikhombisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "yezono zenu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:06:36.374190688Z",
+  "model": "glm-5.3"
+}

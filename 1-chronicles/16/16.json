@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Esawayisika ku-Avraham, ngesifungo sakhe kuYitsaka.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Esa"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "wayisika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avraham"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ku-Avraham"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "ngesifungo sakhe"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kuYitsaka"
+    }
+  ],
+  "timestamp": "2026-08-31T08:24:45.261973866Z",
+  "model": "glm-5.3"
+}

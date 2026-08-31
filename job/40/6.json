@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Wayephendula uYahwe ⟨את⟩ uJobe ephuma esivunguvungweni, wathi:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "Wayephendula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uJobe"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "uJobe"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "phuma ku-"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "esivunguvungweni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:31:07.179633258Z",
+  "model": "glm-5.3"
+}

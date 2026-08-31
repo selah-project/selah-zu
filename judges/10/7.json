@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 10:7",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Intukuthelo kaYahwe yavutha ngokumelene noIsrayeli, wabathengisa esandleni samaFilishti nasesandleni sabantwana bakwa-Ammoni.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "yavutha"
+    },
+    {
+      "surface": "אף",
+      "gloss": "intukuthelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ngokumelene noIsrayeli"
+    },
+    {
+      "surface": "וימכרם",
+      "gloss": "wabathengisa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni sa-"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "maFilishti"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "nasesandleni sa-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bantwana ba-"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "kwa-Ammoni"
+    }
+  ],
+  "timestamp": "2026-08-31T03:07:00.029813550Z",
+  "model": "glm-5.3"
+}

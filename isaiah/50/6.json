@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 50:6",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Nganikeza umhlathi wami abashayayo, nezingcolo zami abakhunyayo ubudlebe; angifihlangi ubuso bami ehlazweni nokusula.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "umhlathi wami"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nganikeza"
+    },
+    {
+      "surface": "למכים",
+      "gloss": "abashayayo"
+    },
+    {
+      "surface": "ולחיי",
+      "gloss": "nezingcolo zami"
+    },
+    {
+      "surface": "למרטים",
+      "gloss": "abakhunyayo ubudlebe"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso bami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angi-"
+    },
+    {
+      "surface": "הסתרתי",
+      "gloss": "fihlangi"
+    },
+    {
+      "surface": "מכלמות",
+      "gloss": "ehlazweni"
+    },
+    {
+      "surface": "ורק",
+      "gloss": "nokusula"
+    }
+  ],
+  "timestamp": "2026-08-31T04:34:28.719196036Z",
+  "model": "glm-5.3"
+}

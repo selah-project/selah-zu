@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 57:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 57,
+  "translation": "Bekela ithinba izinyawo zami; inefeshi yami yakhona ukhothama; babe umgodi phambi kwami, bawela bobona phakathi kwawo. Selah.",
+  "tokens": [
+    {
+      "surface": "רשת",
+      "gloss": "ithinba"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "babele"
+    },
+    {
+      "surface": "לפעמי",
+      "gloss": "izinyawo zami"
+    },
+    {
+      "surface": "כפף",
+      "gloss": "yakhona ukhothama"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "כרו",
+      "gloss": "babe umgodi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwami"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "umgodi"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "bawela"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "phakathi kwawo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:00.472611023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Nesibutho sawo nababalwa bawo, ⟨bangu⟩ amakhulu ayisithupha nambili ngezinkulungwane, namakhulu ayisikhombisa.",
+  "tokens": [
+    {
+      "surface": "וּצְבָאוֹ",
+      "gloss": "nesibutho sawo"
+    },
+    {
+      "surface": "וּפְקֻדֵיהֶם",
+      "gloss": "nababalwa bawo"
+    },
+    {
+      "surface": "שְׁנַיִם",
+      "gloss": "nambili"
+    },
+    {
+      "surface": "וְשִׁשִּׁים",
+      "gloss": "namakhulu ayisithupha"
+    },
+    {
+      "surface": "אֶלֶף",
+      "gloss": "ngezinkulungwane"
+    },
+    {
+      "surface": "וּשְׁבַע",
+      "gloss": "namakhulu ayisikhombisa"
+    },
+    {
+      "surface": "מֵאוֹת",
+      "gloss": "amakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:53:16.145634615Z",
+  "model": "glm-5.3"
+}

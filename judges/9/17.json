@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 9:17",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "okuba uyise wami walwela nina, waphonsa ⟨את⟩ umphefumulo wakhe phambili, wanisiza ⟨את⟩ ensindweni yakwaMidiyani.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "okuba"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "walwela"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise wami"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "waphonsa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umphefumulo wakhe"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "umphefumulo wakhe"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "phambili"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "wanisiza"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ensindweni"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "yakwaMidiyani"
+    }
+  ],
+  "timestamp": "2026-08-31T03:07:05.622458113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 147:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 147,
+  "translation": "Ukhishazela izwi lakhe kuYakobe; izimiso zakhe nezahlulelo zakhe ku-Israeli.",
+  "tokens": [
+    {
+      "surface": "מגיד",
+      "gloss": "Ukhishazela"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "izwi lakhe"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kuYakobe"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "izimiso zakhe"
+    },
+    {
+      "surface": "ומשפטיו",
+      "gloss": "nezahlulelo zakhe"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ku-Israeli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:45:02.425339687Z",
+  "model": "glm-5.3"
+}

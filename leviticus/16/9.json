@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 16:9",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi u-Aharon uzoletha ⟨את⟩ isilungulezi elenyukela kulo ilothi lelo likaYahwe, ayenze ⟨umnikelo⟩ wesono.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "uzoletha"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isilungulezi"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "isilungulezi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le-"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "elenyukela"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kulo"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ilothi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "ועשהו",
+      "gloss": "ayenze"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "umnikelo wesono"
+    }
+  ],
+  "timestamp": "2026-08-31T01:59:41.888534605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 81:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 81,
+  "translation": "Futhi wayezobafeza ngamafutha ekwele, nangaju eliphuma edwaleni bendizakunanelisa.",
+  "tokens": [
+    {
+      "surface": "ויאכילהו",
+      "gloss": "wayezobafeza"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "ngamafutha"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ekwele"
+    },
+    {
+      "surface": "ומצור",
+      "gloss": "nangeduze nedwala"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "aju"
+    },
+    {
+      "surface": "אשביעך",
+      "gloss": "bendizakunanelisa"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:43.727585854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 14:8",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Kodwa abafowabu abahamba nami bayaqedisa ⟨את⟩ isibindi sabotu; mina ngangilandela uYahwe u-Elohim wami ngokuphelele.",
+  "tokens": [
+    {
+      "surface": "ואחי",
+      "gloss": "kodwa abafowabu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "abahamba"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "nami"
+    },
+    {
+      "surface": "המסיו",
+      "gloss": "bayaqedisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibindi sabotu"
+    },
+    {
+      "surface": "לב",
+      "gloss": "isibindi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "sabotu"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "kodwa mina"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "ngangilandela ngokuphelele"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ngemuva kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "u-Elohim wami"
+    }
+  ],
+  "timestamp": "2026-08-31T02:55:17.539112814Z",
+  "model": "glm-5.3"
+}

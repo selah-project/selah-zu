@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 52:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 52,
+  "translation": "Ngokuba kanjalo ushilo u-Adonayi uYahwe: iMitsrayim yehla abantu bami kwasokudala ukukhampa khona, futhi u-Ashuribamuncile ngaphandle kwenkungca.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ushilo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "yehla"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bami"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "kwasokudala"
+    },
+    {
+      "surface": "לגור",
+      "gloss": "ukukhampa"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "futhi u-Ashuri"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "ngaphandle kwenkungca"
+    },
+    {
+      "surface": "עשקו",
+      "gloss": "bamuncile"
+    }
+  ],
+  "timestamp": "2026-08-31T10:55:47.464882245Z",
+  "model": "glm-5.3"
+}

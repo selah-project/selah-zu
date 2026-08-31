@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 115:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 115,
+  "translation": "Nina nibusisiwe nguYahwe, umenzi wezulu nomhlaba.",
+  "tokens": [
+    {
+      "surface": "ברוכים",
+      "gloss": "nibusisiwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "umenzi"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "wezulu"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "nomhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:12.555653302Z",
+  "model": "glm-5.3"
+}

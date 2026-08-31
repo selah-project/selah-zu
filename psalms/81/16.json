@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 81:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 81,
+  "translation": "Abazonda uYahwe bazizisa kuye ngokubambisela (bebumbisa), futhi isikhathi sabo singaphela phakade.",
+  "tokens": [
+    {
+      "surface": "משנאי",
+      "gloss": "Abazonda"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יכחשו",
+      "gloss": "bazizisa kuye ngokubambisela (bebumbisa)"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "futhi singaphela"
+    },
+    {
+      "surface": "עתם",
+      "gloss": "isikhathi sabo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:25.273026399Z",
+  "model": "glm-5.3"
+}

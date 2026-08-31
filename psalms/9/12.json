@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 9:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Culani kuYahwe ohlala eZiyoni; vazisa phakathi kwabezwe imisebenzi yakhe.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Culani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ohlala"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "eZiyoni"
+    },
+    {
+      "surface": "הגידו",
+      "gloss": "vazisa"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "phakathi kwabezwe"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "imisebenzi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:22.496991862Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Uza kubeka ⟨את⟩ iintambo ezimbini zegolide kuleento ezinezinti ezimbini, kwindawo yokugqibela yesifuba se-ephodi.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "Uza kubeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iintambo ezimbini zegolide"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ezimbini"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "iintambo"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "zegolide"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ezimbini"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "leento ezinezinti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwinkundla"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "yokugqibela"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "yesifuba se-ephodi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:40:40.717007943Z",
+  "model": "glm-5.3"
+}

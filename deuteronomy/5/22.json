@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 5:22",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "⟨את⟩ Lamazwi uYahwe wakhuluma kuwo wonke umhlangano wenu entabeni, phakathi komlilo, wefu nodaka olumnyama, ngezwi elikhulu, futhi awengeza ⟨lutho⟩; wawabhala oithebhula ezimbili zamathe, wayazinika kimi.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lamazwi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "lamazwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wo-"
+    },
+    {
+      "surface": "קהלכם",
+      "gloss": "nke umhlangano wenu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "phakathi ko-"
+    },
+    {
+      "surface": "האש",
+      "gloss": "mlilo"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "wefu"
+    },
+    {
+      "surface": "והערפל",
+      "gloss": "nodaka olumnyama"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ngezwi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "elikhulu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi awa-"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ngeza"
+    },
+    {
+      "surface": "ויכתבם",
+      "gloss": "wawabhala"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "oithebhula"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "zamathe"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "wayazinika"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:33:25.810201112Z",
+  "model": "glm-5.3"
+}

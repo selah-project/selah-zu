@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 27:4",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Futhi waletha ⟨את⟩ umyalezo kumakhosi awo ukuthi: Kanjalo ushilo uYahwe wamabutho, uElohim ka-Israyeli: Kanjalo nizothi kumakhosi enu:",
+  "tokens": [
+    {
+      "surface": "וצוית",
+      "gloss": "Futhi waletha umyalezo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ umyalezo wawona",
+      "marks": "izithunywa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "makosi awo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kanjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ushilo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamabutho"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israyeli"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Kanjalo"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "nizothi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אדניכם",
+      "gloss": "makosi enu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:50:21.515003015Z",
+  "model": "glm-5.3"
+}

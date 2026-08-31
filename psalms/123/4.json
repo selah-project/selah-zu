@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 123:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 123,
+  "translation": "Kakhulu ukwatisa kwayo izwa ukuhleba okwenziwa ngabahlala bezwakalayo, ishlengo esenziwa ngabakhuluphala ngenkohlakalo.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ukwatisa kwayo"
+    },
+    {
+      "surface": "לה",
+      "gloss": "izwa (ukwenza ngaleyo nzira)"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "izwa yethu (ukuphila kwethu, umoya wokulamba nesisuthi)"
+    },
+    {
+      "surface": "הלעג",
+      "gloss": "ukuhleba (ukuhlekwa ngathi)"
+    },
+    {
+      "surface": "השאננים",
+      "gloss": "abahlala bezwakalayo (abaphilile isidudla)"
+    },
+    {
+      "surface": "הבוז",
+      "gloss": "ishlengo (isiphoxo)"
+    },
+    {
+      "surface": "לגאיונים",
+      "gloss": "abakhuluphala ngenkohlakalo (abaziidolophu ezinkulu)"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:26.355986271Z",
+  "model": "glm-5.3"
+}

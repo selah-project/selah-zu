@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 44:21",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Uma silibholile igama likaElohim wethu, sicishela izandla zethu ku-el ongasaziwayo,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "שכחנו",
+      "gloss": "silibholile"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "likaElohim wethu"
+    },
+    {
+      "surface": "ונפרש",
+      "gloss": "sicishela"
+    },
+    {
+      "surface": "כפינו",
+      "gloss": "izandla zethu"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ku-el"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ongasaziwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:54.076128752Z",
+  "model": "glm-5.3"
+}

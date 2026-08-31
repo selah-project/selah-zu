@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 142,
+  "translation": "Ukwahlulela-okuhlakile kwakha-uDavide, ngaleso sikhathi esesigodini — ithandaza.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "ukwahlulela-okuhlakile"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kwakha-uDavide"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "ngaleso sikhathi"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "esesigodini"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ithandaza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:37.048448173Z",
+  "model": "glm-5.3"
+}

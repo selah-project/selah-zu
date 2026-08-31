@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 34:29",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Laba yilaba uYahwe ayabalele ukuba banikele ⟨abantwana bakwa⟩-Israyeli ifa ⟨את⟩ ezweni lakwaKhanana.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Laba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "yilaba…ayabalele"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ayabalele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "ukuba banikele ifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakwa-Israyeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana bakwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni lakwa"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Khanana"
+    }
+  ],
+  "timestamp": "2026-08-31T02:27:40.647174008Z",
+  "model": "glm-5.3"
+}

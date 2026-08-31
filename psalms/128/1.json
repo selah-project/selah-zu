@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 128:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 128,
+  "translation": "Igesi lokwenyuka. Makuhle ngokuphelele lowo oyedesabe uYahwe, ohamba ezindleleni zakhe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Igesi"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lokwenyuko"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Makuhle ngokuphelele"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lowo wonke"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "oyedesabe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ohamba"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "ezindleleni zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:50.143484214Z",
+  "model": "glm-5.3"
+}

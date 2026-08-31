@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Ngokuba ⟨ku⟩ye inhliziyo yethu iyajabula, ngokuba egameni elingcwele lakho sithembe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨ku⟩ye"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "iyajabula"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "inhliziyo yethu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "egameni"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "elingcwele lakho"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "sithembe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:41.236319072Z",
+  "model": "glm-5.3"
+}

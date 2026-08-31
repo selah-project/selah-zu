@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 1:18",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "UYehudha wathatha ⟨את⟩ iGaza nomkhawulo wayo, no⟨את⟩ iAshkelon nomkhawulo wayo, ne⟨את⟩ iEkron nomkhawulo wayo.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehudha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iGaza"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "iGaza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "umkhawulo wayo"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "umkhawulo wayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iAshkelon"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "iAshkelon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "umkhawulo wayo"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "umkhawulo wayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "iEkron"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "iEkron"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "umkhawulo wayo"
+    },
+    {
+      "surface": "גבולה",
+      "gloss": "umkhawulo wayo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:50:37.649608371Z",
+  "model": "glm-5.3"
+}

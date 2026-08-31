@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 104,
+  "ref": "psalms 119:104",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngemiyalo yakho ngiyaqonda, ngakho-ke ngazonda yonke indlela yamanga.",
+  "tokens": [
+    {
+      "surface": "מפקודיך",
+      "gloss": "ngemiyalo yakho"
+    },
+    {
+      "surface": "אתבונן",
+      "gloss": "ngiyaqonda"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ngazonda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "yamanga"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:45.851766472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Uma engena ngesiqu, uzophuma ngesiqu; uma engowomfazi, umfazi wakhe uzophuma naye.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "ngesiqu"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "engena"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "ngesiqu"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uzophuma"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "engowomfazi"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "uzophuma"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umfazi wakhe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:49.255083058Z",
+  "model": "glm-5.3"
+}

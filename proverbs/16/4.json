@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Konke uYahwe ukwenzile ngenxa yakhe, nokho nomoni ngosuku olubi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "ukwenzile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "ngenxa yakhe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nokho no"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "moni"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "olubi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:54:55.844643990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "daniel 9:5",
+  "book": "daniel",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Siwile, sazenza kabi, sazenza ngokungalungile, siminya, sahamba siyeka ⟨izinhlobo⟩ zakho ⟨namasu⟩ zakho.",
+  "tokens": [
+    {
+      "surface": "חטאנו",
+      "gloss": "Siwile"
+    },
+    {
+      "surface": "ועוינו",
+      "gloss": "sazenza kabi"
+    },
+    {
+      "surface": "והרשענו",
+      "gloss": "sazenza ngokungalungile"
+    },
+    {
+      "surface": "ומרדנו",
+      "gloss": "siminya"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "sahamba siyeka"
+    },
+    {
+      "surface": "ממצותך",
+      "gloss": "izinhlobo zakho"
+    },
+    {
+      "surface": "וממשפטיך",
+      "gloss": "amasu zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T10:36:20.728269499Z",
+  "model": "glm-5.3"
+}

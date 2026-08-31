@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 29:24",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Bathi: Ngenxa yokuthi bashiye ⟨את⟩ isivumelwano sikaYahwe, uElohim waboyabo, asasinza nabo ekukhipheni ⟨את⟩ abo eMitsrayim;",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "Bathi"
+    },
+    {
+      "surface": "על",
+      "gloss": "Ngenxa yokuthi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okokuthi"
+    },
+    {
+      "surface": "עזבו",
+      "gloss": "bashiye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isivumelwano"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "isivumelwano"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "waboyabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ashi-"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "asinza"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "nabo"
+    },
+    {
+      "surface": "בהוציאו",
+      "gloss": "ekukhipheni abo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ abo"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "e-"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T06:01:54.141954886Z",
+  "model": "glm-5.3"
+}

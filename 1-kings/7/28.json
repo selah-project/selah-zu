@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 7:28",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi lokhu kube yimisebenzi yenkundla: imiphetho yayinazo, futhi imiphetho yayiphakathi kwezindlela zokuhlanganisa.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "futhi lokhu"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "imisebenzi"
+    },
+    {
+      "surface": "המכונה",
+      "gloss": "yenkundla"
+    },
+    {
+      "surface": "מסגרת",
+      "gloss": "imiphetho"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yayinazo"
+    },
+    {
+      "surface": "ומסגרת",
+      "gloss": "futhi imiphetho"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwe"
+    },
+    {
+      "surface": "השלבים",
+      "gloss": "zindlela zokuhlanganisa"
+    }
+  ],
+  "timestamp": "2026-08-31T03:50:41.079323169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 6:15",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "UDavide nendlu yonke ka-Israel bayigqinisa ⟨את⟩ i-aron likaYahwe ngokukhaliphela nangezwi leshofa.",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nendlu yonke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israel"
+    },
+    {
+      "surface": "מעלים",
+      "gloss": "bayigqinisa bayayisa phezulu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-aron"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "i-aron"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ngokukhaliphela"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "nangezwi"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "leshofa"
+    }
+  ],
+  "timestamp": "2026-08-31T03:35:11.114064166Z",
+  "model": "glm-5.3"
+}

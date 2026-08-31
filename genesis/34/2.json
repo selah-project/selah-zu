@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "UShekemu indodana kaHamori iHivi, umholi womhlaba, wambona ⟨את⟩; wamthatha, walala naye, wamhlazisa.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wambona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uDina"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "UShekemu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "kaHamori"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "iHivi"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "umholi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "womhlaba"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wamthatha"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uDina"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "walala naye"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "uDina"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "wamhlazisa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:18:46.423570484Z",
+  "model": "glm-5.3"
+}

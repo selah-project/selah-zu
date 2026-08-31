@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 126,
+  "translation": "Abasemhlaba bezila ngezinyembezi bayokhi­niza ngekuhlabelela.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "abasemhlaba bezila"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "ngezinyembezi"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "ngekuhlabelela"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "bayokhiniza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:36.518566157Z",
+  "model": "glm-5.3"
+}

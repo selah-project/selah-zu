@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 121,
+  "ref": "psalms 119:121",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngenze ukwahlulela nokulunga; ungalokothi ungangishiya kubanqizi bami.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Ngenze"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ukwahlulela"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "nokulunga"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ungalokothi"
+    },
+    {
+      "surface": "תניחני",
+      "gloss": "ungangishiya"
+    },
+    {
+      "surface": "לעשקי",
+      "gloss": "kubanqizi bami"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:33.469931095Z",
+  "model": "glm-5.3"
+}

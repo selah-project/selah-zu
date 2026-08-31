@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 19:21",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Wathi kuye: Bheka, ngiphakamisile ubuso bakho nangalesi sidaba, ukuthi ngingayiguquli ⟨את⟩ idolobha okukhuluma ngalo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ngiphakamisile"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nango-"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "lesi sidaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "-"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ukuthi nginga-"
+    },
+    {
+      "surface": "הפכי",
+      "gloss": "guquli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "idolobha"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "idolobha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku-"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "khuluma ngalo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:07:47.111624855Z",
+  "model": "glm-5.3"
+}

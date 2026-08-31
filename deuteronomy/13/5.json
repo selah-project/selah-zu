@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 13:5",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Ngemuva kukaYahwe uElohim wenu nizohamba; ⟨את⟩ yena nimyesaba; ⟨את⟩ imiyalo yakhe niyigcina; ilizwi lakhe nilalele; ⟨את⟩ yena nimkhonza; kuyena ninamathele.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "ngemuva kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "nizohamba"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "yena (uYahwe, nimyesaba)"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "nimyesaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imiyalo yakhe"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "imiyalo yakhe"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "niyigcina"
+    },
+    {
+      "surface": "ובקלו",
+      "gloss": "elizwini lakhe"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "nilalele"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "yena (uYahwe, nimkhonza)"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "nimkhonza"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "תדבקון",
+      "gloss": "ninamathele"
+    }
+  ],
+  "timestamp": "2026-08-31T02:38:42.942227239Z",
+  "model": "glm-5.3"
+}

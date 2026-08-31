@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 33:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Icebo likaYahwe lizima kuze kube phakade; imicabango yenhliziyo yakhe kwezizukulwana ngezizukulwana.",
+  "tokens": [
+    {
+      "surface": "עצת",
+      "gloss": "Icebo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "lizima"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "imicabango"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "yenhliziyo yakhe"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kwezizukulwana"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ngezizukulwana"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:08.908900937Z",
+  "model": "glm-5.3"
+}

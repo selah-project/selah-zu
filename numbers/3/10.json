@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 3:10",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi ⟨את⟩ u-Aharon naye ⟨את⟩ abantwana bakhe uzobakhetha, futhi bazogcina ⟨את⟩ ubupristi babo; lowo ungongonileyo osondele, uzofa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "u-Aharon"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "abantwana bakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "abantwana bakhe"
+    },
+    {
+      "surface": "תפקד",
+      "gloss": "uzobakhetha"
+    },
+    {
+      "surface": "ו שמרו",
+      "gloss": "futhi bazogcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubupristi babo"
+    },
+    {
+      "surface": "כהנתם",
+      "gloss": "ubupristi babo"
+    },
+    {
+      "surface": "והזר",
+      "gloss": "lowo ungongonileyo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "osondele"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "uzofa"
+    }
+  ],
+  "timestamp": "2026-08-31T05:59:09.624663680Z",
+  "model": "glm-5.3"
+}

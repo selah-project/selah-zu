@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 21:16",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi kwenzeke, ngosuku lokwenza izindodana zakhe ukuba ifa ⟨את⟩ lokho okuzokuba kuyena, angakwazi ukumenza indodana yokuqala-lowoyela indodana yowonqatshiweyo, indodana yokuqala-lowoyela.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "futhi kwenzeke"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "הנחילו",
+      "gloss": "lokwenza izindodana zakhe ukuba ifa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izindodana zakhe"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "izindodana zakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokho okuzokuba kuyena"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "okuzokuba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "angakwazi"
+    },
+    {
+      "surface": "לבכר",
+      "gloss": "ukumenza indodana yokuqala-lowoyela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indodana yothandwayo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "האהובה",
+      "gloss": "yothandwayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kendodana"
+    },
+    {
+      "surface": "השנואה",
+      "gloss": "yonqatshiweyo"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "indodana yokuqala-lowoyela"
+    }
+  ],
+  "timestamp": "2026-08-31T02:40:27.728358318Z",
+  "model": "glm-5.3"
+}

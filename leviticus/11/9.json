@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 11:9",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "⟨את⟩ lokhu niyakudla, kuzo zonke izinto ezikumanzi: yonke into eneziphapho nezinkimbizi emanzi, ezilwandle nasemifuleni, ⟨את⟩ lezo niyakuzidla.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokhu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "niyakudla"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezikumanzi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "emanzi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ene"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-yo"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "iziphapho"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "nezinkimbizi"
+    },
+    {
+      "surface": "במים",
+      "gloss": "emanzi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ezilwandle"
+    },
+    {
+      "surface": "ובנחלים",
+      "gloss": "nasemifuleni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "lezo"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "niyakuzidla"
+    }
+  ],
+  "timestamp": "2026-08-31T01:53:47.629733070Z",
+  "model": "glm-5.3"
+}

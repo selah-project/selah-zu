@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 18:6",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "wayesethi kuMoshe: Mina, umkhwenyana wakho uYithiro, ngifikile kuwe, nomkakho nabantwana bakhe ababili kanye naye.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesethi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "חתנך",
+      "gloss": "umkhwenyana wakho"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "uYithiro"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ngifikile"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ואשתך",
+      "gloss": "nomkakho"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "nabantwana ababili"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "banakhe"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "kanye naye"
+    }
+  ],
+  "timestamp": "2026-08-31T01:35:48.052787352Z",
+  "model": "glm-5.3"
+}

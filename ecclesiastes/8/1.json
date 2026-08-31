@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 8:1",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ubani njengomuhloli? futhi ubani oyalazi ukuhumusha indaba? Ukuhlola komuntu kuyakhanyisa ubuso bakhe, futhi ukuqina kobuso bakhe kuyashintshwa.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ubani"
+    },
+    {
+      "surface": "כהחכם",
+      "gloss": "njengomuhloli"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "futhi ubani"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "oyalazi"
+    },
+    {
+      "surface": "פשר",
+      "gloss": "ukuhumusha"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "indaba"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ukuhlola"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "komuntu"
+    },
+    {
+      "surface": "תאיר",
+      "gloss": "kuyakhanyisa"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "futhi ukuqina"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "kobuso bakhe"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "kuyashintshwa"
+    }
+  ],
+  "timestamp": "2026-08-31T07:48:10.707347743Z",
+  "model": "glm-5.3"
+}

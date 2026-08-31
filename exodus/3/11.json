@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 3:11",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "UMoshe wasesabela ku-Elohim: Ngubani mina, ukuthi ngiye ku-Paro, futhi ukuthi ngikhiphe ⟨את⟩ abantwana bakwa-Israyeli eMitsrayim?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wasesabela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ngiye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "futhi ukuthi"
+    },
+    {
+      "surface": "אוציא",
+      "gloss": "ngikhiphe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakwa-Israyeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:28:09.582612071Z",
+  "model": "glm-5.3"
+}

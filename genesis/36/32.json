@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "UBela unyana kaBeyora wabukela e-Edomi, igama ledolobha lakhe belinguDinhaba.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "wabukela e-"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "Edomi"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "UBela"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "kaBeyora"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ledolobha lakhe"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "linguDinhaba"
+    }
+  ],
+  "timestamp": "2026-08-31T01:18:13.546514288Z",
+  "model": "glm-5.3"
+}

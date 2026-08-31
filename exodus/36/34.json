@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 36:34",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "⟨את⟩ Futhi wazigubhela ngegolide ⟨את⟩ amabhodi, ⟨את⟩ wenza ngegolide ⟨את⟩ izingcezu zazo, izindawo ezibambe imigoqo, wazigubhela ngegolide ⟨את⟩ imigoqo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ Futhi",
+      "marks": "amabhodi"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "amabhodi"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "wazigubhela"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ngegolide"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ wenza",
+      "marks": "izingcezu zazo"
+    },
+    {
+      "surface": "טבעתם",
+      "gloss": "izingcezu zazo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ngegolide"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "izindawo ezibambele"
+    },
+    {
+      "surface": "לבריחם",
+      "gloss": "imigoqo"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "wazigubhela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imigoqo"
+    },
+    {
+      "surface": "הבריחם",
+      "gloss": "imigoqo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ngegolide"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:46.962300525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 85,
+  "translation": "Inqiniso ivela emhlabeni ikhula, futhi ulungile livela ezulwini libheka phansi.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Inqiniso"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "ikhula"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "futhi ulungile"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "libheka phansi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:12.066947043Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Kwabonakala kubi kuYona okubi okukhulu, wazithukuthelisa.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "kwabonakala kubi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "uYona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "okukhulu"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "wazithukuthelisa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨yena⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:06.537914633Z",
+  "model": "glm-5.3"
+}

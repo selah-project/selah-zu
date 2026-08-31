@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 86:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 86,
+  "translation": "Nikeza indlebe, uYahwe, ithandazo lami, futhi zuzwe izwi lezicelo zami.",
+  "tokens": [
+    {
+      "surface": "האזינה",
+      "gloss": "nikeza indlebe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ithandazo lami"
+    },
+    {
+      "surface": "והקשיבה",
+      "gloss": "futhi zuzwe"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "תחנונותי",
+      "gloss": "lezicelo zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:07.864333057Z",
+  "model": "glm-5.3"
+}

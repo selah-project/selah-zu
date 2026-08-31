@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 1:5",
+  "book": "ruth",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Bafa futhi bobabili, uMakhloni noKilyoni; wasala ⟨yedwa⟩ umfazi, eshintshiwe yizingane zakhe ezimbili nendoda yakhe.",
+  "tokens": [
+    {
+      "surface": "וימותו",
+      "gloss": "bafa futhi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bobabili"
+    },
+    {
+      "surface": "מחלון",
+      "gloss": "uMakhloni"
+    },
+    {
+      "surface": "וכליון",
+      "gloss": "noKilyoni"
+    },
+    {
+      "surface": "ותשאר",
+      "gloss": "wasala"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "משני",
+      "gloss": "izingane zakhe ezimbili"
+    },
+    {
+      "surface": "ילדיה",
+      "gloss": "izingane zakhe"
+    },
+    {
+      "surface": "ומאישה",
+      "gloss": "nendoda yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:36:47.038661413Z",
+  "model": "glm-5.3"
+}

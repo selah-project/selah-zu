@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 55:5",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 55,
+  "translation": "Bheka, isizwe ongaziyo uzasibiza, nesizwe esingakwaziyo izophuma lichitheka kuwe, ngenxa kaYahwe uElohim wakho, nangesingcwele sika-Israel, ngokuba ugqokise ubuhle bakho.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ongaziyo"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "uzasibiza"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "nesizwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "esingakwazi"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "izophuma lichitheka"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "nangesingcwele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sika-Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "פארך",
+      "gloss": "ubuhle bakho"
+    }
+  ],
+  "timestamp": "2026-08-31T04:33:56.696845442Z",
+  "model": "glm-5.3"
+}

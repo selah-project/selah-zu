@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 8:22",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "UMoshe wathi: Akulungile ukwenza kanjalo, ngokuba isidina seMitsrayim siyabhalela uYahwe uElohim bethu; bheka, siyabhala ⟨את⟩ isidina seMitsrayim emehlweni abo — bengasibulali ngamatshe?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aku"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "lungile"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "isidina"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "seMitsrayim"
+    },
+    {
+      "surface": "נזבח",
+      "gloss": "siyabhalela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim bethu"
+    },
+    {
+      "surface": "הן",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "נזבח",
+      "gloss": "siyabhala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isidina seMitsrayim"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "isidina"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "seMitsrayim"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "emehlweni abo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bengasi"
+    },
+    {
+      "surface": "יססקלנו",
+      "gloss": "ngabulala ngamatshe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:28.376469389Z",
+  "model": "glm-5.3"
+}

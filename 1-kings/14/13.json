@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 14:13",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi wonke uIsrayeli uzomzila ngilelo, bamlahle ⟨⟨את⟩⟩ — ngokuba yena yedwa kaYarobeam uzofika esithabatheni, ngokuba kutholakala kuyena into enhle kuYahwe, uElohim kaIsrayeli, endlweni kaYarobeam.",
+  "tokens": [
+    {
+      "surface": "וספדו",
+      "gloss": "uzomzila ngilelo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "וקברו",
+      "gloss": "bamlahla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (umntwana)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yena"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yedwa"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "uzofika"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "kaYarobeam"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "isithabatha"
+    },
+    {
+      "surface": "יען",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "kutholakala"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "into"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "enhle"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaIsrayeli"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlweni"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "kaYarobeam"
+    }
+  ],
+  "timestamp": "2026-08-31T03:59:22.666428056Z",
+  "model": "glm-5.3"
+}

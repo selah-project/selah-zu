@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 11:12",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Kodwa indoda engenalkhofu izuze ukuqonda, ngesikhathi inceku yendhawana yomuntu izalwa umuntu.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "Kodwa indoda"
+    },
+    {
+      "surface": "נבוב",
+      "gloss": "engenalkhofu"
+    },
+    {
+      "surface": "ילבב",
+      "gloss": "izuze ukuqonda"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "inceku yendhawana"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "yomuntu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "izalwa"
+    }
+  ],
+  "timestamp": "2026-08-31T07:14:19.164355244Z",
+  "model": "glm-5.3"
+}

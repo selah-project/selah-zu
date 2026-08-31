@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 32:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "KaDavide. Umfundiso. Ubusisiwe lowo othunywele isiphambano sakhe, ocushiwe isono sakhe.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "KaDavide"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Umfundiso"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "Ubusisiwe"
+    },
+    {
+      "surface": "נשוי",
+      "gloss": "othunywele"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "isiphambano"
+    },
+    {
+      "surface": "כסוי",
+      "gloss": "ocushiwe"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "isono"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:26.264856715Z",
+  "model": "glm-5.3"
+}

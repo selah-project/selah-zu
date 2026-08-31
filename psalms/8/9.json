@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "inonyana wezulu, namahlanzi olwandle, okudlula ezindleleni zasolwandle.",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "inonyana"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "wezulu"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "namahlanzi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "okudlula"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ezindleleni"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "zasolwandle"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:23.615316702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 21:5",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi abapristi, amadodana kaLewi, bazosondela; ngokuba uYahwe uElohim wakho uwabhekile ukuba bakhonze yena, bakushukumise ngegama likaYahwe; futhi ngomlomo wabo uzoba yonke impikiswano noma yisiphi isigxebiso.",
+  "tokens": [
+    {
+      "surface": "ונגשו",
+      "gloss": "bazosondela"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "kaLewi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "בם",
+      "gloss": "uwabhekile"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ukukhetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "לשרתו",
+      "gloss": "ukuba bakhonze yena"
+    },
+    {
+      "surface": "ולברך",
+      "gloss": "bakushukumise"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ngegama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi ngomlomo"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "wabo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "uzoba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "impikiswano"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "noma yisiphi"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "isigxebiso"
+    }
+  ],
+  "timestamp": "2026-08-31T10:17:51.837769051Z",
+  "model": "glm-5.3"
+}

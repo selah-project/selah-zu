@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 29:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Futhi wenza ukuqeqeza njengenkonyane iLebanoni, neSiriyon njengendodana yezinkunzi zasendle.",
+  "tokens": [
+    {
+      "surface": "וירקידם",
+      "gloss": "wenza ukuqeqeza"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "inkonyane"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "iLebanoni"
+    },
+    {
+      "surface": "ושרין",
+      "gloss": "neSiriyon"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "ראמים",
+      "gloss": "zezinkunzi zasendle"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:32.378652696Z",
+  "model": "glm-5.3"
+}

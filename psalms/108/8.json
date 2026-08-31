@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 108:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 108,
+  "translation": "U-Elohim ukhulume ⟨⟨nge⟩⟩ bumped: ungcwele wakhe — ngizijabulisela; ngihlukanise iShikemu, ndawonye nesigodi esiSukoti ngilinganisa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ukhulume"
+    },
+    {
+      "surface": "בקדשו",
+      "gloss": "ngokungcwele kwakhe"
+    },
+    {
+      "surface": "אעלזה",
+      "gloss": "ngizijabulisela"
+    },
+    {
+      "surface": "אחלקה",
+      "gloss": "ngihlukanise"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "iShikemu"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "nesigodi"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "iSukoti"
+    },
+    {
+      "surface": "אמדד",
+      "gloss": "ngilinganisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:40.997439Z",
+  "model": "glm-5.3"
+}

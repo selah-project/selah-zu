@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 30:7",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Futhi uDavi wathi ku-Eviyathari umkungosi, indodana ka-Akhimeleki: 'Sondela ngingacedele ⟨את⟩ i-efodi.' Futhi u-Eviyathari wasondela ⟨את⟩ i-efodi kuDavi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "u-Eviyathari"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umkungosi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "ka-Akhimeleki"
+    },
+    {
+      "surface": "הגישה",
+      "gloss": "Sondela"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngingacedele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kami"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "i-efodi"
+    },
+    {
+      "surface": "ויגש",
+      "gloss": "wasondela"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "u-Eviyathari"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-efodi"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "i-efodi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:04:36.533826315Z",
+  "model": "glm-5.3"
+}

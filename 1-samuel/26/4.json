@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "UDavidi wathuma abahloli, wayazi ⟨ukuthi⟩ uShawuli weze ngempela.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathuma"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "abahloli"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "wayazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "בא",
+      "gloss": "weze"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kunalokhu"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ngempela"
+    }
+  ],
+  "timestamp": "2026-08-31T03:29:03.527488160Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 103:21",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 103,
+  "translation": "Bukani uYahwe, zonke izimbongolo zakhe; izinceku zakhe, abenzi lokuthandekayo nguYe.",
+  "tokens": [
+    {
+      "surface": "ברכו",
+      "gloss": "Bukani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "צבאיו",
+      "gloss": "izimbongolo zakhe"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "izinceku zakhe"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "abenzi"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "lokuthandekayo nguYe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:41.440281093Z",
+  "model": "glm-5.3"
+}

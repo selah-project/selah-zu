@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Futhi okwawenza kwabi bububi emehlweni kaYahwe, wambulala naye.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "kwabi bububi"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ok"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wawenza"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wambulala"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naye"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (uOnani)"
+    }
+  ],
+  "timestamp": "2026-08-31T01:19:57.842530161Z",
+  "model": "glm-5.3"
+}

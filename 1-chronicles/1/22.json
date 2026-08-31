@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "no⟨את⟩ u-Evali, no⟨את⟩ u-Abimaeli, no⟨את⟩ uSheba;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "u-Evali"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "u-Evali"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "u-Abimaeli"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "u-Abimaeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uSheba"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "uSheba"
+    }
+  ],
+  "timestamp": "2026-08-31T08:18:49.461717882Z",
+  "model": "glm-5.3"
+}

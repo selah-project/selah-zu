@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 10:8",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Yafika umyalezi wamtshela ngokuthi bathi: Bezile izinhloko zezinyanya zomholi. Wathi: Bazibe emibizeni emibili ngomnyango wegedesi kuze kuse kusasa.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "yafika"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "umyalezi"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "wamtshela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "bezile"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "izinhloko"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zezingane"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "zomholi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "bazibe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ zona zona zona zona",
+      "marks": "emibizeni emibili (izonkezo)"
+    },
+    {
+      "surface": "שני",
+      "gloss": "embili"
+    },
+    {
+      "surface": "צברים",
+      "gloss": "emibizeni (izibazo)"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ngomnyango"
+    },
+    {
+      "surface": "השער",
+      "gloss": "igedesi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kuse"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "kusasa"
+    }
+  ],
+  "timestamp": "2026-08-31T12:08:20.753716414Z",
+  "model": "glm-5.3"
+}

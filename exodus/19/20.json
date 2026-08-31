@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "uYahwe wehla entabeni yeSinayi, engaphezulu kwentaba; uYahwe wabiza uMoshe aye phezulu kwentaba, uMoshe wanyuka.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "wehla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ntabeni"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "yeSinayi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "engaphezulu kwe-"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kwentaba"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aye"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "kwentaba"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wanyuka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:35:00.053430541Z",
+  "model": "glm-5.3"
+}

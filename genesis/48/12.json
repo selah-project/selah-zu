@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 48:12",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 48,
+  "translation": "UYosefu wasekhipha ⟨את⟩ emadoleni akhe, wasaguqula ubuso bakhe walalela phansi emhlabeni.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "wasekhipha"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "emadoleni akhe (abantwana)"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "emadoleni ⟨phakathi⟩"
+    },
+    {
+      "surface": "ברכיו",
+      "gloss": "amadole akhe"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "wasaguqula walalela"
+    },
+    {
+      "surface": "לאפיו",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "emhlabeni phansi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:24:10.810562771Z",
+  "model": "glm-5.3"
+}

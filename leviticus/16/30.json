@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 16:30",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "ngokuba ngalolu suku uzokwenza ukubuyisana ngenxa yenu, ukuze ahlambulule ⟨את⟩ nina; ngaphambi kukaYahwe niyohlanzekile ezonweni zenu zonke.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalolu suku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lolu"
+    },
+    {
+      "surface": "יכפר",
+      "gloss": "uzokwenza ukubuyisana"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ngenxa yenu"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ukuze ahlambulule"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ezonweni zenu zonke"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "ezonweni zenu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ngaphambi kuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תטהרו",
+      "gloss": "niyohlanzekile"
+    }
+  ],
+  "timestamp": "2026-08-31T02:00:23.449830933Z",
+  "model": "glm-5.3"
+}

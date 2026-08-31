@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 26:1",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi kuzuba njalo, uma ungena ezweni uYahwe uElohim wakho akunike lona njengifa, ulithatha ngokulifa, uhlale kulo.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "futhi kuzuba njalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ungena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "u-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "akunike"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "njengifa"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "ulithatha ngokulifa"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "uhlale"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kulo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:42:58.783589038Z",
+  "model": "glm-5.3"
+}

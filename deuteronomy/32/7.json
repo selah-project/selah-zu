@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 32:7",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Khumbula izinsuku zokuqala zonke; qonda iminyaka yesizukulwane ngesizukulwane; buza uyise wakho, uzokutshela; abadala bakho, bazokutshela.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "khumbula"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "zokuqala zonke"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "qonda"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "דור",
+      "gloss": "yesizukulwane"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ngesizukulwane"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "buza"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uyise wakho"
+    },
+    {
+      "surface": "ויגדך",
+      "gloss": "uzokutshela"
+    },
+    {
+      "surface": "זקניך",
+      "gloss": "abadala bakho"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bazokutshela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    }
+  ],
+  "timestamp": "2026-08-31T02:46:26.378755726Z",
+  "model": "glm-5.3"
+}

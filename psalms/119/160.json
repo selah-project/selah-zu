@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Isiqalo sezwi lakho yiqiniso; kuze kube phakade wonke umthetho wokulunga kwakho.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "isiqalo"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "sezwi lakho"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "yiqiniso"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "umthetho"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "wokulunga kwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:40.653550936Z",
+  "model": "glm-5.3"
+}

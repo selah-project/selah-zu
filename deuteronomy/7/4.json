@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 7:4",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "ngoba iyakususa ⟨את⟩ indodana yakho ekulandeleni kwami, bese bekhonza izilozi ezinye; umsindo kaYahwe uzovutha ngakho, akuqede ngokushesha.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "יסיר",
+      "gloss": "iyakususa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indodana yakho"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "indodana yakho"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "ekulandeleni kwami"
+    },
+    {
+      "surface": "ועבדו",
+      "gloss": "bese bekhonza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "izilozi"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ezinye"
+    },
+    {
+      "surface": "וחרה",
+      "gloss": "uzovutha"
+    },
+    {
+      "surface": "אף",
+      "gloss": "umsindo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "והשמידך",
+      "gloss": "akuqede"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ngokushesha"
+    }
+  ],
+  "timestamp": "2026-08-31T02:33:24.053476045Z",
+  "model": "glm-5.3"
+}

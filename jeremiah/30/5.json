@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Ngokufana nalokhu usho uYahwe: Iziginci zokwesaba sizizwile, ukwesaba — futhi akukho ukuthula.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ngokufana nalokhu"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "usho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "zokwesaba"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "sizizwile"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi akukho"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ukuthula"
+    }
+  ],
+  "timestamp": "2026-08-31T04:51:42.999569444Z",
+  "model": "glm-5.3"
+}

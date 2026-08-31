@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 147:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 147,
+  "translation": "u-Adonayi wethu mkhulu, unamandla amakhulu; lekuqondeni kwakhe ⟨akuna⟩ inani.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "mkhulu"
+    },
+    {
+      "surface": "אדונינו",
+      "gloss": "u-Adonayi wethu"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "unamandla amakhulu"
+    },
+    {
+      "surface": "כח",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "לתבונתו",
+      "gloss": "lekuqondeni kwakhe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨akuna⟩"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "inani"
+    }
+  ],
+  "timestamp": "2026-08-31T11:06:17.642707949Z",
+  "model": "glm-5.3"
+}

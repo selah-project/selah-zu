@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 84:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 84,
+  "translation": "Isiphephetho sethu, bheka, Elohim wethu, ubheke ubuso bukaMashiya wakho.",
+  "tokens": [
+    {
+      "surface": "מגננו",
+      "gloss": "isiphephetho sethu"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Elohim wethu"
+    },
+    {
+      "surface": "והבט",
+      "gloss": "ubheke"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso buka-"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Mashiya wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T11:59:31.045381949Z",
+  "model": "glm-5.3"
+}

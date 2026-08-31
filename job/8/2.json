@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 8:2",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Uzokhuluma izinto ezinjalo kuze kube nini, lokho amazwi omlomo wakho ⟨angaba⟩ umoya omkhulu?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "אן",
+      "gloss": "nini"
+    },
+    {
+      "surface": "תמלל",
+      "gloss": "uzokhuluma"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "izinto ezinjalo"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "lokho umoya"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "omkhulu"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "omlomo wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T10:34:03.775711133Z",
+  "model": "glm-5.3"
+}

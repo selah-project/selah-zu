@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "UEsavu wathatha ⟨את⟩ abafazi bakhe phakathi kwamadodakazi akoKenaana: ⟨את⟩ u-Ada indodakazi likaEyloni iMuhithi, no ⟨את⟩ u-Aholibama indodakazi likaAnahi, indodakazi likaTsibhoni iMuhivi.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "UEsavu"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abafazi bakhe"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "abafazi bakhe"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "phakathi kwamadodakazi"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "akoKenaana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Ada"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "u-Ada"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi lika-"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Eyloni"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "iMuhithi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no ⟨את⟩",
+      "marks": "u-Aholibama"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "u-Aholibama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi lika-"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Anahi"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi lika-"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Tsibhoni"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "iMuhivi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:18:06.535209222Z",
+  "model": "glm-5.3"
+}

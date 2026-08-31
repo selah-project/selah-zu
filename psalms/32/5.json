@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 32:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Isono lami ngiyakwazisa, nomoni wami angiwufihlanga; ngitsho: Ngiyavuma ngeziphambano zami kuYahwe; futhi wena ususile umoni wesono lami. Selah.",
+  "tokens": [
+    {
+      "surface": "חטאתי",
+      "gloss": "Isono lami"
+    },
+    {
+      "surface": "אודיעך",
+      "gloss": "ngiyakwazisa"
+    },
+    {
+      "surface": "ועוני",
+      "gloss": "nomoni wami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angi-"
+    },
+    {
+      "surface": "כסיתי",
+      "gloss": "wufihlanga"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ngitsho"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "Ngiyavuma"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngezi-"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "phambano zami"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "futhi wena"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "ususile"
+    },
+    {
+      "surface": "עון",
+      "gloss": "umoni"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "wesono lami"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:03.669788502Z",
+  "model": "glm-5.3"
+}

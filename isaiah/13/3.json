@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 13:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Mina ngiyalele abangcwele bami, ngibize nabaqinile bami ukwenzela intukuthelo yami, abajabulayo ngobukhosi bami.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ngiyalele"
+    },
+    {
+      "surface": "למקדשי",
+      "gloss": "abangcwele bami"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nanga-"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ngibize"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "abaqinile bami"
+    },
+    {
+      "surface": "לאפי",
+      "gloss": "intukuthelo yami"
+    },
+    {
+      "surface": "עליזי",
+      "gloss": "abajabulayo"
+    },
+    {
+      "surface": "גאותי",
+      "gloss": "ubukhosi bami"
+    }
+  ],
+  "timestamp": "2026-08-31T04:20:46.116445491Z",
+  "model": "glm-5.3"
+}

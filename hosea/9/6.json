@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 9:6",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ngokuba bheka, bahambele ngenxa yokubhujiswa; iMitsrayim izobaqoqa, iMofu izobabeka; izinto ezithandekile zesisiliva sabo iziqumama zoqaba zona, izibani ezihoshweni zabo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "bahambele"
+    },
+    {
+      "surface": "משד",
+      "gloss": "ngenxa yokubhujiswa"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "תקבצם",
+      "gloss": "izobaqoqa"
+    },
+    {
+      "surface": "מף",
+      "gloss": "iMofu"
+    },
+    {
+      "surface": "תקברם",
+      "gloss": "izobabeka"
+    },
+    {
+      "surface": "מחמד",
+      "gloss": "izinto ezithandekile"
+    },
+    {
+      "surface": "לכספם",
+      "gloss": "zesisiliva sabo"
+    },
+    {
+      "surface": "קמוש",
+      "gloss": "iziqumama"
+    },
+    {
+      "surface": "יירשם",
+      "gloss": "zoqaba zona"
+    },
+    {
+      "surface": "חוח",
+      "gloss": "izibani"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "ezihoshweni zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:30:05.661411887Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 21:3",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Abantwana bakwa-Israyeli banika abaLevi okusuka esifweni sabo, ngokomlomo kaYahwe, ⟨את⟩ lezi dolobha kanye ⟨את⟩ nezindawo zazo zokulisa izimfu.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "banika"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "abaLevi"
+    },
+    {
+      "surface": "מנחלתם",
+      "gloss": "okusuka esifweni sabo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngoku-"
+    },
+    {
+      "surface": "פי",
+      "gloss": "mlomo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lezi dolobha"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "lezi dolobha"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izindawo zazo zokulisa izimfu"
+    },
+    {
+      "surface": "מגרשיהן",
+      "gloss": "izindawo zazo zokulisa izimfu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:01:19.654077878Z",
+  "model": "glm-5.3"
+}

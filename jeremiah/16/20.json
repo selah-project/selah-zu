@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Ingabe umuntu uyenziela yena onkulunkulu, kanti bona abangelonkulunkulu?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "ingabe uyenziela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "onkulunkulu"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "kanti bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abange-"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "lonkulunkulu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:45:25.687670683Z",
+  "model": "glm-5.3"
+}

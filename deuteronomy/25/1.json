@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 25:1",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Uma kuba khona ingxabano phakathi kwamadoda, bese bezungelela ecaleni, bese bena-athathela isinqumo, benzelisa ubulungiswa ⟨את⟩ onolungile, benenzakalisa ⟨את⟩ onakonyela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuba khona"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ingxabano"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "kwamadoda"
+    },
+    {
+      "surface": "ונגשו",
+      "gloss": "bese bezungelela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "caleni"
+    },
+    {
+      "surface": "ושפטום",
+      "gloss": "baze bena-athathela isinqumo"
+    },
+    {
+      "surface": "והצדיקו",
+      "gloss": "benzelisa ubulungiswa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onolungile"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "onolungile"
+    },
+    {
+      "surface": "והרשיעו",
+      "gloss": "benenzakalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onakonyela"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "onakonyela"
+    }
+  ],
+  "timestamp": "2026-08-31T02:41:48.244239151Z",
+  "model": "glm-5.3"
+}

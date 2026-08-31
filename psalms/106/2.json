@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Ngubani ongakhuluma amandla kaYahwe, ongazwakalisa yonke indumiso yakhe?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "ongakhuluma"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "ongazwakalisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "indumiso yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:18.366705076Z",
+  "model": "glm-5.3"
+}

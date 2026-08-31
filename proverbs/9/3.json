@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Wathuma izinsizakazi zakhe, wamemeza phezu kwamahele aphakeme edolobha,",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "wathuma"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "izinsizakazi zakhe"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "wamemeza"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "amahele"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "aphakeme"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "edolobha"
+    }
+  ],
+  "timestamp": "2026-08-31T06:51:13.244510233Z",
+  "model": "glm-5.3"
+}

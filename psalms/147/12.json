@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 147,
+  "translation": "Dumisa, iYerushalayimi, ⟨את⟩ uYahwe; zemukela, iZiyoni, uElohim wakho.",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Dumisa"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "zemukela"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iZiyoni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:11.515711315Z",
+  "model": "glm-5.3"
+}

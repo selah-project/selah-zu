@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 10:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Olaka, ngokwezinhla zendoda yakhe, akafuni ⟨ukufuna⟩; ⟨akukho⟩ uElohim — zonke izicwangiso zakhe.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "Olaka"
+    },
+    {
+      "surface": "כגבה",
+      "gloss": "ngokwezinhla"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "zendoda yakhe"
+    },
+    {
+      "surface": "בל",
+      "gloss": "akafuni"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "⟨ukufuna⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨akukho⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "מזמותיו",
+      "gloss": "izicwangiso zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:15.672651872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "UShekemu wakhuluma kuHamori uyise: Athathele mina intombazane ⟨את⟩ le ⟨את⟩ njengomfazi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "UShekemu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Hamori"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Athathele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intombazane le"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "intombazane"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "njengomfazi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:18:46.423856508Z",
+  "model": "glm-5.3"
+}

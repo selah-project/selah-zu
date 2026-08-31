@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 19:16",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Inkosi yabuya, yafika kuYordanhi; futhi uYuda weza eGiligali ukuhamba aye ukuhlangana lenkosi, ukudlulisa ⟨את⟩ inkosi ⟨את⟩ iYordanhi.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "yabuya"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yafika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "iYordanhi"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "futhi uYuda"
+    },
+    {
+      "surface": "בא",
+      "gloss": "weza"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "eGiligali"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuhamba"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ukuhlangana le"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ukudlulisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYordanhi"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "iYordanhi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:42:46.378955994Z",
+  "model": "glm-5.3"
+}

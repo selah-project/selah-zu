@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 91,
+  "translation": "Ngokuba wena, uYahwe, ungimphakelo wami; u-Elyoni, uzenzele indawo yakokhulunqwayo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "ungimphakelo wami"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "u-Elyoni"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "uzenzele"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "indawo yakokhulunqwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:38.949096135Z",
+  "model": "glm-5.3"
+}

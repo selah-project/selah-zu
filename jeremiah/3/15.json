@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi ngizanikeza abalusi abanjenhliziyo yami, bazalusa ⟨את⟩ nina ngolwazi nangokuqonda.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "futhi ngizanikeza"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "abalusi"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "abanjenhliziyo yami"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "bazalusa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "ngolwazi"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "nangokuqonda"
+    }
+  ],
+  "timestamp": "2026-08-31T04:41:30.054818831Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 66,
+  "translation": "Kumqondisi. Icingo, umculo. Memezeni ku-Elohim, wonke umhlaba;",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "Icingo"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umculo"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Memezeni"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ku-Elohim"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:45.414234948Z",
+  "model": "glm-5.3"
+}

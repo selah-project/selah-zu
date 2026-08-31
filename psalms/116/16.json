@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 116:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 116,
+  "translation": "Ngiyacela, uYahwe, ngoba mina ngingumsekeli wakho; mina ngingumsekeli wakho, unyana wanceba yakho; wakhulula izibopho zami.",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Ngiyacela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ngingumsekeli wakho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ngingumsekeli wakho"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "wanceba yakho"
+    },
+    {
+      "surface": "פתחת",
+      "gloss": "wakhulula"
+    },
+    {
+      "surface": "למוסרי",
+      "gloss": "izibopho zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:11.449566130Z",
+  "model": "glm-5.3"
+}

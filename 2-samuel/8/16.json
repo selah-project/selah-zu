@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 8:16",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "U-Yoabi ungumndeni kaTseruwaya wayengaphezulu wamabutho; uYehoshafati ungumndeni ka-Akhiludi wayengumgcinamazwi.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "u-Yoabi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ungumndeni ka-"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "kaTseruwaya"
+    },
+    {
+      "surface": "על",
+      "gloss": "wayengaphezulu we-"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "amabutho"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "uYehoshafati"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ungumndeni ka-"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "ka-Akhiludi"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "wayengumgcinamazwi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:33:55.877383929Z",
+  "model": "glm-5.3"
+}

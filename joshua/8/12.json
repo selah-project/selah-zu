@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 8:12",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Wathatha cishe amahlanu inkulungwane amadoda, wabeka ⟨את⟩ wona esigcawini phakathi kweBeyiteli naseAyili, ngasentshonalanga kedolobha.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "כחמשת",
+      "gloss": "cishe amahlanu"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "inkulungwane"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "wabeka"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ wona",
+      "marks": "esigcawini \/ amadoda"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "esigcawini"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iBeyit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eli"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "nase"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Ayili"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ngasentshonalanga"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "kedolobha"
+    }
+  ],
+  "timestamp": "2026-08-31T02:51:42.218211253Z",
+  "model": "glm-5.3"
+}

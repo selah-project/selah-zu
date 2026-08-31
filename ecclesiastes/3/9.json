@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Yini inzuzo ka-⟨lowo oyenziyo⟩ kulokhu yena ekhathala kulo?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Yini"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "inzuzo"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "lowo oyenziyo"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "kulokhu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ekhathala kulo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:44:42.451808142Z",
+  "model": "glm-5.3"
+}

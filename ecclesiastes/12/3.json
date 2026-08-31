@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 12:3",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Ngosuku abagadi bezindlu bezuzeka, amadoda amaqhala kunamathela, futhi izingiya zima ngoba zinciphile, futhi ababonayo benyamalala emafasitelweni;",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "שיזעו",
+      "gloss": "bezuzeka"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "abagadi"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "bezindlu"
+    },
+    {
+      "surface": "והתעותו",
+      "gloss": "futhi kunamathela"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "amaqhala"
+    },
+    {
+      "surface": "ובטלו",
+      "gloss": "futhi zima"
+    },
+    {
+      "surface": "הטחנות",
+      "gloss": "izingiya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "מעטו",
+      "gloss": "zinciphile"
+    },
+    {
+      "surface": "וחשכו",
+      "gloss": "futhi benyamalala"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "ababonayo"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "emafasitelweni"
+    }
+  ],
+  "timestamp": "2026-08-31T07:50:42.605299973Z",
+  "model": "glm-5.3"
+}

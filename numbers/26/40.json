@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 26:40",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Abantwana bakaBhela baba ngu-Ardi noNaam; kuArdi, umndeni wamaArd; kuNaam, umndeni wamaNaami.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "baba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Abantwana"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "bakaBhela"
+    },
+    {
+      "surface": "ארד",
+      "gloss": "ngu-Ardi"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "noNaam"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umndeni"
+    },
+    {
+      "surface": "הארדי",
+      "gloss": "wamaArd"
+    },
+    {
+      "surface": "לנעמן",
+      "gloss": "kuNaam"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umndeni"
+    },
+    {
+      "surface": "הנעמי",
+      "gloss": "wamaNaami"
+    }
+  ],
+  "timestamp": "2026-08-31T02:23:48.025624416Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "NoShuphiphu noHuphiphu bantwana bakaIri; uHushimu bantwana baka-Aheri.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "noShuphiphu"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "noHuphiphu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bantwana"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "bakaIri"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "uHushimu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bantwana"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "baka-Aheri"
+    }
+  ],
+  "timestamp": "2026-08-31T08:21:48.718784106Z",
+  "model": "glm-5.3"
+}

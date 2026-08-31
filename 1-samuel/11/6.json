@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 11:6",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "IRuwa kaElohim yathumba phezu kukaShawuli uma ezwa ⟨את⟩ la mazwi; futhi inyongo yakhe yabasa kakhulu.",
+  "tokens": [
+    {
+      "surface": "ותצלח",
+      "gloss": "yathumba"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "iRuwa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "uma ezwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mazwi"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "yabasa"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "inyongo yakhe"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:20:04.440481297Z",
+  "model": "glm-5.3"
+}

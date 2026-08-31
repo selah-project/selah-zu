@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 26:4",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi bazokhulisa izindonga zaseTsori, bazobhidliza amasibo ayo; mina ngizoklama uthuli lwakhe kuwo, futhi ngizoyibeka ⟨את⟩ ibe yisibaya esihlabathi esomile.",
+  "tokens": [
+    {
+      "surface": "ושחתו",
+      "gloss": "bazokhulisa"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "izindonga"
+    },
+    {
+      "surface": "צר",
+      "gloss": "zaseTsori"
+    },
+    {
+      "surface": "והרסו",
+      "gloss": "bazobhidliza"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "amasibo ayo"
+    },
+    {
+      "surface": "וסחיתי",
+      "gloss": "ngizoklama"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "uthuli lwakhe"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "ngizoyibeka"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩",
+      "marks": "yona (iTsori)"
+    },
+    {
+      "surface": "לצחיח",
+      "gloss": "ibe yisibaya esihlabathi"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "esomile"
+    }
+  ],
+  "timestamp": "2026-08-31T05:14:14.972716350Z",
+  "model": "glm-5.3"
+}

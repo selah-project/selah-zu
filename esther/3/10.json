@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 3:10",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ikumkani lasusa ⟨את⟩ isiphonso sayo esandleni sayo, samnika uHaman indodana kaHamedata i-Agagi, isitha baseYuda.",
+  "tokens": [
+    {
+      "surface": "ויסר",
+      "gloss": "lasusa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ikumkani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiphonso sayo"
+    },
+    {
+      "surface": "טבעתו",
+      "gloss": "isiphonso sayo"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kusuka"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "esandleni sayo"
+    },
+    {
+      "surface": "ויתנה",
+      "gloss": "samnika"
+    },
+    {
+      "surface": "להמן",
+      "gloss": "uHaman"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "המדתא",
+      "gloss": "kaHamedata"
+    },
+    {
+      "surface": "האגגי",
+      "gloss": "i-Agagi"
+    },
+    {
+      "surface": "צרר",
+      "gloss": "isitha"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "baseYuda"
+    }
+  ],
+  "timestamp": "2026-08-31T07:54:11.354290832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "UYosefu wabazi ⟨את⟩ abakubo, kodwa bona bengabazi yena.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "wabazi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "UYosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abakubo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abakubo"
+    },
+    {
+      "surface": "והם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kodwa bengabazi"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:42.158126690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 35:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "uElohim wathi kuye: igama lakho nguYaaqov; kasingabizwa igama lakho nguYaaqov futhi, kodwa uYisraeli kuzuba yigama lakho; wabiza ⟨את⟩ igama lakhe uYisraeli.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "nguYaaqov"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kasingabizwa"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "kasingabizwa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "nguYaaqov"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisraeli"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuzuba"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yigama lakho"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lakhe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisraeli"
+    }
+  ],
+  "timestamp": "2026-08-31T10:10:59.985356826Z",
+  "model": "glm-5.3"
+}

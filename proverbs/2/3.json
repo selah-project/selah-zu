@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "cha, uma ubiza ukuqonda, uliphakamisa izwi lakho ⟨e⟩kuqoneni;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "cha"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ukubiza ukuqonda"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ubiza"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "⟨e⟩kuqoneni"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "uliphakamisa"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "izwi lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:46:52.446256434Z",
+  "model": "glm-5.3"
+}

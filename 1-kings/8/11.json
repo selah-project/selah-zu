@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 8:11",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "abapristi abazange bakwazi ukuma ukukhonza ngenxa yefu, ngokuba inkazimulo kaYahwe yagcwalisa ⟨את⟩ indlu kaYahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "abazange"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bakwazi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "ukuma"
+    },
+    {
+      "surface": "לשרת",
+      "gloss": "ukukhonza"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "yefu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "yagcwalisa"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "inkazimulo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu kaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:52:58.619630272Z",
+  "model": "glm-5.3"
+}

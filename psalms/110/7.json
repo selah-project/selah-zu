@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 110,
+  "translation": "Ephuzi emtshwalense ohlangene nomgwaqo; ngakho uzophakamisa iqhala.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "emtshwalense"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ohlangene nomgwaqo"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ephuzi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "כן",
+      "gloss": "-"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "uzophakamisa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "iqhala"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:15.718899030Z",
+  "model": "glm-5.3"
+}

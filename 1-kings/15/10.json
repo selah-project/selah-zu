@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 15:10",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Futhi washisa ezulwini—⟨okuthi⟩ walubusa ngeminyaka engamashumi amane nanye eYerushalayimi; futhi igama likanye yake lalingamaMakha, indodakazi kaAvishalomi.",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "futhi ngamashumi amane"
+    },
+    {
+      "surface": "ואחת",
+      "gloss": "nanye"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "walubusa"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "futhi igama"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "likanye yake"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "lalingamaMakha"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi"
+    },
+    {
+      "surface": "אבישלום",
+      "gloss": "kaAvishalomi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:57:51.113561016Z",
+  "model": "glm-5.3"
+}

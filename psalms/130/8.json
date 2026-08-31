@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 130,
+  "translation": "Futhi yena uzosindisa ⟨את⟩ iYisraeli kuzo zonke izono zayo.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "futhi yena"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "uzosindisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisraeli"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "izono zayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:32.971122197Z",
+  "model": "glm-5.3"
+}

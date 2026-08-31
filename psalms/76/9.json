@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 76,
+  "translation": "Ezizulwini wazwakalisa ⟨את⟩ ukulawa; umhlaba wesaba, wathula.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "ezizulwini"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "wazwakalisa"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ukulawa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "wesaba"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "wathula"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:22.869335828Z",
+  "model": "glm-5.3"
+}

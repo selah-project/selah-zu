@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 87:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 87,
+  "translation": "NgeZiyoni kuzothiwa: Umuntu nokunye umuntu kuzalwe kuyona; yena u-Elyon uyoyisimisa yena.",
+  "tokens": [
+    {
+      "surface": "ולציון",
+      "gloss": "NgeZiyoni"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kuzothiwa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "Umuntu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "nokunye umuntu"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "kuzalwe"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuyona"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "uyoyisimisa yena"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "u-Elyon"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:04.902048014Z",
+  "model": "glm-5.3"
+}

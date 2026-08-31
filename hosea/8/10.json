@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "hosea 8:10",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Futhi nakuba bezikhokhelela ezizweni, manje ngiyaziqoqa, futhi ziyaqala ukunciphiswa kancane ngenxa yesiswompo senkosi nabaphathi.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "nakuba"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "bezikhokhelela"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ezizweni"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "אקבצם",
+      "gloss": "ngiyaziqoqa"
+    },
+    {
+      "surface": "ויחלו",
+      "gloss": "ziyaqala ukunciphiswa"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "kancane"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "ngenxa yesiswompo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "senkosi"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "nabaphathi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:27:55.493966623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ohunyaza amatshe uyabezwa yibo; oqhekezana nomuthi uyonakaliswa yibo.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "ohunyaza"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "amatshe"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "uyabezwa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "yibo"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "oqhekezana"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "nomuthi"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "uyonakaliswa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "yibo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:34:54.362080030Z",
+  "model": "glm-5.3"
+}

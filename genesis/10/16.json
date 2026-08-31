@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Nange-⟨את⟩ iYebusi, nange-⟨את⟩ i-Emori, nange-⟨את⟩ iGirgashi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "nange-⟨את⟩",
+      "marks": "iYebusi"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "iYebusi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange-⟨את⟩",
+      "marks": "i-Emori"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "i-Emori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nange-⟨את⟩",
+      "marks": "iGirgashi"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "iGirgashi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:04:59.213058242Z",
+  "model": "glm-5.3"
+}

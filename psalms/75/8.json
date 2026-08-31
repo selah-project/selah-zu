@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 75,
+  "translation": "Ngokuba uElohim ungumgwebi: loya wehlisa, loya wasmukhulela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ungumgwebi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "loya"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "wehlisa"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "loya"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "wasmukhulela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:49.824127347Z",
+  "model": "glm-5.3"
+}

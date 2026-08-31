@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 10:6",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Wathi kuyena inkosi: iqiniso lalibamba ilizwi engalizwile ezweni lakithi, ngamazwi akho nangekhono lakho.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "iqiniso"
+    },
+    {
+      "surface": "היה",
+      "gloss": "lalibamba"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "lizwile"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "ezweni lakithi"
+    },
+    {
+      "surface": "על",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "amazwi akho"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nanga-"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "ekhono lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T03:53:08.917845927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi u-Eshthoni wazala ⟨את⟩ uBethe-Rafa, ⟨את⟩ noPaseha, noTehina uyise ka-Ir-Nahashi; laba ngabantu baseReka.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "futhi u-Eshthoni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uBethe-Rafa"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uBethe-"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Rafa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noPaseha"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "noPaseha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noTehina"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "noTehina"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise ka-"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ir-"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Nahashi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "laba"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abantu base-"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Reka"
+    }
+  ],
+  "timestamp": "2026-08-31T08:20:09.289357125Z",
+  "model": "glm-5.3"
+}

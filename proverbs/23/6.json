@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Ungadli ⟨את⟩ ukudla kwaneliso elimbi, ungafuni izimnandi zakhe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "dli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukudla"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "רע",
+      "gloss": "elimbi"
+    },
+    {
+      "surface": "עין",
+      "gloss": "kwaneliso"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "funi"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "izimnandi zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:00:27.757143252Z",
+  "model": "glm-5.3"
+}

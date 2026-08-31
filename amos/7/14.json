@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 7:14",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Waphendula u-Amose wathi ku-Amatsiyaha: Angiphrofethi mina, ngingathi yingane yephrofethi, ngokuba ngumalusiwezinkomo mina, nomdabuli wezihlahla-zamunyu.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "waphendula"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "u-Amose"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "u-Amatsiyaha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "iphrofethi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ngingathi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ingane"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "yephrofethi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "בוקר",
+      "gloss": "umalusiwezinkomo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ובולס",
+      "gloss": "nomdabuli"
+    },
+    {
+      "surface": "שקמים",
+      "gloss": "wezihlahla-zamunyu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:29:29.040519573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 26:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Ngingahlola uYahwe, futhi ungingcwelise; qcwatshisela izinso zami nenhliziyom yami.",
+  "tokens": [
+    {
+      "surface": "בחנני",
+      "gloss": "Ngingahlola"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ונסני",
+      "gloss": "ungingcwelise"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "qcwatshisela"
+    },
+    {
+      "surface": "כליותי",
+      "gloss": "izinso zami"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "nenhliziyom yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:58.074638114Z",
+  "model": "glm-5.3"
+}

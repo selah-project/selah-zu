@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 2:2",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Umuntu ngamunye ngokophawu lwakhe, ngophawu lwendlu yokhokho bakhe, abantwana bakwa-Israyili mabhampi khona; ebusweni, jikelele, etendeni lokuhlangana bayakhampa.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "umuntu ngamunye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngoku-"
+    },
+    {
+      "surface": "דגלו",
+      "gloss": "iphawu lakhe"
+    },
+    {
+      "surface": "באתת",
+      "gloss": "ngophawu"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "lendu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "yokhokho babo"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "makhampone"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyili"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ebusweni"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "jikelele"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "etendeni"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lokuhlangana"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "bayakhampa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:07:42.190668505Z",
+  "model": "glm-5.3"
+}

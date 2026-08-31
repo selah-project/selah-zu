@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 48:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 48,
+  "translation": "Yaakobe wathi kuYosefu: u-El Shadayi wavela kimi eLuzi, ezweni laseKenaana, wangibusisa ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakobe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Yosefu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Shadayi"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "wavela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "בלוז",
+      "gloss": "eLuzi"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "laseKenaana"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "wangibusisa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mina"
+    }
+  ],
+  "timestamp": "2026-08-31T01:24:55.376602817Z",
+  "model": "glm-5.3"
+}

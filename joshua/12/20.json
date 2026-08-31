@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "inkosi yaseShimironi-Meroni, eyodwa; inkosi yoAkshafi, eyodwa;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "yaseShimironi-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "-Meroni"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eyodwa"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "yoAkshafi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "eyodwa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:53:57.093638810Z",
+  "model": "glm-5.3"
+}

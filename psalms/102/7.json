@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 102,
+  "translation": "Ndifana ne-ka'athi yasendle, ngaba njengesikhova sezindawo ezimomoka.",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "Ndifana"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "ne-ka'athi"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "yasendle"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ngaba"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "njengesikhova"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "sezindawo ezimomoka"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:06.957958851Z",
+  "model": "glm-5.3"
+}

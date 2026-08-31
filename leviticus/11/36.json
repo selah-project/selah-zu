@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 11:36",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Kodwa umthombo negodi, ukuqoqwa kwamanzi kuzokhona kuhle kungecolile; kodwa othinta amadumbu azo uzongcoliswa.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "umthombo"
+    },
+    {
+      "surface": "ובור",
+      "gloss": "negodi"
+    },
+    {
+      "surface": "מקוה",
+      "gloss": "ukuqoqwa kwamanzi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "kwamanzi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuzokhona"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "kuhle kungecolile"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "othinta"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "amadumbu azo"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "uzongcoliswa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:53:33.501107971Z",
+  "model": "glm-5.3"
+}

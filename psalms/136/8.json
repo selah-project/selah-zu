@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 136,
+  "translation": "⟨את⟩ ilanga lokubusa ngemini, ngokuba ikhesedi lakhe laphakade.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilanga"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "lokubusa"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngemini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "laphakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:43.999716324Z",
+  "model": "glm-5.3"
+}

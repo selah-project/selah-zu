@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "UJobhe washona, engumdala anamalanga azele.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "washona"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "uJobhe"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "engumdala"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "azele"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "amalanga"
+    }
+  ],
+  "timestamp": "2026-08-31T10:34:18.114236645Z",
+  "model": "glm-5.3"
+}

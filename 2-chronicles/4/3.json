@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 4:3",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi ngaphansi kwalo kwakukhona umfanekiso wezinkomo, ezizungezile sonke isizungu, ezizungezayo ⟨את⟩ lona, ngezikhubhu ezingu-10, ezimbandakanyayo ⟨את⟩ ulwazi sonke isizungu; inkomo zazingemigqa emibili, zeqhotsiwe ekutselweni kwalo.",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "nomfanekiso"
+    },
+    {
+      "surface": "בקרים",
+      "gloss": "wezinkomo"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwalo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "isizungu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "סובבים",
+      "gloss": "ezizungezayo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lona"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ezingu-10"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ngezikhubhu"
+    },
+    {
+      "surface": "מקיפים",
+      "gloss": "ezimbandakanyayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulwazi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "sonke isizungu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "amabili"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "emigqa"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "inkomo"
+    },
+    {
+      "surface": "יצוקים",
+      "gloss": "zeqhotsiwe"
+    },
+    {
+      "surface": "במצקתו",
+      "gloss": "ekutselweni kwalo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:32:39.918074194Z",
+  "model": "glm-5.3"
+}

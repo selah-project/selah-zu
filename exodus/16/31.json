@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 16:31",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Indlu ka-Israel yayibiza igama lalo ⟨את⟩ iManu; futhi lalingufana nembewu yegeledu, mhlophe; futhi ukunambitheka kwalo kungafana namakhekhe anosanhlamvu.",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "yayibiza"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Indlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israel"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lalo"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lalo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "iManu"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "futhi lali"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "lingufana nembewu"
+    },
+    {
+      "surface": "גד",
+      "gloss": "yegeledu"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "mhlophe"
+    },
+    {
+      "surface": "וטעמו",
+      "gloss": "futhi ukunambitheka kwalo"
+    },
+    {
+      "surface": "כצפיחת",
+      "gloss": "kungafana namakhekhe"
+    },
+    {
+      "surface": "בדבש",
+      "gloss": "unosanhlamvu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:34:39.199494525Z",
+  "model": "glm-5.3"
+}

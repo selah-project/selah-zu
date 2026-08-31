@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 3:15",
+  "book": "zephaniah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "uYahwe ususe izinkantolo zakho, ubhekisile izitha zakho; inkosi yakwa-Israyeli, uYahwe, iliphakathi kwakho; awusabi okubi ngemuva kwalezi.",
+  "tokens": [
+    {
+      "surface": "הסיר",
+      "gloss": "ususe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "izinkantolo zakho"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ubhekisile"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "izitha zakho"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yakwa-Israyeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "iliphakathi kwakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "sabi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ngemuva kwalezi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:39:41.781425375Z",
+  "model": "glm-5.3"
+}

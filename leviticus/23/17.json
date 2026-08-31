@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 23:17",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Ezindlini zenu nilethe inkwa yokuzungezwa, izinkwa ezimbili zamaseshefu amabili efulawa; zizoba novela, zibhakwa — izibuto zokuqala kuYahwe.",
+  "tokens": [
+    {
+      "surface": "ממושבתיכם",
+      "gloss": "ezindlini zenu"
+    },
+    {
+      "surface": "תביאו",
+      "gloss": "nilethe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "inkwa"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "yokuzungezwa"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "שני",
+      "gloss": "amabili"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "amaseshefu"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "efulawa"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "zizoba"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "novela"
+    },
+    {
+      "surface": "תאפינה",
+      "gloss": "zibhakwa"
+    },
+    {
+      "surface": "בכורים",
+      "gloss": "izibuto zokuqala"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:04:05.868420019Z",
+  "model": "glm-5.3"
+}

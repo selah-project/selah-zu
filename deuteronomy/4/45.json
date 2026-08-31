@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 4:45",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Lezi yiziqiniseko, nezimiso, nezinqumo, uMoshe owakhulumile kubantwana bakwaIsrayeli ekuphumeni kwabo eMitsrayim.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "iziqiniseko"
+    },
+    {
+      "surface": "והחקים",
+      "gloss": "nezimiso"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "nezinqumo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owakhulumile"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "khuluma"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bantwana bakwa-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "בצאתם",
+      "gloss": "ekuphumeni kwabo"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T02:32:36.679501330Z",
+  "model": "glm-5.3"
+}

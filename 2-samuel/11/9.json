@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 11:9",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "u-Uriya walala emnyango wegumbi lenkosi kanye ⟨את⟩ wonke amakhonzi enkosi yakhe, futhi wangenanga endlini yakhe.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "walala"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "u-Uriya"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "בית",
+      "gloss": "wegumbi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "lenkosi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke amakhonzi enkosi yakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "amakhonzi"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "enkosi yakhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi wangenanga"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "wahlala esiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "endlini yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:36:52.161720489Z",
+  "model": "glm-5.3"
+}

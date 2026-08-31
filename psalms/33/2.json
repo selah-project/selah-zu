@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 33:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Dumisani uYahwe ngesigingci; ngesigingci samashayi ayishumi culani kuye.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Dumisani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ngesisigingci"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "ngesisigingci"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "samashayi ayishumi"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "culani"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:07.462751294Z",
+  "model": "glm-5.3"
+}

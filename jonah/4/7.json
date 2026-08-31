@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jonah 4:7",
+  "book": "jonah",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi uElohim wabhokisha impethu ekukhanyeni kwekusa ngosuku olulandelayo, yaye yashesha ⟨את⟩ ikhikhiyoni, yoma.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "wabhokisha"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "impethu"
+    },
+    {
+      "surface": "בעלות",
+      "gloss": "ekukhanyeni kwe-"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "ikusa"
+    },
+    {
+      "surface": "למחרת",
+      "gloss": "ngosuku olulandelayo"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "yashesha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikhikhiyoni"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "ikhikhiyoni"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "yoma"
+    }
+  ],
+  "timestamp": "2026-08-31T05:36:15.253239768Z",
+  "model": "glm-5.3"
+}

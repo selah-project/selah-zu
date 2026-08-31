@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi uzobabhala phezu kwezinkimba zomnyango wendlu yakho naseminyango yakho.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "futhi uzobabhala"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "izinkimba zomnyango"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "wendlu yakho"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "naseminyango yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T02:32:20.852858857Z",
+  "model": "glm-5.3"
+}

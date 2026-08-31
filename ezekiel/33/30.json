@@ -1,0 +1,123 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 33:30",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Futhi wena, ndodana komuntu, amadodana abantu bakho akhuluma ngakho eduze kwezindonga naseminyango yezindlu, futhi omunye ukhuluma ⟨את⟩ omunye, umunye ⟨את⟩ umfowabo, ethi: Bazani nje nizwe ukuthi yini inkulumo ephuma ⟨את⟩ kuYahwe.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Futhi wena"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ndodana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "komuntu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "הנדברים",
+      "gloss": "akhuluma"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "eduze"
+    },
+    {
+      "surface": "הקירות",
+      "gloss": "kwezindonga"
+    },
+    {
+      "surface": "ובפתחי",
+      "gloss": "naseminyango"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "yezindlu"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "futhi ukhuluma"
+    },
+    {
+      "surface": "חד",
+      "gloss": "omunye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omunye"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "omunye"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umunye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umfowabo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umfowabo"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "באו",
+      "gloss": "Bazani"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nje"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "nizwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ukuthi yini"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "inkulumo"
+    },
+    {
+      "surface": "היוצא",
+      "gloss": "ephuma"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:18:46.953258054Z",
+  "model": "glm-5.3"
+}

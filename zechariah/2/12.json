@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 2:12",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ngokuba uYahwe wamabutho uthi kanjalo: Ngemva kobukhosi ungithumile kwezizwe ezinibhohla ⟨את⟩ nina; ngokuba lowo ochukunyisa nina uchukunyisa isibani seso lake.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamabutho"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ngemva"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "obukhosi"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "ungithumile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "lezo izizwe"
+    },
+    {
+      "surface": "השללים",
+      "gloss": "ezinibhohla"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina (abantu bakwa-Israyeli)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "lowo ochukunyisa"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "uchukunyisa"
+    },
+    {
+      "surface": "בבבת",
+      "gloss": "isibani"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "seso lake"
+    }
+  ],
+  "timestamp": "2026-08-31T05:41:55.130007846Z",
+  "model": "glm-5.3"
+}

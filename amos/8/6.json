@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 8:6",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "ukuthenga abampofu ngesiliva, nomswele ngezicathulo, kanye nodoti lukasanhlamvu siyowuthengisa.",
+  "tokens": [
+    {
+      "surface": "לקנות",
+      "gloss": "ukuthenga"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ngesiliva"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "abampofu"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "nomswele"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ngezicathulo"
+    },
+    {
+      "surface": "נעלים",
+      "gloss": "izicathulo"
+    },
+    {
+      "surface": "ומפל",
+      "gloss": "udoti"
+    },
+    {
+      "surface": "בר",
+      "gloss": "lukasanhlamvu"
+    },
+    {
+      "surface": "נשביר",
+      "gloss": "siyowuthengisa"
+    }
+  ],
+  "timestamp": "2026-08-31T05:33:38.543510667Z",
+  "model": "glm-5.3"
+}

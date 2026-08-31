@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 18:38",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Ngiyazibambezela izitha zami, futhi ngizifinyela, futhi angeke ngibuye ngize ngifeza ukubhujiswa kwazo.",
+  "tokens": [
+    {
+      "surface": "ארדוף",
+      "gloss": "Ngiyazibambezela"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "izitha zami"
+    },
+    {
+      "surface": "ואשיגם",
+      "gloss": "futhi ngizifinyela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi angeke"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ngibuye"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngize"
+    },
+    {
+      "surface": "כלותם",
+      "gloss": "ukubhujiswa kwazo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:46.521303190Z",
+  "model": "glm-5.3"
+}

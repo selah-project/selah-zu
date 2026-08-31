@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi uzakhumbula ukuthi wawuyigqazi eMitsrayim, futhi uzagcina futhi uzenze ⟨את⟩ imithetho le.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "uzakhumbula"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "igqazi"
+    },
+    {
+      "surface": "היית",
+      "gloss": "wawu-"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "uzagcina"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "uzawenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imithetho"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "imithetho"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-08-31T02:36:48.049214967Z",
+  "model": "glm-5.3"
+}

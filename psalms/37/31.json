@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Umthetho ka-Elohim wakhe usezinhliziyweni zakhe; izinyawo zakhe azikusheleli.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "umthetho"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ka-Elohim wakhe"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "usezinhliziyweni zakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aku-"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "sheleli"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "izinyawo zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:23.159609974Z",
+  "model": "glm-5.3"
+}

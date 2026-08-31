@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 1:25",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "uElohim wadala ⟨את⟩ izilwane zomhlaba ngokwezinhlobo zazo, futhi ⟨את⟩ izinkomo ngokwezinhlobo zazo, futhi ⟨את⟩ konke okunyakazayo komhlabathi ngokuhlobo lwako; uElohim wabona ukuthi ⟨kwaku⟩kulungile.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wadala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izilwane zomhlaba"
+    },
+    {
+      "surface": "חית",
+      "gloss": "izilwane"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zomhlaba"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ngokwezinhlobo zayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "izinkomo"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "izinkomo"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ngokwezinhlobo zazo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "konke okunyakazayo komhlabathi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "okunyakazayo"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "komhlabathi"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ngokuhlobo lwako"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kulungile"
+    }
+  ],
+  "timestamp": "2026-08-31T05:54:23.279525825Z",
+  "model": "glm-5.3"
+}

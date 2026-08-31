@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 11:5",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Kodwa ngubani onganikeza u-Eloah ilulumo, futhi avule ⟨milomo yakhe⟩ kuwe?",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Kodwa"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "onganikeza"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "u-Eloah"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ilulumo"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "futhi avule"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "milomo yakhe"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:13:20.617992440Z",
+  "model": "glm-5.3"
+}

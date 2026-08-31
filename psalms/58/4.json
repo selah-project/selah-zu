@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 58:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 58,
+  "translation": "Ababi bahlehlile kusukela esibelekweni; baphambukile kusukela esiswini, bekhuluma amanga.",
+  "tokens": [
+    {
+      "surface": "זרו",
+      "gloss": "bahlehlile"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "kusukela esibelekweni"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "baphambukile"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "kusukela esiswini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "bekhuluma"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "amanga"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:37.468789532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 121,
+  "translation": "Incwadi yezinyuko. Ngiyaphakamisa amehlo ami ezintabeni — ngaphi koliza usizo lwami?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Incwadi"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "yezinyuko"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "Ngiyaphakamisa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo ami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ezintabeni"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ngaphi"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "koliza"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "usizo lwami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:18.362954956Z",
+  "model": "glm-5.3"
+}

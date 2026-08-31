@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zephaniah 2:4",
+  "book": "zephaniah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ngokuba iGaza izoyekwa, iAshkelon ibe yindawo engenamuntu; iAshdod ekhatjhini bayakuxosha, iEkron izosuswa impande.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "iGaza"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "izoyekwa"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "ואשקלון",
+      "gloss": "iAshkelon"
+    },
+    {
+      "surface": "לשממה",
+      "gloss": "yindawo engenamuntu"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "iAshdod"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "ekhatjhini"
+    },
+    {
+      "surface": "יגרשוה",
+      "gloss": "bayakuxosha"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "iEkron"
+    },
+    {
+      "surface": "תעקר",
+      "gloss": "izosuswa impande"
+    }
+  ],
+  "timestamp": "2026-08-31T05:40:21.356445323Z",
+  "model": "glm-5.3"
+}

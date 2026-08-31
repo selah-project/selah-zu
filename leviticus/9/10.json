@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 9:10",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Futhi ⟨את⟩ amafutha no ⟨את⟩ izinso ezimbili no ⟨את⟩ izingxenye ezingaphezu kwesibindi, evela kulahleko yensono, wazitshisela umhlatshini njengokuthi uYahwe wayalela ⟨את⟩ uMoshe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amafutha"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izinso"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "izinso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izingxenye"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "izingxenye"
+    },
+    {
+      "surface": "מן",
+      "gloss": "evela"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "kwesibindi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ela"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "lahleko yensono"
+    },
+    {
+      "surface": "הקטיר",
+      "gloss": "wazitshisela"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "umhlatshini"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokuthi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:54:22.903544996Z",
+  "model": "glm-5.3"
+}

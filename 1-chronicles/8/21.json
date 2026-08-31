@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "no-u-Adayahi, no-uBerayahi, no-uShimrathi — abantwana bakaShimi;",
+  "tokens": [
+    {
+      "surface": "וַעֲדָיָה",
+      "gloss": "no-uAdayahi"
+    },
+    {
+      "surface": "וּבְרָאיָה",
+      "gloss": "no-uBerayahi"
+    },
+    {
+      "surface": "וְשִׁמְרָת",
+      "gloss": "no-uShimrathi"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "abantwana baka-"
+    },
+    {
+      "surface": "שִׁמְעִֽי",
+      "gloss": "uShimi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:37:18.416253230Z",
+  "model": "glm-5.3"
+}

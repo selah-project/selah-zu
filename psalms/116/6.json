@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 116,
+  "translation": "uYahwe ulondoloza abangenahlakaniphi; mina ngitholisile, futhi wangisindisa.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ulondoloza"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "abangenahlakaniphi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "ngitholisile"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "futhi mina"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "wangisindisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:37.860696853Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 109:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Ububi bobaba bakhe mabukhunjulwe kuYahwe; thina kanjalo umsindo wecala kanina ungasuleki.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "mabukhunjulwe"
+    },
+    {
+      "surface": "עון",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "bobaba bakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "thina kanjalo umsindo wecala"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "kanina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "suleki"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:16.948591229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 4:20",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "No⟨את⟩ izibani nezibani zazo, ukukhanyiswa kwazo njengomthetho phambi kwesibaya esingcwele kakhulu, igolide elihlanjekileyo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "izibani"
+    },
+    {
+      "surface": "המנרות",
+      "gloss": "izibani"
+    },
+    {
+      "surface": "ונרתיהם",
+      "gloss": "nezibani zazo"
+    },
+    {
+      "surface": "לבערם",
+      "gloss": "ukukhanyiswa kwazo"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "njengomthetho"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwe-"
+    },
+    {
+      "surface": "הדביר",
+      "gloss": "yesibaya esingcwele kakhulu"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "elihlanjekileyo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:31:43.997372776Z",
+  "model": "glm-5.3"
+}

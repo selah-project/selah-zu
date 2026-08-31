@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "AbaNtwana bakwaNoa abaphuma endlini yemikhumbi baba nguShemu, uKhamu, noYafethe; uKhamu yena unguyise uKenaana.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "baba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "AbaNtwana bakwa"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Noa"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "abaphuma"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ndlini yemikhumbi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "uShemu"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "uKhamu"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "noYafethe"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "uKhamu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "unguyise"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "uKenaana"
+    }
+  ],
+  "timestamp": "2026-08-31T01:03:26.285449081Z",
+  "model": "glm-5.3"
+}

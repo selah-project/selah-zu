@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 19:11",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Yena uAvishalomi esasimgcwele ngeoli phezu kwethu ufile empi; manje kungani nina nithulile ukubuyisela ⟨את⟩ inkosi?",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "Yena uAvishalomi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esa"
+    },
+    {
+      "surface": "משחנו",
+      "gloss": "sasimgcwele ngeoli"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "phezu kwethu"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ufile"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "empi"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "מחרשים",
+      "gloss": "nithulile"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ukubuyisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:43:25.814365632Z",
+  "model": "glm-5.3"
+}

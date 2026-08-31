@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 2:32",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi uzobubona isitha endaweni yokuhlala, phakathi konke okuhle okwenzelwa ⟨את⟩ u-Israyeli; futhi akuzobe kukhona omdala endlini yakho yonke izinsuku.",
+  "tokens": [
+    {
+      "surface": "והבטת",
+      "gloss": "Futhi uzobubona"
+    },
+    {
+      "surface": "צר",
+      "gloss": "isitha"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "endaweni yokuhlala"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "okwenzelwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Israyeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israyeli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi akuzobe"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kukhona"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "omdala"
+    },
+    {
+      "surface": "בביתם",
+      "gloss": "endlini yakho",
+      "note": "surface corrected below"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "izinsuku"
+    }
+  ],
+  "timestamp": "2026-08-31T03:14:37.421728451Z",
+  "model": "glm-5.3"
+}

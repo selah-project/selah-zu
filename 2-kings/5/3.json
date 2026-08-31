@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 5:3",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Yathi kunikazi wayo: Ngisingathi inkosi yami ibingaphambi kophrofethi okhona eShomroni, khona ngabe yamsusa ⟨את⟩ yena kumcumo wakhe.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Yathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גברתה",
+      "gloss": "unikazi wayo"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Ngisingathi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "inkosi yami"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "kuphrofethi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okhona"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "eShomroni"
+    },
+    {
+      "surface": "אז",
+      "gloss": "khona"
+    },
+    {
+      "surface": "יאסף",
+      "gloss": "yamsusa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "מצרעתו",
+      "gloss": "kumcumo wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:05:57.092347187Z",
+  "model": "glm-5.3"
+}

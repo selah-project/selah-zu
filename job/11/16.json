@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 11:16",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Ngoba uzokhohlula ubuhlungu bakho, uzobukhumbula njengamanzi adluleyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngoba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ubuhlungu bakho"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "uzokhohlula"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "njengamanzi"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "adluleyo"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "uzobukhumbula"
+    }
+  ],
+  "timestamp": "2026-08-31T07:12:58.083247316Z",
+  "model": "glm-5.3"
+}

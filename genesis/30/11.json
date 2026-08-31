@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "ULe​ya was eshi: ⟨Inhlanhla lize!⟩ wabiz a igama lakhe ngokuthi uGadi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "washi"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ULeya"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "inhlanhla lize"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lakhe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "גד",
+      "gloss": "uGadi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:14:12.938722682Z",
+  "model": "glm-5.3"
+}

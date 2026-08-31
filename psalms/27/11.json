@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 27:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Ngifundisela, Yahwe, indlela yakho; ungiholele endleleni eqondile ngenxa yezitha zami.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": "ngifundisela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "indlela yakho"
+    },
+    {
+      "surface": "ונחני",
+      "gloss": "ungiholele"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "eqondile"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "שוררי",
+      "gloss": "yezitha zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:16.919764101Z",
+  "model": "glm-5.3"
+}

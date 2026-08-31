@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 15:10",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Baqoqana eYerushalayimi enyangeni yesithathu, unyaka wesihlanu nesishiyagalombili wobukhosi buka-Asa.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Baqoqana"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "enyangeni"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "yesithathu"
+    },
+    {
+      "surface": "לשנת",
+      "gloss": "unyaka we-"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "wesihlanu"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "nesishiyagalombili"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "wobukhosi"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "buka-Asa"
+    }
+  ],
+  "timestamp": "2026-08-31T08:37:21.656719063Z",
+  "model": "glm-5.3"
+}

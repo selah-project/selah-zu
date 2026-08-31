@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Ombi ubhekisele olungile, futhi ufuna ukumbulala.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "ubhekisele"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ombi"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "olungile"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "futhi ufuna"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ukumbulala"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:23.159760424Z",
+  "model": "glm-5.3"
+}

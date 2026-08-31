@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Ngiyakhala kuwe, waze ungaphenduli; ngimile, ungibheka nje.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "ngiyakhala"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waze unga-"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "phenduli"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "ngimile"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "ungibheka nje"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ngi-"
+    }
+  ],
+  "timestamp": "2026-08-31T07:25:01.779811078Z",
+  "model": "glm-5.3"
+}

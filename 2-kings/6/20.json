@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 6:20",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Kwasekuthi, ekungeneni kwabo eShomirona, u-Elishe wathi: uYahwe, vula ⟨את⟩ amehlo la bantu abone. uYahwe wavula ⟨את⟩ amehlo abo, babona, futhi-bheka, babephakathi kweShomirona.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwasekuthi"
+    },
+    {
+      "surface": "כבאם",
+      "gloss": "ekungeneni kwabo"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "eShomirona"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "u-Elishe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "vula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amehlo la bantu"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "la bantu"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "abone"
+    },
+    {
+      "surface": "ויפקח",
+      "gloss": "wavula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amehlo abo"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "amehlo abo"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "babona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "futhi-bheka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "kweShomirona"
+    }
+  ],
+  "timestamp": "2026-08-31T04:05:22.917149920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 40:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Ilizwi lommemi: elingcwelweni lungisani indlela kaYahwe; elandini nenzani umgwaqo oqondileyo wokufikela kuElohim wethu.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Ilizwi"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "lommemi"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "elingcwelweni"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "lungisani"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "nenzani (oqondileyo)"
+    },
+    {
+      "surface": "בערבה",
+      "gloss": "elandini"
+    },
+    {
+      "surface": "מסלה",
+      "gloss": "umgwaqo oqondileyo"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "kuElohim wethu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:30:34.957307047Z",
+  "model": "glm-5.3"
+}

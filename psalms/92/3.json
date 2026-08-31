@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 92,
+  "translation": "Ukwazisa ekuseni ikhesedi yakho, nekukholwa kwakho ebusuku.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "ukwazisa"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "nekukholwa kwakho"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "ebusuku"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:24.650766674Z",
+  "model": "glm-5.3"
+}

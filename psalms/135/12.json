@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 135:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 135,
+  "translation": "wanikeza izwe labo njengofakazi, ofakazi kuIsrayeli intombi yakhe.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "wanikeza"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "izwe labo"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "njengofakazi"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ofakazi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kuIsrayeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "intombi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:43.685516497Z",
+  "model": "glm-5.3"
+}

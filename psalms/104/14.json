@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 104,
+  "translation": "Uyakhulisa utshani lwesilwane, nezitshalo ezinsizini yokusebenza komuntu, ukuze kukhishwe ukudla emhlabeni.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "uyakhulisa"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "utshani"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "lwesilwane"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "nezitshalo"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "ezinsizini yokusebenza"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "komuntu"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ukuze kukhishwe"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mhlabeni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:51.652695388Z",
+  "model": "glm-5.3"
+}

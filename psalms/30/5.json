@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 30:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Culani kuYahwe, nina abakhesedi bakhe, futhi nibonge ⟨ngokukhumbuza⟩ ubungcwele bakhe.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Culani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "חסידיו",
+      "gloss": "abakhesedi bakhe"
+    },
+    {
+      "surface": "והודו",
+      "gloss": "futhi nibonge"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "⟨ngokukhumbuza⟩"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "ubungcwele bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:25.843472348Z",
+  "model": "glm-5.3"
+}

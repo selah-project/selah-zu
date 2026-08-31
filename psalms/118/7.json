@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 118:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 118,
+  "translation": "uYahwe ulowo osethandeni nabasizayo kimi; mina ngizobona labo abangizondayo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ulowo osethandeni"
+    },
+    {
+      "surface": "בעזרי",
+      "gloss": "nabasizayo kimi"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ngizobona"
+    },
+    {
+      "surface": "בשנאי",
+      "gloss": "labo abangizondayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:39.483649091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Phambi kwakhe kuhamba isibetho, futhi ilangabi liyaphuma ezinyaweni zakhe.",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "kuhamba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "isibetho"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "liyaphuma"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "ilangabi"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "ezinyaweni zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:40:38.568531684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 65:11",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 65,
+  "translation": "Kepha nina enniyekela uYahwe, enniyalalela ⟨את⟩ intaba engcwele yami, ennihlela itafula likaGadi, futhi ennigcwalisa umhluzo kaMeni —",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "kepha nina"
+    },
+    {
+      "surface": "עזבי",
+      "gloss": "enniyekela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "השכחים",
+      "gloss": "enniyalalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intaba engcwele yami"
+    },
+    {
+      "surface": "הר",
+      "gloss": "intaba"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "engcwele yami"
+    },
+    {
+      "surface": "הערכים",
+      "gloss": "ennihlela"
+    },
+    {
+      "surface": "לגד",
+      "gloss": "likaGadi"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "itafula"
+    },
+    {
+      "surface": "והממלאים",
+      "gloss": "futhi ennigcwalisa"
+    },
+    {
+      "surface": "למני",
+      "gloss": "kaMeni"
+    },
+    {
+      "surface": "ממסך",
+      "gloss": "umhluzo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:37:56.320314578Z",
+  "model": "glm-5.3"
+}

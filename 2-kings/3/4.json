@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 3:4",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "UMesha inkosi yakwaMowabi wayengumnakezinkomo; wayibuyisela enkosini yakwa-Israyeli izimvu eziyinkulungwane yezikhathi ezishumi, neziyinkulungwane yezikhathi ezishumi zamaduna embuzi, oboya obomvu.",
+  "tokens": [
+    {
+      "surface": "ומישע",
+      "gloss": "Futhi uMesha"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "yakwaMowabi"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wayengumnakezinkomo"
+    },
+    {
+      "surface": "נקד",
+      "gloss": "umnakezinkomo"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "wayibuyisela"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "enkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yakwa-Israyeli"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ezikhathi ezishumi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "inkulungwane"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "izimvu"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "neziyinkulungwane yezikhathi ezishumi"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "inkulungwane"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "amaduna embuzi"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "oboya obomvu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:03:43.898193534Z",
+  "model": "glm-5.3"
+}

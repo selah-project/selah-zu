@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 12:1",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Laba ngabaloli bashumayeli laba bakaLevi abanyukela noZerubhabheli indodana kaShealtieli noYeshuwa: uSerayah, uYirmeyah, uEzra.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Laba"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ngabaloli bashumayeli"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "laba bakaLevi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ab"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "abanyukela"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "noZerubhabheli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "Shealtieli"
+    },
+    {
+      "surface": "וישוע",
+      "gloss": "noYeshuwa"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "uSerayah"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "uYirmeyah"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "uEzra"
+    }
+  ],
+  "timestamp": "2026-08-31T08:17:19.406653432Z",
+  "model": "glm-5.3"
+}

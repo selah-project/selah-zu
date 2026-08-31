@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 17:24",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Futhi bonke abantu base-Israeli, ekuboneni kwabo ⟨את⟩ lowo mdlali, baphuma bobalele kuyena, bamesaba kakhulu.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "futhi bonke"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "base-Israeli"
+    },
+    {
+      "surface": "בראותם",
+      "gloss": "ekuboneni kwabo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lowo mdlali"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lowo mdlali"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "baphuma bobalele"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "bamesaba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:19:48.011442340Z",
+  "model": "glm-5.3"
+}

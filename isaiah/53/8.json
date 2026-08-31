@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 53:8",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 53,
+  "translation": "Kusukela ekucindezelweni nasekukahlulelweni wathathwa, futhi ⟨את⟩ isizukulwane sakhe ngubani ozakucabanga ngaso? Ngokuba wadabuliswa ezweni labaphilayo; ngenxa yecala lebantwabaningi bami kwahlushwa yisibhamu kuyena.",
+  "tokens": [
+    {
+      "surface": "מעצר",
+      "gloss": "ekucinezelweni"
+    },
+    {
+      "surface": "וממשפט",
+      "gloss": "nasekukahlulelweni"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wathathwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isizukulwane sakhe"
+    },
+    {
+      "surface": "דורו",
+      "gloss": "isizukulwane sakhe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "ישוחח",
+      "gloss": "ozakucabanga ngaso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "wadabuliswa"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "labaphilayo"
+    },
+    {
+      "surface": "מפשע",
+      "gloss": "ngenxa yecala"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bami"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "kwahlushwa yisibhamu"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kuyena"
+    }
+  ],
+  "timestamp": "2026-08-31T10:24:42.152245530Z",
+  "model": "glm-5.3"
+}

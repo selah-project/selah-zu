@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Futhi uYahwe uyoba yisiphephelo ephansiweyo, isiphephelo ngezikhathi zosizi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "futhi uyoba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "isiphephelo"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "ephansiweyo"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "isiphephelo"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "ngezikhathi"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "zosizi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:22.496605958Z",
+  "model": "glm-5.3"
+}

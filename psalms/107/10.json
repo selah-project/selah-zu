@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 107:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Abasele ebunzimeni nas esithunzini sokufa, aboshwa ngobunzima nensimbi.",
+  "tokens": [
+    {
+      "surface": "ישבי",
+      "gloss": "abasele"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ebunzimeni"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "nas esithunzini sokufa"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "aboshwa"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ngobunzima"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "nensimbi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:52.203988595Z",
+  "model": "glm-5.3"
+}

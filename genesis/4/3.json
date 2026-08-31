@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Incazelo: ekupheleni kwansuku zonke uKayini waletha isipho esimuncu sombuso womhlabathi esinikelwe uYahwe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "incazelo\/kwenzeka"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwansuku"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "waletha"
+    },
+    {
+      "surface": "קין",
+      "gloss": "uKayini"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "isipho sombuso\/umthombo"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "womhlabathi"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "isinikelwe\/isipho esinikelwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:54.385316617Z",
+  "model": "glm-5.3"
+}

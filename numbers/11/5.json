@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 11:5",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Sikhumbula inhlanzi esayidla eMitsrayim mahala, ⟨את⟩ amakhukhamba, n⟨את⟩ amakhabe, n⟨את⟩ uhhanyathelo, n⟨את⟩ izinxa, n⟨את⟩ umhlahlampethu.",
+  "tokens": [
+    {
+      "surface": "זכרנו",
+      "gloss": "Sikhumbula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inhlanzi"
+    },
+    {
+      "surface": "הדגה",
+      "gloss": "inhlanzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esa-"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "yidla"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mahala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amakhukhamba"
+    },
+    {
+      "surface": "הקשאים",
+      "gloss": "amakhukhamba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "amakhabe"
+    },
+    {
+      "surface": "האבטחים",
+      "gloss": "amakhabe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "uhhanyathelo"
+    },
+    {
+      "surface": "החציר",
+      "gloss": "uhhanyathelo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "izinxa"
+    },
+    {
+      "surface": "הבצלים",
+      "gloss": "izinxa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "umhlahlampethu"
+    },
+    {
+      "surface": "השומים",
+      "gloss": "umhlahlampethu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:14:06.873988042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 7:6",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ngoba efasiteni leyondlu yami, ngeshibhini lami ngaphuma ngibheka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "efasiteni"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "leyondlu yami"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "אשנבי",
+      "gloss": "ishibhini lami"
+    },
+    {
+      "surface": "נשקפתי",
+      "gloss": "ngaphuma ngibheka"
+    }
+  ],
+  "timestamp": "2026-08-31T06:49:23.809712348Z",
+  "model": "glm-5.3"
+}

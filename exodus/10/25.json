@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 10:25",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "UMoshe wathi: Nawe uzosinika esandleni sethu izinkomo zokuhlinza nezimpeshengu zokushiswa, ukuze senzele uYahwe uElohim wethu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "UMoshe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "uzosinika"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "esandleni sethu"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "izinkomo zokuhlinza"
+    },
+    {
+      "surface": "ועלות",
+      "gloss": "nezimpeshengu zokushiswa"
+    },
+    {
+      "surface": "ועשינו",
+      "gloss": "sizozenzela"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:56.278176834Z",
+  "model": "glm-5.3"
+}

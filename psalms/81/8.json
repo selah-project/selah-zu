@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 81:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 81,
+  "translation": "Ubuyisele entsinkeni, futhi ngakusindisa; ngakuphendla ekufihlweni kwesibani sezulu; ngakuhlola emanzini aseMeriba. Selah.",
+  "tokens": [
+    {
+      "surface": "בצרה",
+      "gloss": "entsinkeni"
+    },
+    {
+      "surface": "קראת",
+      "gloss": "ubuyisele"
+    },
+    {
+      "surface": "ואחלצך",
+      "gloss": "futhi ngakusindisa"
+    },
+    {
+      "surface": "אענך",
+      "gloss": "ngakuphendla"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ekufihlweni"
+    },
+    {
+      "surface": "רעם",
+      "gloss": "kwesibani sezulu"
+    },
+    {
+      "surface": "אבחנך",
+      "gloss": "ngakuhlola"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "מי",
+      "gloss": "manzini"
+    },
+    {
+      "surface": "מריבה",
+      "gloss": "aseMeriba"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:45.083579082Z",
+  "model": "glm-5.3"
+}

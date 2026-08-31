@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 1:5",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi uzibulala ⟨את⟩ inkunzi yenkomo phambi kukaYahwe; futhi abantwana baka-Aharon, abapristi, bayalethela ⟨את⟩ igazi, baza balichithe ⟨את⟩ igazi e-ialtari, emzonjana zayo, okungasemnyango wetenti yokuhlangana.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "uzibulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkunzi yenkomo"
+    },
+    {
+      "surface": "בן",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "yenkomo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "bayalethela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "baka-Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igazi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "igazi"
+    },
+    {
+      "surface": "וזרקו",
+      "gloss": "balichithe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igazi"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "igazi"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ialtari"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "emzonjana zayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ngasemnyango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wetenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuhlangana"
+    }
+  ],
+  "timestamp": "2026-08-31T01:50:33.445200555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 31:3",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "uYahwe uElohimakhe ⟨he⟩ uzodlula phambi kwakho; ⟨he⟩ uzobhujisa ⟨את⟩ izizwe lezi ephambi kwakho, uzozithola; uYehoshuwa yena uzodlula phambi kwakho, njengalokho uYahwe akhulume khona.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohimakhe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨he⟩ yena"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "uzodlula"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨he⟩ yena"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "uzobhujisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izizwe lezi"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "מלפניך",
+      "gloss": "ephambi kwakho"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "uzozithola"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "uzodlula"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengalokho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akhulume"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:47:24.272660768Z",
+  "model": "glm-5.3"
+}

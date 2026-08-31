@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "daniel 1:13",
+  "book": "daniel",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "\"Bheka ubuso bethu phambi kwakho, nobuso bezinsizwa ezidla ⟨את⟩ isidlo senkosi, futhi njengoba ubona, yenza njengabezinsizwa zakho.\"",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "bheka (ubuso)"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "מראינו",
+      "gloss": "ubuso bethu"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "nobuso"
+    },
+    {
+      "surface": "הילדים",
+      "gloss": "bezinsizwa"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "ezidla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isidlo senkosi"
+    },
+    {
+      "surface": "פתבג",
+      "gloss": "isidlo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "senkosi"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "futhi njengoba"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ubona"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yenza"
+    },
+    {
+      "surface": "עם",
+      "gloss": "njenga-"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "abezinsizwa zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T07:54:25.720664771Z",
+  "model": "glm-5.3"
+}

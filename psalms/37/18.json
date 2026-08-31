@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 37:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "uYahwe uyazazi izinsuku zezinzile, futhi ifa labo liyohlala kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "uyazazi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "zezinzile"
+    },
+    {
+      "surface": "ונחלתם",
+      "gloss": "futhi ifa labo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "liyohlala"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:49.580736549Z",
+  "model": "glm-5.3"
+}

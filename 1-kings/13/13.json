@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 13:13",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Washo kubantabakhe: \"Qoqelani ⟨את⟩ inqama.\" Baseqoqela ⟨את⟩ inqama, wayifoka.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Washo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "bantabakhe"
+    },
+    {
+      "surface": "חבשו",
+      "gloss": "qoqelani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "i-"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "inqama"
+    },
+    {
+      "surface": "ויחבשו",
+      "gloss": "baseqoqela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "i-"
+    },
+    {
+      "surface": "החמור",
+      "gloss": "inqama"
+    },
+    {
+      "surface": "וירכב",
+      "gloss": "wayifoka"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:55:27.590863313Z",
+  "model": "glm-5.3"
+}

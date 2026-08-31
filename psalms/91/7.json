@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 91:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 91,
+  "translation": "Kuzowa esuseni sakho inkulungwane, nizigidi eziyishumi esokudla sakho; kuwe akuzusondela.",
+  "tokens": [
+    {
+      "surface": "יפל",
+      "gloss": "kuzowa"
+    },
+    {
+      "surface": "מצדך",
+      "gloss": "esuseni sakho"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "inkulungwane"
+    },
+    {
+      "surface": "ורבבה",
+      "gloss": "nizigidi eziyishumi"
+    },
+    {
+      "surface": "מימינך",
+      "gloss": "esokudla sakho"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aku"
+    },
+    {
+      "surface": "יגש",
+      "gloss": "zusondela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:48.567147087Z",
+  "model": "glm-5.3"
+}

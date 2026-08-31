@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 3:5",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Emva kwalokho abantwana baka-Israel bayophindela emumva, bafune uYahwe u-Elohim wabo, noDavide inkosi yabo; bayophaphatheka ⟨ku-Yahwe nasekubeni⟩ kwakhe, ezinsukwini zokugcina.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "Emva kwalokho"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bayophindela emumva"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israel"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "bafune"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe u-Elohim wabo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "u-Elohim wabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uDavide inkosi yabo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "noDavide"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "inkosi yabo"
+    },
+    {
+      "surface": "ופחדו",
+      "gloss": "bayophaphatheka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naseku-"
+    },
+    {
+      "surface": "טובו",
+      "gloss": "kwakhe (ubuhle bakhe)"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "ezinsukwini zokugcina"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ezinsukwini"
+    }
+  ],
+  "timestamp": "2026-08-31T05:25:37.114741077Z",
+  "model": "glm-5.3"
+}

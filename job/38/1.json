@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "U-Yahwe waphendula ⟨את⟩ u-Ayyubi kusuka esiphephongqini, wathi:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "waphendula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "u-Yahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Ayyubi"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "u-Ayyubi"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "kusuka"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "esiphephongqini"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:29:09.953539948Z",
+  "model": "glm-5.3"
+}

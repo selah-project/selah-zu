@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 15:23",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Ngokuba ukubhaxabhidela njengesono sokubiza imimoya, futhi ukuziphendukela emva kolaka njengobuhula nangokhonza izingcwaba. Ngenxa yokuthi wena walahla ⟨את⟩ izwi likaYahwe, naye wakulahla wena ukuba ungabi yinkosi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "njengesono"
+    },
+    {
+      "surface": "קסם",
+      "gloss": "sokubiza imimoya"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "ukubhaxabhidela"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "futhi njengubuhula"
+    },
+    {
+      "surface": "ותרפים",
+      "gloss": "nangokhonza izingcwaba"
+    },
+    {
+      "surface": "הפצר",
+      "gloss": "ukuziphendukela emva kuluka"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Ngenxa yokuthi"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "wena walahla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi lomnikelo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "וימאסך",
+      "gloss": "naye wakulahla wena"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "ukuba ungabi yinkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:21:49.162968509Z",
+  "model": "glm-5.3"
+}

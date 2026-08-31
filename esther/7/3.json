@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "esther 7:3",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Esther inkosikazi yaphendula yathi: Ngingathola umusa emehlweni akho, nkosi, noma ukuba kuhle kwenkosi, mazinikwe impilo yami ngokwesicelo sami, nabantu bami ngokwokucela kwami.",
+  "tokens": [
+    {
+      "surface": "ותען",
+      "gloss": "yaphendula"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Esther"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "inkosikazi"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Nginga- (uma)"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ngathola"
+    },
+    {
+      "surface": "חן",
+      "gloss": "umusa"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "emehlweni akho"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nkosi"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "noma ukuba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kuhle"
+    },
+    {
+      "surface": "תנתן",
+      "gloss": "mazinikwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "impilo yami"
+    },
+    {
+      "surface": "בשאלתי",
+      "gloss": "ngokwesicelo sami"
+    },
+    {
+      "surface": "ועמי",
+      "gloss": "nabantu bami"
+    },
+    {
+      "surface": "בבקשתי",
+      "gloss": "ngokwokucela kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T07:55:06.548629981Z",
+  "model": "glm-5.3"
+}

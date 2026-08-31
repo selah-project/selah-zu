@@ -1,0 +1,73 @@
+#:rendering{:label "isiZulu",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 8709,
+             :tokens 125663},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared [:rendering/people :role :rendering/process]},
+            :role :pass,
+            :produced {:from "2026-08-31", :to "2026-08-31"},
+            :people
+            {:ruled-by "Scott",
+             :shovel "Claude (Fable 5)",
+             :assayer "Codex"},
+            :id "zu.v1",
+            :catalog {:ui "resources/i18n/ui/zu.edn"},
+            :license "CC BY-SA 4.0 (The Selah Zulu Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 8709},
+             :tiers {"glm-5.2" 8709},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/zu.md",
+             :rails-commit "9ef48942",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "u-Adonayi",
+              "אל" "u-El",
+              "אלהים" "uElohim",
+              "אלוה" "u-Eloah",
+              "יה" "uYah",
+              "יהוה" "uYahwe",
+              "שדי" "uShadayi"},
+             :open-questions []},
+            :status :rendering,
+            :version "v1",
+            :lineage
+            {:git
+             {:repo nil,
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches []},
+             :parents []},
+            :lang :zu,
+            :process
+            [{:stage :burn,
+              :tool "relay-move-on!",
+              :note "IN PROGRESS at manifest time"}]}

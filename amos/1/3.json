@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 1:3",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Usho kanje uYahwe: Ngenxa yezono ezintathu zaseDamasikhi, nangezine, angibuyiselwa ngikhiphe ishlamulo; ngokuba bethuka iGileyadi ngezinkethwa zensimbi.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "kanje"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "usho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "Ngenxa ye-"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "zono"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "zaseDamasikhi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nange-"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ezine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angi-"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "buyiselwa ngikhiphe ishlamulo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokuba ngo-"
+    },
+    {
+      "surface": "דושם",
+      "gloss": "bethuka"
+    },
+    {
+      "surface": "בחרצות",
+      "gloss": "ngezinkethwa"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "zensimbi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iGileyadi"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "iGileyadi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:32.197849809Z",
+  "model": "glm-5.3"
+}

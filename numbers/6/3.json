@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 6:3",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "kuvini nasetshwalini esinamandla uzazikhetela; iviniga levini neviniga lestshwala akuzaphuzi; nanoma yimuphi umhluzi wamagilevhi akuzaphuzi; amagilevhi amsulwa noma omile akuzawudla.",
+  "tokens": [
+    {
+      "surface": "מיין",
+      "gloss": "kuvini"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "nasetshwalini esinamandla"
+    },
+    {
+      "surface": "יזיר",
+      "gloss": "uzazikhetela"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "iviniga"
+    },
+    {
+      "surface": "יין",
+      "gloss": "levini"
+    },
+    {
+      "surface": "וחמץ",
+      "gloss": "neviniga"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "lestshwala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akuzaphuzi"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "⟨phuza⟩"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nanoma yimuphi"
+    },
+    {
+      "surface": "משרת",
+      "gloss": "umhluzi"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "wamagilevhi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akuzaphuzi"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "⟨phuza⟩"
+    },
+    {
+      "surface": "וענבים",
+      "gloss": "amagilevhi"
+    },
+    {
+      "surface": "לחים",
+      "gloss": "amsulwa"
+    },
+    {
+      "surface": "ויבשים",
+      "gloss": "noma omile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akuzawudla"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "⟨dla⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T02:11:52.597323617Z",
+  "model": "glm-5.3"
+}

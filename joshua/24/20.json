@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 24:20",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Uma niyekela ⟨את⟩ uYahwe nikhonza onkulunkulu bezizwe zangaphandle, uzobuya anenzakalise, aniphelelise ⟨את⟩ emva kokukuhle akenze kina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "niyekela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "nikhonza"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "onkulunkulu"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "bezizwe zangaphandle"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "uzobuya"
+    },
+    {
+      "surface": "והרע",
+      "gloss": "anenzakalise"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "aniphelelise"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "kok"
+    },
+    {
+      "surface": "היטיב",
+      "gloss": "ukukuhle"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kina"
+    }
+  ],
+  "timestamp": "2026-08-31T03:01:40.454786157Z",
+  "model": "glm-5.3"
+}

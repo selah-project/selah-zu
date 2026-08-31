@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 150:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 150,
+  "translation": "Dumisani yena ngamandla amakhulu akhe, dumisani yena njengobukhulu obungenzinga bakhe.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "dumisani yena"
+    },
+    {
+      "surface": "בגבורתיו",
+      "gloss": "ngamandla amakhulu akhe"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dumisani yena"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "njengobuningi"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "obukhulu bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:54.460490035Z",
+  "model": "glm-5.3"
+}

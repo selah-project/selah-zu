@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ayizonzuzi izipho zokungcoli, kodwa ulungile lwamsula ekufeni.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ayizonzuzi"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "onzuzi"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "izipho"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "zokungcoli"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "kodwa ulungile"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "lwamsula"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ekufeni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:50:45.228451578Z",
+  "model": "glm-5.3"
+}

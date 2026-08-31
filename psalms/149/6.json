@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 149,
+  "translation": "Izindumiso ezikhulu zika-El zisesiphunjeni sabo, kanye nenkemba enamablade amabili ezandleni zabo;",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "izindumiso ezikhulu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ka-El"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "zisesiphunjeni sabo"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "kanye nenkemba"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "enamablade amabili"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ezandleni zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:45:47.020805401Z",
+  "model": "glm-5.3"
+}

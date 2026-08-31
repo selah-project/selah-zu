@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 3:7",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngokuba u-Adonayi Yahwe akanenzilutho, engavezanga isimfihlo sakhe kumkhonzi zakhe abaprofethi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aku-"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "nenzi lutho"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lutho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kokuthi"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "avezanga"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "isimfihlo sakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "mikhonzi yakhe"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "abaprofethi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:31:29.525745169Z",
+  "model": "glm-5.3"
+}

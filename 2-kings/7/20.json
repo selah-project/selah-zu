@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Kwaze kwaba njalo kuyena, bese abantu bamphephuzela ⟨את⟩ yena emnyangweni, wafa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwaze kwaba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "bamphephuzela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "emnyangweni"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wafa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:08:05.178472408Z",
+  "model": "glm-5.3"
+}

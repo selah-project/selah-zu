@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 3:4",
+  "book": "song-of-songs",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Kancane nje ngingadlula kubona, kwaze kwaba yilapho ngithola ⟨את⟩ lowo owthandwayo yimphefumulo yami; ngimbambele, kangimkhululanga, kwaze kwaba yilapho ngimngenisa endlini kamama wami, nasendlin encane yalowo engazalele yena.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "kancane nje"
+    },
+    {
+      "surface": "שעברתי",
+      "gloss": "ngingadlula"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwaze kwaba yilapho"
+    },
+    {
+      "surface": "שמצאתי",
+      "gloss": "ngithola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lowo owthandwayo yimphefumulo yami"
+    },
+    {
+      "surface": "שאהבה",
+      "gloss": "lowo owthandwayo"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "imphefumulo yami"
+    },
+    {
+      "surface": "אחזתיו",
+      "gloss": "ngimbambele"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kangim-"
+    },
+    {
+      "surface": "ארפנו",
+      "gloss": "khululanga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwaze kwaba yilapho"
+    },
+    {
+      "surface": "שהביאתיו",
+      "gloss": "ngimngenisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ndlini"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "kamama wami"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nasen-"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "ndlini encane"
+    },
+    {
+      "surface": "הורתי",
+      "gloss": "yalowo engazalele yena"
+    }
+  ],
+  "timestamp": "2026-08-31T07:33:41.047176645Z",
+  "model": "glm-5.3"
+}

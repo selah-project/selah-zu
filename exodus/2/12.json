@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 2:12",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Wajonga lapha nalapha, wabona ukuthi ayikho indoda, washaya ⟨את⟩ uMitsri, wamfica esihlabathini.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "wajonga"
+    },
+    {
+      "surface": "כה",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "nalapha"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ayikho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "washaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMitsri"
+    },
+    {
+      "surface": "המצרי",
+      "gloss": "uMitsri"
+    },
+    {
+      "surface": "ויטמנהו",
+      "gloss": "wamfica"
+    },
+    {
+      "surface": "בחול",
+      "gloss": "esihlabathini"
+    }
+  ],
+  "timestamp": "2026-08-31T01:26:06.713681563Z",
+  "model": "glm-5.3"
+}

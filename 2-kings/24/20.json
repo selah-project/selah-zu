@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 24:20",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Ngokuba ngcolisi kaYahwe kwakwenzeka eYerushalayimi nakwaYuda, kwaze kwaba esebaphonsa emehlweni akhe; uTsidkiya waphikisana nenkosi yeBhabheli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "אף",
+      "gloss": "yengcolisi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kwakwenzeka"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "וביהודה",
+      "gloss": "nakwaYuda"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwaze kwaba"
+    },
+    {
+      "surface": "השלכו",
+      "gloss": "esebaphonsa"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona (uYuda neYerushalayimi)"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "kude"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "emehlweni akhe"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "waphikisana"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "uTsidkiya"
+    },
+    {
+      "surface": "במלך",
+      "gloss": "nenkosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "yeBhabheli"
+    }
+  ],
+  "timestamp": "2026-08-31T04:14:42.228310357Z",
+  "model": "glm-5.3"
+}

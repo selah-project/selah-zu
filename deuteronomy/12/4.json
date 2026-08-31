@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Anizenzi kanjalo kuYahwe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ani-"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "zenzi"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:37:51.488274180Z",
+  "model": "glm-5.3"
+}

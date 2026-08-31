@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 7:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ububi bakhe buyophendukela ekhanda lakhe, futhi ubudlova bakhe buyozela phezu kwesikhunzi sekanda lakhe.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "buyophendukela"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ububi bakhe"
+    },
+    {
+      "surface": "בראשו",
+      "gloss": "ekhanda lakhe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi phezu kwe-"
+    },
+    {
+      "surface": "קדקדו",
+      "gloss": "isikhunzi sekanda lakhe"
+    },
+    {
+      "surface": "חמסו",
+      "gloss": "ubudlova bakhe"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "buyozela"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:20.688858789Z",
+  "model": "glm-5.3"
+}

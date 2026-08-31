@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Futhi uShethe waphila iminyaka engamashumi amahlanu nelikhulu, wazala ⟨את⟩ u-Enoshi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "waphila"
+    },
+    {
+      "surface": "שת",
+      "gloss": "uShethe"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "amahlanu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "nelikhulu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Enoshi"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "u-Enoshi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:26.154537612Z",
+  "model": "glm-5.3"
+}

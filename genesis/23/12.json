@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "u-Avraham waguqa phambi kwabantu bemhlaba.",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "waguqa"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kwabantu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bemhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T05:54:47.633323882Z",
+  "model": "glm-5.3"
+}

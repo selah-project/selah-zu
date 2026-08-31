@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 129,
+  "translation": "Baningi abazicindile kusukela ebuswaneni bami, kodwa bahluleka kumina.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Baningi"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "abazicindile"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "kusukela ebuswaneni bami"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bahluleka"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kumina"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:04.466261702Z",
+  "model": "glm-5.3"
+}

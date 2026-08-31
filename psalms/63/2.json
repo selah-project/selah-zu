@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 63:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 63,
+  "translation": "uElohim, u-Eli wena ⟨ungu⟩ owami; ekuseni ngiya ⟨kukufunela⟩; inefeshi yami ilambile ngakuwe, inyama yami ikhangelela kuwe, emhlabeni omome nophansiwe ngaphandle kwamanzi.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "u-Eli"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אשחרך",
+      "gloss": "ekuseni ngiyakufunela"
+    },
+    {
+      "surface": "צמאה",
+      "gloss": "ilambile ngamanzi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ngakuwe"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "ikhangelela ngokufisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "inyama yami"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "omome"
+    },
+    {
+      "surface": "ועיף",
+      "gloss": "nophansiwe"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "מים",
+      "gloss": "kwamanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:52.981856063Z",
+  "model": "glm-5.3"
+}

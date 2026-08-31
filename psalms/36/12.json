@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Unyawo lokuzikhukhumeza lungangifiki, nelandla ababi ayingangisukumisi.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "lunga(n)gi"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "fiki"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "unyawo"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "lokuzikhukhumeza"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "nelandla"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayinga(n)gi"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "sukumisi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:20.037029972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi ezigqilini nasezinsizakazi ngalezo zinsuku ngizochitha ⟨את⟩ uMoya wami.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "Futhi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "izigqili"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "naku-"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "izinsizakazi"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ezinsukwini"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "lezo"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "ngizochitha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoya wami"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "uMoya wami"
+    }
+  ],
+  "timestamp": "2026-08-31T05:30:56.814762718Z",
+  "model": "glm-5.3"
+}

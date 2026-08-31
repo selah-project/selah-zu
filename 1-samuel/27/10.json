@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 27:10",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "U-Akish wathi: Niphonsile phi namuhla? UDavide wathi: Eningxweni yenkundla kaYehudha, neningxweni yenkundla yabele-Yerachmeeli, neningxweni yenkundla yakaKeni.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "u-Akish"
+    },
+    {
+      "surface": "אל",
+      "gloss": "phi"
+    },
+    {
+      "surface": "פשטתם",
+      "gloss": "niphonsile"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "UDavide"
+    },
+    {
+      "surface": "על",
+      "gloss": "en"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ingxweni yenkundla"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kaYehudha"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nen"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ingxweni yenkundla"
+    },
+    {
+      "surface": "הירחמאלי",
+      "gloss": "yabele-Yerachmeeli"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "nen"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "ingxweni yenkundla"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "yakaKeni"
+    }
+  ],
+  "timestamp": "2026-08-31T03:29:34.140643720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "noNaamani, noAhiya, noGera — yena oobathunyelileyo, wazala ⟨את⟩ u-Uza no⟨את⟩ u-Ahihudi.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "noNaamani"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "noAhiya"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "noGera"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "oobathunyelileyo"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Uza"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "u-Uza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Ahihudi"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "u-Ahihudi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:21:39.908823747Z",
+  "model": "glm-5.3"
+}

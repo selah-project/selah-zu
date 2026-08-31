@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Futhi uMoshe wasizwa izwi lomkhwenyana-nina wakhe, wenza konke lokho awayekushilo.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wasizwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "lomkhwenyana-nina wakhe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "awayekushilo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:35:32.295544250Z",
+  "model": "glm-5.3"
+}

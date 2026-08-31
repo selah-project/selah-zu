@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 21:23",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi kusuka enkabeni yaseDani: ⟨את⟩ iElteqeh nezinkambu zayo, ⟨את⟩ iGibethoni nezinkambu zayo.",
+  "tokens": [
+    {
+      "surface": "וממטה",
+      "gloss": "kusuka enkabeni"
+    },
+    {
+      "surface": "דן",
+      "gloss": "yaseDani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iElteqeh"
+    },
+    {
+      "surface": "אלתקא",
+      "gloss": "iElteqeh"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "izinkambu zayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "izinkambu zayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iGibethoni"
+    },
+    {
+      "surface": "גבתון",
+      "gloss": "iGibethoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "izinkambu zayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "izinkambu zayo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:58:05.638530480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 11:3",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Noma yisiphi esihlukanisa unyawo olwahlukileyo lokwenyawo, oluhlukene ngokuphelele phakathi kwezinyawo, futhi eliphindaphinda ukudla (ukutsheka igemula), phakathi kwezilwane, lokhu ningalidla:",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "noma yisiphi"
+    },
+    {
+      "surface": "מפרסת",
+      "gloss": "esihlukanisa"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "unyawo"
+    },
+    {
+      "surface": "ושסעת",
+      "gloss": "olwahlukileyo"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "oluhlukene ngokuphelele"
+    },
+    {
+      "surface": "פרסת",
+      "gloss": "lokwenyawo"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "eliphindaphinda"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ukudla (gemula)"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "phakathi kwezilwane"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "lokhu"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ningalidla"
+    }
+  ],
+  "timestamp": "2026-08-31T01:54:59.218934161Z",
+  "model": "glm-5.3"
+}

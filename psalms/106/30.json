@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Wema uPhinehas wabeka isinqumo, wasaleka umkhuhlane.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "Wema"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "uPhinehas"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "wabeka isinqumo"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "wasaleka"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "umkhuhlane"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:43.690734656Z",
+  "model": "glm-5.3"
+}

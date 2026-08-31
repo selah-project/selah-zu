@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "⟨את⟩ iwundlu elilodwa uzokwenza ekuseni, futhi ⟨את⟩ iwundlu lesibili uzokwenza phakathi kwamahora okuhlwa.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwundlu elilodwa"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "iwundlu"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzokwenza"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iwundlu lesibili"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "iwundlu"
+    },
+    {
+      "surface": "השני",
+      "gloss": "lesibili"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzokwenza"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "kwamahora okuhlwa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:25:07.084276028Z",
+  "model": "glm-5.3"
+}

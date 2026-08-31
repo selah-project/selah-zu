@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 3:6",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Sondeza ⟨את⟩ isibongo sikaLevi, umise ⟨את⟩ phambi ko-Aharon umpristi, bese bemkhonza.",
+  "tokens": [
+    {
+      "surface": "הקרב",
+      "gloss": "Sondeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibongo sikaLevi"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "isibongo"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "והעמדת",
+      "gloss": "umise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sona (isibongo sikaLevi)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "ושרתו",
+      "gloss": "bese bemkhonza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (u-Aharon)"
+    }
+  ],
+  "timestamp": "2026-08-31T02:08:51.232574652Z",
+  "model": "glm-5.3"
+}

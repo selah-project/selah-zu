@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Njalo usho u-Adonayi uYahwe: angeke ivuke, futhi angeke yenzeka.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Njalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "usho"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ivuke"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi angeke"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "yenzeka"
+    }
+  ],
+  "timestamp": "2026-08-31T04:17:06.852174049Z",
+  "model": "glm-5.3"
+}

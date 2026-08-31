@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 8:12",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "uYahwe wathi kuMoshe: Yithi ku-Aharon: Nweba ⟨את⟩ induku yakopha, ushive ⟨את⟩ uthuli lomhlaba, lube yizinswazane emhlabeni wonke weMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Yithi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharon"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "Nweba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "induku yakho"
+    },
+    {
+      "surface": "מטך",
+      "gloss": "induku yakho"
+    },
+    {
+      "surface": "והך",
+      "gloss": "ushive"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uthuli lomhlaba"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "uthuli"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "lomhlaba"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "lube"
+    },
+    {
+      "surface": "לכנם",
+      "gloss": "yizinswazane"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wonke we-"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "mhlabeni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:03.033808221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 46:11",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 46,
+  "translation": "Ngibiza inyoni eyisiphanga empumalanga, indoda yoicebo lami ezweni elikude; qobo ngikhulume, qobo ngiyizofika; ngiyayilenga, qobo ngiyenzile.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Ngibiza"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "empumalanga"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "inyoni eyisiphanga"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "elikude"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "yoicebo lami"
+    },
+    {
+      "surface": "אף",
+      "gloss": "qobo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ngikhulume"
+    },
+    {
+      "surface": "אף",
+      "gloss": "qobo"
+    },
+    {
+      "surface": "אביאנה",
+      "gloss": "ngiyizofika"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "ngiyilenga"
+    },
+    {
+      "surface": "אף",
+      "gloss": "qobo"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "ngiyenzile"
+    }
+  ],
+  "timestamp": "2026-08-31T04:31:17.482399229Z",
+  "model": "glm-5.3"
+}

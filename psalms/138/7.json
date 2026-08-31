@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 138:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 138,
+  "translation": "Ngingena phakathi enkathazweni, uzongiphilisa; ekulakaeni kwabashingeki bakho uzothulula isandla sakho, phela ilungelo lakho lizongisindisa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uma\/ngingena"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ngihamba"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "enkathazweni"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "uzongiphilisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ukulaka"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "abashingeki bakho"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "uzothumela"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "ותושיעני",
+      "gloss": "phela lizongisindisa"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ilungelu lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:09.351349700Z",
+  "model": "glm-5.3"
+}

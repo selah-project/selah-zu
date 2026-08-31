@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Naye incekuyakho iyakhanyiswa ngazo; ekugcineni kwazo kukhona umphumela omkhulu.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "naye"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "inceku yakho"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "iyakhanyiswa"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ngazo"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "ekugcineni kwazo"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "umphumela"
+    },
+    {
+      "surface": "רב",
+      "gloss": "omkhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:16.042518800Z",
+  "model": "glm-5.3"
+}

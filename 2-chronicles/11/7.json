@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "No⟨את⟩ uBheyith-Tsuri no⟨את⟩ uShokho no⟨את⟩ u-Adulamu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uBheyith-Tsuri"
+    },
+    {
+      "surface": "בית",
+      "gloss": "uBheyith-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Tsuri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uShokho"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "uShokho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "u-Adulamu"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "u-Adulamu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:34:13.268393801Z",
+  "model": "glm-5.3"
+}

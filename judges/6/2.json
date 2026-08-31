@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 6:2",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Isandla sakaMidiyani samandla phezu kwe-Israyeli; ngenxa yakaMidiyani abantwana bakwa-Israyeli bazenzela ⟨את⟩ imigodla engenantabeni, ⟨את⟩ futhi amangafula, ⟨את⟩ nezenqaba.",
+  "tokens": [
+    {
+      "surface": "ותעז",
+      "gloss": "samandla"
+    },
+    {
+      "surface": "יד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "sakaMidiyani"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kwe-Israyeli"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "yakaMidiyani"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bazenzela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨bazenzela⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imigodla engenantabeni"
+    },
+    {
+      "surface": "המנהרות",
+      "gloss": "imigodla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engenantabeni"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "amangafula"
+    },
+    {
+      "surface": "המערות",
+      "gloss": "amangafula"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "izenqaba"
+    },
+    {
+      "surface": "המצדות",
+      "gloss": "izenqaba"
+    }
+  ],
+  "timestamp": "2026-08-31T03:04:01.905304691Z",
+  "model": "glm-5.3"
+}

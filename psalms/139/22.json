@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 139,
+  "translation": "Ngokuzonda okuphelele ngibazondile; abazingeli bami benjalo.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "okuphelele"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ukuzonda"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "ngibazondile"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "abazingeli bami"
+    },
+    {
+      "surface": "היו",
+      "gloss": "benjalo"
+    },
+    {
+      "surface": "לי",
+      "gloss": "bami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:36.695238760Z",
+  "model": "glm-5.3"
+}

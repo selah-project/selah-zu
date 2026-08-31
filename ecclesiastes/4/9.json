@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Ababili bayakhanya kuno-oyedwa, ngokuba kunaso isipho esihle bona emsebenzini wabo.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "bayakhanya"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "Ababili"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuno-"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "oyedwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kunaso"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "isipho"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "esihle"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "emsebenzini wabo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:45:08.387692142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 137,
+  "translation": "Singacula njani ⟨את⟩ ingoma kaYahwe emhlabeni wamangale?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "njani"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "Singacula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingoma kaYahwe"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ingoma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "wamangale"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:33.461337420Z",
+  "model": "glm-5.3"
+}

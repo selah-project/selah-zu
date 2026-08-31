@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 14:16",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi uDavide wenza njengo-Elohim esawiye wona, beshaya ⟨את⟩ indlu yamabutho abaPlisti kusukela eGibeoniye yaze yafika eGezere.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "esawiye wona"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "beshaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu yamabutho"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "indlu yamabutho"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "abaPlisti"
+    },
+    {
+      "surface": "מגבעון",
+      "gloss": "kusukela eGibeoniye"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "yaze yafika"
+    },
+    {
+      "surface": "גזרה",
+      "gloss": "eGezere"
+    }
+  ],
+  "timestamp": "2026-08-31T08:24:34.988661613Z",
+  "model": "glm-5.3"
+}

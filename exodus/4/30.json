@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 4:30",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "UN-Aharon wakhuluma ⟨את⟩ yonkeamazwi amagama okwakulunywa nguYahwe kuMoshe, waze wenza izimpawu emehlweni abantu.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke amagama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwakulunywa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "okulunyiwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "waze wenza"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "izimpawu"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:11:45.722265227Z",
+  "model": "glm-5.3"
+}

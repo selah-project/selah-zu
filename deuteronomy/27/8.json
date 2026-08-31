@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Futhi uzobhala phezu kwamatshe ⟨את⟩ wonke amagama alo mthetho, uchaze kakhucwenge.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "futhi uzobhala"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "amatshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke amagama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "alomthetho"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lo"
+    },
+    {
+      "surface": "באר",
+      "gloss": "uchaze"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "kakhucwenge"
+    }
+  ],
+  "timestamp": "2026-08-31T02:42:32.565543989Z",
+  "model": "glm-5.3"
+}

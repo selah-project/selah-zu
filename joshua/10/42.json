@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 10:42",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Futhi ⟨את⟩ wonke lawa makosi nango ⟨את⟩ izwe labo uYehoshuwa walibamba ngesikhathi esisodwa, ngokuba uYahwe, uElohim ka-Israel, wayelwela u-Israel;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wonke lawa makosi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "lawa makosi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lawa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izwe labo"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "izwe labo"
+    },
+    {
+      "surface": "לכד",
+      "gloss": "walibamba"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "ngesikhathi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "esisodwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "wayelwela"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "u-Israel"
+    }
+  ],
+  "timestamp": "2026-08-31T02:53:45.745383902Z",
+  "model": "glm-5.3"
+}

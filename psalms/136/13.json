@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 136,
+  "translation": "Kuye owohluze olwandle lomhlanga waba izingcezu, ngoba ikhesedi yakhe iyaphakade kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "owoHluze"
+    },
+    {
+      "surface": "ים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "lomhlanga"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "waba izingcezu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iyaphakade kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:21.479081207Z",
+  "model": "glm-5.3"
+}

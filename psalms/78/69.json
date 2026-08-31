@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "psalms 78:69",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Wayakha njengezindawo eziphakeme ingcwele yakhe; njengomhlaba wasimisa kube phakade.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "Wayakha"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge-"
+    },
+    {
+      "surface": "רמים",
+      "gloss": "izindawo eziphakeme"
+    },
+    {
+      "surface": "מקדשו",
+      "gloss": "ingcwele yakhe"
+    },
+    {
+      "surface": "כארץ",
+      "gloss": "njengomhlaba"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "wasimisa yena"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:50.356682403Z",
+  "model": "glm-5.3"
+}

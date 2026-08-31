@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 19:37",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Kancane nje izinceku yakhe iyodlula ⟨את⟩ iYardeni ⟨את⟩ inkosi, futhi kungani inkosi ingumnikeza lesi sipho?",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "kancane nje"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "iyodlula"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "izinceku yakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "iYardeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "יגמלני",
+      "gloss": "ingumnikeza"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "הגמולה",
+      "gloss": "lesi sipho"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lesi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:41:53.714245219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Uma isilandla lidansiwa emzini, abantu abayikwesaba na? Uma kubi kwenzeka emzini, uYahwe akubenzanga na?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "lidansiwa"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "isilandla"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "emzini"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abayikwe-"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "saba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "kwenzeka"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "kubi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "emzini"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "futhi uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aku-"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "benzanga na?"
+    }
+  ],
+  "timestamp": "2026-08-31T05:31:29.525607710Z",
+  "model": "glm-5.3"
+}

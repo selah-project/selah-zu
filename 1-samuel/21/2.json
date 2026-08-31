@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 21:2",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "UDavide wafika eNobhi, ku-Ahimelekhi umpristi; uAhimelekhi wazamazama ngokuhlangana noDavide, wathi kuye: Kungani uwedwa, ungekho nalomunye ⟨את⟩ wena?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wafika"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "נבה",
+      "gloss": "eNobhi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ahimelekhi"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "ויחרד",
+      "gloss": "wazamazama"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "uAhimelekhi"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ngokuhlangana"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "noDavide"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "uwedwa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "nalomunye umuntu"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ungekho"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wena",
+      "marks": "wena"
+    }
+  ],
+  "timestamp": "2026-08-31T06:04:15.827791696Z",
+  "model": "glm-5.3"
+}

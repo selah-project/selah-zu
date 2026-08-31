@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Ukudlwengula kwababi kuzobadonsa phansi, ngoba babala ukwenza ubulungiswa.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "ukudlwengula"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "kwababi"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "kuzobadonsa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "babala"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ubulungiswa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:58:24.903448805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 20:4",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Uzabakhulela ⟨את⟩ yini, uzabakhulela ⟨את⟩ yini, ndodana womuntu? Yenzela ukuba bazise ⟨את⟩ izintshontsho zokhozi zoyihlo labo.",
+  "tokens": [
+    {
+      "surface": "התשפט",
+      "gloss": "uzabakhulela yini"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "uzabakhulela yini"
+    },
+    {
+      "surface": "התשפוט",
+      "gloss": "uzabakhulela yini"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ndodana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "womuntu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izintshontsho zokhozi"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "izintshontsho zokhozi"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "zoyihlo labo"
+    },
+    {
+      "surface": "הודיעם",
+      "gloss": "yenzela ukuba bazise"
+    }
+  ],
+  "timestamp": "2026-08-31T05:11:42.910533789Z",
+  "model": "glm-5.3"
+}

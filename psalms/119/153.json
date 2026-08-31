@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 153,
+  "ref": "psalms 119:153",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Buka ukuhlanzeka kwami, undilungisele; ngokuthi umthetho wakho awuwakhohliwe.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Buka"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ukuhlanzeka kwami"
+    },
+    {
+      "surface": "וחלצני",
+      "gloss": "undilungisele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "umthetho wakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "wakhohliwe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:56:59.922400045Z",
+  "model": "glm-5.3"
+}

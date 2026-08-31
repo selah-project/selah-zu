@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 5:2",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Abafilishti bathatha ⟨את⟩ i-arki kaElohim, bangena nayo endlwini kaDagoni, bamise eduze noDagoni.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "bathatha"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Abafilishti"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-arki"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "i-arki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "bangena nayo"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "endlwini"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "kaDagoni"
+    },
+    {
+      "surface": "ויציגו",
+      "gloss": "bamise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "eduze noDagoni"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "eduze"
+    },
+    {
+      "surface": "דגון",
+      "gloss": "noDagoni"
+    }
+  ],
+  "timestamp": "2026-08-31T03:16:53.428864362Z",
+  "model": "glm-5.3"
+}

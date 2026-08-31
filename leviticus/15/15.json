@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 15:15",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Futhi ikohwa lenze ⟨את⟩ — elilodwa libe isiphephelo sesono, elilodwa libe isinikelo esishiswayo; ikohwa lenze ukuxolelwa kuyena phambi kukaYahwe ngenxa yesichazo sakhe.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "lenze"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izituliphe\/amajuba (izinikelelwane)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ikohwa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "isiphephelo sesono"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "isinikelo esishiswayo"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "lenze ukuxolelwa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ikohwa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מזובו",
+      "gloss": "ngenxa yesichazo sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:59:57.650167881Z",
+  "model": "glm-5.3"
+}

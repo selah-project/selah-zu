@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 40:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Ukwenza okuthandekayo kuwe, uElohim wami, ngikuthandile, umthetho wakusezingeni laphakathi kwezitho zangaphakathi zami.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "רצונך",
+      "gloss": "okuthandekayo kuwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wami"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "ngikuthandile"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "nomthetho wakho"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ngaphakathi kwe"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "izitho zangaphakathi zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:58.375168158Z",
+  "model": "glm-5.3"
+}

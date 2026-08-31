@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 37:8",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Ngase ngibona, bheka, umthondo wawuphezu kwawo, inyama yakhula, isikhumba sase sikhweba phezu kwawo sengaphezulu, kepha iniwe ayikho kubo.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "ngase ngibona"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "phezu kwawo"
+    },
+    {
+      "surface": "גדים",
+      "gloss": "umthondo"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "yakhula"
+    },
+    {
+      "surface": "ויקרם",
+      "gloss": "sase sikhweba"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "phezu kwawo"
+    },
+    {
+      "surface": "עור",
+      "gloss": "isikhumba"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "sengaphezulu"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "iniwe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ayikho"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kubo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:19:15.055142081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 108:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 108,
+  "translation": "Ngokuba ikhesedi yakho inkulu phezu kwamazulu, nokwethembeka kwakho kuze kufike kumafu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "inkulu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "phezu kwamazulu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuze kufike ku"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "umafu"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ukwethembeka kwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:40.996779226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 33:2",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "uYahwe, sicele umusa wakho; kuwe silindele. Yiba yisandla sabo ekuseni nakuseni, ewe nesiphephelo sethu esikhathini senkinga.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "חננו",
+      "gloss": "sicele umusa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "קוינו",
+      "gloss": "silindele"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yiba"
+    },
+    {
+      "surface": "זרעם",
+      "gloss": "yisandla sabo"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "ekuseni nakuseni"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ewe"
+    },
+    {
+      "surface": "ישועתנו",
+      "gloss": "nesiphephelo sethu"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "esikhathini"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "senkinga"
+    }
+  ],
+  "timestamp": "2026-08-31T04:26:57.549617012Z",
+  "model": "glm-5.3"
+}

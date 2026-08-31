@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Wayesekwaba ngempela esiphelweni sezinsuku ezingamashumi amane, uNowakhe wavula ufasitela olwenziwe yena esikebheni",
+  "tokens": [
+    {
+      "surface": "וַֽיְהִ֕י",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "מִקֵּ֖ץ",
+      "gloss": "esiphelweni"
+    },
+    {
+      "surface": "אַרְבָּעִ֣ים",
+      "gloss": "amashumi amane"
+    },
+    {
+      "surface": "י֑וֹם",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "וַיִּפְתַּ֣ח",
+      "gloss": "wavula"
+    },
+    {
+      "surface": "נֹ֔חַ",
+      "gloss": "uNowakhe"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "ufasitela"
+    },
+    {
+      "surface": "חַלּ֥וֹן",
+      "gloss": "ufasitela"
+    },
+    {
+      "surface": "הַתֵּבָ֖ה",
+      "gloss": "esikebheni"
+    },
+    {
+      "surface": "אֲשֶׁ֥ר",
+      "gloss": "olwenziwe"
+    },
+    {
+      "surface": "עָשָֽׂה",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T01:03:56.900010554Z",
+  "model": "glm-5.3"
+}

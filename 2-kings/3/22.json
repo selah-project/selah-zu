@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 3:22",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Basusuka ekuseni kusale phansi, ilanga laliphumele phezu kwamanzi, yabe uMowabhe ebona phambili naye ⟨את⟩ amanzi abomvu njengengazi.",
+  "tokens": [
+    {
+      "surface": "וישכימו",
+      "gloss": "basusuka ekuseni"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "והשמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "זרחה",
+      "gloss": "phumele"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "bona"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "uMowabhe"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "phambili naye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amanzi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "abomvu"
+    },
+    {
+      "surface": "כדם",
+      "gloss": "njengengazi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:04:18.848818776Z",
+  "model": "glm-5.3"
+}

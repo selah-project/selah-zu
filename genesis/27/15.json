@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 27:15",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "URivka wathatha ⟨את⟩ izingubo zika-Esav indodana yakhe enkulu, ezinhle ezazikhona kuyena endlwini, walungisa ngazo uYaakov indodana yakhe encane.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "uRivka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingubo zika-Esav"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "izingubo"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ka-Esav"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "enkulu"
+    },
+    {
+      "surface": "החמדת",
+      "gloss": "ezinhle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezazikhona"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "ותלבש",
+      "gloss": "walungisa ngazo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYaakov"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakov"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "encane"
+    }
+  ],
+  "timestamp": "2026-08-31T01:14:44.888065546Z",
+  "model": "glm-5.3"
+}

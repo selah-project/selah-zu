@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 33:22",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "njengokuthi umkhosi wezulu ungabalwa, futhi ucwathi lolwandle lungakanjwa, njalo ngalo ndlela ngizongeza ⟨את⟩ inzalo kaDavide izigqili zami, ne-⟨את⟩ amaLevi abalelayo ⟨את⟩ kimi.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "njengokuthi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "lungabi"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ungabalwa"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "umkhosi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wezulu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "ימד",
+      "gloss": "lungakanjwa"
+    },
+    {
+      "surface": "חול",
+      "gloss": "ucwathi"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lolwandle"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ngizongeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzalo kaDavide"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "inzalo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "izigqili zami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne-⟨את⟩",
+      "marks": "amaLevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "amaLevi"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "abalelayo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:52:50.347593464Z",
+  "model": "glm-5.3"
+}

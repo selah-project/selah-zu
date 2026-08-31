@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 14:42",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Ningeni, ngoba uYahwe akanasemkhathini wenu, hleze nicushwe phambi kwezitha zenu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "nini (kungeni)"
+    },
+    {
+      "surface": "תעלו",
+      "gloss": "ngen-ukwenyuka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בקרבכם",
+      "gloss": "semkhathini wenu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "hleze ningeke"
+    },
+    {
+      "surface": "תנגפו",
+      "gloss": "nicushwe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwe"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "zitha zenu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:15:37.139211568Z",
+  "model": "glm-5.3"
+}

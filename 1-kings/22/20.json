@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 22:20",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Wathi uYahwe: Ngubani ozokholisa ⟨את⟩ u-Ahabu, uze ashone aye kuwo emaRamatini aseGileadi? Wathi oyedwa ngendlela eyodwa, wathi omunye ngendlela engaseyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יפתה",
+      "gloss": "ozokholisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Ahabu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "u-Ahabu"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "ashone aye kuwo"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "awe"
+    },
+    {
+      "surface": "ברמת",
+      "gloss": "emaRamatini"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "aseGileadi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "oyedwa"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ngendlela eyodwa"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "omunye"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "ngendlela engaseyo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:02:57.899387971Z",
+  "model": "glm-5.3"
+}

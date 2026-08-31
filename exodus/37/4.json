@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Wenza izigqobo zesinkuni sesi-shittim, wazizungezela ⟨את⟩ ngegolide.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "izigqobo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "zesinkuni"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "sesi-shittim"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "wazizungezela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ngegolide"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ngegolide"
+    }
+  ],
+  "timestamp": "2026-08-31T01:46:04.613037895Z",
+  "model": "glm-5.3"
+}

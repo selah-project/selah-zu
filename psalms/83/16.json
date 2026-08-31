@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 83:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 83,
+  "translation": "Njengakho uzobagxila ngesiphepho sakho, futhi ngesibhebhane sakho uzobakhaza.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "njengakho"
+    },
+    {
+      "surface": "תרדפם",
+      "gloss": "uzobagxila"
+    },
+    {
+      "surface": "בסערך",
+      "gloss": "ngesiphepho sakho"
+    },
+    {
+      "surface": "ובסופתך",
+      "gloss": "futhi ngesibhebhane sakho"
+    },
+    {
+      "surface": "תבהלם",
+      "gloss": "uzobakhaza"
+    }
+  ],
+  "timestamp": "2026-08-31T11:40:56.882468006Z",
+  "model": "glm-5.3"
+}

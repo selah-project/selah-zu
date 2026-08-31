@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 27:2",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Khuluma kubantwana bakwaIsrayeli, uthi kubona: uma indoda yenza isipho esinqunyiwe ngefinefeshi, ngesilinganiso sakho izinerefeshi ziya kuYahwe.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "khuluma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kubantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaIsrayeli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "כי",
+      "gloss": "uma"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "yenza isipho esinqunyiwe"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "isipho"
+    },
+    {
+      "surface": "בערכך",
+      "gloss": "ngesilinganiso sakho"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "iinefeshi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:07:19.521169746Z",
+  "model": "glm-5.3"
+}

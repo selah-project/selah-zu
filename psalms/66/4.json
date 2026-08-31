@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 66,
+  "translation": "Umhlaba wonke uzokuthobela, uzokudumisa; bazocula igama lakho. Selah.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "Umhlaba"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "uzokuthobela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "uzokudumisa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "bazocula"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:39.373431759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 97,
+  "translation": "Izintaba zitopha njengesibani emaphambileni kaYahwe, emaphambileni ka-Adonayi wonke umhlaba.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "izintaba"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "njengesibani"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "zitopha"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "emaphambileni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "emaphambileni"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ka-Adonayi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:31.476096006Z",
+  "model": "glm-5.3"
+}

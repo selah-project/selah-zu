@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Ngoba ukucasula kubulala umhlanya, futhi umona ubulala elingwe lula.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngoba"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "umhlanya"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "kubulala"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "ukucasula"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "futhi elingwe lula"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "ubulala"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "umona"
+    }
+  ],
+  "timestamp": "2026-08-31T07:06:05.715763231Z",
+  "model": "glm-5.3"
+}

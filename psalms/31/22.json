@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Sibusisiwe nguYahwe, ngokuba wenze ⟨isimangaliso⟩ ikhesedi lakhe kimi, edolobheni elingamabhungu.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Sibusisiwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "wenze ⟨isimangaliso⟩"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi lakhe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "elingamabhungu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:57.583342340Z",
+  "model": "glm-5.3"
+}

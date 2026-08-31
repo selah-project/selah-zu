@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 9:2",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Kwendlu kaShawuli kwakukhona iziguli elibizwa uTsiba; bayimbiza bayisa kuDavide, inkosi yathi kuye: unguye yini uTsiba? Wathi yena: ngiyiziguli zakho.",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "kwendlu"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kaShawuli"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "iziguli"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "elibizwa"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "uTsiba"
+    },
+    {
+      "surface": "ויקראו",
+      "gloss": "bayimbiza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "unguye yini"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "uTsiba"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi yena"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ngiyiziguli zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T03:35:45.456862412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Mawube amafutshane izinsuku zakhe, omunye athathe isikhundla sakhe.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Mawube"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "izinsuku zakhe"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "amafutshane"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "isikhundla sakhe"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "athathe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "omunye"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:34.971942606Z",
+  "model": "glm-5.3"
+}

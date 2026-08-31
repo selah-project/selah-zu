@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 105:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "Nibongise uYahwe, nibizise ngegama lakhe; niyazise phakathi kwezizwe izenzo zakhe ezimangalisayo.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "nibongise"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "nibizise"
+    },
+    {
+      "surface": "בשמו",
+      "gloss": "ngegama lakhe"
+    },
+    {
+      "surface": "הודיעו",
+      "gloss": "niyazise"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "phakathi kwezizwe"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "izenzo zakhe ezimangalisayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:18.701952762Z",
+  "model": "glm-5.3"
+}

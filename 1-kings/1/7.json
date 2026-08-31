@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 1:7",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Amazwi akhe ayenokho noYowabu indodana kaTseruyah, no-Evjathar umpristi; basiza ngemva kuka-Adoniyah.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ayenokho"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "amazwi akhe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYowabu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "kaTseruyah"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "u-Evjathar"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "ויעזרו",
+      "gloss": "basiza"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ngemva"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "kuka-Adoniyah"
+    }
+  ],
+  "timestamp": "2026-08-31T03:45:51.000216539Z",
+  "model": "glm-5.3"
+}

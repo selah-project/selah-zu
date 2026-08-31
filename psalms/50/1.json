@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 50:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Izihlabelelo zika-Asafe. U-El, uElohim, uYahwe wakhuluma, wabizela umhlaba, kusuka ekupheleni kwelanga kuya ekufikeni kwalo.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Izihlabelelo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ka-Asafe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "U-El"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wabizela"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ממזרח",
+      "gloss": "kusuka ekupheleni kwelanga"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuya"
+    },
+    {
+      "surface": "מבאו",
+      "gloss": "ekufikeni kwalo"
+    }
+  ],
+  "timestamp": "2026-08-31T11:59:25.033119449Z",
+  "model": "glm-5.3"
+}

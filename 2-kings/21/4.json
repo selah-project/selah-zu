@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 21:4",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Wase wakhela izibingelelo endlini kaYahwe, uYahwe wathi: “EYerushalayimi ngizofaka ⟨את⟩ igama lami.”",
+  "tokens": [
+    {
+      "surface": "ובנה",
+      "gloss": "wakhela"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "izibingelelo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "EYerushalayimi"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ngizofaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lami"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "igama lami"
+    }
+  ],
+  "timestamp": "2026-08-31T04:13:37.967336703Z",
+  "model": "glm-5.3"
+}

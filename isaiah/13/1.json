@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Umthwalo weBhabheli, owabonakala kuYeshaYahu indodana ka-Amotsi.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "umthwalo"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "iBhabheli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owaubonile"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "uYeshaYahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "u-Amotsi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:20:46.116060215Z",
+  "model": "glm-5.3"
+}

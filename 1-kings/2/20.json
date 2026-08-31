@@ -1,0 +1,99 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 2:20",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Yathi ⟨∅⟩: isicelo esincane esisodwa ngiyasicela ⟨את⟩ kuwe; ungabhiki ⟨את⟩ ubuso bami. Yathi inkosi kuyena: cela, unina, ngokuthi angeke ngibhike ⟨את⟩ ubuso bakho.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "שאלה",
+      "gloss": "isicelo"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "esisodwa"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "esincane"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngimi"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "ngiyasicela"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "⟨את⟩ kuwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ubhike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bami"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso bami"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "cela"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "unina"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ngibhike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bakho"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    }
+  ],
+  "timestamp": "2026-08-31T10:54:39.586443389Z",
+  "model": "glm-5.3"
+}

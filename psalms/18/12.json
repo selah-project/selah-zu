@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 18:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Wabeka ubumnyama obuzimele bakhe; izindlebe ⟨ezizungezile⟩ zakhe, ihhovisi lakhe; ubumnyama bwamanzi, amahebe azwakalayo ezulu.",
+  "tokens": [
+    {
+      "surface": "ישת",
+      "gloss": "Wabeka"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ubumnyama"
+    },
+    {
+      "surface": "סתרו",
+      "gloss": "obuzimele bakhe"
+    },
+    {
+      "surface": "סביבותיו",
+      "gloss": "izindlebe ezizungezile zakhe"
+    },
+    {
+      "surface": "סכתו",
+      "gloss": "ihhovisi lakhe"
+    },
+    {
+      "surface": "חשכת",
+      "gloss": "ubumnyama"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "עבי",
+      "gloss": "amahebe azwakalayo"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "ezulu"
+    }
+  ],
+  "timestamp": "2026-08-31T11:41:27.280977277Z",
+  "model": "glm-5.3"
+}

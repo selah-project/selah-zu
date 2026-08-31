@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 32:4",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Buthana isizwe esiningi, bavimbela ⟨את⟩ wonke umthombo n⟨את⟩ umfula ogcwala ophakathi kwelaba; bathi, kungani abayini beAshuru baze bazuze amanzi amaningi?",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "Buthana"
+    },
+    {
+      "surface": "עם",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "רב",
+      "gloss": "esiningi"
+    },
+    {
+      "surface": "ויסתמו",
+      "gloss": "bavimbela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke umthombo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "המעינות",
+      "gloss": "umthombo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umfula ogcwala"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "umfula"
+    },
+    {
+      "surface": "השוטף",
+      "gloss": "ogcwala"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ophakathi kwa-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "elaba"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "יבואו",
+      "gloss": "baze"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "abayini"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "beAshuru"
+    },
+    {
+      "surface": "ומצאו",
+      "gloss": "bazuze"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "amaningi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:45:17.213134669Z",
+  "model": "glm-5.3"
+}

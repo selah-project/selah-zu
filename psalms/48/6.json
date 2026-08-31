@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 48:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 48,
+  "translation": "Bona ababona kwaba njalo, bamangala, bakhathazeka, babaleka besaba.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ababona"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kwaba njalo"
+    },
+    {
+      "surface": "תמהו",
+      "gloss": "bamangala"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "bakhathazeka"
+    },
+    {
+      "surface": "נחפזו",
+      "gloss": "babaleka besaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:56.615491497Z",
+  "model": "glm-5.3"
+}

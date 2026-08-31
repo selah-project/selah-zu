@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 147:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 147,
+  "translation": "Culani kuYahwe ngokubonga, dlalani inhlanekiso kuElohim wethu.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "culani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "בתודה",
+      "gloss": "ngokubonga"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "dlalani inhlanekiso"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "kuElohim wethu"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "inhlanekiso"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:17.661530033Z",
+  "model": "glm-5.3"
+}

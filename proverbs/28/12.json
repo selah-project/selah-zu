@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Ekujabuleni kwabalungileyo inkazimulo inkulu; ekuvukweni kwababi umuntu uyafihlaka.",
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "ekujabuleni kwabalungileyo"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abalungileyo"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "inkulu"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "inkazimulo"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "ekuvukweni kwababi"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "uyafihlaka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    }
+  ],
+  "timestamp": "2026-08-31T07:03:52.894221504Z",
+  "model": "glm-5.3"
+}

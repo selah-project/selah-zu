@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Khululani, khululani abantu bami, uthe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "Khululani"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "khululani"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "abantu bami"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:30:34.956777816Z",
+  "model": "glm-5.3"
+}

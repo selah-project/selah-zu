@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 47,
+  "translation": "uElohim wabusa phezu kwezizwe; uElohim uhlale esidlweni sokungcwele kwakhe.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "wabusa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kw"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ezizweni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "uhlale"
+    },
+    {
+      "surface": "על",
+      "gloss": "e"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "sidlweni"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "sokungcwele kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:54.692439571Z",
+  "model": "glm-5.3"
+}

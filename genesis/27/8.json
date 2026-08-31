@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Manje ke, ndodana yami, lalela izwi lami, okungukuthi lokho engikuyala ngalo ⟨את⟩ wena.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Manje ke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ndodana yami"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "lalela"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "izwi lami"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "okungukuthi lokho"
+    },
+    {
+      "surface": "אני",
+      "gloss": "engi"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ngikuyala"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wena",
+      "marks": "wena"
+    }
+  ],
+  "timestamp": "2026-08-31T01:13:46.428111045Z",
+  "model": "glm-5.3"
+}

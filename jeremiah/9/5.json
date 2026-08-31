@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 9:5",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Isihlalo sakho siphakathi kwemimanga; ngemimanga balahla ukungazi ⟨את⟩ mina, kusho uYahwe.",
+  "tokens": [
+    {
+      "surface": "שבתך",
+      "gloss": "isihlalo sakho"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "iphakathi kwe"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "imimanga"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "ngemimanga"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "balahla"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ukungazi"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ mina"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kusho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:43:13.048487665Z",
+  "model": "glm-5.3"
+}

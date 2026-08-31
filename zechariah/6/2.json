@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Enkabini yokuqala kwayizinkunzi ezibomvu, enenkabini yesibili kwayizinkunzi ezimnyama.",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "enkabini"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "yokuqala"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "izinkunzi"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "ezibomvu"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "enenkabini"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "yesibili"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "izinkunzi"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "ezimnyama"
+    }
+  ],
+  "timestamp": "2026-08-31T05:42:52.161885716Z",
+  "model": "glm-5.3"
+}

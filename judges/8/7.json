@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 8:7",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Wathi uGidoni: \"Ngakho-ke, ekunikeleni uYahwe ⟨את⟩ uZebhah no⟨את⟩ uTsalmona esandleni sami, ngizokweshula ⟨את⟩ inyama yenu ngedanga lendle yesimojwa no⟨את⟩ amakhwinda.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "uGidoni"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "בתת",
+      "gloss": "ekunikeleni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uZebhah"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "uZebhah"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uTsalmona"
+    },
+    {
+      "surface": "צלמנע",
+      "gloss": "uTsalmona"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "esandleni sami"
+    },
+    {
+      "surface": "ודשתי",
+      "gloss": "ngizokweshula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama yenu"
+    },
+    {
+      "surface": "בשרכם",
+      "gloss": "inyama yenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ nge"
+    },
+    {
+      "surface": "קוצי",
+      "gloss": "danga lendle"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "yesimojwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "amakhwinda"
+    },
+    {
+      "surface": "הברקנים",
+      "gloss": "amakhwinda"
+    }
+  ],
+  "timestamp": "2026-08-31T03:04:59.838849877Z",
+  "model": "glm-5.3"
+}

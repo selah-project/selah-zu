@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Zinhle izibaya zakho ngezihlobisi, intamo yakho ngemicu yamatshe ansiziba.",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "Zinhle"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "izibaya zakho"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "ngezihlobisi"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "intamo yakho"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "ngemicu yamatshe ansiziba"
+    }
+  ],
+  "timestamp": "2026-08-31T07:33:11.524348420Z",
+  "model": "glm-5.3"
+}

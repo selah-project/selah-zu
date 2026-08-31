@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 88:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 88,
+  "translation": "Phezu kwami sehlile ulaka lwakho, futhi ngamagagasi akho wonke ungizinzisela phansi. ISelah.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "סמכה",
+      "gloss": "sehlile"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "ulaka lwakho"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "futhi wonke"
+    },
+    {
+      "surface": "משבריך",
+      "gloss": "amagagasi akho"
+    },
+    {
+      "surface": "ענית",
+      "gloss": "ungizinzisela phansi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "iSelah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:58.472960975Z",
+  "model": "glm-5.3"
+}

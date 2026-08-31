@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 78:40",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Kangaki baphikisana naye ehlathini, bamthukutheelisa ehlathini elingenalutho!",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "kangaki"
+    },
+    {
+      "surface": "ימרוהו",
+      "gloss": "baphikisana naye"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ehlathini"
+    },
+    {
+      "surface": "יעציבוהו",
+      "gloss": "bamthukutheelisa"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "ehlathini elingenalutho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:51.554002265Z",
+  "model": "glm-5.3"
+}

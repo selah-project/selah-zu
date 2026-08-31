@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 34:16",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "baze uthatha kwamadodakazi akhe amadodana akho, amadodakazi akhe abuye alahle emumva ngamakhosi awo, baze enze ⟨את⟩ amadodana akho balahle emumva ngamakhosi awo.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "baze uthatha"
+    },
+    {
+      "surface": "מבנתיו",
+      "gloss": "kwamadodakazi akhe"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "amadodana akho"
+    },
+    {
+      "surface": "וזנו",
+      "gloss": "abuye alahle"
+    },
+    {
+      "surface": "בנתיו",
+      "gloss": "amadodakazi akhe"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emumva"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "ngamakhosi awo"
+    },
+    {
+      "surface": "והזנו",
+      "gloss": "baze enze balahle"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadodana akho"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "amadodana akho"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emumva"
+    },
+    {
+      "surface": "אלהיהן",
+      "gloss": "ngamakhosi awo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:43:23.574760403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Zikhulule njengesibose esandleni somsizi, njengonyoni esandleni somgcini-vene.",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "Zikhulule"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "njengesibose"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "njengonyoni"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "somgcini-vene"
+    }
+  ],
+  "timestamp": "2026-08-31T06:48:31.415395610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "amos 5:14",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Funani okuhle, ningafuni okubi, ukuze niphile; futhi kube njalo — uYahwe, uElohim wezimpi, ⟨את⟩ uvukele nani, njengoba nani nashilo.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "funani"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ningafuni"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "תחיו",
+      "gloss": "niphile"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "futhi kube"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wezimpi"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nani",
+      "marks": "nani"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "nashilo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:34:12.207636157Z",
+  "model": "glm-5.3"
+}

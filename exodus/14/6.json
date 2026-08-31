@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Wahlela ⟨את⟩ izingxenye zakhe zezinqhede, wathatha ⟨את⟩ isizwe sakhe naye.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "wahlela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingxenye zakhe zezinqhede"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "izingxenye zakhe zezinqhede"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isizwe sakhe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isizwe sakhe"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    }
+  ],
+  "timestamp": "2026-08-31T01:32:21.817314120Z",
+  "model": "glm-5.3"
+}

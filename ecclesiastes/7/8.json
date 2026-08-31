@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Kungcono ukuphela kwendaba kunesiqalo sayo; kungcono umoya omude kunomoya ophakemeyo.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kungcono"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ukuphela"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wendaba"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "kunesiqalo sayo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kungcono"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "omude"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "kunomoya ophakemeyo"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    }
+  ],
+  "timestamp": "2026-08-31T08:58:06.650847212Z",
+  "model": "glm-5.3"
+}

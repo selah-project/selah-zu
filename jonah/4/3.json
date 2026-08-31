@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jonah 4:3",
+  "book": "jonah",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Manje-ke, uYahwe, ngiyabesa, thatha ⟨את⟩ umphefumulo wami owww kimi, ngokuba ukufa kwami kuhle kunokuphila kwami.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Manje-ke"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "קח",
+      "gloss": "thatha"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngiyabesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umphefumulo wami"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumulo wami"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kuhle"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "ukufa kwami"
+    },
+    {
+      "surface": "מחיי",
+      "gloss": "kunokuphila kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T08:51:54.811542535Z",
+  "model": "glm-5.3"
+}

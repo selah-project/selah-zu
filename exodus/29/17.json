@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 29:17",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Futhi ⟨את⟩ i-ram uyibeza ngezinqwaba zayo, uzocheza isisu sayo nezahlule zayo, uzozibeka phezu kwezinqwaba zayo naphezu kwekhanda layo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "Futhi ⟨את⟩",
+      "marks": "i-ram"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "i-ram"
+    },
+    {
+      "surface": "תנתח",
+      "gloss": "uyibeza"
+    },
+    {
+      "surface": "לנתחיו",
+      "gloss": "ngezinqwaba zayo"
+    },
+    {
+      "surface": "ורחצת",
+      "gloss": "uzocheza"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "isisu sayo"
+    },
+    {
+      "surface": "וכרעיו",
+      "gloss": "nezahlule zayo"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "uzozibeka"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kw"
+    },
+    {
+      "surface": "נתחיו",
+      "gloss": "ezinqwabeni zayo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "naphezu kw"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ekhanda layo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:42:05.675461386Z",
+  "model": "glm-5.3"
+}

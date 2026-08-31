@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 19:4",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Nina nibonile okwenzile kumaMitsrayim, ngase nganinwina ngaphezu kwamaphiko amanqe, ngase nganilethela kimina.",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "Nina"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "nibonile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwenzile"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "kwenzile"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "kumaMitsrayim"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "nganinwina"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu kwama-"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "phiko"
+    },
+    {
+      "surface": "נשרים",
+      "gloss": "amanqe"
+    },
+    {
+      "surface": "ואבא",
+      "gloss": "nganilethela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimina"
+    }
+  ],
+  "timestamp": "2026-08-31T01:34:52.732835343Z",
+  "model": "glm-5.3"
+}

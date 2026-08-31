@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Wathi: Wena lo, ndodana yami uEsav? Wathi: Ngiyena.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ndodana yami"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "uEsav"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ngiyena"
+    }
+  ],
+  "timestamp": "2026-08-31T01:14:23.189759561Z",
+  "model": "glm-5.3"
+}

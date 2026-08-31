@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 16:21",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Bavuna ⟨את⟩ lokho ekuseni ekuseni, wonke umuntu ngokwokudla kwakhe, futhi kwasha ilanga kwathi laquba.",
+  "tokens": [
+    {
+      "surface": "וילקטו",
+      "gloss": "bavuna"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "lokho (ukudla okungimanna)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "wonke umuntu"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ngokwo-"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ukudla kwakhe"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "kwasha"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "ונמס",
+      "gloss": "kwathi laquba"
+    }
+  ],
+  "timestamp": "2026-08-31T01:34:28.687685421Z",
+  "model": "glm-5.3"
+}

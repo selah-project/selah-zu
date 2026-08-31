@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Ngakho-ke yisho: Ngithi, mina nginikeza yena ⟨את⟩ isivumelwano sami sobuhlobo.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yisho"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ngithi, mina"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "nginikeza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isivumelwano sami sobuhlobo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "isivumelwano sami"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "sobuhlobo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:21:33.953904634Z",
+  "model": "glm-5.3"
+}

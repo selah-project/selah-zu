@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Isilima sinikezwa izindawo eziphakeme eziningi, abacebile bahlala ezindaweni eziphansi.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "sinikezwa"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "Isilima"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "izindawweni eziphakeme"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "eziningi"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "abacebile"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "ezindawweni eziphansi"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bahlala"
+    }
+  ],
+  "timestamp": "2026-08-31T08:58:09.189441025Z",
+  "model": "glm-5.3"
+}

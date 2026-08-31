@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 3:1",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngokuba bheka, u-Adonayi, uYahwe wamabutho, ususa eYerushalayimi naseYuda isekelo nesigingco, sonke isekelo sinkwa, nesonke isekelo samanzi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamabutho"
+    },
+    {
+      "surface": "מסיר",
+      "gloss": "ususa"
+    },
+    {
+      "surface": "מירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "ומיהודה",
+      "gloss": "naseYuda"
+    },
+    {
+      "surface": "משען",
+      "gloss": "isekelo"
+    },
+    {
+      "surface": "ומשענה",
+      "gloss": "nesigingco"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "משען",
+      "gloss": "isekelo"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "sinkwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nesonke"
+    },
+    {
+      "surface": "משען",
+      "gloss": "isekelo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "samanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:24:12.219110620Z",
+  "model": "glm-5.3"
+}

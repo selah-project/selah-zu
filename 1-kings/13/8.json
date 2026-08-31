@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 13:8",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Umuntu ka-uElohim wathi enkosini: Uma unganginika ⟨את⟩ isiqingathi sendlu yakho, angeke ngihamba nawe, futhi angeke ngidla isinkwa noma ngiphuze amanzi endaweni le.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ka-uElohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "nkosini"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "unganginika"
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiqingathi sendlu yakho"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "isiqingathi"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "sendlu yakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ngihamba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi angeke"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ngidla"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "isinkwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "noma"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "ngiphuze"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-08-31T03:56:09.929639528Z",
+  "model": "glm-5.3"
+}

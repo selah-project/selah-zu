@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Ngoba mina ngiyingcosana futhi ngiswele, inhliziyo yami iyajuluka ngaphakathi kwami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ngiyingcosana"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "futhi ngiswele"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "inhliziyo yami"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "iyajuluka"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ngaphakathi kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:18.974807392Z",
+  "model": "glm-5.3"
+}

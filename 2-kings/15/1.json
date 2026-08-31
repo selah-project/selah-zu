@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 15:1",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Ngonyaka wamashumi amabili nanesikhombisa wokubusa kukaYarovam, inkosi yakwaYisraeli, waba yinkosi uAzariya, indodana kaAmatsiya, inkosi yakwaYehuda.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "Ngonyaka"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "wamashumi amabili"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "nanesikhombisa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "unyaka"
+    },
+    {
+      "surface": "לירבעם",
+      "gloss": "kukaYarovam"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "yakwaYisraeli"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "waba yinkosi"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "uAzariya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "kaAmatsiya"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yakwaYehuda"
+    }
+  ],
+  "timestamp": "2026-08-31T04:09:54.718447188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 9:1",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Futhi u-Israel wonke wabhalwa ngezizalwa zakhe, futhi bheka, abhalwe encwadini yamakhosi ka-Israel noYehudha; labanjwa bayisa eBhabheli ngenxa yokweqa kwabo.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Futhi wonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israel"
+    },
+    {
+      "surface": "התיחשו",
+      "gloss": "wabhalwa ngezizalwa zakhe"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "futhi bheka"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "abhalwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "encwadini"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "yamakhosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israel"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "noYehudha"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "labanjwa"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "bayisa eBhabheli"
+    },
+    {
+      "surface": "במעלם",
+      "gloss": "ngenxa yokweqa kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:22:42.991085409Z",
+  "model": "glm-5.3"
+}

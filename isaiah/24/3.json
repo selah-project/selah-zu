@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 24:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Uzokhishwa ngokuphelele, ukhishwa umhlaba, futhi uzotshontshwa ngokuphelele, ngokuba uYahwe ukhulume ⟨את⟩ leli zwi.",
+  "tokens": [
+    {
+      "surface": "הבוק",
+      "gloss": "Uzokhishwa ngokuphelele"
+    },
+    {
+      "surface": "תבוק",
+      "gloss": "ukhishwa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "והבוז",
+      "gloss": "futhi uzotshontshwa ngokuphelele"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "uzotshontshwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ukhulume"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leli zwi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "leli zwi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    }
+  ],
+  "timestamp": "2026-08-31T04:24:45.438303345Z",
+  "model": "glm-5.3"
+}

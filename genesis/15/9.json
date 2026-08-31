@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 15:9",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Wathi kuye: Thathela mina insikazi yenkomo eneminyaka emithathu, nenkuni yembuzi eneminyaka emithathu, nenkunzi yemvu eneminyaka emithathu, ne-iri nakho-olunye oluncane lwejeke.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "קחה",
+      "gloss": "Thathela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "עגלה",
+      "gloss": "insikazi yenkomo"
+    },
+    {
+      "surface": "משלשת",
+      "gloss": "eneminyaka emithathu"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "nenkuni yembuzi"
+    },
+    {
+      "surface": "משלשת",
+      "gloss": "eneminyaka emithathu"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "nenkunzi yemvu"
+    },
+    {
+      "surface": "משלש",
+      "gloss": "eneminyaka emithathu"
+    },
+    {
+      "surface": "ותר",
+      "gloss": "ne-iri"
+    },
+    {
+      "surface": "וגוזל",
+      "gloss": "nako-oluncane lwejeke"
+    }
+  ],
+  "timestamp": "2026-08-31T01:06:43.355899494Z",
+  "model": "glm-5.3"
+}

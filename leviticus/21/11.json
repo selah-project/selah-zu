@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi eyanawo yonke inefeshi yofileyo angeke angene; ngoyise nongunina angeke azigcwalise ngokungcola.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "Futhi ku-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "inefeshi"
+    },
+    {
+      "surface": "מת",
+      "gloss": "yofileyo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "angene"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "ngoyise"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "nongunina"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "azigcwalise ngokungcola"
+    }
+  ],
+  "timestamp": "2026-08-31T02:02:36.636339598Z",
+  "model": "glm-5.3"
+}

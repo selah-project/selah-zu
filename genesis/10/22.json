@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Banana baka-uShem: i-Elamu, ne-Ashuru, ne-Arfakhshadi, ne-Ludi, ne-Aramu.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Banana"
+    },
+    {
+      "surface": "שם",
+      "gloss": "baka-uShem"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "i-Elamu"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ne-Ashuru"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "ne-Arfakhshadi"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "ne-Ludi"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ne-Aramu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:04:58.391468046Z",
+  "model": "glm-5.3"
+}

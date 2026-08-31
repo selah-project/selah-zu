@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 14:23",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "ukuthi angeke ngithathe lutho okungowakho, kusukela entambo yehodweni kanye noshibamende wesicathulo, ukuze ungathi: Nginguye engenzela u-Avram ⟨את⟩ ubucele.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ukuthi angeke"
+    },
+    {
+      "surface": "מחוט",
+      "gloss": "kusukela entambo"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "noshibamende"
+    },
+    {
+      "surface": "נעל",
+      "gloss": "wesicathulo"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "futhi angeke"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ngithathe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "lutho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okungu-"
+    },
+    {
+      "surface": "לך",
+      "gloss": "owakho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ukuze ungathi"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ungathi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Nginguye"
+    },
+    {
+      "surface": "העשרתי",
+      "gloss": "engenzela ubucele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avram"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "u-Avram"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:55.698652226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 119:38",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Qinisekela ⟨kuye⟩ izincezu zakho zakhondla yakho, ⟨okokuthi⟩ zibe yilesaba lakho.",
+  "tokens": [
+    {
+      "surface": "הקם",
+      "gloss": "Qinisekela"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "zakhondla yakho"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "izincezu zakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨okokuthi⟩"
+    },
+    {
+      "surface": "ליראתך",
+      "gloss": "zibe yilesaba lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:56.141322964Z",
+  "model": "glm-5.3"
+}

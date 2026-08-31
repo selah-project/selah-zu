@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 108:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 108,
+  "translation": "iGiladi ingenami, iMenashhe ingenami; u-Efrayimi ungusimba wekhanda lami, uYehudha ungumethuli wami;",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ingenami"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "iGiladi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ingenami"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "iMenashhe"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "u-Efrayimi"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "usimba"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "wekhanda lami"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehudha"
+    },
+    {
+      "surface": "מחקקי",
+      "gloss": "ungumethuli wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:54.487487266Z",
+  "model": "glm-5.3"
+}

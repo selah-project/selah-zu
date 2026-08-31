@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 22:7",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Kodwa-ke isiliva enikezwe ⟨את⟩ esandleni sabo, angeke kubalwe nabo, ngokuba besebenza ngokwethembeka.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kodwa-ke kuphela"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "kubalwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ bona"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "enikezwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "isandla sabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ngokwethembeka"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "besebenza"
+    }
+  ],
+  "timestamp": "2026-08-31T04:13:21.397098873Z",
+  "model": "glm-5.3"
+}

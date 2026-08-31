@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 18:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Wathi: Nkosi yami, ngiyakhuleka, uma ngithole inkanuko emehlweni akho, ungadluli, ngiyakhuleka, kumkhonzi wakho.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Nkosi yami"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngiyakhuleka"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ngithole"
+    },
+    {
+      "surface": "חן",
+      "gloss": "inkanuko"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "emehlweni akho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungadluli"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngiyakhuleka"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ungadluli"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umkhonzi wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T01:07:48.126629642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 132,
+  "translation": "Ngenxa kaDavide, inceku yakho, ungajiki ubuso bukaMashiya wakho.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "inceku yakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "jiki"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "ukaMashiya wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:45.472063985Z",
+  "model": "glm-5.3"
+}

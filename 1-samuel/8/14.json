@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 8:14",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Futhi ⟨את⟩ amasimu akhe no⟨את⟩ izivini zenu nezihlahla zamafutha akhe ezinhle uzothatha, anike izinceku zakhe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "amasimu akhe"
+    },
+    {
+      "surface": "שדותיכם",
+      "gloss": "amasimu akhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "izivini zenu"
+    },
+    {
+      "surface": "כרמיכם",
+      "gloss": "izivini zenu"
+    },
+    {
+      "surface": "וזיתיכם",
+      "gloss": "nezihlahla zamafutha akhe"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "ezinhle"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "uzothatha"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "anike"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "izinceku zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:15:31.360367614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 7:19",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Kwisheshe lingakanani ukuthi ungakubuki kimi, ungangibuyekeli ndingagwinyi umlunda wami?",
+  "tokens": [
+    {
+      "surface": "כמה",
+      "gloss": "lingakanani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ukubuka"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "תרפני",
+      "gloss": "ukungibuyekela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ndinga-"
+    },
+    {
+      "surface": "בלעי",
+      "gloss": "ngigwinyi"
+    },
+    {
+      "surface": "רקי",
+      "gloss": "umlunda wami"
+    }
+  ],
+  "timestamp": "2026-08-31T07:10:29.076334699Z",
+  "model": "glm-5.3"
+}

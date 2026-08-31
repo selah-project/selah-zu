@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 9:6",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "uYahwe wenza ⟨את⟩ leli zwi ngosuku olulandelayo, sekufa zonke izinkomo zaseMitsrayim; kodwa ezinkomeni zabantwana baka-Israeli akufa ⟨nan'yedwa⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leli zwi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "leli zwi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eli"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ngosuku olulandelayo"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "sekufa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "izinkomo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "zaseMitsrayim"
+    },
+    {
+      "surface": "וממקנה",
+      "gloss": "kodwa ezinkomeni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "zabantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "baka-Israeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akufa"
+    },
+    {
+      "surface": "מת",
+      "gloss": "kufa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "nan'yedwa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:50.727586929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 19:3",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Umuntu unyoke unina noyise; phatha amasabatha ami ngokwengcindezi: mina nginguYahwe u-Elohim wenu.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Umuntu"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "unina"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "noyise"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "unyoke \/ ngokwengcindezi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amasabatha ami"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "amasabatha ami"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "phatha"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "u-Elohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:00:19.698842784Z",
+  "model": "glm-5.3"
+}

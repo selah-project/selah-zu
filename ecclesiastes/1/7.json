@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Imifula yonke iya olwandle, futhi ulwandle awunasugcwalile; endaweni imifula ehamba khona, lapho ziphendukela ukuhamba boyeza.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "imifula"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "הים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "והים",
+      "gloss": "futhi ulwandle"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "awunasugcwalile"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ugcwalile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "imifula e"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "הם",
+      "gloss": "zona"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "ziphendukela"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuhamba"
+    }
+  ],
+  "timestamp": "2026-08-31T07:43:47.631065598Z",
+  "model": "glm-5.3"
+}

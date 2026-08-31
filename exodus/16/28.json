@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 16:28",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Wayesethi uYahwe kuMoshe: Kwaze kwaba nini nala ukwenqabela ukugcina imiyalo yami nezoMthetho zami?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesethi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kwaze kwaba"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "מאנתם",
+      "gloss": "ukwenqabela"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ukugcina"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "imiyalo yami"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "nezoMthetho zami"
+    }
+  ],
+  "timestamp": "2026-08-31T01:34:03.915263943Z",
+  "model": "glm-5.3"
+}

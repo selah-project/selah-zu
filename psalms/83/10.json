@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 83:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 83,
+  "translation": "Yenzani njengakwaMidiyani, njengoSisera, njengoYabini, emfuleni iKishoni.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Yenzani"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨aboSontwana⟩"
+    },
+    {
+      "surface": "כמדין",
+      "gloss": "njengakwaMidiyani"
+    },
+    {
+      "surface": "כסיסרא",
+      "gloss": "njengoSisera"
+    },
+    {
+      "surface": "כיבין",
+      "gloss": "njengoYabini"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "emfuleni"
+    },
+    {
+      "surface": "קישון",
+      "gloss": "iKishoni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:52.260092525Z",
+  "model": "glm-5.3"
+}

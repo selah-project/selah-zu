@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 116,
+  "translation": "Ngingabuyisela-ni kuYahwe ngazo zonke izinkonzo zakhe ezingaphezu kwami?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Ngingabuyisela-ni"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "Ngingabuyisela-ni"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "izinkonzo zakhe"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ezingaphezu kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:00.761275262Z",
+  "model": "glm-5.3"
+}

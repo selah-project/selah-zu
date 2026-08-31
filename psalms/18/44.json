@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 18:44",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Ungikhulula ezinsindweni zezizwe abantu; ungibeka ukuba ngibe inhloko yezizwe; abantu engingawazi bayongikhonza.",
+  "tokens": [
+    {
+      "surface": "תפלטני",
+      "gloss": "Ungikhulula"
+    },
+    {
+      "surface": "מריבי",
+      "gloss": "ezinsindweni"
+    },
+    {
+      "surface": "עם",
+      "gloss": "zabantu"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "ungibeka"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "ukuba ngibe inhloko"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "yezizwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "Abantu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "enginga-"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "wazi"
+    },
+    {
+      "surface": "יעבדוני",
+      "gloss": "bayongikhonza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:52.571783794Z",
+  "model": "glm-5.3"
+}

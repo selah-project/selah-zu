@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi uzofana nomuthi otshaliwe eduze kwemithombo yamanzi, onika izithombo zawo esikhathini sawo, futhi amaqabunga awo awonakali; konke akwenzayo kuzophumelela.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "futhi uzofana"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "njengomuthi"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "otshaliwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "eduze kwa-"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "imithombo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "yamanzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "izithombo zawo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "unika"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "esikhathini sawo"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "futhi amaqabunga awo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a-"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "wonakali"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "futhi konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "a-"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kwenzayo"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "kuzophumelela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:04.731726034Z",
+  "model": "glm-5.3"
+}

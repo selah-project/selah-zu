@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "amos 1:11",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngakho usho uYahwe: Ngezono ezintathu ze-Edomi, nangeshine, ngeke ngibuyisele ⟨inkohlakalo yalo⟩, ngokulandela kwalo ngenkemba umbhodho wakhe, futhi wabhubhisa umusa wakhe, wadabula ngempoqolo ulaka lwakhe, futhi waqeda ngempoqolo intukuthelo yakhe — uyigcine kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ngakho"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "usho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "izono"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ze-Edomi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nange-"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "eshine"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "ngibuyisele"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "רדפו",
+      "gloss": "ukulandela kwalo"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ngenkemba"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umbhodho wakhe"
+    },
+    {
+      "surface": "ושחת",
+      "gloss": "futhi wabhubhisa"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "umusa wakhe"
+    },
+    {
+      "surface": "ויטרף",
+      "gloss": "wadabula"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "ulaka lwakhe"
+    },
+    {
+      "surface": "ועברתו",
+      "gloss": "futhi intukuthelo yakhe"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "uyigcine"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T05:30:56.211922821Z",
+  "model": "glm-5.3"
+}

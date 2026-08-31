@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "joshua 8:32",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Futhi walobela lapho phezu kwamatshe ⟨את⟩ ikhophi yesibili yomthetho kaMoshe, loba walobela phambi kwabantwana bakwa-Israel.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "futhi walobela"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "amatshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikhophi yesibili yomthetho"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ikhophi yesibili"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "yomthetho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kaMoshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oba"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "walobela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwe-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israel"
+    }
+  ],
+  "timestamp": "2026-08-31T02:53:19.068770578Z",
+  "model": "glm-5.3"
+}

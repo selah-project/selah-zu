@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 102:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 102,
+  "translation": "Ngokuba izinceku zakho zinakho ukuthanda ⟨את⟩ amatshe ayo, futhi ⟨את⟩ uthuli lwayo ziwuhawukela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "zinakho ukuthanda"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "izinceku zakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatshe ayo"
+    },
+    {
+      "surface": "אבניה",
+      "gloss": "amatshe ayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "uthuli lwayo"
+    },
+    {
+      "surface": "עפרה",
+      "gloss": "uthuli lwayo"
+    },
+    {
+      "surface": "יחננו",
+      "gloss": "ziwuhawukela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:37.324130820Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 136:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 136,
+  "translation": "Nangu uSihoni inkosi yama-Emori, ngokuba ikhesedi yakhe yaqhubeke kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "לסיחון",
+      "gloss": "Nangu uSihoni"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "yama-Emori"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:59.267786528Z",
+  "model": "glm-5.3"
+}

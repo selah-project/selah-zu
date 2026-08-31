@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 142,
+  "translation": "Izwi lami liya kuYahwe, ngiyakhalisa; izwi lami liya kuYahwe, ngicela umusa.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "izwi lami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "liya ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ngiyakhalisa"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "izwi lami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "liya ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "ngicela umusa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:37.048850911Z",
+  "model": "glm-5.3"
+}

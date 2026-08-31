@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Wabahola ngefu emini, yonke into ebusuku ngokukhanya komlilo.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "Wabahola"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "ngefu"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "emini"
+    },
+    {
+      "surface": "ו",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ngokukhanya"
+    },
+    {
+      "surface": "אש",
+      "gloss": "komlilo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:00.082783543Z",
+  "model": "glm-5.3"
+}

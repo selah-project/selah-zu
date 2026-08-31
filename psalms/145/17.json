@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 145:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 145,
+  "translation": "uYahwe ulungile ⟨ezindleleni⟩ zakhe zonke, unenesikhesedi ezintweni zakhe zonke.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "ulungile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ezindleleni zakhe zonke"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ezindleleni zakhe zonke"
+    },
+    {
+      "surface": "וחסיד",
+      "gloss": "unenesikhesedi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ezintweni zakhe zonke"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "ezintweni zakhe zonke"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:27.035140855Z",
+  "model": "glm-5.3"
+}

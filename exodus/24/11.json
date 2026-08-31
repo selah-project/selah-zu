@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 24:11",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Futhi kwabaholi bantwana beYisraeli akawanwebanga isandla lakhe; babuka ⟨את⟩ uElohim, badla, baphuza.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "Futhi kwa-"
+    },
+    {
+      "surface": "אצילי",
+      "gloss": "abaholi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "beYisraeli"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akwa-"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "nwebanga"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla lakhe"
+    },
+    {
+      "surface": "ויחזו",
+      "gloss": "babuka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "badla"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "baphuza"
+    }
+  ],
+  "timestamp": "2026-08-31T01:38:39.108345309Z",
+  "model": "glm-5.3"
+}

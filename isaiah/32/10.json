@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Ngemva kwezinsuku nangaphezu konyaka nizuzwa ukwesaba, nina enithembekile, ngoba inzela iphelile, ukuqoqa ngeke kufike.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "konyaka"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "nizuzwa ukwesaba"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "enithembekile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "iphelile"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "inzela"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ukuqoqa"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "kufike"
+    }
+  ],
+  "timestamp": "2026-08-31T04:25:23.989744106Z",
+  "model": "glm-5.3"
+}

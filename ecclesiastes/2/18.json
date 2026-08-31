@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 2:18",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi nangisonda mina ⟨את⟩ konke ukusebenza kwami engikusebenzela ngaphansi kwezulu, lokho engiyokushiya komuntu ozoba ngemuva kwami.",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "futhi nangisonda"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke ukusebenza kwami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "עמלי",
+      "gloss": "ukusebenza kwami"
+    },
+    {
+      "surface": "שאני",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "kusebenzela"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi kwe"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "izulu"
+    },
+    {
+      "surface": "שאניחנו",
+      "gloss": "lokho engiyokushiya"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "komuntu"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ozoba"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ngemuva kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T07:44:26.821287079Z",
+  "model": "glm-5.3"
+}

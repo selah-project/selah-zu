@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 20:3",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Futhi kwenzekea ngosuku olulandelayo uPashkhuri wakhishwa uYirimiyahu ezikhwebeli, futhi uYirimiyahu wathi kuye: ayingilo uPashkhuri uYahwe abizela ngegama lakho, kodwa uMagori-Misabhibi.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwenzekea"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "ngosuku olulandelayo"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "wakhishwa"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "uPashkhuri"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYirimiyahu"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "uYirimiyahu"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ezi-"
+    },
+    {
+      "surface": "המהפכת",
+      "gloss": "zikhwebeli"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "uYirimiyahu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi-"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "uPashkhuri"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "abizela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "uMagori"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "Misabhibi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:47:58.913056076Z",
+  "model": "glm-5.3"
+}

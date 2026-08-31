@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 15:34",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Bambekeze ⟨את⟩ esimthunyini ngoba akukazincishwa ukuthi kuzakwenzwa njani kuye.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "bambekeze"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "esimthunyini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akuka-"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "zincishwa"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ukuthi njani"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "kuzakwenzwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-08-31T02:16:46.243639687Z",
+  "model": "glm-5.3"
+}

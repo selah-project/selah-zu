@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 19:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Ekupheleni kwamazulu kuyiphumo layo, futhi ukujiya kwayo kufikelela amaphethelo awo; futhi akukho okufihliwe ekushiseni kwawo.",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kwamazulu"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "iphumo layo"
+    },
+    {
+      "surface": "ותקופתו",
+      "gloss": "futhi ukujiya kwawo"
+    },
+    {
+      "surface": "על",
+      "gloss": "kufikelela"
+    },
+    {
+      "surface": "קצותם",
+      "gloss": "amaphethelo awo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi akukho"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "okufihliwe"
+    },
+    {
+      "surface": "מחמתו",
+      "gloss": "ekushiseni kwawo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:31.561017422Z",
+  "model": "glm-5.3"
+}

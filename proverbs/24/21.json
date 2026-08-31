@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Yesaba ⟨את⟩ uYahwe, ndodana yami, nenkosi; ungazihlanganisi nabashintshayo.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "yesaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ndodana yami"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "nenkosi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "abashintshayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungazi-"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "-hlanganisi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:00:21.259562972Z",
+  "model": "glm-5.3"
+}

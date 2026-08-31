@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 16:6",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Wathulisa ngamatshe ⟨את⟩ uDavide, futhi nange⟨את⟩ wonke izinceku zenkosi uDavide; wonke abantu nowonke amaqhawe beyisesandleni sakhe sokudla nangesokunxele.",
+  "tokens": [
+    {
+      "surface": "ויסקל",
+      "gloss": "wathulisa ngamatshe"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "amatshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDavide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi nange⟨את⟩",
+      "marks": "wonke izinceku zenkosi uDavide"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "izinceku"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "zenkosi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nowonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nowonke"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "amaqhawe"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "besesandleni sakhe sokudla"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "nangesokunxele"
+    }
+  ],
+  "timestamp": "2026-08-31T03:40:01.821588541Z",
+  "model": "glm-5.3"
+}

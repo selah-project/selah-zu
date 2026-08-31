@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 20:20",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Futhi indoda engalala nodadikazi kayihlo—ubumdida bomfowabo kayihlo ubudalulile—ubufwini babo bazakulibala; bazakufa bengenalabantwana.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "futhi indoda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "enga-"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "lala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "nodadikazi"
+    },
+    {
+      "surface": "דדתו",
+      "gloss": "udadikazi kayihlo"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ubumdida"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "bomfowabo kayihlo"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ubudalulile"
+    },
+    {
+      "surface": "חטאם",
+      "gloss": "ubufwini babo"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "bazakulibala"
+    },
+    {
+      "surface": "ערירים",
+      "gloss": "bengenalabantwana"
+    },
+    {
+      "surface": "ימתו",
+      "gloss": "bazakufa"
+    }
+  ],
+  "timestamp": "2026-08-31T02:02:50.352813612Z",
+  "model": "glm-5.3"
+}

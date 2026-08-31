@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 26:11",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi uzokwenza izikhonkwane zensimbi yethusi ezingamashumi amahlanu, futhi uzongenisa ⟨את⟩ izikhonkwane emahangeni, futhi uzohlanganisa ⟨את⟩ intente, ibe yinto-eyodwa.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "futhi uzokwenza"
+    },
+    {
+      "surface": "קרסי",
+      "gloss": "izikhonkwane"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "zensimbi yethusi"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ezingamashumi amahlanu"
+    },
+    {
+      "surface": "והבאת",
+      "gloss": "futhi uzongenisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izikhonkwane"
+    },
+    {
+      "surface": "הקרסים",
+      "gloss": "izikhonkwane"
+    },
+    {
+      "surface": "בללאת",
+      "gloss": "emahangeni"
+    },
+    {
+      "surface": "וחברת",
+      "gloss": "futhi uzohlanganisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intente"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "intente"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ibe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yinto-eyodwa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:11.263183151Z",
+  "model": "glm-5.3"
+}

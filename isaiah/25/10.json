@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 25:10",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Ngokuba isandla sikaYahwe sizophumula entabeni lezi, futhi iMoab izohlakazwa phansi kwakhe, njengokuhlakazwa kweqabunga emanzini aseedunu eMadmenah.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "תנוח",
+      "gloss": "sizophumula"
+    },
+    {
+      "surface": "יד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "ונדוש",
+      "gloss": "futhi izohlakazwa"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "iMoab"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "phansi kwakhe"
+    },
+    {
+      "surface": "כהדוש",
+      "gloss": "njengokuhlakazwa"
+    },
+    {
+      "surface": "מתבן",
+      "gloss": "iqabunga"
+    },
+    {
+      "surface": "במי",
+      "gloss": "emanzini"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "iMadmenah"
+    }
+  ],
+  "timestamp": "2026-08-31T09:47:30.552050771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-samuel 17:41",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "I-Filisti yahamba, ihamba isondela kuDavide; kanti lowo muntu ophethe isihlangu wayephambili kwakhe.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "yahamba"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "i-Filisti"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ihamba"
+    },
+    {
+      "surface": "וקרב",
+      "gloss": "isondela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "kanti lowo muntu"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ophethe"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "isihlangu"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambili kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:23:21.189264406Z",
+  "model": "glm-5.3"
+}

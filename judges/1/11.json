@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Wahamba lapha aye kubahlali beDevir — igama leDevir ngokudala lalinguKiryati-Sepher.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "משם",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aye ku"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "ubahlali"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "beDevir"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "leDevir"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ngokudala"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "linguKiryati"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Sepher"
+    }
+  ],
+  "timestamp": "2026-08-31T02:59:49.223348383Z",
+  "model": "glm-5.3"
+}

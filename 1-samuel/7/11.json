@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 7:11",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Amadoda akwa-Israeli aphuma eMitsipa, alandela ⟨את⟩ abaFilishti, abashaya kuze kufikelwe ngaphansi kweBheti-Kari.",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "aphuma"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "akwa-Israeli"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "Mitsipa"
+    },
+    {
+      "surface": "וירדפו",
+      "gloss": "alandela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaFilishti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "abaFilishti"
+    },
+    {
+      "surface": "ויכום",
+      "gloss": "abashaya"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ngaphansi"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "kweBheti-"
+    },
+    {
+      "surface": "כר",
+      "gloss": "Kari"
+    }
+  ],
+  "timestamp": "2026-08-31T03:15:53.672413068Z",
+  "model": "glm-5.3"
+}

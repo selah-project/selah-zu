@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 3:25",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Uyazi u-Abhineri indodana kaNeri ukuthi wafika ukukholekisa wena, nokwazi ukuphuma kwakho nokungena kwakho, nokwazi ⟨את⟩ konke okwena ukukwenzayo.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "uyazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Abhineri"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "u-Abhineri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ukaNeri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "לפתתך",
+      "gloss": "ukukholekisa wena"
+    },
+    {
+      "surface": "בא",
+      "gloss": "wafika"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "nokwazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuphuma kwakho"
+    },
+    {
+      "surface": "מוצאך",
+      "gloss": "ukuphuma kwakho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ukungena kwakho"
+    },
+    {
+      "surface": "מבואך",
+      "gloss": "ukungena kwakho"
+    },
+    {
+      "surface": "ולדעת",
+      "gloss": "nokwazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ok"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ukwenzayo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:33:17.738287729Z",
+  "model": "glm-5.3"
+}

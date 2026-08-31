@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 31:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Ngokuba uwena uyisidwala sami nesigodlo sami; ngenxa yegama lakho ungihole futhi ungihambise.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "סלעי",
+      "gloss": "isidwala sami"
+    },
+    {
+      "surface": "ומצודתי",
+      "gloss": "nesigodlo sami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "uwena"
+    },
+    {
+      "surface": "ולמען",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "yegama lakho"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ungihole"
+    },
+    {
+      "surface": "ותנהלני",
+      "gloss": "futhi ungihambise"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:46.526899102Z",
+  "model": "glm-5.3"
+}

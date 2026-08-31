@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 33:9",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Umhlaba uzila, ulahlekelwe amandla; iLebanoni ihlekisisiwe, iyomile; iSharoni ifana ⟨nomlindo⟩; kanti iBashani neKarmeli zikhulula izithelo zazo.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "uzila"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "ulahlekelwe amandla"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "החפיר",
+      "gloss": "ihlekisisiwe"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "iLebanoni"
+    },
+    {
+      "surface": "קמל",
+      "gloss": "iyomile"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ifana⟩"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "iSharoni"
+    },
+    {
+      "surface": "כערבה",
+      "gloss": "nomlindo"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "zikhathele\/ziyadabuka"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "iBashani"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "neKarmeli"
+    }
+  ],
+  "timestamp": "2026-08-31T04:25:07.976368201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "uMoshe wanwebisa ⟨את⟩ isandla sakhe ezulwini; kwaba khona ubumnyama obumnyambomvu ezweni lonke laseMitsrayim izinsuku ezintathu.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "wanwebisa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isandla sakhe"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezulwini-phezu-kwa"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba khona"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ubumnyama"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "obumnyambomvu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ezweni lonke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:09.954537335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ngiyothi ku-Eloah: Ungangibeki cala; yenza ngazi ukuthi yini owuphikisana ngayo nami.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ngiyothi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "u-Eloah"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungangi-"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "beki cala"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "yenza ngazi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "owuphikisana ngayo nami"
+    }
+  ],
+  "timestamp": "2026-08-31T07:13:10.139748999Z",
+  "model": "glm-5.3"
+}

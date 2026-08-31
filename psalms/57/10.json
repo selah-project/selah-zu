@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 57:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 57,
+  "translation": "Ngizokubonga phakathi kwamazwe, wena u-Adonayi; ngizokucula phakathi kwezizwe.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "ngizokubonga"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "phakathi kwamazwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ngizokucula"
+    },
+    {
+      "surface": "בל",
+      "gloss": "phakathi kwezizwe"
+    },
+    {
+      "surface": "אמים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:07.633320191Z",
+  "model": "glm-5.3"
+}

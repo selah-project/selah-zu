@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Kanti okuhle akuyi kukho komubi, futhi ngeke anwebise izinsuku njengesithunzi, ngoba yena akayesabi ebusweni bukaElohim.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "kanti okuhle"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "akuyi kukho"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "komubi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi cha"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "ngeke anwebise"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "njengesithunzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngoba yena"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "akayena"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "akayesabi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ebusweni buka-"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T07:48:42.684542715Z",
+  "model": "glm-5.3"
+}

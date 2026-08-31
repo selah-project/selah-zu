@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 3:26",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Iminyango yayo izuma ilile, yona ilahlwe yinto yonke, ihlale phansi emhlabathini.",
+  "tokens": [
+    {
+      "surface": "ואנו",
+      "gloss": "izuma"
+    },
+    {
+      "surface": "ואבלו",
+      "gloss": "ilile"
+    },
+    {
+      "surface": "פתחיה",
+      "gloss": "iminyango yayo"
+    },
+    {
+      "surface": "ונקתה",
+      "gloss": "ilahlwe yinto yonke"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "phansi emhlabathini"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ihlale"
+    }
+  ],
+  "timestamp": "2026-08-31T04:16:56.618751700Z",
+  "model": "glm-5.3"
+}

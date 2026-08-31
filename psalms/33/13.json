@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Ezwanini uYahwe wabuka ⟨את⟩ wonke amadoda.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "Ezwanini"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "wabuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke amadoda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨omuntu⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:52.421102063Z",
+  "model": "glm-5.3"
+}

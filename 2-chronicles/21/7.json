@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 21:7",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Kodwa uYahwe walahla ⟨ukutshala⟩ ⟨את⟩ indlu kaDavide, ngenxa yesivumelwano aqumbe noDavide, nofuthi njengalokho ashilo ukunika yena isibani nabantwana bakhe yonke imihla.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Kodwa...walahla"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "walahla-ukwazi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "להשחית",
+      "gloss": "ukutshala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu kaDavide"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa ye"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "yesivumelwano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "aqumbe"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "noDavide"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "nofuthi njengalokho"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ashilo"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ukunika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "isibani"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "nabantwana bakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "imihla"
+    }
+  ],
+  "timestamp": "2026-08-31T09:03:18.388076149Z",
+  "model": "glm-5.3"
+}

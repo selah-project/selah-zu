@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 71:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 71,
+  "translation": "Umlomo wami uzoxoxa ukulunga kwakho, insindiso yakho yonke imini; ngokuba angazi ukubala kwayo.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "umlomo wami"
+    },
+    {
+      "surface": "יסספר",
+      "gloss": "uzoxoxa"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ukulunga kwakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "imini"
+    },
+    {
+      "surface": "תשועתך",
+      "gloss": "insindiso yakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angazi"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ukwazi"
+    },
+    {
+      "surface": "ספרות",
+      "gloss": "ukubala kwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:00.372757027Z",
+  "model": "glm-5.3"
+}

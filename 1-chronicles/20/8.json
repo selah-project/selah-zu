@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 20:8",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Laba bazalelwe lapha kuRafa eGati, bawa esandleni sikaDavida nasezandleni zezinceku zakhe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "laba"
+    },
+    {
+      "surface": "נולדו",
+      "gloss": "bazalelwe"
+    },
+    {
+      "surface": "להרפא",
+      "gloss": "kuRafa"
+    },
+    {
+      "surface": "בגת",
+      "gloss": "eGati"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "bawa"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni se-"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavida"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "nasezandleni ze-"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "izinceku zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:27:11.086028017Z",
+  "model": "glm-5.3"
+}

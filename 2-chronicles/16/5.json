@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 16:5",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Kwathuthuka lapho uBaasha ezwa, wayeka ukwakha ⟨את⟩ iRama, wamisa ⟨את⟩ umsebenzi wakhe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathuthuka"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "lapho ezwa"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "uBaasha"
+    },
+    {
+      "surface": "ויחדל",
+      "gloss": "wayeka"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "ukwakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iRama"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "iRama"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umsebenzi wakhe"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "umsebenzi wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:38:10.508984572Z",
+  "model": "glm-5.3"
+}

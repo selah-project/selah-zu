@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 16:19",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "UShawuli wathuma abathunywa kuYishayi, wathi: Thumela kimi ⟨את⟩ uDawidi indodana yakho, okukhonjiswa emfenqeni.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wathuma"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "abathunywa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "uYishayi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "Thumela"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "indodana yakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okukhonjiswa"
+    },
+    {
+      "surface": "בצאן",
+      "gloss": "emfenqeni"
+    }
+  ],
+  "timestamp": "2026-08-31T10:54:11.287271473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 22:16",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "athi uyise wentombi kubadala: ⟨את⟩ intombi yami nganginika lo muntu ukuba ibe umfazi, yaze yazonda yena.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "athi"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "wentombi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "badala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intombi yami"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "intombi yami"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nganginika"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "lo muntu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lo"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ukuba ibe umfazi"
+    },
+    {
+      "surface": "וישנאה",
+      "gloss": "yaze yazonda yena"
+    }
+  ],
+  "timestamp": "2026-08-31T02:41:30.362399200Z",
+  "model": "glm-5.3"
+}

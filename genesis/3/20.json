@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngu-Adamu wayebizwa igama lomkakhe uChava, ngokuba yena wayengumama wazo zonke izinto eziphilayo.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wayebizwa igama"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ngu-Adamu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "lomkakhe"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "uChava"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "wayengumama"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngumama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "חי",
+      "gloss": "izinto eziphilayo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:52.973029600Z",
+  "model": "glm-5.3"
+}

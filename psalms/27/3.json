@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 27:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Noma isibutho singema phezu kwami, inhliziyo yami angeyesabi; noma impi ivukela phezu kwami — ngalokhu mina ngithemba.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Noma"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "singema"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "isibutho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ange"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "yesabi"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inhliziyo yami"
+    },
+    {
+      "surface": "אם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ivukela"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "impi"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "ngalokhu"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "בוטח",
+      "gloss": "ngithemba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:19.970578938Z",
+  "model": "glm-5.3"
+}

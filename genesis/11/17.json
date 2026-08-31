@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "UPelegi waphila, emva kokubeletha ⟨את⟩ uPelegi, iminyaka engamashumi amathathu namekhulu amane, wabeletha amadodana namadodakazi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "waphila"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "uPelegi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva kokubeletha"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "kokubeletha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uPelegi"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "uPelegi"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "amashumi amathathu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "namekhulu amane"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amekhulu amane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wabeletha"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "namadodakazi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:22.461723198Z",
+  "model": "glm-5.3"
+}

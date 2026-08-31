@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 8:12",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "ababekele yena iziphambili ngezingugwezwane noziphambuli ngezinhlanu; abalime ukulima kwakhe, abavune inhlanganiso yakhe,abenze izikhali zempilo yakhe nezika-izenqeqeshi zakhe.",
+  "tokens": [
+    {
+      "surface": "ולשום",
+      "gloss": "ababekele"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "iziphambuli"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ngezingugwezwane"
+    },
+    {
+      "surface": "ושרי",
+      "gloss": "noziphambuli"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ngezinhlanu"
+    },
+    {
+      "surface": "ולחרש",
+      "gloss": "abalime"
+    },
+    {
+      "surface": "חרישו",
+      "gloss": "ukulima kwakhe"
+    },
+    {
+      "surface": "ולקצר",
+      "gloss": "abavune"
+    },
+    {
+      "surface": "קצירו",
+      "gloss": "inhlanganiso yakhe"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "abenze"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "izikhali"
+    },
+    {
+      "surface": "מלחמתו",
+      "gloss": "zempilo yakhe"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "nezika-"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "izenqeqeshi zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:15:36.289660439Z",
+  "model": "glm-5.3"
+}

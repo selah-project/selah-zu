@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 19:22",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Futhi uYahwe uzobetha ⟨את⟩ iMitsrayim — ubethe, aphulukise; futhi bazobuyela kuYahwe, futhi uzozwakalisa ithemba labo futhi abaphulukise.",
+  "tokens": [
+    {
+      "surface": "ונגף",
+      "gloss": "uzobetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iMitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "ubethe"
+    },
+    {
+      "surface": "ורפוא",
+      "gloss": "aphulukise"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "bazobuyela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ונעתר",
+      "gloss": "uzozwakalisa ithemba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "labo"
+    },
+    {
+      "surface": "ורפאם",
+      "gloss": "abaphulukise"
+    }
+  ],
+  "timestamp": "2026-08-31T04:21:39.263838412Z",
+  "model": "glm-5.3"
+}

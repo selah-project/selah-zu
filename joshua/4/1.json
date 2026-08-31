@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Kwathi lapho wonke umuzi uqedile ukwedlula ⟨את⟩ uYardeni, uYahwe wakhuluma kuYehoshuwa, ethi:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "uqedile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "umuzi"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "ukwedlula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "uYardeni"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:49:18.905138690Z",
+  "model": "glm-5.3"
+}

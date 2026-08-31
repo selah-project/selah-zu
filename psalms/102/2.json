@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 102,
+  "translation": "Yahwe, yizwa ithandazo lami, futhi umkhwele wami kuwe mafike.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "yizwa"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ithandazo lami"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "futhi umkhwele wami"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "mafike"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:04.606292822Z",
+  "model": "glm-5.3"
+}

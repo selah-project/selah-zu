@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 11:6",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi inkemba izoshisa emizini yakhe, futhi izophe lula izibambo zayo, futhi izodla ngemicimbi yazo yodwa.",
+  "tokens": [
+    {
+      "surface": "וחלה",
+      "gloss": "futhi izoshisa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "inkemba"
+    },
+    {
+      "surface": "בעריו",
+      "gloss": "emizini yakhe"
+    },
+    {
+      "surface": "וכלתה",
+      "gloss": "futhi izophe lula\/izophelisa"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "izibambo zayo"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "futhi izodla"
+    },
+    {
+      "surface": "ממעצותיהם",
+      "gloss": "ngemicimbi yabo yodwa"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:31.167125789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 13:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Inkwa engangavuthi idliwe ⟨את⟩ izinsuku eziyisikhombisa, futhi okuvuthiwe angeke kubonakale kuwe, futhi umvutho ungeke ubonakale kuwe nakho konke umkhawulo wakho.",
+  "tokens": [
+    {
+      "surface": "מצות",
+      "gloss": "inkwa engangavuthi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "idliwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinsuku eziyisikhombisa"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "eziyisikhombisa"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi angeke"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ibonakale"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "okuvuthiwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi angeke"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ibonakale"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "umvutho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "nakho konke"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "umkhawulo wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T01:32:28.691780778Z",
+  "model": "glm-5.3"
+}

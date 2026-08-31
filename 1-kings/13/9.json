@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Ngokuba ngakho ngaguquliswe igunya ngezwi likaYahwe ukuze kuthiwe: ungadli isinkwa, futhi ungaphuzi amanzi, futhi ungabuyi endleleni oyihambileyo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ngaguquliswe igunya"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "nami"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ngezwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukuze kuthiwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dli"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "isinkwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi unga-"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "phuzi"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi unga-"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "buyi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyihambileyo"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "oyihambileyo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:54:50.728965780Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Yaakob wabona ⟨את⟩ ubuso bukaLavan, bheka, abusasemi kuye njengasezinsukwini ezedlule.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Yaakob"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bukaLavan"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "bukaLavan"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "abusasemi"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "njengasezinsukwini"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ezedlule"
+    }
+  ],
+  "timestamp": "2026-08-31T01:16:48.047529895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 16:26",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi othumela ⟨את⟩ imbuzi yesilisa eya ku-Azazeli uzohlambula izingubo zakhe, futhi ageze ⟨את⟩ umzimba wakhe emanzini, futhi ngemva kwalokho ungangena enkampini.",
+  "tokens": [
+    {
+      "surface": "והמשלח",
+      "gloss": "Futhi othumela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imbuzi yesilisa"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "imbuzi yesilisa"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "eya ku-Azazeli"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "uzohlambula"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "izingubo zakhe"
+    },
+    {
+      "surface": "ורחץ",
+      "gloss": "futhi ageze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umzimba wakhe"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "umzimba wakhe"
+    },
+    {
+      "surface": "במים",
+      "gloss": "emanzini"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "futhi ngemva"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kwalo-kho"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ungangena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "nkampini"
+    }
+  ],
+  "timestamp": "2026-08-31T02:00:23.924700507Z",
+  "model": "glm-5.3"
+}

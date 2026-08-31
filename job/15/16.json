@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 15:16",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Ngingakanani-ke ukuthi umuntu oyindekile futhi ongcolile, oyaphuza ububi njengamanzi!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Ngingakanani-ke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "oyindekile"
+    },
+    {
+      "surface": "ונאלח",
+      "gloss": "futhi ongcolile"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "oyaphuza"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "njengamanzi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ububi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:16:33.264214494Z",
+  "model": "glm-5.3"
+}

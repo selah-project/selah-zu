@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Kwaselekudlule insuku ezingu-7, amanzi omkhululo wezwakala phezu komhlaba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwaselekudlule"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ezingu-7"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "insuku"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "omkhululo"
+    },
+    {
+      "surface": "היו",
+      "gloss": "wezwakala"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "komhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T11:39:14.675265547Z",
+  "model": "glm-5.3"
+}

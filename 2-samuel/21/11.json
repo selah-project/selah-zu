@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Kwadluliselwa kuDavide ⟨את⟩ lokhu okwenzile uRitspa indodakazi ka-Aya, umfazi wesibili kaShawuli.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kwadluliselwa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokhu okwenzile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "okwenzile"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "uRitspa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ka-Aya"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "umfazi wesibili"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "kaShawuli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:43:00.210691511Z",
+  "model": "glm-5.3"
+}

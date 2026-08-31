@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Kude kumabi ukusindiswa, ngoba izimiso zakho abazifuni.",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "Kude"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "kumabi"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "ukusindiswa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "izimiso zakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "abazifuni"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:28.211206898Z",
+  "model": "glm-5.3"
+}

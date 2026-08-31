@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi manje hamba, mina ngizoba nawe emlonyeni wakho, futhi ngizokufundisa okuzokukhuluma.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "futhi manje"
+    },
+    {
+      "surface": "לך",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ngizoba"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "emlonyeni wakho"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "ngizokufundisa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okuzokukhuluma"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "ukhuluma"
+    }
+  ],
+  "timestamp": "2026-08-31T01:28:38.487151814Z",
+  "model": "glm-5.3"
+}

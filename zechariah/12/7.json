@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 12:7",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi uYahwe uzosindisa ⟨את⟩ amatende kaYuda kuqala, ukuze inkazimulo yendlu kaDavide nenkazimulo yomhlali weYerushalayimi ingakhuli ngaphezu kaYuda.",
+  "tokens": [
+    {
+      "surface": "והושיע",
+      "gloss": "uzosindisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatende kaYuda"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "amatende"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kaYuda"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "kuqala"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "לא",
+      "gloss": "inga-"
+    },
+    {
+      "surface": "תגדל",
+      "gloss": "khuli"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "inkazimulo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "yendlu"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "nenkazimulo"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "yomhlali"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "weYerushalayimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kaYuda"
+    }
+  ],
+  "timestamp": "2026-08-31T05:44:37.093628958Z",
+  "model": "glm-5.3"
+}

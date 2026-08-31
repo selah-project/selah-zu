@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 6:25",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Laba indlala enkulu eSamerina, futhi ngablona besizela kuyona, kuze kubeyinkathi yokuqala inhloko yomisebe yengulube ibiswa ngesilivere esingamashumi asishiyagalombili, nelikota eline likabhu yesiqa sezinyoni ezimhlophe ngesisilivere esihlanu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "laba"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ndlala"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "enkulu"
+    },
+    {
+      "surface": "בשמרון",
+      "gloss": "eSamerina"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "futhi ngablona"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "besizela"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kuyona"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "היות",
+      "gloss": "kubeyinkathi"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "inhloko"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "yengulube"
+    },
+    {
+      "surface": "בשמנים",
+      "gloss": "ngesilivere esingamashumi asishiyagalombili"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "⟨isilivere⟩"
+    },
+    {
+      "surface": "ורבע",
+      "gloss": "nelikota eline"
+    },
+    {
+      "surface": "הקב",
+      "gloss": "likabhu"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "yesiqa sezinyoni ezimhlophe"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "⟨zezinyoni ezimhlophe⟩"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "ngesisilivere esihlanu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "⟨isilivere⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T06:07:34.101453711Z",
+  "model": "glm-5.3"
+}

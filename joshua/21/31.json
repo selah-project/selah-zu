@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 21:31",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "⟨את⟩ iKhelkathi no-⟨את⟩ izinkundla zayo, no-⟨את⟩ iRekhobi no-⟨את⟩ izinkundla zayo — izinduna ezine.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKhelkathi"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "iKhelkathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "izinkundla zayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "izinkundla zayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "iRekhobi"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "iRekhobi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "izinkundla zayo"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "izinkundla zayo"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "izinduna"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ezine"
+    }
+  ],
+  "timestamp": "2026-08-31T02:58:25.790121224Z",
+  "model": "glm-5.3"
+}

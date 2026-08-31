@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 33:10",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Bonke abantu babona ⟨את⟩ umsambo wefu umile emnyango wetende, bonke abantu basukuma, bamukela ngokuthobe, yilowo ntilo emnyango wetende lakhe.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "babona"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umsambo wefu"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "umsambo"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "wefu"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "umile"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "wetende"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "basukuma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "bamukela ngokuthobe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yilowo ntilo"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "אהלו",
+      "gloss": "wetende lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:44:57.970856076Z",
+  "model": "glm-5.3"
+}

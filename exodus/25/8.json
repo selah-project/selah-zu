@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi bazongenza ⟨isikhungo esingcwele⟩ ngiNgase kimi, ngiNgase ngihlala phakathi kwabo.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "Futhi bazongenza"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngiNgase kimi"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "isikhungo esingcwele"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "ngiNgase ngihlala"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "phakathi kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:12:23.479978039Z",
+  "model": "glm-5.3"
+}

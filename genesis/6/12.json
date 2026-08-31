@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "uElohim wabona ⟨את⟩ ilizwe, futhi bheka, lona laonakala, ngokuba inyama yonke yayonakalisa ⟨את⟩ indlela yayo ezweni.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilizwe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "futhi bheka"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "laonakala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "yayonakalisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlela yayo"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "indlela yayo"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zweni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:03:32.199503662Z",
+  "model": "glm-5.3"
+}

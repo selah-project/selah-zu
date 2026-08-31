@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 20:24",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Futhi yenza ⟨את⟩ leli zwi: susa amakhosi, owodwa endaweni yakhe, bese ubeka abaphathi esikhundleni sabo.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "leli zwi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "leli zwi"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "yenza"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "susa"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "איש",
+      "gloss": "owodwa"
+    },
+    {
+      "surface": "ממקמו",
+      "gloss": "endaweni yakhe"
+    },
+    {
+      "surface": "ושים",
+      "gloss": "bese ubeka"
+    },
+    {
+      "surface": "פחות",
+      "gloss": "abaphathi"
+    },
+    {
+      "surface": "תחתיהם",
+      "gloss": "esikhundleni sabo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:21:50.363870872Z",
+  "model": "glm-5.3"
+}

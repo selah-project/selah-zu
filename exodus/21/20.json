@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 21:20",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi uma indoda ishaya ⟨את⟩ inkonzi yayo noma ⟨את⟩ ifrijodi yayo ngenduku, yafa ngaphansi kwesandla layo — ngokujeziswa izojeziswa.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "futhi uma"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ishaya"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkonzi yayo"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "inkonzi yayo"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifrijodi yayo"
+    },
+    {
+      "surface": "אמתו",
+      "gloss": "ifrijodi yayo"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ngenduku"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "yafa"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "kwesandla layo"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ngokujeziswa"
+    },
+    {
+      "surface": "ינקם",
+      "gloss": "izojeziswa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:38:02.163694347Z",
+  "model": "glm-5.3"
+}

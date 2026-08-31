@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 11:10",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "uMoshe no-Aharon benza ⟨את⟩ lezi zimangaliso zonke ebusweni bukaParo; uYahwe wasiqinisa ⟨את⟩ inhliziyo kaParo, waze wangabuthathi ⟨את⟩ abantwana bakwa-Israyili ezweni lakhe.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "no-Aharon"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lezi zimangaliso zonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "המפתים",
+      "gloss": "lezi zimangaliso"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ebusweni"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "bukaParo"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "wasiqinisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inhliziyo kaParo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waze wangabuthathi"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "abuthathi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakwa-Israyili"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyili"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "ezweni lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:29:44.771060099Z",
+  "model": "glm-5.3"
+}

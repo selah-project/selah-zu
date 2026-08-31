@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 8:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngingibona amazulu akho, imisebenzi yeminwe yakho, inyanga nezinkanyezi owazungele",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngingi-"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ngibona"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "amazulu akho"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "imisebenzi"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "yeminwe yakho"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "inyanga"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "nezinkanyezi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owazungele"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "owazungele"
+    }
+  ],
+  "timestamp": "2026-08-31T05:46:50.712979625Z",
+  "model": "glm-5.3"
+}

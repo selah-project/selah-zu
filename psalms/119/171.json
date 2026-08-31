@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 171,
+  "ref": "psalms 119:171",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Delela izindebe zami indumiso, ngokuba ungifundisa imithetho yakho.",
+  "tokens": [
+    {
+      "surface": "תבענה",
+      "gloss": "delela"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "izindebe zami"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "indumiso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "תלמדני",
+      "gloss": "ungifundisa"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "imithetho yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:43.028976300Z",
+  "model": "glm-5.3"
+}

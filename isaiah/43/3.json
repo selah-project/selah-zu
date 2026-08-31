@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 43:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "Ngokuba nginguYahwe uElohim wakho, oNgcwele kaIsrayeli, umsindisi wakho; nganikeza iMitsrayim inkimbinkimbi yakho, iKushi neSeba esikhundleni sakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngingu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "oNgcwele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaIsrayeli"
+    },
+    {
+      "surface": "מושיעך",
+      "gloss": "umsindisi wakho"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nganikeza"
+    },
+    {
+      "surface": "כפרך",
+      "gloss": "inkimbinkimbi yakho"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "iKushi"
+    },
+    {
+      "surface": "וסבא",
+      "gloss": "neSeba"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "esikhundleni sakho"
+    }
+  ],
+  "timestamp": "2026-08-31T04:30:59.311129015Z",
+  "model": "glm-5.3"
+}

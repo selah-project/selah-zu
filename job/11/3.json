@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 11:3",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Izikhangiso zakho abantu bacisha umlomo ngazo, wabhahaqa futhi akukho okukudumaza?",
+  "tokens": [
+    {
+      "surface": "בדיך",
+      "gloss": "izikhangiso zakho"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "יחרישו",
+      "gloss": "bacisha umlomo"
+    },
+    {
+      "surface": "ותלעג",
+      "gloss": "wabhahaqa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi-akukho"
+    },
+    {
+      "surface": "מכלם",
+      "gloss": "okukudumaza"
+    }
+  ],
+  "timestamp": "2026-08-31T07:12:20.406629695Z",
+  "model": "glm-5.3"
+}

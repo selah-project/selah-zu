@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi igolide yaleyo ndawo ilungile; lapho khona kune-bdolah negciwane le-shoham.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "futhi igolide"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leyo"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ilungile"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "ibdolah"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "negciwane"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "leshoham"
+    }
+  ],
+  "timestamp": "2026-08-31T01:01:37.215316212Z",
+  "model": "glm-5.3"
+}

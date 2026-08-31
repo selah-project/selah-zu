@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 28:20",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "uYahwe uzothumela kuwena ⟨את⟩ isiqalekiso ⟨את⟩ ukudideka no⟨את⟩ isibekiso, ekudingeni kwazo konke okwelula isandla sakho ukwenza, kuze kuchithwe wena kuze ulahlekelwe ngokushesha ngenxa yokubi kwemisebenzi yakho engishiye ngayo mina.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "uzothumela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiqalekiso"
+    },
+    {
+      "surface": "המארה",
+      "gloss": "isiqalekiso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukudideka"
+    },
+    {
+      "surface": "המהומה",
+      "gloss": "ukudideka"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "isibekiso"
+    },
+    {
+      "surface": "המגערת",
+      "gloss": "isibekiso"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "okwelula isandla"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "sakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kuchithwe"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuze ulahlekelwe"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "ngokushesha"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "yokubi"
+    },
+    {
+      "surface": "רע",
+      "gloss": "kwemisebenzi"
+    },
+    {
+      "surface": "מעלליך",
+      "gloss": "yakwo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engishiye"
+    },
+    {
+      "surface": "עזבתני",
+      "gloss": "ngayo mina"
+    }
+  ],
+  "timestamp": "2026-08-31T02:45:17.562376591Z",
+  "model": "glm-5.3"
+}

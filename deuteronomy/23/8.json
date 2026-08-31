@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Ungazi ndida uMEdomiti, ngokuba yindodana yakho umfowenu ⟨⟨ngu⟩⟩yena; ungazi ndida uMitsri, ngokuba wawungumfokazi ezweni lakhe.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Unga-"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "zi ndida"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "uMEdomiti"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "umfowenu"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "zi ndida"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "uMitsri"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "גר",
+      "gloss": "wawungumfokazi"
+    },
+    {
+      "surface": "היית",
+      "gloss": "wawu-"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "ezweni lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:41:41.919519839Z",
+  "model": "glm-5.3"
+}

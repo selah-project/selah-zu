@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 75:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 75,
+  "translation": "Futhi zonke izinkomo zamadaweni, mina ngizozicheba; izinkomo zalungile ziyoqakathekiswa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Futhi zonke"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "izinkomo zaba-"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "madaweni"
+    },
+    {
+      "surface": "אגדע",
+      "gloss": "mina ngizozicheba"
+    },
+    {
+      "surface": "תרוממנה",
+      "gloss": "ziyoqakathekiswa"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "izinkomo zaba-"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "lungile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:31.517654836Z",
+  "model": "glm-5.3"
+}

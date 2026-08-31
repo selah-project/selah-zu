@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 6:27",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Bobaba laba abakhuluma noParo ⟨njeng⟩inkosi yeMitsrayim, ukukhishwa kwabantwana baka-Israeli ⟨את⟩ eMitsrayim. NguYE ⌊ngu⌋Moshe no-Aharon.",
+  "tokens": [
+    {
+      "surface": "הם",
+      "gloss": "Bobaba"
+    },
+    {
+      "surface": "המדברים",
+      "gloss": "abakhuluma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yeMitsrayim"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "ukukhishwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana baka-Israeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "baka-Israeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "NguYE"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Moshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "no-Aharon"
+    }
+  ],
+  "timestamp": "2026-08-31T01:27:43.721505680Z",
+  "model": "glm-5.3"
+}

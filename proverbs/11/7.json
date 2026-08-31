@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Ngesikhathi umuntu ongalungile ehwa, ithemba lakhe laliyona; futhi uthemba lwamandla laliyona na.",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "ngesikhathi ehwa"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ongalungile"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "laliyona"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "ithemba lakhe"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "futhi uthemba"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "lwamandla"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "laliyona na"
+    }
+  ],
+  "timestamp": "2026-08-31T06:51:31.818410960Z",
+  "model": "glm-5.3"
+}

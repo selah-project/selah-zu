@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "uYahwe wabonakala kuShelomoh okwesibili, njengoba abonakala kuye eGibhoni.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wabonakala"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "okwesibili"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "abonakala"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "eGibhoni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:05:57.914162302Z",
+  "model": "glm-5.3"
+}

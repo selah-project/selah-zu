@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 18:32",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Wakhula ngamatshe i-altare ngegama likaYahwe, wenza umkhombe ojikeleze i-altare, omkhulu kangangokuthwala iziseko ezimbili zembewu.",
+  "tokens": [
+    {
+      "surface": "ויבנה",
+      "gloss": "wakhula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatshe (i-altare)"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ngamatshe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ngegama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "umkhombe"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "kangangokulingana kwe-"
+    },
+    {
+      "surface": "סאתים",
+      "gloss": "iziseko ezimbili"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "zembewu"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ojikeleze"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "i-altare"
+    }
+  ],
+  "timestamp": "2026-08-31T04:00:43.767985942Z",
+  "model": "glm-5.3"
+}

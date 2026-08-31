@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 7:5",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ngesikhathi sokukhishwa kwenkosi yethu, onozana baguliswa yisibani se-wayini; welula isandla sakhe ⟨nowabadlayo⟩ ⟨את⟩ abahlekisi.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "inkosi yethu"
+    },
+    {
+      "surface": "החלו",
+      "gloss": "baguliswa"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "onozana"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "isibani"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "we-wayini"
+    },
+    {
+      "surface": "משך",
+      "gloss": "welula"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahlekisi"
+    },
+    {
+      "surface": "לצצים",
+      "gloss": "abahlekisi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:19.041224816Z",
+  "model": "glm-5.3"
+}

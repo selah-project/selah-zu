@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 108,
+  "translation": "Nisiphe usizo oluchasenē nesihluthulelo; futhi insindiso yomuntu iyize.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Nisiphe"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "usizo"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "esihluthulelweni"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "futhi iyize"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "insindiso"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yomuntu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:03.180431501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 18:8",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "ENaseTibhati naseKhuni, izindawo zikaHadadezeri, uDawidi wathatha insimbi eningi kakhulu; ngayo uShelomo wenza ⟨את⟩ ulwandle lolunsimbi, no⟨את⟩ izingunja, no⟨את⟩ izitsha zensimbi.",
+  "tokens": [
+    {
+      "surface": "ומטבחת",
+      "gloss": "eTibhati"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "naseKhuni"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "izindawo"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "zikaHadadezeri"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "insimbi"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "eningi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ngayo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ulwandle lolunsimbi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "lolunsimbi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izingunja"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "izingunja"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izitsha zensimbi"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "izitsha"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "zensimbi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:26:47.544243010Z",
+  "model": "glm-5.3"
+}

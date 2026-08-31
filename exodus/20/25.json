@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 20:25",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Futhi uma wenza i-altare yamatshe lami, ungayakhhi ⟨את⟩ ngezitshe ezisikwe ngesikhali, ngokuthi uma wenyukunyisa inkimbinkimbi yakho phezu kwazo, uyazenzukalisa.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Futhi uma"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "yamatshe"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wenzel"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungayakhhi"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ungayakhhi"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "izitshe ezisikwe ngesikhali (גזית)"
+    },
+    {
+      "surface": "גזית",
+      "gloss": "izitshe ezisikwe ngesikhali"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "inkimbinkimbi yakho"
+    },
+    {
+      "surface": "הנפת",
+      "gloss": "wenyukunyisa"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "phezu kwazo"
+    },
+    {
+      "surface": "ותחללה",
+      "gloss": "uyazenzukalisa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:35.751327367Z",
+  "model": "glm-5.3"
+}

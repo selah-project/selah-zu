@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "uYahwe, mangaki ongezwe izitha zami! Baningi abavukayo ngaphekwe kwami.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mangaki"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ongeze"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "izitha zami"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "baningi"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "abavukayo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngaphekwe kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T05:46:08.641577168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 27:9",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "UMoshe nabapristi abaLevi bakhuluma ku-Israyeli wonke bathi: Thula ulalele, Israyeli; ngalolu suku usubeyisizwe kuYahwe u-Elohim wakho.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "bakhuluma"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "nabapristi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "abaLevi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israyeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "הסכת",
+      "gloss": "Thula"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ulalele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngalolu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "suku"
+    },
+    {
+      "surface": "נהיית",
+      "gloss": "usubeyisizwe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "u-Elohim wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T02:41:58.759216655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 9:21",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Kodwa lowo othagathe ngandlela-thlele igama likaYahwe washiya ⟨את⟩ izigwegweli zakhe no⟨את⟩ izinkomo zakhe ensimini.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "kodwa lowo o"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "שם",
+      "gloss": "othagathe ngandlela-thlele"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inhliziyo yakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "ויעזב",
+      "gloss": "washiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izigwegweli zakhe"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "izigwegweli zakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "izinkomo zakhe"
+    },
+    {
+      "surface": "מקנהו",
+      "gloss": "izinkomo zakhe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ensimini"
+    }
+  ],
+  "timestamp": "2026-08-31T10:11:53.521407525Z",
+  "model": "glm-5.3"
+}

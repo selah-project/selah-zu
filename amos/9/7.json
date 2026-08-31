@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "amos 9:7",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ana nina njengabantwana bakaKushi kimi, bantwana bakwa-Israyeli? kusho uYahwe. Ana ngangingakhuphuli ⟨את⟩ uIsrayeli ezweni leMitsrayim, nabaFalishti bakwaKafthori, naba-Arama bakwaKiri?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Ana"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "njengabantwana"
+    },
+    {
+      "surface": "כשיים",
+      "gloss": "bakaKushi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kusho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "ana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uIsrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "העליתי",
+      "gloss": "ngangingakhuphuli"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "leMitsrayim"
+    },
+    {
+      "surface": "ופלשתיים",
+      "gloss": "nabaFalishti"
+    },
+    {
+      "surface": "מכפתור",
+      "gloss": "bakwaKafthori"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "naba-Arama"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "bakwaKiri"
+    }
+  ],
+  "timestamp": "2026-08-31T05:34:38.620743160Z",
+  "model": "glm-5.3"
+}

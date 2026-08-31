@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 7:2",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Banikela izinkululele zika-Israyeli, izinhloko zezindlu zoyise ekhaya; yizona izinkululele zezizwe, yilabo ababezimele phezu kwabalandi-ubalo.",
+  "tokens": [
+    {
+      "surface": "ויקריבו",
+      "gloss": "banikela"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "izinkululele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ika-Israyeli"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "izinhloko"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ezindlu"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "zoyise ekhaya"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yizona"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "izinkululele"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "zezizwe"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yilabo"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "ababezimele"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "abalandi-ubalo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:10:19.506241415Z",
+  "model": "glm-5.3"
+}

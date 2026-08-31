@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "ne-⟨את⟩ iChilen ne-⟨את⟩ imigilelo yayo, ⟨את⟩ iDebiri ne-⟨את⟩ imigilelo yayo",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iChilen"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "iChilen"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imigilelo yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "imigilelo yayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iDebiri"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "iDebiri"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "imigilelo yayo"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "imigilelo yayo"
+    }
+  ],
+  "timestamp": "2026-08-31T11:42:06.218209595Z",
+  "model": "glm-5.3"
+}

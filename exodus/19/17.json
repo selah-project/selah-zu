@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "uMoshe wakhishela ⟨את⟩ abantu ukuba baye kuhlangana no-Elohim, baphuma ekampini; bema ngaphansi kwentaba.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "wakhishela"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ukuba baye kuhlangana"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "no-Elohim"
+    },
+    {
+      "surface": "מן",
+      "gloss": "baphuma"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ekampini"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "bema"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "ngaphansi kwe-"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ntaba"
+    }
+  ],
+  "timestamp": "2026-08-31T01:35:00.052899075Z",
+  "model": "glm-5.3"
+}

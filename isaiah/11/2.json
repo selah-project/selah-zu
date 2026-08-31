@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 11:2",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi umoya ka-Yahwe uzolehla phezulu kwakhe, umoya wolwazi nokuqonda, umoya weluleko namandla, umoya wolwazi lokwazi nokwesaba uYahwe.",
+  "tokens": [
+    {
+      "surface": "ונחה",
+      "gloss": "futhi uzolehla"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezulu kwakhe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ka-Yahwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "wolwazi"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "nokuqonda"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "weluleko"
+    },
+    {
+      "surface": "וגבורה",
+      "gloss": "namandla"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "wolwazi lokwazi"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "nokwesaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:20:38.198442341Z",
+  "model": "glm-5.3"
+}

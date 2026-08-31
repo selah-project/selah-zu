@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 2:7",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ngokuthi uYahwe u-Elohim wakho akusisisele konke okwenziwa yisandla sakho; wazi ukuhamba kwakho ⟨את⟩ lesi nankehlakalo elikhulu; le minyaka yamashumi amane uYahwe u-Elohim wakho enawe, awuluthelekile lutho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "u-Elohim wakho"
+    },
+    {
+      "surface": "ברכך",
+      "gloss": "akusisisele"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "okwenziwa"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "yisandla sakho"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "wazi"
+    },
+    {
+      "surface": "לכתך",
+      "gloss": "ukuhamba kwakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lesi nankehlakalo"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "i-nankehlakalo"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "elikhulu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lesi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "amashumi amane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "u-Elohim wakho"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "enawe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a-"
+    },
+    {
+      "surface": "חסרת",
+      "gloss": "uluthelekile"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lutho"
+    }
+  ],
+  "timestamp": "2026-08-31T02:31:02.416240673Z",
+  "model": "glm-5.3"
+}

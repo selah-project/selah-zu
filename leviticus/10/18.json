@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 10:18",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Bheka, igazi layo alangeniswa ngaphakathi endaweni engcwele; wayengayingadla ⟨את⟩ yona endaweni engcwele, njengoba ngakunike wona umyalo.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "הובא",
+      "gloss": "alangeniswa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igazi layo"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "igazi layo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "endaweni engcwele"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "ngaphakathi"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "wayengayingadla"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "wayengayingadla"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yona"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "endaweni engcwele"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ngakunike wona umyalo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:55:30.849663424Z",
+  "model": "glm-5.3"
+}

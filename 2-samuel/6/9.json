@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "uDawidi wesaba ⟨את⟩ uYahwe ngalolo suku, wathi: Isiphahamithi sikaYahwe sizongena kanjani kimi?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wesaba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalosuku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lalolu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "איך",
+      "gloss": "kanjani"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "singangena"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isiphahamithi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "sikaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:34:08.751864045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 10:7",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ngesazisi sakho ⟨ukuthi⟩ angilona umgweni, futhi angekho ⟨omunye⟩ ongakhipha ⟨oyedwa⟩ esandleni sakho.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "דעתך",
+      "gloss": "sasazisi sakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angi-"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "lona umgweni"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi angekho"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "esandleni sakho"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "ongakhipha"
+    }
+  ],
+  "timestamp": "2026-08-31T08:57:02.210438325Z",
+  "model": "glm-5.3"
+}

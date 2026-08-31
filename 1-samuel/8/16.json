@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 8:16",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Futhi ⟨את⟩ izinceku zenu no⟨את⟩ izigqili zakhe no⟨את⟩ insizwa zenu ezinhle no⟨את⟩ izimbongolo zenu uzothatha, azenzele umsebenzi wakhe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "izinceku zenu"
+    },
+    {
+      "surface": "עבדיכם",
+      "gloss": "izinceku zenu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "izigqili zakhe"
+    },
+    {
+      "surface": "שפחותיכם",
+      "gloss": "izigqili zakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "insizwa zenu"
+    },
+    {
+      "surface": "בחוריכם",
+      "gloss": "insizwa zenu"
+    },
+    {
+      "surface": "הטובים",
+      "gloss": "ezinhle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "izimbongolo zenu"
+    },
+    {
+      "surface": "חמוריכם",
+      "gloss": "izimbongolo zenu"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "uzothatha"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "azenzela"
+    },
+    {
+      "surface": "למלאכתו",
+      "gloss": "umsebenzi wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:15:31.360706023Z",
+  "model": "glm-5.3"
+}

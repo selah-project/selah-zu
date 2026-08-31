@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 140:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 140,
+  "translation": "Amalahle azowela ngaphezulu kwabo; abalwe ngemlilo, bengcwale emigodini — baze bangaphakemi.",
+  "tokens": [
+    {
+      "surface": "ימיטו",
+      "gloss": "azowela"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ngaphezulu kwabo"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "amalahle"
+    },
+    {
+      "surface": "באש",
+      "gloss": "emlilweni"
+    },
+    {
+      "surface": "יפלם",
+      "gloss": "abalwe"
+    },
+    {
+      "surface": "במהמרות",
+      "gloss": "emigodini"
+    },
+    {
+      "surface": "בל",
+      "gloss": "baze banga-"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "phakemi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:32.698173342Z",
+  "model": "glm-5.3"
+}

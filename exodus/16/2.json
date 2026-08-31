@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Wonke umhlangano wabantwana bakwa-Israyeli wakhala ngokumelene noMoshe nangu-Aharon esigodini.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "wakhala"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "umhlangano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wabantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokumelene"
+    },
+    {
+      "surface": "משה",
+      "gloss": "noMoshe"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nangu-"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "esigodini"
+    }
+  ],
+  "timestamp": "2026-08-31T01:34:23.714174678Z",
+  "model": "glm-5.3"
+}

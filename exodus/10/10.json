@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 10:10",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Wathi kubo: kube kanjalo uYahwe enani, njengokuba ngizobanithumela nina no⟨את⟩ twana benu; labani, ngokuba okubi kusebusweni benu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "kube"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "enani"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokuba"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ngizobanithumela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "twana benu"
+    },
+    {
+      "surface": "טפכם",
+      "gloss": "twana benu"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "labani"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "kuse"
+    },
+    {
+      "surface": "פניכם",
+      "gloss": "busweni benu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:31:40.951536717Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Indonda ebekile ngesikhathi esingapheli ⟨yomhlaba⟩ ngeke iyancipha, abangcolile ngeke bahlale emhlabeni.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "indonda ebekile ngesikhathi esingapheli"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kagesi esingapheli"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "iyancipha"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "abangcolile"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "bahlale"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:53:05.780223342Z",
+  "model": "glm-5.3"
+}

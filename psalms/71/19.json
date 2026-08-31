@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 71:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 71,
+  "translation": "Futhi ukulunga kwakho, uElohim, kufikelela eziveni; owenza izinto ezinkulu, uElohim, ngubani ofana nawe?",
+  "tokens": [
+    {
+      "surface": "וצדקתך",
+      "gloss": "futhi ukulunga kwakho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufikelela"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "eziveni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "izinto ezinkulu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "ofana nawe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:12.423298013Z",
+  "model": "glm-5.3"
+}

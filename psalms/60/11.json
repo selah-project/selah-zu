@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 60,
+  "translation": "Ngubani ongangiholela edolobheni lemsindo? Ngubani ongangiholela e-Edomu?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ongangiholela"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "lemsindo"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ongangiholela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "e-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Edomu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:06.705479401Z",
+  "model": "glm-5.3"
+}

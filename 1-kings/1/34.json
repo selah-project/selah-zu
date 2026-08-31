@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-kings 1:34",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "uTsadoki umpristi noNathani umprofethi bambhosele ⟨את⟩ lapho ukuba yinkosi phezu kukaIsrayeli; nilalele isikhombisa-mlilo baniithi: Maphila inkosi uShelomoh!",
+  "tokens": [
+    {
+      "surface": "ומשח",
+      "gloss": "bambhosele"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "uShelomoh"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "uTsadoki"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "noNathani"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "umprofethi"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ukuba yinkosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kukaIsrayeli"
+    },
+    {
+      "surface": "ותקעתם",
+      "gloss": "nilalele"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "isikhombisa-mlilo"
+    },
+    {
+      "surface": "ואמרתם",
+      "gloss": "baniithi"
+    },
+    {
+      "surface": "יחי",
+      "gloss": "maphila"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    }
+  ],
+  "timestamp": "2026-08-31T03:46:40.834483415Z",
+  "model": "glm-5.3"
+}

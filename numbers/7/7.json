@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "⟨את⟩ Amawagoni amabili ⟨את⟩ nezinkomo ezine wanikeza amadodana kaGershoni, ngokwenkonzo yabo.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amawagoni amabili"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "amabili"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "amawagoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "izinkomo ezine"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "ezine"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "izinkomo"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "wanikeza"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "kaGershoni"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "ngokwe"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "inkonzo yabo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:10:41.526076568Z",
+  "model": "glm-5.3"
+}

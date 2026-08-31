@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 4:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Uma u-Adonayi eşe ⟨את⟩ inkunkuma yamadodakazi eTsiyoni, futhi alisule ⟨את⟩ igazi leYerushalayimi phakathi kwayo, ngomoya womahlakula nangomoya wokushisa.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "eşe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkunkuma yamadodakazi eTsiyoni"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "inkunkuma"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "yamadodakazi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "eTsiyoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "igazi leYerushalayimi"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "igazi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "leYerushalayimi"
+    },
+    {
+      "surface": "ידיח",
+      "gloss": "alisule"
+    },
+    {
+      "surface": "מקרבה",
+      "gloss": "phakathi kwayo"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "ngomoya"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "womahlakula"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "nangomoya"
+    },
+    {
+      "surface": "בער",
+      "gloss": "wokushisa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:17:39.809173406Z",
+  "model": "glm-5.3"
+}

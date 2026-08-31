@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 77,
+  "translation": "Ingabe u-El ukhohliwe izicelo na? Ngame wazivala ngolaka izihawu zakhe na? Selah.",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "Ingabe ukhohliwe"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "izicelo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ngame"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "wazivala"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ngolaka"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "izihawu zakhe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:44.047390283Z",
+  "model": "glm-5.3"
+}

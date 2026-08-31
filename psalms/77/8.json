@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 77,
+  "translation": "Ngu-Adonayi osoze esikhandayo (enze okungenamkhawulo), yekuthi angasiboni nakanja, ubuhle (umnikelo) ungalibali, nasemandulo evale indlela yamabomu ayo — Ngiyabonga.",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "(enze okungenamkhawulo) osoze"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "esikhandayo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Ngu-Adonayi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yekuthi anga-"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "(umnikelo) ungalibali nakanja"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "ubuhle"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "nasemandulo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:28.926299047Z",
+  "model": "glm-5.3"
+}

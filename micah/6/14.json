@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "micah 6:14",
+  "book": "micah",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Wena uzodla kepha awunaneliseki, nedilika lakho lizoba phakathi kwakho; uzosusa kepha awunamsindisi, nalowo omsindisayo ngizonikeza enkembeni.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "uzodla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kepha awu-"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "naneliseki"
+    },
+    {
+      "surface": "וישחך",
+      "gloss": "nedilika lakho"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "phakathi kwakho"
+    },
+    {
+      "surface": "ותסג",
+      "gloss": "uzosusa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kepha awu-"
+    },
+    {
+      "surface": "תפליט",
+      "gloss": "namsindisi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "nalowo"
+    },
+    {
+      "surface": "תפלט",
+      "gloss": "omsindisayo"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "enkembeni"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ngizonikeza"
+    }
+  ],
+  "timestamp": "2026-08-31T05:37:34.746752915Z",
+  "model": "glm-5.3"
+}

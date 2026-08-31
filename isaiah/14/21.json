@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 14:21",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Lungisani ukwehliswa kwabantwana bakhe ngenxa yobubi bobaba; banganaki ukuvuka baphathe izwe, banganaki ukugcwalisa ubuso bomhlaba wonke ngamadolobha.",
+  "tokens": [
+    {
+      "surface": "הכינו",
+      "gloss": "Lungisani"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "abantwana bakhe"
+    },
+    {
+      "surface": "מטבח",
+      "gloss": "ukwehliswa (izinhlezele)"
+    },
+    {
+      "surface": "בעון",
+      "gloss": "ngenxa yobubi"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "bobaba"
+    },
+    {
+      "surface": "בל",
+      "gloss": "banganaki"
+    },
+    {
+      "surface": "יקמו",
+      "gloss": "ukuvuka"
+    },
+    {
+      "surface": "וירשו",
+      "gloss": "baphathe izwe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "ukugcwalisa"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "omhlaba wonke"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ngamadolobha"
+    }
+  ],
+  "timestamp": "2026-08-31T04:19:38.090026130Z",
+  "model": "glm-5.3"
+}

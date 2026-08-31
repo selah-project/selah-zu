@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngayithi kini: ningabi nobuwoza futhi ningaboyiki ngawo.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ngayithi"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "ningabi nobuwoza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi cha"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "ningaboyiki"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ngawo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:30:05.059791592Z",
+  "model": "glm-5.3"
+}

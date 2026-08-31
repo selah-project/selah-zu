@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 20:5",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Futhi yaba khona impi enye ⟨ne⟩amaPelishtim; wabulala u-Elkhanani indodana kaYaire ⟨את⟩ uLakhumi umfowabo kaGoliyati iGitithi, nduna yetosi yakhe ibifana nomsinga wabathayi.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "futhi yaba khona"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "impi enye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaPelishtim"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaPelishtim"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wabulala"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "u-Elkhanani"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "uYaire"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uLakhumi"
+    },
+    {
+      "surface": "לחמי",
+      "gloss": "uLakhumi"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "umfowabo"
+    },
+    {
+      "surface": "גלית",
+      "gloss": "kaGoliyati"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "iGitithi"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "nduna ye-"
+    },
+    {
+      "surface": "חניתו",
+      "gloss": "tosi yakhe"
+    },
+    {
+      "surface": "כמנור",
+      "gloss": "njengomsinga"
+    },
+    {
+      "surface": "ארגים",
+      "gloss": "wabathayi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:27:11.085326125Z",
+  "model": "glm-5.3"
+}

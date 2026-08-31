@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 18:4",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "UYehonatani wasusa ⟨את⟩ izingubo ezazingaphezulu kwakhe wayinikeza uDavide, kanye nezimpahla zakhe, kanye nenkemba yakhe, kanye nenkunzi yakhe, kanye nebelede yakhe.",
+  "tokens": [
+    {
+      "surface": "ויתפשט",
+      "gloss": "wasusa"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "UYehonatani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingubo ezazingaphezulu kwakhe"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "izingubo ezazingaphezulu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezazi-"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ngaphezulu kwakhe"
+    },
+    {
+      "surface": "ויתנהו",
+      "gloss": "wayinikeza"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ומדיו",
+      "gloss": "nezimpahla zakhe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kanye ne-"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "nkemba yakhe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kanye ne-"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "nkunzi yakhe"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kanye ne-"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "belede yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:24:28.774593961Z",
+  "model": "glm-5.3"
+}

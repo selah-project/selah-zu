@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 37:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Wakha amakherubi amabili egalde, womsebenzi oshayiwe awawakha ⟨את⟩ wona, ezikweni zombili ze-isifihlo-sona.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "Wakha"
+    },
+    {
+      "surface": "שני",
+      "gloss": "amabili"
+    },
+    {
+      "surface": "כרבים",
+      "gloss": "amakherubi"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "egolide"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "womsebenzi oshayiwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "awawakha"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "amakherubi"
+    },
+    {
+      "surface": "משני",
+      "gloss": "ezikweni zombili"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "izikhetho"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "ze-isifihlo-sona"
+    }
+  ],
+  "timestamp": "2026-08-31T01:45:50.479427830Z",
+  "model": "glm-5.3"
+}

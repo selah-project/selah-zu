@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 49:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Ngokuba ubona ukuthi abahlakaniphi bayafa; ndawonye inkunya nomhlwempu bayalahleka, bashiyele abanye ubucebo babo",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ubona ukuthi"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "abahlakaniphi"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "bayafa"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "inkunya"
+    },
+    {
+      "surface": "ובער",
+      "gloss": "nomhlwempu"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "bayalahleka"
+    },
+    {
+      "surface": "ועזבו",
+      "gloss": "bashiyele"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "abanye"
+    },
+    {
+      "surface": "חילם",
+      "gloss": "ubucebo babo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:53.120367329Z",
+  "model": "glm-5.3"
+}

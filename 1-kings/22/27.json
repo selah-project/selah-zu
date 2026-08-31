@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-kings 22:27",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "nithi: Njalo yathile inkosi: Miseni ⟨את⟩ lo muntu endlwini yokungejinwa, nimphuzise isinkwa esicindezelwe namanzi acindezelwe, ngize ngibuyele ngokuthula.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "nithi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yathile"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "miseni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lo muntu"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lo muntu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "הכלא",
+      "gloss": "yokungejinwa"
+    },
+    {
+      "surface": "והאכילהו",
+      "gloss": "nimphuzise"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "isinkwa"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "esicindezelwe"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "namanzi"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "acindezelwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngize"
+    },
+    {
+      "surface": "באי",
+      "gloss": "ngibuyele"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ngokuthula"
+    }
+  ],
+  "timestamp": "2026-08-31T04:02:32.065101883Z",
+  "model": "glm-5.3"
+}

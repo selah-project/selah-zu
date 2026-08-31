@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Thatha ⟨את⟩ amaLevi phakathi kwezinyanya zikaSirayeli, ubahlanze.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Thatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaLevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "amaLevi"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "phakathi kwe-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "izinyanya ze-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Sirayeli"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "ubahlanze"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona (amaLevi)"
+    }
+  ],
+  "timestamp": "2026-08-31T05:59:45.005125878Z",
+  "model": "glm-5.3"
+}

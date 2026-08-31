@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 90,
+  "translation": "Ngokuba inkulungwane yeminyaka emehlweni akho injengosuku osizolo esedlulile, njengesabelo sokuphaphama ebusuku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "inkulungwane"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "yeminyaka"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "emehlweni akho"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "njengosuku"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "osizolo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ese"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "edlulile"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "njengesabelo sokuphaphama"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ebusiku"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:58.497716330Z",
+  "model": "glm-5.3"
+}

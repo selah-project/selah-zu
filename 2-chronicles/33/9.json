@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 33:9",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "UMenashhe wamangaza uYehuda nabaholi beYerushalayimi ukwenza okubi ngaphezu kwezizwe ezazingu ⟨את⟩ uYahwe azazichithile phambi kwezinkulwane zika-Israyeli.",
+  "tokens": [
+    {
+      "surface": "ויתע",
+      "gloss": "wamangaza"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "UMenashhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYehuda"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehuda"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "nabaholi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "beYerushalayimi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngaphezu kwe"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezazingu"
+    },
+    {
+      "surface": "השמיד",
+      "gloss": "azazichithile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "wezinkulwane"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zika-Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T08:44:18.481563658Z",
+  "model": "glm-5.3"
+}

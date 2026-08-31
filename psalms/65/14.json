@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 65:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 65,
+  "translation": "Amadlelo agqokiswe izimvu, futhi izingcedu zibonakaliswa ⟨ngolimo⟩; zikhala zidansaza, ewe, zicula.",
+  "tokens": [
+    {
+      "surface": "לבשו",
+      "gloss": "agqokiswe"
+    },
+    {
+      "surface": "כרים",
+      "gloss": "amadlelo"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "izimvu"
+    },
+    {
+      "surface": "ועמקים",
+      "gloss": "izingcedu"
+    },
+    {
+      "surface": "יעטפו",
+      "gloss": "zibonakaliswa"
+    },
+    {
+      "surface": "בר",
+      "gloss": "⟨ngolimo⟩"
+    },
+    {
+      "surface": "יתרועעו",
+      "gloss": "zikhala zidansaza"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ewe"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "zicula"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:29.647929614Z",
+  "model": "glm-5.3"
+}

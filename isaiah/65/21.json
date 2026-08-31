@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 65:21",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 65,
+  "translation": "Futhi bazokhela izindlu baze bahlale kuzo, bahlalele bathole izivandelwandi, badle izithelo zazo.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "bazokhela izindlu"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "izindlu"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "bahlale"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "bathole izivandelwandi"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "izivandelwandi"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "badle"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "izithelo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:37:49.997163541Z",
+  "model": "glm-5.3"
+}

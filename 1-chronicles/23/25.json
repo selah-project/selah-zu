@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 23:25",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Ngokuba uDawidi wathi, uYahwe uElohim kaYisrayeli unike abantu bakhe ukuphumula, futhi uhlale eYerushalayimi kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "unike ukuphumula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayeli"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "futhi uhlale"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T08:28:16.533817560Z",
+  "model": "glm-5.3"
+}

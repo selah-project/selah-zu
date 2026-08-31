@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "U-Chanoki wahamba eduze no-Elohim, wasala engasekho, ngokuba uElohim wamthatha.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "u-Chanoki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Elohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "wasala engasekho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wamthatha"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (u-Chanoki)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:56.777568911Z",
+  "model": "glm-5.3"
+}

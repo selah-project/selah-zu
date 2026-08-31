@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 36:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Kwasekuthi uElyakimu indodana kaKhilkiyahu owayephethe indlu, noShebna umbhali, noJowahi indodana kaAsafi owayengumkhumbi, baphuma bambele kuye.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "baphuma"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "bambele kuye"
+    },
+    {
+      "surface": "אליקים",
+      "gloss": "uElyakimu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "חלקיהו",
+      "gloss": "Khilkiyahu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "על",
+      "gloss": "wayephethe"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "ושבנא",
+      "gloss": "noShebna"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "umbhali"
+    },
+    {
+      "surface": "ויואח",
+      "gloss": "noJowahi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Asafi"
+    },
+    {
+      "surface": "המזכיר",
+      "gloss": "owayengumkhumbi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:28:06.620639331Z",
+  "model": "glm-5.3"
+}

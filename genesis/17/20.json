@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 17:20",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Futhi ngeYishmaeli ngiyakuzwile; bheka, ngimbusisile ⟨את⟩ yena, futhi ngizakumnikeza ukukhula ⟨את⟩ yena, futhi ngizakumandla kakhulu kakhulu ⟨את⟩ yena; uzabelela abaholi abayishumi nambili, futhi ngizakumnikeza abantu abakhulu.",
+  "tokens": [
+    {
+      "surface": "ולישמעאל",
+      "gloss": "Futhi ngeYishmaeli"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "ngiyakuzwile"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "ngimbusisile"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "uYishmaeli"
+    },
+    {
+      "surface": "והפריתי",
+      "gloss": "futhi ngizakumnikeza ukukhula"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "uYishmaeli"
+    },
+    {
+      "surface": "והרביתי",
+      "gloss": "futhi ngizakumandla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "uYishmaeli"
+    },
+    {
+      "surface": "במאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "abayi-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "shumi nambili"
+    },
+    {
+      "surface": "נשיאם",
+      "gloss": "abaholi"
+    },
+    {
+      "surface": "יוליד",
+      "gloss": "uzabelela"
+    },
+    {
+      "surface": "ונתתיו",
+      "gloss": "futhi ngizakumnikeza"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "abakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:07:39.642323410Z",
+  "model": "glm-5.3"
+}

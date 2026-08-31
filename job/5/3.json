@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 5:3",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Mina ngibonile umhlanya emsukela izimpande, bengibethela isiqalekiso indlu yakhe masinyane.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ngibonile"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "umhlanya"
+    },
+    {
+      "surface": "משריש",
+      "gloss": "emsukela izimpande"
+    },
+    {
+      "surface": "ואקוב",
+      "gloss": "bengibethela isiqalekiso"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "indlu yakhe"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "masinyane"
+    }
+  ],
+  "timestamp": "2026-08-31T07:06:05.715959291Z",
+  "model": "glm-5.3"
+}

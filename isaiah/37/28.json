@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 37:28",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Futhi ukuhlala kwakho, nokuphuma kwakho, nokungena kwakho, ngikwazile; futhi ⟨את⟩ ukuzukuziswa kwakho ngami.",
+  "tokens": [
+    {
+      "surface": "ושבתך",
+      "gloss": "Futhi ukuhlala kwakho"
+    },
+    {
+      "surface": "וצאתך",
+      "gloss": "nokuphuma kwakho"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "nokungena kwakho"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ngikwazile"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ukuzukuziswa kwakho"
+    },
+    {
+      "surface": "התרגזך",
+      "gloss": "ukuzukuziswa kwakho"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ngami"
+    }
+  ],
+  "timestamp": "2026-08-31T04:28:20.397340267Z",
+  "model": "glm-5.3"
+}

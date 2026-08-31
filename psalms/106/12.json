@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Bakholwa ezintweni zakhe ezikhulunywayo, bayimbula indumiso yakhe.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "bakholwa"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "ezintweni zakhe ezikhulunywayo"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "bayimbula"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "indumiso yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:42.674906386Z",
+  "model": "glm-5.3"
+}

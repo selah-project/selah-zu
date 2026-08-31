@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Yaze yazala indodana; wabiza ⟨את⟩ igama lakhe uGershom, ngokuthi wathi: Ngangingumfokazi ezweni langesizwe.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "yazala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama lakhe"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "uGershom"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ngingingumfokazi"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nginging"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "langesizwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:27:00.241490632Z",
+  "model": "glm-5.3"
+}

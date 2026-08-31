@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 132,
+  "translation": "Uma ngingeni etendeni yendlu yami, uma ngingenyuka phezu kwesofa sebheedi yami,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ngingeni"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "etendeni"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "yendlu yami"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ngingenyuka"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "isofa"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "sebheedi yami"
+    }
+  ],
+  "timestamp": "2026-08-31T08:55:06.098128789Z",
+  "model": "glm-5.3"
+}

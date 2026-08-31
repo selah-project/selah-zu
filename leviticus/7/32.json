@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 7:32",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi ⟨את⟩ umlenze wakwesokudla nizonikeza njengomnikelo wokwethula umpristi, ezinikelweni zezinhlaphe zenu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "umlenze wakwesokudla"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "umlenze"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "wakwesokudla"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "nizonikeza"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "njengomnikelo wokwethula"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "מזבחי",
+      "gloss": "ezinikelweni ze-"
+    },
+    {
+      "surface": "שלמיכם",
+      "gloss": "izinhlaphe zenu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:52:21.829344191Z",
+  "model": "glm-5.3"
+}

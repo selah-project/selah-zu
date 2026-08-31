@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Waphuma umlilo phambi kukaYahwe, wabadla ⟨את⟩ bona, bafa phambi kukaYahwe.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "wabadla"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bona (uNadav no-Abihu)"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "bafa"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:56:13.321372542Z",
+  "model": "glm-5.3"
+}

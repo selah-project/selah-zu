@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 88:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 88,
+  "translation": "Ingabe kubafi wenza izimangaliso, abafi-bavukayo bavuka, bakubonga yini? Selah.",
+  "tokens": [
+    {
+      "surface": "הלמתים",
+      "gloss": "kubafi"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "izimangaliso"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ingabe"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "abafi-bavukayo (izithunzi)"
+    },
+    {
+      "surface": "יוקומו",
+      "gloss": "bavuka"
+    },
+    {
+      "surface": "יודוך",
+      "gloss": "bakubonga"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:54.890982376Z",
+  "model": "glm-5.3"
+}

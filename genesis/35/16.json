@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 35:16",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Then they journeyed from Beth-El, and it came about ⟨there was⟩ still a stretch of land ⟨to cover⟩ before entering Efrata, and Ra'el gave birth, and she had hard labour in her giving birth.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "bahamba"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "kusuka eBeth"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-El"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kusakule"
+    },
+    {
+      "surface": "כברת",
+      "gloss": "isibalo somkhondo"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "omhlabathi"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ukufika"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "eEfrata"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "uRa'el"
+    },
+    {
+      "surface": "ותקש",
+      "gloss": "wayenza nzima"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "ekuzaleni kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:18:19.730100581Z",
+  "model": "glm-5.3"
+}

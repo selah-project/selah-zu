@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 124:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 124,
+  "translation": "Ngaleso sikhathi amanzi abezethu ngokweqisa, umjindela ubengadlula phezu kwanefeshi yethu",
+  "tokens": [
+    {
+      "surface": "אזי",
+      "gloss": "ngaleso sikhathi"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "שטפונו",
+      "gloss": "abezethu ngokweqisa"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "umjindela"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ubengadlula"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "inefeshi yethu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:30.145060880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 1:3",
+  "book": "micah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngokuba bheka, uYahwe uyaphuma endaweni yakhe, wehle, futhi adabule phezu kwezindawo eziphakeme zomhlaba.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uyaphuma"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "endaweni yakhe"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "wehle"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "futhi adabule"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "zindawo eziphakeme"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zomhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:14:38.436863647Z",
+  "model": "glm-5.3"
+}

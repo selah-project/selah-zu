@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 14:30",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi kwakukhona impi phakathi kukaRahabeamu noYarobeamu yonke iminsuku yabo.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "futhi impi"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kwakukhona"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kuka-"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Rahabeamu"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "no-"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Yarobeamu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "iminsuku"
+    }
+  ],
+  "timestamp": "2026-08-31T03:57:45.994121098Z",
+  "model": "glm-5.3"
+}

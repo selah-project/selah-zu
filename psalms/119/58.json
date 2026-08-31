@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "psalms 119:58",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngicele ⟨ubuso bakho⟩ ngenhliziyo yonke; ngihawukele njengenkulumo yakho.",
+  "tokens": [
+    {
+      "surface": "חליתי",
+      "gloss": "ngicele"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngayo yonke"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "ngihawukele"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "njengenkulumo yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:13.124078038Z",
+  "model": "glm-5.3"
+}

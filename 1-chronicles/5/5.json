@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "uMika indodana yakhe, uReajaya indodana yakhe, uBaʽali indodana yakhe;",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "uMika"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "uReajaya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "uBaʽali"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:20:47.894294606Z",
+  "model": "glm-5.3"
+}

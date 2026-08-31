@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Anidli ngokwegazi; anibulali izibhamuza, futhi aniboni ngamafu.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Ani-"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "dli"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngoku-"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "wegazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani-"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "bulali izibhamuza"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi ani-"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "boni ngamafu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:01:21.597193474Z",
+  "model": "glm-5.3"
+}

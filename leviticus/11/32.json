@@ -1,0 +1,125 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 11:32",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi noma yini eyiwa kuyo enye yazo ekufeni wayo, iyoba ngcolileyo — noma yimuphi umshini womuthi, noma ingubo, noma isikhumba, noma iseki; noma yimuphi umshini owenziwa ngawo umsebenzi, ufakwa emanzini, uyezeba kuze kufike ntambama, bese uyahlanzekileka.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Futhi noma yini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eyiwa kuyo"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "eyiwa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "enye yazo"
+    },
+    {
+      "surface": "במתם",
+      "gloss": "ekufeni wayo"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "iyoba ngcolileyo"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "noma yimuphi"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "umshini"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "womuthi"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ingubo"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "עור",
+      "gloss": "isikhumba"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "שק",
+      "gloss": "iseki"
+    },
+    {
+      "surface": "כל",
+      "gloss": "noma yimuphi"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "umshini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owenziwa ngawo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "wenziwa"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ngawo"
+    },
+    {
+      "surface": "במים",
+      "gloss": "emanzi"
+    },
+    {
+      "surface": "יובא",
+      "gloss": "ufakwa"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "uyezeba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kufike"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ntambama"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "bese uyahlanzekileka"
+    }
+  ],
+  "timestamp": "2026-08-31T01:55:06.408509547Z",
+  "model": "glm-5.3"
+}

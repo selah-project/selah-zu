@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 25:6",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi kuzothi omkhululi oyedwa azalwayo avuke esibizweni sosibhodakazi wakhe ofileyo, ukuze igama lakhe lingasuswa kuSirayeli.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Futhi kuzothi"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "omkhululi oyedwa azalwayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨onye⟩"
+    },
+    {
+      "surface": "תלד",
+      "gloss": "azalwayo"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "avuke"
+    },
+    {
+      "surface": "על",
+      "gloss": "esibizweni"
+    },
+    {
+      "surface": "שם",
+      "gloss": "sibizo"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "osibhodakazi wakhe"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ofileyo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ukuze linga-"
+    },
+    {
+      "surface": "ימחה",
+      "gloss": "lingasuswa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "kuSirayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T02:42:48.710568554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 13:3",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Ngakho-ke bazakuba njengesifu sekuseni, najengomhwambedo wasekuseni oya; njengohlaza oluthwanywa emhlabathini wokuqinisa, najengomsi ophuma esibayeni.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bazakuba"
+    },
+    {
+      "surface": "כענן",
+      "gloss": "njengesifu"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "sekuseni"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "najengomhwambedo"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "wasekuseni"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "oya"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "njengohlaza"
+    },
+    {
+      "surface": "יסער",
+      "gloss": "oluthwanywa"
+    },
+    {
+      "surface": "מגרן",
+      "gloss": "emhlabathini wokuqinisa"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "najengomsi"
+    },
+    {
+      "surface": "מארבה",
+      "gloss": "ophuma esibayeni"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:35.360400953Z",
+  "model": "glm-5.3"
+}

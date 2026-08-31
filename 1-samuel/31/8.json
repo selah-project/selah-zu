@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 31:8",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Kwaba yilanga elilandelayo, amaFilisti afika ukuziphanga ⟨את⟩ abafiweyo, athola ⟨את⟩ uShawuli ⟨את⟩ noonyana bakhe abathathu bewise entabeni iGilibhoa.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwaba"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "yilanga elilandelayo"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "afika"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaFilisti"
+    },
+    {
+      "surface": "לפשט",
+      "gloss": "ukuziphanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abafiweyo"
+    },
+    {
+      "surface": "החללים",
+      "gloss": "abafiweyo"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "athola"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShawuli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ nokwa-",
+      "marks": "noonyana bakhe abathathu"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "abathathu"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "noonyana bakhe"
+    },
+    {
+      "surface": "נפלים",
+      "gloss": "bewise"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "הגלבע",
+      "gloss": "iGilibhoa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:04:31.879052255Z",
+  "model": "glm-5.3"
+}

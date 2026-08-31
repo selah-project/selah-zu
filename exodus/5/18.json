@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 5:18",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Futhi manje hambani, sebenzani; intwala ayizonikezwa kunina, futhi isilinganiso sezitini nizonikeza.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "futhi manje"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "hambani"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "sebenzani"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "futhi intwala"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "zonikezwa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kunina"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "futhi isilinganiso"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "sezitini"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "nizonikeza"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:11.815120866Z",
+  "model": "glm-5.3"
+}

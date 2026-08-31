@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Futhi angeke kube khona umsebenzi owenziwayo yiMitsrayim, ongawenziwa yintloko nomsumpa, yigatsha lomphesheya nomhlanga.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "futhi angeke"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kube khona"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "yiMitsrayim"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ongawenziwa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "yenziwayo"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "intloko"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "nomsumpa"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "yigatsha lomphesheya"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "nomhlanga"
+    }
+  ],
+  "timestamp": "2026-08-31T04:21:59.854850391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Manje-ke, yini engiyilindele, ndosi-Adonayi? Ithemba lami ⟨kuwe⟩ yilo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Manje-ke"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "engiyilindele"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ndosi-Adonayi"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "Ithemba lami"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yilo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:53.569677754Z",
+  "model": "glm-5.3"
+}

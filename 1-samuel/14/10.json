@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 14:10",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi uma bethi ⟨ngalokhu⟩: Nyukelani kithi — ngakho-ke siyenyuka, ngokuba uYahwe ubanikele esandleni sethu; futhi lokhu kuyisibonakaliso kithi.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Futhi uma"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ngalokhu"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "bethi"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "Nyukelani"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "kithi"
+    },
+    {
+      "surface": "ועלינו",
+      "gloss": "futhi siyenyuka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "נתנם",
+      "gloss": "ubanikele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בידנו",
+      "gloss": "esandleni sethu"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "futhi lokhu"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kithi"
+    },
+    {
+      "surface": "האות",
+      "gloss": "isibonakaliso"
+    }
+  ],
+  "timestamp": "2026-08-31T03:21:57.410204787Z",
+  "model": "glm-5.3"
+}

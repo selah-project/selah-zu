@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 106:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Bafisa isifiso endle, futhi bahlola u-El eJeshimoni.",
+  "tokens": [
+    {
+      "surface": "ויתאוו",
+      "gloss": "bafisa"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "isifiso"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "endle"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "bahlola"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "eJeshimoni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:38.431319437Z",
+  "model": "glm-5.3"
+}

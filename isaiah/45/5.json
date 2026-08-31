@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Mina nguYahwe, futhi akekho omunye; ngaphandle kwami akekho uElohim; ngakuxhoma ⟨isibambo sokulwa⟩, futhi awungazi yimi.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi akekho"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "omunye"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ngaphandle kwami"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akekho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "ngakuxhoma"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi awu-"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "ngazi yimi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:32:08.409531014Z",
+  "model": "glm-5.3"
+}

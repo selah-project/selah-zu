@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "UDanye wayebiza ⟨את⟩ igama lendawo lapho uElohim ekhuluma ⟨את⟩ naye khona lapha, iBeyit-Eli.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "wayebiza"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uDanye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igama"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "lendawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ekhuluma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona lapha"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iBeyit"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Eli"
+    }
+  ],
+  "timestamp": "2026-08-31T10:10:49.396721034Z",
+  "model": "glm-5.3"
+}

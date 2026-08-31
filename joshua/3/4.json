@@ -1,0 +1,114 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 3:4",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Kodwa kube kude kumbe amakhulu amabili wezinyawo ngokulinganisa phakathi kwenu nakhona; ningasoni eduze naso, ukuze nazi ⟨את⟩ indlela eniyohamba ngayo, kunalokho enihambile ngayo izolo nomhlola.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "kube kude"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kumbe"
+    },
+    {
+      "surface": "ביניכם",
+      "gloss": "phakathi kwenu"
+    },
+    {
+      "surface": "ובינו",
+      "gloss": "nakhona"
+    },
+    {
+      "surface": "כאלפים",
+      "gloss": "amakhulu amabili"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "wezinyawo"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "ngokulinganisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ningasoni"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "soni eduze"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naso"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "nazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlela"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "eniyohamba"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ngayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kunalokho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "עברתם",
+      "gloss": "enihambile"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endalela"
+    },
+    {
+      "surface": "מתמול",
+      "gloss": "izulu"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "nomhlola"
+    }
+  ],
+  "timestamp": "2026-08-31T02:49:57.221529632Z",
+  "model": "glm-5.3"
+}

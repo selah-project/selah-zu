@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 66,
+  "translation": "Zizani, nizwe, bonke abamesabayo uElohim, ngizonitshekela lokhu enakwenza umphefumulo wami.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "zizani"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "nizwe"
+    },
+    {
+      "surface": "ואספרה",
+      "gloss": "ngizonitshekela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "abamesabayo"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "enakwenza"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "umphefumulo wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:17.769807253Z",
+  "model": "glm-5.3"
+}

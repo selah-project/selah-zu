@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 95:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 95,
+  "translation": "Iminyaka engamashumi amane ngidikile ngalesi sizukulwane, ngathi: yisizwe esidukela enhliziyweni yaso; futhi bona awazi izindlela zami.",
+  "tokens": [
+    {
+      "surface": "ארבעים",
+      "gloss": "amashumi amane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "אקוט",
+      "gloss": "ngidikile"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "ngalesi sizukulwane"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ngathi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "yisizwe"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "esidukela"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "enhliziyweni yaso"
+    },
+    {
+      "surface": "הם",
+      "gloss": "yibo"
+    },
+    {
+      "surface": "והם",
+      "gloss": "futhi bona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awazi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "azi"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "izindlela zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:17.439077901Z",
+  "model": "glm-5.3"
+}

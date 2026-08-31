@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-kings 11:42",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Izinsuku uShelomoh abusa ngazo eYerushalayimi phezu kakoke uIsrayeli zazingamashumi amane.",
+  "tokens": [
+    {
+      "surface": "והימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezabuswa ngazo"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "abusa"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kuka"
+    },
+    {
+      "surface": "כל",
+      "gloss": "koke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "amashumi amane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    }
+  ],
+  "timestamp": "2026-08-31T03:54:42.538256236Z",
+  "model": "glm-5.3"
+}

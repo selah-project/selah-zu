@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 7:7",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi uNoach wangena nabantwana bakhe nomkakhe nabafazi babantwana bakhe ⟨את⟩ ⟨naye⟩ esikebheni, ngobunzima bamanzi omkhululi.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Futhi wangena"
+    },
+    {
+      "surface": "נח",
+      "gloss": "uNoach"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "nabantwana bakhe"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "nomkakhe"
+    },
+    {
+      "surface": "ונשי",
+      "gloss": "nabafazi"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "babantwana bakhe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "naye (uNoach)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "esikebheni"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "esikebheni"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngobunzima"
+    },
+    {
+      "surface": "מי",
+      "gloss": "bamanzi"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "omkhululi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:03:29.445478340Z",
+  "model": "glm-5.3"
+}

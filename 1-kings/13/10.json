@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Waya ngenye indlela, futhi abuyanga endleleni ayefike ngayo eBetheli.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ngenye indlela"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "nanye"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi a-"
+    },
+    {
+      "surface": "שב",
+      "gloss": "buyanga"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayefike ngayo"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ayefike"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ngayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Betheli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Betheli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:54:50.729224633Z",
+  "model": "glm-5.3"
+}

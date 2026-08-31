@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 4:4",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "'Uze ungene, uvale ucango ngakho nangabantwana bakho, uthule kuwo wonke lawo matsha; aze agcwele, auhambe naye.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "uze ungene"
+    },
+    {
+      "surface": "וסגרת",
+      "gloss": "uvale"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "ucango"
+    },
+    {
+      "surface": "בעדך",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "nanga-"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "bantwana bakho"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "uthule"
+    },
+    {
+      "surface": "על",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "lawo matsha"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la-"
+    },
+    {
+      "surface": "והמלא",
+      "gloss": "aze agcwele"
+    },
+    {
+      "surface": "תסיעי",
+      "gloss": "auhambe naye"
+    }
+  ],
+  "timestamp": "2026-08-31T04:05:02.320268832Z",
+  "model": "glm-5.3"
+}

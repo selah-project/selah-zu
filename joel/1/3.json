@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joel 1:3",
+  "book": "joel",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngayo nxelani abantwana benu, abantwana benu abantwaneni babo, abantwana babo isizukulwaneni esilandelayo.",
+  "tokens": [
+    {
+      "surface": "עליה",
+      "gloss": "Ngayo"
+    },
+    {
+      "surface": "לבניכם",
+      "gloss": "abantwana benu"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "nxelani"
+    },
+    {
+      "surface": "ובניכם",
+      "gloss": "abantwana benu"
+    },
+    {
+      "surface": "לבניהם",
+      "gloss": "abantwaneni babo"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "abantwana babo"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "isizukulwaneni"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "esilandelayo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:30:08.465809622Z",
+  "model": "glm-5.3"
+}

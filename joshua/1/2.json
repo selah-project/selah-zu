@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 1:2",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "UMoshe, isevidi yami, ufile; manje-ke vuka, wena nako konke lokhu okwabantu, udlule ⟨את⟩ leliYardene, uye elweni enginike yona, ezabantwaneni bakwaSirayeli.",
+  "tokens": [
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "isevidi yami"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ufile"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "manje-ke"
+    },
+    {
+      "surface": "קום",
+      "gloss": "vuka"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "udlule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leliYardene"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "leliYardene"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nako konke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "okwabantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uye e-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "elweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ninike"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yona"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ezabantwaneni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaSirayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T02:51:10.218704019Z",
+  "model": "glm-5.3"
+}

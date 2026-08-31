@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 145:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 145,
+  "translation": "uYahwe uyinkulu, ijabulwa kakhulu, futhi inkulu yakhe ayinaye ukufinyeza.",
+  "tokens": [
+    {
+      "surface": "גדול",
+      "gloss": "uyinkulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ijabulwa kakhulu"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ולגדלתו",
+      "gloss": "futhi inkulu yakhe"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ayinaye"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "ukufinyeza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:45:07.349732085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 5:15",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Bafika abaphathi bantwana bakwaYisraeli, bakhala kuParo, besithi: Kungani wenza kanjalo izigqili zakho?",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "Bafika"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "abaphathi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaYisraeli"
+    },
+    {
+      "surface": "ויצעקו",
+      "gloss": "bakhala"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Paro"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "besithi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kungani"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "לעבדיך",
+      "gloss": "izigqili zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T01:28:27.679549530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Uyibonile, uYahwe; ungabi thule; u-Adonayi, ungabi kude kimi.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "uyibonile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "thule"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "kude"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:57.312324071Z",
+  "model": "glm-5.3"
+}

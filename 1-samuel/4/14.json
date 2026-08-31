@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "u-Eli wezwa ⟨את⟩ izwi lokukhala, wathi, Yini le izwi languquko? Futhi indoda isheshise, yangena, yamtshela u-Eli.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wezwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "u-Eli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi lokukhala"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "lokukhala"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Yini le"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "languquko"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "futhi indoda"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "isheshise"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "yangena"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "yamtshela"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "u-Eli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:16:45.756962268Z",
+  "model": "glm-5.3"
+}

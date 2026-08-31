@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi inkosi nonke abantu besenza isaziyelo phambi kukaYahwe.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "futhi inkosi"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "besenza"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "isaziyelo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:32:55.099147814Z",
+  "model": "glm-5.3"
+}

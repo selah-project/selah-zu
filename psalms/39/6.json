@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 39:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Bheka, ububanzi bothekwane lwesandla uwenzile amanga ami, impilo yami ingenalutho phambi kwakho; ngempela umoya-ongenalutho nguwonke umuntu oqinile emi. Selah.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "טפחות",
+      "gloss": "ububanzi bothekwane lwesandla"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "uwenzile"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "amanga ami"
+    },
+    {
+      "surface": "וחלדי",
+      "gloss": "impilo yami"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "ingenalutho ⟨njengalutho⟩"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "אך",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "כל",
+      "gloss": "uwonke"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "umoya-ongenalutho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "oqinile emi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:53.569354153Z",
+  "model": "glm-5.3"
+}

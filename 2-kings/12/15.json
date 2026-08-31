@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 12:15",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Ngokuba abalenzayo umsebenzi babekunikezona, baza baqinisa ngakho ⟨את⟩ indlu kaYahwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "abalenzayo"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "יתנהו",
+      "gloss": "babekunike"
+    },
+    {
+      "surface": "וחזקו",
+      "gloss": "baza baqinisa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:09:30.556752825Z",
+  "model": "glm-5.3"
+}

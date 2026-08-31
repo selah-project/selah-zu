@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 27:4",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Futhi kuzakuba ekugendweni kwenu ⟨את⟩ iYardeni nizophakamisa ⟨את⟩ lezi matshe enginiyalela ⟨את⟩ nina ngazo namuhla, entabeni i-Eybali, uzogqokisa ⟨את⟩ wonke ngesibhindi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Futhi kuzakuba"
+    },
+    {
+      "surface": "בעברכם",
+      "gloss": "ekugendweni kwenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "iYardeni"
+    },
+    {
+      "surface": "תקימו",
+      "gloss": "nizophakamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lezi matshe"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "lezi matshe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "-niyalela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "i-Eybali"
+    },
+    {
+      "surface": "ושדת",
+      "gloss": "uzogqokisa"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "wonke (amatshe)"
+    },
+    {
+      "surface": "בשיד",
+      "gloss": "ngesibhindi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:43:12.866060865Z",
+  "model": "glm-5.3"
+}

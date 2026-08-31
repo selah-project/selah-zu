@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "exodus 29:40",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Nohulushe lwesituthu esihlanzekileyo oxutywe ngokholo oluqhafunyiwe, ikota ye-hini; nesiphuzo, ikota ye-hini yewayini, yesimvu elilodwa.",
+  "tokens": [
+    {
+      "surface": "ועשרן",
+      "gloss": "nohulushe"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "wesituthu esihlanzekile"
+    },
+    {
+      "surface": "בלול",
+      "gloss": "oxutywe"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ngokholo"
+    },
+    {
+      "surface": "כתית",
+      "gloss": "oluqhafunyiwe"
+    },
+    {
+      "surface": "רבע",
+      "gloss": "ikota"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "ye-hini"
+    },
+    {
+      "surface": "ונסך",
+      "gloss": "nesiphuzo"
+    },
+    {
+      "surface": "רבעית",
+      "gloss": "ikota"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "ye-hini"
+    },
+    {
+      "surface": "יין",
+      "gloss": "yewayini"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "yesimvu"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "elilodwa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:41:30.181680995Z",
+  "model": "glm-5.3"
+}

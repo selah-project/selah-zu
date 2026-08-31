@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 42:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Kungani ucishile umoya wakho, mumphefumulo wami? Futhi kungini uhleka phakathi kwami? Lindele ku-Elohim, ngoba ngizophinda ngimdumise; usindiso lwesoziimvwa zami noku-Elohim wami.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "תשתוחחי",
+      "gloss": "ucishile umoya wakho"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "mumphefumulo wami"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "futhi kungani"
+    },
+    {
+      "surface": "תהמי",
+      "gloss": "uhleka phakathi"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kwami"
+    },
+    {
+      "surface": "הוחילי",
+      "gloss": "lindele"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ku-Elohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ngizophinda"
+    },
+    {
+      "surface": "אודנו",
+      "gloss": "ngimdumise"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "usindiso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "lwesoziimvwa zami"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "noku-Elohim wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:37.835660051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 136,
+  "translation": "Nikela umusa kuYahwe, ngokuba ⟨ungu⟩-uhle, ngokuba ikhesedi yakhe iyaphila kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Nikela umusa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨ungu⟩-uhle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:29.114395462Z",
+  "model": "glm-5.3"
+}

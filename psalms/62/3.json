@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 62:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 62,
+  "translation": "Kuphela yena yindwala yami kanye nesindiso yami, isiphelwane sami esiphakeme; nginganyakaziswa kakhulu.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kuphela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "indwala yami"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "kanye nesindiso yami"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "isiphelwane sami esiphakeme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha (lingaphansi)"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "nginganyakaziswa"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:55.060183238Z",
+  "model": "glm-5.3"
+}

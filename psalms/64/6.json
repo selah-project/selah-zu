@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 64:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 64,
+  "translation": "Bayazenzakelisa encobweni evil; baxoxa ngokufihla izikrwele; bathi, Ngubani ozozi bona?",
+  "tokens": [
+    {
+      "surface": "יחזקו",
+      "gloss": "bayazenzakelisa"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨ezinzaweni zabo⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "encobo"
+    },
+    {
+      "surface": "רע",
+      "gloss": "evil"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "baxoxa"
+    },
+    {
+      "surface": "לטמון",
+      "gloss": "ukufihla"
+    },
+    {
+      "surface": "מוקשים",
+      "gloss": "izikrwele"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ozozi"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨bona⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:07.100661227Z",
+  "model": "glm-5.3"
+}

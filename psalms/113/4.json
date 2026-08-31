@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 113,
+  "translation": "Uphakeme uYahwe ngaphezu kwazo zonke izizwe, inkazimulo yakhe ingaphezu ⟨ kwezulu ⟩.",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "uphakeme"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu kwa-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ingaphezu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "inkazimulo yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:53.663957582Z",
+  "model": "glm-5.3"
+}

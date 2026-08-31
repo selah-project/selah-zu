@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 38:5",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Ngubani obeka izingani zayo, njengoba ⟨wena⟩ uyazi? Noma ngubani odonsela umugqa wokulinganisa phezu kwayo?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "שם",
+      "gloss": "obeka"
+    },
+    {
+      "surface": "ממדיה",
+      "gloss": "izingani zayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "uyazi"
+    },
+    {
+      "surface": "או",
+      "gloss": "Noma"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "odonsela"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "phezu kwayo"
+    },
+    {
+      "surface": "קו",
+      "gloss": "umugqa wokulinganisa"
+    }
+  ],
+  "timestamp": "2026-08-31T07:30:02.267321210Z",
+  "model": "glm-5.3"
+}

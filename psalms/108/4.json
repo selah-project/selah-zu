@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 108:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 108,
+  "translation": "Ngiyakubonga phakathi kwabezizwe, uYahwe, futhi ngiyadumisa phakathi kwamanga amazwe.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ngiyakubonga"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "phakathi kwabezizwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ואזמרך",
+      "gloss": "futhi ngiyadumisa"
+    },
+    {
+      "surface": "בל",
+      "gloss": "phakathi kwamanga"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "amazwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:16.482798365Z",
+  "model": "glm-5.3"
+}

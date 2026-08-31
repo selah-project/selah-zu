@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 136:26",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 136,
+  "translation": "Yibongani iNkosi yezulu — u-El wezulu — ngokuba ikhesedi yakhe miwe kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "yibongani"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "wezulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:02.295477676Z",
+  "model": "glm-5.3"
+}

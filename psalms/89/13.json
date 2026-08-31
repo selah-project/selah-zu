@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 89:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "INyakatho nangesokudla wena uwadale; iTabori neHermoni ngesibongo sakho ziyahlabelela.",
+  "tokens": [
+    {
+      "surface": "צפון",
+      "gloss": "INyakatho"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "nangesokudla"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בראתם",
+      "gloss": "uwadale"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "iTabori"
+    },
+    {
+      "surface": "וחרמון",
+      "gloss": "neHermoni"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ngesibongo sakho"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "ziyahlabelela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:52.866149737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 85:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 85,
+  "translation": "Ukuqoqile konke ukwaza kwakho, usushise ubukhaza bokwasakho.",
+  "tokens": [
+    {
+      "surface": "אספת",
+      "gloss": "Ukuqoqile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "ukwaza kwakho"
+    },
+    {
+      "surface": "השיבות",
+      "gloss": "usushise"
+    },
+    {
+      "surface": "מחרון",
+      "gloss": "ubukhaza"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "bokwasakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:11.006133705Z",
+  "model": "glm-5.3"
+}

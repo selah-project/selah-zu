@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 34:11",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Kodwa emva kwalokho babuyela emuva, baphinde bavimbela izigqila nezigqila ezesifazane ababezikhululele inkululeko, bazibenza izigqila nezigqila ezesifazane kabusha.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "babuyela emuva"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva"
+    },
+    {
+      "surface": "כן",
+      "gloss": " kwalokho"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "baphinde bavimbela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izigqila"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "izigqila"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "izigqila ezesifazane"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "izigqila ezesifazane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ababezikhululele"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": ""
+    },
+    {
+      "surface": "חפשים",
+      "gloss": "inkululeko"
+    },
+    {
+      "surface": "ויכבישום",
+      "gloss": "bazibenza"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "izigqila"
+    },
+    {
+      "surface": "ולשפחות",
+      "gloss": "nezigqila ezesifazane"
+    }
+  ],
+  "timestamp": "2026-08-31T04:53:36.685458190Z",
+  "model": "glm-5.3"
+}

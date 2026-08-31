@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 3:12",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Washo: Ngiyakuba nawe, futhi lokhu kuzakuba yuphawu kuwena ukuthi mina ngikuthumile: ekukhipheni kwakho ⟨את⟩ isizwe eMitsrayim, nizokhonza ⟨את⟩ u-Elohim kule ntaba.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "washo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngiyakuba"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "(ngi)yakuba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "futhi lokhu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwena"
+    },
+    {
+      "surface": "האות",
+      "gloss": "uphawu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "ngikuthumile"
+    },
+    {
+      "surface": "בהוציאך",
+      "gloss": "ekukhipheni kwakho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isizwe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "תעבדון",
+      "gloss": "nizokhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "le ntaba"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-08-31T01:28:09.582787457Z",
+  "model": "glm-5.3"
+}

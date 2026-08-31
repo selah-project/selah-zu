@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 19:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Futhi ngizonikeza ⟨את⟩ iMitsrayim esandleni sezibosi ezinzima; inkosi enamandla izobusa phezu kwabo — kuwusho u-Adonayi, uYahwe wamabutho.",
+  "tokens": [
+    {
+      "surface": "וסכרתי",
+      "gloss": "Futhi ngizonikeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iMitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni sezi-"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "bosi"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "ezinzima"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "inkosi enama-"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ndla"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "izobusa"
+    },
+    {
+      "surface": "בם",
+      "gloss": "phezu kwabo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kuwusho"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamabutho"
+    }
+  ],
+  "timestamp": "2026-08-31T04:22:24.736849043Z",
+  "model": "glm-5.3"
+}

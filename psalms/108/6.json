@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 108,
+  "translation": "Phakamisw̃a, wena u-Elohim, phezu kwamazulu, inkazimulo yakho phezu komhlaba wonke.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "phakamiswa"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "no phezu kwa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "inkazimulo yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:40.997085365Z",
+  "model": "glm-5.3"
+}

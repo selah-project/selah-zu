@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 35:10",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Khuluma ⟨abakaki abayizingoni: kubantwana⟩ benkosi bakwa-Israyeli, uthi kubo: Ngesikhathi nidlula ⟨את⟩ uJordani niye emhlabeni wakwaKhanani",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Khuluma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kubantwana"
+    },
+    {
+      "surface": "בני",
+      "gloss": "bantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uthi kubo"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Ngesikhathi"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "nidlula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uJordani"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "uJordani"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "wakwaKhanani"
+    }
+  ],
+  "timestamp": "2026-08-31T10:16:51.813508194Z",
+  "model": "glm-5.3"
+}

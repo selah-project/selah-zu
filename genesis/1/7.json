@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 1:7",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "uElohim wasenza ⟨את⟩ isibhakabhaka, wasahlukanisa phakathi kwamanzi angaphansi kwesibhakabhaka namanzi aphezulu kwesibhakabhaka; kwaba njalo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wasenza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibhakabhaka"
+    },
+    {
+      "surface": "הרקיע",
+      "gloss": "isibhakabhaka"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "wasahlukanisa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "phansi"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "kwesibhakabhaka"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "naphakathi kwa-"
+    },
+    {
+      "surface": "המים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "kwesibhakabhaka"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:01:47.219385544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 21:16",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi oshumpulayo indoda ayithengisile, lapho itholakala esandleni sakhe — uyabulawa, ubulawa ngempela.",
+  "tokens": [
+    {
+      "surface": "וגנב",
+      "gloss": "Futhi oshumpulayo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "ומכרו",
+      "gloss": "ayithengisile"
+    },
+    {
+      "surface": "ונמצא",
+      "gloss": "itholakala"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "esandleni sakhe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "uyabulawa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ubulawa ngempela"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:13.474551224Z",
+  "model": "glm-5.3"
+}

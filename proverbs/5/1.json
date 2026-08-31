@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 5:1",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Ndodana yami, lalela ⟨ku⟩chazimwendza lami, tenda indlebe yakho kubuhlakani lami;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Ndodana yami"
+    },
+    {
+      "surface": "לחכמתי",
+      "gloss": "chazimwendza lami"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "lalela"
+    },
+    {
+      "surface": "לתבונתי",
+      "gloss": "kubuhlakani lami"
+    },
+    {
+      "surface": "הט",
+      "gloss": "tenda"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "indlebe yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:47:26.505960024Z",
+  "model": "glm-5.3"
+}

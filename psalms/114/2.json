@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 114:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 114,
+  "translation": "iYehudha yaba yingcwele lakhe, iYisraeli ibe yobukhosi bakhe.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "iYehudha"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "yingcwele lakhe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisraeli"
+    },
+    {
+      "surface": "ממשלותיו",
+      "gloss": "yobukhosi bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:25.937655108Z",
+  "model": "glm-5.3"
+}

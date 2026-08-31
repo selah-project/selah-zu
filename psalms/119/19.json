@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Mngesi engilomhlabeni; ungafihli kimi imiyalo yakho.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Mngesi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "lomhlabeni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "fihli"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "imiyalo yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:33.942276951Z",
+  "model": "glm-5.3"
+}

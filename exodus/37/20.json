@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 37:20",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Futhi emenorheni bekunezikomfu ezine ezimshukudwa njengamandeleya, izindilinga zayo nezimbali zayo.",
+  "tokens": [
+    {
+      "surface": "ובמנרה",
+      "gloss": "futhi emenorheni"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ezine"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "izikomfu"
+    },
+    {
+      "surface": "משקדים",
+      "gloss": "ezimshukudwa njengamandeleya"
+    },
+    {
+      "surface": "כפתריה",
+      "gloss": "izindilinga zayo"
+    },
+    {
+      "surface": "ופרחיה",
+      "gloss": "nezimbali zayo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:46:30.224202603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Futhi uzoletha ⟨את⟩ isiphephelo-sono sakhe kuYahwe, ngasemnyango wetenti yokuhlangana, isimvu yesilisa yesiphephelo-sono.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "uzoletha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiphephelo-sono sakhe"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "isiphephelo-sono sakhe"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ngase"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wetenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuhlangana"
+    },
+    {
+      "surface": "איל",
+      "gloss": "isimvu yesilisa"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "yesiphephelo-sono"
+    }
+  ],
+  "timestamp": "2026-08-31T02:01:30.385730997Z",
+  "model": "glm-5.3"
+}

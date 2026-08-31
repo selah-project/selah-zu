@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 1:13",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "IMitsrayim yenza ⟨את⟩ abantwana bakwa-Israel ukuthi basebenze ngobudlova.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "yanza ukuthi basebenze"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana bakwa-Israel"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israel"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "ngobudlova"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:29.484756207Z",
+  "model": "glm-5.3"
+}

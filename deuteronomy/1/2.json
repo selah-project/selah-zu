@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kungamatshanja ayishumi nanye ukusuka eHorebhi, ngendlela yentaba iSeiri, kuze kufike eKadeshi-Barnea.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "a-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ishumi nanye"
+    },
+    {
+      "surface": "יום",
+      "gloss": "amatshanja"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ukusuka eHorebhi"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ngendlela"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yentaba"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "iSeiri"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kufike"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "eKadeshi-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barnea"
+    }
+  ],
+  "timestamp": "2026-08-31T02:30:51.615420112Z",
+  "model": "glm-5.3"
+}

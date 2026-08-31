@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 13:20",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Abathengisi nabathengisi bonsu umhwebo bahlala ebusuku ngaphandle kweYerushalayimi kanye nangesibili.",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "bahlala ebusuku"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "abathengisi"
+    },
+    {
+      "surface": "ומכרי",
+      "gloss": "nabathengisi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonsu"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "umhwebo",
+      "marks": "umhwebo"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "kweYerushalayimi"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "kanye"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "nangesibili"
+    }
+  ],
+  "timestamp": "2026-08-31T11:39:04.283808752Z",
+  "model": "glm-5.3"
+}

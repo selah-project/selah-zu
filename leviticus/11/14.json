@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "no⟨את⟩ iDa'a, no⟨את⟩ iAya ngokwezinhlobo zayo;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iDa'a"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "iDa'a"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "iAya"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "iAya"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ngokwezinhlobo zayo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:53:38.026902926Z",
+  "model": "glm-5.3"
+}

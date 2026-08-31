@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 45:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "U-Yosefu wathi kubazalwane bakhe: NginguYosefu — ngakhaliphi-ke ubaba ephila? Futhi bazalwane bakhe bangenakho ukumphendula ⟨את⟩, ngoba baziswa ukwesaba phambi kwakhe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bazalwane bakhe"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "nguYosefu"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "ngakhaliphi-ke"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubaba"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ephila"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi-cha"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "bangenakho"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "bazalwane bakhe"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "ukumphendula"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (lowo bemphendula)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "נבהלו",
+      "gloss": "baziswa ukwesaba"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "phambi kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:24:33.909824094Z",
+  "model": "glm-5.3"
+}

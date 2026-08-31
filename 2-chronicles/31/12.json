@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 31:12",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Bafaka ngokwethembekileyo izipho, umrabo wokuthi, nezinto ezingcwele ⟨את⟩ izipho; kwaye phezu kwabo wayengundunankulu uKonanyahu, iLevi, nomfowabo uShimeyi, wasecondi.",
+  "tokens": [
+    {
+      "surface": "ויביאו",
+      "gloss": "bafaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izipho"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "izipho"
+    },
+    {
+      "surface": "והמעשר",
+      "gloss": "umrabo"
+    },
+    {
+      "surface": "והקדשים",
+      "gloss": "nezinto ezingcwele"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "ngokwethembekileyo"
+    },
+    {
+      "surface": "ועליהם",
+      "gloss": "phezu kwabo"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "undunankulu"
+    },
+    {
+      "surface": "כונניהו",
+      "gloss": "uKonanyahu"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "iLevi"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "noShimeyi"
+    },
+    {
+      "surface": "אחיהו",
+      "gloss": "umfowabo"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "wasecondi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:44:14.056531044Z",
+  "model": "glm-5.3"
+}

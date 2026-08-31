@@ -1,0 +1,104 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 13:31",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Kwathi ngemuva kokuba esemngcwabile, wakhuluma kumadodana akhe, ethi: Nxa ngifikile ukufa, ningcwaba ⟨את⟩ engcwabeni lapho umuntu ka-Elohim engcwathiwe khona; eduze kwamathambo akhe niyibeka ⟨את⟩ amathambo ami.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ngemuva"
+    },
+    {
+      "surface": "קברו",
+      "gloss": "esemngcwabile"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "amadodana akhe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "במותי",
+      "gloss": "nxa ngifikile ukufa"
+    },
+    {
+      "surface": "וקברתם",
+      "gloss": "ningcwaba"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mina"
+    },
+    {
+      "surface": "בקבר",
+      "gloss": "engcwabeni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ka-Elohim"
+    },
+    {
+      "surface": "קבור",
+      "gloss": "engcwathiwe"
+    },
+    {
+      "surface": "בו",
+      "gloss": "khona"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "eduze"
+    },
+    {
+      "surface": "עצמתיו",
+      "gloss": "kwamathambo akhe"
+    },
+    {
+      "surface": "הניחו",
+      "gloss": "niyibeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amathambo ami"
+    },
+    {
+      "surface": "עצמתי",
+      "gloss": "amathambo ami"
+    }
+  ],
+  "timestamp": "2026-08-31T03:56:13.744521005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "u-Aminadhabhi wazala ⟨את⟩ uNakhshoni, uNakhshoni wazala ⟨את⟩ uSalimoni.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "u-Aminadhabhi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uNakhshoni"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "uNakhshoni"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "uNakhshoni"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uSalimoni"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uSalimoni"
+    }
+  ],
+  "timestamp": "2026-08-31T07:37:58.343345153Z",
+  "model": "glm-5.3"
+}

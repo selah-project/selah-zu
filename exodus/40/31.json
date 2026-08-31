@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 40:31",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Lapho uMoshe no-Aharon namadodana akhe_bega ⟨את⟩ izandla zabo no⟨את⟩ izinyawo zabo kuwo.",
+  "tokens": [
+    {
+      "surface": "ורחצו",
+      "gloss": "begeza"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "no-Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "namadodana akhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izandla zabo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "izandla zabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izinyawo zabo"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "izinyawo zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:57:25.850542730Z",
+  "model": "glm-5.3"
+}

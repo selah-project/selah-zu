@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 41:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Ngiyena, ngokungcola-okuphelele kwami ungisekele, futhi wangimisa phambi kobuso bakho kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ngiyena"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "ngokungcola-okuphelele kwami"
+    },
+    {
+      "surface": "תמכת",
+      "gloss": "ungisekele"
+    },
+    {
+      "surface": "בי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ותציבני",
+      "gloss": "wangimisa"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kobuso bakho"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:45.309985964Z",
+  "model": "glm-5.3"
+}

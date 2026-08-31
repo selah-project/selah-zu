@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 3:7",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Manje uYahwe u-Elohim wami,wena wenzela ukubusa ⟨את⟩ umkhonzi wakho endaweni kaDavide ubaba,mina ngiyingane encane,angazi ukuphuma nangena.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "u-Elohim wami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "wenzela ukubusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umkhonzi wakho"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umkhonzi wakho"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ubaba"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ngiyintsha"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "encane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angi"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "azi"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "ukuphuma"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "nangena"
+    }
+  ],
+  "timestamp": "2026-08-31T03:47:24.514435054Z",
+  "model": "glm-5.3"
+}

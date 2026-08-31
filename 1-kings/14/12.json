@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi wena, vuka, hamba uye endlini yakho; ekungeneni kwezinyawo zakho edolobheni, umntwana uzofa.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "futhi wena"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "vuka"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "hamba"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "ye endlini yakho"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "ekungeneni"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "kwezinyawo zakho"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "futhi uzofa"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "umntwana"
+    }
+  ],
+  "timestamp": "2026-08-31T03:56:45.615791947Z",
+  "model": "glm-5.3"
+}

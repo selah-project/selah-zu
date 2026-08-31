@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 91,
+  "translation": "Kuphela ngamehlo akho uzobuka, umvuzo wababi uzuwubona.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "namehlo akho"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "uzobuka"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "nomvuzo"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "wababi"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "uzuwubona"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:48.567274069Z",
+  "model": "glm-5.3"
+}

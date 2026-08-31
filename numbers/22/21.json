@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "UBilamu wavuka ekuseni, wayezela ibhubesi lakhe, waya nozitsha zikaMowabhu.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wavuka"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "uBilamu"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ekuseni"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "wayezela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibhubesi lakhe"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "ibhubesi lakhe"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ozitsha"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ukaMowabhu"
+    }
+  ],
+  "timestamp": "2026-08-31T05:59:36.072718702Z",
+  "model": "glm-5.3"
+}

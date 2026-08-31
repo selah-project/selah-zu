@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 8:14",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Waledlulela ⟨את⟩ inkunzi yesono; u-Aharoni namadodana akhe bazibeka ⟨את⟩ izandla zabo phezu kwekhanda lenkunzi yesono.",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "waledlulela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkunzi yesono"
+    },
+    {
+      "surface": "פר",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "yesono"
+    },
+    {
+      "surface": "ויסמך",
+      "gloss": "bazibeka"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharoni"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "namadodana akhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izandla zabo"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "izandla zabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ikhanda"
+    },
+    {
+      "surface": "פר",
+      "gloss": "inkunzi"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "yesono"
+    }
+  ],
+  "timestamp": "2026-08-31T01:55:00.753305996Z",
+  "model": "glm-5.3"
+}

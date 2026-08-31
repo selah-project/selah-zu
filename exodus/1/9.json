@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 1:9",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Wayesethi kubantu bakhe: Bhekani, isizwe sabantwana bakwa-Israyeli sininingi futhi simandlela kunesithina.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wayesethi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "bantu bakhe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bhekani"
+    },
+    {
+      "surface": "עם",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana baka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sininingi"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "futhi simandlela"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kunesithina"
+    }
+  ],
+  "timestamp": "2026-08-31T01:25:46.311683223Z",
+  "model": "glm-5.3"
+}

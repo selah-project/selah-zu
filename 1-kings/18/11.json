@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Futhi manje wena usho: Hamba, yisho kwenkosi yakho: Bheka, u-Eliyahu ukhona.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Futhi manje"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "usho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Hamba"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "yisho"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "kwenkosi yakho"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "u-Eliyahu ukhona"
+    }
+  ],
+  "timestamp": "2026-08-31T03:59:39.552245512Z",
+  "model": "glm-5.3"
+}

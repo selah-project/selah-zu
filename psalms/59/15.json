@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 59:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 59,
+  "translation": "Futhi babuyele ebusuku, bemomoka njengenja, bejikeleza umuzi.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Futhi babuyele"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "bemomoka"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "njengenja"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "bejikeleza"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "umuzi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:47.114270607Z",
+  "model": "glm-5.3"
+}

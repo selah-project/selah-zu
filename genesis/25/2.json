@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Wamzalela ⟨את⟩ uZimran no⟨את⟩ uYokshan no⟨את⟩ uMedan no⟨את⟩ uMidiyan no⟨את⟩ uYishbak no⟨את⟩ uShuwa.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "wamzalela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uZimran"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "uZimran"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uYokshan"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "uYokshan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uMedan"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "uMedan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uMidiyan"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "uMidiyan"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uYishbak"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "uYishbak"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uShuwa"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "uShuwa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:13:07.756757290Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Bangikhokha okubi esikhundleni sokuhle, ukulahlekelwa kohlelo lomphefumulo wami.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "Bangikhokha"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "esikhundleni sokuhle"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "sokuhle"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "ukulahlekelwa"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "omphefumulo wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:57.159104163Z",
+  "model": "glm-5.3"
+}

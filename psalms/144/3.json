@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 144,
+  "translation": "uYahwe, umuntu ⟨ungubani⟩ ukuthi umazi, indodana yomuntu owafayo ukuthi umcabangele?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ungubani"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "ukuthi umazi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "yomuntu owafayo"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "ukuthi umcabangele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:43.000372416Z",
+  "model": "glm-5.3"
+}

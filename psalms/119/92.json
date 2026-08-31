@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 92,
+  "ref": "psalms 119:92",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Lokhu ungange yithorah yakho ibe yonwabo lami, ngangizimala ngilele ezinkathazekweni zami.",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "Lokhu ungange"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ithorah yakho"
+    },
+    {
+      "surface": "שעשעי",
+      "gloss": "ibe yonwabo lami"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ngangi"
+    },
+    {
+      "surface": "אבדתי",
+      "gloss": "zimala"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "ngilele ezinkathazekweni zami"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:20.332934500Z",
+  "model": "glm-5.3"
+}

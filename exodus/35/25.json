@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 35:25",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Bonke abesifazane abanobuhlakani bentokozo bazintwala ngezandla zabo, bazaletha intwalo ⟨את⟩ ye-tchelete nayo ⟨את⟩ ye-argamanu, ⟨את⟩ ye-tola'at ha-shani, nayo ⟨את⟩ yamahasha.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "abesifazane"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "abanobuhlakani"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bentokozo"
+    },
+    {
+      "surface": "בידיה",
+      "gloss": "ngezandla zabo"
+    },
+    {
+      "surface": "טוו",
+      "gloss": "bazintwala"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "bazaletha"
+    },
+    {
+      "surface": "מטוה",
+      "gloss": "intwalo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ye-tchelete"
+    },
+    {
+      "surface": "התכלת",
+      "gloss": "ye-tchelete"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nayo ⟨את⟩",
+      "marks": "ye-argamanu"
+    },
+    {
+      "surface": "הארגמן",
+      "gloss": "ye-argamanu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ye-tola'at ha-shani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "ye-tola'at"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ha-shani"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nayo ⟨את⟩",
+      "marks": "yamahasha"
+    },
+    {
+      "surface": "השש",
+      "gloss": "yamahasha"
+    }
+  ],
+  "timestamp": "2026-08-31T01:44:59.350581790Z",
+  "model": "glm-5.3"
+}

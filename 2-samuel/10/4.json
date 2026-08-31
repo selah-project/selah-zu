@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 10:4",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "UHanuni wathatha ⟨את⟩ izinceku zikaDavide, wabhebhethekisa ⟨את⟩ uhhafu wezilevu zabo, wasika ⟨את⟩ izingubo zabo uhhafu, kaze kuzinqindi zawo, wasithuma-ke.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "חנון",
+      "gloss": "UHanuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinceku zikaDavide"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "izinceku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "zikaDavide"
+    },
+    {
+      "surface": "ויגלח",
+      "gloss": "wabhebhethekisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uhhafu wezilevu zabo"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "uhhafu"
+    },
+    {
+      "surface": "זקנם",
+      "gloss": "wezilevu zabo"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "wasika"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingubo zabo"
+    },
+    {
+      "surface": "מדויהם",
+      "gloss": "izingubo zabo"
+    },
+    {
+      "surface": "בחצי",
+      "gloss": "uhhafu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kaze"
+    },
+    {
+      "surface": "שתותיהם",
+      "gloss": "kuzinqindi zawo"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "wasithuma-ke"
+    }
+  ],
+  "timestamp": "2026-08-31T03:35:40.763037832Z",
+  "model": "glm-5.3"
+}

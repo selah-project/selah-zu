@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 30:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "uYahwe, ngokwenzela kwakho okuhle wenza intaba yami yamile ⟨⟨isibindisi⟩⟩; wafihla ubuso bakho, ngaba ngiphusile.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ברצונך",
+      "gloss": "ngokwenzela kwakho okuhle"
+    },
+    {
+      "surface": "העמדתה",
+      "gloss": "wenza... yamile"
+    },
+    {
+      "surface": "להררי",
+      "gloss": "intaba yami"
+    },
+    {
+      "surface": "עז",
+      "gloss": "⟨isibindisi⟩"
+    },
+    {
+      "surface": "הסתרת",
+      "gloss": "wafihla"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ngaba"
+    },
+    {
+      "surface": "נבהל",
+      "gloss": "ngiphusile"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:19.213990145Z",
+  "model": "glm-5.3"
+}

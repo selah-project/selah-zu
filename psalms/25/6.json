@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 25:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Khumbula izinzwelo zakho, uYahwe, nezikhesedi zakho, ngokuba kusukela kudala zona.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "khumbula"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "izinzwelo zakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וחסדיך",
+      "gloss": "nezikhesedi zakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "kusukela kudala"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zona"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:58.116323983Z",
+  "model": "glm-5.3"
+}

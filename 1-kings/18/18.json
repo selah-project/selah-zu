@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 18:18",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Wathi-ke: Angeke ngibe ngiphazamise ⟨את⟩ u-Israel; kodwa wena nomuzi woyihlo, ekushiyeni kwenu ⟨את⟩ imiyalo kaYahwe, nani nehambile emuva kwezimu-Beali.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi-ke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Angeke"
+    },
+    {
+      "surface": "עכרתי",
+      "gloss": "ngiphazamise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Israel"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israel"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "nomuzi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "woyihlo"
+    },
+    {
+      "surface": "בעזבכם",
+      "gloss": "ekushiyeni kwenu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imiyalo"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "imiyalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "nehambile"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emuva kwa-"
+    },
+    {
+      "surface": "הבעלים",
+      "gloss": "izimu-Beali"
+    }
+  ],
+  "timestamp": "2026-08-31T10:21:57.586397271Z",
+  "model": "glm-5.3"
+}

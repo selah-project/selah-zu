@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 34:30",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "U-Aharon nakuso wonke amadodana ka-Israyeli abona ⟨את⟩ uMoshe, futhi bheka, isikhumba sobuso bakhe sasinokukhanya, bamesaba ukusondela kuye.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "abona"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nakuso wonke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israyeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "futhi bheka"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "sasinokukhanya"
+    },
+    {
+      "surface": "עור",
+      "gloss": "isikhumba"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "sobuso bakhe"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "bamesaba"
+    },
+    {
+      "surface": "מגשת",
+      "gloss": "ukusondela"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    }
+  ],
+  "timestamp": "2026-08-31T01:44:09.716995444Z",
+  "model": "glm-5.3"
+}

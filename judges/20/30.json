@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 20:30",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Futhi amadodana kaIsrayeli anyusela abantwana bokuzalwa kabiniyamini ngosuku lwesithathu, baza balungiselela ukulwa kuGibhea, njengokwesikhathi ngasikhathi.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "baza benyuka"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iIsrayeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana baka"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "uBinyamin"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "lwesithathu"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "baza balungiselela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ukulwa ku"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "iGibhea"
+    },
+    {
+      "surface": "כפעם",
+      "gloss": "njengokwesikhathi"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "ngasikhathi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:14:17.509821953Z",
+  "model": "glm-5.3"
+}

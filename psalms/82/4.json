@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 82,
+  "translation": "Sindisani intofwa nomsinga esandleni sezoni nibasindise.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "sindisani"
+    },
+    {
+      "surface": "דל",
+      "gloss": "intofwa"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "nomsinga"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "sezoni"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "nibasindise"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:06.117495007Z",
+  "model": "glm-5.3"
+}

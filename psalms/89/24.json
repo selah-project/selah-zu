@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 89:24",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Futhi ngizobhobhoza phambi kwakhe izitha zakhe, labo bezonda yena bengizobashaya.",
+  "tokens": [
+    {
+      "surface": "וכתותי",
+      "gloss": "futhi ngizobhobhoza"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "izitha zakhe"
+    },
+    {
+      "surface": "ומשנאיו",
+      "gloss": "labo bezonda yena"
+    },
+    {
+      "surface": "אגוף",
+      "gloss": "bengizobashaya"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:13.216331318Z",
+  "model": "glm-5.3"
+}

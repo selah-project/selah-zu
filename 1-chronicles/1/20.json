@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "uYoktani wazala ⟨את⟩ u-Almodadi, ⟨את⟩ noShelefu, ⟨את⟩ noHatsarmavethi, ⟨את⟩ noYerakhi.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "uYoktani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Almodadi"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "u-Almodadi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noShelefu"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "noShelefu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noHatsarmavethi"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "noHatsarmavethi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noYerakhi"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "noYerakhi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:04.539066067Z",
+  "model": "glm-5.3"
+}

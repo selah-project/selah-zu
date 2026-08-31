@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "induna u-Kenazi, induna u-Temani, induna u-Mibtsari.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "induna"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "u-Kenazi"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "induna"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "u-Temani"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "induna"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "u-Mibtsari"
+    }
+  ],
+  "timestamp": "2026-08-31T01:18:57.564316773Z",
+  "model": "glm-5.3"
+}

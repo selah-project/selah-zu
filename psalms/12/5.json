@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 12:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Abo abathi, Nglilimi lethu siyakwenza amandla; izindebe zethu zinthathwe ⟨את⟩ kithina; ngubani ibosi kithina?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "abathi"
+    },
+    {
+      "surface": "ללשננו",
+      "gloss": "nglilimi lethu"
+    },
+    {
+      "surface": "נגביר",
+      "gloss": "siyakwenza amandla"
+    },
+    {
+      "surface": "שפתינו",
+      "gloss": "izindebe zethu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "kithina"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ibosi"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kithina"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:56.469695458Z",
+  "model": "glm-5.3"
+}

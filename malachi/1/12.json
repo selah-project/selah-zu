@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "malachi 1:12",
+  "book": "malachi",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kepha nina niyayonakalisa ⟨את⟩, ekushoni kwenu ukuthi: itafula lika-Adonayi liyachitheka; futhi umkhiqizo waso uyazihlaza ukudla kwaso.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "Kepha nina"
+    },
+    {
+      "surface": "מחללים",
+      "gloss": "niyonakalisa"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "itafula lika-Adonayi"
+    },
+    {
+      "surface": "באמרכם",
+      "gloss": "ekushoni kwenu"
+    },
+    {
+      "surface": "שלחן",
+      "gloss": "itafula"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "lika-Adonayi"
+    },
+    {
+      "surface": "מגאל",
+      "gloss": "liyachitheka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨li⟩"
+    },
+    {
+      "surface": "וניבו",
+      "gloss": "futhi umkhiqizo waso"
+    },
+    {
+      "surface": "נבזה",
+      "gloss": "uyazihlaza"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "ukudla kwaso"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:42.682191621Z",
+  "model": "glm-5.3"
+}

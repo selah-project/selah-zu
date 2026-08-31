@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Kwathi lapho wonke amadoda empinda esephelile ukufa phakathi kwabantu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "esephelile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "empinda"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ukufa"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kwabantu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:29:39.045402966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 14:12",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Ngiyobabetha ngilesifo, ngiyobasusa ezweni, futhi ngiyokwenza wena ⟨את⟩ ube yisizwe esikhulu nesinamandla kunaso.",
+  "tokens": [
+    {
+      "surface": "אכנו",
+      "gloss": "Ngiyobabetha"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ngilesifo"
+    },
+    {
+      "surface": "ואורשנו",
+      "gloss": "ngiyobasusa ezweni"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "futhi ngiyokwenza"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wena",
+      "marks": "isizwe esikhulu"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "yisizwe"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "esikhulu"
+    },
+    {
+      "surface": "ועצום",
+      "gloss": "nesinamandla"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kunaso"
+    }
+  ],
+  "timestamp": "2026-08-31T02:15:26.876999544Z",
+  "model": "glm-5.3"
+}

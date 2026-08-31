@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 86,
+  "translation": "Ngenisa umusa kimi, Nkos' u-Adonayi, ngoba kuwena ngiyabiza ngosuku lonke.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ngenisa umusa kimi"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Nkos' u-Adonayi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwena"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ngiyabiza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngosuku"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:07.337154054Z",
+  "model": "glm-5.3"
+}

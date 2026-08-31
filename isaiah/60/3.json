@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 60:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 60,
+  "translation": "Futhi izizwe zizohamba ekukhanyeni kwakho, namakhosi ebumnyameni bokuphakama kwakho.",
+  "tokens": [
+    {
+      "surface": "והלכו",
+      "gloss": "Futhi zizohamba"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "לאורך",
+      "gloss": "ekukhanyeni kwakho"
+    },
+    {
+      "surface": "ומלכים",
+      "gloss": "namakhosi"
+    },
+    {
+      "surface": "לנגה",
+      "gloss": "ebumnyameni"
+    },
+    {
+      "surface": "זרחך",
+      "gloss": "bokuphakama kwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T04:36:23.743766740Z",
+  "model": "glm-5.3"
+}

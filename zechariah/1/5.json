@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Oobaba benu, baphi ⟨bona⟩? Futhi abaphrofethi, ngokuphila phakade na baphila?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "oobaba benu"
+    },
+    {
+      "surface": "איה",
+      "gloss": "baphi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "futhi abaphrofethi"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "baphila"
+    }
+  ],
+  "timestamp": "2026-08-31T05:41:39.211002696Z",
+  "model": "glm-5.3"
+}

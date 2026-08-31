@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 65:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 65,
+  "translation": "Abahlala emangcwabeni, abalala ezindlini zokukhulekela; adla inyama yengulube, umhluzi wezinto ezingcwele-ngenela awusezitsheni zabo.",
+  "tokens": [
+    {
+      "surface": "הישבים",
+      "gloss": "abahlala"
+    },
+    {
+      "surface": "בקברים",
+      "gloss": "emangcwabeni"
+    },
+    {
+      "surface": "ובנצורים",
+      "gloss": "ezindlini zokukhulekela"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "abalala"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "adla"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "yengulube"
+    },
+    {
+      "surface": "ופרק",
+      "gloss": "umhluzi"
+    },
+    {
+      "surface": "פגלים",
+      "gloss": "wezinto ezingcwele-ngenela"
+    },
+    {
+      "surface": "כליהם",
+      "gloss": "ezitsheni zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:38:19.678723559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 76,
+  "translation": "Ngoba ulaka lomuntu luzokudumisa wena; intsalela yolaka uzoyigqoka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ulaka"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "lomuntu"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "luzokudumisa wena"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "intsalela"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "yolaka"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "uzoyigqoka"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:09.531310417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Lapho kwafika izwi likaYahwe kuYehu indodana kaHanani, mayelana noBaasha, okuthiwa:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwafika"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "uYehu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "kaHanani"
+    },
+    {
+      "surface": "על",
+      "gloss": "mayelana no-"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "uBaasha"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "okuthiwa"
+    }
+  ],
+  "timestamp": "2026-08-31T03:58:35.284500518Z",
+  "model": "glm-5.3"
+}

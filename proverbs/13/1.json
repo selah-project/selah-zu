@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Indodana elwisiwuyise umfundiso, kodwa umhlekisi akanzwa isiyalezo.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "elwisiwuyise (umfundiso)"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "umfundiso"
+    },
+    {
+      "surface": "אב",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "kodwa umhlekisi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aka-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "nzwa"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "isiyalezo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:53:05.385269586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 3:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "isikhuni sabantu abangamashumi amahlanu, nomqokileyo ngobuso, nomeluleki, nolwazi lwabakhiwezi, nonolwazi lokuphephuzela.",
+  "tokens": [
+    {
+      "surface": "שר",
+      "gloss": "isikhuni"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "sabantu abangamashumi amahlanu"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "nomqokileyo"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ngobuso"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "nomeluleki"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "nolwazi"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "lwabakhiwezi"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "nonolwazi"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "lokuphephuzela"
+    }
+  ],
+  "timestamp": "2026-08-31T04:16:39.317798553Z",
+  "model": "glm-5.3"
+}

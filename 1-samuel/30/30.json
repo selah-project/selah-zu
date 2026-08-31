@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Nababalalele ababe ehormahi, nababe ebhora-ashani, nababalalele ababe e-athaki;",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "nababalalele ababe"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "ehormahi"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "nababalalele ababe"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "ebhora"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ashani"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "nababalalele ababe"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "e-athaki"
+    }
+  ],
+  "timestamp": "2026-08-31T06:04:29.368093252Z",
+  "model": "glm-5.3"
+}

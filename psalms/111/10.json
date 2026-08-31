@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 111:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 111,
+  "translation": "Ukwesaba uYahwe ⟨yi⟩ ukuqala kolwazi; bonke abenza (lawo) banohlakanipho oluhle; udumo lwakhe lumi kuze kube ninde.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "ukuqala"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "olwazi"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שכל",
+      "gloss": "uhlakanipho"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "oluhle"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "abenza (lawo)"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "udumo lwakhe"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "lumi"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "kuze kube ninde"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:33.014421461Z",
+  "model": "glm-5.3"
+}

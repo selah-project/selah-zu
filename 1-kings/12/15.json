@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 12:15",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Inkosi yasingeva abantu, ngokuba kwaba nesithakazelo esivela kuYahwe, ukuze asekele ⟨את⟩ izwi lakhe, elalikhulunywe kuYahwe ngesandla sika-Ahiya woShilo kuYarobeamu indodana kaNebati.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "yasingeva"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "yasingeva (ungeva)"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kwi-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "סבה",
+      "gloss": "nesithakazelo"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "esivela ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "asekele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi lakhe"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "izwi lakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ela-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "elalikhulunywe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "sika-Ahiya"
+    },
+    {
+      "surface": "השילני",
+      "gloss": "woShilo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "uYarobeamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "kaNebati"
+    }
+  ],
+  "timestamp": "2026-08-31T06:07:48.855673059Z",
+  "model": "glm-5.3"
+}

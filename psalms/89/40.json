@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 89:40",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Uyikhubekile isivumelwano somphakazi wakho; uye walichaza ilanga labo ⟨kuwo⟩ umhlabathi inzonzobila yalo.",
+  "tokens": [
+    {
+      "surface": "נֵ֭אַרְתָּה",
+      "gloss": "Uyikhubekile"
+    },
+    {
+      "surface": "בְּרִ֣ית",
+      "gloss": "isivumelwano"
+    },
+    {
+      "surface": "עַבְדֶּ֑ךָ",
+      "gloss": "somphakathi wakho"
+    },
+    {
+      "surface": "חִלַּ֖לְתָּ",
+      "gloss": "uye walichaza"
+    },
+    {
+      "surface": "לָאָ֣רֶץ",
+      "gloss": "kuwo umhlabathi"
+    },
+    {
+      "surface": "נִזְרֽוֹ",
+      "gloss": "inzonzobila yalo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:33.093791534Z",
+  "model": "glm-5.3"
+}

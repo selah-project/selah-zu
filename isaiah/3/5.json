@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 3:5",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Abaqiniswa ⟨abantu⟩, owesilisa ngomunye owesilisa, nomunye umuntu ngomakhelwane wakhe; intsha izikhukhumeza elodadewazi, nenhlanganisi eseqophelweni.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "abaqiniswa"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "איש",
+      "gloss": "owesilisa"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "ngomunye owesilisa"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "nomunye umuntu"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "ngomakhelwane wakhe"
+    },
+    {
+      "surface": "ירהבו",
+      "gloss": "izikhukhumeza"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "intsha"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "elodadewazi"
+    },
+    {
+      "surface": "והנקלה",
+      "gloss": "nenhlanganisi"
+    },
+    {
+      "surface": "בנכבד",
+      "gloss": "eseqophelweni"
+    }
+  ],
+  "timestamp": "2026-08-31T04:16:33.744511090Z",
+  "model": "glm-5.3"
+}

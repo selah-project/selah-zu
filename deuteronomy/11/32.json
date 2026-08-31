@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 11:32",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi nizogcina ukwenza ⟨את⟩ zonke izimiso no⟨את⟩ izahlulelo enginizibekela phambi kwenu namuhla.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "nizogcina"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke izimiso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "izimiso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "izahlulelo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "izahlulelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku-"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ngizibekela"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    }
+  ],
+  "timestamp": "2026-08-31T02:35:25.232618179Z",
+  "model": "glm-5.3"
+}

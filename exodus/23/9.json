@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 23:9",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Futhi owelesizwe akumlalazisi; nina niyazi ⟨את⟩ inefeshi yowelesizwe, ngoba nina nanibe ngowelesizwe ezweni laseMitsrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "futhi owelesizwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "תלחץ",
+      "gloss": "uzomlalaza"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "niyazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inefeshi yowelesizwe"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "inefeshi"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "yowelesizwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ngowelesizwe"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "nanibe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:17.794142337Z",
+  "model": "glm-5.3"
+}

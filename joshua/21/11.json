@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 21:11",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Babanika ⟨את⟩ iKiryat-Arba, uyise ka-Anaki — yilona iKhevron, entabeni yakwaYehuda — ⟨את⟩ nendawo yaso eyizungezile.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "babanika"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba-"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKiryat-Arba"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "iKiryat-"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "Arba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "הענוק",
+      "gloss": "ka-Anaki"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yilona"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "iKhevron"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yakwaYehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indawo yaso"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "indawo yaso engaselambili"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "eyizungezile"
+    }
+  ],
+  "timestamp": "2026-08-31T02:58:14.575433772Z",
+  "model": "glm-5.3"
+}

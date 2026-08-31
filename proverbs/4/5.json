@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Thola ukuhlakanipha, thola ukuqonda; ungakhohlwa, ungaphenduki ezimenyweni zomlomo wami.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "thola"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ukuhlakanipha"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "thola"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ukuqonda"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "khohlwa"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi unga-"
+    },
+    {
+      "surface": "תט",
+      "gloss": "phenduki"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "ezimenyweni"
+    },
+    {
+      "surface": "פי",
+      "gloss": "zomlomo wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:47:34.108684085Z",
+  "model": "glm-5.3"
+}

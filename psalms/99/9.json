@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 99:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 99,
+  "translation": "Phakamisani uYahwe uElohim wethu, nibowele enqabeni eyingcwele yakhe, ngokuba uYahwe uElohim wethu ungongcwele.",
+  "tokens": [
+    {
+      "surface": "רוממו",
+      "gloss": "Phakamisani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "nibowele"
+    },
+    {
+      "surface": "להר",
+      "gloss": "enqabeni"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "eyingcwele yakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ungongcwele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:31.493950188Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 36:13",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Waema uRavushake wabeza ngezwi elikhulu ngesiYuda, wathi: Lazwani amagama ⟨את⟩ enkosi enkulu, inkosi yaseAshuru.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "waema"
+    },
+    {
+      "surface": "רב",
+      "gloss": "uRavu-"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "shake"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "wabeza"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ngezwi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "elikhulu"
+    },
+    {
+      "surface": "יהודית",
+      "gloss": "ngesiYuda"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Lazwani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amagama"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "enkosi"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "enkulu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "yaseAshuru"
+    }
+  ],
+  "timestamp": "2026-08-31T04:28:08.608483152Z",
+  "model": "glm-5.3"
+}

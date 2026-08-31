@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "uYahwe uzonamathisela ⟨את⟩ isibetho, kuze kukonakaliswe ⟨את⟩ wena esweni lomhlaba ozungena kuwo ukuwuthatha.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "uzonamathisela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibetho"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "isibetho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "kukonakaliswe"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wena"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "esweni"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "lomhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ungena"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "ukuwuthatha"
+    }
+  ],
+  "timestamp": "2026-08-31T02:44:14.036982680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Ngitholile uDawidi, izinkonzi yami; ngamafutha angcwele ami ngimgcotshile.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "Ngitholile"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "izinkonzi yami"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ngamafutha"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "angcwele ami"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "ngimgcotshile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:13.215790283Z",
+  "model": "glm-5.3"
+}

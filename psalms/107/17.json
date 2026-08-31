@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 107:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Abazenzisi ngenxa yendlela yokweqa kwabo, nangenyezena zabo bayahlushwa.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "abazenzisi"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ngenxa yendlela"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "yokweqa kwabo"
+    },
+    {
+      "surface": "ומעונתיהם",
+      "gloss": "nangenyezena zabo"
+    },
+    {
+      "surface": "יתענו",
+      "gloss": "bayahlushwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:01.164182159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 46,
+  "translation": "uIsrayeli wathi kuYosefu: ngiyofa ngalesi sikhashana, ngemva kokubona ⟨את⟩ ubuso bakho, ngoba usaphila.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "ngiyofa"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "ngalesi sikhashana"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ngemva"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "kokubona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bakho"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "usa"
+    },
+    {
+      "surface": "חי",
+      "gloss": "phila"
+    }
+  ],
+  "timestamp": "2026-08-31T01:24:20.732078636Z",
+  "model": "glm-5.3"
+}

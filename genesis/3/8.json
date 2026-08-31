@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 3:8",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi basezwa ⟨את⟩ izwi likaYahwe uElohim ehamba ensimini emhumeni wosuku, futhi umuntu nomkakhe bazifihla ebusweni bukaYahwe uElohim phakathi kwezithi zensimi.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "basezwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi likaYahwe uElohim"
+    },
+    {
+      "surface": "קול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "מתהלך",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "ensimini"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "emhumeni"
+    },
+    {
+      "surface": "היום",
+      "gloss": "wosuku"
+    },
+    {
+      "surface": "ויתחבא",
+      "gloss": "bazifihla"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "nomkakhe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ebusweni buka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi kwezithi"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ezithini"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "zensimi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:12.062721830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 2:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Uzobaphula ngesikhindi sesintshe; njengesitsha somcumbi uzobachitha phambili.",
+  "tokens": [
+    {
+      "surface": "תרעם",
+      "gloss": "uzobaphula"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ngesikhindi"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "sesintshe"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "njengesitsha"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "somcumbi"
+    },
+    {
+      "surface": "תנפצם",
+      "gloss": "uzobachitha phambili"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:27.197802114Z",
+  "model": "glm-5.3"
+}

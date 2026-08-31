@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 12:16",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "UDavide wacela ⟨את⟩ uElohim ngenxa yomfana; uDavide wazila ukudla, wangena, walala ebusuku, walala phansi emhlabeni.",
+  "tokens": [
+    {
+      "surface": "ויבקש",
+      "gloss": "wacela"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "yomfana"
+    },
+    {
+      "surface": "ויצם",
+      "gloss": "wazila"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "צום",
+      "gloss": "ukudla (ukuzila)"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "wangena"
+    },
+    {
+      "surface": "ולן",
+      "gloss": "walala ebusuku"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "walala phansi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-08-31T03:37:42.353366350Z",
+  "model": "glm-5.3"
+}

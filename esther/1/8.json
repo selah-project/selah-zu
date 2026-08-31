@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 1:8",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi ukunatsha kwakunjengomthetho, akukho okuphoqiweyo, ngoba njalo inkosi yamisela kubonke abaphathi bendlini yayo ukwenza njengokuthanda komuntu nomuntu.",
+  "tokens": [
+    {
+      "surface": "והשתיה",
+      "gloss": "futhi ukunatsha"
+    },
+    {
+      "surface": "כדת",
+      "gloss": "njengomthetho"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "אנס",
+      "gloss": "okuphoqiweyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "yamisela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "רב",
+      "gloss": "abaphathi"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "bendlini yayo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "כרצון",
+      "gloss": "njengokuthanda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "komuntu"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "nomuntu"
+    }
+  ],
+  "timestamp": "2026-08-31T07:52:09.262048894Z",
+  "model": "glm-5.3"
+}

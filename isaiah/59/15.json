@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 59:15",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 59,
+  "translation": "Futhi iqiniso lahlekile, lowo osoke kokubi waba yimpango; futhi uYahwe wabona, kwaba bubu emehlweni akhe ngoba ayikho ukwahlulela.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "futhi lahlekile"
+    },
+    {
+      "surface": "האמת",
+      "gloss": "iqiniso"
+    },
+    {
+      "surface": "נעדרת",
+      "gloss": "elahlekile"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "lowo osoke"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "kokubi"
+    },
+    {
+      "surface": "משתולל",
+      "gloss": "waba yimpango"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "futhi wabona"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וירע",
+      "gloss": "kwaba bubu"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "emehlweni akhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ayikho"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ukwahlulela"
+    }
+  ],
+  "timestamp": "2026-08-31T04:36:42.579932436Z",
+  "model": "glm-5.3"
+}

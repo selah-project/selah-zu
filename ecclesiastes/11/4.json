@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Oqaphela umoya akayi kutshala; futhi obheka amafu akayi kuvuna.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Oqaphela"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "kutshala"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "futhi obheka"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "amafu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "kuvuna"
+    }
+  ],
+  "timestamp": "2026-08-31T07:49:29.778541644Z",
+  "model": "glm-5.3"
+}

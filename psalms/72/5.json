@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 72,
+  "translation": "Bayokwesaba yena kanye nelanga, futhi ngaphambi kwenyanga, isizukulwane sezizukulwane.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "bayokwesaba yena"
+    },
+    {
+      "surface": "עם",
+      "gloss": "kanye ne-"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "elanga"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "futhi ngaphambi kwe-"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "inyanga"
+    },
+    {
+      "surface": "דור",
+      "gloss": "isizukulwane"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "sezizukulwane"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:24.824311078Z",
+  "model": "glm-5.3"
+}

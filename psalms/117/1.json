@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 117,
+  "translation": "Dumisani ⟨את⟩ uYahwe, zwonke izizwe; mukelisani yena, zonke imiphakathi.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumisani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zwonke"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "mukelisani yena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "imiphakathi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:19.959278838Z",
+  "model": "glm-5.3"
+}

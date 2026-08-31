@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 20:5",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Bazothukile bazithoba ngeKushi, ithemba labo, nangeMitsrayim, inkazimulo yabo.",
+  "tokens": [
+    {
+      "surface": "וחתו",
+      "gloss": "bazothukile"
+    },
+    {
+      "surface": "ובשו",
+      "gloss": "bazithoba"
+    },
+    {
+      "surface": "מכוש",
+      "gloss": "ngeKushi"
+    },
+    {
+      "surface": "מבטם",
+      "gloss": "ithemba labo"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "nanga-"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "תפארתם",
+      "gloss": "inkazimulo yabo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:21:10.672409746Z",
+  "model": "glm-5.3"
+}

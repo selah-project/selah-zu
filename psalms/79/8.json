@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 79:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 79,
+  "translation": "Ungakhumbuli izono zethu zangaphambilini; shesha — izihawu zakho ziyasihambisela, ngokuba sitholakele sinciphile kakhulu.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "ukhumbuli"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "zethu"
+    },
+    {
+      "surface": "עונת",
+      "gloss": "izono"
+    },
+    {
+      "surface": "ראשנים",
+      "gloss": "zangaphambilini"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "shesha"
+    },
+    {
+      "surface": "יקדמונו",
+      "gloss": "ziyasihambisela"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "izihawu zakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "דלונו",
+      "gloss": "sitholakele sinciphile"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:53.789466954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 6:6",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ezindaweni zenu zonke izidlala zizonakaliswa, futhi izindawo eziphakeme zizochithwa; ukuze ama-altari enu abe yonakaliswe naye yindawo engenanto, futhi izigcilikazi zenu ziqhekeke zife, futhi izinhlangothi zelanga zenu zisikeke, futhi imisebenzi yenu icimeke.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ezindaweni zenu zonke"
+    },
+    {
+      "surface": "מושבותיכם",
+      "gloss": "izindawo zenu"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "izidlala"
+    },
+    {
+      "surface": "תחרבנה",
+      "gloss": "zizonakaliswa"
+    },
+    {
+      "surface": "והבמות",
+      "gloss": "futhi izindawo eziphakeme"
+    },
+    {
+      "surface": "תישמנה",
+      "gloss": "zizochithwa zibe yindawo engenanto"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "יחרבו",
+      "gloss": "zonakaliswe"
+    },
+    {
+      "surface": "ויאשמו",
+      "gloss": "futhi zibe yindawo engenanto"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "ama-altari enu"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "futhi ziqhekeke"
+    },
+    {
+      "surface": "ונשבתו",
+      "gloss": "futhi zife zicime"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "izigcilikazi zenu"
+    },
+    {
+      "surface": "ונגדעו",
+      "gloss": "futhi zisikeke"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "izinhlangothi zelanga zenu"
+    },
+    {
+      "surface": "ונמחו",
+      "gloss": "futhi zicimeke"
+    },
+    {
+      "surface": "מעשיכם",
+      "gloss": "imisebenzi yenu"
+    }
+  ],
+  "timestamp": "2026-08-31T05:04:52.210646972Z",
+  "model": "glm-5.3"
+}

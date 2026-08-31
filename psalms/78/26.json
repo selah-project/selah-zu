@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 78:26",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Wenza umoya-mpumalanga ahambahamba ezulwini, nangamandla akhe wahola umoya-ningizimu.",
+  "tokens": [
+    {
+      "surface": "יסע",
+      "gloss": "wahambahambisa"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "umoya-mpumalanga"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "וינהג",
+      "gloss": "wahola"
+    },
+    {
+      "surface": "בעזו",
+      "gloss": "ngamandla akhe"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "umoya-ningizimu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:16.187985447Z",
+  "model": "glm-5.3"
+}

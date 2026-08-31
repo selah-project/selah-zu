@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "psalms 89:52",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Okubahlazise ngako izitha zakho, uYahwe, okubahlazise ngako izinyathelo zikaMashiya wakho.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "behlazisa ngako"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "izitha zakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oko"
+    },
+    {
+      "surface": "חרפו",
+      "gloss": "behlazisa ngako"
+    },
+    {
+      "surface": "עקבות",
+      "gloss": "izinyathelo"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "ukaMashiya wakho"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:15.731587080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 8:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "uYahwe, u-Adonayi wethu, makabe mkhulu kangakanani igama lakho ehlabathini lonke, obekwe inkazimulo yakho phezu kwamazulu!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "u-Adonayi wethu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kangakanani"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "makabe mkhulu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ehlabathini lonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ehlabathini lonke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "obekwe"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "obekwe"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "inkazimulo yakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "amazulu"
+    }
+  ],
+  "timestamp": "2026-08-31T05:46:50.712648061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 4:10",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Njengokukhishiwe kwenkuni yomnikelo wokuthula, futhi umpristi uzowasha ngaphezu kwesibankela sokushiswa.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Njengoba"
+    },
+    {
+      "surface": "יורם",
+      "gloss": "okukhishiwe"
+    },
+    {
+      "surface": "משור",
+      "gloss": "kwenkuni"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "yomnikelo"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "wokuthula"
+    },
+    {
+      "surface": "והקטירם",
+      "gloss": "futhi uzowasha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "kwesibankela"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "sokushiswa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:52:00.947508336Z",
+  "model": "glm-5.3"
+}

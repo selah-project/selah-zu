@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 6:3",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Nanenkabini yesithathu kwayizinkunzi ezimhlophe, nanenkabini yesine kwayizinkunzi ezinemibala emincembe, ezinamandla.",
+  "tokens": [
+    {
+      "surface": "ובמרכבה",
+      "gloss": "nanenkabini"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "yesithathu"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "izinkunzi"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "ezimhlophe"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "nanenkabini"
+    },
+    {
+      "surface": "הרבעית",
+      "gloss": "yesine"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "izinkunzi"
+    },
+    {
+      "surface": "ברדים",
+      "gloss": "ezinemibala emincembe"
+    },
+    {
+      "surface": "אמצים",
+      "gloss": "ezinamandla"
+    }
+  ],
+  "timestamp": "2026-08-31T05:42:52.162068295Z",
+  "model": "glm-5.3"
+}

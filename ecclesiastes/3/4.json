@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Isikhathi sokukhala, nesikhathi sokuhleka; isikhathi sokulila abafile, nesikhathi sokugida;",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Isikhathi"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "sokukhala"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nesikhathi"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "sokuhleka"
+    },
+    {
+      "surface": "עת",
+      "gloss": "isikhathi"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "sokulila abafile"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nesikhathi"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "sokugida"
+    }
+  ],
+  "timestamp": "2026-08-31T07:44:31.379761109Z",
+  "model": "glm-5.3"
+}

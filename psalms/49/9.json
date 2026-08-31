@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 49,
+  "translation": "Futhi intengo yimpahla yokukhululwa yemphefumelo yabo iyinkethalo, futhi iyayeka kuze kube phakade",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "futhi iyinkethalo"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "impahla yokukhululwa"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "yemphefumelo yabo"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "futhi iyayeka"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:53.119841241Z",
+  "model": "glm-5.3"
+}

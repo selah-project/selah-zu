@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "UDavide wezwa, wathuma ⟨את⟩ uYowabhi no⟨את⟩ wonke umkhumbi wezigabi.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wezwa"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wathuma"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYowabhi"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "uYowabhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "wonke umkhumbi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "umkhumbi"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "wezigabi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:38:05.078839780Z",
+  "model": "glm-5.3"
+}

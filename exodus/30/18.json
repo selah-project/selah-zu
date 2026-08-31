@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 30:18",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Futhi uzokwenza isikhongozelo sethusi nesiphetho sawo sethusi sokugegezela; uzosibeka ⟨את⟩ phakathi kweitenti yokuhlangana ne-altari, futhi uzofaka khona amanzi.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "futhi uzokwenza"
+    },
+    {
+      "surface": "כיור",
+      "gloss": "isikhongozelo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sethusi"
+    },
+    {
+      "surface": "וכנו",
+      "gloss": "nesiphetho sawo"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "sethusi"
+    },
+    {
+      "surface": "לרחצה",
+      "gloss": "sokugegezela"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "uzosibeka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "isikhongozelo (iso)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwei"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "itenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuhlangana"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ne"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "i-altari"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "futhi uzofaka"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "khona"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:42:05.409456278Z",
+  "model": "glm-5.3"
+}

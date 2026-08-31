@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Kuhle okuncane ngokulunga kunokuningi kwezinkomisho ngaphandle kokulunga.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kuhle"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "okuncane"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "ngokulunga"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "kunokuningi"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "kwezinkomisho"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "kokulunga"
+    }
+  ],
+  "timestamp": "2026-08-31T06:54:01.765945409Z",
+  "model": "glm-5.3"
+}

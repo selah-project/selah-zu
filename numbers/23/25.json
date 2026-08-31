@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "IBalaki wathi kuBhilami: ngisho ukuzibizela ububi ungawubizi, ngisho ukubusisa ungawubusisi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "IBalaki"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "uBhilami"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ngisho"
+    },
+    {
+      "surface": "קב",
+      "gloss": "ukuzibizela ububi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "ungawubizi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ngisho"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "ukubusisa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "ungawubusisi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:21:31.699943235Z",
+  "model": "glm-5.3"
+}

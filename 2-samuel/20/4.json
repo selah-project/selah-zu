@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Inkosi yathi ku-Amasha: Bizela ⟨את⟩ abantu bakaYuda kusukela manje izinsuku ezintathu; wena yima lapha.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Amasha"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "bizela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bakaYuda"
+    },
+    {
+      "surface": "איש",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bakaYuda"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ezintathu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "פה",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "yima"
+    }
+  ],
+  "timestamp": "2026-08-31T03:42:37.082021812Z",
+  "model": "glm-5.3"
+}

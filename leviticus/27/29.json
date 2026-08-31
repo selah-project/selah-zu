@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Konke okunikelwe ngokwedelela okunikelwe phakathi kwabantu, akunakukhululwa ngehlomulo; ngokufa kuzofa.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Konke"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "okunikelwe ngokwedelela (i-herem)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okho"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "okunikelwe ngokwedelela"
+    },
+    {
+      "surface": "מן",
+      "gloss": "phakathi kwa-"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aku-"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "khululwa ngehlomulo"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ngokufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "kuzofa"
+    }
+  ],
+  "timestamp": "2026-08-31T10:14:31.657077816Z",
+  "model": "glm-5.3"
+}

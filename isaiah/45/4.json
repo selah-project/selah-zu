@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 45:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Ngenxa yesigungu sami uYaakobe, noka-Israel okhethekileyo, ngakho ngibizile kuwe ngegama lakho, ngikunike igama lesibongo; kodwa wena awungangingazi.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Ngenxa"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "yesigungu sami"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakobe"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "noka-Israel"
+    },
+    {
+      "surface": "בחירי",
+      "gloss": "okhethekileyo"
+    },
+    {
+      "surface": "ואקרא",
+      "gloss": "ngakho ngibizile"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ngegama lakho"
+    },
+    {
+      "surface": "אכנך",
+      "gloss": "ngikunike igama lesibongo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa awu-"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "ungangingazi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:32:58.603068113Z",
+  "model": "glm-5.3"
+}

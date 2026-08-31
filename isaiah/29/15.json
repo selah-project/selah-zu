@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 29:15",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Masizi labazinzisayo ukufihla icebo kuYahwe, futhi imisebenzi yabo isekumnyameni, bethi: Ngubani osibonayo? futhi ngubani osaziyo?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "masizi"
+    },
+    {
+      "surface": "המעמיקים",
+      "gloss": "labazinzisayo"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "לסתר",
+      "gloss": "ukufihla"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "icebo"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "futhi kuba"
+    },
+    {
+      "surface": "במחשך",
+      "gloss": "ekumnyameni"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "imisebenzi yabo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bethi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "ראנו",
+      "gloss": "osibonayo"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "futhi ngubani"
+    },
+    {
+      "surface": "יודענו",
+      "gloss": "osaziyo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:26:32.690369223Z",
+  "model": "glm-5.3"
+}

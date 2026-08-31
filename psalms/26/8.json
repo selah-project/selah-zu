@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "uYahwe, ngiyithandile indawo yokuhlala yendlu yakho, nendawo yesikhumbuzo sika⟨⟨nkazimulo yakho⟩⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ngiyithandile"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "indawo yokuhlala"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "yendlu yakho"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "nendawo"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "yesikhumbuzo"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "sika⟨nkazimulo yakho⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:55.493606398Z",
+  "model": "glm-5.3"
+}

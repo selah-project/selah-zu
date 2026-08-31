@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ngoba imigomo yezizwe iyize⟨⟩⟨yize⟩: ngoba umuthi kusihlakala bayewukhishile, umsebenzi wezandla zothishi, ngesando.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngoba"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "imigomo"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "yezizwe"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "iyize"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨yona⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "umuthi"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "kusihlakala"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "bayewukhishile"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "wezandla"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "zothishi"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "ngesando"
+    }
+  ],
+  "timestamp": "2026-08-31T04:43:16.862547599Z",
+  "model": "glm-5.3"
+}

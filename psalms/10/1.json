@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Kungani, uYahwe, umi kude, uzifihla ezikhathini zosizi?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Kungani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "umi"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "kude"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "uzifihla"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "ezikhathini"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "zosizi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:15.671998244Z",
+  "model": "glm-5.3"
+}

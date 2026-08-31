@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 15:35",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "uYahwe wathi kuMoshe: lo muntu uzofiswa ukufa; iqembu lonke liyomtshonalisa ⟨את⟩ ngezibhamu, ngaphandle kwesigodlo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ukufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "uzofiswa ukufa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lo muntu"
+    },
+    {
+      "surface": "רגום",
+      "gloss": "liyomtshonalisa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (lo muntu)"
+    },
+    {
+      "surface": "באבנים",
+      "gloss": "ngezibhamu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "iqembu"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwesigodlo"
+    }
+  ],
+  "timestamp": "2026-08-31T11:51:12.053541540Z",
+  "model": "glm-5.3"
+}

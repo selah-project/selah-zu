@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 86,
+  "ref": "psalms 119:86",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Zonke imiyalo yakho ⟨inkuthembeka⟩; bangazingela mina ngamanga; ngisize.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Zonke"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "imiyalo yakho"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "inkuthembeka"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ngamanga"
+    },
+    {
+      "surface": "רדפוני",
+      "gloss": "bangazingela mina"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "ngisize"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:43.770766761Z",
+  "model": "glm-5.3"
+}

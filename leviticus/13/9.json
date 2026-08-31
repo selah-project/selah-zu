@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Uma umkhuhlane wentsimbi uba kumuntu, uzolethwa kumpristi;",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "umkhuhlane"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "wentsimbi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "uba"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "kumuntu"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "uzolethwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:55:53.981517902Z",
+  "model": "glm-5.3"
+}

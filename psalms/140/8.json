@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 140:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 140,
+  "translation": "uYahwe u-Adonayi, amandla okusindisa kwami, usithelile ihloko yami ngosuku lokulwa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "עז",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "okusindisa kwami"
+    },
+    {
+      "surface": "סכתה",
+      "gloss": "usithelile"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "ihloko yami"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "lokulwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:56.636506714Z",
+  "model": "glm-5.3"
+}

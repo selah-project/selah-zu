@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 16:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi ekuseni nizobona ⟨את⟩ inkazimulo kaYahwe, ekuzweni kwakhe ⟨את⟩ izikhungubhuthelelo zenu ezithintela uYahwe; kepha thina sini, ukuthi nikhungubhethele thina?",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "futhi ekuseni"
+    },
+    {
+      "surface": "וראיתם",
+      "gloss": "nizobona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkazimulo kaYahwe"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "inkazimulo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "ekuzweni kwakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izikhungubhuthelelo zenu"
+    },
+    {
+      "surface": "תלנתיכם",
+      "gloss": "izikhungubhuthelelo zenu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezithintela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ונחנו",
+      "gloss": "kepha thina"
+    },
+    {
+      "surface": "מה",
+      "gloss": "sini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "nikhungubhethele"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "thina"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:00.762157088Z",
+  "model": "glm-5.3"
+}

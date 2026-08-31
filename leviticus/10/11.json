@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 10:11",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Nokufundisa izingane zakwa-Israyeli ⟨את⟩ zonke izimiso uYahwe eazikhulumile kubona ngesandla sikaMoshe.",
+  "tokens": [
+    {
+      "surface": "ולהורת",
+      "gloss": "nokufundisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingane zakwa-Israyeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "izingane za"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kwa-Israyeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke izimiso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "izimiso"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eza"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "azikhulumile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla sa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kaMoshe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:57:30.529836424Z",
+  "model": "glm-5.3"
+}

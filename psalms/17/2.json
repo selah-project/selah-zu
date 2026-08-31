@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 17:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Phambi kwezindaba zakho umbhedesho wami uyo⟨khula⟩; amehlo akho ayabona ukuqondile.",
+  "tokens": [
+    {
+      "surface": "מלפניך",
+      "gloss": "Phambi kwezindaba zakho"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "umbhedesho wami"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "uyo⟨khula⟩"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "amehlo akho"
+    },
+    {
+      "surface": "תחזינה",
+      "gloss": "ayabona"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ukuqondile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:47.832107984Z",
+  "model": "glm-5.3"
+}

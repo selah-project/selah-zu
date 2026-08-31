@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 7:11",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi uYahwe wakhuluma kuMoshe ethi: Umholi oyedwa ngosuku, umholi oyedwa ngosuku, bazoyisele ⟨את⟩ umnikelo wabo wokuzinza kwe-altari.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "umholi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "oyedwa"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "umholi"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "oyedwa"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "bazoyisele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnikelo wabo"
+    },
+    {
+      "surface": "קרבנם",
+      "gloss": "umnikelo wabo"
+    },
+    {
+      "surface": "לחנכת",
+      "gloss": "wokuzinza"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kwe-altari"
+    }
+  ],
+  "timestamp": "2026-08-31T02:11:52.781567722Z",
+  "model": "glm-5.3"
+}

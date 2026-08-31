@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joel 4:8",
+  "book": "joel",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi ngiyothengisa ⟨את⟩ amadodana enu ⟨את⟩ nadodwabenu ngesandla samadodana kaYehudisha, futhi bona bayobathengisa kuSabhea, kusizwe esikude; ngoba uYahwe ukhulume.",
+  "tokens": [
+    {
+      "surface": "ומכרתי",
+      "gloss": "futhi ngiyothengisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amadodana enu"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "amadodana enu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nadodwabenu"
+    },
+    {
+      "surface": "בנותיכם",
+      "gloss": "nadodwabenu"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "בני",
+      "gloss": "samadodana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kaYehudisha"
+    },
+    {
+      "surface": "ומכרום",
+      "gloss": "futhi bona bayobathengisa"
+    },
+    {
+      "surface": "לשבאים",
+      "gloss": "kuSabhea"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "רחוק",
+      "gloss": "esikude"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ukhulume"
+    }
+  ],
+  "timestamp": "2026-08-31T05:30:42.971994305Z",
+  "model": "glm-5.3"
+}

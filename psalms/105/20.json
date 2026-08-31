@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 105:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "Umntwana-wenkosi wathuma wayekhulula, umbusi wabantu wamukhulula ngokuphelele.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "wathuma"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "umntwana-wenkosi"
+    },
+    {
+      "surface": "ויתירהו",
+      "gloss": "wayekhulula"
+    },
+    {
+      "surface": "משל",
+      "gloss": "umbusi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויפתחהו",
+      "gloss": "wamukhulula ngokuphelele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:18.006405433Z",
+  "model": "glm-5.3"
+}

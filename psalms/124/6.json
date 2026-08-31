@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 124:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 124,
+  "translation": "Sibusiwe uYahwe, ongakasipha njengesiphephelo kwamazinyo abo",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Sibusiwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "ongaka- (cha)"
+    },
+    {
+      "surface": "נתננו",
+      "gloss": "asipha"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "njengesiphephelo"
+    },
+    {
+      "surface": "לשניהם",
+      "gloss": "kwamazinyo abo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:25.752782888Z",
+  "model": "glm-5.3"
+}

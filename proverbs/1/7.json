@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ukwesaba uYahwe ⟨isiqalo⟩ solwazi; ubuhlakani nomqondo iziphukuphukwane ziyawukhaphela.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "isiqalo"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "olwazi"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ubuhlakani"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "nomqondo"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "iziphukuphukwane"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "ziyawukhaphela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:46:19.212447514Z",
+  "model": "glm-5.3"
+}

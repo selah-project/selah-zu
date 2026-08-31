@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Uma umoya wombusi uvukela ngawe, ungayeki indawo yakho, ngoba ukuzola kuzolesa izono ezinkulu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "wombusi"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "uvukela"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ngawe"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "indawo yakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungayeki"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ukuyeka"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ukuzola"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "kuzolesa"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "izono"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "ezinkulu"
+    }
+  ],
+  "timestamp": "2026-08-31T07:49:52.993969928Z",
+  "model": "glm-5.3"
+}

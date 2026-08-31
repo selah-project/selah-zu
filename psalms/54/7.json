@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 54:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 54,
+  "translation": "Okubi kuzobuyela kubazonda bami; ngokwethe kuwe babhubhise bona.",
+  "tokens": [
+    {
+      "surface": "ישוב",
+      "gloss": "kuzobuyela"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "לשררי",
+      "gloss": "kubazonda bami"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "ngokwethe kuwe"
+    },
+    {
+      "surface": "הצמיתם",
+      "gloss": "babhubhise bona"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:07.430003749Z",
+  "model": "glm-5.3"
+}

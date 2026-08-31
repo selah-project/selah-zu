@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Umuntu wathi: Owesifazane ongazinikele yena, yena ungiphe ngomthi, ngadla.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Umuntu"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "Owesifazane"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ongazinikele"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ongazinikele"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "yena"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ungiphe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "omthi"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ngadla"
+    }
+  ],
+  "timestamp": "2026-08-31T01:01:41.226539097Z",
+  "model": "glm-5.3"
+}

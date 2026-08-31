@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 26:18",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi uYahwe uyakumemeza namuhla ukuthi ube yizwe lakhe, igugu elithe ngqo, njengokuba akutshelile, ukuze ugcile yonke imiyalo yakhe.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "futhi uYahwe"
+    },
+    {
+      "surface": "האמירך",
+      "gloss": "uyakumemeza"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ukuthi ube"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "yizwe"
+    },
+    {
+      "surface": "סגלה",
+      "gloss": "igugu elithe ngqo"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokuba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akutshelile"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwena"
+    },
+    {
+      "surface": "ולשמר",
+      "gloss": "ukuze ugcile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "imiyalo yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:42:18.047728540Z",
+  "model": "glm-5.3"
+}

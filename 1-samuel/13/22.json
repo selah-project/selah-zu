@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 13:22",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Futhi kwaba njalo ngosuku lwempi: kwadingeka* ayitholakalanga inkemba nomkhonto esandleni saso sonke isizwe esasikunaba ⟨את⟩ uShawuli ⟨את⟩ noYonathana; kodwa kwatholakala kuShawuli noYonathana indodana yakhe.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "futhi kwaba njalo"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "lwempi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi-cha"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "kwatholakalanga"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "inkemba"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "nomkhonto"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwakunaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShawuli"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "noYonathana"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "noYonathana"
+    },
+    {
+      "surface": "ותמצא",
+      "gloss": "futhi-kwatholakala"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "kuShawuli"
+    },
+    {
+      "surface": "וליונתן",
+      "gloss": "noYonathana"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:18:24.166407186Z",
+  "model": "glm-5.3"
+}

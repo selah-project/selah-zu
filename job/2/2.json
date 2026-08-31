@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 2:2",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "uYahwe wathi kuSathani: Uvela phi na? Uqhamuka ngaphi? Futhi uSathani waphendula ⟨את⟩ uYahwe wathi: Ngisuka ekuzulazula emhlabeni nasekuhambahamba kuso.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "uSathani"
+    },
+    {
+      "surface": "אי",
+      "gloss": "phi"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "Uvela"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "uqhamuka"
+    },
+    {
+      "surface": "ויען",
+      "gloss": "waphendula"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "uSathani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "משט",
+      "gloss": "ekuzulazula"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "ומהתהלך",
+      "gloss": "nasekuhambahamba"
+    },
+    {
+      "surface": "בה",
+      "gloss": "kuso"
+    }
+  ],
+  "timestamp": "2026-08-31T07:08:14.533608384Z",
+  "model": "glm-5.3"
+}

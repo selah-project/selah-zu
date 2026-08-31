@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 108:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 108,
+  "translation": "iMowabhi yindlebe yokugezela kwami; phezu kweEdomu ngizophonsa isicathulo sami; phezu kweFelesheti ngizokhalima.",
+  "tokens": [
+    {
+      "surface": "מואב",
+      "gloss": "iMowabhi"
+    },
+    {
+      "surface": "סיר",
+      "gloss": "indlebe yokugezela"
+    },
+    {
+      "surface": "רחצי",
+      "gloss": "kwami"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "iEdomu"
+    },
+    {
+      "surface": "אשליך",
+      "gloss": "ngizophonsa"
+    },
+    {
+      "surface": "נעלי",
+      "gloss": "isicathulo sami"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "iFelesheti"
+    },
+    {
+      "surface": "אתרועע",
+      "gloss": "ngizokhalima"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:54.487752476Z",
+  "model": "glm-5.3"
+}

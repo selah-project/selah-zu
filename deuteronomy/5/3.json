@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Awusikanga uYahwe ⟨את⟩ oyihlo lesi sivumelwano, kodwa nathi thina — lezi lapha namuhla, sonke siyaphila.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Awusikanga"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyihlo"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "oyihlo"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "wasika"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lesi sivumelwano"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "isivumelwano"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "lesi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "nathi"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "פה",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "siyaphila"
+    }
+  ],
+  "timestamp": "2026-08-31T02:32:05.153603180Z",
+  "model": "glm-5.3"
+}

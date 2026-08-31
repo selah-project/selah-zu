@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 4:19",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "ULameki wathatha ⟨kuyena⟩ abafazi ababili: igama lokuqala linguAda, igama lesibili linguTsila.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨kuyena⟩"
+    },
+    {
+      "surface": "למך",
+      "gloss": "uLameki"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ababili"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "abafazi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "lokuqala"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "uAda"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "igama lesibili"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "lesibili"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "uTsila"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:45.534044098Z",
+  "model": "glm-5.3"
+}

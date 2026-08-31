@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Angikhombisi uElohim lokhu? Ngokuba yena uyayazi izimfihlo zomphefumulo,",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Angikhombisi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "(uyakuhlolisisa)"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "uyayazi"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "izimfihlo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "zomphefumulo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:54.076364905Z",
+  "model": "glm-5.3"
+}

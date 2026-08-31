@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Kuphela igazi lalo awudli ⟨את⟩; phansi komhlaba uzokuchitha njengamanzi.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Kuphela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igazi lalo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "igazi lalo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awudli"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "udli"
+    },
+    {
+      "surface": "על",
+      "gloss": "phansi kwa-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "uzokuchitha"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "njengamanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:36:01.238724375Z",
+  "model": "glm-5.3"
+}

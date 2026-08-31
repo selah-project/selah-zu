@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Ukuhamba ⟨את⟩ abahlakaniphi kuzala ukuhlakanipa; lowo exhumene nabafuna uyabola.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "ukuhamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abahlakaniphi"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "abahlakaniphi"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "uzohlakanipha"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "lowo exhumene"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "nabafuna"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "uyabola"
+    }
+  ],
+  "timestamp": "2026-08-31T06:51:40.836645820Z",
+  "model": "glm-5.3"
+}

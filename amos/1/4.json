@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 1:4",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngizothumla umlilo endlwini kaHazaeli, futhi uzodla izikhukhula zikaBeni-Hadadi.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Ngizothumla"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "endlwini ka-"
+    },
+    {
+      "surface": "חזאל",
+      "gloss": "Hazaeli"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "uzodla"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "izikhukhula za-"
+    },
+    {
+      "surface": "בן",
+      "gloss": "kaBeni-"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Hadadi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:32.198043984Z",
+  "model": "glm-5.3"
+}

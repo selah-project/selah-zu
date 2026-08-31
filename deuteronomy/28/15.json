@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 28:15",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Futhi kuzakuba njalo, uma ungali izwi likaYahwe uElohim wakho, ukuze ugcine futhi uzenze ⟨את⟩ zonke iziyalezo zakhe nezimiso zakhe, engikuyaleza ngazo namuhla, zonke lezi zikhathezo zizakufika kuwe futhi zizakukudla.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "futhi kuzakuba njalo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungali"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "liko"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ukuze ugcinise"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "futhi uzenze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke iziyalezo zakhe nezimiso zakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "iziyalezo zakhe"
+    },
+    {
+      "surface": "וחקתיו",
+      "gloss": "nezimiso zakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engikuyaleza"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ngikuyaleza"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "futhi zizakufika"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הקללות",
+      "gloss": "lezi zikhathezo"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "והשיגוך",
+      "gloss": "futhi zizakudla"
+    }
+  ],
+  "timestamp": "2026-08-31T02:43:42.895950880Z",
+  "model": "glm-5.3"
+}

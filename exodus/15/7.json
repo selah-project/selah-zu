@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 15:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Futhi ngokwekhulu lezikhalo zakho uzokhubaza abavukelayo ngokumelene nawe; wathuma isindo sakho, sabaqeda njengolutshani.",
+  "tokens": [
+    {
+      "surface": "וברב",
+      "gloss": "futhi ngokwekhulu"
+    },
+    {
+      "surface": "גאונך",
+      "gloss": "lezikhalo zakho"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "uzokhubaza"
+    },
+    {
+      "surface": "קמיך",
+      "gloss": "abavukelayo ngokumelene nawe"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "wathuma"
+    },
+    {
+      "surface": "חרנך",
+      "gloss": "isindo sakho"
+    },
+    {
+      "surface": "יאכלמו",
+      "gloss": "sabaqeda"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "njengolutshani"
+    }
+  ],
+  "timestamp": "2026-08-31T01:32:46.548434216Z",
+  "model": "glm-5.3"
+}

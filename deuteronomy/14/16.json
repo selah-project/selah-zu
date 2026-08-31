@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "⟨את⟩ i-kos, no-⟨את⟩ i-yanshuf, ne-i-tinshemet;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-kos"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "i-kos"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i-yanshuf"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "i-yanshuf"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ne-i-tinshemet"
+    }
+  ],
+  "timestamp": "2026-08-31T02:36:00.782233852Z",
+  "model": "glm-5.3"
+}

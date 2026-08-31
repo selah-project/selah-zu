@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 113,
+  "translation": "Kusukela ekuphumeni kwezinkanyezi ezifana nolanga kuze kufike ekungcwinyeni kwalo, igama likaYahwe lidumisiwe.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "kusukela ekuphumeni"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "kulanga"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kufike"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "ekungcwinyeni kwalo"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "lidumisiwe"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama li-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:53.663810554Z",
+  "model": "glm-5.3"
+}

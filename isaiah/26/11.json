@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 26:11",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "uYahwe, isandla sakho sipakanyisiwe, abasiboni; bazobona bazisole umoya wokuzonda wesizwe; ewe, umlilo wabakhuluma izondweni zakho uzowabadla.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "sipakanyisiwe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "בל",
+      "gloss": "abasiboni (cha-)"
+    },
+    {
+      "surface": "יחזיון",
+      "gloss": "ababoni"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "bazobona"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "bazisole"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "umoya wokuzonda"
+    },
+    {
+      "surface": "עם",
+      "gloss": "wesizwe"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ewe"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "צריך",
+      "gloss": "wabakhuluma izondweni zakho"
+    },
+    {
+      "surface": "תאכלם",
+      "gloss": "uzowabadla"
+    }
+  ],
+  "timestamp": "2026-08-31T04:23:54.227731159Z",
+  "model": "glm-5.3"
+}

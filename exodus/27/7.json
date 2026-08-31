@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 27:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Futhi kuzofakwa ⟨את⟩ izingono zayo ezimboleni, futhi izingono zizoba emaceleni amabili we-altari, xa kuthwalwa ⟨את⟩ yona.",
+  "tokens": [
+    {
+      "surface": "ו הובא",
+      "gloss": "futhi kuzofakwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingono zayo"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "izingono zayo"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "ezimboleni"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "futhi zizoba"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "izingono"
+    },
+    {
+      "surface": "על",
+      "gloss": "ephezu"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "amabili"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "emaceleni"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "we-altari"
+    },
+    {
+      "surface": "בשאת",
+      "gloss": "xa kuthwalwa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "i-altari (yona)"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:48.593236707Z",
+  "model": "glm-5.3"
+}

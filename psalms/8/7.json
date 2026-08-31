@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 8:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Umenze abusa ezimisebenzini yezandla zakho; konke ukubekile ngaphansi kwezinyawo zakhe:",
+  "tokens": [
+    {
+      "surface": "תמשילהו",
+      "gloss": "Umenze abusa"
+    },
+    {
+      "surface": "במעשי",
+      "gloss": "ezimisebenzini"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "yezandla zakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ukubekile"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kwezinyawo zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:14:36.207109373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngazi ukuthi angekho okuhle kubona, ngaphandle kokujabula nokwenza okuhle empilweni yakhe.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Ngazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אין",
+      "gloss": "angekho"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "kokujabula"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "nokwenza"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "empilweni yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:44:42.452528613Z",
+  "model": "glm-5.3"
+}

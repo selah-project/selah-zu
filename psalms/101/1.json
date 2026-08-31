@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 101,
+  "translation": "KukaDavide, umculo. Ikesedi nohlulelo ngizokucula kuwe, uYahwe; ngizokudlalela umculo.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "KukaDavide"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "umculo"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikesedi"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "nohlulelo"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "ngizokucula"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ngizokudlalela umculo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:10.091061812Z",
+  "model": "glm-5.3"
+}

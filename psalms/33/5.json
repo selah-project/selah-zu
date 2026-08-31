@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Uthanda ulungilelo nomthetho; ikhesedi likaYahwe lizalise ⟨umhlaba⟩.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Uthanda"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ulungilelo"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "nomthetho"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "lizalise"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:01.694771283Z",
+  "model": "glm-5.3"
+}

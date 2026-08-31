@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 33:18",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "uYa'akov wayofika ngokuthula edolobheni iShekemi, elisezweni iKhanana, esuka ePadani-Arami, wamisa ithenti yakhe ⟨phambi⟩ kwedolobha.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "wayofika"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYa'akov"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ngokuthula"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "iShekemi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eli"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "elisezweni"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "iKhanana"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "esuka"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "ePadani"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "-Arami"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "wamisa ithenti yakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "phambi kwedolobha"
+    },
+    {
+      "surface": "פני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kedolobha"
+    }
+  ],
+  "timestamp": "2026-08-31T01:17:51.835864283Z",
+  "model": "glm-5.3"
+}

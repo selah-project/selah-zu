@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 10:9",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Washo kuthi: yini enanicabangayo, ukuze siphendule ⟨את⟩ izwi kuleli bantu abakhulume kimi ukuthi: Yehlisa kumthwalo owoBeka uyihlo phezu kwethu?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Washo"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kuthi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "enicabangayo"
+    },
+    {
+      "surface": "ונשיב",
+      "gloss": "ukuze siphendule"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi kuleli bantu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bantu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abo"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "abakhulume"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "Yehlisa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "העל",
+      "gloss": "umthwalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "woBeka"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uyihlo"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "phezu kwethu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:35:03.404504871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 50:24",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "U-Yosefu wathi kubafowabo: mina ngifile; kodwa uElohim uzakunivakasha ngempela, uzakunikhuphela ⟨את⟩ kuleli zwe leya azinike isifungo kakhulu u-Avraham, u-Yitschak, noYaakov.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "u-Yosefu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ubafowabo"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ngifile"
+    },
+    {
+      "surface": "ואלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "uzakunivakasha"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "uzakunikhuphela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "leli zwe"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "leya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ilize"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "le-"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "azinike isifungo"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "kakhulu u-Avraham"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "u-Yitschak"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "noYaakov"
+    }
+  ],
+  "timestamp": "2026-08-31T01:26:15.609771209Z",
+  "model": "glm-5.3"
+}

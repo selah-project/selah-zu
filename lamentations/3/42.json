@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Thina sonke siphazamile, saqamba ukuzonda; wena awusixolelanga.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "siphazamile"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "saqamba ukuzonda"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akusixolelanga"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "awuxolelanga"
+    }
+  ],
+  "timestamp": "2026-08-31T08:57:39.533161608Z",
+  "model": "glm-5.3"
+}

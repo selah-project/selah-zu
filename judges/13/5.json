@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 13:5",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "ngokuba bheka, ukhulelwe futhi uzozala indodana, futhi iraza alingenyuki phezu kwekhanda lakhe, ngokuba iNaziri kaElohim ingaba yilomfana kusukela esibelekweni, futhi yena uzoqala ukusindisa ⟨את⟩ uIsrayeli esandleni sabaseFilisti.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "הרה",
+      "gloss": "ukhulelwe"
+    },
+    {
+      "surface": "וילדת",
+      "gloss": "futhi uzozala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "futhi iraza"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alingenyuki"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "lingenyuki"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "kwekhanda lakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "נזיר",
+      "gloss": "iNaziri"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ingaba yilo"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "lomfana"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kusukela"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "esibelekweni"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "futhi yena"
+    },
+    {
+      "surface": "יחל",
+      "gloss": "uzoqala"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "ukusindisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uIsrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "sabaseFilisti"
+    }
+  ],
+  "timestamp": "2026-08-31T03:10:23.269080369Z",
+  "model": "glm-5.3"
+}

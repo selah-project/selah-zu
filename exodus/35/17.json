@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 35:17",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "⟨את⟩ izingcingo zesibaya, ⟨את⟩ izinti zawo namaqhoshoshi awo, no⟨את⟩ isihlangu sesango sesibaya,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingcingo zesibaya"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "izingcingo"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "zesibaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinti zawo"
+    },
+    {
+      "surface": "עמדיו",
+      "gloss": "izinti zawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "amaqhoshoshi awo"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "amaqhoshoshi awo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "isihlangu sesango sesibaya"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "isihlangu"
+    },
+    {
+      "surface": "שער",
+      "gloss": "sesango"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "sesibaya"
+    }
+  ],
+  "timestamp": "2026-08-31T01:44:17.047128141Z",
+  "model": "glm-5.3"
+}

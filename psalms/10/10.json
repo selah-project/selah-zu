@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 10:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Uyakuqothula, uyakhohla; abaswele bawa ngezinsiza zakhe.",
+  "tokens": [
+    {
+      "surface": "ודכה",
+      "gloss": "uyakuqothula"
+    },
+    {
+      "surface": "ישח",
+      "gloss": "uyakhohla"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "bawa"
+    },
+    {
+      "surface": "בעצומיו",
+      "gloss": "ngezinsiza zakhe"
+    },
+    {
+      "surface": "חלכאים",
+      "gloss": "abaswele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:23.898565472Z",
+  "model": "glm-5.3"
+}

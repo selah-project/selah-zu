@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 10:15",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ingabe iphanga lizizuzisa phezu kwalowo oligaqo ngalo? Noma isaho lizikhulisa phezu kwalowo olunyakazisayo? Njengesikhuni esinyakazisa ⟨את⟩ abasukumayo, njengesonto esiphakamisayo lowo enguyena ⟨okhuni okunguyena⟩!",
+  "tokens": [
+    {
+      "surface": "היתפאר",
+      "gloss": "ingabe lizizuzisa"
+    },
+    {
+      "surface": "הגרזן",
+      "gloss": "iphanga"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "החצב",
+      "gloss": "kwalowo oligaqo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngalo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "יתגדל",
+      "gloss": "lizikhulisa"
+    },
+    {
+      "surface": "המשור",
+      "gloss": "isaho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "מניפו",
+      "gloss": "kwalowo olunyakazisayo"
+    },
+    {
+      "surface": "כהניף",
+      "gloss": "njengokunyakazisa"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "isikhuni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abasukumayo"
+    },
+    {
+      "surface": "מרימיו",
+      "gloss": "abasukumayo"
+    },
+    {
+      "surface": "כהרים",
+      "gloss": "njengokuphakamisayo"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "isondo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kungasiyo"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "okhuni"
+    }
+  ],
+  "timestamp": "2026-08-31T04:20:09.025197248Z",
+  "model": "glm-5.3"
+}

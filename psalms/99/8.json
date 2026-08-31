@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 99:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 99,
+  "translation": "uYahwe uElohim wethu, wena wabaphendula; u-El othethezelayo ubunguwena kubo, futhi oyisijeziso ngezimilo zabo.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עניתם",
+      "gloss": "wabaphendula"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "othethezelayo"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ubunguwena"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "ונקם",
+      "gloss": "futhi oyisijeziso"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "עלילותם",
+      "gloss": "zimilo zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:57.873324912Z",
+  "model": "glm-5.3"
+}

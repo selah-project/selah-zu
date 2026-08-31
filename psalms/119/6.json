@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngaleso sikhathi ngingazi nhlazo uma ngingabukela ⟨⟨את⟩⟩ konke imiyalo yakho.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ngaleso sikhathi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "ngingazi nhlazo"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "uma ngingabukela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "imiyalo yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:52.183360500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Wabhala ⟨את⟩ uMowabhi, asebe abantu baMowabhi behlaba nkosi abangabelezi kuDavide, abalethela izipho.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "Wabhala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMowabhi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "uMowabhi"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "asebe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "abantu baMowabhi"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "abangabelezi"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "kuDavide"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "abalethela"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "izipho"
+    }
+  ],
+  "timestamp": "2026-08-31T08:26:43.684594308Z",
+  "model": "glm-5.3"
+}

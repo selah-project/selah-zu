@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 142:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 142,
+  "translation": "Ngikhalilele kuwe, Yahwe; ngithe: Wena usikhindi lwami, isabelo sami ezweni zokuphila.",
+  "tokens": [
+    {
+      "surface": "זעקתי",
+      "gloss": "Ngikhalilele"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ngithe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "usikhindi lwami"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "isabelo sami"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "zokuphila"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:39.498945635Z",
+  "model": "glm-5.3"
+}

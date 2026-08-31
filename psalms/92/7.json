@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 92,
+  "translation": "Indoda eyisilwane ayazi, nenhlanya aqondi ⟨את⟩ lokhu;",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "בער",
+      "gloss": "eyisilwane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "zi"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "nenhlanya"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayi"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "qondi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokhu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "lokhu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:36.313528244Z",
+  "model": "glm-5.3"
+}

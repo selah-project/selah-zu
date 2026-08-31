@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 50:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Qoqelani kimi abangcwele bami, abasikayo isivumelwano sami phezu kosisoko.",
+  "tokens": [
+    {
+      "surface": "אספו",
+      "gloss": "Qoqelani"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "חסידי",
+      "gloss": "abangcwele bami"
+    },
+    {
+      "surface": "כרתי",
+      "gloss": "abasikayo"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "isivumelwano sami"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "sisoko"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:41.210000617Z",
+  "model": "glm-5.3"
+}

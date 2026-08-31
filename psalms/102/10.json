@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 102,
+  "translation": "Ngoba ngidlide umlotha njengesinkwa, nophuzo lwami ngiluhlanganisile noku kukhala.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngoba"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "umlotha"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "njengesinkwa"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "ngidlide"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "nophuzo lwami"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "noku kukhala"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "ngiluhlanganisile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:25.833319704Z",
+  "model": "glm-5.3"
+}

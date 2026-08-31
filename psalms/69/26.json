@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 69:26",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Isiphephelo sabo malibe lithuli, kwamatende abo ungahlali namuntu ⟨omunye⟩.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "malibe"
+    },
+    {
+      "surface": "טירתם",
+      "gloss": "isiphephelo sabo"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "lithuli"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "kwamatende abo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "musa\/anga-"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "kube"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ohlali"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:37.580869153Z",
+  "model": "glm-5.3"
+}

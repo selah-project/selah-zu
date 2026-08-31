@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Ngingaye, mhlawumbe nginguYahwe, ngithembile kuwe; ngishilo: uElohim wami, wena unguye.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "Ngingaye, mhlawumbe nginguYahwe, ngi-"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ngithembile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ngishilo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena unguye"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:38.835149700Z",
+  "model": "glm-5.3"
+}

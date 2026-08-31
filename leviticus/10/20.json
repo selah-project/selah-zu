@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "UMoshe wazwa, kwaba kuhle emehlweni akhe.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "wazwa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "kwaba kuhle"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "emehlweni akhe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:53:00.682026396Z",
+  "model": "glm-5.3"
+}

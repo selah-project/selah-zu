@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 13:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Kuze kube nini ngizobeka izace ezinhliziyweni yami ngokwengqondo yokuphila kwami, udange engqinizweni yami nsuku zonke? Kuze kube nini isitha sami siyophakama ngaphezu kwami?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Kuze kube"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "ngizobeka"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "izace"
+    },
+    {
+      "surface": "בנפשי",
+      "gloss": "ngokwengqondo yokuphila kwami"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "udange"
+    },
+    {
+      "surface": "בלבבי",
+      "gloss": "engqinizweni yami"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "nsuku zonke"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Kuze kube"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "nini"
+    },
+    {
+      "surface": "ירום",
+      "gloss": "siyophakama"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "isitha sami"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngaphezu kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:11.524362549Z",
+  "model": "glm-5.3"
+}

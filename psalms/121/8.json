@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 121,
+  "translation": "uYahwe uzogcina ukuphuma kwakho nokungena kwakho, kusukela manje kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "uzogcina"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "ukuphuma kwakho"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "nokungena kwakho"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kusukela manje"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:52.703383665Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 32:25",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Abantwana bakaGadi nabantwana bakaRuwubeni bathi kuMoshe, baye bathi: Izinceku zakho ziyakwenza njengoba iNkosi yakho ⟨yakho⟩ iyalela.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "גד",
+      "gloss": "kaGadi"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "nabantwana"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "kaRuwubeni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "baye bathi"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "izinceku zakho"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ziyakwenza"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "iNkosi yakho"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "iyalela"
+    }
+  ],
+  "timestamp": "2026-08-31T02:25:59.572844844Z",
+  "model": "glm-5.3"
+}

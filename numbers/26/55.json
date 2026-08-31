@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "numbers 26:55",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Kodwa ngegosi kuphela kuzohlakahlwa ⟨את⟩ umhlaba; ngezibalo zezizwe zookhokho babo bazozindla.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kodwa…kuphela"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "ngeosi"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "kuzohlakahlwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "לשמות",
+      "gloss": "ngezibalo"
+    },
+    {
+      "surface": "מטות",
+      "gloss": "zezikwe zezizwe"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "zookhokho bazo"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "bazozindla"
+    }
+  ],
+  "timestamp": "2026-08-31T10:16:29.966516762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Wahlulela ⟨את⟩ uIsrayeli ezinsukwini zamaFilisti iminyaka engamashumi amabili.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "Wahlulela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uIsrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "ezinsukwini"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "zamaFilisti"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amashumi amabili"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    }
+  ],
+  "timestamp": "2026-08-31T03:09:16.633802403Z",
+  "model": "glm-5.3"
+}

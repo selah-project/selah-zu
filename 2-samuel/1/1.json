@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 1:1",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kwase kuyinto evela emva kokufa kukaShawuli, uDavide ebuyela ekushayeni ⟨את⟩ iAmaleki, wahlala uDavide eTsekligi izinsuku ezimbili.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwase kuyinto"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva kokufa"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ukufa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ebuyela"
+    },
+    {
+      "surface": "מהכות",
+      "gloss": "ekushayeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iAmaleki"
+    },
+    {
+      "surface": "העמלק",
+      "gloss": "iAmaleki"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wahlala"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "בצקלג",
+      "gloss": "eTsekligi"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ezimbili"
+    }
+  ],
+  "timestamp": "2026-08-31T10:54:31.697831043Z",
+  "model": "glm-5.3"
+}

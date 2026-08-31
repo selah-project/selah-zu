@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 8:5",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "ukuthi: Nini kuyodlula inyanga entsha, siyothengisa okusanhlamvu, nangeSabbath, sibheqa unhlaziywa kokusanhlamvu — ukunciphisa i-efah, ukukhulisha ishekeli, nokukhohlakalela izingalingo zedangi.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "nini"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "kuyodlula"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "inyanga entsha"
+    },
+    {
+      "surface": "ונשבירה",
+      "gloss": "siyothengisa"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "okusanhlamvu"
+    },
+    {
+      "surface": "והשבת",
+      "gloss": "nangeSabbath"
+    },
+    {
+      "surface": "ונפתחה",
+      "gloss": "sibheqa unhlaziywa"
+    },
+    {
+      "surface": "בר",
+      "gloss": "kokusanhlamvu"
+    },
+    {
+      "surface": "להקטין",
+      "gloss": "ukunciphisa"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "i-efah"
+    },
+    {
+      "surface": "ולהגדיל",
+      "gloss": "ukukhulisha"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ishekeli"
+    },
+    {
+      "surface": "ולעות",
+      "gloss": "nokukhohlakalela"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "izingalingo"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "zedangi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:33:38.543213328Z",
+  "model": "glm-5.3"
+}

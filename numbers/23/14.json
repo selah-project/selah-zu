@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 23:14",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Wamthatha waya ensimini yaseTsophimi, ethekwini lePisga; wakha ama-altari ayisikhombisa, wahosa inkunzi yenkomo newundlu phezu kwe-altari ngayinye.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "Wamthatha"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ensimini"
+    },
+    {
+      "surface": "צפים",
+      "gloss": "yaseTsophimi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ethekwini"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "lePisga"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ayisikhombisa"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "ama-altari"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wahosa"
+    },
+    {
+      "surface": "פר",
+      "gloss": "inkunzi yenkomo"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "newundlu"
+    },
+    {
+      "surface": "במזבח",
+      "gloss": "phezu kwe-altari ngayinye"
+    }
+  ],
+  "timestamp": "2026-08-31T02:22:25.962920970Z",
+  "model": "glm-5.3"
+}

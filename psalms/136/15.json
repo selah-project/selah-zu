@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 136:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 136,
+  "translation": "Futhi wazigxumisa uParo nomabutho akhe olwandle lomhlanga, ngoba ikhesedi yakhe iyaphakade kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "ונער",
+      "gloss": "Futhi wazigxumisa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "וחילו",
+      "gloss": "nomabutho akhe"
+    },
+    {
+      "surface": "בים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "lomhlanga"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iyaphakade kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:21.479506436Z",
+  "model": "glm-5.3"
+}

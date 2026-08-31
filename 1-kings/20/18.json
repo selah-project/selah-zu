@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 20:18",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Wathi: Uma bephuma ngezokuthula, babambe baphila; uma bephuma impi, baphila babambe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "ngezokuthula"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "bephuma"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "babambe"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "baphila"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "impi"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "bephuma"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "baphila"
+    },
+    {
+      "surface": "תפשום",
+      "gloss": "babambe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:01:00.426141699Z",
+  "model": "glm-5.3"
+}

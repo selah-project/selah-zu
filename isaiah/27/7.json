@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 27:7",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Ngingabe ngimshaye njengokushaya kwabamshayayo? Noma wabulawa njengokubulawa kwababulawa yena?",
+  "tokens": [
+    {
+      "surface": "הכמכת",
+      "gloss": "njengokushaya"
+    },
+    {
+      "surface": "מכהו",
+      "gloss": "abamshayayo"
+    },
+    {
+      "surface": "הכהו",
+      "gloss": "umshaye"
+    },
+    {
+      "surface": "אם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "כהרג",
+      "gloss": "njengokubulawa"
+    },
+    {
+      "surface": "הרגיו",
+      "gloss": "kwababulawa yena"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "wabulawa"
+    }
+  ],
+  "timestamp": "2026-08-31T04:24:05.101116878Z",
+  "model": "glm-5.3"
+}

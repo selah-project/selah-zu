@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 35:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Mazibhemeke bazithobe abafuna inefeshi yami; mabaphindele emuva baze bazisole abacephula okubi kimi.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mazibhemeke"
+    },
+    {
+      "surface": "ויכלמו",
+      "gloss": "bazithobe"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "abafuna"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "יסגו",
+      "gloss": "mabaphindela emuva"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "emuva"
+    },
+    {
+      "surface": "ויחפרו",
+      "gloss": "bazisole"
+    },
+    {
+      "surface": "חשבי",
+      "gloss": "abacephula"
+    },
+    {
+      "surface": "רעתי",
+      "gloss": "okubi kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:09.609698421Z",
+  "model": "glm-5.3"
+}

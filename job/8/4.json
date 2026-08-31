@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 8:4",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Uma abantwana bakho beyonakala kuyena, wabanikela esandleni sobukhohwa babo.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "abantwana bakho"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "beyonakala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "וישלחם",
+      "gloss": "wabanikela"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "פשעם",
+      "gloss": "sobukhohwa babo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:10:44.988647312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Futhi iminyaka emithandathu uzozalisa ⟨את⟩ izwe lakho, futhi uzokeqela ⟨את⟩ imvelo yalo.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "futhi iminyaka emithandathu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "uzozalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwe lakho"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "izwe lakho"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "futhi uzokeqela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imvelo yalo"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "imvelo yalo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:17.794348106Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 18:36",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Abantu bethule, bangaphenduli ⟨את⟩ yilodwa ilizwi ku-ye, ngoba umyalo wenkosi kwakuwuthi: Ungamumphenduli.",
+  "tokens": [
+    {
+      "surface": "והחרישו",
+      "gloss": "bethule"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bengaphenduli"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "baphendula"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yilodwa ilizwi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yilodwa ilizwi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "umyalo"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "wenkosi"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kwakuwuthi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungabi"
+    },
+    {
+      "surface": "תענהו",
+      "gloss": "mumphenduli"
+    }
+  ],
+  "timestamp": "2026-08-31T04:11:54.291316378Z",
+  "model": "glm-5.3"
+}

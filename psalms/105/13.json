@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "Bahamba-bedlula besuka esizweni esiya kwenye izizwe, besuka ebukhosini bayo kubantu abangeyona eyabo.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "bahamba-bedlula"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "besuka esizweni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "esiya ku-"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "besuka ebukhosini"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuya ku-"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "abangeyona eyabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:23.973721601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 122,
+  "translation": "Ngenxa yabafowabu nodingeedangane bami, ngizakhuluma ngithi: ukuthula makube kuwe.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "yabafowabu"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "nodingeedangane bami"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ngizakhuluma"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngithi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ukuthula"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:59.654117916Z",
+  "model": "glm-5.3"
+}

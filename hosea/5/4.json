@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "hosea 5:4",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Izinto abazenzayo azibavumeli ukubuya ku-Elohim wabo, ngokuba umoya wokufebe usekuthweni wabo, futhi ⟨את⟩ uYahwe awbamazi.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "azi-"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "vumeli"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "izinto abazenzayo"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ukubuya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Elohim wabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "wokufebe"
+    },
+    {
+      "surface": "בקרבם",
+      "gloss": "usekuthweni wabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aw-"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "bamazi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:27:44.650122355Z",
+  "model": "glm-5.3"
+}

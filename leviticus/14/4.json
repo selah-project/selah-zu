@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 14:4",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Lapho umhlatshi (iKoheni) uzomyala, athathele lowo okumele ahlambulule: izinyoni ezimbili eziphilayo ehlambileyo, nokhuni lwe-erez, noshani bomfusa (tola'at), ne-hyzope.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "uzomyala"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umhlatshi (iKoheni)"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "athathele"
+    },
+    {
+      "surface": "למטהר",
+      "gloss": "lowo okumele ahlambulule"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "izinyoni"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "eziphilayo"
+    },
+    {
+      "surface": "טהרות",
+      "gloss": "ehlambileyo"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "nokhuni"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "lwe-erez"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "noshani"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "bomfusa (tola'at)"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "ne-hyzope"
+    }
+  ],
+  "timestamp": "2026-08-31T10:53:13.999787326Z",
+  "model": "glm-5.3"
+}

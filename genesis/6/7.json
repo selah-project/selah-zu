@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 6:7",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi uYahwe wathi: Ngiyasusa ⟨את⟩ umuntu engidale ebusweni bomhlaba, kusuka emuntwini kufike ezilwaneni, kufike ezinyamazini, nakweziwukwane zasemanzulwini, ngokuba ngizisole ngokuba ngibadale.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "futhi wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אמחה",
+      "gloss": "Ngiyasusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engidaleyo"
+    },
+    {
+      "surface": "בראתי",
+      "gloss": "engidale"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "e"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ebusweni"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "bomhlaba"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kusuka emuntwini"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufike"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ezilwaneni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kufike"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "ezinyamazini"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nakufike"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "eziwukwaneni"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "zasemanzulwini"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "ngizisole"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "ngibadale"
+    }
+  ],
+  "timestamp": "2026-08-31T01:04:04.489028104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "hosea 6:1",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "wozani sibuyele kuYahwe, ngoba yena usihlakazile futhi uzophilisa, usishayile futhi uzosibophela.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "wozani"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "sibuyele"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "usihlakazile"
+    },
+    {
+      "surface": "וירפאנו",
+      "gloss": "uzophilisa"
+    },
+    {
+      "surface": "יך",
+      "gloss": "usishayile"
+    },
+    {
+      "surface": "ויחבשנו",
+      "gloss": "uzosibophela"
+    }
+  ],
+  "timestamp": "2026-08-31T05:26:31.235670291Z",
+  "model": "glm-5.3"
+}

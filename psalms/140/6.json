@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 140:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 140,
+  "translation": "Abanenkani bacashile isibambi ⟨ku-imi⟩, futhi ngezintambo basabalalise inhlanga eceleni komgwaqo; abacekile izibambi ⟨ku-imi⟩. Selahi.",
+  "tokens": [
+    {
+      "surface": "טמנו",
+      "gloss": "bacashile"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "Abanenkani"
+    },
+    {
+      "surface": "פח",
+      "gloss": "isibambi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ku-imi"
+    },
+    {
+      "surface": "וחבלים",
+      "gloss": "futhi ngezintambo"
+    },
+    {
+      "surface": "פרשו",
+      "gloss": "basabalalise"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "inhlanga"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "eceleni kwe-"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "omgwaqo"
+    },
+    {
+      "surface": "מקשים",
+      "gloss": "izibambi"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "abacekile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ku-imi"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selahi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:56.636190866Z",
+  "model": "glm-5.3"
+}

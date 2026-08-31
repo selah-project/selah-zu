@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 80:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 80,
+  "translation": "Wakhipha indawo phambi kwayo, yajinja impande zayo, yagcwalisa umhlaba.",
+  "tokens": [
+    {
+      "surface": "פנית",
+      "gloss": "wakhipha indawo"
+    },
+    {
+      "surface": "לפניה",
+      "gloss": "phambi kwayo"
+    },
+    {
+      "surface": "ותשרש",
+      "gloss": "yajinja"
+    },
+    {
+      "surface": "שרשיה",
+      "gloss": "impande zayo"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "yagcwalisa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:29.525360524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 105:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "wayibeka ayenze isimiso kuYakobu, kuIsrayeli isivumelwano saphakade;",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "wayibeka ayenze"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kuYakobu"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "isimiso"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kuIsrayeli"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "isivumelwano"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "saphakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:16.574623568Z",
+  "model": "glm-5.3"
+}

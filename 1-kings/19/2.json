@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 19:2",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Izabheli yathumela isithunywa kuEliyahu ukuthi: Nxa uElohim enza njalo kimi, futhi engeza njalo, ngempela njengalesi sikhathi kusasa mina ngizobeka ⟨את⟩ umphefumulo wakho njengemphefumulo yomunye wabo.",
+  "tokens": [
+    {
+      "surface": "ותשלח",
+      "gloss": "yathumela"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Izabheli"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "isithunywa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "uEliyahu"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "כה",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "יעשון",
+      "gloss": "enza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "futhi njalo"
+    },
+    {
+      "surface": "יוספון",
+      "gloss": "engeza"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "כעת",
+      "gloss": "njengalesi sikhathi"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "kusasa"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ngizobeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umphefumulo wakho"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "umphefumulo wakho"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "njengemphefumulo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "yomunye"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "wabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:06:48.004653947Z",
+  "model": "glm-5.3"
+}

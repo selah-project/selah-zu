@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 4:15",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Ngamehlo engiphephukela, umoya wehla ngaso ubuso bami; izinwele zenyama yami zakhwabanqa.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaso"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ubuso bami"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "wehla ngaso"
+    },
+    {
+      "surface": "תסמר",
+      "gloss": "zakhwabanqa"
+    },
+    {
+      "surface": "שערת",
+      "gloss": "izinwele"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "zenyama yami"
+    }
+  ],
+  "timestamp": "2026-08-31T07:06:17.383603459Z",
+  "model": "glm-5.3"
+}

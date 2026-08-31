@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi u-Avraham wayengumlandwa weminyaka engu-ikhulu lapho ezalwa kuyena ⟨את⟩ uYitschak indodana yakhe.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "Futhi u-Avraham"
+    },
+    {
+      "surface": "בן",
+      "gloss": "umlandwa"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ikhulu"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "weminyaka"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "lapho ezalwa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYitschak"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "uYitschak"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:54:31.438812431Z",
+  "model": "glm-5.3"
+}

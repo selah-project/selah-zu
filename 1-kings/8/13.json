@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 8:13",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngokwakha ngakhe indlu yesikhungo sokuhlala kuwe, indawo ezinzile yokuhlala kwakho kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "ngokwakha"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "ngakhe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "yesikhungo sokuhlala"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "מכון",
+      "gloss": "indawo ezinzile"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "yokuhlala kwakho"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T03:53:25.230040940Z",
+  "model": "glm-5.3"
+}

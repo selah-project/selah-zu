@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 5:1",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Abafilishti bathatha ⟨את⟩ i-arki kaElohim, bayisuka e-Ebeni-ha-Ezeri bayisa e-Ashdodi.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "Abafilishti"
+    },
+    {
+      "surface": "לקחו",
+      "gloss": "bathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-arki"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "i-arki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "bayisuka bayisa"
+    },
+    {
+      "surface": "מאבן",
+      "gloss": "e-Ebeni"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "ha-Ezeri"
+    },
+    {
+      "surface": "אשדודה",
+      "gloss": "e-Ashdodi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:16:53.428596778Z",
+  "model": "glm-5.3"
+}

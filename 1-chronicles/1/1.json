@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "u-Adamu, uSheti, u-Enoshi,",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "u-Adamu"
+    },
+    {
+      "surface": "שת",
+      "gloss": "uSheti"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "u-Enoshi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:18:46.075568773Z",
+  "model": "glm-5.3"
+}

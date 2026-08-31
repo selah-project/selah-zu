@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 68,
+  "translation": "Amakhosi amabutho ayabaleka, ayabaleka; futhi yena ohlala ⟨emzini⟩ uhlaba izinhlembu.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "amabutho"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "ayabaleka"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "ayabaleka"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "futhi ohlala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "emzini"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "uhlaba"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "izinhlembu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:12.153056606Z",
+  "model": "glm-5.3"
+}

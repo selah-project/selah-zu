@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 39:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Jikisa ubuso bakho kimi ukuze ngiphilise, ngaphambi kokuthi ngihambe lapha bengisasekho.",
+  "tokens": [
+    {
+      "surface": "השע",
+      "gloss": "Jikisa ubuso bakho"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ואבליגה",
+      "gloss": "ukuze ngiphilise"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "ngaphambi kokuthi"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ngihambe lapha"
+    },
+    {
+      "surface": "ואינני",
+      "gloss": "bengisasekho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:29.048550926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 22:32",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Bazofika bazotshena ukulunga kwakhe ebantwini abazalwayo, ngokuba yena wenzile.",
+  "tokens": [
+    {
+      "surface": "יבאו",
+      "gloss": "Bazofika"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "bazotshena"
+    },
+    {
+      "surface": "צדקתו",
+      "gloss": "ukulunga kwakhe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ebantwini"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "abazalwayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenzile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:44.200305922Z",
+  "model": "glm-5.3"
+}

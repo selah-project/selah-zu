@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 50:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Lalela, isizwe sami, ngiyokhuluma; iIsraele, ngiyofakazela kuwe: Mina ⟨ngu⟩Elohim, uElohim wakho.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Lalela"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "isizwe sami"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ngiyokhuluma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iIsraele"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "ngiyofakazela"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Mina"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:41.210487800Z",
+  "model": "glm-5.3"
+}

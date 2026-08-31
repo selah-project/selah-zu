@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 29:7",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Futhi funani ⟨את⟩ ukuthula kwedolobha lapho ningikhishela khona, thandazelani kulo kuYahwe; ngokuba ekuthuleni kwalo kuzoba yithula kuni.",
+  "tokens": [
+    {
+      "surface": "ודרשו",
+      "gloss": "funani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukuthula kwedolobha"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ukuthula"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "kwedolobha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "הגליתי",
+      "gloss": "ningikhishela khone"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ni-",
+      "marks": "lapho ningikhishela khona"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "khona"
+    },
+    {
+      "surface": "והתפללו",
+      "gloss": "thandazelani"
+    },
+    {
+      "surface": "בעדה",
+      "gloss": "kulo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "בשלומה",
+      "gloss": "ekuthuleni kwalo"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuzoba"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ithula"
+    }
+  ],
+  "timestamp": "2026-08-31T04:50:44.237328013Z",
+  "model": "glm-5.3"
+}

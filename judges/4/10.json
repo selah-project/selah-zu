@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 4:10",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Wabiza uBaraka ⟨את⟩ uZebuluni no⟨את⟩ uNafthali iKedesha; wenyuka ezinyaweni zakhe amasaka ayishumi amadoda, uDebhora naye wenyuka naye.",
+  "tokens": [
+    {
+      "surface": "ויזעק",
+      "gloss": "wabiza"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "uBaraka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uZebuluni"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "uZebuluni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uNafthali"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "uNafthali"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "iKedesha"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "wenyuka"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ezinyaweni zakhe"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ayishumi"
+    },
+    {
+      "surface": "אלפי",
+      "gloss": "amasaka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "amadoda"
+    },
+    {
+      "surface": "ותעל",
+      "gloss": "wenyuka"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "uDebhora"
+    }
+  ],
+  "timestamp": "2026-08-31T06:02:27.708760582Z",
+  "model": "glm-5.3"
+}

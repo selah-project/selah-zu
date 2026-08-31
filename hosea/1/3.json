@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Waya wathatha ⟨את⟩ uGomere indodakazi kaDibelayimi, wakhulelwa wamzela indodana.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "Waya"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uGomere"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "uGomere"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi ka"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Dibelayimi"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "wakhulelwa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wamzela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    }
+  ],
+  "timestamp": "2026-08-31T05:27:18.726244419Z",
+  "model": "glm-5.3"
+}

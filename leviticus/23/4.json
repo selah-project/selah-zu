@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 23:4",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Lezi yizikhathi ezisiwa zikaYahwe, izimbili ezingcwele, ozibizayo ⟨את⟩ ngesikhathi zazo ezisiwe.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Lezi"
+    },
+    {
+      "surface": "מועדי",
+      "gloss": "izikhathi ezisiwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "zikaYahwe"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "izimbili"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ezingcwele"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "ozibizayo"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ngesikhathi zazo ezisiwe"
+    },
+    {
+      "surface": "במועדם",
+      "gloss": "ngesikhathi zazo ezisiwe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:02:47.123706004Z",
+  "model": "glm-5.3"
+}

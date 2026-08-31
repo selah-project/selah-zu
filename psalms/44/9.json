@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Ku-uElohim siqhamukaze sonke isikhathi, negama lakho siyakubongela kuze kube phakade. Selah.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "Ku-uElohim"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "siqhamukaze"
+    },
+    {
+      "surface": "כל",
+      "gloss": "sonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "isikhathi"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "negama lakho"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "siyakubongela"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:28.081606302Z",
+  "model": "glm-5.3"
+}

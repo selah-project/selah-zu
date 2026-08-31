@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 45:8",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Manje-ke aninina angithumelayo lapha ⟨את⟩, kodwa uElohim; wangibeka njengoyise kuParo, njengenkosi yonke indlu yakhe, nombusi wwonke umhlaba waseMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "manje-ke"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ani"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nin"
+    },
+    {
+      "surface": "שלחתם",
+      "gloss": "angithumelayo"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mina (lapha)"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "וישימני",
+      "gloss": "wangibeka"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "njengoyise"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "kuParo"
+    },
+    {
+      "surface": "ולאדון",
+      "gloss": "njengenkosi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "indlu yakhe"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "nombusi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wwonke"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "waseMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:24:11.608349815Z",
+  "model": "glm-5.3"
+}

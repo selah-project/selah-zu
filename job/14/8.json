@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 14:8",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Uma impande yaso iguga emhlabeni, nesiqu sawo sifa emhlabathini omdinga-dinga;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "iguga"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "שרשו",
+      "gloss": "impande yaso"
+    },
+    {
+      "surface": "ובעפר",
+      "gloss": "emhlabathini omdinga-dinga"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "sifa"
+    },
+    {
+      "surface": "גזעו",
+      "gloss": "isiqu sawo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:14:40.453759709Z",
+  "model": "glm-5.3"
+}

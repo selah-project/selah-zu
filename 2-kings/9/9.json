@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 9:9",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Futhi ngizokwenza ⟨את⟩ indlu ka-Ahabu njengendlu kaYerobhamu indodana kaNebhati, njengendlu kaBhasha indodana kaAhiya.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "futhi ngizokwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu ka-Ahabu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ka-Ahabu"
+    },
+    {
+      "surface": "כבית",
+      "gloss": "njengendlu"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "kaYerobhamu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "kaNebhati"
+    },
+    {
+      "surface": "וכבית",
+      "gloss": "njengendlu"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "kaBhasha"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "kaAhiya"
+    }
+  ],
+  "timestamp": "2026-08-31T04:06:53.298728831Z",
+  "model": "glm-5.3"
+}

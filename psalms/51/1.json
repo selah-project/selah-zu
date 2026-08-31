@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 51,
+  "translation": "Kumqondisi wezingoma. Umculo kaDavide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi wezingoma"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Umculo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:43.879933922Z",
+  "model": "glm-5.3"
+}

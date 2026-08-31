@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 8:36",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "U-Ahazi wazala ⟨את⟩ uYehoadha, uYehoadha wazala ⟨את⟩ u-Alemethi, no ⟨את⟩ u-Azmavethi, no ⟨את⟩ uZimri, uZimri wazala ⟨את⟩ uMotsa.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "U-Ahazi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYehoadha"
+    },
+    {
+      "surface": "יהועדה",
+      "gloss": "uYehoadha"
+    },
+    {
+      "surface": "ויהועדה",
+      "gloss": "uYehoadha"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Alemethi"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "u-Alemethi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no ⟨את⟩",
+      "marks": "u-Azmavethi"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "u-Azmavethi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no ⟨את⟩",
+      "marks": "uZimri"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "uZimri"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "uZimri"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMotsa"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "uMotsa"
+    }
+  ],
+  "timestamp": "2026-08-31T08:22:19.465504558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Futhi ongekaqediswe ngomshado wayo igama layo lalingenguReuma, yazala nayo yena ⟨את⟩ uTevachi no-⟨את⟩ uGachamu no-⟨את⟩ uTachashi no-⟨את⟩ uMaakha",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "ongekaqediswe ngomshado wayo"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "igama layo"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "inguReuma"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "yazala"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uTevachi"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "uTevachi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uGachamu"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "uGachamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uTachashi"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "uTachashi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uMaakha"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "uMaakha"
+    }
+  ],
+  "timestamp": "2026-08-31T01:10:41.796064774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,115 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 6:3",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Bathi: Uma nithumela ⟨את⟩ i-arki ka-Elohim ka-Israeli, ningayithumeli ingenalutho, kodwa niyobuyisela kuYahwe isipho sokwenzakala; khona niyophiliswa, futhi kuyokwaziswa kuni ukuthi kungani isandla sakhe singasuki kuni.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "משלחים",
+      "gloss": "nithumela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-arki ka-Elohim ka-Israeli"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "i-arki"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ka-Elohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israeli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungathandi"
+    },
+    {
+      "surface": "תשלחו",
+      "gloss": "ukuyithumela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona",
+      "marks": "ingenalutho (isandla sendlela yokuthuma)"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "ingenalutho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "השב",
+      "gloss": "niyobuyisela ngempela"
+    },
+    {
+      "surface": "תשיבו",
+      "gloss": "niyobuyisela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "isipho sokwenzakala"
+    },
+    {
+      "surface": "אז",
+      "gloss": "khona"
+    },
+    {
+      "surface": "תרפאו",
+      "gloss": "niyophiliswa"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "futhi kuyokwaziswa"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "kuni"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ukuthi kungani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "kungeke"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "isuke"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kuni"
+    }
+  ],
+  "timestamp": "2026-08-31T03:17:25.560744671Z",
+  "model": "glm-5.3"
+}

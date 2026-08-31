@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 25:17",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi uzokwenza ikhava lezigolide ezihlankulukile: amakhubhu amabili nengxenye ubude bayo, nekhubhu nengxenye ububanzi bayo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "futhi uzokwenza"
+    },
+    {
+      "surface": "כפרת",
+      "gloss": "ikhava"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "lezigolide"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ezihlankulukile"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "amakhubhu amabili"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "nengxenye"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "ubude bayo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "nekhubhu"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "nengxenye"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "ububanzi bayo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:40:02.117958827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "UAwurehama wathi kuye: Qaphela ⟨kuwe⟩ ukunganzi ubuyise ⟨את⟩ indodana yami khona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Awurehama"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "qaphela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kuwe⟩"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ukunganzi"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "ubuyise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indodana yami"
+    },
+    {
+      "surface": "בני",
+      "gloss": "indodana yami"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "khona"
+    }
+  ],
+  "timestamp": "2026-08-31T01:12:03.348064171Z",
+  "model": "glm-5.3"
+}

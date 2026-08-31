@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 9:28",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Futhi abanye babo babengaphezulu kwezinkombo zokhonzo; ngokuba ngenani babelibisa ngaphakathi, futhi ngenani babelibisa ngaphandle.",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "futhi abanye babo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezulu kwa-"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "izinkombo"
+    },
+    {
+      "surface": "העבודה",
+      "gloss": "zokhonzo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "ngenani"
+    },
+    {
+      "surface": "יביאום",
+      "gloss": "babelibisa ngaphakathi"
+    },
+    {
+      "surface": "ובמספר",
+      "gloss": "futhi ngenani"
+    },
+    {
+      "surface": "יוציאום",
+      "gloss": "babelibisa ngaphandle"
+    }
+  ],
+  "timestamp": "2026-08-31T10:37:29.582317777Z",
+  "model": "glm-5.3"
+}

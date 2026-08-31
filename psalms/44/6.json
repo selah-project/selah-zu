@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 44:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Ngiwe sizocwabazela izitha zethu; ngegama lakho sizogibisela phansi abasukuma ngokumelana nathi.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "Ngiwe"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "izitha zethu"
+    },
+    {
+      "surface": "ננגח",
+      "gloss": "sizocwabazela"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ngegama lakho"
+    },
+    {
+      "surface": "נבוס",
+      "gloss": "sizogibisela phansi"
+    },
+    {
+      "surface": "קמינו",
+      "gloss": "abasukuma ngokumelana nathi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:25.517892693Z",
+  "model": "glm-5.3"
+}

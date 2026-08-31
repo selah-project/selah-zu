@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Komqondisi ⟨wezihlabelo⟩, phezu kweShoshanim, indandatho kaDavida.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Komqondisi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "weShoshanim"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavida"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:53.128715904Z",
+  "model": "glm-5.3"
+}

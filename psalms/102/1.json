@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 102:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 102,
+  "translation": "Ithandazo lolowo ohluphekayo, ngesikhathi ephephethwa lutho, futhi phambi kukaYahwe ulithulula imicabango yakhe.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Ithandazo"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "lolowo ohluphekayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngesikhathi"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "ephephethwa lutho"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "futhi phambi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ukaYahwe"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "ulithulula"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "imicabango yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:04.606039766Z",
+  "model": "glm-5.3"
+}

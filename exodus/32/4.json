@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 32:4",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Wathatha esandleni sabo, wadukula ⟨את⟩ ngechokothi, wenza ithokazi lemvula elikhuni, baze bathi: Laba onkulunkulu bakho, Israyeli, abakuphakulisile ezweni laseMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "Wathatha"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "esandleni sabo"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "wadukula"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ngechokothi"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "ngechokothi"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "elikhuni"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ithokazi lemvula"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Laba"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "onkulunkulu bakho"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "העלוך",
+      "gloss": "kuphakulisile"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:44:23.948126715Z",
+  "model": "glm-5.3"
+}

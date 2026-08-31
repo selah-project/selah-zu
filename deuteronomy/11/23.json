@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 11:23",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "uYahwe uzakuxosha ⟨את⟩ la mazwe wonke phambi kenu, nizo zidla abantu bazwela abakhulu nabe namandla kunani.",
+  "tokens": [
+    {
+      "surface": "והוריש",
+      "gloss": "zakuxosha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "la mazwe wonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "la mazwe"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "la"
+    },
+    {
+      "surface": "מלפניכם",
+      "gloss": "phambi kenu"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "nizo zidla abantu bazwela"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "abazalwane bazwela"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "abakhulu"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "nabe namandla"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kunani"
+    }
+  ],
+  "timestamp": "2026-08-31T02:35:01.770204970Z",
+  "model": "glm-5.3"
+}

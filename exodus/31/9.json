@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 31:9",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Nende ⟨את⟩ i-altare yokushiswa konke noku-⟨את⟩ konke izitsha zayo, nende ⟨את⟩ umgezisi wamanzi nende ⟨את⟩ isisekelo sawo,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "i-altare yokushiswa konke"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yokushiswa konke"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izitsha zayo zonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "izitsha zayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umgezisi wamanzi"
+    },
+    {
+      "surface": "הכיור",
+      "gloss": "umgezisi wamanzi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "isisekelo sawo"
+    },
+    {
+      "surface": "כנו",
+      "gloss": "isisekelo sawo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:41:38.614100023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 2:1",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Iinsuku zikaDavide zasondelela ukufa, wabe eseyala ⟨את⟩ uShelomo indodana yakhe, ethi:",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "zasondelela"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "iinsuku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ukufa"
+    },
+    {
+      "surface": "ויצו",
+      "gloss": "wayala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uShelomo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomo"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:48:23.559240083Z",
+  "model": "glm-5.3"
+}

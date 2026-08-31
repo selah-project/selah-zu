@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Indlovukazi yaseSheba yabona ⟨את⟩ uhlakaniphe bukaShelomo, nendlu ayakha.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "Indlovukazi"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "yaseSheba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uhlakaniphe bukaShelomo"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "uhlakaniphe"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "bukaShelomo"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "nendlu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayakha"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ayakha"
+    }
+  ],
+  "timestamp": "2026-08-31T08:35:34.518777812Z",
+  "model": "glm-5.3"
+}

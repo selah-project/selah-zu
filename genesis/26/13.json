@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 26:13",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Yaye lo Muntu wandiswa, wahamba hamba-be-ndawonye ne-ndawonye nokwandiswa, kuze kwaba yilokhu wandiswa kakhulu.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "wandiswa"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lo Muntu"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "hamba-be-ndawonye ne-ndawonye"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "nokwandiswa"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kwaba yilokhu"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "wandiswa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:13:30.065678816Z",
+  "model": "glm-5.3"
+}

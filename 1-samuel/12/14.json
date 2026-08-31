@@ -1,0 +1,112 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 12:14",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Uma nisaba ⟨את⟩ uYahwe, futhi nimkhonza ⟨את⟩ futhi nilalele izwi lakhe, futhi ningaphikisi ⟨את⟩ ukunya kwakwaYahwe, niyoba nina kanye ⟨kanye⟩ nenkosi ebusa phezu kwenu, niyolandela uYahwe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "nisaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ועבדתם",
+      "gloss": "futhi nimkhonza"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe (object yokukhonza)"
+    },
+    {
+      "surface": "ושמעתם",
+      "gloss": "futhi nilalele"
+    },
+    {
+      "surface": "בקלו",
+      "gloss": "izwi lakhe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi ninge-"
+    },
+    {
+      "surface": "תמרו",
+      "gloss": "phikisi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukunya kwakwaYahwe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ukunya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "והיתם",
+      "gloss": "futhi nibe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "kanye"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "kanye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ena⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ebusa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "phezu kwenu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "emva"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:19:50.753813260Z",
+  "model": "glm-5.3"
+}

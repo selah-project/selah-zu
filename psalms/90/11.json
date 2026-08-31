@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 90,
+  "translation": "Ngubani oyangaziwa wukuthi umsindo wakho unamandla kangakanani, nangokwesaba wakho umsindo wakho?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "oyazayo"
+    },
+    {
+      "surface": "עז",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "umsindo wakho"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "nangokwesaba wakho"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "olaka lwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:25.652864263Z",
+  "model": "glm-5.3"
+}

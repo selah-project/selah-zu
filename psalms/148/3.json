@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 148,
+  "translation": "Mdukiseni yena, ilanga nenyanga; mdukiseni yena, zonke izinkanyezi zokukhanya.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "mdukiseni yena"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "nenyanga"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "mdukiseni yena"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "כוכבי",
+      "gloss": "izinkanyezi"
+    },
+    {
+      "surface": "אור",
+      "gloss": "zokukhanya"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:57.302546276Z",
+  "model": "glm-5.3"
+}

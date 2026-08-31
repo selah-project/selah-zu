@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 10:21",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Bese ehamba abaKehati abathwala isigidimbu esingcwele, bese abanye bemisa itende lokuqashela ⟨את⟩ ngaphambi kokufika kwabo.",
+  "tokens": [
+    {
+      "surface": "ונסעו",
+      "gloss": "bese ehamba"
+    },
+    {
+      "surface": "הקהתים",
+      "gloss": "abaKehati"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "abathwala"
+    },
+    {
+      "surface": "המקדש",
+      "gloss": "isigidimbu esingcwele"
+    },
+    {
+      "surface": "והקימו",
+      "gloss": "bese bemisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itende lokuqashela"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "itende lokuqashela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngaphambi koku-"
+    },
+    {
+      "surface": "באם",
+      "gloss": "-fika kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:15:34.006703768Z",
+  "model": "glm-5.3"
+}

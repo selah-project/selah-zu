@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Ngokuzwa kwendlebe ngizwile ngawe, kodwa manje iso lami likubonile.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "Ngokuzwa"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "kwendlebe"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "ngizwile ngawe"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "kodwa manje"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "iso lami"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "likubonile"
+    }
+  ],
+  "timestamp": "2026-08-31T07:32:51.101257497Z",
+  "model": "glm-5.3"
+}

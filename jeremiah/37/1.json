@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 37:1",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Inkosi uTsidkiyahu indodana kaYoshiyahu yaba yinkosi esikhundleni seKonyahu indodana kaYehoyakimu, lowo uNevukadnetsari inkosi yaseBhabheli ayenziwe yinkosi ayenze yinkosi ezweni laseYuda.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "yaba yinkosi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "uTsidkiyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "יואשיהו",
+      "gloss": "uYoshiyahu"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "esikhundleni se-"
+    },
+    {
+      "surface": "כניהו",
+      "gloss": "uKonyahu"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "uYehoyakimu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "המליך",
+      "gloss": "ayenze yinkosi"
+    },
+    {
+      "surface": "נבוכדראצר",
+      "gloss": "uNevukadnetsari"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "yaseBhabheli"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "laseYuda"
+    }
+  ],
+  "timestamp": "2026-08-31T04:56:06.787013349Z",
+  "model": "glm-5.3"
+}

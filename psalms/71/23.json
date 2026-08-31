@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 71:23",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 71,
+  "translation": "Izindebe zami ziyokhala injabulo, ngokuba mina ngiyakucula kina; nefeshi yami, oyikhulumulileyo.",
+  "tokens": [
+    {
+      "surface": "תרננה",
+      "gloss": "ziyokhala injabulo"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "Izindebe zami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ngiyakucula"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kina"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "nefeshi yami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eyi-"
+    },
+    {
+      "surface": "פדית",
+      "gloss": "oyikhulumulileyo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:45.178669742Z",
+  "model": "glm-5.3"
+}

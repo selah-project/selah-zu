@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 3:25",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Amadoda akho ayowa ngesinkwa sempini, namandla akho ayo empini.",
+  "tokens": [
+    {
+      "surface": "מתיך",
+      "gloss": "amadoda akho"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ngesinkwa sempini"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ayowa"
+    },
+    {
+      "surface": "וגבורתך",
+      "gloss": "namandla akho"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "empini"
+    }
+  ],
+  "timestamp": "2026-08-31T04:16:56.618520715Z",
+  "model": "glm-5.3"
+}

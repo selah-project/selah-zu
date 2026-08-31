@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Bonke abangibonayo bayangehla ngohleko; bedonsa umlomo ⟨ngendlela yokuhleka⟩, benyakazisa ikhanda.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Bonke"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "abangibonayo"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "bayangehla ngohleko"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "bedonsa"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "umlomo"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "benyakazisa"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ikhanda"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:03.291324656Z",
+  "model": "glm-5.3"
+}

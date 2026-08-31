@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Wathi: Wenze-ni? Izwi legazi lomfowenu likhala kimi phansi komhlabathi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "-ni"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "Wenze"
+    },
+    {
+      "surface": "קול",
+      "gloss": "Izwi"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "legazi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "lomfowenu"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "likhala"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "phansi kwa-"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "omhlabathi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:29.234891217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "URehavamu wasuka waya eShikemu, ngokuba eShikemu befika wonke uIsrayeli ukumenza ⟨את⟩ yena inkosi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "wasuka waya"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "uRehavamu"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "eShikemu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "eShikemu"
+    },
+    {
+      "surface": "באו",
+      "gloss": "befika"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "ukumenza inkosi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T08:33:55.753270855Z",
+  "model": "glm-5.3"
+}

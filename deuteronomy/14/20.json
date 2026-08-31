@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Inyoni yonke ehlanzekile niyayidla.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "inyoni"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ehlanzekile"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "niyayidla"
+    }
+  ],
+  "timestamp": "2026-08-31T02:36:19.153482823Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 135,
+  "translation": "Dumisani uYah, ngoba uYahwe ⟨ung⟩uhle; culani elidombolo egameni lakhe, ngoba liyamnandi.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumisani"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨ung⟩uhle"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "culani elidombolo"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "egameni lakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "liyamnandi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:43.681510561Z",
+  "model": "glm-5.3"
+}

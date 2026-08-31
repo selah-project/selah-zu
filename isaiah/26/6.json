@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Inyawo iyayikhahlela; izinyawo zo mpofu, iziteleho zezisweli.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "iyayikhahlela"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "inyawo"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "izinyawo zo"
+    },
+    {
+      "surface": "עני",
+      "gloss": "mpofu"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "iziteleho zo"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "zesisweli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:08:04.937020098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 108,
+  "translation": "Vuka, i-neveli ne-kinora; ngiyavusa ikusasa.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Vuka"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "i-neveli"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ne-kinora"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ngiyavusa"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ikusasa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:16.482637298Z",
+  "model": "glm-5.3"
+}

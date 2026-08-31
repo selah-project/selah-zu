@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Ngosuku lwesithathu u-Avraham wanhlakaza ⟨את⟩ amehlo akhe, wabona ⟨את⟩ leyo ndawo kude.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Ngosuku"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "lwesithathu"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "wanhlakaza"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amehlo akhe"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "amehlo akhe"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leyo ndawo"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "leyo ndawo"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kude"
+    }
+  ],
+  "timestamp": "2026-08-31T05:55:21.590988314Z",
+  "model": "glm-5.3"
+}

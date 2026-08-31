@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 6:9",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi abahlomule behamba phambi kwabapristi abathimba amahomhi, futhi ibutho eliqoqayo lihamba emva kwe-arki, lihamba lithimba ngehomhi.",
+  "tokens": [
+    {
+      "surface": "והחלוץ",
+      "gloss": "abahlomule"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "behamba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "abathimba"
+    },
+    {
+      "surface": "השופרות",
+      "gloss": "amahomhi"
+    },
+    {
+      "surface": "והמאסף",
+      "gloss": "futhi ibutho eliqoqayo"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "lihamba"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva kwa-"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "i-arki"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "lihamba"
+    },
+    {
+      "surface": "ותקוע",
+      "gloss": "lithimba"
+    },
+    {
+      "surface": "בשופרות",
+      "gloss": "ngehomhi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:49:50.291595125Z",
+  "model": "glm-5.3"
+}

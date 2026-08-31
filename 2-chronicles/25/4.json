@@ -1,0 +1,122 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 25:4",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Kodwa ⟨את⟩ amadodana abo akabulalanga, ngokuba kwenzwe njengokulotshiwe eToraheni, encwadini kaMoshe, lapho uYahwe wayalela ukuthi: Oobaba abayi ukufa ngenxa yamadodana, futhi amadodana awayi ukufa ngenxa yoobaba; ngokuba yilowo nalowo uyofa ngesono lakhe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amadodana abo"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "amadodana abo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akabulalanga"
+    },
+    {
+      "surface": "המית",
+      "gloss": "ukubulala"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "ככתוב",
+      "gloss": "njengokulotshiwe"
+    },
+    {
+      "surface": "בתורה",
+      "gloss": "eToraheni"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "encwadini"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kaMoshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abayi ukufa"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "ukufa"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "oobaba"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa ya"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "futhi amadodana"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awayi ukufa"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "ukufa"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa yo"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "oobaba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "yilowo nalowo"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "ngesono lakhe"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "uyofa"
+    }
+  ],
+  "timestamp": "2026-08-31T08:42:41.423842169Z",
+  "model": "glm-5.3"
+}

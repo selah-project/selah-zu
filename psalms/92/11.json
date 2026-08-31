@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 92,
+  "translation": "Futhi uhlasela olukhulu lami wenkululeka njengempumputhe yasehlathini; ngiphuziswe ngamafutha ahlaza mtsha.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "wenkululeka"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "njengamankunzi yasehlathini"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "isibambo sami (iphuzo lami)"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ngiphuziswe"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ngamafutha"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "ahlaza mtsha"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:39.731042240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi uAttai wazala uNatani ⟨את⟩, futhi uNatani wazala uZabadi ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "futhi uAttai"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uNatani"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "uNatani"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "futhi uNatani"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uZabadi"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "uZabadi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:44.269205606Z",
+  "model": "glm-5.3"
+}

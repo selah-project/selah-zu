@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Maba le ikhesedi yakho, Yahwe, phezu kwethu, njengokuba silindele wena.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "maba le"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "phezu kwethu"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokuba"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "silindele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:41.236703440Z",
+  "model": "glm-5.3"
+}

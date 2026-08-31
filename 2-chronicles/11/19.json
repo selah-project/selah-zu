@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Yazala kuyena amadodana ⟨את⟩ uYeushi no⟨את⟩ uShemariya no⟨את⟩ uZahamu.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "yazala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYeushi"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "uYeushi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uShemariya"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "uShemariya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uZahamu"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "uZahamu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:34:42.682311518Z",
+  "model": "glm-5.3"
+}

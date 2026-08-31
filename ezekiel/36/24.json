@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 36:24",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Futhi ngiyakuthatha ⟨את⟩ nina kuzo amazwe, futhi ngiyakuniqoqa kuzo zonke izwe, futhi ngiyakuningisa ezweni lenu.",
+  "tokens": [
+    {
+      "surface": "ולקחתי",
+      "gloss": "futhi ngiyakuthatha"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina kuzo amazwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kuzo"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "amazwe"
+    },
+    {
+      "surface": "וקבצתי",
+      "gloss": "futhi ngiyakuniqoqa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina kuzo zonke izwe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "והבאתי",
+      "gloss": "futhi ngiyakuningisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina ezweni lenu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "zweni lenu"
+    }
+  ],
+  "timestamp": "2026-08-31T05:20:19.453628894Z",
+  "model": "glm-5.3"
+}

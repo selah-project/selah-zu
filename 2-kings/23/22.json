@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 23:22",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Ngokuba i-Pasika enjengale ayizenziwa kusukela ezinsukwini zabahleli abahlulelayo ⟨את⟩ i-Israeli, nazo zonke izinsuku zamakhosi ase-Israeli namakhosi akwaJuda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akulokho"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ayizenziwa"
+    },
+    {
+      "surface": "כפסח",
+      "gloss": "njenge-Pasika"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "kusukela ezinsukwini"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "zabahleli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "שפטו",
+      "gloss": "hlulelayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-Israeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "i-Israeli"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nazo"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "zonke izinsuku"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "zamakhosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ase-Israeli"
+    },
+    {
+      "surface": "ומלכי",
+      "gloss": "namakhosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "akwaJuda"
+    }
+  ],
+  "timestamp": "2026-08-31T04:14:15.730082219Z",
+  "model": "glm-5.3"
+}

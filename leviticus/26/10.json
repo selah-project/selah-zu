@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi niyodla okudala okudadile kakhulu, futhi okudala niyokukhipha phandle phambi kokusha.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "futhi niyodla"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "okudala"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "okudadile kakhulu"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "futhi okudala"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "phambi kwe-"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "okusha"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "niyokukhipha phandle"
+    }
+  ],
+  "timestamp": "2026-08-31T02:05:26.331824907Z",
+  "model": "glm-5.3"
+}

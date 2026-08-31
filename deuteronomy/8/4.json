@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Isembatho sakho asigudlukile kuwe, unyawo lwakho aluvuvuke, le minyaka yamashumi amane.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "isembatho sakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asi-"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "gudlukile"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "unyawo lwakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "alu-"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "vuvuke"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "amashumi amane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    }
+  ],
+  "timestamp": "2026-08-31T02:35:29.952265294Z",
+  "model": "glm-5.3"
+}

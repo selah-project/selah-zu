@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "indodana kaAmarya, indodana kaAzarya, indodana kaMerayoth.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Amarya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Azarya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Merayoth"
+    }
+  ],
+  "timestamp": "2026-08-31T08:09:09.549386107Z",
+  "model": "glm-5.3"
+}

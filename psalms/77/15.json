@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 77,
+  "translation": "Wena ⟨ungu⟩-El owenza imimangaliso; wazisa amandla akho ezizweni.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "האל",
+      "gloss": "⟨ungu⟩-El"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "owenza"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "imimangaliso"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "wazisa"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "ezizweni"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "amandla akho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:33.028026781Z",
+  "model": "glm-5.3"
+}

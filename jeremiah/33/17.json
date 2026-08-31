@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 33:17",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Ngokuba ngakho uthe uYahwe: angeke isikelwe kuDavide indoda ehlezi esigabeni sokubusa sendlu ka-Israyeli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ngakho"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ute"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "isikelwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kuDavide"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "יָשֵׁב",
+      "gloss": "ehlezi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "כִּסֵּא",
+      "gloss": "esigabeni sokubusa"
+    },
+    {
+      "surface": "בֵּית",
+      "gloss": "endlueni ka-"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T04:53:21.641125518Z",
+  "model": "glm-5.3"
+}

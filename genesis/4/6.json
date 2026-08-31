@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "uYahwe wathi kuKayini: Kungani uthukuthele, nangani ubuso bakho buthonsile?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "קין",
+      "gloss": "uKayini"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "uthukuthele"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "nangani"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "buthonsile"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:23.575715433Z",
+  "model": "glm-5.3"
+}

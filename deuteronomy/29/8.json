@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Futhi nizogcina ⟨את⟩ izwi zale siqivumelwane, futhi nizenzile ⟨את⟩ izwo, ukuze niphumelele ⟨את⟩ konke enikwenzayo.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "futhi nizogcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi zale siqivumelwane"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "zesiqivumelwane"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "futhi nizenzile"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "izwo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "niphumelele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eni-"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "kwenzayo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:17:22.617126203Z",
+  "model": "glm-5.3"
+}

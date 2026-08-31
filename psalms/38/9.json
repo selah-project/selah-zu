@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 38:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Ngidangekile futhi ngichithiwe kakhulu kakhulu; ngigcume ngokubuhlungu benhliziyo yami.",
+  "tokens": [
+    {
+      "surface": "נפוגותי",
+      "gloss": "Ngidangekile"
+    },
+    {
+      "surface": "ונדכיתי",
+      "gloss": "futhi ngichithiwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kude"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "שאגתי",
+      "gloss": "ngigcume"
+    },
+    {
+      "surface": "מנהמת",
+      "gloss": "ngokubuhlungu"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inhliziyo yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:46.339722513Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 23:4",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Uma uhlangana nenkabi yenkokheli yakho, noma ibhashane lakhe elilahlekile, ngempela uyakubuyisela kuyena.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "uhlangana ne-"
+    },
+    {
+      "surface": "שור",
+      "gloss": "inkabi"
+    },
+    {
+      "surface": "איבך",
+      "gloss": "yenkokheli yakho"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "חמרו",
+      "gloss": "ibhashane lakhe"
+    },
+    {
+      "surface": "תעה",
+      "gloss": "elilahlekile"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ngempela"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "uyakubuyisela"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    }
+  ],
+  "timestamp": "2026-08-31T01:38:24.198633754Z",
+  "model": "glm-5.3"
+}

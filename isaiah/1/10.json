@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 1:10",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Lalelani igama likaYahwe, anina maholi esodoma; nika indlebe umthetho ka-Elohim wethu, wena people ye-amora.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Lalelani"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "igama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "קציני",
+      "gloss": "maholi"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "esodoma"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "nika indlebe"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "umthetho"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ka-Elohim wethu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "people"
+    },
+    {
+      "surface": "עמרה",
+      "gloss": "ye-amora"
+    }
+  ],
+  "timestamp": "2026-08-31T06:09:08.941399594Z",
+  "model": "glm-5.3"
+}

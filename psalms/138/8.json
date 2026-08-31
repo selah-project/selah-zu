@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 138:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 138,
+  "translation": "uYahwe uzoyiqeda inkonzo yami; uYahwe, ikhesedi yakho ihlezi ku-kuhlelele; izindlela zezandla zakho ungazibangi ukuzidela.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יגמר",
+      "gloss": "uzoyiqeda"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ngiyena\/inkonzo yami"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuhlelele"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "izindlela\/omsebenzi"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "zezandla zakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "zibangi ukuzidela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:09.351512513Z",
+  "model": "glm-5.3"
+}

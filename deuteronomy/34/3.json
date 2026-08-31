@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Nanjengo-⟨את⟩ eningizimu, no-⟨את⟩ icala elibanzi leSigodi saseYeriho, idolobha lamakhesho, kuye kuZowari.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "nanjengo-⟨את⟩",
+      "marks": "eningizimu"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "eningizimu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "icala elibanzi"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "icala elibanzi"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "leSigodi"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "saseYeriho"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "idolobha"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "lamakhesho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuye ku"
+    },
+    {
+      "surface": "צער",
+      "gloss": "kuZowari"
+    }
+  ],
+  "timestamp": "2026-08-31T02:47:40.333771720Z",
+  "model": "glm-5.3"
+}

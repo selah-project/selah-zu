@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Ukuphila wakucela kuwe, wamunika; ubude bezinsuku kuze kube phakade nanaphakade.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "ukuphila"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "wakucela"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "wamunika"
+    },
+    {
+      "surface": "לו",
+      "gloss": "—"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ubude"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "bezinsuku"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nanaphakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:23.300462035Z",
+  "model": "glm-5.3"
+}

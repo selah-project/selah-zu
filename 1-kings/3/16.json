@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngaleso sikhathi zafika abesifazane ababili, izifebe, kuyinkosi, zamiswa phambi kwayo.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ngaleso sikhathi"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "zafika"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ababili"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "abesifazane"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "izifebe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "zamiswa"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:47:26.650781482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 109:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Bazingela ngamazwi okuzonda, balwa nami mahala.",
+  "tokens": [
+    {
+      "surface": "ודברי",
+      "gloss": "ngamazwi"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "okuzonda"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "Bazingela"
+    },
+    {
+      "surface": "וילחמוני",
+      "gloss": "balwa nami"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "mahala"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:56.985927046Z",
+  "model": "glm-5.3"
+}

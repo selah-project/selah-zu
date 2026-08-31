@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 81,
+  "translation": "Zwakala, bantu bami, futhi ngiyakufakazela; Israyeli, uma uzuzwela lami —",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Zwakala"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "bantu bami"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "futhi ngiyakufakazela"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "uzuzwela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:31.932843595Z",
+  "model": "glm-5.3"
+}

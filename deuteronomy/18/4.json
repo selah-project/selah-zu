@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 18:4",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Izibonakaliso zokuqala zokudla kwakho, iwayini lakho olusha, uhowo lwakho, kanye nekhanda lokuqala lemvu yakho, uzakunikeza yena.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "izibonakaliso zokuqala"
+    },
+    {
+      "surface": "דגנך",
+      "gloss": "zokudla kwakho"
+    },
+    {
+      "surface": "תירשך",
+      "gloss": "iwayini lakho olusha"
+    },
+    {
+      "surface": "ויצהרך",
+      "gloss": "uhowo lwakho"
+    },
+    {
+      "surface": "וראשית",
+      "gloss": "kanye nekhanda lokuqala"
+    },
+    {
+      "surface": "גז",
+      "gloss": "lemvu"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "yakhe"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "uzakunikeza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T02:41:00.847536739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 88,
+  "translation": "Ngingabalwe ⟨abahleli⟩ nabathileyo abaye emgodini; ngaba njengendoda engenamandla.",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "Ngingabalwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "nama"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "abathileyo abaye"
+    },
+    {
+      "surface": "בור",
+      "gloss": "emgodini"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ngaba"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "njengendoda"
+    },
+    {
+      "surface": "אין",
+      "gloss": "engena-"
+    },
+    {
+      "surface": "איל",
+      "gloss": "mandla"
+    }
+  ],
+  "timestamp": "2026-08-31T10:56:29.489148192Z",
+  "model": "glm-5.3"
+}

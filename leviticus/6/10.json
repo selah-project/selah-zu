@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 6:10",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ayizubhakwa inyevu; ingxenye yabo nginike ⟨את⟩ yona emadini ami; ingcwele engcwelekileyo yilo, njengesono njengesiphalaphala.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ayizu"
+    },
+    {
+      "surface": "תאפה",
+      "gloss": "bhakwa"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "inyevu"
+    },
+    {
+      "surface": "חלקם",
+      "gloss": "ingxenye yabo"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "nginike"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yona"
+    },
+    {
+      "surface": "מאשי",
+      "gloss": "emadini ami"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ingcwele"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "engcwelekileyo"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    },
+    {
+      "surface": "כחטאת",
+      "gloss": "njengesono"
+    },
+    {
+      "surface": "וכאשם",
+      "gloss": "njengesiphalaphala"
+    }
+  ],
+  "timestamp": "2026-08-31T01:51:28.061590904Z",
+  "model": "glm-5.3"
+}

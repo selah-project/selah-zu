@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 41:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "uParo walaka kuzigqili zakhe, wasifaka emgovolo yendlu yesibonda labahlinzi, mina nesibonda labakhi.",
+  "tokens": [
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "walaka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "zigqili zakhe"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wasifaka"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩mina",
+      "marks": "emgovolo"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "emgovolo"
+    },
+    {
+      "surface": "בית",
+      "gloss": "yendlu"
+    },
+    {
+      "surface": "שר",
+      "gloss": "yesibonda"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "labahlinzi"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩mina",
+      "marks": "mina nesibonda labakhi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩no",
+      "marks": "isibonda labakhi"
+    },
+    {
+      "surface": "שר",
+      "gloss": "isibonda"
+    },
+    {
+      "surface": "האפים",
+      "gloss": "labakhi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:20:35.706752175Z",
+  "model": "glm-5.3"
+}

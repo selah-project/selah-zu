@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 12:6",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi nizoletha lapha izinkonzo zokushiswa zenu nezinkonzo zenu, ⟨את⟩ izikhumi zenu, ⟨את⟩ nezipho zezandla zenu, nezifungo zenu nezinikelo zenu ngokwethando, nezivelele zezinkomo zenu nezimvu zenu:",
+  "tokens": [
+    {
+      "surface": "והבאתם",
+      "gloss": "futhi nizoletha"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "עלתיכם",
+      "gloss": "izinkonzo zokushiswa zenu"
+    },
+    {
+      "surface": "וזבחיכם",
+      "gloss": "nezinkonzo zenu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izikhumi zenu"
+    },
+    {
+      "surface": "מעשרתיכם",
+      "gloss": "izikhumi zenu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nezipho zezandla zenu"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "nezipho"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "zezandla zenu"
+    },
+    {
+      "surface": "ונדריכם",
+      "gloss": "nezifungo zenu"
+    },
+    {
+      "surface": "ונדבתיכם",
+      "gloss": "nezinikelo zenu ngokwethando"
+    },
+    {
+      "surface": "ובכרת",
+      "gloss": "nezivelele"
+    },
+    {
+      "surface": "בקרכם",
+      "gloss": "zezinkomo zenu"
+    },
+    {
+      "surface": "וצאנכם",
+      "gloss": "nezimvu zenu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:36:41.293184011Z",
+  "model": "glm-5.3"
+}

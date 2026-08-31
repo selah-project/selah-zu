@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 3:50",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "⟨את⟩ Ekuzalweni kokuqala kwabantwana bakwaIsrayeli wathatha ⟨את⟩ isiliva, elinhlanu namashumi amathandathu nangesithathu emakhulu nangelingu-ngane lezigidi, ngesikeli esingcwele;",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "Ekuzalweni kokuqala kwabantwana bakwaIsrayeli"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "Ekuzalweni kokuqala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kwabantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaIsrayeli"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiliva"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "elinhlanu"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "namashumi amathandathu"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "nangesithathu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "emakhulu"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "nangelingu-ngane lezigidi"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "ngesikeli"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "esingcwele"
+    }
+  ],
+  "timestamp": "2026-08-31T02:07:58.842200035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 26:17",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "UShawuli wazwa ⟨את⟩ ilizwi likaDavide, wathi: Ilizwi lakho yilo na le, mwana wami uDavide? UDavide wathi: Ilizwi lami, nkosi yami, inkosi.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "wazwa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ilizwi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ukaDavide"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "הקולך",
+      "gloss": "ilizwi lakho"
+    },
+    {
+      "surface": "זה",
+      "gloss": "yilo na le"
+    },
+    {
+      "surface": "בני",
+      "gloss": "mwana wami"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ilizwi lami"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "nkosi yami"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:30:19.622963300Z",
+  "model": "glm-5.3"
+}

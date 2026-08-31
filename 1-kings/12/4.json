@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 12:4",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Ubaba wakho wenzela ⟨את⟩ ithwala lethu libe lubukhuni; wena manzi yehlisa umsebenzi olukhuni kababa wakho nethwala elinzima analibekile phezu kwethu, sizonikela sikukhonza.",
+  "tokens": [
+    {
+      "surface": "אביך",
+      "gloss": "ubaba wakho"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "wenzela libe lubukhuni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithwala lethu"
+    },
+    {
+      "surface": "עלנו",
+      "gloss": "ithwala lethu"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "manzi"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "yehlisa"
+    },
+    {
+      "surface": "מעבדת",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "kababa wakho"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "olukhuni"
+    },
+    {
+      "surface": "ומעלו",
+      "gloss": "nethwala"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "elinzima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ana-"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "libekile"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "phezu kwethu"
+    },
+    {
+      "surface": "ונעבדך",
+      "gloss": "sizakukhonza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:07:30.128267195Z",
+  "model": "glm-5.3"
+}

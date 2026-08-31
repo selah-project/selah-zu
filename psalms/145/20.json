@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 145:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 145,
+  "translation": "uYahwe ulondoloza ⟨את⟩ bonke abathandayo, futhi ⟨את⟩ bonke abangcolile uzakubatshabalalisa.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "ulondoloza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonke abathandayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke abathandayo"
+    },
+    {
+      "surface": "אהביו",
+      "gloss": "bonke abathandayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "bonke abangcolile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke abangcolile"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "bonke abangcolile"
+    },
+    {
+      "surface": "ישמיד",
+      "gloss": "uzakubatshabalalisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:27.035691878Z",
+  "model": "glm-5.3"
+}

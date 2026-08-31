@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 5:6",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Ngezimvu zabo nangezinkomo zabo bazohamba befuna ⟨את⟩ uYahwe, kepha angeke bamthole; uzisuse kubo.",
+  "tokens": [
+    {
+      "surface": "בצאנם",
+      "gloss": "ngezimvu zabo"
+    },
+    {
+      "surface": "ובבקרם",
+      "gloss": "nangezinkomo zabo"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "bazohamba"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "befuna"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kepha angeke"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "bamthole"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "uzisuse"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "kubo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:26:47.926577173Z",
+  "model": "glm-5.3"
+}

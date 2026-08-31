@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 78:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Bakhohlwa izenzo zakhe nezimangalisa zakhe obekazenza kubona.",
+  "tokens": [
+    {
+      "surface": "וישכחו",
+      "gloss": "Bakhohlwa"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "izenzo zakhe"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "nezimangalisa zakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "obekazi-"
+    },
+    {
+      "surface": "הראם",
+      "gloss": "-zenza kubona"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:30.105317592Z",
+  "model": "glm-5.3"
+}

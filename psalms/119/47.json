@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 119:47",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Futhi ngizothokozela emiyalweni yakho engiyithandayo.",
+  "tokens": [
+    {
+      "surface": "ואשתעשע",
+      "gloss": "futhi ngizothokozela"
+    },
+    {
+      "surface": "במצותיך",
+      "gloss": "emiyalweni yakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "yithandayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:19.180965172Z",
+  "model": "glm-5.3"
+}

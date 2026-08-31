@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 80:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 80,
+  "translation": "uElohim wemikhosi, sibuyisela, wenze ubuso bakho bukhanye, sizasindiswa.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wemikhosi"
+    },
+    {
+      "surface": "השיבנו",
+      "gloss": "sibuyisela"
+    },
+    {
+      "surface": "והאר",
+      "gloss": "wenze bukhanye"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "ונושעה",
+      "gloss": "sizasindiswa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:25.474090082Z",
+  "model": "glm-5.3"
+}

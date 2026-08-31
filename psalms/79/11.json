@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 79:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 79,
+  "translation": "Makufike phambi kwakho ukukhala komqaphazi; ngokwenkani yengalo yakho siphephele abantwabokufa.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "Makufike"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "אנקת",
+      "gloss": "ukukhala"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "komqaphazi"
+    },
+    {
+      "surface": "כגדל",
+      "gloss": "ngokwenkani"
+    },
+    {
+      "surface": "זרועך",
+      "gloss": "yengalo yakho"
+    },
+    {
+      "surface": "הותר",
+      "gloss": "siphephele"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "תמותה",
+      "gloss": "bokufa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:02.468262482Z",
+  "model": "glm-5.3"
+}

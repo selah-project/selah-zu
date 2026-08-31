@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 148,
+  "translation": "Izilwane zasendle, nazo zonke izinkomo ezifuyiwe; izilwane ezinyamalalayo, nezinnyoni ezinamaphiko;",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "Izilwane zasendle"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nazo zonke"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "izinkomo ezifuyiwe"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "izilwane ezinyamalalayo"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "nezinnyoni"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ezinamaphiko"
+    }
+  ],
+  "timestamp": "2026-08-31T06:45:21.575403505Z",
+  "model": "glm-5.3"
+}

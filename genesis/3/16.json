@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 3:16",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ewesifazane wathi: Ngingaba njalo ngizonquaba intukuthelo yakho nokuvela kwakho; ngesiswini sakho uzozala abantwana; futhi kumyeni wakho kuzoba isifiso sakho, yena uzobusa kuwe.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "E-"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "wesifazane"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "Ngingaba njalo"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "ngizonquaba"
+    },
+    {
+      "surface": "עצבונך",
+      "gloss": "ubuhlungu bakho"
+    },
+    {
+      "surface": "והרנך",
+      "gloss": "nokuvela kwakho"
+    },
+    {
+      "surface": "בעצב",
+      "gloss": "ngobuhlungu"
+    },
+    {
+      "surface": "תלדי",
+      "gloss": "uzozala"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi ku-"
+    },
+    {
+      "surface": "אישך",
+      "gloss": "myeni wakho"
+    },
+    {
+      "surface": "תשוקתך",
+      "gloss": "isifiso sakho"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ימשל",
+      "gloss": "uzobusa"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:26.708940522Z",
+  "model": "glm-5.3"
+}

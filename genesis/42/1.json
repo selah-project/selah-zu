@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 42:1",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "uYaakob wabona ukuthi kunokusinda kwengile eMitsrayim, uYaakob wasabela kubantabakhe: kungani nibhekena ndawonye?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakob"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kuno-"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ingile"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wasabela"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYaakob"
+    },
+    {
+      "surface": "לבניו",
+      "gloss": "kubantabakhe"
+    },
+    {
+      "surface": "למה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "תתראו",
+      "gloss": "nibhekena ndawonye"
+    }
+  ],
+  "timestamp": "2026-08-31T01:22:30.238030495Z",
+  "model": "glm-5.3"
+}

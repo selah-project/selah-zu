@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Kuhle ukuhamba eyendlu yokulila kokuhamba eyendlu yephuzo, ngokuba yilo kuphela isiphetho somuntu wonke, futhi ophilayo uzobeka ⟨ku⟩inhliziyo yakhe.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kuhle"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuhamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlu"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "yokulila"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "kokuhamba"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlu"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "yephuzo"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "isiphetho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "somuntu"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "futhi ophilayo"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "uzobeka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inhliziyo yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:34:55.955407176Z",
+  "model": "glm-5.3"
+}

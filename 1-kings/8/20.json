@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 8:20",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "uYahwe wamisa ⟨את⟩ icebo lakhe alishoyo; ngiyimi esikhundleni sikaDavide uyise, ngihlele esihlalweni sobukhosi sika-Israyeli, njengalokhu washo uYahwe; ngakho ngawakha indlu igama likaYahwe uElohim ka-Israyeli.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icebo lakhe"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "icebo lakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alishoyo"
+    },
+    {
+      "surface": "ואקם",
+      "gloss": "ngiyimi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "esikhundleni sika-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ויקם ואשב",
+      "gloss": ""
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ngihlele esihlalweni sobukhosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "sika-Israyeli"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengalokhu"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "washo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ואבנה",
+      "gloss": "ngakho ngawakha"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:53:05.851075392Z",
+  "model": "glm-5.3"
+}

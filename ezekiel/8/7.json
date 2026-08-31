@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Wangilingisa ⟨את⟩ wangisa emnyango wenkundla; ngabuka, futhi bheka, isibobo esisodwa odongeni.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Wangisa"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "mina (Yehekeli)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "wenkundla"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ngabuka"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "futhi bheka"
+    },
+    {
+      "surface": "חר",
+      "gloss": "isibobo"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "esisodwa"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "odongeni"
+    }
+  ],
+  "timestamp": "2026-08-31T05:05:31.940401002Z",
+  "model": "glm-5.3"
+}

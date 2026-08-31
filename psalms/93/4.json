@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 93:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 93,
+  "translation": "Kusuka emsindweni wamanzi amaningi, amagagasi amakhulu olwandle, uYahwe ohlangothini oluphezulu unguye oyedwa onamandla amakhulu.",
+  "tokens": [
+    {
+      "surface": "מקלות",
+      "gloss": "emsindweni"
+    },
+    {
+      "surface": "מים",
+      "gloss": "wamanzi"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "amaningi"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "amagagasi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "unguye oyedwa onamandla amakhulu"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "ohlangothini oluphezulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:00.705981406Z",
+  "model": "glm-5.3"
+}

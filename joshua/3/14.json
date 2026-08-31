@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 3:14",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi kwaba njengohambo lwabantu etendeni zabo ukuze bedlule ⟨את⟩ iYardeni, abelaphi abathwali be-arki yesivumelwano beya phambi kwabantu.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "futhi kwaba"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "njengohambo"
+    },
+    {
+      "surface": "העם",
+      "gloss": "lwabantu"
+    },
+    {
+      "surface": "מאהליהם",
+      "gloss": "etendeni zabo"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "ukuze bedlule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYardeni"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "iYardeni"
+    },
+    {
+      "surface": "והכהנים",
+      "gloss": "abelaphi"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "abathwali be-"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "arki"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "yesivumelwano"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "beya phambi"
+    },
+    {
+      "surface": "העם",
+      "gloss": "kwabantu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:49:53.849166897Z",
+  "model": "glm-5.3"
+}

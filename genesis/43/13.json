@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 43,
+  "translation": "Futhi thathani ⟨את⟩ umfowenu, vukani, buyelani kuyo lomuntu.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "umfowenu"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "thathani"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "futhi vukani"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "buyelani"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuya"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "lomuntu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:23:11.209716494Z",
+  "model": "glm-5.3"
+}

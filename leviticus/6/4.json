@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "ayeze ahlule ⟨את⟩ izingubo zakhe, agqoke ezinye izingubo, akhiphe ⟨את⟩ umlotha aye ngaphandle kwekampu, ayokwendaweni ehlanzekile.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "ahlule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingubo zakhe"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "izingubo zakhe"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "agqoke"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ezinye izingubo"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ezinye"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "akhiphe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umlotha"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "umlotha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "aye"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "kwekampu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ayokwen"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "daweni"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ehlanzekile"
+    }
+  ],
+  "timestamp": "2026-08-31T01:53:09.379572772Z",
+  "model": "glm-5.3"
+}

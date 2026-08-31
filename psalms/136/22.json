@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 136:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 136,
+  "translation": "Ifa ku-Israyeli, inceku yakhe: ngoba ikhesedi yakhe ihlezi kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "ifa"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "ku-Israyeli"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "inceku yakhe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:53.568486595Z",
+  "model": "glm-5.3"
+}

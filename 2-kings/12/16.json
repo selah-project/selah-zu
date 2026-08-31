@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 12:16",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi babengabali ⟨את⟩ abantu okuthi babenike ⟨את⟩ isiliva esandleni ukunikeza abalenzayo umsebenzi, ngokuba ngokwethembeka bona benza.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "futhi cha"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "babengabali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okuthi"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "babenike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiliva"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "ukunikeza"
+    },
+    {
+      "surface": "לעשי",
+      "gloss": "abalenzayo"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "באמנה",
+      "gloss": "ngokwethembeka"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "עושים",
+      "gloss": "benza"
+    }
+  ],
+  "timestamp": "2026-08-31T04:09:30.556981365Z",
+  "model": "glm-5.3"
+}

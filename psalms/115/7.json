@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 115:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 115,
+  "translation": "Izandla zinazo kodwa azikhathi, izingalo zinazo kodwa azihambi, angikhulumi ngesibindi sazo:",
+  "tokens": [
+    {
+      "surface": "ידיהם",
+      "gloss": "izandla"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa azi-"
+    },
+    {
+      "surface": "ימישון",
+      "gloss": "khathi"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "izingalo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa azi-"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "hambi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a-"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "khulumi"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "ngesisindo sazo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:43.021598406Z",
+  "model": "glm-5.3"
+}

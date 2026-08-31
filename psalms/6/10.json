@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "UYahwe uzizwe isicelo sami; uYahwe uzomamukela ukuthandazela kwami.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "uzizwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "isicelo sami sokusa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ukuthandazela kwami"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "uzomamukela"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:15.650096424Z",
+  "model": "glm-5.3"
+}

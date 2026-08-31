@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "IMikali yanqabela uDawidi aye phansi ngasesibayeni, wahamba, wabaleka, wasindiswa.",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "yanqabela aye phansi"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "iMikali"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDawidi"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ngase-"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "isibaya (window)"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "wahamba"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "wabaleka"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "wasindiswa"
+    }
+  ],
+  "timestamp": "2026-08-31T03:24:29.861333614Z",
+  "model": "glm-5.3"
+}

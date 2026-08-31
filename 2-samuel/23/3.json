@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 23:3",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "UTi wase-Israeli washo, uTsuro wase-Israeli wakhuluma kimi: umbusi wabantu ulungile, umbusi ⟨ngokwesabа⟩ uElohim.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "washo"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uTi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wase-Israeli"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "צור",
+      "gloss": "uTsuro"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wase-Israeli"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "umbusi"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "wabantu"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ulungile"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "umbusi"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T10:21:20.803471133Z",
+  "model": "glm-5.3"
+}

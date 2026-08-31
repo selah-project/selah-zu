@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 17:3",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "futhi ahambile, akhonze wona elinye ilahleko, aqonde ukuzithoba phambi kwawo, kuyilanga noma kuyinyanga noma kuyo yonke imikhosi yamazulu, engangiyalo yona;",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ahambile"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "akhonze"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "onkulunkulu"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "abanye"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "azithobile phambi"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kwawo"
+    },
+    {
+      "surface": "ו לשמש",
+      "gloss": "kuyilanga"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "לירח",
+      "gloss": "kuyinyanga"
+    },
+    {
+      "surface": "או",
+      "gloss": "noma"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuyo yonke"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "imikhosi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yamazulu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ena"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angiyalanga"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "ngiyalo yona"
+    }
+  ],
+  "timestamp": "2026-08-31T02:40:28.510570880Z",
+  "model": "glm-5.3"
+}

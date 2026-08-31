@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 68,
+  "translation": "Esithempelini sakho, ephezulu kweYerushalayimi, amakhosi bayoziletha izipho kuwe.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "esithempelini sakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "ephezulu kwa-"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "bayoziletha"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "שי",
+      "gloss": "izipho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:42.428761062Z",
+  "model": "glm-5.3"
+}

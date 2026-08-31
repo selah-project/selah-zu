@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 56,
+  "translation": "Osukwini lonke bayahlupha amazwi ami; zonke izicabango zabo zimi ngokulwa nami ngokubi.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "osukwini"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi ami"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "bayahlupha"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngami"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "izicabango zabo"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "ngokubi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:24.286625901Z",
+  "model": "glm-5.3"
+}

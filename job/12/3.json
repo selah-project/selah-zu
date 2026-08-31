@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi mina inhliziyo ingeneyo njengokwenu; angili ngiwehle kunina; futhi ⟨את⟩ ubani akanjengalaba?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "njengokwenu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angili"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ngiwehle"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "mina\/na"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "kunina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ubani"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ubani"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho\/akanjengalaba"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenga-"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "laba"
+    }
+  ],
+  "timestamp": "2026-08-31T07:13:29.737973572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Mukhonzeni ⟨את⟩ uYahwe ngokwesaba, nenjabulo ngokuzithoba.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "mukhonzeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "ngokwesaba"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "nenjabulo"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "ngokuzithoba"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:27.198325896Z",
+  "model": "glm-5.3"
+}

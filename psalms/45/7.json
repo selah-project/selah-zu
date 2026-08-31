@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 45:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Isitulo sakho, u-Elohim, siwaphakade nanaphakade; insika yokulingana yinsika yobukhosi bakho.",
+  "tokens": [
+    {
+      "surface": "כסאך",
+      "gloss": "Isitulo sakho"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "siwaphakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nanaphakade"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "insika"
+    },
+    {
+      "surface": "מישר",
+      "gloss": "yokulingana"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "yinsika"
+    },
+    {
+      "surface": "מלכותך",
+      "gloss": "yobukhosi bakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:23.435962063Z",
+  "model": "glm-5.3"
+}

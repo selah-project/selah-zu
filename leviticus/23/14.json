@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 23:14",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Futhi isinkwa nembila ososiwe nezithumba ezisemusha angeke nidle kuze kufike ngempela lolu suku, kuze nilethe ⟨את⟩ umnikelo kaElohim wenu; mmetho ophakade ezizukulwaneni zenu kuzo zonke izindawo zokuhlala zenu.",
+  "tokens": [
+    {
+      "surface": "ולחם",
+      "gloss": "futhi isinkwa"
+    },
+    {
+      "surface": "וקלי",
+      "gloss": "nembila ososiwe"
+    },
+    {
+      "surface": "וכרמל",
+      "gloss": "nezithumba ezisemusha"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "nidle"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "kufike ngempela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lolu suku"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨lolu⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "הביאכם",
+      "gloss": "nilethe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umnikelo"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "umnikelo"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "kaElohim wenu"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "mmetho"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ophakade"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "ezizukulwaneni zenu"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "izindawo zokuhlala zenu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:04:02.254905760Z",
+  "model": "glm-5.3"
+}

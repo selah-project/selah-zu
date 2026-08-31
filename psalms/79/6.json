@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 79:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 79,
+  "translation": "Thulula intukuthelo yakho ezizweni ezingakwazi, nakumakhosi ezwe azibizanga ngegama lakho.",
+  "tokens": [
+    {
+      "surface": "שפך",
+      "gloss": "thulula"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "intukuthelo yakho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ezizweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezingakwazi ⟨ezo⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "zinga"
+    },
+    {
+      "surface": "ידעוך",
+      "gloss": "kwazi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "naku"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "umakhosi ezwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezibizanga ⟨ezo⟩"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ngegama lakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "zi"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "biza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:53.789143981Z",
+  "model": "glm-5.3"
+}

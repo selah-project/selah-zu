@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "micah 7:17",
+  "book": "micah",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Bazaletha umhlabathi njengenyoka, njengemilobo yomhlaba bazoyizwa ezimpungeni zabo; kuYahwe uElohim wethu bazoyisabisa, bazoyizwa ngawe.",
+  "tokens": [
+    {
+      "surface": "ילחכו",
+      "gloss": "bazaletha"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "umhlabathi"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "njengenyoka"
+    },
+    {
+      "surface": "כזחלי",
+      "gloss": "njengemilobo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yomhlaba"
+    },
+    {
+      "surface": "ירגזו",
+      "gloss": "bazoyizwa"
+    },
+    {
+      "surface": "ממסגרתיהם",
+      "gloss": "ezimpungeni zabo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "יפחדו",
+      "gloss": "bazoyisabisa"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "bazoyizwa"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ngawe"
+    }
+  ],
+  "timestamp": "2026-08-31T05:37:48.906541302Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "amos 3:10",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi abazi ukwenza okuqondile, kusho uYahwe — abo begcina ukubhedla nokuzuzwa ngokwebula ezindlini-zinkulu zabo.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Futhi abazi"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "abazi"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "נכחה",
+      "gloss": "okuqondile"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kusho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "האוצרים",
+      "gloss": "abo begcina"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ukubhedla"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "nokuzuzwa ngokwebula"
+    },
+    {
+      "surface": "בארמנותיהם",
+      "gloss": "ezindlini-zinkulu zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:31:30.559716748Z",
+  "model": "glm-5.3"
+}

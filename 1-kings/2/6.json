@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 2:6",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "wenze ngokuhlakanipha kwakho, umvumela ihlobo elidala lakhe ukuthi lihleli iSheol ezweni lokuthula.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "כחכמתך",
+      "gloss": "ngokuhlakanipha kwakho"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi-ungabi"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "umvumela... ehlela"
+    },
+    {
+      "surface": "שיבתו",
+      "gloss": "ihlobo elidala lakhe"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "ezweni lokuthula"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "iSheol"
+    }
+  ],
+  "timestamp": "2026-08-31T06:06:11.427456259Z",
+  "model": "glm-5.3"
+}

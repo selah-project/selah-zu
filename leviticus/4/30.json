@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 4:30",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi umpristi uzothatha ngengane yomunwe ingxenye yegazi layo, aze abekhe emigonjeni ye-altare yomhlatshelo wokushiswa, bese echitha ⟨את⟩ igazi layo lonke esisekelweni se-altare.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "uzothatha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "מדמה",
+      "gloss": "ngengxenye yegazi layo"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "ngengane yomunwe yakhe"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "aze abekhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "kwi"
+    },
+    {
+      "surface": "קרנת",
+      "gloss": "emigonjeni"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ye-altare"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "yomhlatshelo wokushiswa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "igazi layo lonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "igazi layo"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "echitha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "esisekelweni"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "se-altare"
+    }
+  ],
+  "timestamp": "2026-08-31T01:52:36.852325212Z",
+  "model": "glm-5.3"
+}

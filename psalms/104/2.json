@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 104:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 104,
+  "translation": "Ozungeza ngokukhanya njengengubo, oweba amazulu njengetende.",
+  "tokens": [
+    {
+      "surface": "עטה",
+      "gloss": "Ozungeza"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ukukhanya"
+    },
+    {
+      "surface": "כשלמה",
+      "gloss": "njengengubo"
+    },
+    {
+      "surface": "נוטה",
+      "gloss": "oweba"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "כיריעה",
+      "gloss": "njengetende"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:20.960922186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 71:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 71,
+  "translation": "Ngizongena ngezenzakalo-zamandla zeNkosi uYahwe; ngizokhumbula ukulunga kwakho, kwakho yedwa.",
+  "tokens": [
+    {
+      "surface": "אבוא",
+      "gloss": "ngizongena"
+    },
+    {
+      "surface": "בגברות",
+      "gloss": "ngezenzakalo-zamandla"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אזכיר",
+      "gloss": "ngizokhumbula"
+    },
+    {
+      "surface": "צדקתך",
+      "gloss": "ukulunga kwakho"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "kwakho yedwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:00.372944357Z",
+  "model": "glm-5.3"
+}

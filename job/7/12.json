@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ingabe mina ngilolwandle, noma isilo selwandle, ukuthi ubeke phezu kwami isiginci?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "lolwandle (ulwandle)"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina ngi-"
+    },
+    {
+      "surface": "אם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "isilo selwandle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ubeke"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "isiginci"
+    }
+  ],
+  "timestamp": "2026-08-31T07:10:22.016200313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Umoya kaYahwe wasuka kuSawuli, umoya omubi wamkhathazza yena ovela ⟨את⟩ kuYahwe.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "Umoya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "wasuka"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uSawuli"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "wamkhathazza"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "omubi"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ovela",
+      "marks": "kuYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kuYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:23:11.853704592Z",
+  "model": "glm-5.3"
+}

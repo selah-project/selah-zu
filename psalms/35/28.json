@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "Ulimi lwami luzokhuluma ⟨ngokujulile⟩ ukulunga kwakho, indumiso yakho ngosuku wonke.",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "Ulimi lwami"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "luzokhuluma ⟨ngokujulile⟩"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "ukulunga kwakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "indumiso yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:24.662528901Z",
+  "model": "glm-5.3"
+}

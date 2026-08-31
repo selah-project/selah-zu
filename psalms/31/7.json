@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Ngiyazidela abagcini bezinto ezingenalutho eziyamanga, kodwa mina ngiyaYahwe ngithembe.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "ngiyazidela"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "abagcini"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "bezinto ezingenalutho"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "eziyamanga"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kodwa mina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ngithembe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:36.304156085Z",
+  "model": "glm-5.3"
+}

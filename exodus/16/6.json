@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 16:6",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "UMoshe no-Aharon basho kubo bonke abantwana bakwa-Israyeli: Ngekusiku nizoyazi ukuthi uYahwe unikhuphile ⟨את⟩—nina—esweni leMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "basho"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "no-Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ngekusiku"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "nizoyazi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "unikhuphile"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "esweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "leMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:00.761960538Z",
+  "model": "glm-5.3"
+}

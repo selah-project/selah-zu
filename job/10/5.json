@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 10:5",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ingaba izinsuku zakho ⟨ziyinzela⟩ njengezinsuku zomuntu, noma iminyaka yakho njengeminyaka yendoda?",
+  "tokens": [
+    {
+      "surface": "הכימי",
+      "gloss": "njengezinsuku"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "zomuntu"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "izinsuku zakho"
+    },
+    {
+      "surface": "אם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "שנותיך",
+      "gloss": "iminyaka yakho"
+    },
+    {
+      "surface": "כימי",
+      "gloss": "njengeminyaka"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "yendoda"
+    }
+  ],
+  "timestamp": "2026-08-31T08:56:59.209616891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 24:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Umhlaba usizela, iciwe; ihlabathi lidangele, liciwe; badangele abaphakeme — izizwe zomhlaba.",
+  "tokens": [
+    {
+      "surface": "אבלה",
+      "gloss": "usizela"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "iciwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "lidangele"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "liciwe"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ihlabathi"
+    },
+    {
+      "surface": "אמללו",
+      "gloss": "badangele"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "abaphakeme"
+    },
+    {
+      "surface": "עם",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zomhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T04:24:45.438473423Z",
+  "model": "glm-5.3"
+}

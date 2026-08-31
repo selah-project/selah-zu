@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "amos 5:26",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Futhi nani nathwala ⟨את⟩ uSikkuth inkosi yenu, no-⟨את⟩ uKiyyuni izithombe zenu, inkanyezi yamakhosi enu (onkulunkulu benu), enaziyenzela yona.",
+  "tokens": [
+    {
+      "surface": "ונשאתם",
+      "gloss": "futhi nani nathwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uSikkuth"
+    },
+    {
+      "surface": "סכות",
+      "gloss": "uSikkuth"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "inkosi yenu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "uKiyyuni"
+    },
+    {
+      "surface": "כיון",
+      "gloss": "uKiyyuni"
+    },
+    {
+      "surface": "צלמיכם",
+      "gloss": "izithombe zenu"
+    },
+    {
+      "surface": "כוכב",
+      "gloss": "inkanyezi"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "amakhosi enu (onkulunkulu benu)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ena"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "naziyenze"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "yenzela yona"
+    }
+  ],
+  "timestamp": "2026-08-31T11:51:32.607665040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kodwa kuTorati kaYahwe ithokozeli lakhe, futhi kuTorata yakhe ucabangisisa emini nasebusuku.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "kuTorati"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "ithokozeli lakhe"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "futhi kuTorata yakhe"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ucabangisisa"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "emini"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "nasebusuku"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:04.731524246Z",
+  "model": "glm-5.3"
+}

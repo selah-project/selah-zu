@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 13:23",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Yaba ngumkhawulo wabantwana bakaRuwben uJordani nomkhawulo wawo. Le yifazithi labantwana bakaRuwben ngokwemindeni yabo — izidolobha namakhampasi yawo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "umkhawulo"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "bakaRuwben"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "uJordani"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "nomkhawulo"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ifazithi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "bakaRuwben"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngokwemindeni yabo"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "izidolobha"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "namakhampasi yawo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:18:13.637499418Z",
+  "model": "glm-5.3"
+}

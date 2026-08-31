@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 27:1",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Futhi uzokwenza ⟨את⟩ isibekelo ngokuni zomthi we-acasia; izingalo ezinhlanu ubude, futhi izingalo ezinhlanu ububanzi; okwezikwele kuzoba yisibekelo, futhi izingalo ezintathu ukuphakama kwaso.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "futhi uzokwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibekelo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "isibekelo"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ngokuni"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "zomthi we-acasia"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ezinhlanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "izingalo"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ubude"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "futhi ezinhlanu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "izingalo"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ububanzi"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "okwezikwele"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuzoba"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "yisibekelo"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "futhi ezintathu"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "izingalo"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ukuphakama kwaso"
+    }
+  ],
+  "timestamp": "2026-08-31T01:40:35.972103426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 7:10",
+  "book": "ezra",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ngokuba u-Ezra walungisa inhliziyo yakhe ukuyodla ⟨את⟩ umthetho kaYahwe, nowokuwenzile, nowokufundisa e-Israel isimiso nomthetho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "u-Ezra"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "walungisa"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "inhliziyo yakhe"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "ukuyodla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umthetho kaYahwe"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "umthetho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ולעשת",
+      "gloss": "nowokuwenzile"
+    },
+    {
+      "surface": "וללמד",
+      "gloss": "nowokufundisa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "e-Israel"
+    },
+    {
+      "surface": "חק",
+      "gloss": "isimiso"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "nomthetho"
+    }
+  ],
+  "timestamp": "2026-08-31T08:09:48.903664153Z",
+  "model": "glm-5.3"
+}

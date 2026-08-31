@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 21:17",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi ohlaba ubaba wakhe nomama wakhe — ngokufa uzofa.",
+  "tokens": [
+    {
+      "surface": "ומקלל",
+      "gloss": "futhi ohlaba"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ubaba wakhe"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "nomama wakhe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ngokufa"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "uzofa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:38:02.163029891Z",
+  "model": "glm-5.3"
+}

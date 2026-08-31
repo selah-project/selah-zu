@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 18:30",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Yinkosi yase-Aram yalela abaholi bezingane ezivela kuyena, ithi: NINGALWANGA ⟨את⟩ nenduna encane noma ⟨את⟩ inkulu, kodwa-ke lapho kuphela ⟨את⟩ inkosi yakwa-Israyeli yodwa.",
+  "tokens": [
+    {
+      "surface": "וּמֶ֣לֶךְ",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "אֲרָ֡ם",
+      "gloss": "Aram"
+    },
+    {
+      "surface": "צִוָּה֩",
+      "gloss": "yalela"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "abaholi bezingane ezivela kuyena"
+    },
+    {
+      "surface": "שָׂרֵ֨י",
+      "gloss": "abaholi"
+    },
+    {
+      "surface": "הָרֶ֤כֶב",
+      "gloss": "bezingane"
+    },
+    {
+      "surface": "אֲשֶׁר֙",
+      "gloss": "ezivela"
+    },
+    {
+      "surface": "ל֔וֹ",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "לֵאמֹ֔ר",
+      "gloss": "ithi"
+    },
+    {
+      "surface": "לֹ֚א",
+      "gloss": "kabi"
+    },
+    {
+      "surface": "תִּלָּ֣חֲמ֔וּ",
+      "gloss": "nilwe"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "nenduna encane"
+    },
+    {
+      "surface": "הַקָּטֹ֖ן",
+      "gloss": "encane"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "inkulu"
+    },
+    {
+      "surface": "הַגָּד֑וֹל",
+      "gloss": "inkulu"
+    },
+    {
+      "surface": "כִּ֛י",
+      "gloss": "kodwa-ke"
+    },
+    {
+      "surface": "אִֽם",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi yakwa-Israyeli"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "יִשְׂרָאֵ֖ל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "לְבַדּֽוֹ",
+      "gloss": "yodwa"
+    }
+  ],
+  "timestamp": "2026-08-31T10:38:47.662403891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 1:12",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Manje-ke woza, ngicela ngikunike iselulezo, uziphuncule ⟨את⟩ umphefumulo wakho ⟨את⟩ nomphefumolo wedodana yakho uShelomo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Manje-ke"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "woza"
+    },
+    {
+      "surface": "איעצך",
+      "gloss": "ngikunike iselulezo"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngicela"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "iselulezo"
+    },
+    {
+      "surface": "ומלטי",
+      "gloss": "uziphuncule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umphefumulo wakho"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "umphefumulo wakho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "nomphefumolo wedodana yakho uShelomo"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "umphefumolo"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "wedodana yakho"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:46:00.733351684Z",
+  "model": "glm-5.3"
+}

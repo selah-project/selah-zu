@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 19:13",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "UMikal wathatha ⟨את⟩ itheraphim, wayibeka embhedweni, futhi ⟨את⟩ iselo sezimpondo zezimbuzi wabisa ezandleni zakhe zasekhanda, wayigubha ngesembatho.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "UMikal"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itheraphim"
+    },
+    {
+      "surface": "התרפים",
+      "gloss": "itheraphim"
+    },
+    {
+      "surface": "ותשם",
+      "gloss": "wayibeka"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "embhedweni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iselo sezimpondo zezimbuzi"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "iselo"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "zezimbuzi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "wabisa"
+    },
+    {
+      "surface": "מראשתיו",
+      "gloss": "ezandleni zakhe zasekhanda"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "wayigubha"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ngisembatho"
+    }
+  ],
+  "timestamp": "2026-08-31T03:24:08.605542586Z",
+  "model": "glm-5.3"
+}

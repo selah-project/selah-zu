@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "u-Azariya wazala ⟨את⟩ u-Seraya, u-Seraya wazala ⟨את⟩ uYehotsadakhi;",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "u-Azariya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Seraya"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "u-Seraya"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "u-Seraya"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYehotsadakhi"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "uYehotsadakhi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:20:20.194538251Z",
+  "model": "glm-5.3"
+}

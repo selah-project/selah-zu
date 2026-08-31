@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "uYahwe useduze nabaphhukile intliziyo, futhi ⟨את⟩ abacindezelwe umoya uyabasindisa.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "useduze"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "nabaphhukile"
+    },
+    {
+      "surface": "לב",
+      "gloss": "intliziyo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abacindezelwe umoya"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "abacindezelwe"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "uyabasindisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:39.888872384Z",
+  "model": "glm-5.3"
+}

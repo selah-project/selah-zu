@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 37:25",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Ngangingumfana, futhi ngaguga, kodwa angibonanga ⟨umuntu⟩ olungile eshiyiwe, nenzalo yakhe icela inkambu.",
+  "tokens": [
+    {
+      "surface": "נער",
+      "gloss": "umfana"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ngangingu-"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "ngaguga"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa-anga"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ngibonanga"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "olungile"
+    },
+    {
+      "surface": "נעזב",
+      "gloss": "eshiyiwe"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "futhi inzalo yakhe"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "icela"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "inkambu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:49.702547839Z",
+  "model": "glm-5.3"
+}

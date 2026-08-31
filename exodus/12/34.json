@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 12:34",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Abantu baliftha ⟨את⟩ ukudla okungakavuthwa kwasemuva, engakafuni; izitsha zabo zokunyathelisa zazingcwatshiwe ezimpahleni zabo emahlombe awo.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "baliftha"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukudla okungakavuthwa"
+    },
+    {
+      "surface": "בצקו",
+      "gloss": "ukudla okungakavuthwa kwasemuva"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "engakafuni"
+    },
+    {
+      "surface": "יחמץ",
+      "gloss": "kwasemuva"
+    },
+    {
+      "surface": "משארתם",
+      "gloss": "izitsha zabo zokunyathelisa"
+    },
+    {
+      "surface": "צררת",
+      "gloss": "zazingcwatshiwe"
+    },
+    {
+      "surface": "בשמלתם",
+      "gloss": "ezimpahleni zabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "-"
+    },
+    {
+      "surface": "שכמם",
+      "gloss": "emahlombe awo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:32:53.962642786Z",
+  "model": "glm-5.3"
+}

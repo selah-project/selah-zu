@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Futhi ngizakucwasa izizukulwane ⟨את⟩ zikaDavida ngenxa yalokhu, kodwa hhayi izinsuku zonke.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "futhi ngizakucwasa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izizukulwane zikaDavida"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "izizukulwane"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "zikaDavida"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenxa yalokhu"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "yokhu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hhayi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "izinsuku"
+    }
+  ],
+  "timestamp": "2026-08-31T03:57:07.839535725Z",
+  "model": "glm-5.3"
+}

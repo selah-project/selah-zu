@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Bheka, umona uyananzeka, futhi unemfuyo, uzele ubuxoki.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "uyananzeka"
+    },
+    {
+      "surface": "און",
+      "gloss": "umona\/ububi"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "futhi unemfuyo"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ubuhlungu"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "uzele"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ubuxoki"
+    }
+  ],
+  "timestamp": "2026-08-31T05:46:01.886145930Z",
+  "model": "glm-5.3"
+}

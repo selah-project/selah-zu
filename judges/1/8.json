@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 1:8",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Abantwana bakwaYuda balwa neYerushalayimi, bayithatha, bayibetha ngaso isiphambano somkhwa, bathumela ⟨את⟩ umuzi emlilweni.",
+  "tokens": [
+    {
+      "surface": "וילחמו",
+      "gloss": "balwa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Abantwana"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bakwaYuda"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "neYerushalayimi"
+    },
+    {
+      "surface": "וילכדו",
+      "gloss": "bayithatha"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "⟨את⟩ yona",
+      "marks": "iYerushalayimi"
+    },
+    {
+      "surface": "ויכוה",
+      "gloss": "bayibetha"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ngaso isiphambano"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "somkhwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umuzi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "umuzi"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "bathumela"
+    },
+    {
+      "surface": "באש",
+      "gloss": "emlilweni"
+    }
+  ],
+  "timestamp": "2026-08-31T03:00:38.285055895Z",
+  "model": "glm-5.3"
+}

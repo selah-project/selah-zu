@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Ngokuba uyihlo bami nomina bami bangishiyile, kodwa uYahwe uzongiqoqa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyihlo bami"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "nomina bami"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "bangishiyile"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "kodwa uYahwe"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "uzongiqoqa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:16.919624477Z",
+  "model": "glm-5.3"
+}

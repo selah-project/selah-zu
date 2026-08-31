@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 9:3",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ngeke bahlale emhlabeni kaYahwe; u-Efrayimi uzobuyela eMitsrayim, naseAshshuri bazokudla okungcolile.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bahlale"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "uzobuyela"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "u-Efrayimi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "ובאשור",
+      "gloss": "naseAshshuri"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "okungcolile"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "bazokudla"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:36.935485168Z",
+  "model": "glm-5.3"
+}

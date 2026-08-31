@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "uYahwe uElohim wami, ngigununde kuwe, waziphilisa.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wami"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ngigununde"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "waziphilisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:31.589199783Z",
+  "model": "glm-5.3"
+}

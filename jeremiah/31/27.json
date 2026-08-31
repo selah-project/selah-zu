@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 31:27",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Bhela, izinsuku ziyafika, inkulumo kaYahwe, ngizozalela ⟨את⟩ indlu kaYisraeli nanga-⟨את⟩ indlu kaYehudha imbewu yomuntu nembewu yesilwane.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bhela"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "באים",
+      "gloss": "ziyafika"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "inkulumo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "וזרעתי",
+      "gloss": "ngizozalela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu kaYisraeli"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kaYisraeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "nanga-⟨את⟩",
+      "marks": "indlu kaYehudha"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kaYehudha"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "imbewu"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yomuntu"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "nembewu"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "yesilwane"
+    }
+  ],
+  "timestamp": "2026-08-31T04:51:05.234618513Z",
+  "model": "glm-5.3"
+}

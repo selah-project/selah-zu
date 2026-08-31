@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 89:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Ngokuba uYahwe ungowethu isihlangu, futhi oNgcwele wakwa-Israyeli ungunkosi yethu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "מגננו",
+      "gloss": "isihlangu sethu"
+    },
+    {
+      "surface": "ולקדוש",
+      "gloss": "futhi kuNcwele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wakwa-Israyeli"
+    },
+    {
+      "surface": "מלכנו",
+      "gloss": "inkosi yethu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:51.254068132Z",
+  "model": "glm-5.3"
+}

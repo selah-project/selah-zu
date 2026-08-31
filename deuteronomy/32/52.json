@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "deuteronomy 32:52",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Ngokumuva uzobona ⟨את⟩ izwe, kodwa awungeni lapho, ezweni engilinika abantwana bakwa-Israyeli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "ngokumuva"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "uzobona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwe"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "kodwa lapho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "-ngeni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "zweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אני",
+      "gloss": "-ngi-"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "-linika"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abantwana bakwa-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T02:46:07.374557726Z",
+  "model": "glm-5.3"
+}

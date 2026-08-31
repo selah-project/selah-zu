@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Esikhundleni sokuthanda kwami bashiya amacala phezu kwami; kumina — mina ngithandazo.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Esikhundleni sowo-"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "thanda kwami"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "bashiya amacala phezu kwami"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kumina — mina"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ngithandazo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:56.986061851Z",
+  "model": "glm-5.3"
+}

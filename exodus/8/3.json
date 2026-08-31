@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 8:3",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Abalobi benza njalonjalo ngobucimakazi babo, baze bavusa ⟨את⟩ izintuli phezu komhlaba weMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "החרטמים",
+      "gloss": "abalobi"
+    },
+    {
+      "surface": "בלטיהם",
+      "gloss": "ngobucimakazi babo"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "bavusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izintuli"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "izintuli"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "omhlaba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:58.614489233Z",
+  "model": "glm-5.3"
+}

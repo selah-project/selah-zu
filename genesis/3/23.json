@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 3:23",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "uYahwe uElohim wamuthuma ⟨את⟩ umuntu esivandeni se-Edeni ukulima ⟨את⟩ umhlaba lapho athathwe khona.",
+  "tokens": [
+    {
+      "surface": "וישלחהו",
+      "gloss": "wamuthuma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "esivandeni"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "se-Edeni"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ukulima"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "athathwe"
+    },
+    {
+      "surface": "משם",
+      "gloss": "khona"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:29.044761640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 29:10",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "izingane zenu, abafazi benu, nalowomuzani wakho okhaphakathi emakhempeni yakho, kusukela owasikha izinkuni zakho ize kowadonsa amanzi akho.",
+  "tokens": [
+    {
+      "surface": "טפכם",
+      "gloss": "izingane zenu"
+    },
+    {
+      "surface": "נשיכם",
+      "gloss": "abafazi benu"
+    },
+    {
+      "surface": "וגרך",
+      "gloss": "nalowomuzani wakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okh"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "מחניך",
+      "gloss": "emakhempeni yakho"
+    },
+    {
+      "surface": "מחטב",
+      "gloss": "kusukela owasikha"
+    },
+    {
+      "surface": "עציך",
+      "gloss": "izinkuni zakho"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ize ku-"
+    },
+    {
+      "surface": "שאב",
+      "gloss": "owadonsa"
+    },
+    {
+      "surface": "מימיך",
+      "gloss": "amanzi akho"
+    }
+  ],
+  "timestamp": "2026-08-31T02:44:42.893423058Z",
+  "model": "glm-5.3"
+}

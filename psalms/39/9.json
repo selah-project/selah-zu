@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Sindisa mina kuzo zonke iziphambano zami; ungangenza isihawu lomsundu ⟨ndenziwe⟩.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "iziphambano zami"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "sindisa mina"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "isihawu"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "lomsundu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "ngangenza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:37.250019331Z",
+  "model": "glm-5.3"
+}

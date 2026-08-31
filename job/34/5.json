@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Ngokuba u-Iyyobu uthe: ngilungile, kodwa u-El ususile isinqumo sami.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "u-Iyyobu"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "ngilungile"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "kodwa u-El"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ususile"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "isinqumo sami"
+    }
+  ],
+  "timestamp": "2026-08-31T07:27:14.542207147Z",
+  "model": "glm-5.3"
+}

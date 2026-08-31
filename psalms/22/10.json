@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Ngokuba wena ungikhishile esizahleni, wangenza ukuthi ngithembe, ezifubeni zikanina.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "ungikhishile"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "esizahleni"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "wangenza ukuthi ngithembe"
+    },
+    {
+      "surface": "על",
+      "gloss": "eza"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ezifubeni"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "zikanina"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:25.237018335Z",
+  "model": "glm-5.3"
+}

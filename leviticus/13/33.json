@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 13:33",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Futhi uzozigeza izintombi zakhe, kepha indawo yenyege ⟨את⟩ ingenwa yena; umpristi uzoyisulela ⟨את⟩ indawo yenyege izinsuku eziyisikhombisa okwesibili.",
+  "tokens": [
+    {
+      "surface": "והתגלח",
+      "gloss": "uzozigeza izintombi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ingenwa yena"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "indawo yenyege"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akayi"
+    },
+    {
+      "surface": "יגלח",
+      "gloss": "ukuyigena"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "uzosulela"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "umpristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indawo yenyege"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "indawo yenyege"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ezingu-"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku eziyisikhombisa"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "okwesibili"
+    }
+  ],
+  "timestamp": "2026-08-31T05:58:33.364745381Z",
+  "model": "glm-5.3"
+}

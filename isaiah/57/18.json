@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 57:18",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 57,
+  "translation": "Izindlela zakhe ngizibonile, futhi ngizophulukisa ⟨isibindi⟩ sakhe; ngizophakamisa izinkomfa, futhi ngobuyisa izinkomfa kuyena nakubalanduli bakhe.",
+  "tokens": [
+    {
+      "surface": "דרכיו",
+      "gloss": "izindlela zakhe"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ngizibonile"
+    },
+    {
+      "surface": "וארפאהו",
+      "gloss": "futhi ngizophulukisa yena"
+    },
+    {
+      "surface": "ואנחהו",
+      "gloss": "futhi ngizikhulisa izinkomfa kuyena"
+    },
+    {
+      "surface": "ואשלם",
+      "gloss": "futhi ngizobuyisa"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "izinkomfa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "ולאבליו",
+      "gloss": "nakubalanduli bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:35:39.825971556Z",
+  "model": "glm-5.3"
+}

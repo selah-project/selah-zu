@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 26:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Ukuze ngikhulume ngelivazi lesibongo, futhi ngixoxe konke okumangalisayo kwakho.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "Ukuze ngikhulume"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ngelivazi"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "lesibongo"
+    },
+    {
+      "surface": "ולספר",
+      "gloss": "futhi ngixoxe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "okumangalisayo kwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:55.493447007Z",
+  "model": "glm-5.3"
+}

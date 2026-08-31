@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 147,
+  "translation": "Unikeza izilwane ukudla kwazo, nabantwana bezinkovu abayibizayo.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "unikeza"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "izilwane"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "ukudla kwazo"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abantwana be-"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "inkovu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "yibizayo"
+    }
+  ],
+  "timestamp": "2026-08-31T11:45:10.673404917Z",
+  "model": "glm-5.3"
+}

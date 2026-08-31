@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Kumele umkhulule unina, ⟨את⟩ bese uthatha ⟨את⟩ abantwana uzibhekele; ukuze kube kuhle kuwena, futhi uhlise izinsuku zakho.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "umkhulule"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "kumele u-... khulule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unina"
+    },
+    {
+      "surface": "האם",
+      "gloss": "unina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ bese uthatha"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "uthatha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "uzibhekele"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "kubekuhle"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwena"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "uhlise"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    }
+  ],
+  "timestamp": "2026-08-31T02:40:49.441492010Z",
+  "model": "glm-5.3"
+}

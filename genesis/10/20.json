@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 10:20",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Laba yizindlela zikaKhamu, ngemindeni yabo, ngolimi lwabo, ezweni labo, ezizweni zabo",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Laba"
+    },
+    {
+      "surface": "בני",
+      "gloss": "yizindlela zika"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Khamu"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngemindeni yabo"
+    },
+    {
+      "surface": "ללשנתם",
+      "gloss": "ngolimi lwabo"
+    },
+    {
+      "surface": "בארצתם",
+      "gloss": "ezweni labo"
+    },
+    {
+      "surface": "בגויהם",
+      "gloss": "ezizweni zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:05.462353516Z",
+  "model": "glm-5.3"
+}

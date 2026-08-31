@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Futhi uMoshe wakhuluma nabantwana bakwa-Israyeli ukwenza iPasika.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "Futhi wakhuluma"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "na-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "iPasika"
+    }
+  ],
+  "timestamp": "2026-08-31T02:13:50.797028742Z",
+  "model": "glm-5.3"
+}

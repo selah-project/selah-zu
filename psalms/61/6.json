@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 61:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 61,
+  "translation": "Ngokuba wena, uElohim, uzuzile izithembiso zami; unike isabelo sabasabayi igama lakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "uzuzile"
+    },
+    {
+      "surface": "לנדרי",
+      "gloss": "izithembiso zami"
+    },
+    {
+      "surface": "נתת",
+      "gloss": "unike"
+    },
+    {
+      "surface": "ירשת",
+      "gloss": "isabelo"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "abasabayi"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:04.276877335Z",
+  "model": "glm-5.3"
+}

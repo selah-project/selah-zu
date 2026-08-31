@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 69:24",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Makufiphale amehlo abo ukungaboni, futhi izinqunu zabo makuzimele zonke izinsuku.",
+  "tokens": [
+    {
+      "surface": "תחשכנה",
+      "gloss": "makufiphale"
+    },
+    {
+      "surface": "עיניהם",
+      "gloss": "amehlo abo"
+    },
+    {
+      "surface": "מראות",
+      "gloss": "ukungaboni"
+    },
+    {
+      "surface": "ומתניהם",
+      "gloss": "futhi izinqunu zabo"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "zonke izinsuku"
+    },
+    {
+      "surface": "המעד",
+      "gloss": "makuzimele"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:24.214924602Z",
+  "model": "glm-5.3"
+}

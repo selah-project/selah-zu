@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "uElohim wabona ⟨את⟩ konke okwenzile, bheka, kukuhle kakhulu; kwaba 𝑏⟨kusihlwa⟩ kwaba kusasa, usuku lwesithupha.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke okwenzile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okuyilo"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kwenzile"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "kukuhle"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "kusihlwa"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "kusasa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "lwesithupha"
+    }
+  ],
+  "timestamp": "2026-08-31T01:01:28.755024090Z",
+  "model": "glm-5.3"
+}

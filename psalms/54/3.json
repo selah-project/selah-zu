@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 54:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 54,
+  "translation": "uElohim, ngegama lakho ungisindise, nangamandla akho ungahlomula.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בשמך",
+      "gloss": "ngegama lakho"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "ungisindise"
+    },
+    {
+      "surface": "ובגבורתך",
+      "gloss": "nangamandla akho"
+    },
+    {
+      "surface": "תדינני",
+      "gloss": "ungahlomula"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:16.312284380Z",
+  "model": "glm-5.3"
+}

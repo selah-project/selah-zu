@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 26:35",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Zonke izinsuku zokushiswa izwe lizophumula ⟨את⟩ lokho okungaziphumulanga ezinsukwini zokuphumula zenu, ngesikhathi nihlala kulo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "השמה",
+      "gloss": "zokushiswa"
+    },
+    {
+      "surface": "תשבת",
+      "gloss": "lizophumula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokho okungaziphumulanga"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "okungazi-"
+    },
+    {
+      "surface": "שבתה",
+      "gloss": "phumulanga"
+    },
+    {
+      "surface": "בשבתתיכם",
+      "gloss": "ezinsukwini zokuphumula zenu"
+    },
+    {
+      "surface": "בשבתכם",
+      "gloss": "ngesikhathi nihlala"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "kulo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:06:26.978926511Z",
+  "model": "glm-5.3"
+}

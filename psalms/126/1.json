@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 126:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 126,
+  "translation": "Igculo lokwenyuka. Lapho uYahwe ebuyisela ⟨את⟩ ukubuyelwa kweZiyoni, sasnjengabaphuphayo.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "igculo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lokwenyuka"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "ekubuyiseleni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ukubuyelwa kweZiyoni"
+    },
+    {
+      "surface": "שיבת",
+      "gloss": "ukubuyelwa"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "iZiyoni"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "sasi"
+    },
+    {
+      "surface": "כחלמים",
+      "gloss": "njengabaphuphayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:31.994175930Z",
+  "model": "glm-5.3"
+}

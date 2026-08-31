@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 33:6",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Bantwana bakwaYisraeli bayazikhwebelela ⟨את⟩ izimpahla zabo zokuhloba eNtabeni yeHorevi.",
+  "tokens": [
+    {
+      "surface": "ויתנצלו",
+      "gloss": "bayazikhwebelela"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaYisraeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izimpahla zabo zokuhloba"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "izimpahla zokuhloba"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "eNtabeni"
+    },
+    {
+      "surface": "חורב",
+      "gloss": "yeHorevi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:44:25.848460657Z",
+  "model": "glm-5.3"
+}

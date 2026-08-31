@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 11:20",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Kodwa uSihoni wayengathembi uYisraeli ⟨את⟩ ukudlula emkhawuleni wakhe; uSihoni waqoqa ⟨את⟩ bonke abantu bakhe, balala eYahaza, walwa noYisraeli.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kodwa-cha"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "wayengathemba"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "uSihoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYisraeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisraeli"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ukudlula"
+    },
+    {
+      "surface": "בגבלו",
+      "gloss": "emkhawuleni wakhe"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "waqoqa"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "uSihoni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bonke abantu bakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "balala"
+    },
+    {
+      "surface": "ביהצה",
+      "gloss": "eYahaza"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "walwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisraeli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:09:16.049501814Z",
+  "model": "glm-5.3"
+}

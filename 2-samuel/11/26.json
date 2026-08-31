@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 11:26",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Umka-Uriya wazwa ukuthi uUriya, indoda yakhe, ushonile; wazila ngomyeni wakhe.",
+  "tokens": [
+    {
+      "surface": "ו תשמע",
+      "gloss": "wazwa"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "umka-"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "uUriya"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ushonile"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "uUriya"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "indoda yakhe"
+    },
+    {
+      "surface": "ותספד",
+      "gloss": "wazila"
+    },
+    {
+      "surface": "על",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "umyeni wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:37:30.721092282Z",
+  "model": "glm-5.3"
+}

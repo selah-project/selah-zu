@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 16:20",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "U-Akhazi walala noobaba bakhe, wangcatshwa noobaba bakhe edolobheni likaDavide; unyana wakhe uHizikiya wabusa esikhundleni sakhe.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "walala"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "u-Akhazi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "oobaba bakhe"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "wangcatshwa"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "oobaba bakhe"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "likaDavide"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "wabusa"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "uHizikiya"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "unyana wakhe"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "esikhundleni sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:12:09.658746444Z",
+  "model": "glm-5.3"
+}

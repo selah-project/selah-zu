@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "psalms 119:78",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Mabahleke iziphukuphukwane, ngokuthi ngeze zangiqamba amanga; mina ngizicabangela eziyimiyalelo yakho.",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "mabahleke"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "iziphukuphukwane"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "amanga"
+    },
+    {
+      "surface": "עותוני",
+      "gloss": "zangiqamba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אשיח",
+      "gloss": "ngizicabangela"
+    },
+    {
+      "surface": "בפקודיך",
+      "gloss": "eziyimiyalelo yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:43.572048668Z",
+  "model": "glm-5.3"
+}

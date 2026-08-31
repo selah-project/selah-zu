@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 25:22",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "No-⟨את⟩ wonke amakhosi e-Tsori, no-⟨את⟩ wonke amakhosi e-Tsidoni, no-⟨את⟩ amakhosi esiqithi esingaphezu kolwandle.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "wonke amakhosi e-Tsori"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "צר",
+      "gloss": "e-Tsori"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "wonke amakhosi e-Tsidoni"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "e-Tsidoni"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "amakhosi esiqithi"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "האי",
+      "gloss": "esiqithi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esingaphezu"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "esingaphezu"
+    },
+    {
+      "surface": "הים",
+      "gloss": "kolwandle"
+    }
+  ],
+  "timestamp": "2026-08-31T04:48:28.331452760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngayimthengela mina ngesiliva ezinkambini eziyishumi nanhlanu, nangohomere webhali, nelengxenye yehomere webhali.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "Ngayimthengela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "ezinhlanu"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "eshiyi(ni)lanhlanu"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ngesiliva"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "nangohomere"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "webhali"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "nelengxenye yehomere"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "webhali"
+    }
+  ],
+  "timestamp": "2026-08-31T05:27:15.151645573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 3:8",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Bheka, ngibenzela ubuso bakho ubukhosi ngokubhekene nabuso abo, nophahla lokhozi olunamandla ngokubhekane nophahla lokhozi lwabo.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ngibenzela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bakho"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "חזקים",
+      "gloss": "ubukhosi"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ngokubhekene"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "nabuso abo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "iphahla lokhozi lakho"
+    },
+    {
+      "surface": "מצחך",
+      "gloss": "iphahla lokhozi lakho"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "olunamandla"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ngokubhekane"
+    },
+    {
+      "surface": "מצחם",
+      "gloss": "nephahla lokhozi lwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:05:45.922754057Z",
+  "model": "glm-5.3"
+}

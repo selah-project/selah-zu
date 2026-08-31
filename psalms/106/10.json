@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 106:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Wabasindisa esandleni somzondi, wabakhulula esandleni sesitha.",
+  "tokens": [
+    {
+      "surface": "ויושיעם",
+      "gloss": "wabasindisa"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "somzondi"
+    },
+    {
+      "surface": "ויגאלם",
+      "gloss": "wabakhulula"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "sesitha"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:42.674610654Z",
+  "model": "glm-5.3"
+}

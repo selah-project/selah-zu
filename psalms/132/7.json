@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 132:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 132,
+  "translation": "Siyongena ezigodlweni zakhe; siyokhulekela esigqibeni sezinhlalo zakhe.",
+  "tokens": [
+    {
+      "surface": "נבואה",
+      "gloss": "Siyongena"
+    },
+    {
+      "surface": "למשכנותיו",
+      "gloss": "ezigodlweni zakhe"
+    },
+    {
+      "surface": "נשתחוה",
+      "gloss": "siyokhulekela"
+    },
+    {
+      "surface": "להדם",
+      "gloss": "esigqibeni"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "sezinhlalo zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:37.650234803Z",
+  "model": "glm-5.3"
+}

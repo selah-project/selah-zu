@@ -1,0 +1,64 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 39:28",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Naye ⟨את⟩ intambo yomkhonto wohlanga olumhlophe, naye ⟨את⟩ iziphambeko zemikhwelo yohlanga olumhlophe, naye ⟨את⟩ izingxenye zangaphakathi zohlanga olusokiwe olumhlophe.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "intambo yomkhonto"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "intambo yomkhonto"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ohlanga olumhlophe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "iziphambeko zemikhwelo"
+    },
+    {
+      "surface": "פארי",
+      "gloss": "iziphambeko"
+    },
+    {
+      "surface": "המגבעת",
+      "gloss": "zemikhwelo"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ohlanga olumhlophe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "naye ⟨את⟩",
+      "marks": "izingxenye zangaphakathi"
+    },
+    {
+      "surface": "מכנסי",
+      "gloss": "izingxenye zangaphakathi"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "zohlanga"
+    },
+    {
+      "surface": "שש",
+      "gloss": "olumhlophe"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "olusokiwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:49:49.723752351Z",
+  "model": "glm-5.3"
+}

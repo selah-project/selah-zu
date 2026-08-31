@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Yonke imibutho yaphakamisa ⟨את⟩ izwi labo, abantu basho ngokukhala lelo lilanga ebusuku.",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "yaphakamisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "imibutho"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "basho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi labo"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "izwi labo"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "bakhala"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ebusuku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lelo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:14:45.605781226Z",
+  "model": "glm-5.3"
+}

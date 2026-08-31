@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 1:3",
+  "book": "daniel",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Inkosi yakhuluma ku-Ashpenazi, umphathi wezinceku zayo zasekhaya lenkosi, ukuthi alethe abantwana bakwa-Israyeli, nasenzaneni sobukhosi, nakwezikhulu ezinkulu.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "futhi yakhuluma"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "לאשפנז",
+      "gloss": "ku-Ashpenazi"
+    },
+    {
+      "surface": "רב",
+      "gloss": "umphathi"
+    },
+    {
+      "surface": "סריסיו",
+      "gloss": "wezinceku zayo"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "ukuthi alethe"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "ומזרע",
+      "gloss": "nasenzaneni"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "sobukhosi"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "futhi kwezinhlanga"
+    },
+    {
+      "surface": "הפרתמים",
+      "gloss": "ezikhulu ezinkulu"
+    }
+  ],
+  "timestamp": "2026-08-31T07:58:14.794328932Z",
+  "model": "glm-5.3"
+}

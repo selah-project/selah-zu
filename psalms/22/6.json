@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 22:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Kuwe bakhala baphunyuka, kunawe bathembile futhi abazange bahlazanywe.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "bakhala"
+    },
+    {
+      "surface": "ונמלטו",
+      "gloss": "baphunyuka"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kunawe"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "bathembile"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi abazange"
+    },
+    {
+      "surface": "בושו",
+      "gloss": "bahlazanywe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:17.702759304Z",
+  "model": "glm-5.3"
+}

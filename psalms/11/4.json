@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 11:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "uYahwe elisesithempelini sakhe esingcwele; isihlalo sikauYahwe sisezulwini; amehlo akhe abukela, izimpaphe zamehlo akhe ahlola abantwana babantu.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "esithempelini"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "esingcwele sakhe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "isihlalo sakhe"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "amehlo akhe"
+    },
+    {
+      "surface": "יחזו",
+      "gloss": "abukela"
+    },
+    {
+      "surface": "עפעפיו",
+      "gloss": "izimpaphe zamehlo akhe"
+    },
+    {
+      "surface": "יבחנו",
+      "gloss": "ahlola"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "babantu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:34.688638733Z",
+  "model": "glm-5.3"
+}

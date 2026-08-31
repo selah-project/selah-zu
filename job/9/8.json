@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 9:8",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Owedwa owlulela amazulu, uhamba phezu kwezinhlangozi zolwandle.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "owlulela"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "owedwa"
+    },
+    {
+      "surface": "ודורך",
+      "gloss": "uhamba"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "izinhlangozi"
+    },
+    {
+      "surface": "ים",
+      "gloss": "olwandle"
+    }
+  ],
+  "timestamp": "2026-08-31T07:10:53.016124742Z",
+  "model": "glm-5.3"
+}

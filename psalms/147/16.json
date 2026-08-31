@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 147,
+  "translation": "Yena onikeza qwaqula njengoboya, umvula-mvula wasabalalisa njengomlotha.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Yena onikeza"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "qwaqula"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "njengoboya"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "umvula-mvula"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "njengomlotha"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "wasabalalisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:41.002401088Z",
+  "model": "glm-5.3"
+}

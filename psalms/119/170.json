@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 170,
+  "ref": "psalms 119:170",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Mafike isicelo sami phambi kwakho; ngokwelizwi lakho ngisindise.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "mafike"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "isicelo sami"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "phambi kwakho"
+    },
+    {
+      "surface": "כאמרתך",
+      "gloss": "ngokwelizwi lakho"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ngisindise"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:43.028790996Z",
+  "model": "glm-5.3"
+}

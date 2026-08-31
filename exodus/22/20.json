@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 22:20",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Futhi umfokazi awumphazamisi, futhi awuncindezeli; ngoba nina babengabafokazi ezweni iMitsrayim.",
+  "tokens": [
+    {
+      "surface": "וגר",
+      "gloss": "futhi umfokazi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "תונה",
+      "gloss": "mphazamisi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi awu-"
+    },
+    {
+      "surface": "תלחצנו",
+      "gloss": "ncindezeli"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "abafokazi"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "babengani \/ nina babeni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:38:07.345576250Z",
+  "model": "glm-5.3"
+}

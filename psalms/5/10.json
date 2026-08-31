@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 5:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Ngokuba akukho okuqinileyo emlonyeni wabo; ingaphakathi labo yonakalo; izinkomo zabo zingaba yithuba elivulekile; olimweni lwabo benza ubuthongo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "בפיהו",
+      "gloss": "emlonyeni wabo"
+    },
+    {
+      "surface": "נכונה",
+      "gloss": "okuqinileyo"
+    },
+    {
+      "surface": "קרבם",
+      "gloss": "ingaphakathi labo"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "yonakalo"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "ithuba"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "elivulekile"
+    },
+    {
+      "surface": "גרונם",
+      "gloss": "izinkomo zabo"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "olimweni lwabo"
+    },
+    {
+      "surface": "יחליקון",
+      "gloss": "benza ubuthongo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:22.438783439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "UKenaani yazala ⟨את⟩ i-Tsidoni yenkulu yake, ⟨את⟩ no-Chethi.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "UKenaani"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "yazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-Tsidoni"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "i-Tsidoni"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "yenkulu yake"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "u-Chethi"
+    },
+    {
+      "surface": "חת",
+      "gloss": "u-Chethi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:04:59.212924555Z",
+  "model": "glm-5.3"
+}

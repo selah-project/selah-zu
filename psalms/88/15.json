@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 88,
+  "translation": "Yini, uYahwe, usulahla umphefumulo wami, ucashisa ubuso bakho kimi?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Yini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "usulahla"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumulo wami"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ucashisa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:27.778846239Z",
+  "model": "glm-5.3"
+}

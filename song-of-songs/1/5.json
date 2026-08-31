@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 1:5",
+  "book": "song-of-songs",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngimnyama, kodwa ngihle, ndodakazi zaseYerushalayimi, njengamatende kaiKedari, njengezinkanongo zikaShelomoh.",
+  "tokens": [
+    {
+      "surface": "שחורה",
+      "gloss": "ngimnyama"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ונאוה",
+      "gloss": "kodwa ngihle"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ndodakazi"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "zaseYerushalayimi"
+    },
+    {
+      "surface": "כאהלי",
+      "gloss": "njengamatende"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "kaiKedari"
+    },
+    {
+      "surface": "כיריעות",
+      "gloss": "njengezinkanongo"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "zikaShelomoh"
+    }
+  ],
+  "timestamp": "2026-08-31T08:56:48.176074469Z",
+  "model": "glm-5.3"
+}

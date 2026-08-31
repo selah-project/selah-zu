@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 25:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Ngubani lowo umuntu oyesaba uYahwe? Uyakumfundisa endleleni ayikhethayo.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "oyesaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "uyakumfundisa"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "ayikhethayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:52.274411554Z",
+  "model": "glm-5.3"
+}

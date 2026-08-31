@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 104:32",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 104,
+  "translation": "⟨O⟩bheka ⟨kwe⟩umhlaba, umhlaba uyazamazama; ethinta izintaba, izintaba ziyakhuba.",
+  "tokens": [
+    {
+      "surface": "המביט",
+      "gloss": "obheka"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "kumhlaba"
+    },
+    {
+      "surface": "ותרעד",
+      "gloss": "futhi uyazamazama"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "ethinta"
+    },
+    {
+      "surface": "בהרים",
+      "gloss": "izintaba"
+    },
+    {
+      "surface": "ויעשנו",
+      "gloss": "futhi ziyakhuba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:39.389456956Z",
+  "model": "glm-5.3"
+}

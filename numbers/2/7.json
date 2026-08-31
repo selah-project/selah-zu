@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Isizwe sikaZevuluni; unozikhulumi wabantwana bakaZevuluni u-Eliyabi indodana kaKheloni.",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "sikaZevuluni"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "unozikhulumi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abantwana baka"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Zevuluni"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "u-Eliyabi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Kheloni"
+    }
+  ],
+  "timestamp": "2026-08-31T10:15:16.987268076Z",
+  "model": "glm-5.3"
+}

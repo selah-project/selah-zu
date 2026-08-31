@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 40:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Mina ngingumfuyane futhi ngisweleyo; u-Adonayi uyangingcelakujula — wena usizo lwami nosindisi wami; uElohim wami, ungalibazisi.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ngingumfuyane"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ngisweleyo"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "uyangingcelakujula"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "usizo lwami"
+    },
+    {
+      "surface": "ומפלטי",
+      "gloss": "nosindisi wami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "libazisi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:33.366478528Z",
+  "model": "glm-5.3"
+}

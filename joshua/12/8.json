@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 12:8",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Entabeni, nasendle, nase-Arabha, nasemathangeni, nasenasweni, naseningcoselweni yaseNgevi: uHitthi, uEmori, uKenani, uPerizi, uHivi, noYebusi.",
+  "tokens": [
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "ובשפלה",
+      "gloss": "nasendle"
+    },
+    {
+      "surface": "ובערבה",
+      "gloss": "nase-Arabha"
+    },
+    {
+      "surface": "ובאשדות",
+      "gloss": "nasemathangeni"
+    },
+    {
+      "surface": "ובמדבר",
+      "gloss": "nasenasweni"
+    },
+    {
+      "surface": "ובנגב",
+      "gloss": "naseNgevini"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "uHitthi"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "uEmori"
+    },
+    {
+      "surface": "והכנעני",
+      "gloss": "noKenani"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "uPerizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "uHivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "noYebusi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:49:45.035582770Z",
+  "model": "glm-5.3"
+}

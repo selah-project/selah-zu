@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 78:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Bengabi njengaboyabo, isizukulwane esinqenqenelayo nesiphikisayo, isizukulwane esasilungisanga inhliziyo yaso, futhi umoya waso ∙ungeke∙ ubengathembekile ku-El.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "bengabi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bengabi"
+    },
+    {
+      "surface": "כאבותם",
+      "gloss": "njengaboyabo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "isizukulwane"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "esinqenqenelayo"
+    },
+    {
+      "surface": "ומרה",
+      "gloss": "nesiphikisayo"
+    },
+    {
+      "surface": "דור",
+      "gloss": "isizukulwane"
+    },
+    {
+      "surface": "לא",
+      "gloss": "esasilungisanga"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "esasilungisanga"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "inhliziyo yaso"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi ubengathembekile"
+    },
+    {
+      "surface": "נאמנה",
+      "gloss": "ubengathembekile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ku-El"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-El"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "umoya waso"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:17.805314123Z",
+  "model": "glm-5.3"
+}

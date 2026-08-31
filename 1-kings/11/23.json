@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 11:23",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "uElohim wamvusela isitha, uRezoni indodana ka-Eliyadada, obugibela ⟨את⟩ uHadadezere inkosi yaseTsovahi, inkosi yakhe.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "wamvusela"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לו",
+      "gloss": "-ela"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "isitha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uRezoni"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "uRezoni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Eliyadada"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o-"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "bugibela"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ kwa-"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "uHadadezere"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "yaseTsovahi"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "inkosi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:06:39.617527920Z",
+  "model": "glm-5.3"
+}

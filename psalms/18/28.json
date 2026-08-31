@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Ngokuba wena uyasindisa isizwe esiswelileyo, kodwa amehlo aphakemeyo uyawahambisa phansi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "עם",
+      "gloss": "isizwe"
+    },
+    {
+      "surface": "עני",
+      "gloss": "esiswelileyo"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "uyasindisa"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "kodwa amehlo"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "aphakemeyo"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "uyawahambisa phansi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:59.523223036Z",
+  "model": "glm-5.3"
+}

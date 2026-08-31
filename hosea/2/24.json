@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "hosea 2:24",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi umhlaba uzohlehla phendula ⟨את⟩ ingcolosi, no⟨את⟩ wayini omutsha, no⟨את⟩ moyiza, futhi lezo zizohlela phendula ⟨את⟩ iYizreeli.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "futhi umhlaba"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "uzohlehla phendula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ingcolosi"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "ingcolosi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "wayini omutsha"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "wayini omutsha"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "moyiza"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "moyiza"
+    },
+    {
+      "surface": "והם",
+      "gloss": "futhi lezo"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "zizohlela phendula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iYizreeli"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "iYizreeli"
+    }
+  ],
+  "timestamp": "2026-08-31T05:26:23.891062976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 16:1",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Gcina ⟨את⟩ inyanga ye-Avivi, wenze iPesakhi kuYahwe uElohim wakho, ngokuba enyangeni ye-Avivi uYahwe uElohim wakho wakukhipha eMitsrayim ebusuku.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Gcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyanga ye-Avivi"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "inyanga"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ye-Avivi"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "iPesakhi"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "enyangeni"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ye-Avivi"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "wakukhipha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ebusuku"
+    }
+  ],
+  "timestamp": "2026-08-31T02:37:59.801251606Z",
+  "model": "glm-5.3"
+}

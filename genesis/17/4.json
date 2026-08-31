@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Mina, bhululu, isivumelwano sami ⟨את⟩ li nawe; uzuba uyise womhlangana wezizwe.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bhululu"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "isivumelwano sami"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe",
+      "marks": "nawe"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "uzuba"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "המון",
+      "gloss": "womhlangana"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "wezizwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:08:14.671084276Z",
+  "model": "glm-5.3"
+}

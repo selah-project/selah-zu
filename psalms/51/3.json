@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 51:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 51,
+  "translation": "NgiHawukele, uElohim, njengokwekhesedi yakho, njengokobuningi bokuhawukela kwakho — susa iziphambano zami.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "NgiHawukele"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "כחסדך",
+      "gloss": "njengokwekhesedi yakho"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "njengokobuningi"
+    },
+    {
+      "surface": "רחמיך",
+      "gloss": "bokuhawukela kwakho"
+    },
+    {
+      "surface": "מחה",
+      "gloss": "susa"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "iziphambano zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:43.880449184Z",
+  "model": "glm-5.3"
+}

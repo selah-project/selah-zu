@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 89:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Sibusisiwe abazi ukukhwazwa kwejubane, uYahwe; ngokukhanya kolwazi lweso bakho bahamba.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Sibusisiwe"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abansi"
+    },
+    {
+      "surface": "יודעי",
+      "gloss": "abazi"
+    },
+    {
+      "surface": "תרועה",
+      "gloss": "ukukhwazwa kwejubane"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ngokukhanya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kolwazi lweso bakho"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "bahamba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:52.866747837Z",
+  "model": "glm-5.3"
+}

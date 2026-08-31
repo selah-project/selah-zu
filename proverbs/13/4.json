@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 13:4",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Inefeshi yenkomishi ifisa futhi inakho lutho; kepha inefeshi abasebenziyo izaziswa ngokudla okunye.",
+  "tokens": [
+    {
+      "surface": "מתאוה",
+      "gloss": "ifisa"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi inakho lutho"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "inefeshi yakhe"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "yenkomishi"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "kepha inefeshi"
+    },
+    {
+      "surface": "חרצים",
+      "gloss": "abasebenziyo"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "izaziswa ngokudla okunye"
+    }
+  ],
+  "timestamp": "2026-08-31T06:53:05.385790154Z",
+  "model": "glm-5.3"
+}

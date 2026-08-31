@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi le ⟨iyisimiso⟩ sesipho secala; ingcwele kwezengcwele ⟨yilo⟩.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "futhi le"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "isimiso se"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "isipho secala"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ingcwele"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "kwezengcwele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:52:31.122060541Z",
+  "model": "glm-5.3"
+}

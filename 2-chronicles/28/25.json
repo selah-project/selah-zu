@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 28:25",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Futhi emzini ngamunye waseYehudha wenza izindawo eziphakeme zokushisa impepho kuwo uElohim abanye, wacasisa ⟨את⟩ uYahwe, uElohim wabaphathi bakhe bangaphambilini.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "futhi emzini ngamunye"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "umuzi"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "nomuzi"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "waseYehudha"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "במות",
+      "gloss": "izindawo eziphakeme"
+    },
+    {
+      "surface": "לקטר",
+      "gloss": "zokushisa impepho"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuwo uElohim"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "abanye"
+    },
+    {
+      "surface": "ויכעס",
+      "gloss": "wcasisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wa-"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "baphathi bakhe bangaphambilini"
+    }
+  ],
+  "timestamp": "2026-08-31T09:03:53.720866400Z",
+  "model": "glm-5.3"
+}

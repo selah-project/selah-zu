@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 129:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 129,
+  "translation": "Phezu kweqolo lami abahlakuli bahlatshule; benza izingodo ezinde zawo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Phezu"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "kweqolo lami"
+    },
+    {
+      "surface": "חרשו",
+      "gloss": "bahlatshule"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "abahlakuli"
+    },
+    {
+      "surface": "האריכו",
+      "gloss": "benza…ezinde"
+    },
+    {
+      "surface": "למענותם",
+      "gloss": "izingodo ezinde zawo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:04.466440790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Kodwa bazobakhhonza yena, ukuze bazazi ukhonzo lwami, nokhonzo lwezinkosi zezwe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "bazoba"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "izinceku"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ukuze bazazi"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "ukhonzo lwami"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "nokhonzo"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "lwezinkosi"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "zezwe"
+    }
+  ],
+  "timestamp": "2026-08-31T09:03:25.821475733Z",
+  "model": "glm-5.3"
+}

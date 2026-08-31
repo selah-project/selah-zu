@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 20:17",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "U-Avraham wathandaza ku-Elohim, uElohim wapholisa ⟨את⟩ u-Avimeleki ⟨את⟩ nowesifazane wakhe namacikizana akhe; bazala.",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "wathandaza"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "U-Avraham"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "u-Elohim"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "wapholisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Avimeleki"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "u-Avimeleki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "owesifazane wakhe"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "owesifazane wakhe"
+    },
+    {
+      "surface": "ואמהתיו",
+      "gloss": "namacikizana akhe"
+    },
+    {
+      "surface": "וילדו",
+      "gloss": "bazala"
+    }
+  ],
+  "timestamp": "2026-08-31T01:10:25.209258885Z",
+  "model": "glm-5.3"
+}

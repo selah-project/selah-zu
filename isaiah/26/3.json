@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Umoya ocishe ugcinwe ukuthula, ukuthula, ngoba kuwe uPhakeme ukuthembeka.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "umoya ocishe"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "ugcinwe"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ugcinwa"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ukuthula"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ukuthula"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "ukuthembeka"
+    }
+  ],
+  "timestamp": "2026-08-31T04:23:52.118403646Z",
+  "model": "glm-5.3"
+}

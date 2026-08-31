@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 79:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 79,
+  "translation": "Banike ⟨את⟩ izidumbu zezinceku zakho ukudla kwezinyoni zezulu, inyama yabakhonzi bakho kuyizilwane zomhlaba.",
+  "tokens": [
+    {
+      "surface": "נתנו",
+      "gloss": "Banike"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izidumbu zezinceku zakho"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "izidumbu"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "zezinceku zakho"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "kwezinyoni"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "zezulu"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "חסידיך",
+      "gloss": "yabakhonzi bakho"
+    },
+    {
+      "surface": "לחיתו",
+      "gloss": "kuyizilwane"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zomhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:15.587909974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "USamuwayeli wakhuluma ⟨את⟩ yonke amazwi kaYahwe kubantu abacela kuye inkosi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "USamuwayeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke amazwi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bantu"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "abacela"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "kuye ⟨את⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:15:36.289354090Z",
+  "model": "glm-5.3"
+}

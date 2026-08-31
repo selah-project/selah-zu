@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 3:22",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi umfazi uzocela komsikazi wakhe nendwendwe ekhaya lakhe izinto zesiliva nezinto zolide nemfazi, nizobeka ezintabeni zenu — kumadodana naku madodakazi enu — futhi nizothatha impahla ⟨את⟩ yaseMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ושאלה",
+      "gloss": "futhi uzocela"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "משכנתה",
+      "gloss": "omsikazi"
+    },
+    {
+      "surface": "ומגרת",
+      "gloss": "nendwendwe"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ekhaya lakhe"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "izinto"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "zesiliva"
+    },
+    {
+      "surface": "וכלי",
+      "gloss": "nezinto"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "zolide"
+    },
+    {
+      "surface": "ושמלת",
+      "gloss": "nemfazi"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "nizobeka"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "amadodana enu"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "naku"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "amadodakazi enu"
+    },
+    {
+      "surface": "ונצלתם",
+      "gloss": "futhi nizothatha impahla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iMitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yaseMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:27:41.912669582Z",
+  "model": "glm-5.3"
+}

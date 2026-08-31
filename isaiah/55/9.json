@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 55:9",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 55,
+  "translation": "Ngokuba njengoba izulu liphezulu kunomhlaba, ngokunjalo izindlela zami ziphezulu kunezindlela zenu, nemicabango yami iphezulu kumicabango yenu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "liphezulu"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "izulu"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "kunomhlaba"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngokunjalo"
+    },
+    {
+      "surface": "גבהו",
+      "gloss": "ziphezulu"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "izindlela zami"
+    },
+    {
+      "surface": "מדרכיכם",
+      "gloss": "kunezindlela zenu"
+    },
+    {
+      "surface": "ומחשבתי",
+      "gloss": "nemicabango yami"
+    },
+    {
+      "surface": "ממחשבתיכם",
+      "gloss": "kumicabango yenu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:34:37.289419515Z",
+  "model": "glm-5.3"
+}

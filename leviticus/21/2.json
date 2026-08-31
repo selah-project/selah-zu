@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 21:2",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "ngaphandle kozakwabo oseduzane naye: umama wakhe, ubaba wakhe, indodana yakhe, indodakazi yakhe, nomfowabo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "לשארו",
+      "gloss": "kozakwabo"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "oseduzane"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "לאמו",
+      "gloss": "umama wakhe"
+    },
+    {
+      "surface": "ולאביו",
+      "gloss": "ubaba wakhe"
+    },
+    {
+      "surface": "ולבנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "ולבתו",
+      "gloss": "indodakazi yakhe"
+    },
+    {
+      "surface": "ולאחיו",
+      "gloss": "umfowabo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:02:36.251867608Z",
+  "model": "glm-5.3"
+}

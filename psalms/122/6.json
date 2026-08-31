@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 122,
+  "translation": "Celani ukuthula okuyimpilo yaseYerushalayimi; abakuthandayo mabaphile ngokuthula.",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "celani"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ukuthula okuyimpilo"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "mabaphile ngokuthula"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "abakuthandayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:59.653661396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 147:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 147,
+  "translation": "Ngokuba wenza amabhande ezinkomo zezibaya sakho aqinile, wabusisa izingane zakho ngaphakathi kwakho.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "wenza...aqinile"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "amabhande"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "ezinkomo zezibaya zakho"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "wabusisa"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "izingane zakho"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ngaphakathi kwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:41.001804665Z",
+  "model": "glm-5.3"
+}

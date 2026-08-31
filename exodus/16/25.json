@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 16:25",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "UMoshe wathi: Yidlanga lamuhla, ngokuba ngumhla wokuphumula ⟨⟨iShabbati⟩⟩ kaYahwe; lamuhla angeke nimthole ensimini.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "UMoshe"
+    },
+    {
+      "surface": "אכלהו",
+      "gloss": "Yidlanga"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lamuhla"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ngumhla wokuphumula"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lamuhla"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "היום",
+      "gloss": "lamuhla"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "תמצאהו",
+      "gloss": "nimthole"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ensimini"
+    }
+  ],
+  "timestamp": "2026-08-31T10:12:34.804035436Z",
+  "model": "glm-5.3"
+}

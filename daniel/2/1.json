@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "daniel 2:1",
+  "book": "daniel",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Enyakeni yesibili kobukhosi bukaNevukadnetstsar, uNevukadnetstsar waphupha amaphuphu, umoya wakhe waphazanyiseka, futhi ubuthongo bakhe baba ⟨phezu kwakhe⟩.",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "Enyakeni"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "yesibili"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "ubukhosi"
+    },
+    {
+      "surface": "נבכדנצר",
+      "gloss": "ukaNevukadnetstsar"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "waphupha"
+    },
+    {
+      "surface": "נבכדנצר",
+      "gloss": "uNevukadnetstsar"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "amaphuphu"
+    },
+    {
+      "surface": "ותתפעם",
+      "gloss": "waphazanyiseka"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "umoya wakhe"
+    },
+    {
+      "surface": "ושנתו",
+      "gloss": "futhi ubuthongo bakhe"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "baba"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨phezu kwakhe⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T07:55:56.131873820Z",
+  "model": "glm-5.3"
+}

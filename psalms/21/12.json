@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 21:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Ngoba benwetsha kuwena okubi, bacabanga icebo elibi, kodwa angeke bakwazi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "נטו",
+      "gloss": "benwetsha"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "kuwena"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "bacabanga"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "icebo elibi"
+    },
+    {
+      "surface": "בל",
+      "gloss": "kodwa angeke"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "bakwazi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:35.977338785Z",
+  "model": "glm-5.3"
+}

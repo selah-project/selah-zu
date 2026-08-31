@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 127,
+  "translation": "Bheka, izindlela zokuzalisa ezingcwele zikaYahwe ngabantwana; umvuzo wesisu ungumholiso.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "izindlela zokuzalisa ezingcwele"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ukaYahwe"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "umvuzo"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ungumholiso"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "wesisu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:02.628285919Z",
+  "model": "glm-5.3"
+}

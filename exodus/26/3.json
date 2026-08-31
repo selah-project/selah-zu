@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 26:3",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Amadwangu amahlanaya ayahlanganiswa, eyodwa kuyodwana; futhi amadwangu amahlanayo ahlanganiswe, eyodwa kuyodwana.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "amahlanaya"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "amadwangu"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ayahlanganiswa"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "hlanganiswe"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "eyodwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "yodwana"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "futhi amahlanayo"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "amadwangu"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "ahlanganiswe"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "eyodwa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "yodwana"
+    }
+  ],
+  "timestamp": "2026-08-31T01:40:15.128060607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "esther 9:20",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "UMordekayi wabhala ⟨את⟩ lezi zinto, wathumela izincwadi kubo bonke abaJuda abakuzo zonke izifundazwe zenkosi u-Achashveroshi, abaseduze nalabo aseKude.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "wabhala"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "uMordekayi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lezi zinto"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "izinto"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "wathumela"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "izincwadi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "abaJuda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "מדינות",
+      "gloss": "izifundazwe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yenkosi"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "u-Achashveroshi"
+    },
+    {
+      "surface": "הקרובים",
+      "gloss": "abaseduze"
+    },
+    {
+      "surface": "והרחוקים",
+      "gloss": "nalabo aseKude"
+    }
+  ],
+  "timestamp": "2026-08-31T07:55:25.853248363Z",
+  "model": "glm-5.3"
+}

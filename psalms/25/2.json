@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 25:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "uElohim wami, kimi ngithembile; angiboshi; abazonda bami banga Jabuli ngingazi.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wami"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "ngithembile"
+    },
+    {
+      "surface": "אל",
+      "gloss": "anga"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "boshi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "banga"
+    },
+    {
+      "surface": "יעלצו",
+      "gloss": "Jabuli"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "abazonda bami"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ngingazi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:44.641798668Z",
+  "model": "glm-5.3"
+}

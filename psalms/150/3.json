@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 150:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 150,
+  "translation": "Dumisani yena ngesandi sompingo, dumisani yena nge-harp necimbi.",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "dumisani yena"
+    },
+    {
+      "surface": "בתקע",
+      "gloss": "ngesandi"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ompingo"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "dumisani yena"
+    },
+    {
+      "surface": "בנבל",
+      "gloss": "nge-harp"
+    },
+    {
+      "surface": "וכנו׬",
+      "gloss": "necimbi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:54.460660182Z",
+  "model": "glm-5.3"
+}

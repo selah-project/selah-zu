@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 22:25",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Ngokuba awulibazisi waze wanganyanyali uhlungu olwesiswini somhlupheki, waze wangafihla ubuso bakhe kuye; kodwa ekhumuleni kwakhe kuye, uYahwe uzwa.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akaluthuki"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "awulibazisi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waze wanganyanyali"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ukunyanyala"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "uhlungu olwesiswini"
+    },
+    {
+      "surface": "עני",
+      "gloss": "somhlupheki"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "waze wangafihla"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "ukufihla"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bakhe"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "ובשועו",
+      "gloss": "ekhumuleni kwakhe"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "uzwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:08.350147068Z",
+  "model": "glm-5.3"
+}

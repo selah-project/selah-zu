@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 75:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 75,
+  "translation": "Iyancibilika umhlaba nabahleli bonke bakhe; yimi ⟨engazinika isisekelo⟩ izinti zalo. Sewula.",
+  "tokens": [
+    {
+      "surface": "נמגים",
+      "gloss": "iyancibilika"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nabahleli bonke"
+    },
+    {
+      "surface": "ישביה",
+      "gloss": "bakhe"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "yimi"
+    },
+    {
+      "surface": "תכנתי",
+      "gloss": "engazinika isisekelo"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "izinti zalo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sewula"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:17.041261078Z",
+  "model": "glm-5.3"
+}

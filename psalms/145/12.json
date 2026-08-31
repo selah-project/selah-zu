@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 145:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 145,
+  "translation": "Ukuze kwaziwe abantwana babantu amandla akhe, nenkazimulo yenkosi ubukhosi bakhe obuhle.",
+  "tokens": [
+    {
+      "surface": "להודיע",
+      "gloss": "Ukuze kwaziwe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "babantu"
+    },
+    {
+      "surface": "גבורתיו",
+      "gloss": "amandla akhe"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "nenkazimulo"
+    },
+    {
+      "surface": "הדר",
+      "gloss": "obuhle"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "ubukhosi bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:31.744274962Z",
+  "model": "glm-5.3"
+}

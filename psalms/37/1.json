@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "KaDawidi. Ungathukutheli ngezigebengu, ungabi nomona nabenzi bobubi.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "KaDawidi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "thukutheli"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "ngezigebengu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "bi nomona"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "nabenzi"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "bobubi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:40.557493458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 25:24",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi uzozigquma ⟨את⟩ sona ngegolide elihlakahle, futhi uzokwenza kona umugqa wegolide ojikeleze.",
+  "tokens": [
+    {
+      "surface": "וצצית",
+      "gloss": "futhi uzozigquma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "sona (itafula)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ngegolide"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "elihlakahle"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "futhi uzokwenza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kona"
+    },
+    {
+      "surface": "זר",
+      "gloss": "umugqa"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wegolide"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ojikeleze"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:51.821244984Z",
+  "model": "glm-5.3"
+}

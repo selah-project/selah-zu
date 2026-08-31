@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 104,
+  "translation": "Izintaba zinyuka, izingxenge zehla, endaweni oyimisela yona kuzo.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "zinyuka"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "izintaba"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "zehla"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "izingxenge"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "endaweni"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "oyimisela yona"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuzo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:56.461851766Z",
+  "model": "glm-5.3"
+}

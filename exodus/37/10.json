@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Wazenza ⟨את⟩ itafula ngamakota oshitim: ama-amoth amabili ubude bawo, nelanga-amoth ubukhosi bawo, nelanga-amoth nesigamu ukuphakama kwawo.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wazenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itafula"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "itafula"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ngamakota o"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ushitim"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "ama-amoth amabili"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ubude bawo"
+    },
+    {
+      "surface": "ו אמה",
+      "gloss": "nelanga-amoth"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ubukhosi bawo"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "nelanga-amoth"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "nesigamu"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ukuphakama kwawo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:45:47.238032780Z",
+  "model": "glm-5.3"
+}

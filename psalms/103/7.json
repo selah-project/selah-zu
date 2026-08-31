@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 103:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 103,
+  "translation": "Wazichazela izindlela zakhe kuMoshe, izenzo zakhe ezinkulu ezinganakwa abantwabenzi bakwa-Israyeli.",
+  "tokens": [
+    {
+      "surface": "יודיע",
+      "gloss": "Wazichazela"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "izindlela zakhe"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "kuMoshe"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "abantwabenzi bakwa-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "עלילותיו",
+      "gloss": "izenzo zakhe ezinkulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:52.978546135Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 2:1",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Emva kwalaba mazwi, ekuthuleni kolaka lwesiggwati u-Ahashueroshi, wakhumbula ⟨את⟩ iVashti, nango ⟨את⟩ lokhu ayekwenze, nango ⟨את⟩ lokhu kwakunqunyiwe ngaye.",
+  "tokens": [
+    {
+      "surface": "אחר",
+      "gloss": "emva kwalokhu"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "lawo"
+    },
+    {
+      "surface": "כשך",
+      "gloss": "ekuthuleni"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "olaka"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "lwesiggwati"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "u-Ahashueroshi"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "wakhumbula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iVashti"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "iVashti"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lokhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "alokhu"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "ayekwenze"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "lokhu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "alokhu"
+    },
+    {
+      "surface": "נגזר",
+      "gloss": "kwakunqunyiwe"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ngaye"
+    }
+  ],
+  "timestamp": "2026-08-31T07:52:24.263458664Z",
+  "model": "glm-5.3"
+}

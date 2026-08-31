@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 67:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 67,
+  "translation": "Mazijabule izizwe, mazikhanye ngokwesibani: ngoba uzawahlola izizwe ngobulungisa, futhi izizwe emhlabeni uzazihola. Selaha",
+  "tokens": [
+    {
+      "surface": "ישמחו",
+      "gloss": "mazijabule"
+    },
+    {
+      "surface": "וירננו",
+      "gloss": "mazikhanye ngokwesibani"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "תשפט",
+      "gloss": "uzawahlola"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "מישור",
+      "gloss": "ngobulungisa"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "futhi izizwe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "תנחם",
+      "gloss": "uzazihola"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selaha"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:41.936829473Z",
+  "model": "glm-5.3"
+}

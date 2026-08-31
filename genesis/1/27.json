@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 1:27",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "uElohim wadala ⟨את⟩ umuntu esifanweni sakhe; esifanweni se-Elohim wadala ⟨את⟩ yena; induna nomkungqu wabadala ⟨את⟩ bona.",
+  "tokens": [
+    {
+      "surface": "ויברא",
+      "gloss": "wadala"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "בצלמו",
+      "gloss": "esifanweni sakhe"
+    },
+    {
+      "surface": "בצלם",
+      "gloss": "esifanweni"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "se-Elohim"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "wadala"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "induna"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "nomkungqu"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "wabadala"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:28.601999164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 6:8",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Yinkosi yesi-Aram yayilwisa nge-Israeli, waya cel' ubuntu benceku zakhe, ethi: Ezindaweni ezithile-thile izigodlo zami ziyokuma khona.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "yinkosi"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "yesi-Aram"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yayi-"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "lwisa"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "nge-Israeli"
+    },
+    {
+      "surface": "ויועץ",
+      "gloss": "waya cel' ubuntu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "cenceku zakhe"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "zindaweni"
+    },
+    {
+      "surface": "פלני",
+      "gloss": "ezithile"
+    },
+    {
+      "surface": "אלמני",
+      "gloss": "-thile"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "izigodlo zami"
+    }
+  ],
+  "timestamp": "2026-08-31T10:22:52.745764925Z",
+  "model": "glm-5.3"
+}

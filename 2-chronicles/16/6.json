@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 16:6",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Yena uAsa inkosi wathatha ⟨את⟩ wonke uYehuda; baphakamisa ⟨את⟩ amatshe eRama futhi ⟨את⟩ izinkuni zayo uBaasha owazakhayo ngazo; wazakhela ngazo ⟨את⟩ iGeba futhi ⟨את⟩ iMitspa.",
+  "tokens": [
+    {
+      "surface": "ואסא",
+      "gloss": "Yena uAsa"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke uYehuda"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehuda"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "baphakamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amatshe eRama"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "amatshe"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "eRama"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "izinkuni zayo"
+    },
+    {
+      "surface": "עציה",
+      "gloss": "izinkuni zayo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "owo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "owazakhayo"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "uBaasha"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "wazakhela ngazo"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ngazo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iGeba"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "iGeba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "iMitspa"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "iMitspa"
+    }
+  ],
+  "timestamp": "2026-08-31T08:38:10.509465612Z",
+  "model": "glm-5.3"
+}

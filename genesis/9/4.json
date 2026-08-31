@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Kodwa inyama, esephilene ngayo — ngegazi layo — aniyidli.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kodwa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "esephilene ngayo"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "ngegazi layo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "a"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "niyidli"
+    }
+  ],
+  "timestamp": "2026-08-31T01:04:15.620818689Z",
+  "model": "glm-5.3"
+}

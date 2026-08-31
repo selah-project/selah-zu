@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Bonke abantwana bakhaDavi, ngaphandle kwabantwana bezifiligeshi, noTamaru udadewabo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavi"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "ngaphandle kwa-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "izifiligeshi"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "noTamaru"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "udadewabo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:53.799800046Z",
+  "model": "glm-5.3"
+}

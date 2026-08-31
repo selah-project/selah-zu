@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 15:15",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Amadodana abaLevi athwala ⟨את⟩ isiphahlenge sikaElohim njengokuthi uMoshe awabizile ngokwelizwi likaYahwe, emahlombe azo, ngamabhari okuthwala, phezu kwazo.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "athwala"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana a-"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "abaLevi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiphahlenge sikaElohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "isiphahlenge"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sikaElohim"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokuthi"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "awabizile"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ngokwelizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "בכתפם",
+      "gloss": "emahlombe azo"
+    },
+    {
+      "surface": "במטות",
+      "gloss": "ngamabhari okuthwala"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "phezu kwazo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:24:45.801399124Z",
+  "model": "glm-5.3"
+}

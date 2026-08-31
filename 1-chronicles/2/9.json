@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Izigaba zikaKhetsroni ebezalwe kuyena: uYerahmeeli noRamu noKelubayi.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "izigaba zika-"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "uKhetsroni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ez"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "bezalwe"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYerahmeeli"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "uYerahmeeli"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uRamu"
+    },
+    {
+      "surface": "רם",
+      "gloss": "uRamu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uKelubayi"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "uKelubayi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:22.983033039Z",
+  "model": "glm-5.3"
+}

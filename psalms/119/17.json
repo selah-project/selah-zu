@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Yenza okuhle kumkhonzi wakho ukuze ngiphile, bengigcine ibinzelakho.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Yenza okuhle"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "umkhonzi wakho"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ukuze ngiphile"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "bengigcine"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "ibinzelakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:33.941898171Z",
+  "model": "glm-5.3"
+}

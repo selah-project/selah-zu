@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "Nizitwe ngegama lakhe elingcwele; inhloko yezinhliziyo zabo ezifuna uYahwe.",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "Nizitwe"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ngegama"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "elakhe elingcwele"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "inhloko yezinhliziyo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "izinhliziyo"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "zabo ezifuna"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:18.702483878Z",
+  "model": "glm-5.3"
+}

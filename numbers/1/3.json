@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 1:3",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kusukela kunyaka weminyaka engamashumi amabili nangaphezulu, wonke ophuma emabandleni e-Israyeli, nibabale ⟨את⟩ ngemabandla abo, wena no-Aharoni.",
+  "tokens": [
+    {
+      "surface": "מבן",
+      "gloss": "kusukela ku-"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "amashumi amabili"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "unyaka weminyaka"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "nangaphezulu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ophuma"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "emabandleni"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "e-Israyeli"
+    },
+    {
+      "surface": "תפקדו",
+      "gloss": "nibabale"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "wonke ophuma emabandleni"
+    },
+    {
+      "surface": "לצבאתם",
+      "gloss": "ngemabandla abo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "no-Aharoni"
+    }
+  ],
+  "timestamp": "2026-08-31T02:07:32.897802853Z",
+  "model": "glm-5.3"
+}

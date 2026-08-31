@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 50:1",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Ngokho ushilo uYahwe: Iyiphi le ndwadi yokwahlukanisa kanina engangiyishudela na? Noma ubani ongifonyozile engangimthengisela kuyena ⟨את⟩ nina na? Bhezu, ngezoni zenu nathengiswa, nangokwezono zenu kanina washudelwa.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Ngokho"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ushilo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אי",
+      "gloss": "Iyiphi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "indwadi"
+    },
+    {
+      "surface": "כריתות",
+      "gloss": "yokwahlukanisa"
+    },
+    {
+      "surface": "אמכם",
+      "gloss": "kanina"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engangiyishudela"
+    },
+    {
+      "surface": "שלחתיה",
+      "gloss": "ngiyishudela"
+    },
+    {
+      "surface": "או",
+      "gloss": "Noma"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ubani"
+    },
+    {
+      "surface": "מנושי",
+      "gloss": "ongifonyozile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engangimthengisela"
+    },
+    {
+      "surface": "מכרתי",
+      "gloss": "ngithengise"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Bhezu"
+    },
+    {
+      "surface": "בעונתיכם",
+      "gloss": "ngezoni zenu"
+    },
+    {
+      "surface": "נמכרתם",
+      "gloss": "nathengiswa"
+    },
+    {
+      "surface": "ובפשעיכם",
+      "gloss": "nangokwezono zenu"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "washudelwa"
+    },
+    {
+      "surface": "אמכם",
+      "gloss": "kanina"
+    }
+  ],
+  "timestamp": "2026-08-31T04:35:07.864064653Z",
+  "model": "glm-5.3"
+}

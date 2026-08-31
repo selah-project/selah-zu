@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 29:12",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "ukuze akusime ⟨את⟩ wena namuhla ukuba ube yabantu bakhe, yena abe ngu-Elohim wakho, njengalokho akukhulumileyo kuwe, njengalokho azifungela kubaba wakho — ku-Avrahamu, kuYitshaki, nakuYakobi.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "akusime"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ wena",
+      "marks": "wena"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ukuba ube yabantu bakhe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "abe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ngu-Elohim wakho"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengalokho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "akukhulumileyo"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "וכאשר",
+      "gloss": "njengalokho"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "azifungela"
+    },
+    {
+      "surface": "לאבתיך",
+      "gloss": "kubaba wakho"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ku-Avrahamu"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "kuYitshaki"
+    },
+    {
+      "surface": "וליעקב",
+      "gloss": "nakuYakobi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:44:42.893814831Z",
+  "model": "glm-5.3"
+}

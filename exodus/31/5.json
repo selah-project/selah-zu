@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 31:5",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "nokucheka kwamatshe ukuzifaka, nokucheka komuthi ukwenza konke umsebenzi wezandla.",
+  "tokens": [
+    {
+      "surface": "ובחרשת",
+      "gloss": "nokucheka"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "amatshe"
+    },
+    {
+      "surface": "למלאת",
+      "gloss": "ukuzifaka"
+    },
+    {
+      "surface": "ובחרשת",
+      "gloss": "nokucheka"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "umuthi"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "umsebenzi wezandla"
+    }
+  ],
+  "timestamp": "2026-08-31T01:42:40.769177592Z",
+  "model": "glm-5.3"
+}

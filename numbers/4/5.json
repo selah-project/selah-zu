@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 4:5",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi u-Aharon nabantwana bakhe bazongena ekuhambeni kwehempe, bese behlisela phansi ⟨את⟩ iciphelo lesibuyabuya, bese becasha ngaso ⟨את⟩ i-aroni yobufakazi,",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "futhi bazongena"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "nabantwana bakhe"
+    },
+    {
+      "surface": "בנסע",
+      "gloss": "ekuhambeni"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "kwehempe"
+    },
+    {
+      "surface": "והורדו",
+      "gloss": "bese behlisela phansi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iciphelo lesibuyabuya"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "iciphelo"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "lesibuyabuya"
+    },
+    {
+      "surface": "וכסו",
+      "gloss": "bese becasha"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ngaso"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-aroni yobufakazi"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "i-aroni"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "yobufakazi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:08:53.430325561Z",
+  "model": "glm-5.3"
+}

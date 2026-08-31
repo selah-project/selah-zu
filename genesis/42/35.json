@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 42:35",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Kwathi lapho besethula izikhwama zabo, bheka, isiphakheji sekhalimela somuntu ngamunye sasusesikhwameni sakhe; bayibona ⟨את⟩ iziphakheji zekhalimela zabo, bona noyihlo wabo, baseyesaba.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "הם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "מריקים",
+      "gloss": "besethula"
+    },
+    {
+      "surface": "שקיהם",
+      "gloss": "izikhwama zabo"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "איש",
+      "gloss": "somuntu ngamunye"
+    },
+    {
+      "surface": "צרור",
+      "gloss": "isiphakheji"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "sekhalimela sakhe"
+    },
+    {
+      "surface": "בשקו",
+      "gloss": "sasusesikhwameni sakhe"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "bayibona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iziphakheji zekhalimela zabo"
+    },
+    {
+      "surface": "צררות",
+      "gloss": "iziphakheji"
+    },
+    {
+      "surface": "כספיהם",
+      "gloss": "zekhalimela zabo"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ואביהם",
+      "gloss": "noyihlo wabo"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "baseyesaba"
+    }
+  ],
+  "timestamp": "2026-08-31T01:22:18.756554806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 78:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Angeke siyifihlele kubantwana babo; sizodlulisela kuzukulwane ezayo izindumiso zikaYahwe, namandla akhe, nezimangaliso zakhe engazenzile.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Angeke"
+    },
+    {
+      "surface": "נכחד",
+      "gloss": "siyifihlele"
+    },
+    {
+      "surface": "מבניהם",
+      "gloss": "kubantwana babo"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kuzukulwane"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ezayo"
+    },
+    {
+      "surface": "מספרים",
+      "gloss": "sizodlulisela"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "izindumiso"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ועזוזו",
+      "gloss": "namandla akhe"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "nezimangaliso zakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "enga-"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "zenzile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:22.287714584Z",
+  "model": "glm-5.3"
+}

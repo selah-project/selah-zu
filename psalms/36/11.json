@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 36:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Duduliza ikhesedi yakho kwabazi bakho, nelungiso lwakho kwabaqondile-bomoyeni.",
+  "tokens": [
+    {
+      "surface": "משך",
+      "gloss": "Duduliza"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "ikhesedi yakho"
+    },
+    {
+      "surface": "לידעיך",
+      "gloss": "kwabazi bakho"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "nelungiso lwakho"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "kwabaqondile"
+    },
+    {
+      "surface": "לב",
+      "gloss": "bomoyeni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:20.036864644Z",
+  "model": "glm-5.3"
+}

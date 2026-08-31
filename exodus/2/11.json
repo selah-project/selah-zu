@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 2:11",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Kwaze kwaba ezinsukwini lezo, uMoshe wakhula, waphuma ku-abafowabo, wabona imithwalo yabo; wabona indoda umMitsri eshayayo indoda umHebheru, omunye wabafowabo.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwaze kwaba"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ezinsukwini"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "lezo"
+    },
+    {
+      "surface": "ויגדל",
+      "gloss": "wakhula"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abafowabo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "בסבלתם",
+      "gloss": "imithwalo yabo"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "umMitsri"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "eshayayo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "umHebheru"
+    },
+    {
+      "surface": "מאחיו",
+      "gloss": "omunye wabafowabo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:26:06.713525944Z",
+  "model": "glm-5.3"
+}

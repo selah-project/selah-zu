@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 173,
+  "ref": "psalms 119:173",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Izandla zakho ma-ibe lusizo kimi, ngokuba izimiso zakho ngizikhethile.",
+  "tokens": [
+    {
+      "surface": "תהי",
+      "gloss": "ma-ibe"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "izandla zakho"
+    },
+    {
+      "surface": "לעזרני",
+      "gloss": "lusizo kimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "izimiso zakho"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ngizikhethile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:15.819941234Z",
+  "model": "glm-5.3"
+}

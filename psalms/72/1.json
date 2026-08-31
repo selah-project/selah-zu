@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 72:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 72,
+  "translation": "Lwe-uShelomoh. uElohim, imigomo yakho inike inkosi, futhi lolungelo lwakho indodana yenkosi.",
+  "tokens": [
+    {
+      "surface": "לשלמה",
+      "gloss": "Lwe-uShelomoh (ihloko)"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "imigomo yakho"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "תן",
+      "gloss": "inike"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "futhi lolungelo lwakho"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:13.970043895Z",
+  "model": "glm-5.3"
+}

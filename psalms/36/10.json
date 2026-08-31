@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 36:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Ngokuba ngawe ⟨ungu⟩mthombo wokuphila; ekukhanyeni kwakho siyabona ukukhanya.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ngawe"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "⟨ungu⟩mthombo"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "wokuphila"
+    },
+    {
+      "surface": "באורך",
+      "gloss": "ekukhanyeni kwakho"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "siyabona"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ukukhanya"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:20.036731167Z",
+  "model": "glm-5.3"
+}

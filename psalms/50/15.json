@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 50:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "bizemina osukwini olunzima; ngizokukhipha lapho, wena ungizophakamisa.",
+  "tokens": [
+    {
+      "surface": "וקראני",
+      "gloss": "bizemina"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "osukwini"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "olunzima"
+    },
+    {
+      "surface": "אחלצך",
+      "gloss": "ngizokukhipha lapho"
+    },
+    {
+      "surface": "ותכבדני",
+      "gloss": "ungizophakamisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:38.078413800Z",
+  "model": "glm-5.3"
+}

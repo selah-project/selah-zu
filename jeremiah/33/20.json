@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 33:20",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Ngakho uthe uYahwe: uma niyayophula inxaxheba yami yosuku ⟨את⟩ nenxaxheba yami yobusuku ⟨את⟩, ukuze kungabi khona usuku nobusuku ezikhathini zazo;",
+  "tokens": [
+    {
+      "surface": "כֹּה",
+      "gloss": "Ngakho"
+    },
+    {
+      "surface": "אָמַר",
+      "gloss": "ute"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תָּפֵרוּ",
+      "gloss": "niyayophula"
+    },
+    {
+      "surface": "אֵת",
+      "gloss": "⟨את⟩",
+      "marks": "inxaxheba yami yosuku"
+    },
+    {
+      "surface": "בְּרִיתִי",
+      "gloss": "inxaxheba yami"
+    },
+    {
+      "surface": "הַיּוֹם",
+      "gloss": "yosuku"
+    },
+    {
+      "surface": "וְאֵת",
+      "gloss": "⟨את⟩",
+      "marks": "inxaxheba yami yobusuku"
+    },
+    {
+      "surface": "בְּרִיתִי",
+      "gloss": "nenxaxheba yami"
+    },
+    {
+      "surface": "הַלַּיְלָה",
+      "gloss": "yobusuku"
+    },
+    {
+      "surface": "וּלְבִלְתִּי",
+      "gloss": "ukuze kungabi khona"
+    },
+    {
+      "surface": "הֱיוֹת",
+      "gloss": "ukuba kube khona"
+    },
+    {
+      "surface": "יוֹמָם",
+      "gloss": "usuku ngosuku"
+    },
+    {
+      "surface": "וָלַיְלָה",
+      "gloss": "nobusuku"
+    },
+    {
+      "surface": "בְּעִתָּם",
+      "gloss": "ezikhathini zazo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:53:21.641977722Z",
+  "model": "glm-5.3"
+}

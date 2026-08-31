@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 9:5",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ngizophakamisa ⟨את⟩ isihlalo sobukhosi bakho phezu kweYisrayeli kuze kube phakade, njengokuba ngakhuluma kuDavide uyise wakho, ngokuthi: cha, akuzosikatwanga kuwe indoda ethile ephezu kwesihlalo sobukosi baseYisrayeli.",
+  "tokens": [
+    {
+      "surface": "והקמתי",
+      "gloss": "Ngizophakamisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isihlalo sobukhosi"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "isihlalo"
+    },
+    {
+      "surface": "ממלכתך",
+      "gloss": "sobukhosi bakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kweYisrayeli"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokuba"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ngakhuluma"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uyise wakho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "kuzosikatwanga"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda ethile"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ephezu kwesihlalo"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "sobukosi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "baseYisrayeli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:06:07.804056302Z",
+  "model": "glm-5.3"
+}

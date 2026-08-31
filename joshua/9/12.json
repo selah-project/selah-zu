@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 9:12",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Le inkethethu yethu ishisa sahlela ngayo emizini yethini ngosuku esiphuma ukuhamba nenu; manje-ke bhe: yomile, isiphukile iziqumama.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "inkethethu yethu"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ishisa"
+    },
+    {
+      "surface": "הצטידנו",
+      "gloss": "sahlela"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "inkethethu yethu"
+    },
+    {
+      "surface": "מבתינו",
+      "gloss": "emizini yethini"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "צאתנו",
+      "gloss": "esiphuma"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuhamba"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "nenu"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "manje-ke"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bhe"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "yomile"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "isiphukile"
+    },
+    {
+      "surface": "נקדים",
+      "gloss": "iziqumama"
+    }
+  ],
+  "timestamp": "2026-08-31T02:52:35.482045707Z",
+  "model": "glm-5.3"
+}

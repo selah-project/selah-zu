@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 72:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 72,
+  "translation": "Omulungi uchuma ezinsukwini zakhe, futhi obuninzi bobuxolo kuze kungasekho inyanga.",
+  "tokens": [
+    {
+      "surface": "יפרח",
+      "gloss": "uchuma"
+    },
+    {
+      "surface": "בימיו",
+      "gloss": "ezinsukwini zakhe"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "omulungi"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "futhi obuninzi"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "bobuxolo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "kungasekho"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "inyanga"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:24.824815234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 13:32",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "ngoba izwi okwakhaliphe ngelizwi likaYahwe ngempumputhe yesibingelelo esiseBeyit-eli, futhi ngempumputhe yazo zonke izindlu zeziphakeme ezise-emizini yaseShomeroni, kuzomele kwenzeke ngempela.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kwenzeke"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuzomele kwenzeke"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "wakhalipha"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ngelizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngempumputhe yokuthi"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "yesibingelelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ese"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "eBeyit-eli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eli"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi ngempumputhe ya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "izindlu"
+    },
+    {
+      "surface": "הבמות",
+      "gloss": "zeziphakeme"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezise"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "emizini"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "yaseShomeroni"
+    }
+  ],
+  "timestamp": "2026-08-31T11:40:21.045023600Z",
+  "model": "glm-5.3"
+}

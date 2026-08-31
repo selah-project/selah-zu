@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 16:6",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "noBenayahu noYahazieli abapristi ngezimpondo zokwesa njalo phambi kwesiphingi soSivumelwano sikaElohim",
+  "tokens": [
+    {
+      "surface": "ובניהו",
+      "gloss": "noBenayahu"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "noYahazieli"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "בחצצרות",
+      "gloss": "ngezimpondo zokwesa"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "sesiphingi"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "soSivumelwano"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "sikaElohim"
+    }
+  ],
+  "timestamp": "2026-08-31T08:24:58.225404805Z",
+  "model": "glm-5.3"
+}

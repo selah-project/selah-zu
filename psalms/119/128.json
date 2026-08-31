@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngakho-ke zonke iziyalelo zakho, mayelana nezinto zonke, ngizibona zilungile; zonke izindlela zamanga ngizidla.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Ngakho-"
+    },
+    {
+      "surface": "כן",
+      "gloss": "-ke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "iziyalelo zakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "ngizibona zilungile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "izindlela"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "zamanga"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "ngizidla"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:14.781116168Z",
+  "model": "glm-5.3"
+}

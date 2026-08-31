@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 81,
+  "translation": "Kumqondisi womculo, ngeGitithi, ku-Asafi.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi womculo"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "iGitithi"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ku-Asafi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:58.089293445Z",
+  "model": "glm-5.3"
+}

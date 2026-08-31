@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 18:20",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "U-Ahab wayethuma kubo bonke abantwana bakaIsrayeli, wabe eqoqa ⟨את⟩ iziprofeti entabeni yaseKarmeli.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "wayethuma"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "u-Ahab"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kubo bonke"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaIsrayeli"
+    },
+    {
+      "surface": "ויקבץ",
+      "gloss": "wabe eqoqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iziprofeti"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "iziprofeti"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "yaseKarmeli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:59:59.094594898Z",
+  "model": "glm-5.3"
+}

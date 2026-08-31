@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 22:3",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "IMowabi yesaba kabi kakhulu phambi kombutho, ngoba ⟨wawu⟩ unningi; iMowabi yathukuthela phambi kwabantwana bakwa-Israyeli.",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "yesaba kabi"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "iMowabi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "phambi ko-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "umbutho"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "רב",
+      "gloss": "unningi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨wawu⟩ u-"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "yathukuthela"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "iMowabi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana bakwa-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T02:20:44.915488628Z",
+  "model": "glm-5.3"
+}

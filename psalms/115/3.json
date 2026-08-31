@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 115:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 115,
+  "translation": "uElohim wethu usezulwini; konke okwathandwa yena wakwenza.",
+  "tokens": [
+    {
+      "surface": "ואלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "usezulwini"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwathandwa yena"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "wakuthanda"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wakwenza"
+    }
+  ],
+  "timestamp": "2026-08-31T11:44:55.462205053Z",
+  "model": "glm-5.3"
+}

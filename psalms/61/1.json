@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 61,
+  "translation": "Kumqondisi, ngezinkathazo zezintambo, kukaDavide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "ezinkathazweni zezintambo"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kukaDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:32.511007092Z",
+  "model": "glm-5.3"
+}

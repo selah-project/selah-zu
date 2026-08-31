@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "uYahwe u-Adonayi wethu, mangabi ⟨⏑⟩ mkhulu igama lakho kuwo wonke umhlaba.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "u-Adonayi wethu"
+    },
+    {
+      "surface": "מה",
+      "gloss": "mangabi"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "mkhulu"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "kuwo wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:23.615650221Z",
+  "model": "glm-5.3"
+}

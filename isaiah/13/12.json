@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 13:12",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Ngiyongenza umuntu abe yindlebe kakhulu kuno-golide elihlaza, indodana ingaba yindlebe kuno-golide lase-Ofiri.",
+  "tokens": [
+    {
+      "surface": "אוקיר",
+      "gloss": "Ngiyongenza ibe yindlebe"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "מפז",
+      "gloss": "kuno-golide elihlaza"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "kuno-golide"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "lase-Ofiri"
+    }
+  ],
+  "timestamp": "2026-08-31T04:19:23.623481745Z",
+  "model": "glm-5.3"
+}

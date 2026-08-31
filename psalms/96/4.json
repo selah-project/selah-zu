@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 96,
+  "translation": "Ngokuba uYahwe {uyinkulu}, futhi {ufanele} ukudunyiswa kakhulu, {uyesabeka} phezu kwawo onke amadoda.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "{uyinkulu}"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "futhi {ufanele} ukudunyiswa"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "{uyesabeka}"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "kwawo onke"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "amadoda"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:27.825342814Z",
+  "model": "glm-5.3"
+}

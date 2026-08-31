@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 15:12",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Futhi wacasula abangcwele-buzwe ⟨abahlotshanisiwe⟩ emhlabeni, wasusa ⟨את⟩ konke izithombe-ezongaziwe exhlakazela zonke amasiko okhokho bakhe.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "futhi wacasula"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "abangcwele-buzwe ⟨abahlotshanisiwe⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "mhlabeni"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "wasusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke izithombe-ezongaziwe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "izithombe-ezongaziwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "exhlakazela"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "zonke amasiko"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "okhokho bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:57:51.113931625Z",
+  "model": "glm-5.3"
+}

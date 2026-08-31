@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 1:4",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "ekuboniseni ⟨את⟩ ubucebo benkazimulo yobukhosi bakhe, no⟨את⟩ ubuhle bokukhazimula kobukhulu bakhe, izinsuku eziningi — amashumi ayisishiyagalombili nangikhulu yosuku.",
+  "tokens": [
+    {
+      "surface": "בהראתו",
+      "gloss": "ekuboniseni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubucebo benkazimulo yobukhosi bakhe"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ubucebo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "benkazimulo"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "yobukhosi bakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "ubuhle bokukhazimula kobukhulu bakhe"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ubuhle"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "bokukhazimula"
+    },
+    {
+      "surface": "גדולתו",
+      "gloss": "kobukhulu bakhe"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "eziningi"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "amashumi ayisishiyagalombili"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "nangikhulu"
+    },
+    {
+      "surface": "יום",
+      "gloss": "yosuku"
+    }
+  ],
+  "timestamp": "2026-08-31T07:52:29.580934377Z",
+  "model": "glm-5.3"
+}

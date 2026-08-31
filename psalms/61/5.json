@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 61:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 61,
+  "translation": "Ngingahlala etendeni lakho kuze kube phakade, ngizicecela ekusithelelweni kwamaphiko akho. Selah.",
+  "tokens": [
+    {
+      "surface": "אגורה",
+      "gloss": "Ngingahlala"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "etendeni lakho"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "אחסה",
+      "gloss": "ngizicecela"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ekusithelelweni"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "kwamaphiko akho"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:04.276610310Z",
+  "model": "glm-5.3"
+}

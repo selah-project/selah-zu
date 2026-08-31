@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 2:26",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi umfana uShemuyeli wayehamba ekhula enhle kakhulu, futhi kuYahwe futhi nabantu.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "futhi umfana"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "uShemuyeli"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "wayehamba"
+    },
+    {
+      "surface": "וגדל",
+      "gloss": "ekhula"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "enhle kakhulu"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "futhi na-"
+    },
+    {
+      "surface": "עם",
+      "gloss": ""
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "bantu"
+    }
+  ],
+  "timestamp": "2026-08-31T03:15:12.432421041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 101:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 101,
+  "translation": "Ocelabezelayo ngasese umakhelwane wakhe, yena ⟨את⟩ ngiyomisa; oneso eliphakeme nenhliziyo enkulu, yena ⟨את⟩ angeke ngimbeze.",
+  "tokens": [
+    {
+      "surface": "מלושני",
+      "gloss": "ocelabezelayo"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ngasese"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "umakhelwane wakhe"
+    },
+    {
+      "surface": "אותו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (ocelabezelayo)"
+    },
+    {
+      "surface": "אצמית",
+      "gloss": "ngiyomisa"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "eliphakeme"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "eso"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "nenhliziyo enkulu"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "nenhliziyo enkulu"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (oneso eliphakeme)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ngimbeze"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:02.582370254Z",
+  "model": "glm-5.3"
+}

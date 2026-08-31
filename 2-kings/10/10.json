@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 10:10",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Yazini ngakho-ke ukuthi angeke iwule ilutho eliyizwi likaYahwe ezweni, elalinkulumwaYahwe ngaphezu kwebendlu ka-Ahabu; futhi uYahwe wenza ⟨את⟩ lokho alenkulumile ngesandla somkhonzi wakhe uEliyahu.",
+  "tokens": [
+    {
+      "surface": "דעו",
+      "gloss": "Yazini"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "iwule"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ilutho eliyizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alinkulumile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "kwebendlu"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "ka-Ahabu"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "futhi uYahwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "lokho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lokho"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "alenkulumile"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "somkhonzi wakhe"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "uEliyahu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:06:40.992805512Z",
+  "model": "glm-5.3"
+}

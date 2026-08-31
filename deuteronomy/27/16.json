@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Oqalekileyo ongisikhathazisi kubaba nomama bakhe; bese bonke abantu bathi, Amen.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Oqalekileyo"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "ongisikhathazisi"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "kubaba"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "nomama"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Amen"
+    }
+  ],
+  "timestamp": "2026-08-31T02:43:01.025324207Z",
+  "model": "glm-5.3"
+}

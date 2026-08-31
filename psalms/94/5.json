@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 94,
+  "translation": "Ilanda lakho, Yahwe, liyayichitha; ifa lakho liyalihlukumeza.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "liyayichitha"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "ifa lakho"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "liyalihlukumeza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:39.099518927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 4:6",
+  "book": "ezra",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi ekubuseni kukaAhashuweroshi, ekuqaleni kokubusa kwakhe, babhala isiphikisana ngabahlali bakaYehuda neYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "ובמלכות",
+      "gloss": "futhi ekubuseni"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "kukaAhashuweroshi"
+    },
+    {
+      "surface": "בתחלת",
+      "gloss": "ekuqaleni"
+    },
+    {
+      "surface": "מלכותו",
+      "gloss": "kokubusa kwakhe"
+    },
+    {
+      "surface": "כתבו",
+      "gloss": "babhala"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "isiphikisana"
+    },
+    {
+      "surface": "על",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "abahlali"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "bakaYehuda"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "neYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:08:28.037972825Z",
+  "model": "glm-5.3"
+}

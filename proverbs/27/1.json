@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Ungazidwebi ngosuku oluzayo, ngokuba awuyazi ukuthi yini engakuyalekisa usuku.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "zidwebi"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "oluzayo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awuyazi"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "uyazi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "engakuyalekisa"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    }
+  ],
+  "timestamp": "2026-08-31T07:03:40.450085912Z",
+  "model": "glm-5.3"
+}

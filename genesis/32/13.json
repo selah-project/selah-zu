@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 32:13",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Futhi wena uthi: Ngempela ngizokwenza okuhle ngawe, futhi ngizobeka ⟨את⟩ inzalo yakho njengesihlabathicsolwa lolwandle, elingabalwa ngenxa yokuminingi kwalo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "futhi wena"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "ngokuhle"
+    },
+    {
+      "surface": "איטיב",
+      "gloss": "ngizokwenza okuhle"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ngawe"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "futhi ngizobeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inzalo yakho"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "inzalo yakho"
+    },
+    {
+      "surface": "כחול",
+      "gloss": "njengesihlabathicsolwa"
+    },
+    {
+      "surface": "הים",
+      "gloss": "lolwandle"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "elingabalwa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "linga-"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "-balwa"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ngenxa yokuminingi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:16:40.977924749Z",
+  "model": "glm-5.3"
+}

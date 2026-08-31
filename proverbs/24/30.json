@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Ngadlula edolobheni lomuntu oyesula, nasemindeni womuntu ongenamlomo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "lomuntu"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "oyesula"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "ngadlula"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nase-"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "emindeni"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "womuntu"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ongena-"
+    },
+    {
+      "surface": "לב",
+      "gloss": "mlomo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:55:08.504039607Z",
+  "model": "glm-5.3"
+}

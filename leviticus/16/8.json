@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi u-Aharon uzophonsa ilotho phezu kwezimpongo ezimbili: ilotho elilodwa likaYahwe, nelotho elilodwa lika-Azazeli.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "uzophonsa"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "izimpongo"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "ilotho"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "ilotho"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "nelotho"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "lika-Azazeli"
+    }
+  ],
+  "timestamp": "2026-08-31T01:59:20.527833283Z",
+  "model": "glm-5.3"
+}

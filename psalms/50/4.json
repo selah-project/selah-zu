@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Uyabiza amazulu aphan'phezulu, nomhlaba, ukwahlulela abantu bakhe.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Uyabiza"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "aphan'phezulu"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naku"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "ukuwahlulela"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:42.490450012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ingabe amandla ami angamandla amatshe? Ingabe inyama yami ingabhulazi?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ingabe"
+    },
+    {
+      "surface": "כח",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "amatshe"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "amandla ami"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ingabe"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "inyama yami"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "ingabhulazi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:09:12.839400487Z",
+  "model": "glm-5.3"
+}

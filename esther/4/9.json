@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "UHatake wayefika, wazisa ku-Estere ⟨את⟩ izindlela zamazwi kaMardokayi.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "wayefika"
+    },
+    {
+      "surface": "התך",
+      "gloss": "UHatake"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "wazisa"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "ku-Estere"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izindlela zamazwi kaMardokayi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "izindlela zamazwi"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "kaMardokayi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:50:57.395180714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 148,
+  "translation": "Dumisani ⟨את⟩ uYahwe kusuka emhlabeni, zinhlwathi zolwandle nezimpondo zansizinda zonke.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumisani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kusuka"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "zinhlwathi zolwandle nezimpondo zansizinda"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ne-"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "izibubu ezinkulu zamanzi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:22.122653747Z",
+  "model": "glm-5.3"
+}

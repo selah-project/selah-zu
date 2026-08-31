@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 127:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 127,
+  "translation": "Iculo lokwenyuka, likaShelomo. Uma uYahwe engayakhikhiza indlu, amakhoshe abayakhisayo ayakhikiza ingcala; uma uYahwe engayigadi idolobha, ingcala ugadi uqaphile usuku nobusuku.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Iculo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lokwenyuka"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "likaShelomo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engayakhikhiza"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "(yakhiza)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ingcala"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ayakhikiza amakhoshe"
+    },
+    {
+      "surface": "בוניו",
+      "gloss": "abayakhisayo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "iyona"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engayigadi"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "(gadi)"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "idolobha"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ingcala"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "uqaphile usuku nobusuku"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ugadi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:02.627738877Z",
+  "model": "glm-5.3"
+}

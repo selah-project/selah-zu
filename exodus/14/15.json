@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "uYahwe wasesithi kuMoshe: Kungani ukhala kimi? Yisho kubantwana bakaYisrayeli ukuthi bahambe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wasesithi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "kungani"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "ukhala"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "yisho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakaYisrayeli"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "bahambe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:33:26.400214029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 20:4",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Ungakenzi ⟨kuwe⟩ isithombe esisikiwe noma yisiphi isibonelo salokho okusezulwini phezulu, nolokho okusemhlabeni ngezansi, nalokho okumanzi engaphansi komhlaba.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "kenzi"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨kuwe⟩"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "isithombe esisikiwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "noma yisiphi"
+    },
+    {
+      "surface": "תמונה",
+      "gloss": "isibonelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "salokho oku-"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "sezulwini"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "nolokho oku-"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "semhlabeni"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ngezansi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "nalokho oku-"
+    },
+    {
+      "surface": "במים",
+      "gloss": "manzi"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "engaphansi"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "komhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T09:47:29.929826950Z",
+  "model": "glm-5.3"
+}

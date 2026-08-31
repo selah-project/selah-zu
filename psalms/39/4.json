@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 39:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Inhliziyo yami yafudumele ngaphakathi kwami; ngenkathi ngicabanga, umlilo wavutha; ngakhuluma nglilimi lami.",
+  "tokens": [
+    {
+      "surface": "חם",
+      "gloss": "yafudumele"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inhliziyo yami"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ngaphakathi kwami"
+    },
+    {
+      "surface": "בהגיגי",
+      "gloss": "ngenkathi ngicabanga"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "wavutha"
+    },
+    {
+      "surface": "אש",
+      "gloss": "umlilo"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ngakhuluma"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "nglilimi lami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:12.772181395Z",
+  "model": "glm-5.3"
+}

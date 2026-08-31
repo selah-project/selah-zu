@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 139:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 139,
+  "translation": "Ngiyakubonga, ngokuba ngihlukanisiwe ngendlela engesabekayo; imisebenzi yakho imangalisayo, umphefumulo wami uwazi lokho kakhulu.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "Ngiyakubonga"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "ngendlela engesabekayo"
+    },
+    {
+      "surface": "נפליתי",
+      "gloss": "ngihlukanisiwe"
+    },
+    {
+      "surface": "נפלאים",
+      "gloss": "imangalisayo"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "imisebenzi yakho"
+    },
+    {
+      "surface": "ונפשי",
+      "gloss": "umphefumulo wami"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "uwazi"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:08.346673528Z",
+  "model": "glm-5.3"
+}

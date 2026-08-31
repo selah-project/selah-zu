@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ebusweni bezifikili, ekuscotsheni kosuku, entweni yomnyama wambama nobumnyama",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "ebusweni bezifikili"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ekuscotsheni"
+    },
+    {
+      "surface": "יום",
+      "gloss": "osuku"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "entweni yambama"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "wambama"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "nobumnyama"
+    }
+  ],
+  "timestamp": "2026-08-31T08:55:16.972318299Z",
+  "model": "glm-5.3"
+}

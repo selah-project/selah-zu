@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 18:15",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "UKhizkiya wanikeza ⟨את⟩ yonke yesiliva eyatholakala endlini kaYahwe, nasezitsheni zendlu yenkosi.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "wanikeza"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "UKhizkiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "yonke yesiliva"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "yesiliva"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "eyatholakala"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ובאצרות",
+      "gloss": "nasezitsheni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "zendlu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yenkosi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:11:36.215307537Z",
+  "model": "glm-5.3"
+}

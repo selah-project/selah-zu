@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Wazisa ⟨את⟩ abapristi no-⟨את⟩ amaLevi, wababuthela esikhaleni esibanzi saseMpumalanga.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "Wazisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abapristi"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "amaLevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "amaLevi"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "wababuthela"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "esikhaleni esibanzi"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "saseMpumalanga"
+    }
+  ],
+  "timestamp": "2026-08-31T08:43:21.261371688Z",
+  "model": "glm-5.3"
+}

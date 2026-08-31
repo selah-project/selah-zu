@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Izintaba zachitheka phambi kukaYahwe, leyo iSinayi phambi kukaYahwe, uElohim ka-Israyeli.",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "izintaba"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "zachitheka"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "זה",
+      "gloss": "leyo"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "iSinayi"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:02:39.643246274Z",
+  "model": "glm-5.3"
+}

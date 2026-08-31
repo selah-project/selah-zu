@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 18:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Ngakho-ke imikhuba yamanzi yabonakala, futhi izingaphakathi zomhlaba zazingavulwa ngesidumbu sakho, uYahwe, nangesandla somoya wokulaka kwakho.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "yabonakala"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "imikhuba"
+    },
+    {
+      "surface": "מים",
+      "gloss": "yamanzi"
+    },
+    {
+      "surface": "ויגלו",
+      "gloss": "zazingavulwa"
+    },
+    {
+      "surface": "מוסדות",
+      "gloss": "izingaphakathi"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "zomhlaba"
+    },
+    {
+      "surface": "מגערתך",
+      "gloss": "ngesidumbu sakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מנשמת",
+      "gloss": "nangesandla"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "somoya"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "wokulaka kwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:05.386882511Z",
+  "model": "glm-5.3"
+}

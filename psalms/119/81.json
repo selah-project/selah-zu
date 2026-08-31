@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "psalms 119:81",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Umphefumulo wami uyaphhefumulela ⟨phela⟩ ngensindiso yakho, ngelizwi lakho ngilindele.",
+  "tokens": [
+    {
+      "surface": "כלתה",
+      "gloss": "uyaphhefumulela"
+    },
+    {
+      "surface": "לתשועתך",
+      "gloss": "ngensindiso yakho"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "umphefumulo wami"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "ngelizwi lakho"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "ngilindele"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:23.863222805Z",
+  "model": "glm-5.3"
+}

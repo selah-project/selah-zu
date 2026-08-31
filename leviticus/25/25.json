@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 25:25",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Uma umfowenu esengumfokazi, ethengise ingenye yengxenye yakhe yesibusiso, futhi weza umhleli wakhe osondelene naye, wathenga kabusha ⟨את⟩ okuthengiswe yisezakwakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "uma"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "esengumfokazi"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "umfowenu"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "ethengise"
+    },
+    {
+      "surface": "מאחזתו",
+      "gloss": "ingxenye yakhe yesibusiso"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "weza"
+    },
+    {
+      "surface": "גאלו",
+      "gloss": "umhleli wakhe"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "osondelene"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "naye"
+    },
+    {
+      "surface": "וגאל",
+      "gloss": "wathenga kabusha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okuthengiswe"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "okuthengiswe"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "yisezakwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:05:24.677074126Z",
+  "model": "glm-5.3"
+}

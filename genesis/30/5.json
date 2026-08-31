@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "IBhla yakhulelwa, yaze yazala kuYaaqov indodana.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "yakhulelwa"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "iBilha"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "yazala"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "kuYaaqov"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    }
+  ],
+  "timestamp": "2026-08-31T01:15:21.195981058Z",
+  "model": "glm-5.3"
+}

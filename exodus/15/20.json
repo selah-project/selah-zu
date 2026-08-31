@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 15:20",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "UMiriyamu, umprofethi, udadewabo ka-Aharon, wathatha ⟨את⟩ isigubhu esandleni sakhe; konke amakhosikazi aphuma emumva kwakhe ngesigubhu nangemidanso.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "uMiriyamu"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "umprofethi"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "udadewabo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isigubhu"
+    },
+    {
+      "surface": "התף",
+      "gloss": "isigubhu"
+    },
+    {
+      "surface": "בידה",
+      "gloss": "esandleni sakhe"
+    },
+    {
+      "surface": "ותצאן",
+      "gloss": "aphuma"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "amakhosikazi"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "emumva kwakhe"
+    },
+    {
+      "surface": "בתפים",
+      "gloss": "ngesigubhu"
+    },
+    {
+      "surface": "ובמחלת",
+      "gloss": "nangemidanso"
+    }
+  ],
+  "timestamp": "2026-08-31T01:33:42.834384149Z",
+  "model": "glm-5.3"
+}

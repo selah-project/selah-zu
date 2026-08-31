@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 148,
+  "translation": "Dumuzela uYah! Dumuzelani ⟨את⟩ uYahwe ezulwini, muzeleni kumakhazimulo aphezulu.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Dumuzela"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Dumuzelani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "zulwini"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "muzeleni"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "kumakhazimulo aphezulu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:45.161490126Z",
+  "model": "glm-5.3"
+}

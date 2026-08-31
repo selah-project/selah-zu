@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 3:8",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "umkhonzi wakho usephakathi kwabantu bakho\toh\toze,abantu abaningi abangabalwa bengabalwa ngenxa yokuningi.",
+  "tokens": [
+    {
+      "surface": "ועבדך",
+      "gloss": "umkhonzi wakho"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "usephakathi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kwabantu bakho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oh toze"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "ukhethile"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "רב",
+      "gloss": "abaningi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "abanga"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "balwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "bengabalwa"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "balwa"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ngenxa yokuningi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:47:24.514607785Z",
+  "model": "glm-5.3"
+}

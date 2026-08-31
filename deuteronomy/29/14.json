@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 29:14",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Ngoba ⟨את⟩ ezikhona lapha nathi ezimi namhlanja phambi kukaYahwe uElohim wethu, kanye ⟨את⟩ ezingekho lapha nathi namhlanja",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezikhona lapha nathi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezo"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "ezikhona"
+    },
+    {
+      "surface": "פה",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nathi"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ezimi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanja"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ezingekho lapha nathi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezo"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ezingekho"
+    },
+    {
+      "surface": "פה",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "nathi"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namhlanja"
+    }
+  ],
+  "timestamp": "2026-08-31T02:44:56.979470595Z",
+  "model": "glm-5.3"
+}

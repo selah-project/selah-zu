@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Oqoqa eNkwindla unyana ohlakaniphile; ozelwe ubuthongo ekuvunweni unyana ohlazisa.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "oqoqa"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "enkwindleni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ohlakaniphile"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "ozelwe ubuthongo"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "ekuvunweni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "unyana"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "ohlazisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:50:40.589536621Z",
+  "model": "glm-5.3"
+}

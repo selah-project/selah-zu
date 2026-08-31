@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-samuel 17:54",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "UDavida wathatha ⟨את⟩ ikhanda lomFilishti, waliletha eYerushalayimi, futhi ⟨את⟩ izikhali zalabo zamanzi wasibeka ethenteni yakhe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavida"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikhanda lomFilishti"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ikhanda"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "lomFilishti"
+    },
+    {
+      "surface": "ויבאהו",
+      "gloss": "waliletha"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "izikhali zalabo zamanzi"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "izikhali zalabo zamanzi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "wasibeka"
+    },
+    {
+      "surface": "באהלו",
+      "gloss": "ethenteni yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:23:14.462830624Z",
+  "model": "glm-5.3"
+}

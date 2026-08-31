@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 8:18",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Uma ethathwa endaweni yayo, iyo ⟨indawo⟩ iyophika ⟨ngaye⟩ ithi: angikubonanga.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "יבלענו",
+      "gloss": "ethathwa\/menziwa-ndawo"
+    },
+    {
+      "surface": "ממקומו",
+      "gloss": "endaweni yayo"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "iyophika"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ngaye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angiku-"
+    },
+    {
+      "surface": "ראיתיך",
+      "gloss": "bonanga"
+    }
+  ],
+  "timestamp": "2026-08-31T07:11:25.250773469Z",
+  "model": "glm-5.3"
+}

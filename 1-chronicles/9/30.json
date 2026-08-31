@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 9:30",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Futhi abanye abantwana abangama-aporeyimi benza umxube wezinampula zothwane.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "futhi abanye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abangama-aporeyimi"
+    },
+    {
+      "surface": "רקחי",
+      "gloss": "benza (ukuxuba)"
+    },
+    {
+      "surface": "המרקחת",
+      "gloss": "umxube"
+    },
+    {
+      "surface": "לבשמים",
+      "gloss": "wezinampula zothwane"
+    }
+  ],
+  "timestamp": "2026-08-31T10:37:31.638437919Z",
+  "model": "glm-5.3"
+}

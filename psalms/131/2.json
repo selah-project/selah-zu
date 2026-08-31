@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 131:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 131,
+  "translation": "Uma cha — ngilinganisile ngokuthula inefeshi yami, njengensana eseqedile ukuncelisa kuyina unina; njengensana esenjalo kunami ileyo inefeshi yami.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "שויתי",
+      "gloss": "ngilinganisile"
+    },
+    {
+      "surface": "ודוממתי",
+      "gloss": "ngokuthula"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "njengensana eseqedile ukuncelisa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kuyina"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "unina"
+    },
+    {
+      "surface": "כגמל",
+      "gloss": "njengensana esenjalo"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "kunama"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:42.490905149Z",
+  "model": "glm-5.3"
+}

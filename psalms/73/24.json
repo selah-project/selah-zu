@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 73:24",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Ngencebiso yakho uyangihola; ngemva kokhonipheka uyangamukela.",
+  "tokens": [
+    {
+      "surface": "בעצתך",
+      "gloss": "ngencebiso yakho"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "uyangihola"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ngemva"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "kokhonipheka"
+    },
+    {
+      "surface": "תקחני",
+      "gloss": "uyangamukela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:26.326360288Z",
+  "model": "glm-5.3"
+}

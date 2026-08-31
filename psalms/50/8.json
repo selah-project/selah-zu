@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 50:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 50,
+  "translation": "Angikuphikisi ngezisisoko zakho, futhi izinhlolo zakho zisekumva kwami kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Angiku-"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "זבחיך",
+      "gloss": "izisisoko zakho"
+    },
+    {
+      "surface": "אוכיחך",
+      "gloss": "-phikisi"
+    },
+    {
+      "surface": "ועולתיך",
+      "gloss": "futhi izinhlolo zakho"
+    },
+    {
+      "surface": "לנגדי",
+      "gloss": "phambi kwami"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:41.210660881Z",
+  "model": "glm-5.3"
+}

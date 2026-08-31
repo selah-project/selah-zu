@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 107:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Uthuma igama lakhe abaphilisa, abasindisa ezonakeni zabo.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "uthuma"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "וירפאם",
+      "gloss": "abaphilisa"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "abasindisa"
+    },
+    {
+      "surface": "משחיתותיהם",
+      "gloss": "ezonakena zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:01.164798978Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 28:16",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Kuyoba yisikwele esiphindwe kabili; intuntu yezandla kuyoba y ubude balo, nentuntu yezandla kuyoba y ububanzi balo.",
+  "tokens": [
+    {
+      "surface": "רבוע",
+      "gloss": "isikwele"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "kuyoba yi-"
+    },
+    {
+      "surface": "כפול",
+      "gloss": "esiphindwe kabili"
+    },
+    {
+      "surface": "זרת",
+      "gloss": "intuntu yezandla"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ubude balo"
+    },
+    {
+      "surface": "וזרת",
+      "gloss": "nentuntu yezandla"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ububanzi balo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:40:43.596352330Z",
+  "model": "glm-5.3"
+}

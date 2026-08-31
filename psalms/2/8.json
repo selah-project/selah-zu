@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 2:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Cela kimi, futhi ngizonikeza izizwe njengosizo lwakho, nokulawula kwakho imikhawulo yomhlaba.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "cela"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "futhi ngizonikeza"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "njengosizo lwakho"
+    },
+    {
+      "surface": "ואחזתך",
+      "gloss": "nokulawula kwakho"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "imikhawulo"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yomhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:50.841333482Z",
+  "model": "glm-5.3"
+}

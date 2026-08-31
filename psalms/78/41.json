@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "psalms 78:41",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Baphendukela emuva, balinga u-El, bamisa imikhawulo uNgcwele wakwa-Israyeli.",
+  "tokens": [
+    {
+      "surface": "וישובו",
+      "gloss": "Baphendukela emuva"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "blinga"
+    },
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "וקדוש",
+      "gloss": "uNgcwele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wakwa-Israyeli"
+    },
+    {
+      "surface": "התוו",
+      "gloss": "bamisa imikhawulo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:39.626384064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 81:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 81,
+  "translation": "NginguYahwe uElohim wakho, ongikhiphile ezweni laseMitsrayim; Vula obala umlomo wakho, futhi ngiyawuzalisa.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "המעלך",
+      "gloss": "ongikhiphile"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    },
+    {
+      "surface": "הרחב",
+      "gloss": "Vula obala"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "umlomo wakho"
+    },
+    {
+      "surface": "ואמלאהו",
+      "gloss": "futhi ngiyawuzalisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:31.933425071Z",
+  "model": "glm-5.3"
+}

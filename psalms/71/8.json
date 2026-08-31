@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 71,
+  "translation": "Umhlomo wami ugcwaliswe udumo lwakho, usuku lonke ubuhle bakho.",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "ugcwaliswe"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umhloma wami"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "udumo lwakho"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "ubuhle bakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:12.906321621Z",
+  "model": "glm-5.3"
+}

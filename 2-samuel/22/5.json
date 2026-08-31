@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 22:5",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Ngokuba amagagasi okufa angizungezile, imifula yebeliyali yangihlinza ngwesaba",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אפפני",
+      "gloss": "angizungezile"
+    },
+    {
+      "surface": "משברי",
+      "gloss": "amagagasi"
+    },
+    {
+      "surface": "מות",
+      "gloss": "okufa"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "imifula"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "yebeliyali"
+    },
+    {
+      "surface": "יבעתני",
+      "gloss": "yangihlinza ngwesaba"
+    }
+  ],
+  "timestamp": "2026-08-31T03:43:15.533780736Z",
+  "model": "glm-5.3"
+}

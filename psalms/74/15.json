@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 74,
+  "translation": "Wena waphula umthombo nomfudlana; wena wasoma imifula emikhulu.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "waphula"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "umthombo"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "nomfudlana"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "wasoma"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "imifula"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "emikhulu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:53:50.579572446Z",
+  "model": "glm-5.3"
+}

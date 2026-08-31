@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "uYahwe ⟨ungu⟩ amandla abo, futhi yena ungukhululo kokusindiswa kweMashiya yakhe.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עז",
+      "gloss": "amandla"
+    },
+    {
+      "surface": "למו",
+      "gloss": "abo"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "futhi ukhululo"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "kokusindiswa"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "kweMashiya yakhe"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:13.532103376Z",
+  "model": "glm-5.3"
+}

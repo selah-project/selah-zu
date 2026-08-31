@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 31:16",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Ezandleni zakho izikhathi zami; ngikhulule kusandla izitha zami naselaba ngilandelwa ngabo.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "Ezandleni zakho"
+    },
+    {
+      "surface": "עתתי",
+      "gloss": "izikhathi zami"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "ngikhulule"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "kusandla"
+    },
+    {
+      "surface": "אויבי",
+      "gloss": "izitha zami"
+    },
+    {
+      "surface": "ומרדפי",
+      "gloss": "naselaba ngilandelwa ngabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:38.835297566Z",
+  "model": "glm-5.3"
+}

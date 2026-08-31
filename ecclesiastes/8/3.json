@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ungashesha ukuhamba kubuso bakhe; ungaphakathi endabeni emubi; ngokuba yena konke akuthandayo uyakwenza.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ungashesha"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "ukuhamba"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "kubuso bakhe"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ungaphakathi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungaphakathi"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ungaphakathi"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "endabeni"
+    },
+    {
+      "surface": "רע",
+      "gloss": "emubi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku-"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "akuthandayo"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uyakwenza"
+    }
+  ],
+  "timestamp": "2026-08-31T07:48:10.707742378Z",
+  "model": "glm-5.3"
+}

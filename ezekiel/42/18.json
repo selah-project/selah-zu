@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Indlela yesiNingizimu ⟨את⟩ wayelanxa: amakhanda amakhulu amahlanu ezinti zokulanda, ngestigi lokulanda.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlela yesiNingizimu"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "yesiNingizimu"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "wayelanxa"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "amahlanu"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "ezinti zokulanda"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ngestigi lokulanda"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "zokulanda"
+    }
+  ],
+  "timestamp": "2026-08-31T05:22:18.064117292Z",
+  "model": "glm-5.3"
+}

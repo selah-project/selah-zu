@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 60:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 60,
+  "translation": "NgeElohim sizokwenza okusimeme, yena ⟨yedwa⟩ oyobedla izitha zethu.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "NgeElohim"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "sizokwenza"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "okusimeme"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יבוס",
+      "gloss": "oyobedla"
+    },
+    {
+      "surface": "צרינו",
+      "gloss": "izitha zethu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:02.774439888Z",
+  "model": "glm-5.3"
+}

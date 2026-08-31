@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 17:18",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Futhi kuzoba njalo, nsezohlwele esihlalweni sobukhosi bakhe, lapho ezobhala ⟨Abakaki abayizingoni⟩ ikhophi yaleTorah, encwadini, phambi kabhaphristi abaLevi.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "futhi kuzoba njalo"
+    },
+    {
+      "surface": "כשבתו",
+      "gloss": "nsezohlwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "esihlalweni"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "isihlalo sobukhosi"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "bukhosi bakhe"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "futhi ezobhala"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikhophi"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "ikhophi eliphindiwe"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "leTorah"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "על",
+      "gloss": "ku"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "incwadi"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "phambi kwa"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abhaphristi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "abaLevi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:40:08.579840804Z",
+  "model": "glm-5.3"
+}

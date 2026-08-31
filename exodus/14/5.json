@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 14:5",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Kwaziswa inkosi yaseMitsrayim ukuthi abantu babile, inhliziyo kaParo nenceku zakhe yaphendukela ebantwini, baya bathi: Yini le esiyenzileyo, ukuthi sikhulule ⟨את⟩ uIsrayeli ekukhonzeni thina?",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "kwaziswa"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "yaseMitsrayim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "babile"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויהפך",
+      "gloss": "yaphendukela"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "ועבדיו",
+      "gloss": "nenceku zakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ebantwini"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨abantu⟩"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "baya bathi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "עשינו",
+      "gloss": "esiyenzileyo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "שלחנו",
+      "gloss": "sikhulule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uIsrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "מעבדנו",
+      "gloss": "ekukhonzeni thina"
+    }
+  ],
+  "timestamp": "2026-08-31T01:32:21.817090819Z",
+  "model": "glm-5.3"
+}

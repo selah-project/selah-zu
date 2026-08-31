@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 10:12",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Omunye wendawo yaphenduma wathi: NguBani oyise? Ngakho-ke kwaba isisho: NguShawuli naye esiphrofethini?",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "waphenduma"
+    },
+    {
+      "surface": "איש",
+      "gloss": "omunye"
+    },
+    {
+      "surface": "משם",
+      "gloss": "wendawo"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "nguBani"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "oyise"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "kwaba"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "isisho"
+    },
+    {
+      "surface": "הגם",
+      "gloss": "naye"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "בנביאים",
+      "gloss": "esiphrofethini"
+    }
+  ],
+  "timestamp": "2026-08-31T03:18:56.488733178Z",
+  "model": "glm-5.3"
+}

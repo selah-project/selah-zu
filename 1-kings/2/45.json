@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 2:45",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi uShelomoh inkosi uyabhadalwa, nessihlalo sikaDavidi sizohleleka phambi kukaYahwe kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Futhi inkosi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "uyabhadalwa"
+    },
+    {
+      "surface": "וכסא",
+      "gloss": "nessihlalo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "sikaDavidi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "sizohleleka"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "sizohleleka"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T10:21:49.451857964Z",
+  "model": "glm-5.3"
+}

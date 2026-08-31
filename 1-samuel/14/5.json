@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 14:5",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Utho olwalukhuni olungaselwesibili lwabhekisela enyakatho ngokumelene neMikmashi, lolunye lwaluseningizimu ngokumelene neGebha.",
+  "tokens": [
+    {
+      "surface": "השן",
+      "gloss": "olwalukhuni (isihlahle)"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "olungaselwesibili"
+    },
+    {
+      "surface": "מצוק",
+      "gloss": "lwaluma njengensimbi"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "enyakatho"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ngokumelene"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "iMikmashi"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "lolunye"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "eningizimu"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ngokumelene"
+    },
+    {
+      "surface": "גבע",
+      "gloss": "iGebha"
+    }
+  ],
+  "timestamp": "2026-08-31T03:20:14.401630785Z",
+  "model": "glm-5.3"
+}

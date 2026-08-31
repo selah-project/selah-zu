@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 40:10",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Bhekani, u-Adonayi uYahwe uyeza ngamandla, izehlakalo zakhe ibusa ngakhe; bhekani, umvuzo wakhe ⟨את⟩ ungomile, nomsebenzi wakhe phambi kwakhe.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "bhekani"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בחזק",
+      "gloss": "ngamandla"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "uyeza"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "izehlakalo zakhe"
+    },
+    {
+      "surface": "משלה",
+      "gloss": "ibusa"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ngakhe"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bhekani"
+    },
+    {
+      "surface": "שכרו",
+      "gloss": "umvuzo wakhe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ungomile",
+      "marks": "umvuzo wakhe"
+    },
+    {
+      "surface": "ופעלתו",
+      "gloss": "nomsebenzi wakhe"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:09:30.778245993Z",
+  "model": "glm-5.3"
+}

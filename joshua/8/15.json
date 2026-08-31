@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 8:15",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "uYehoshuwa naye sonke uSirayeli bazithwele ukuba babethwa phambi kwabo, babela balela ngeNdleya yasendle.",
+  "tokens": [
+    {
+      "surface": "וינגעו",
+      "gloss": "bazithwele ukuba babethwa"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "naye sonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uSirayeli"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "phambi kwabo"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "babela balela"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ngeNtlela"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "yasendle"
+    }
+  ],
+  "timestamp": "2026-08-31T02:52:15.199308021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 122:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 122,
+  "translation": "Ngokuba lapho izizwe ziye zakhowa, izizwe zikaYah, ngokwebufakazi kuIsrayeli, ukubonga igama likaYahwe.",
+  "tokens": [
+    {
+      "surface": "ששם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "ziye zakhowa"
+    },
+    {
+      "surface": "שבטים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "izizwe zika-"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Yah"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ngokwebufakazi"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kuIsrayeli"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "ukubonga"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "igama lika-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:24.740371791Z",
+  "model": "glm-5.3"
+}

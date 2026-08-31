@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 12:14",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi ngomprofethi uYahwe wakhuphula ⟨את⟩ iSirayeli eMitsrayim, futhi ngomprofethi wagcinwa.",
+  "tokens": [
+    {
+      "surface": "ובנביא",
+      "gloss": "futhi ngomprofethi"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "wakhuphula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iSirayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iSirayeli"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "ובנביא",
+      "gloss": "futhi ngomprofethi"
+    },
+    {
+      "surface": "נשמר",
+      "gloss": "wagcinwa"
+    }
+  ],
+  "timestamp": "2026-08-31T05:27:55.391557159Z",
+  "model": "glm-5.3"
+}

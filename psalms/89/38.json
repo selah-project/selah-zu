@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 89,
+  "translation": "Kuzakuma njengenyanga kuze kube ku-olamu, futhi njengofakazi othembekile esibheqezulwini. Selah.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "njengenyanga"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "kuzakuma"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kuze kube ku-olamu"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "futhi njengofakazi"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "esibheqezulwini"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "othembekile"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:39.191510081Z",
+  "model": "glm-5.3"
+}

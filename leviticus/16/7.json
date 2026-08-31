@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 16:7",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi uzothatha ⟨את⟩ izimpongo ezimbili, azibeka phambi kukaYahwe, emnyango wetende lomhlangano.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "uzothatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izimpongo ezimbili"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "izimpongo"
+    },
+    {
+      "surface": "והעמיד",
+      "gloss": "azibeka"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ izi"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wetende"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lomhlangano"
+    }
+  ],
+  "timestamp": "2026-08-31T01:59:20.527581345Z",
+  "model": "glm-5.3"
+}

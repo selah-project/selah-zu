@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 41:28",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Ngibheka, kodwa akukho umuntu; futhi phakathi kwabo akukho umcebisi; ngibabuza, kodwa abaphenduli ludaba.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "ngibheka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "kodwa akukho"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "futhi phakathi kwabo"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "akukho"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "umcebisi"
+    },
+    {
+      "surface": "ואשאלם",
+      "gloss": "ngibabuza"
+    },
+    {
+      "surface": "וישיבו",
+      "gloss": "abaphenduli"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ludaba"
+    }
+  ],
+  "timestamp": "2026-08-31T04:30:35.354550477Z",
+  "model": "glm-5.3"
+}

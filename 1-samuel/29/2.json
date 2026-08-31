@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 29:2",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Baholi bamaPelishti bedlula ngamakhulu nangamawaka, kanti uDavidi nabantu bakhe bedlula ngemva noAkishi.",
+  "tokens": [
+    {
+      "surface": "וסרני",
+      "gloss": "baholi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "bamaPelishti"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "bedlula"
+    },
+    {
+      "surface": "למאות",
+      "gloss": "ngamakhulu"
+    },
+    {
+      "surface": "ולאלפים",
+      "gloss": "nangamawaka"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "kanti uDavidi"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "nabantu bakhe"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "bedlula"
+    },
+    {
+      "surface": "באחרנה",
+      "gloss": "ngemva"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "uAkishi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:29:29.714133085Z",
+  "model": "glm-5.3"
+}

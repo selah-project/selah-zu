@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 9:21",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ngokuba izikepe zombuso zaya-eTarshishi ezincekini zika-Huram; kanye njalo emva kweminyaka emithathu zafika izikepe zeTarshishi ezithwala igolide nesiliva, amazinyo endlamakazi, iziphungufethu namahone.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "izikepe"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "zombuso"
+    },
+    {
+      "surface": "הלכות",
+      "gloss": "ziya"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "eTarshishi"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ezincekini zika-"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "zinceku"
+    },
+    {
+      "surface": "חורם",
+      "gloss": "u-Huram"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "kanye njalo"
+    },
+    {
+      "surface": "לשלוש",
+      "gloss": "emva kweminyaka emithathu"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "תבואנה",
+      "gloss": "zafika"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "izikepe"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "zeTarshishi"
+    },
+    {
+      "surface": "נשאות",
+      "gloss": "ezithwala"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "nesiliva"
+    },
+    {
+      "surface": "שנהבים",
+      "gloss": "amazinyo endlamakazi"
+    },
+    {
+      "surface": "וקופים",
+      "gloss": "iziphungufethu"
+    },
+    {
+      "surface": "ותוכיים",
+      "gloss": "namahone"
+    }
+  ],
+  "timestamp": "2026-08-31T09:02:40.588111631Z",
+  "model": "glm-5.3"
+}

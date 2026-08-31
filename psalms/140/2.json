@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 140,
+  "translation": "Ngingikhulule, uYahwe, endodeni emibi; komuntu wobungozi ungigcine.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "ngingikhulule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "endodeni"
+    },
+    {
+      "surface": "רע",
+      "gloss": "emibi"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "komuntu"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "wobungozi"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "ungigcine"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:19.673064062Z",
+  "model": "glm-5.3"
+}

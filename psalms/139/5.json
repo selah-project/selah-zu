@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 139,
+  "translation": "Ngemuva nangaphambili ungibambezela, futhi ulayisha ⟨isandla⟩ sakho phezu kwami.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "ngemuva"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "nangaphambili"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "ungibambezela"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "futhi ulayisha"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "phezu kwami"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "⟨isandla⟩ sakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:21.613441988Z",
+  "model": "glm-5.3"
+}

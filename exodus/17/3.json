@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 17:3",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Abantu bafisa amanzi lapho, abantu babhula ngoMoshe, bathi: Yini le ukusiphakamisela ukuthi usiphakamisile eMitsrayim ukubulala ⟨את⟩ mina n⟨את⟩ abantwana bami n⟨את⟩ izinkomo zami ngokoma?",
+  "tokens": [
+    {
+      "surface": "ויצמא",
+      "gloss": "bafisa amanzi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "למים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "babhula"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngo-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "העליתנו",
+      "gloss": "usiphakamisile"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "ukubulala"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ mina"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "abantwana bami"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana bami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "izinkomo zami"
+    },
+    {
+      "surface": "מקני",
+      "gloss": "izinkomo zami"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "ngokoma"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:19.121262686Z",
+  "model": "glm-5.3"
+}

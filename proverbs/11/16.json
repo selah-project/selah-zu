@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Umfazi onobuhle obungokoqobo uzafumana inkazimulo, kodwa abahlukumeziyo bazafumana izinkomo-nhlobo.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "חן",
+      "gloss": "onobuhle obungokoqobo"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "uzafumana (uzagcina)"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "inkazimulo"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "kodwa abahlukumeziyo"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "bazafumana (bazagcina)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "izinkomo-nhlobo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:51:52.970243163Z",
+  "model": "glm-5.3"
+}

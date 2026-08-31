@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 77:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 77,
+  "translation": "Ngiyasho: ukugula kwami yilo; iminyaka yesandla sokudla se-u-Elyoni.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "Ngiyasho"
+    },
+    {
+      "surface": "חלותי",
+      "gloss": "ukugula kwami"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yilo"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "yesandla sokudla"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "u-Elyoni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:44.047614562Z",
+  "model": "glm-5.3"
+}

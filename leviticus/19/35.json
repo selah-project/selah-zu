@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Ningenzi ububi ehlulelweni, ekukalweni, esisindweni, nakwenkangeko.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "angenzi"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ngenzi"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ububi"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ehlulelweni"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "ekukalweni"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "esisindweni"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "nakwenkangeko"
+    }
+  ],
+  "timestamp": "2026-08-31T02:01:23.678114877Z",
+  "model": "glm-5.3"
+}

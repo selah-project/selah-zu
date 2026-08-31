@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 15:1",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Ngaleso sikhathi uMoshe nabantwana bakwa-Israyeli bacula ⟨את⟩ le ngoma kuYahwe, bathi bathi: Ngizocula kuYahwe, ngoba uphakeme kakhulu, uphakeme; ihhashi nomguni walhe walahla ⟨e⟩olwandle.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ngaleso sikhathi"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "bacula"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "nabantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwa-Israyeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le ngoma"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "le ngoma"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "Ngizocula"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "uphakeme kakhulu"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "uphakeme"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "ihhashi"
+    },
+    {
+      "surface": "ורכבו",
+      "gloss": "nomguni walhe"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "walahla"
+    },
+    {
+      "surface": "בים",
+      "gloss": "olwandle"
+    }
+  ],
+  "timestamp": "2026-08-31T01:33:58.178674460Z",
+  "model": "glm-5.3"
+}

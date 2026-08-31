@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 30:5",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Bonke bazothinteka yintlonzo ngesizwe esingeke sisize lutho; asikusizo futhi akuwusizo, kodwa kuyintlonzo futhi yihlazo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "bazothinteka yintlonzo"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngesizwe"
+    },
+    {
+      "surface": "עם",
+      "gloss": "esizweni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngeke"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "sisize lutho"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨kubo⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "asikusizo"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "usizo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi akuwusizo"
+    },
+    {
+      "surface": "להועיל",
+      "gloss": "inwadi yenzusele"
+    },
+    {
+      "surface": "כי",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "לבשת",
+      "gloss": "kuyintlonzo"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "yihlazo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:26:31.171349091Z",
+  "model": "glm-5.3"
+}

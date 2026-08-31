@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 145:21",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 145,
+  "translation": "Udumo lukaYahwe izomkhuluma umlomo wami, ⟨futhi⟩ bonke abantu bayokubusisa igama lakhe elingcwele kuze kube phakade nakuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "תהלת",
+      "gloss": "udumo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ukaYahwe"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "izomkhuluma"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umlomo wami"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "bayokubusisa"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "elingcwele"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nakuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:58.419152549Z",
+  "model": "glm-5.3"
+}

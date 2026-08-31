@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 3:20",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Wavuka phakathi kwabusuku, wathatha ⟨את⟩ unyana wami eceleni kwami, ngingcwethi yakho ingilele, wamulala esifubeni sakhe; futhi ⟨את⟩ unyana wakhe ofileyo wawumisa esifubeni sami.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "wavuka"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "kwabusuku"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "unyana wami"
+    },
+    {
+      "surface": "בני",
+      "gloss": "unyana wami"
+    },
+    {
+      "surface": "מאצלי",
+      "gloss": "eceleni kwami"
+    },
+    {
+      "surface": "ואמתך",
+      "gloss": "futhi ngingcwethi yakho"
+    },
+    {
+      "surface": "ישנה",
+      "gloss": "ingilele"
+    },
+    {
+      "surface": "ותשכיבהו",
+      "gloss": "wamulala"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "esifubeni sakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "unyana wakhe ofileyo"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "unyana wakhe"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ofileyo"
+    },
+    {
+      "surface": "השכיבה",
+      "gloss": "wawumisa ukulala"
+    },
+    {
+      "surface": "בחיקי",
+      "gloss": "esifubeni sami"
+    }
+  ],
+  "timestamp": "2026-08-31T03:47:44.766481536Z",
+  "model": "glm-5.3"
+}

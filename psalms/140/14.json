@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 140:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 140,
+  "translation": "Kepha abalungile bayozibonga igama lakho, abaqotho bazokhala ⟨את⟩ ubuso bakho.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kepha"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abalungile"
+    },
+    {
+      "surface": "יודו",
+      "gloss": "bayozibonga"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bazokhala"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "abaqotho"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bakho"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ubuso bakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:54.849942440Z",
+  "model": "glm-5.3"
+}

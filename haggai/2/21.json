@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "haggai 2:21",
+  "book": "haggai",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Yisho ku-Zerubbabel, umphathi weYehudah, ukuze athi: Ngiyenzisa ukudidiza ⟨את⟩ amazulu no-⟨את⟩ umhlaba.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Yisho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Zerubbabel"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "umphathi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "weYehudah"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukuze athi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ngiyenzisa ukudidiza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amazulu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "amazulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T05:40:36.471081633Z",
+  "model": "glm-5.3"
+}

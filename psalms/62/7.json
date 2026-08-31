@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 62,
+  "translation": "Kuphela yena ⟨u-Elohim⟩ itshe lami nosindiso lwami; isiphephelo sami esiphakeme; ngingasusuki.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Kuphela"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "itshe lami"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "nosindiso lwami"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "isiphephelo sami esiphakeme"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ngingasusuki"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:56.643612357Z",
+  "model": "glm-5.3"
+}

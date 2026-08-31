@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 9:20",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Lezi [izinto] sizakwenzela kubona: bayekwe baphile, ukuze kungabi nesibhakela phezu kwethu ngenxa yesifungo esiwafungile kubona.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Lezi"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "sizakwenzela"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "והחיה",
+      "gloss": "bayekwe baphile"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bona (iGibhoni)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ukuze kungabi"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "nesibhakela"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "phezu kwethu"
+    },
+    {
+      "surface": "קצף",
+      "gloss": ""
+    },
+    {
+      "surface": "על",
+      "gloss": "ngenxa"
+    },
+    {
+      "surface": "השבועה",
+      "gloss": "yesifungo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "esi-"
+    },
+    {
+      "surface": "נשבענו",
+      "gloss": "wafungile"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubona"
+    }
+  ],
+  "timestamp": "2026-08-31T02:52:13.949103766Z",
+  "model": "glm-5.3"
+}

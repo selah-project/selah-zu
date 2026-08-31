@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 20:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Makhumbule konke okunikelwayo kwakho, nomnikelo wakho wokushiswa makuwamukele ngokwanelisayo. Selah.",
+  "tokens": [
+    {
+      "surface": "יזכר",
+      "gloss": "Makhumbule"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "מנחתך",
+      "gloss": "okunikelwayo kwakho"
+    },
+    {
+      "surface": "ועולתך",
+      "gloss": "nomnikelo wakho wokushiswa"
+    },
+    {
+      "surface": "ידשנה",
+      "gloss": "makuwamukele ngokwanelisayo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:16.716221779Z",
+  "model": "glm-5.3"
+}

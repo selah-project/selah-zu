@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 28:6",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "UShawuli wabuzisa kuYahwe, kodwa uYahwe awamphenduli — nangemiphumela, nange-Urimi, nangeziprofethi.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "wabuzisa"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "UShawuli"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa awa-"
+    },
+    {
+      "surface": "ענהו",
+      "gloss": "-mphenduli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nange-"
+    },
+    {
+      "surface": "בחלמות",
+      "gloss": "-miphumela"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nange-"
+    },
+    {
+      "surface": "באורים",
+      "gloss": "-Urimi"
+    },
+    {
+      "surface": "גם",
+      "gloss": "nange-"
+    },
+    {
+      "surface": "בנביאם",
+      "gloss": "-ziprofethi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:30:20.291854011Z",
+  "model": "glm-5.3"
+}

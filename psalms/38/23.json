@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Shesha ⟨abakaki abayizingoni: uze⟩ usize, u-Adonayi, insindiso yami.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "Shesha"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "usize (usizo lwami)"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "insindiso yami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:23.635542560Z",
+  "model": "glm-5.3"
+}

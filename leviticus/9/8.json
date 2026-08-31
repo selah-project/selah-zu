@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "U-Aharon wasondela esibayeni, wasihlaba ⟨את⟩ inyankomo yesono eyayiyakhe.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "wasondela"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "sibayeni"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "wasihlaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyankomo yesono"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "inyankomo"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "yesono"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לו",
+      "gloss": "eyayiyakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:54:31.388273166Z",
+  "model": "glm-5.3"
+}

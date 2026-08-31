@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 94,
+  "translation": "uYahwe uyazi imicabango yomuntu, ukuthi zona ⟨zingakaqedi lutho⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "uyazi"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "imicabango"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "yomuntu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "המה",
+      "gloss": "zona"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "izingakaqedi lutho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:41.669190898Z",
+  "model": "glm-5.3"
+}

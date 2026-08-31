@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 27:5",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Futhi uzokhakha lapho isibani kuYahwe uElohim wakho, isibani samatshe; awunyusi phezu kwazo insimbi.",
+  "tokens": [
+    {
+      "surface": "ובנית",
+      "gloss": "futhi uzokhakha"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "isibani"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "isibani"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "samatshe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awu-"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "nyusi"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "phezu kwazo"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "insimbi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:42:32.565084047Z",
+  "model": "glm-5.3"
+}

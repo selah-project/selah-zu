@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngesikhathi inkosi ihlezi esibayeni sayo sokudlela, isinardi sami sinike iphunga layo.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Ngesikhathi"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "ihlezi esibayeni sayo sokudlela"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "isinardi sami"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "sinike"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "iphunga layo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:33:11.524692067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Izinyathelo zami zibambele ezindleleni zakho; izinyawo zami azukuchithachithi.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "zibambele"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "izinyathelo zami"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "ezindleleni zakho"
+    },
+    {
+      "surface": "בל",
+      "gloss": "azi"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "zukuchithachithi"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "izinyawo zami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:59.620989239Z",
+  "model": "glm-5.3"
+}

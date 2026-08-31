@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 21:16",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Ngokuba uthe kanjalo u-Adonayi kimi: ekupheleni konyaka, njengonyaka womqashwa, sekuphelile konke ukukhanya kweQedari.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "כה",
+      "gloss": "kanjalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "uthe"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "ekupheleni kwe-"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "onyaka"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "njengonyaka"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "womqashwa"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "sekuphelile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ukukhanya"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "kweQedari"
+    }
+  ],
+  "timestamp": "2026-08-31T04:21:16.339410062Z",
+  "model": "glm-5.3"
+}

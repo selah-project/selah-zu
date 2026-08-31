@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 18:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Ocengiweyo — ngiyabiza uYahwe, ndisindiswa ezitheni zami.",
+  "tokens": [
+    {
+      "surface": "מהלל",
+      "gloss": "Ocengiweyo"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ngiyabiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ndisindiswa e-"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ezitheni zami"
+    },
+    {
+      "surface": "אושע",
+      "gloss": "ndisindiswa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:21.678151844Z",
+  "model": "glm-5.3"
+}

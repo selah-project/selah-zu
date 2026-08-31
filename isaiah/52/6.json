@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 52,
+  "translation": "Ngakho-ke isizwe sami sizayazi igama lami; ngakho-ke ngalosuku luyaazi ukuthi yimi yena okhuluma — bheka, ngingilapha.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Ngakho-ke"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "sizayazi"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "isizwe sami"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "igama lami"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "Ngakho-ke"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngalosuku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "yimi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "okhuluma"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "bheka ngingilapha"
+    }
+  ],
+  "timestamp": "2026-08-31T04:34:07.725678435Z",
+  "model": "glm-5.3"
+}

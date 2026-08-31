@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 99,
+  "translation": "Makudunyiselwe igama lakho elikhulu nelemesabho — ungumngcwele yena.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "Makudunyiselwe"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "elikhulu"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "nelemesabho"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "ungumngcwele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:49.128026551Z",
+  "model": "glm-5.3"
+}

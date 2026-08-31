@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 106:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Omabomu ethu eMitsrayim abazwisisi izimangaliso zakho; abakhumbuli ⟨את⟩ inani elikhulu lechesede yakho; bamphikisa eLwandle, eLwandle lweSufi.",
+  "tokens": [
+    {
+      "surface": "אבותינו",
+      "gloss": "Omabomu ethu"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aku-"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "bazwisisi"
+    },
+    {
+      "surface": "נפלאותיך",
+      "gloss": "izimangaliso zakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "aku-"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "bakhumbuli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inani elikhulu lechesede yakho"
+    },
+    {
+      "surface": "רב",
+      "gloss": "inani elikhulu"
+    },
+    {
+      "surface": "חסדיך",
+      "gloss": "lechesede yakho"
+    },
+    {
+      "surface": "וימרו",
+      "gloss": "bamphikisa"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ים",
+      "gloss": "eLwandle"
+    },
+    {
+      "surface": "בים",
+      "gloss": "eLwandle"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "lweSufi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:58.086333174Z",
+  "model": "glm-5.3"
+}

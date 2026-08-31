@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 41:16",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Inhliziyo yakhe iqhotshe njengolithi, iqinile njengesokini esingezansi.",
+  "tokens": [
+    {
+      "surface": "לבו",
+      "gloss": "inhliziyo yakhe"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "iqhotshe"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njengo-"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "lithi"
+    },
+    {
+      "surface": "ויצוק",
+      "gloss": "iqinile njenge-"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "sokini"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "esingezansi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:31:38.815928618Z",
+  "model": "glm-5.3"
+}

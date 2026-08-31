@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 17:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Ungigcine njengentokazi leliho langempela; esithunzini sezibhakabhaka zakho ungifihle.",
+  "tokens": [
+    {
+      "surface": "שמרני",
+      "gloss": "Ungigcine"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "njengentokazi leliho"
+    },
+    {
+      "surface": "בת",
+      "gloss": "langempela"
+    },
+    {
+      "surface": "עין",
+      "gloss": "langempela"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "esithunzini"
+    },
+    {
+      "surface": "כנפיך",
+      "gloss": "sezibhakabhaka zakho"
+    },
+    {
+      "surface": "תסתירני",
+      "gloss": "ungifihle"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:59.621620726Z",
+  "model": "glm-5.3"
+}

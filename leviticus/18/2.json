@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Khuluma kubantwana bakwaYisrayeli, uthi kubo: nginguYahwe uElohim wenu.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Khuluma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kubantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaYisrayeli"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ngi-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "nguYahwe"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "uElohim wenu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:59:22.954913342Z",
+  "model": "glm-5.3"
+}

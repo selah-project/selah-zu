@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 27:10",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Futhi uma ingenawo abayiselwane, nizonikeza ⟨את⟩ ifa lakhe abayiselwana bakayise.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Futhi uma"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ingenawo"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "abayiselwane"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "nizonikeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ifa lakhe"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ifa lakhe"
+    },
+    {
+      "surface": "לאחי",
+      "gloss": "abayiselwana"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "bakayise"
+    }
+  ],
+  "timestamp": "2026-08-31T02:24:33.882516372Z",
+  "model": "glm-5.3"
+}

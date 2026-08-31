@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 85,
+  "translation": "Uwususile icala lokusizwa kwakho, wafihla yonke imikhwele yabo. Sela.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "Uwususile"
+    },
+    {
+      "surface": "עון",
+      "gloss": "icala"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "lokusizwa kwakho"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "wafihla"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "imikhwele yabo"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Sela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:11.005857949Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Njengamanzi ubuso obubonakala phansi kwabunye ubuso, njalo inhliziyo yomuntu iyabonakala kumuntu.",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "njengamanzi"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ubuso"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "phansi kwabunye ubuso"
+    },
+    {
+      "surface": "כן",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "yomuntu"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "kumuntu"
+    }
+  ],
+  "timestamp": "2026-08-31T10:56:54.901598746Z",
+  "model": "glm-5.3"
+}

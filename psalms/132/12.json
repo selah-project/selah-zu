@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 132:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 132,
+  "translation": "Uma abantwana bakho begcina isivumelwano sami nokuqinisekiswa kwami oku, ngiyokufundisa; nabanabantwana bazo phakade phakade bahlala esihlalweni sokubusa esingowakho.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "begcina"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "abantwana bakho"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "isivumelwano sami"
+    },
+    {
+      "surface": "ועדתי",
+      "gloss": "nokuqinisekiswa kwami"
+    },
+    {
+      "surface": "זו",
+      "gloss": "oku"
+    },
+    {
+      "surface": "אלמדם",
+      "gloss": "ngiyokufundisa"
+    },
+    {
+      "surface": "גם",
+      "gloss": "naba-"
+    },
+    {
+      "surface": "בניהם",
+      "gloss": "nantwana bazo"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "עד",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "bahlala"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "esihlalweni sokubusa"
+    },
+    {
+      "surface": "לך",
+      "gloss": "esingowakho"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:23.293127673Z",
+  "model": "glm-5.3"
+}

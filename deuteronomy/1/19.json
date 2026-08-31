@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 1:19",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Sasuka eHorebi, sihamba ⟨את⟩ wonke leli hlathi elikhulu elesabekayo enalibona, ngendlela yentaba yama-Emori, njengalokho uYahwe uElohim wethu asinike ngakona umyalo ⟨⟨את⟩ thina⟩; safika eKadeshi-Barneya.",
+  "tokens": [
+    {
+      "surface": "ונסע",
+      "gloss": "sasuka"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "eHorebi"
+    },
+    {
+      "surface": "ונלך",
+      "gloss": "sihamba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke leli hlathi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "leli hlathi"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "elikhulu"
+    },
+    {
+      "surface": "והנורא",
+      "gloss": "elesabekayo"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lelo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ena-"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "libona"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ngendlela"
+    },
+    {
+      "surface": "הר",
+      "gloss": "yentaba"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "yama-Emori"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengalokho"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "asinike ngakona umyalo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ thina"
+    },
+    {
+      "surface": "ונבא",
+      "gloss": "safika"
+    },
+    {
+      "surface": "עד",
+      "gloss": "e-"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Kadeshi"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Barneya"
+    }
+  ],
+  "timestamp": "2026-08-31T02:30:42.977050980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Futhi niyokha ⟨את⟩ ubuhlobo obungalungile bezinhliziyo zenu, futhi intamo yenu ningenzi isibindi—niyekeleni ukuba banzi.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "Futhi niyokha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuhlobo obungalungile"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "ubuhlobo obungalungile"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "bezinhliziyo zenu"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "futhi intamo yenu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ngenzi"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "isibindi ukuba banzi"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "niyekeleni ukuba"
+    }
+  ],
+  "timestamp": "2026-08-31T02:33:38.003370018Z",
+  "model": "glm-5.3"
+}

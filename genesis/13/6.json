@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 13:6",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Futhi umhlaba wawungakwazi ukubamzela ⟨את⟩ ukuba bahlale ndawonye, ngokuba impahla yabo yayiningi, futhi babengakwazi ukuhlala ndawonye.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "futhi ... awu-"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ukubamzela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ukuba bahlale"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ndawonye"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "היה",
+      "gloss": "yayingi"
+    },
+    {
+      "surface": "רכושם",
+      "gloss": "impahla yabo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "iningi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi ... be-"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "babengakwazi"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ukuhlala"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ndawonye"
+    }
+  ],
+  "timestamp": "2026-08-31T10:10:26.005408809Z",
+  "model": "glm-5.3"
+}

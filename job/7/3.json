@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 7:3",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Kunjalo na kimi — nginikezelwe inyanga zokungasebenzi lutho, futhi amabili okukhathazeka eniwe kimi —",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "kunjalo na"
+    },
+    {
+      "surface": "הנחלתי",
+      "gloss": "nginikezelwe njengofakadele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ירחי",
+      "gloss": "inyanga zo-"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ubufelokulunga lokungasebenzi lutho"
+    },
+    {
+      "surface": "ולילות",
+      "gloss": "futhi ebusuku"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ezokukhathazeka nokubuhlungu"
+    },
+    {
+      "surface": "מנו",
+      "gloss": "zeniwe zibalwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:11:42.732882340Z",
+  "model": "glm-5.3"
+}

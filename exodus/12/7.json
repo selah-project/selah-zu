@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 12:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Futhi bazothatha ngengxenye yegazi, baliyobeke emibili yezinhlini zomnyango nasebusweni bomnyango obuphezulu, emizini lapho beyodla ⟨את⟩ kuyona.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "bazothatha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngengxenye ye-"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "igazi"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "baliyobeke"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "embili"
+    },
+    {
+      "surface": "המזוזת",
+      "gloss": "izinhlini zomnyango"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nase-"
+    },
+    {
+      "surface": "המשקוף",
+      "gloss": "busweni bomnyango obuphezulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "imizini"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "beyodla"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "kuyona"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuyona"
+    }
+  ],
+  "timestamp": "2026-08-31T10:12:00.079202179Z",
+  "model": "glm-5.3"
+}

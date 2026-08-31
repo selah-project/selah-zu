@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Bathula baziswa abalondolozi umthetho wokwahlulela, abenzi okulungileyo ngaso sonke isikhathi.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Bathula baziswa"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "abalondolozi"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "umthetho wokwahlulela"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "abenzi"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "okulungileyo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngaso sonke"
+    },
+    {
+      "surface": "עת",
+      "gloss": "isikhathi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:18.366915036Z",
+  "model": "glm-5.3"
+}

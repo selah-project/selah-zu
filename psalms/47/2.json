@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 47,
+  "translation": "Zonke izizwe, khahlelani izandla; mkhalimeni uElohim ngezwi eliphakeme lokujabula.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Zonke"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "khahlelani"
+    },
+    {
+      "surface": "כף",
+      "gloss": "izandla"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "mkhalimeni"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ngezwi eliphakeme"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "lokujabula"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:02.357687111Z",
+  "model": "glm-5.3"
+}

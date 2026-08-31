@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 13:25",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Leli yilikhashana lakho, isabelo sokulinganisa kwakho, kuvela ⟨את⟩ kimi, lugowo lukaYahwe, ngokuba ungikhohlele ⟨את⟩, wathembela ezingweni.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Leli"
+    },
+    {
+      "surface": "גורלך",
+      "gloss": "yilikhashana lakho"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "isabelo"
+    },
+    {
+      "surface": "מדיך",
+      "gloss": "sokulinganisa kwakho"
+    },
+    {
+      "surface": "מאתי",
+      "gloss": "kuvela ⟨את⟩ kimi"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "lugowo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "lukaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שכחת",
+      "gloss": "ungikhohlele"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ungikhohlele"
+    },
+    {
+      "surface": "ותבטחי",
+      "gloss": "wathembela"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "ezingweni"
+    }
+  ],
+  "timestamp": "2026-08-31T04:44:31.242323947Z",
+  "model": "glm-5.3"
+}

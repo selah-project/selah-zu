@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 75,
+  "translation": "Musani ukunyusa iziphondo zenu phezulu; musani ukukhuluma ngentamo eqinile.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "musani"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "ukunyusa"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "iziphondo zenu"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "ukukhuluma"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "ngentamo"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "eqinile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:49.823775737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "ULoti waphuma kubo esigcingweni, wasivala umnyango ngemva kwakhe.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "uLoti"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "esigcingweni"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "wasivala umnyango"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "wasivala"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ngemva kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:08:03.346857810Z",
+  "model": "glm-5.3"
+}

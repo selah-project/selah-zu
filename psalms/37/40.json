@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 37:40",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Futhi uYahwe ubasiza, ubakhulula — ubakhulula kubabi, abasindisa — ngoba bathatha isiphephelo kuyena.",
+  "tokens": [
+    {
+      "surface": "ויעזרם",
+      "gloss": "Futhi ubasiza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ויפלטם",
+      "gloss": "ubakhulula"
+    },
+    {
+      "surface": "יפלטם",
+      "gloss": "ubakhulula"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "kubabi"
+    },
+    {
+      "surface": "ויושיעם",
+      "gloss": "abasindisa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "חסו",
+      "gloss": "bathatha isiphephelo"
+    },
+    {
+      "surface": "בו",
+      "gloss": "kuyena"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:47.596979146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Ungasusi izwi eshamelayo; ungasibeki isandla sakho ndawonye nomoni ⟨ukuba⟩ ngufakazi wobudlova.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "-susi"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "eshamelayo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "-seki"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ndawonye no-"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "omoni"
+    },
+    {
+      "surface": "להית",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ngufakazi"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "wobudlova"
+    }
+  ],
+  "timestamp": "2026-08-31T01:38:24.198083429Z",
+  "model": "glm-5.3"
+}

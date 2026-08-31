@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 13:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Buka, ngiphendule, uYahwe uElohim wami; qhakambisa amehlo ami, ukuze ngingalali ⟨isifozo⟩ sokufa;",
+  "tokens": [
+    {
+      "surface": "הביטה",
+      "gloss": "Buka"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ngiphendule"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wami"
+    },
+    {
+      "surface": "האירה",
+      "gloss": "qhakambisa"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo ami"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ukuze ngingalali"
+    },
+    {
+      "surface": "אישן",
+      "gloss": "ngingalali"
+    },
+    {
+      "surface": "המות",
+      "gloss": "isifozo sokufa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:11.524736300Z",
+  "model": "glm-5.3"
+}

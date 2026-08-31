@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 12:1",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Kwathi lapho umbuso kaRekhavam usungcwehle futhi esiqinile, washiya ⟨את⟩ umthetho kaYahwe, yena nayo iYisrayeli iphele naye.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כהכין",
+      "gloss": "usungcwehle"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "umbuso"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "kaRekhavam"
+    },
+    {
+      "surface": "וכחזקתו",
+      "gloss": "futhi esiqinile"
+    },
+    {
+      "surface": "עזב",
+      "gloss": "washiya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umthetho kaYahwe"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "umthetho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nayo yonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "iYisrayeli"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "naye"
+    }
+  ],
+  "timestamp": "2026-08-31T08:34:10.545411835Z",
+  "model": "glm-5.3"
+}

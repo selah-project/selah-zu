@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 81:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 81,
+  "translation": "Ubufakazi wabubeka kuYosefa ekuphumeni kwakhe phezu komhlaba weMitsrayim; ulwimi engalazanga, ngaluzwa.",
+  "tokens": [
+    {
+      "surface": "עדות",
+      "gloss": "Ubufakazi"
+    },
+    {
+      "surface": "ביהוסף",
+      "gloss": "kuYosefa"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "wabubeka"
+    },
+    {
+      "surface": "בצאתו",
+      "gloss": "ekuphumeni kwakhe"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "komhlaba"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "weMitsrayim"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ulwimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "engalazanga"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "engalazanga"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ngaluzwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:45.083085124Z",
+  "model": "glm-5.3"
+}

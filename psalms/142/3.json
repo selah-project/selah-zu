@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 142:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 142,
+  "translation": "Ngithulula phambi kwakhe ukucabanga kwami; intungwa yami phambi kwakhe ngiyiveza.",
+  "tokens": [
+    {
+      "surface": "אשפך",
+      "gloss": "ngithulula"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "ukucabanga kwami"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "intungwa yami"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwakhe"
+    },
+    {
+      "surface": "אגיד",
+      "gloss": "ngiyiveza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:37.049120869Z",
+  "model": "glm-5.3"
+}

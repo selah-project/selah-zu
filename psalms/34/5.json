@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 34:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Ngidingile ⟨את⟩ uYahwe, waze waphendula, wasindisile kuzo zonke izinsongo zami.",
+  "tokens": [
+    {
+      "surface": "דרשתי",
+      "gloss": "ngidingile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "waze waphendula"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "מגורותי",
+      "gloss": "izinsongo zami"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "wasindisile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:22.649010613Z",
+  "model": "glm-5.3"
+}

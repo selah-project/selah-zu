@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 24:10",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Futhi ngizothumela kubona ⟨את⟩ inkemba, ⟨את⟩ indlala, ne-⟨את⟩ isifo, kude kube baphela ngaphezu komhlaba engawunika wona bona nabayise.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "Futhi ngizothumela"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkemba"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "inkemba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlala"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "indlala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne-⟨את⟩",
+      "marks": "isifo"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "isifo"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kude kube"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "baphela"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ngaphezu"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "komhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engawunika"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "engawunika wona"
+    },
+    {
+      "surface": "להם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ולאבותיהם",
+      "gloss": "nabayise"
+    }
+  ],
+  "timestamp": "2026-08-31T04:48:38.669123125Z",
+  "model": "glm-5.3"
+}

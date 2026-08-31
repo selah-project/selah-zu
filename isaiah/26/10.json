@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 26:10",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Noma umoni ethola umusa, cha ayifundi ubulungiswa; ezweni lokuthembeka yenza uboni, futhi ababoni ubukhosi bukaYahwe.",
+  "tokens": [
+    {
+      "surface": "יחן",
+      "gloss": "ethola umusa"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umoni"
+    },
+    {
+      "surface": "בל",
+      "gloss": "cha"
+    },
+    {
+      "surface": "למד",
+      "gloss": "ayifundi"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ubulungiswa"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "נכחות",
+      "gloss": "lokuthembeka"
+    },
+    {
+      "surface": "יעול",
+      "gloss": "yenza uboni"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "futhi cha"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ababoni"
+    },
+    {
+      "surface": "גאות",
+      "gloss": "ubukhosi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "bukaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T04:23:54.227557729Z",
+  "model": "glm-5.3"
+}

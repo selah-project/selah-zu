@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 4:3",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Wathi: Yithi phansi emhlabathini. Wayisho phansi emhlabathini, yaba yinyoka, uMoshe wayabalekela leyo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Wathi"
+    },
+    {
+      "surface": "השליכהו",
+      "gloss": "Yithi phansi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "emhlabathini"
+    },
+    {
+      "surface": "וישליכהו",
+      "gloss": "wayisho phansi"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "emhlabathini"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "לנחש",
+      "gloss": "yinyoka"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "wayabaleka"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "phambi kwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:37.402084573Z",
+  "model": "glm-5.3"
+}

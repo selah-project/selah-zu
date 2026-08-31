@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 2:2",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ndase ngithi kwingelosi ekhuluma kimi: lezi zini? Yase ithi kimi: lezi yizimpondo ezachitha ⟨את⟩ uYehudha, ⟨את⟩ uIsrayeli, neYerushalayimi.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ndase ngithi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "iyingelosi"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ekhuluma"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "zini"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "yase ithi"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "lezi"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "yizimpondo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "ezachitha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYehudha"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "uYehudha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uIsrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "neYerushalayimi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:44.898778507Z",
+  "model": "glm-5.3"
+}

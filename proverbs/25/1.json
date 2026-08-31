@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 25:1",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Nalawa amasahluko ka-uShelomoh, ahumushiwe abantu baka-uChizkiyah, inkosi yeYehudah.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "nalawa"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "la"
+    },
+    {
+      "surface": "משלי",
+      "gloss": "amasahluko"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ka-uShelomoh"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwahumushiwe"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "ahumushiwe"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "baka-uChizkiyah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yeYehudah"
+    }
+  ],
+  "timestamp": "2026-08-31T07:00:40.297799595Z",
+  "model": "glm-5.3"
+}

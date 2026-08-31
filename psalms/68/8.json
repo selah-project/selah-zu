@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 68:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 68,
+  "translation": "uElohim, ekuphumeni kwakhe phambi kwabantu bakhe, ekunyathela kwakhe esilangeni. Selah.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ekuphumeni kwakhe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "kwabantu bakhe"
+    },
+    {
+      "surface": "בצעדך",
+      "gloss": "ekunyathela kwakhe"
+    },
+    {
+      "surface": "בישימון",
+      "gloss": "esilangeni"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:41.791584870Z",
+  "model": "glm-5.3"
+}

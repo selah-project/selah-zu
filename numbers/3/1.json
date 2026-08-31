@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 3:1",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Lena yimvelaphi ka-Aharon noMoshe, ngosuku uYahwe wakhuluma ⟨את⟩ kuMoshe entabeni yaseSinayi.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Lena"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "yimvelaphi"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ka-Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "noMoshe"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "yaseSinayi"
+    }
+  ],
+  "timestamp": "2026-08-31T02:09:31.785524784Z",
+  "model": "glm-5.3"
+}

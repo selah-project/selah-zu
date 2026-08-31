@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 1:7",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi ⟨את⟩ indlu kaYehuda ngiyozwelana nayo, ngizobasindisa ngoYahwe uElohim wabo, futhi angisayisindisa nguthi, nangenkemba, nangempi, nangamahhashi, nangebahhashi.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "indlu kaYehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kaYehuda"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ngiyozwelana nayo"
+    },
+    {
+      "surface": "והושעתים",
+      "gloss": "ngizobasindisa"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ngoYahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "uElohim wabo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi angi-"
+    },
+    {
+      "surface": "אושיעם",
+      "gloss": "sayisindisa"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "nguthi"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "nangenkemba"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "nangempi"
+    },
+    {
+      "surface": "בסוסים",
+      "gloss": "nangamahhashi"
+    },
+    {
+      "surface": "ובפרשים",
+      "gloss": "nangebahhashi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:27:19.416632703Z",
+  "model": "glm-5.3"
+}

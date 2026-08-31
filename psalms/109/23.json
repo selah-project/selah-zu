@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Njengesithunzi esichamuka, nginjalo ngihamba; ngiyakhuthuzelwa njengenzelamizi.",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "njengesithunzi"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "esichamuka"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "ngihamba"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "ngiyakhuthuzelwa"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "njengenzelamizi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:18.974989972Z",
+  "model": "glm-5.3"
+}

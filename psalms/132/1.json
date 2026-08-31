@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 132:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 132,
+  "translation": "Iculo lokwenyuka. Khumbula, Yahwe, ngeDavide, ⟨את⟩ konke ukudukizwa kwakhe.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Iculo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lokwenyuka"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Khumbula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ngeDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "konke ukudukizwa kwakhe"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "ענותו",
+      "gloss": "ukudukizwa kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:55.261173721Z",
+  "model": "glm-5.3"
+}

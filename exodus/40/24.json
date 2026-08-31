@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Wayebeka ⟨את⟩ isibani ehhovini lokumanyana, ngqo ngetafula, eceleni lehhovisi elifulele ngasenzansi.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "wayebeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibani"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "isibani"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ehhovini"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lokumanyana"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "ngqo na-"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "itafula"
+    },
+    {
+      "surface": "על",
+      "gloss": "eceleni le-"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "isinqe"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ehhovisi elifulele"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "ngasenzansi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:49:31.570297119Z",
+  "model": "glm-5.3"
+}

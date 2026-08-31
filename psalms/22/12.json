@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Ungabi kude nami, ngokuba intlungu isondile, ngokuba akanaye ozosiza.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ungabi"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "kude"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "nami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "intlungu"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "isondile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akanaye"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "ozosiza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:25.237478208Z",
+  "model": "glm-5.3"
+}

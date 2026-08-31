@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 12:1",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "uYahwe wasesitha ku-Avram: Hamba wena, phuma ezweni lakho, nasemndenini wokuzalwa wakho, nasekhaya likayihlo, uye ezweni engizokukhombisa lona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "u-Avram"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Hamba"
+    },
+    {
+      "surface": "לך",
+      "gloss": "wena"
+    },
+    {
+      "surface": "מארצך",
+      "gloss": "ezweni lakho"
+    },
+    {
+      "surface": "וממולדתך",
+      "gloss": "nasemndenini wokuzalwa wakho"
+    },
+    {
+      "surface": "ומבית",
+      "gloss": "nasekhaya"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "likayihlo"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uye"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "zokukhombisa lona"
+    }
+  ],
+  "timestamp": "2026-08-31T01:06:02.294491688Z",
+  "model": "glm-5.3"
+}

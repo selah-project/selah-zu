@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 8:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngaseduze nomprofethikazi, wakhulelwa, wazala indodana. Yabonakala uYahwe ethi kimi: Bizela igama lakhe uMaher-Shalal-Hash-Bazi.",
+  "tokens": [
+    {
+      "surface": "ואקרב",
+      "gloss": "ngaseduze"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no"
+    },
+    {
+      "surface": "הנביאה",
+      "gloss": "umprofethikazi"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "wakhulelwa"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "bizela"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "igama lakhe"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "uMaher"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "Shalal"
+    },
+    {
+      "surface": "חש",
+      "gloss": "Hash"
+    },
+    {
+      "surface": "בז",
+      "gloss": "Bazi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:18:30.432232615Z",
+  "model": "glm-5.3"
+}

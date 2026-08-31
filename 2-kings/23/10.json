@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-kings 23:10",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Wazenzenza ingcolile iThofethi eseSigedleni sanabantwana baHinomu, ukuze kungabi munye ozodlulisa omtakhe nontazakhe emlilweni kuMoleki.",
+  "tokens": [
+    {
+      "surface": "וטמא",
+      "gloss": "wazenzenza ingcolile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iThofethi"
+    },
+    {
+      "surface": "התפת",
+      "gloss": "iThofethi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ese"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "eseSigedleni"
+    },
+    {
+      "surface": "בני",
+      "gloss": "sanabantwana"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "baHinomu"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ukuze kungabi"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "ozodlulisa"
+    },
+    {
+      "surface": "איש",
+      "gloss": "munye"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "omtakhe"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "omtakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ontazakhe"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "ontazakhe"
+    },
+    {
+      "surface": "באש",
+      "gloss": "emlilweni"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "kuMoleki"
+    }
+  ],
+  "timestamp": "2026-08-31T04:14:12.201295126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 21:15",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "futhi wena ⟨uzoba⟩ ngoziguli eziningi ngesifo sezitho zakho zangaphakathi, kuze kuphume izitho zakho zangaphakathi ngesifo, izinsuku phezu kwezinsuku.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "futhi wena"
+    },
+    {
+      "surface": "בחליים",
+      "gloss": "ngoziguli"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "eziningi"
+    },
+    {
+      "surface": "במחלה",
+      "gloss": "ngesifo"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "sezitho zakho zangaphakathi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "kuphume"
+    },
+    {
+      "surface": "מעיך",
+      "gloss": "izitho zakho zangaphakathi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "החלי",
+      "gloss": "siso"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "kwezinsuku"
+    }
+  ],
+  "timestamp": "2026-08-31T08:39:29.923366009Z",
+  "model": "glm-5.3"
+}

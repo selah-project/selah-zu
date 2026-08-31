@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 1:16",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Yathi: Nibeltha abesifazane amaHebheru, nibabone ezithwalweni zokubeletha; uma ngumfana, nimbulale; kepha uma yintombazana, ithi iphile.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "בילדכן",
+      "gloss": "nibeltha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abesifazane amaHebheru"
+    },
+    {
+      "surface": "העבריות",
+      "gloss": "abesifazane amaHebheru"
+    },
+    {
+      "surface": "וראיתן",
+      "gloss": "nibabone"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezithwalweni"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "zokubeletha (amatshe)"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ngumfana"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "והמתן",
+      "gloss": "nimbulale"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "kepha uma"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intombazana"
+    },
+    {
+      "surface": "היא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "ithi iphile"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:29.486072404Z",
+  "model": "glm-5.3"
+}

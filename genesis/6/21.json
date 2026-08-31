@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 6:21",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Wena owokuqala thatha ⟨abakaki abayizingoni⟩ kuwona wonke ukudla okuyaye kudliwe, ukuze ukuqoqe kuwe, kuzobe kuyikho nokuba y kukudla kuwe n nakho.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Wena owokuqala"
+    },
+    {
+      "surface": "קח",
+      "gloss": "thatha"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨abakaki abayizingoni⟩ kuwona"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "kudliwe"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ukuqoqe"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "kuzobe kuyikho"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ולהם",
+      "gloss": "nakho"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "y kukudla"
+    }
+  ],
+  "timestamp": "2026-08-31T10:10:06.982223028Z",
+  "model": "glm-5.3"
+}

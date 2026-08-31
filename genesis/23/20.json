@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 23:20",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Insimu nomhumo okuyo yamiswa ku-Avraham njengophahle lokungcwaba, evela ⟨את⟩ kubantwana baKethi.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "yamiswa"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "insimu"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "nomhumo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "o"
+    },
+    {
+      "surface": "בו",
+      "gloss": "okuyo"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "ku-Avraham"
+    },
+    {
+      "surface": "לאחזת",
+      "gloss": "njengophahle"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "lokungcwaba"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "evela ⟨את⟩",
+      "marks": "kubantwana baKethi"
+    },
+    {
+      "surface": "בני",
+      "gloss": "kubantwana"
+    },
+    {
+      "surface": "חת",
+      "gloss": "baKethi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:55:31.134133469Z",
+  "model": "glm-5.3"
+}

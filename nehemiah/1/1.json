@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 1:1",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Amazwi kaNehemiya indodana kaHakaliya. Kwathi, enyangeni iKhisleyu, unyaka wamashumi amabili, mina bengiseShushane isigodlo.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Amazwi"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "uNehemiya"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "kaHakaliya"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "enyangeni"
+    },
+    {
+      "surface": "כסלו",
+      "gloss": "iKhisleyu"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "unyaka"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "wamashumi amabili"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "bengi-"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "seShushane"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "isigodlo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:13:00.813379556Z",
+  "model": "glm-5.3"
+}

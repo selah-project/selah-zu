@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 11:23",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "USerugu waphila, emva kokuzala ⟨את⟩ uNakhori, iminyaka engamakhulu amabili, wazala amadodana namadodakazi.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "waphila"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "USerugu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva koko"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "okuzala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uNakhori"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "uNakhori"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "amakhulu amabili"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "namadodakazi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:54:35.004057534Z",
+  "model": "glm-5.3"
+}

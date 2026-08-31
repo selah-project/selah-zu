@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 88:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 88,
+  "translation": "Icala, ingoma yamadodana kaKorachi, kumqondisi, ngomculo kaMachalathi wokuphendula, umfundiso kaHeimani uMuzerahi.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Icala"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ingoma"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "yamadodana ka-"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachi"
+    },
+    {
+      "surface": "למנצח",
+      "gloss": "kumqondisi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngoku-"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalathi"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "wokuphendula"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "umfundiso"
+    },
+    {
+      "surface": "להימן",
+      "gloss": "kaHeimani"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "uMuzerahi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:54.705165593Z",
+  "model": "glm-5.3"
+}

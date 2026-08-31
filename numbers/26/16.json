@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "KukaOzni, umndeni wakaOzni; kukaEri, umndeni wakaEri.",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "kukaOzni"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umndeni"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "wakaOzni"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "kukaEri"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "umndeni"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "wakaEri"
+    }
+  ],
+  "timestamp": "2026-08-31T02:22:13.762770791Z",
+  "model": "glm-5.3"
+}

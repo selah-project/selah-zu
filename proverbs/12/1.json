@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Othanda isiyalwayo uthanda ulwazi, kodwa ozonda ukusolwa uyisilwane-esingazi.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "othanda"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "isiyalwayo"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "uthanda"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "kodwa ozonda"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ukusolwa"
+    },
+    {
+      "surface": "בער",
+      "gloss": "uyisilwane-esingazi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:52:29.101434458Z",
+  "model": "glm-5.3"
+}

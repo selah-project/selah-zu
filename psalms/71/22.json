@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 71:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 71,
+  "translation": "Futhi mina ngiyakudumisa nge-neveli ngesiqiniseko sakho, uElohim wami; ngiyakucula kina ngesicimbi, Oyingcwele kuka-Israyeli.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Futhi"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ngiyakudumisa"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "neveli"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ngesiqiniseko sakho"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wami"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ngiyakucula"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kina"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ngesicimbi"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Oyingcwele"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "kuka-Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:45.178481644Z",
+  "model": "glm-5.3"
+}

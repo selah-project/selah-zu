@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 25:37",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi uzokwakha ⟨את⟩ amalambu ayo ayisikhombisa, futhi uzokwenyusa ⟨את⟩ amalambu ayo, ukuze akhanye ngasohlangothini phambi kwazo.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "futhi uzokwakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amalambu ayo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "amalambu ayo"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ayisikhombisa"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "futhi uzokwenyusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amalambu ayo"
+    },
+    {
+      "surface": "נרתיה",
+      "gloss": "amalambu ayo"
+    },
+    {
+      "surface": "והאיר",
+      "gloss": "futhi akhanye"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngaphezu"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ngasohlangothini"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "phambi kwazo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:39:00.728948677Z",
+  "model": "glm-5.3"
+}

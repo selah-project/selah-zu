@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Bese beyakha uYonah bamlahla ⟨את⟩ e olwandle, olwandle lwase luma ukuthukuthelela kwalo.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "Bese beyakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYonah"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "uYonah"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "bamlahla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "הים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "lwase luma"
+    },
+    {
+      "surface": "הים",
+      "gloss": "olwandle"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "ukuthukuthelelela kwalo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:35:31.847264369Z",
+  "model": "glm-5.3"
+}

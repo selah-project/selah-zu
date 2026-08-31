@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 102:19",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 102,
+  "translation": "Lokhu kuzobhalwa kuzukulwane ezizayo, futhi abantu abayakhiwe bayodumisa uYah.",
+  "tokens": [
+    {
+      "surface": "תכתב",
+      "gloss": "kuzobhalwa"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "Lokhu"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "kuzukulwane"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ezizayo"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "futhi abantu"
+    },
+    {
+      "surface": "נברא",
+      "gloss": "abayakhiwe"
+    },
+    {
+      "surface": "יהלל",
+      "gloss": "bayodumisa"
+    },
+    {
+      "surface": "יה",
+      "gloss": "uYah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:20.525562088Z",
+  "model": "glm-5.3"
+}

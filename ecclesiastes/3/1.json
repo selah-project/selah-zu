@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Kukho konke isikhathi, nesikhathi sokunye okunye isifiso ngaphansi kwezulu;",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "Kukho konke"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "isikhathi"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "nesikhathi"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kokunye okunye"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "isifiso"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "kwezulu"
+    }
+  ],
+  "timestamp": "2026-08-31T07:44:31.379122219Z",
+  "model": "glm-5.3"
+}

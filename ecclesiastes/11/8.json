@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 11:8",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Ngoba noma umuntu ephila iminyaka eminingi, waze wajabula konke lokho, aze akhumbule ⟨את⟩ izinsuku zokumnyama, ngoba ziningi zonke ezezayo — yinto ethe xhaka.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "noma"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "eminingi"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ephila"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "בכלם",
+      "gloss": "konke lokho"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ajabula"
+    },
+    {
+      "surface": "ויזכר",
+      "gloss": "aze akhumbule"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinsuku"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "zokumnyama"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ziningi"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ezayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ezezayo"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ethe xhaka"
+    }
+  ],
+  "timestamp": "2026-08-31T07:49:28.220286790Z",
+  "model": "glm-5.3"
+}

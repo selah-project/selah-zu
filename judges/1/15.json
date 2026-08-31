@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 1:15",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Wathi kuyena: Nginike isibusiso, ngokuba ungihlinzekile umhlaba oneningizumu; unginike futhi imithombo yamanzi. UkuKalebi wanikeza ⟨את⟩ imithombo ephezulu ne⟨את⟩ imithombo esezezansi.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "nginike"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "isibusiso"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "oneningizumu"
+    },
+    {
+      "surface": "נתתני",
+      "gloss": "ungihlinzekile"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "unginike futhi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "imithombo"
+    },
+    {
+      "surface": "מים",
+      "gloss": "yamanzi"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "wanikeza"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yena"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "uKalebi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imithombo ephezulu"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "imithombo"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "ephezulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ne⟨את⟩",
+      "marks": "imithombo esezezansi"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "imithombo"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "esezezansi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:04:08.670297967Z",
+  "model": "glm-5.3"
+}

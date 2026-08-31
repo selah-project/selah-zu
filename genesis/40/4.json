@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 40:4",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Umphathi wabatabangeli wamisa uYosefu ⟨את⟩ ukuba abe ⟨את⟩ nabo; wasebenzela ⟨את⟩ bona; basa balokhu izinsuku engadinini.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "שר",
+      "gloss": "Umphathi"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "wabatabangeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYosefu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "uYosefu"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ nabo"
+    },
+    {
+      "surface": "וישרת",
+      "gloss": "wasebenzela"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "basa"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "engadinini"
+    }
+  ],
+  "timestamp": "2026-08-31T01:20:49.295808083Z",
+  "model": "glm-5.3"
+}

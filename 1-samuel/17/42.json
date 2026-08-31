@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-samuel 17:42",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "I-Filisti yayibuka, yabona ⟨את⟩ uDavide, yamphonsa ngaphansi, ngokuba wayengumfana obomvu, obuhle ukubukeka.",
+  "tokens": [
+    {
+      "surface": "ויבט",
+      "gloss": "yayibuka"
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": "i-Filisti"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "yabona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDavide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ויבזהו",
+      "gloss": "yamphonsa ngaphansi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "היה",
+      "gloss": "wayeng-"
+    },
+    {
+      "surface": "נער",
+      "gloss": "umfana"
+    },
+    {
+      "surface": "ואדמני",
+      "gloss": "obomvu"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "obuhle"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ukubukeka"
+    }
+  ],
+  "timestamp": "2026-08-31T03:23:21.189522072Z",
+  "model": "glm-5.3"
+}

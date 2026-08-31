@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 35,
+  "translation": "⟨את⟩ izinti zesigodlo, ⟨את⟩ nozinthi zesibaya, ⟨את⟩ namadayi abo",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinthi zesigodlo"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "izinthi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "isigodlo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izinthi zesibaya"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "izinthi"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "isibaya"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amadayi abo"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "amadayi abo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:13:17.889143182Z",
+  "model": "glm-5.3"
+}

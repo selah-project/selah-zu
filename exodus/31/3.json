@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 31:3",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 31,
+  "translation": "Ngingazele ngigcwalise ⟨את⟩ yena ngomoya ka-Elohim, ngobuhlakani nangokuqonda nangolwazi nanakho konke ukusebenza:",
+  "tokens": [
+    {
+      "surface": "ואמלא",
+      "gloss": "ngigcwalise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ngomoya ka-"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ngobuhlakani"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "nangokuqonda"
+    },
+    {
+      "surface": "ובדעת",
+      "gloss": "nangolwazi"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "nakho konke"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ukusebenza"
+    }
+  ],
+  "timestamp": "2026-08-31T01:40:52.426691815Z",
+  "model": "glm-5.3"
+}

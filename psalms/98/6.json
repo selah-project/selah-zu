@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 98,
+  "translation": "Ngezimpondo zensimbi nangolwazi lwenkende yomlomo, mkhaleni phambi kwenkosi uYahwe.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "Ngezimpondo zensimbi"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "nangolwazi"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "lwenkende yomlomo"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "mkhaleni"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwe-"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:33:48.690830178Z",
+  "model": "glm-5.3"
+}

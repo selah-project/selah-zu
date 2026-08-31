@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 13:3",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "uYonathani wahlasela ⟨את⟩ iposi yempi yaseFilistiyi eyayiseGibhea; abaseFilistiyi bezuva; bese uShawuli ekhweza nophondo emhlabeni wonke, ethi: mazizuve abaseHebheru.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "wahlasela"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "uYonathani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iposi yempi yaseFilistiyi"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "iposi yempi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "yaseFilistiyi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eyayise-"
+    },
+    {
+      "surface": "בגבע",
+      "gloss": "eGibhea"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "bezuva"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "abaseFilistiyi"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "bese uShawuli"
+    },
+    {
+      "surface": "תקע",
+      "gloss": "ekhweza nophondo"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "ngophondo"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "mazizuve"
+    },
+    {
+      "surface": "העברים",
+      "gloss": "abaseHebheru"
+    }
+  ],
+  "timestamp": "2026-08-31T06:03:45.787473298Z",
+  "model": "glm-5.3"
+}

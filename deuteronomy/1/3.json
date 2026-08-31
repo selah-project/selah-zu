@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 1:3",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Kwathi emva kweminyaka engamashumi amane, ngenyanga eyishumi nanye, ngosuku lokuqala lwenyanga, ukhuluma uMoshe kubantwana bakaYisraeli, ngokwako konke okwayalela uYahwe ⟨את⟩ yena kubona.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "בארבעים",
+      "gloss": "ngemishini engamashumi amane"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "yishumi nanye"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "nyanga"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "ngosuku lokuqala"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "lwenyanga"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ukhuluma"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana baka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisraeli"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ngokwako konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku-"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "wayalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (uMoshe)"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubona"
+    }
+  ],
+  "timestamp": "2026-08-31T02:30:51.615603460Z",
+  "model": "glm-5.3"
+}

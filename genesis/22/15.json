@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Isithunywa sikaYahwe sabiza u-Avraham okwesibili ezulwini.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "sabiza"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "isithunywa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ukaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "okwesibili"
+    },
+    {
+      "surface": "מן",
+      "gloss": "e-"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "zulwini"
+    }
+  ],
+  "timestamp": "2026-08-31T01:11:57.033492807Z",
+  "model": "glm-5.3"
+}

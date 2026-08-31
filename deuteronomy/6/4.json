@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Yizwa, Israyeli: uYahwe uElohim wetu, uYahwe ⟨munye⟩.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Yizwa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wetu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "munye"
+    }
+  ],
+  "timestamp": "2026-08-31T02:33:21.321779352Z",
+  "model": "glm-5.3"
+}

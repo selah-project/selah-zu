@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 56:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 56,
+  "translation": "Ngenela umusa, uElohim, ngokuba umuntu ungiphuza; usuku lonke elwa udinga ukungcindeza.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Ngenela umusa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שאפני",
+      "gloss": "ungiphuza"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "elwa"
+    },
+    {
+      "surface": "ילחצני",
+      "gloss": "udinga ukungcindeza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:21.412564074Z",
+  "model": "glm-5.3"
+}

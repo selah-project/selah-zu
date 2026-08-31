@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 4:12",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi kimi izwi lafika ngasese, indlebe yami yamukela umsinga walo.",
+  "tokens": [
+    {
+      "surface": "ואלי",
+      "gloss": "futhi kimi"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "lafika ngasese"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "futhi yamukela"
+    },
+    {
+      "surface": "אזני",
+      "gloss": "indlebe yami"
+    },
+    {
+      "surface": "שמץ",
+      "gloss": "umsinga"
+    },
+    {
+      "surface": "מנהו",
+      "gloss": "walo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:06:40.162677238Z",
+  "model": "glm-5.3"
+}

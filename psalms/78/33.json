@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Waphela amabele ezinsuku zabo, iminyaka yabo esabekweni.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "Waphela"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "amabele"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "ezinsuku zabo"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "iminyaka yabo"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "esabekweni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:12.144826677Z",
+  "model": "glm-5.3"
+}

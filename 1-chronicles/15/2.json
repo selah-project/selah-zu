@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 15:2",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Ngaleso sikhathi uDawidi wathi: Akekho okumele athwale ⟨את⟩ i-arki kaElohim ngaphandle kweLevi, ngokuba uYahwe nguwo owakhetha ukuthwala ⟨את⟩ i-arki kaYahwe nokukhonza yena kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ngaleso sikhathi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Akekho okumele"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "athwale"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-arki kaElohim"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "i-arki"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "kaElohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ngaphandle kwe"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Levi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "בם",
+      "gloss": "bona"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "wakhetha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ukuthwala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-arki kaYahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "i-arki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "ולשרתו",
+      "gloss": "nokukhonza yena"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T08:24:17.631640051Z",
+  "model": "glm-5.3"
+}

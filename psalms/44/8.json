@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 44:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 44,
+  "translation": "Ngoba usisindisile ezisweni zethu, futhi izitha zethu ezigcwe ukuzonda izihlazise.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngoba"
+    },
+    {
+      "surface": "הושעתנו",
+      "gloss": "usisindisile"
+    },
+    {
+      "surface": "מצרינו",
+      "gloss": "ezisweni zethu"
+    },
+    {
+      "surface": "ומשנאינו",
+      "gloss": "futhi izitha zethu ezigcwe ukuzonda"
+    },
+    {
+      "surface": "הבישות",
+      "gloss": "izihlazise"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:25.518280903Z",
+  "model": "glm-5.3"
+}

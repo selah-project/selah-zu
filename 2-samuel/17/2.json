@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 17:2",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Ngifike phezu kwakhe ehambile adiniwe, ezandleni ezibuthakathaka, ngimphazamise, abale bonke abantu abanaye; ngibethe ⟨את⟩ inkosi yedwa.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "Ngifike"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwakhe"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "adiniwe"
+    },
+    {
+      "surface": "ורפה",
+      "gloss": "ezibuthakathaka"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ezandleni"
+    },
+    {
+      "surface": "והחרדתי",
+      "gloss": "ngimphazamise"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (omphazamisiwe)"
+    },
+    {
+      "surface": "ונס",
+      "gloss": "abale"
+    },
+    {
+      "surface": "כל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ banaye"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "ngibethe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkosi"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yedwa"
+    }
+  ],
+  "timestamp": "2026-08-31T03:39:36.557504940Z",
+  "model": "glm-5.3"
+}

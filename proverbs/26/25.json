@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Ngesikhathi enza izwi lakhe lihle ngesisa, ungamethembi, ngokuba izinto ezisixwayi eziyisikhombisa zisezinhliziyweni yakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngesikhathi"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "enza... ngesisa"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "izwi lakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "methembi"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "eziyisikhombisa"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "izinto ezisixwayi"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ezinhliziyweni yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:05:14.071285600Z",
+  "model": "glm-5.3"
+}

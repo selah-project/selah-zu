@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 4:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Uthole injabulo enhliziyweni yami, kakhulu kunasekhathini ukudla kwabo newayini abo besanda kwanda.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "Uthole"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "injabulo"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "enhliziyweni yami"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "kunasekhathini"
+    },
+    {
+      "surface": "דגנם",
+      "gloss": "ukudla kwabo"
+    },
+    {
+      "surface": "ותירושם",
+      "gloss": "newayini abo"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "besanda kwanda"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:10.508293821Z",
+  "model": "glm-5.3"
+}

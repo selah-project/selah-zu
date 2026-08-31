@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 42:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Ngezingana uYahwe uyazalela ikhesedi lakhe, futhi ebusuku ingoma yakhe inganami, thokoza ku-El wokuphila kwami.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ngezingana"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "uyazalela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi lakhe"
+    },
+    {
+      "surface": "ובלילה",
+      "gloss": "futhi ebusuku"
+    },
+    {
+      "surface": "שירה",
+      "gloss": "ingoma yakhe"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "inganami"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "thokoza"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ku-El"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "wokuphila kwami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:37.834811480Z",
+  "model": "glm-5.3"
+}

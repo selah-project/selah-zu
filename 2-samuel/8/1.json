@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 8:1",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Kwathi ngemva kwalokhu uDavide wabetha ⟨את⟩ amaFilisti, wabathoba; uDavide wathatha ⟨את⟩ ithogi yedolobha elikhulu esandleni samaFilisti.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ngemva"
+    },
+    {
+      "surface": "כן",
+      "gloss": "kwaleso sikhati"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "wabetha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaFilisti"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaFilisti"
+    },
+    {
+      "surface": "ויכניעם",
+      "gloss": "wabathoba"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ithogi yedolobha elikhulu"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "ithogi"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "yedolobha elikhulu"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni sa-"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaFilisti"
+    }
+  ],
+  "timestamp": "2026-08-31T03:36:02.008677536Z",
+  "model": "glm-5.3"
+}

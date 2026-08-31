@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Futhi ikoheli lizothatha ⟨את⟩ iwundlankzi yetresipasi, no⟨את⟩ ilogi yamafutha, futhi ikoheli lizozulazula ⟨את⟩ ⟨azona⟩ njengomnikelo wokuzulazula phambi kukaYahwe.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "futhi ... lizothatha"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ikoheli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iwundlankzi yetresipasi"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "iwundlankzi"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "yetresipasi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "ilogi yamafutha"
+    },
+    {
+      "surface": "לג",
+      "gloss": "ilogi"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "yamafutha"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "futhi ... lizozulazula"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ⟨azona⟩",
+      "marks": "ikoheli"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ikoheli"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "njengomnikelo wokuzulazula"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T11:26:46.794557729Z",
+  "model": "glm-5.3"
+}

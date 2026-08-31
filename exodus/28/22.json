@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 28:22",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Futhi uzokwenza phezu kwesifuba izingcingo ezinxuselene, zomsebenzi wokusoka, wegolide elicwengileyo",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "futhi uzokwenza"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwa-"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "isifuba"
+    },
+    {
+      "surface": "שרשת",
+      "gloss": "izingcingo ezinxuselene"
+    },
+    {
+      "surface": "גבלת",
+      "gloss": "ezisokiwe"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "עבת",
+      "gloss": "wokusoka"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "wegolide"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "elicwengileyo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:12:15.800062082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Futhi uma engayikhokhi ⟨את⟩ insimu, noma uma ethengise ⟨את⟩ insimu kumuntu omunye, angeke ithengwe kabusha.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Futhi uma"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "engayikhokhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insimu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "insimu"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "noma uma"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "ethengise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "insimu"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "insimu"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "kumuntu"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "omunye"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "yokuba ithengwe"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kabusha"
+    }
+  ],
+  "timestamp": "2026-08-31T02:07:37.383580639Z",
+  "model": "glm-5.3"
+}

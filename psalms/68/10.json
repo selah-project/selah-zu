@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 68:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 68,
+  "translation": "Imvula enezipho ezinikelwe ngesitsha uyayonwebisa, wena uElohim; ifa lakho, lapho lingcakile, walisimisa.",
+  "tokens": [
+    {
+      "surface": "גשם",
+      "gloss": "imvula"
+    },
+    {
+      "surface": "נדבות",
+      "gloss": "enezipho ezinikelwe ngesitsha"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "uyayonwebisa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "wena uElohim"
+    },
+    {
+      "surface": "נחלתך",
+      "gloss": "ifa lakho"
+    },
+    {
+      "surface": "ונלאה",
+      "gloss": "lapho lingcakile"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "כוננתה",
+      "gloss": "walisimisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:51.661405628Z",
+  "model": "glm-5.3"
+}

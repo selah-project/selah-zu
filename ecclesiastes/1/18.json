@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngokuba ekweneni ukuhlakanipha kukhona ukukhathala okuningi, futhi lowo ongezela ulwazi ongezela ubuhlungu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ekweneni"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ukuhlakanipha"
+    },
+    {
+      "surface": "רב",
+      "gloss": "okuningi"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ukukhathala"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "futhi ongezela"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ulwazi"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ongezela"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "ubuhlungu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:58:02.716734284Z",
+  "model": "glm-5.3"
+}

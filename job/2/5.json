@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 2:5",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Kodwa thuma manje isandla sakho, uthinte amathambo akhe nenyama yakhe — ⟨ngempela⟩ phambi kobuso bakhe uyakubusisa.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "Kodwa"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "thuma"
+    },
+    {
+      "surface": "נא",
+      "gloss": "manje"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "isandla sakho"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "uthinte"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "עצמו",
+      "gloss": "amathambo akhe"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "naku"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "inyama yakhe"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨ngempela⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": "phambi kwa"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "buso bakho"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "uyakubusisa"
+    }
+  ],
+  "timestamp": "2026-08-31T07:08:13.004425886Z",
+  "model": "glm-5.3"
+}

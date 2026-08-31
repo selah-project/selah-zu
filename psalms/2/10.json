@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 2:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Manje-ke, nina makosi, zazi; nina abahluleli bomhlaba, tholani isiyalo.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "manje-ke"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "nina makosi"
+    },
+    {
+      "surface": "השכילו",
+      "gloss": "zazi"
+    },
+    {
+      "surface": "הוסרו",
+      "gloss": "tholani isiyalo"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "nina abahluleli"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "bomhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:27.198133607Z",
+  "model": "glm-5.3"
+}

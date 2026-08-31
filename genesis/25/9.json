@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 25:9",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "U-Yitschaki no-Yishmayeli, amadodana akhe, bamcwaba ⟨את⟩-ye emhumeni weMakfela, ensimini ka-Efroni indodana kaTsohari uMuhiti, engaphambili koMamre.",
+  "tokens": [
+    {
+      "surface": "ויקברו",
+      "gloss": "bamcwaba"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩-ye",
+      "marks": "u-Yitschaki (no-Yishmayeli)"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "u-Yitschaki"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "no-Yishmayeli"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "amadodana akhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "מערת",
+      "gloss": "emhumeni"
+    },
+    {
+      "surface": "המכפלה",
+      "gloss": "weMakfela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ensimini"
+    },
+    {
+      "surface": "עפרן",
+      "gloss": "ka-Efroni"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "צחר",
+      "gloss": "Tsohari"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "uMuhiti"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engu-"
+    },
+    {
+      "surface": "על",
+      "gloss": "phambili"
+    },
+    {
+      "surface": "פני",
+      "gloss": "-ko-"
+    },
+    {
+      "surface": "ממרא",
+      "gloss": "Mamre"
+    }
+  ],
+  "timestamp": "2026-08-31T01:12:28.278067039Z",
+  "model": "glm-5.3"
+}

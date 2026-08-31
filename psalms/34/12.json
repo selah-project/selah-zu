@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Yizani, bantwana, lizwelenimina; ukwesaba uYahwe ⟨ningakufundisa⟩.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Yizani"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "bantwana"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "lizweleni"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ukwesaba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "⟨ningakufundisa⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T08:51:55.860155512Z",
+  "model": "glm-5.3"
+}

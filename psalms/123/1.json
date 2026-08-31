@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 123:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 123,
+  "translation": "Igeguo lokwena. Kuwe ngiphakamisile ⟨את⟩ amehlo ami, wena ohlala ezulwini.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "igeguo"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "lokwenya (lokukhuphuka)"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "ngiphakamisile"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amehlo ami"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo ami"
+    },
+    {
+      "surface": "הישבי",
+      "gloss": "ohlala"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ezulwini"
+    }
+  ],
+  "timestamp": "2026-08-31T06:40:26.355190015Z",
+  "model": "glm-5.3"
+}

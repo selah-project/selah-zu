@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Kodwa uElohim wathi kimi: Ungawakhi indlu egameni lami, ngoba wena ungumuntu wezimpi, futhi ulichithe igazi.",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "Kodwa uElohim"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ung"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "awakhi"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "egameni lami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "wezimpi"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "futhi igazi"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "ulichithe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:31:11.121626848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 39:1",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Naye uYosefu wathunyelwa ezansi eya eMitsrayim, uPotifari, unqindi-ndunu kaParo, inkosi yabapheki, indoda yaseMitsrayim, wamthenga esandleni sabakwaYishmayeli ababethwele ezansi khona.",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "naye uYosefu"
+    },
+    {
+      "surface": "הורד",
+      "gloss": "wathunyelwa ezansi"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "eya eMitsrayim"
+    },
+    {
+      "surface": "ויקנהו",
+      "gloss": "wamthenga"
+    },
+    {
+      "surface": "פוטיפר",
+      "gloss": "uPotifari"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "unqindi-ndunu"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "שר",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "הטבחים",
+      "gloss": "yabapheki"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "yaseMitsrayim"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "הישמעאלים",
+      "gloss": "sabakwaYishmayeli"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "הורדהו",
+      "gloss": "bethwele ezansi"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "khona"
+    }
+  ],
+  "timestamp": "2026-08-31T01:20:44.664872868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Isikhumba sethu sifana nentu eshisayo sajiwe, ngenxa yamabhungebhungaendlala.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "isikhumba sethu"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "njengentu eshisayo"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "sajiwe"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa ye-"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "amabhungebhunga"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "endlala"
+    }
+  ],
+  "timestamp": "2026-08-31T07:43:27.202600645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 34:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 34,
+  "translation": "Ngizombusisa ⟨את⟩ uYahwe ngezinshuku zonke; udumo lwakhe luhlale emlonyeni wami njalo.",
+  "tokens": [
+    {
+      "surface": "אברכה",
+      "gloss": "Ngizombusisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ngezinshuku"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "udumo lwakhe"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "emlonyeni wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:19.963295857Z",
+  "model": "glm-5.3"
+}

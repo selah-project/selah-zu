@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 16:5",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi kuvela ku-⟨את⟩ umhlangano wabantwana bakwaIsrayeli uzothatha izimpongo ezimbili ezibullu zamabokhwe njengomnikelo wamacala, nelidlavudwa elilodwa njengomnikelo oshisiwayo.",
+  "tokens": [
+    {
+      "surface": "ומאת",
+      "gloss": "kuvela ku-⟨את⟩",
+      "marks": "umhlangano"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "umhlangano"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaIsrayeli"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "uzothatha"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "שעירי",
+      "gloss": "izimpongo ezibullu"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "zamabokhwe"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "njengomnikelo wamacala"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "nelidlavudwa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "elilodwa"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "njengomnikelo oshisiwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:59:20.527032277Z",
+  "model": "glm-5.3"
+}

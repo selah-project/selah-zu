@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 2:7",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Yasisi wakhe yathi kundodakazi kaParo: Ngiye kubiza kuwe umfazi onombelele muncanana? waze wabelana? — ⟨ngiye⟩ kubiza kuwe umfazi othisa unyanisa unyanisa — Ngibize umfazi onombelele kwaWabaLimi okubonisela umntwana?",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "yathi"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "yasisi wakhe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "בת",
+      "gloss": "kundodakazi"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "האלך",
+      "gloss": "ngiye na"
+    },
+    {
+      "surface": "וקראתי",
+      "gloss": "ngibize"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "umfazi"
+    },
+    {
+      "surface": "מינקת",
+      "gloss": "onomsa"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kwa-"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "WabaLimi"
+    },
+    {
+      "surface": "ותינק",
+      "gloss": "okubonisela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umntwana"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "umntwana"
+    }
+  ],
+  "timestamp": "2026-08-31T01:25:59.227926559Z",
+  "model": "glm-5.3"
+}

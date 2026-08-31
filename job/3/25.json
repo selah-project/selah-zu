@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 3:25",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngokuba lokhu engangikwesaba ⟨kufike kimi⟩, kanti lokho engangikwesaba kungafika kumi.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "lokhu esaba"
+    },
+    {
+      "surface": "פחדתי",
+      "gloss": "engangikwesaba"
+    },
+    {
+      "surface": "ויאתיני",
+      "gloss": "kufike kimi"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "kanti lokho"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "engangikwesaba"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "kungafika"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kumi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:06:11.925107767Z",
+  "model": "glm-5.3"
+}

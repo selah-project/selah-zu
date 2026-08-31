@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 42,
+  "translation": "Ubonile izinto eziningi kodwaungaligcini; amazindlebe avulekile kodwa ezwa lutho.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "Ubonile"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "izinto eziningi"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwaungaligcini"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ungaligcini"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "avulekile"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "amazindlebe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ezwa lutho"
+    }
+  ],
+  "timestamp": "2026-08-31T04:30:03.779208729Z",
+  "model": "glm-5.3"
+}

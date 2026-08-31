@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Futhi u-Aharon nabantwana bakhe bayodla ⟨את⟩ inyama yesibankwa no⟨את⟩ isinkwa esisesikotshini, emnyango wethenti lokuhlangana.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "Futhi bayodla"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "nabantwana bakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inyama yesibankwa"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "inyama"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "yesibankwa"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "isinkwa"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "isinkwa"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "eso"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "sesikotshini"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "emnyango"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "wethenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "lokuhlangana"
+    }
+  ],
+  "timestamp": "2026-08-31T01:42:10.414357445Z",
+  "model": "glm-5.3"
+}

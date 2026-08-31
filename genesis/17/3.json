@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "U-Avraham wawa obala bakhe; uElohim wakhuluma ⟨את⟩ naye, ethi:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "wawa"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "obala bakhe"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ naye",
+      "marks": "naye"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    }
+  ],
+  "timestamp": "2026-08-31T01:08:14.670967352Z",
+  "model": "glm-5.3"
+}

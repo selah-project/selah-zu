@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 57:13",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 57,
+  "translation": "Nxa ukhala, amaqembu akho akusindise; kodwa umoya uzothwala ⟨את⟩ wonke, ubufusi buzothatha; kodwa lowo obhekise kimi uzoyifa umhlaba, futhi uzoyithumba intaba yami engcwele.",
+  "tokens": [
+    {
+      "surface": "בזעקך",
+      "gloss": "nxa ukhala"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "akusindise"
+    },
+    {
+      "surface": "קבוציך",
+      "gloss": "amaqembu akho"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wonke (amaqembu)"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "uzothwala"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "uzothatha"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ubufusi"
+    },
+    {
+      "surface": "והחוסה",
+      "gloss": "kodwa lowo obhekise"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "ינחל",
+      "gloss": "uzoyifa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ויירש",
+      "gloss": "futhi uzoyithumba"
+    },
+    {
+      "surface": "הר",
+      "gloss": "intaba"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "yami engcwele"
+    }
+  ],
+  "timestamp": "2026-08-31T04:36:04.510191434Z",
+  "model": "glm-5.3"
+}

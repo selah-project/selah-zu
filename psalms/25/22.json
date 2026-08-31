@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Khulula, uElohim, ⟨את⟩ uIsrayeli kuzo zonke izinzipho zakhe.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Khulula"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uIsrayeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "izinzipho zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:18:43.872670766Z",
+  "model": "glm-5.3"
+}

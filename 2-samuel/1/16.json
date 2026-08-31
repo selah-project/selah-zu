@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 1:16",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "UDavide wathi kuyena: Igazi lakho liphelele ehlaveni lakho, ngoba umlomo wakho uwufakazile ngokwakho, ukuthi: Mina ngabulala uMashiya kaYahwe.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "Igazi lakho"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezulu"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ehlaveni lakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "umlomo wakho"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "uwufakazile"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ngokwakho"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "מתתי",
+      "gloss": "ngabulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMashiya"
+    },
+    {
+      "surface": "משיח",
+      "gloss": "uMashiya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T03:32:08.834638730Z",
+  "model": "glm-5.3"
+}

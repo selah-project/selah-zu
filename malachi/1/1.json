@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Umthwalo wezwi likaYahwe kuya kuYisraeli, ngesandla likaMalaki.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Umthwalo"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wezwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "kuya ku"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisraeli"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ngesandla lika"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "uMalaki"
+    }
+  ],
+  "timestamp": "2026-08-31T05:44:53.893209345Z",
+  "model": "glm-5.3"
+}

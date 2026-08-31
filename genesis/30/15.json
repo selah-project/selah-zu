@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 30:15",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Yena wathi kuyena: Ingabe kuncane ukuthi wathatha ⟨את⟩ indoda yami, uze uthathe futhi ⟨את⟩ amaduda endodana yami? URakheli wathi: Ngakho-ke uzolala nawe ebusuku bana, ngokwamaduda endodana yakho.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "לה",
+      "gloss": "kuyena"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "ingabe kuncane"
+    },
+    {
+      "surface": "קחתך",
+      "gloss": "ukuthi wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indoda yami"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "indoda yami"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "uze uthathe"
+    },
+    {
+      "surface": "גם",
+      "gloss": "futhi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaduda"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "amaduda"
+    },
+    {
+      "surface": "בני",
+      "gloss": "endodana yami"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "uRakheli"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "uzolala"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "nawe"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ebusuku bana"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngokwa-"
+    },
+    {
+      "surface": "דודאי",
+      "gloss": "amaduda"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "endodana yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T01:15:58.959967879Z",
+  "model": "glm-5.3"
+}

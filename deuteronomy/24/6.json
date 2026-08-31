@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Akumele kuthathwe ingulo nesomile njengesibambiso, ngoba lokhu ukuphila kuthathwa njengesibambiso.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "akumele"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "kuthathwe njengesibambiso"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "ingulo"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "nesomile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ukuphila"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "kuthathwa njengesibambiso"
+    }
+  ],
+  "timestamp": "2026-08-31T02:42:33.199171192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 82,
+  "translation": "Mina ngathi: nina ningamadloti, nonke ningabantwana buka-Elyoni.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Mina"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ngathi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ningamadloti"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "futhi ningabantwana"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "buka-Elyoni"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "nonke"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:58.345917960Z",
+  "model": "glm-5.3"
+}

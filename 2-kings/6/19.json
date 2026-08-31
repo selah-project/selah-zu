@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 6:19",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "U-Elishe wathi kubo: hhayi le indlela, futhi hhayi le idolobha; landelani mina, nginiholela ⟨את⟩ nina kumuntu enimmfunela. Wabaholela baya eShomirona.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "U-Elishe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "hhayi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi-hhayi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "le"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "idolobha"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "landelani"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "ואוליכה",
+      "gloss": "nginiholela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "enimmfunela"
+    },
+    {
+      "surface": "תבקשון",
+      "gloss": "nimfunela"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "Wabaholela"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "eShomirona"
+    }
+  ],
+  "timestamp": "2026-08-31T04:05:22.916998701Z",
+  "model": "glm-5.3"
+}

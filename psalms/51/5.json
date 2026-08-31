@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 51,
+  "translation": "Ngokubaizophambano zami mina ngiyazazi, futhisona esami siphambi kwami njalo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "iphambano lami"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ngiyazazi"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "futhi sono lami"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "siphambi kwami"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:36.090517837Z",
+  "model": "glm-5.3"
+}

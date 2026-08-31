@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Emenora elihlanzekile uzohlwaba ⟨את⟩ izibani phambi kukaYahwe njalo.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "emenora"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "elihlanzekile"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "uzohlwaba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izibani"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "izibani"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kuka-"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:14:36.710586312Z",
+  "model": "glm-5.3"
+}

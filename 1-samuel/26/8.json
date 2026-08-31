@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-samuel 26:8",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "UAvishayi wathi kuDavide: uElohim ushibile namuhla ⟨את⟩ isitha sakho esandleni sakho; manje ke, akenge ngiyimshaye ngesihlabo, emhlabathini, isikhathi esisodwa, futhi angiyi ukuphinda kuyena.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "אבישי",
+      "gloss": "uAvishayi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ushibile"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isitha sakho"
+    },
+    {
+      "surface": "אויבך",
+      "gloss": "isitha sakho"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "esandleni sakho"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "futhi manje"
+    },
+    {
+      "surface": "אכנו",
+      "gloss": "ngiyimshaye"
+    },
+    {
+      "surface": "נא",
+      "gloss": "akenge"
+    },
+    {
+      "surface": "בחנית",
+      "gloss": "ngesihlabo"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "futhi emhlabathini"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "isikhathi"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "esisodwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi angiyi"
+    },
+    {
+      "surface": "אשנה",
+      "gloss": "ukuphinda"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyena"
+    }
+  ],
+  "timestamp": "2026-08-31T03:31:14.552453081Z",
+  "model": "glm-5.3"
+}

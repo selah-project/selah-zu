@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Nokuhlukanisa phakathi kokungcwele nokungcwele-anga, phakathi kokungcolile nokuhlanzekile.",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "nokuhlukanisa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwe"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "kokungcwele"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "naphakathi kwe"
+    },
+    {
+      "surface": "החל",
+      "gloss": "kokungajwayelekile"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "naphakathi kwe"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "kokungcolile"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "naphakathi kwe"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "nokuhlanzekile"
+    }
+  ],
+  "timestamp": "2026-08-31T05:57:30.529485023Z",
+  "model": "glm-5.3"
+}

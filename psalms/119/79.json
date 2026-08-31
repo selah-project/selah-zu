@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 79,
+  "ref": "psalms 119:79",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Mababuyele kimi abasabayoyika, baze bakwazi ubufakazi bakho.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "mababuyele"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "יראיך",
+      "gloss": "abasabayoyika"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "baze bakwazi"
+    },
+    {
+      "surface": "עדתיך",
+      "gloss": "ubufakazi bakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:43.572213298Z",
+  "model": "glm-5.3"
+}

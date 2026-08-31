@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Misa phezu kwakhe omubi, futhi isitha simi esandleni sakhe sokudla.",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "Misa"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwakhe"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "omubi"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "futhi isitha"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "simi"
+    },
+    {
+      "surface": "על",
+      "gloss": "e-"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "sandleni sakhe sokudla"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:34.971629202Z",
+  "model": "glm-5.3"
+}

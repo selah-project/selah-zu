@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 6:3",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "futhi sizazi, sizilandelela ukwazi ⟨את⟩ uYahwe; njengokusa kwaya qedi, njalo ukuphuma kwakhe, futhi uzofika njengesiphepho kithina, njengemvula yasehlobo ethathisa umhlaba.",
+  "tokens": [
+    {
+      "surface": "ונדעה",
+      "gloss": "futhi sizazi"
+    },
+    {
+      "surface": "נרדפה",
+      "gloss": "sizilandelela"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ukwazi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כשחר",
+      "gloss": "njengokusa"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "kwaya qedi njalo"
+    },
+    {
+      "surface": "מוצאו",
+      "gloss": "ukuphuma kwakhe"
+    },
+    {
+      "surface": "ויבוא",
+      "gloss": "futhi uzofika"
+    },
+    {
+      "surface": "כגשם",
+      "gloss": "njengesiphepho"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kithina"
+    },
+    {
+      "surface": "כמלקוש",
+      "gloss": "njengemvula yasehlobo"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ethathisa"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T05:26:31.236037127Z",
+  "model": "glm-5.3"
+}

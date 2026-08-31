@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 4:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Abaningi bathi: Ngubani ozosibonisa okuhle? Phakamisa phezu kwethu ukukhanya kobuso bakho, Yahwe.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Abaningi"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ngubani"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "ozosibonisa"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    },
+    {
+      "surface": "נסה",
+      "gloss": "Phakamisa"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "phezu kwethu"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ukukhanya"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "kobuso bakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:10.508131077Z",
+  "model": "glm-5.3"
+}

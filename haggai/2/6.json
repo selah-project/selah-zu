@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ngokuba ngokusho kukaYahwe wamabutho: kusesinye isikhashana esincane kuphela, futhi mina ngizokudlidliza ⟨את⟩ izulu ⟨את⟩ nomhlaba ⟨את⟩ nelwandle ⟨את⟩ nomhlabathi omomile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ngokusho"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "usho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamabutho"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "kusesinye"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "isinye"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "isikhashana esincane"
+    },
+    {
+      "surface": "היא",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "futhi mina"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "ngizokudlidliza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izulu"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "izulu"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "umhlaba"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "ulwandle"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ulwandle"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ futhi",
+      "marks": "umhlabathi omomile"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "umhlabathi omomile"
+    }
+  ],
+  "timestamp": "2026-08-31T05:40:42.513978409Z",
+  "model": "glm-5.3"
+}

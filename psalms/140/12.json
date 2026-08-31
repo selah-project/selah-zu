@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 140:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 140,
+  "translation": "Umuntu olwazile bekholo ezweni; umuntu wedlhudlhu — okubi kuzomzingela ukuwisa okungalapheki.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "olwazile"
+    },
+    {
+      "surface": "בל",
+      "gloss": "bekho-"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "lo ezweni"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "איש",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "wedlhudlhu"
+    },
+    {
+      "surface": "רע",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "יצודנו",
+      "gloss": "kuzomzingela"
+    },
+    {
+      "surface": "למדחפות",
+      "gloss": "ukuwisa okungalapheki"
+    }
+  ],
+  "timestamp": "2026-08-31T06:43:32.698386934Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 14:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 14,
+  "translation": "Ngubani ozonikeza eTsiyoni insindiso ka-Israyeli? Ekubuyisela uYahwe ekugcineni kwesizwe sakhe, uYakobi uzujabula, u-Israyeli uzumema.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ngubani"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ozonikeza"
+    },
+    {
+      "surface": "מציון",
+      "gloss": "eTsiyoni"
+    },
+    {
+      "surface": "ישועת",
+      "gloss": "insindiso"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israyeli"
+    },
+    {
+      "surface": "בשוב",
+      "gloss": "ekubuyisela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ekugcineni"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "kwesizwe sakhe"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "uzujabula"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "uYakobi"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "uzumema"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israyeli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:10.936813277Z",
+  "model": "glm-5.3"
+}

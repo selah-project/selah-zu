@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 71:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 71,
+  "translation": "uElohim, ungasuki kude kimi; uElohim wami, shesha usizo lwami.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "suki kude"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wami"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "usizo lwami"
+    },
+    {
+      "surface": "חישה",
+      "gloss": "shesha"
+    }
+  ],
+  "timestamp": "2026-08-31T06:26:58.366964038Z",
+  "model": "glm-5.3"
+}

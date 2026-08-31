@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 147,
+  "translation": "Yena othumela iphutha lakhe emhlabeni, kalula liyagijima izwi lakhe.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Yena othumela"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "iphutha lakhe"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kalula"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "kalula"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "liyagijima"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "izwi lakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:41.002245888Z",
+  "model": "glm-5.3"
+}

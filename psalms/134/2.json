@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 134:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 134,
+  "translation": "Phakamisani izandla zenu zingcwele, nibusise ⟨את⟩ uYahwe.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Phakamisani"
+    },
+    {
+      "surface": "ידכם",
+      "gloss": "izandla zenu"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "zingcwele"
+    },
+    {
+      "surface": "וברכו",
+      "gloss": "nibusise"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:48.615268044Z",
+  "model": "glm-5.3"
+}

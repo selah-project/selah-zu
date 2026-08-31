@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngavula ⟨את⟩ umlomo wami, wayengidlisela ⟨את⟩ le migqibo.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "Ngavula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umlomo wami"
+    },
+    {
+      "surface": "פי",
+      "gloss": "umlomo wami"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "wayengidlisela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "le migqibo"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "le migqibo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "le"
+    }
+  ],
+  "timestamp": "2026-08-31T05:05:45.041177290Z",
+  "model": "glm-5.3"
+}

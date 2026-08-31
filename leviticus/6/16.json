@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi wonke umnikelo wumpristi uyakuba ngowokushiswa ngokuphelele; awudliwa.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "Futhi wonke"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "umnikelo"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "wumpristi"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ngowokushiswa ngokuphelele"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "uyakuba"
+    },
+    {
+      "surface": "לא",
+      "gloss": "awi-"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "dliwa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:52:16.788990990Z",
+  "model": "glm-5.3"
+}

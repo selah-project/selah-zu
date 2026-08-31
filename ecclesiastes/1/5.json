@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi ilanga liyavuka, futhi ilanga lingena, futhi liyafisa indawo yalo, livuka lapho.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "futhi liyavuka"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "futhi lingena"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ilanga"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "futhi e"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "indaweni yalo"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "liyafisa"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "livuka"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "שם",
+      "gloss": "lapho"
+    }
+  ],
+  "timestamp": "2026-08-31T07:43:47.630648332Z",
+  "model": "glm-5.3"
+}

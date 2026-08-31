@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Ophila ngokuphelele, owenza okulungileyo, othetha iqiniso entliziyweni yakhe ⟨⟨yakhe⟩⟩.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ophila"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ngokuphelele"
+    },
+    {
+      "surface": "ופועל",
+      "gloss": "owenza"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "okulungileyo"
+    },
+    {
+      "surface": "ודובר",
+      "gloss": "othetha"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "iqiniso"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "entliziyweni yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:51:45.423693419Z",
+  "model": "glm-5.3"
+}

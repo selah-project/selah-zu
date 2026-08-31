@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "UMoshe wakhwelela phansi kubantu, wakhuluma kubo.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "wakhwelela phansi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubo"
+    }
+  ],
+  "timestamp": "2026-08-31T10:12:04.153228070Z",
+  "model": "glm-5.3"
+}

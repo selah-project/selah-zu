@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "U-Yahwe uElohim wakha ⟨את⟩ icala alithathile kundoda, alaba yisifazane, wamgenisa kundoda.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icala"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "icala"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "alithathile"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "thatha"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "endoda"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "aba yisifazane"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "wamgenisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "endoda"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:13.210332638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Futhi phakathi kwabasiginalo ku-uNehemya, iThirshata, indodana kaChakalya, noTsidkiya.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "futhi phakathi kwabasiginalo"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "abasiginalo"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "uNehemya"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "iThirshata"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "uChakalya"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "noTsidkiya"
+    }
+  ],
+  "timestamp": "2026-08-31T08:15:45.565858100Z",
+  "model": "glm-5.3"
+}

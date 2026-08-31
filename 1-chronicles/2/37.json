@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "uZabadi wazala ⟨את⟩ u-Eflali, u-Eflali wazala ⟨את⟩ u-Ovedit.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "uZabadi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Eflali"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "u-Eflali"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "u-Eflali"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Ovedit"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "u-Ovedit"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:28.362823105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 25:12",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Futhi kuyokuba, ekupheleni kweminyaka engamashumi ayisikhombisa, ngiyozohlola phezu kwenkosi yaseBhabhiloni nangeso sizwe, usho uYahwe, ⟨את⟩ icala labo, naphezu komhlaba waseKasdimu, futhi ngiyobeka ⟨את⟩ yena abe yindweshu engapheli kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "futhi kuyokuba"
+    },
+    {
+      "surface": "כמלאות",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "amashumi ayisikhombisa"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "iminyaka"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "ngiyozohlola"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "kwenkosi"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "yaseBhabhiloni"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nangeso"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "sizwe"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lo"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "usho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icala labo"
+    },
+    {
+      "surface": "עונם",
+      "gloss": "icala labo"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "naphezu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "komhlaba"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "waseKasdimu"
+    },
+    {
+      "surface": "ושמתי",
+      "gloss": "futhi ngiyobeka"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yena",
+      "marks": "umhlaba waseKasdimu"
+    },
+    {
+      "surface": "לשממות",
+      "gloss": "abe yindweshu engapheli"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "kuze kube phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T04:49:47.773802575Z",
+  "model": "glm-5.3"
+}

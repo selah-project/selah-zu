@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 6:25",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "indodana kaMikaeli, indodana kaBaaseyah, indodana kaMalkiyah;",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "uMikaeli"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "בעשיה",
+      "gloss": "uBaaseyah"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "uMalkiyah"
+    }
+  ],
+  "timestamp": "2026-08-31T08:21:22.889048544Z",
+  "model": "glm-5.3"
+}

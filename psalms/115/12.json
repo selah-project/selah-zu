@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 115:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 115,
+  "translation": "uYahwe usikhumbulile; uzibusisa — uzibusisa ⟨את⟩ bethu-Israyeli, uzibusisa ⟨את⟩ bethu-Aharoni.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "זכרנו",
+      "gloss": "usikhumbulile"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "uzibusisa"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "uzibusisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bethu-Israyeli"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bethu"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "uzibusisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "bethu-Aharoni"
+    },
+    {
+      "surface": "בית",
+      "gloss": "bethu"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Aharoni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:14.904608833Z",
+  "model": "glm-5.3"
+}

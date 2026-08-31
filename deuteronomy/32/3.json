@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Ngokuthi igama likaYahwe ngiyolibiza; nikani ukukhulu kuElohim wethu.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuthi"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ngiyolibiza"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "nikani"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ukukhulu"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "kuElohim wethu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:46:46.760362256Z",
+  "model": "glm-5.3"
+}

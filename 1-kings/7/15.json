@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 7:15",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Wakha izinti ezimbili ⟨את⟩ zethusi: insimbi yamakhulu ayisishiyagalombili ubude bentinti eyodwa, intambo yamakhulu ayishumi nambili ubude eyazungeza ⟨את⟩ intinti yesibili.",
+  "tokens": [
+    {
+      "surface": "ויצר",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinti ezimbili"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "izinti"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "zethusi"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ayisishiyagalombili"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "namakhulu (ishumi nambili)— ishumi nesishiyagalombili"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amakhulu (ubude bomlinganiso)"
+    },
+    {
+      "surface": "קומת",
+      "gloss": "ubude"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "bentinti"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "eyodwa"
+    },
+    {
+      "surface": "ויחוט",
+      "gloss": "intambo"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ayishumi nambili (okubili)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ishumi"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "yazungeza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intinti yesibili"
+    },
+    {
+      "surface": "העמוד",
+      "gloss": "intinti"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yesibili"
+    }
+  ],
+  "timestamp": "2026-08-31T03:51:05.400802028Z",
+  "model": "glm-5.3"
+}

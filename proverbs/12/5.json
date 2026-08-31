@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Imicabango yalabo abilungile yisigwebo; izingcaphuno zababi yinhlekisa.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "imicabango"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "yalabo abilungile"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "isigwebo"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "izingcaphuno"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "yababi"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "yinhlekisa"
+    }
+  ],
+  "timestamp": "2026-08-31T11:06:23.889104558Z",
+  "model": "glm-5.3"
+}

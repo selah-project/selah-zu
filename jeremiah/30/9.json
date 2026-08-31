@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 30:9",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Bazokhonza ⟨את⟩ uYahwe uElohim wabo, no⟨את⟩ uDavide inkosi yabo, engingamvusa kuwo.",
+  "tokens": [
+    {
+      "surface": "ועבדו",
+      "gloss": "bazokhonza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe uElohim wabo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "uElohim wabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "uDavide inkosi yabo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "inkosi yabo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engingamvusa"
+    },
+    {
+      "surface": "אקים",
+      "gloss": "ngiyavusa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuwo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:50:45.794002730Z",
+  "model": "glm-5.3"
+}

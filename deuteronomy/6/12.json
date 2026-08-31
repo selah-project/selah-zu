@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Zibekela kuwe ungakhohlwa ⟨את⟩ uYahwe okuvekhile eMitsrayim, esendlwini yegqili.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "zibekela"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ukuze ungakhohlwa"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ungakhohlwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYahwe"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "okuvekhile"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "iMitsrayim"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "esendlwini"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "yegqili"
+    }
+  ],
+  "timestamp": "2026-08-31T02:32:20.853539517Z",
+  "model": "glm-5.3"
+}

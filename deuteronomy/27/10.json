@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 27:10",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 27,
+  "translation": "Uzolalelwa izwi likaYahwe u-Elohim wakho, wenze ⟨את⟩ imiyalo yakhe no⟨את⟩ izimiso zakhe engiyalela ngalo suku.",
+  "tokens": [
+    {
+      "surface": "ושמעת",
+      "gloss": "Uzolalelwa"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "u-Elohim wakho"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "wenze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imiyalo yakhe"
+    },
+    {
+      "surface": "מצותו",
+      "gloss": "imiyalo yakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "izimiso zakhe"
+    },
+    {
+      "surface": "חקיו",
+      "gloss": "izimiso zakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ngi"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "yalela"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ngalo suku"
+    }
+  ],
+  "timestamp": "2026-08-31T02:41:58.759572106Z",
+  "model": "glm-5.3"
+}

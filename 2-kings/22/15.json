@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 22:15",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Yathi ⟨kuyena⟩ kubona: Njalo uthe uYahwe, uElohim kaIsrayeli: Nithini komuntu ⟨o⟩ bathumele ⟨kuyena⟩ kunina ⟨kunaye⟩ — yena obathumelayo kunina kuvele kunaye.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "Yathi"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Njalo"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ute"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim ka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "Nithini"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "komuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨o⟩ obathumele"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "obathumele"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "kunina (niná)"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "kunaye kuvele kunaye"
+    }
+  ],
+  "timestamp": "2026-08-31T08:51:37.719564799Z",
+  "model": "glm-5.3"
+}

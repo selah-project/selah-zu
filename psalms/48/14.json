@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 48:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 48,
+  "translation": "Bekanisani izinhliziyo zenu ezindongeni zayo zokuzivikela; hlolani izindlu zezinkosi zayo; ukuze nidalele isizukulwane esizayo.",
+  "tokens": [
+    {
+      "surface": "שיתו",
+      "gloss": "Bekanisani"
+    },
+    {
+      "surface": "לבכם",
+      "gloss": "izinhliziyo zenu"
+    },
+    {
+      "surface": "לחילה",
+      "gloss": "ezindongeni zayo zokuzivikela"
+    },
+    {
+      "surface": "פסגו",
+      "gloss": "hlolani"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "izindlu zezinkosi zayo"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "nidalele"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "isizukulwane"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "esizayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:23:17.882802960Z",
+  "model": "glm-5.3"
+}

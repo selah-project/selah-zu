@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 18:26",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Ngesibani uzibonakalisa ngokwesibani; nendoda epheleleyo uzibonakalisa ngokuphelele.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "nga-"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "oyedwa onesibani"
+    },
+    {
+      "surface": "תתחסד",
+      "gloss": "uzibonakalisa ngokwesibani"
+    },
+    {
+      "surface": "עם",
+      "gloss": "na-"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "epheleleyo"
+    },
+    {
+      "surface": "תתמם",
+      "gloss": "uzibonakalisa ngokuphelele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:59.522902229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Ngekuhleka ngasho: ⟨kuhlanya⟩; nangenjabulo: Lokhu kuyakwenzani?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "ngekuhleka"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ngasho"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "kuhlanya"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "nangenjabulo"
+    },
+    {
+      "surface": "מה",
+      "gloss": "yini"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "kuyakwenzani"
+    }
+  ],
+  "timestamp": "2026-08-31T07:43:56.262289016Z",
+  "model": "glm-5.3"
+}

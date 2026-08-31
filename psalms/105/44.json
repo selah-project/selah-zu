@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "Wabanikeza izwe lezizwe, futhi bazinza umsebenzi wabantu.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "Wabanikeza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ba-"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "lezizwe"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "wabantu"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "bazinza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:30.455715437Z",
+  "model": "glm-5.3"
+}

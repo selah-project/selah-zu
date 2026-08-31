@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 19:5",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Futhi inkosi yavala ⟨את⟩ ubuso bayo, inkosi yakhala ngelizwi elikhulu: ndodana yami, u-Avshalom, u-Avshalom, ndodana yami, ndodana yami!",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "Futhi inkosi"
+    },
+    {
+      "surface": "לאט",
+      "gloss": "yavala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubuso bayo"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ubuso bayo"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "yakhala"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ngelizwi"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "elikhulu"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ndodana yami"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "u-Avshalom"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "u-Avshalom"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ndodana yami"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ndodana yami"
+    }
+  ],
+  "timestamp": "2026-08-31T03:43:59.984422273Z",
+  "model": "glm-5.3"
+}

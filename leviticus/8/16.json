@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 8:16",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Wathatha ⟨את⟩ onke amafutha aphakathi kwezitho, n⟨את⟩ icala lekhehla, n⟨את⟩ izinso ezimbili n⟨את⟩ amafutha azo; uMoshe wazitshisa emthombeni.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onke amafutha"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onke"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "amafutha"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oku-"
+    },
+    {
+      "surface": "על",
+      "gloss": "phakathi kwe-"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "izitho zangaphakathi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "icala lekhehla"
+    },
+    {
+      "surface": "יתרת",
+      "gloss": "icala"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "lekhehla"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "izinso ezimbili"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "izinso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "n⟨את⟩",
+      "marks": "amafutha azo"
+    },
+    {
+      "surface": "חלבהן",
+      "gloss": "amafutha azo"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "wazitshisa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "emthombeni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:55:00.753650622Z",
+  "model": "glm-5.3"
+}

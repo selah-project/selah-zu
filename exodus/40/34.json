@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Ifu lalingatheka phezu ⟨את⟩ itenti yokuhlangana, inkazimulu kaYahwe yazalisa ⟨את⟩ isidleke.",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "lalingatheka phezu"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ifu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itenti yokuhlangana"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "itenti"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuhlangana"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "inkazimulu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "yazalisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isidleke"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "isidleke"
+    }
+  ],
+  "timestamp": "2026-08-31T01:50:07.173951448Z",
+  "model": "glm-5.3"
+}

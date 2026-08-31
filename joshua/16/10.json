@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 16:10",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Futhi abazange baxoshe ⟨את⟩ iKhanani ehleli eGezeri; futhi iKhanani lahlala phakathi kuka-Efrayimu kuze kuleli lasemhlabeni, futhi laba yisikhonzo esiphoqekile.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "futhi abazange"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "baxoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iKhanani"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "iKhanani"
+    },
+    {
+      "surface": "היושב",
+      "gloss": "ehleli"
+    },
+    {
+      "surface": "בגזר",
+      "gloss": "eGezeri"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "futhi lahlala"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "iKhanani"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi kuka-"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Efrayimu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze ku-"
+    },
+    {
+      "surface": "היום",
+      "gloss": "leli lasemhlabeni"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "eli"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "futhi laba yi-"
+    },
+    {
+      "surface": "למס",
+      "gloss": "isikhonzo esiphoqekile"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "esebenza"
+    }
+  ],
+  "timestamp": "2026-08-31T02:56:25.458356390Z",
+  "model": "glm-5.3"
+}

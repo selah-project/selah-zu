@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 18:46",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Abantwana besizwe sangaphandle bayaphela, bethwesaboya bophuma ezizindeni zabo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "besizwe sangaphandle"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "bayaphela"
+    },
+    {
+      "surface": "ויחרגו",
+      "gloss": "bethwesaboya"
+    },
+    {
+      "surface": "ממסגרותיהם",
+      "gloss": "ezizindeni zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:51:53.240989313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 29:20",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 29,
+  "translation": "Khizkiyahu inkosi vuka-ekuseni, aqoqa ⟨את⟩ abaholi bedolobha, anyuka endlini kaYahwe.",
+  "tokens": [
+    {
+      "surface": "וישכם",
+      "gloss": "vuka-ekuseni"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Khizkiyahu"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "aqoqa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaholi bedolobha"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "abaholi"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "bedolobha"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "anyuka"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:43:37.621199413Z",
+  "model": "glm-5.3"
+}

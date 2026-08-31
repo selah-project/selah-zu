@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 21:30",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Kanti uDavide wayengakwazi ukuya phambi kwayo ukuyobuza kuElohim, ngoba wayesaba ngenxa yomkhonto womlingani kaYahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "kanti wayengakwazi"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "wayengakwazi ukuya"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuya"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "phambi kwayo"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "ukuyobuza"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "wayesaba"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ngenxa yomkhonto"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "umkhonto"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "womlingani"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:26:13.931734027Z",
+  "model": "glm-5.3"
+}

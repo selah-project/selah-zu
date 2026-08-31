@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 47:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 47,
+  "translation": "Amakhosi ezizwe aqoqiwe ndawonye, abantu baka-uElohim ka-Avraham; ngoba izihlangu zomhlaba zingoka-uElohim, uphakeme kakhulu.",
+  "tokens": [
+    {
+      "surface": "נדיבי",
+      "gloss": "amakhosi"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ezizweni"
+    },
+    {
+      "surface": "נאספו",
+      "gloss": "aqoqiwe ndawonye"
+    },
+    {
+      "surface": "עם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "baka-uElohim"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ka-Avraham"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "zingoka-uElohim"
+    },
+    {
+      "surface": "מגני",
+      "gloss": "izihlangu"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "zomhlaba"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "kakhulu"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "uphakeme"
+    }
+  ],
+  "timestamp": "2026-08-31T06:22:54.692765128Z",
+  "model": "glm-5.3"
+}

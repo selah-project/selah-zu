@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 58:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 58,
+  "translation": "Mabanyamalele njengamanzi edlulayo, ahambe adabulwe; lowo ohlaba umcibisholo wakhe, mabahlehliswe njengokuba bacekeke.",
+  "tokens": [
+    {
+      "surface": "ימאסו",
+      "gloss": "mabanyamalele"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ahambe"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨adabulwe⟩"
+    },
+    {
+      "surface": "ידרך",
+      "gloss": "ohlaba umcibisholo"
+    },
+    {
+      "surface": "חצו",
+      "gloss": "umcibisholo wakhe"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njengokuba"
+    },
+    {
+      "surface": "יתמללו",
+      "gloss": "bacekeke"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:25.784777911Z",
+  "model": "glm-5.3"
+}

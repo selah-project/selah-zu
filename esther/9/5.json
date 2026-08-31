@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "esther 9:5",
+  "book": "esther",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Abayehudi babetha bonke abazondi babo ngokubethwa inkemba nokubulala nokutshonalisa, benza kubazondi babo njengokuthanda kwabo.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "babetha"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "abayehudi"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "bonke"
+    },
+    {
+      "surface": "איביהם",
+      "gloss": "abazondi babo"
+    },
+    {
+      "surface": "מכת",
+      "gloss": "ngokubethwa"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "inkemba"
+    },
+    {
+      "surface": "והרג",
+      "gloss": "nokubulala"
+    },
+    {
+      "surface": "ואבדן",
+      "gloss": "nokutshonalisa"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "benza"
+    },
+    {
+      "surface": "בשנאיהם",
+      "gloss": "kubazondi babo"
+    },
+    {
+      "surface": "כרצונם",
+      "gloss": "njengokuthanda kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:54:02.972053893Z",
+  "model": "glm-5.3"
+}

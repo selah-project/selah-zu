@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Futhi ngizogcina umthetho wakho njalo kuze kube phakade nanaphakade.",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "ngizogcina"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "umthetho wakho"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "nanaphakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:50.554843199Z",
+  "model": "glm-5.3"
+}

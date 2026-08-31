@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Okubi kuyalandela aboni, kodwa okuhle kuyakhokhela ⟨את⟩ abalungile.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "aboni"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "kuyalandela"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "abalungile"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abalungile"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "kuyakhokhela"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "okuhle"
+    }
+  ],
+  "timestamp": "2026-08-31T06:52:49.743657327Z",
+  "model": "glm-5.3"
+}

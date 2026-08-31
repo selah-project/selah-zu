@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jonah 3:10",
+  "book": "jonah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "uElohim wabona ⟨את⟩ izenzo zabo, ukuthi babuyile endleleni yabo equngekile; uElohim wazwelana ngokwendoda ngesiphambano esaqedisayo abasitshilo ukuba uzakwenza kubona, futhi akasenzi.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "wabona"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izenzo zabo"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "izenzo zabo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "babuyile"
+    },
+    {
+      "surface": "מדרכם",
+      "gloss": "endleleni yabo"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "equngekile"
+    },
+    {
+      "surface": "וינחם",
+      "gloss": "wazwelana ngokwendoda"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge-"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "isiphambano"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "aba-"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "wasitshilo"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "uzakwenza"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi akasenzi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "asenzi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:29:46.471413666Z",
+  "model": "glm-5.3"
+}

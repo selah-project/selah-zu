@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 40:16",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Futhi iLebanoni ayinaneli ukushiswa, nezilwane zayo azinaneli umnikelo wokushiswayo.",
+  "tokens": [
+    {
+      "surface": "ולבנון",
+      "gloss": "Futhi iLebanoni"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ayinaneli"
+    },
+    {
+      "surface": "די",
+      "gloss": "cha"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ukushiswa"
+    },
+    {
+      "surface": "וחיתו",
+      "gloss": "nezilwane zayo"
+    },
+    {
+      "surface": "אין",
+      "gloss": "azinaneli"
+    },
+    {
+      "surface": "די",
+      "gloss": "cha"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "umnikelo wokushiswayo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:30:00.009458442Z",
+  "model": "glm-5.3"
+}

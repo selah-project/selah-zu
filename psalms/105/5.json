@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 105:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "Khumbulani izimangaliso zakhe, `ezi` `enze`, izibonakaliso zakhe nezinkantolo zomlomo wakhe;",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Khumbulani"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "izimangaliso zakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "enze"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "izibonakaliso zakhe"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "nezinkantolo"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "zomlomo wakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:30.995336096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 4:28",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "UMoshe waxexa ku-Aharon ⟨את⟩ wonke amagama kaYahwe okwamukela umyalezo ngawo, no⟨את⟩ wonke amaphawu ayalelwe ngawo.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "waxexa"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ku-Aharon"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke amagama"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwamukela"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "umyalezo ngawo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "wonke amaphawu"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "amaphawu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayalelwe"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ngawo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:28:36.428923677Z",
+  "model": "glm-5.3"
+}

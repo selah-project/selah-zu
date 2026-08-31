@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 39:2",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Ngingakubuyisela emuva, ngikukhokha, ngikunyusela ezinkundeni zaseNyakatho, ngikuletha ezintabeni zesiRaeli.",
+  "tokens": [
+    {
+      "surface": "ושבבתיך",
+      "gloss": "Ngingakubuyisela emuva"
+    },
+    {
+      "surface": "וששאתיך",
+      "gloss": "ngikukhokha"
+    },
+    {
+      "surface": "והעליתיך",
+      "gloss": "ngikunyusela"
+    },
+    {
+      "surface": "מירכתי",
+      "gloss": "ezinkundeni"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "zaseNyakatho"
+    },
+    {
+      "surface": "והבאותך",
+      "gloss": "ngikuletha"
+    },
+    {
+      "surface": "על",
+      "gloss": "ezi-"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "ntabeni"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "zesiRaeli"
+    }
+  ],
+  "timestamp": "2026-08-31T05:20:42.671759379Z",
+  "model": "glm-5.3"
+}

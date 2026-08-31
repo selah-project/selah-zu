@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 5:3",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Uma uthembisa isithembiso kuElohim, ungazilibazisi ukusikhokhela, ngokuba akunathokozile kubahlanya; ⟨את⟩ okhothuzithembisile khokhela.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "uthembisa"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "isithembiso"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "kuElohim"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תאחר",
+      "gloss": "zilibazisi"
+    },
+    {
+      "surface": "לשלמו",
+      "gloss": "ukusikhokhela"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אין",
+      "gloss": "akuna"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "thokozile"
+    },
+    {
+      "surface": "בכסילים",
+      "gloss": "kubahlanya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "okhothuzithembisile"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okho"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "zithembisile"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "khokhela"
+    }
+  ],
+  "timestamp": "2026-08-31T07:45:38.617848552Z",
+  "model": "glm-5.3"
+}

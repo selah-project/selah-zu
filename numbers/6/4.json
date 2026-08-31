@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Bonke izinsuku zokuzikhethela kwakhe, akuzawudla lutho olwenziwa esihlahleni samagilevhi, kusuka embewini yaze yaya esikhumbeni.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Bonke"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "izinsuku"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "zokuzikhethela kwakhe"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "lutho"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olwenziwa"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "⟨wenziwa⟩"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "esisihlahleni samagilevhi"
+    },
+    {
+      "surface": "היין",
+      "gloss": "⟨levini⟩"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "kusuka embewini"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "yaze yaya"
+    },
+    {
+      "surface": "זג",
+      "gloss": "esikhumbeni"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akuzawudla"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "⟨dla⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T02:11:52.597470366Z",
+  "model": "glm-5.3"
+}

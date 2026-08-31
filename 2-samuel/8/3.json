@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 8:3",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "uDavide wabetha ⟨את⟩ uHadadezeri indodana kaRehobhi, inkosi yeZobha, ehamba ukubuyisela isandla sakhe emlanjeni.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "wabetha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uHadadezeri"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "uHadadezeri"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana ka-"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "Rehobhi"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "yeZobha"
+    },
+    {
+      "surface": "בלכתו",
+      "gloss": "ehamba"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ukubuyisela"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "emlanjeni"
+    }
+  ],
+  "timestamp": "2026-08-31T03:36:02.009195242Z",
+  "model": "glm-5.3"
+}

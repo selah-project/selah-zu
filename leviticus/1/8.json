@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi abantwana baka-Aharon abapristi balungelelanisa ⟨את⟩ izingcezu, ⟨את⟩ ikhanda kanye ⟨את⟩ namafutha esibhamu, phezu kwezinkuni ezingaphezulu komlilo olingaphezu kwe-ialtari.",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "balungelelanisa"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "baka-Aharon"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingcezu"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "izingcezu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ikhanda"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ikhanda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "kanye ⟨את⟩",
+      "marks": "amafutha esibhamu"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "amafutha esibhamu"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "kwezinkuni"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ezingaphezulu"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "האש",
+      "gloss": "komlilo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "olingaphezu"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "kwe-ialtari"
+    }
+  ],
+  "timestamp": "2026-08-31T01:50:33.445965659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Ngempela wena ungu-El ochatha ngokufihlakele, u-Elohim ka-Israeli, umsindisi.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Ngimpela"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungu-El"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "ochatha ngokufihlakele"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "u-Elohim ka-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israeli"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "umsindisi"
+    }
+  ],
+  "timestamp": "2026-08-31T04:31:54.406279540Z",
+  "model": "glm-5.3"
+}

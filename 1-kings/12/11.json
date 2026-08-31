@@ -1,0 +1,87 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 12:11",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Manje, uyihlo wanihlephisela phezu kwenu isibekelo esinzima; mina ngiyongeza esibekelweni lenu. Uyihlo wanijezisa ⟨את⟩ nina ngamabhoda; mina nginjezisa ⟨את⟩ nina ngeziskorpiyoni.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Manje"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyihlo"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "wanihlephisela"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "phezu kwenu"
+    },
+    {
+      "surface": "על",
+      "gloss": "isibekelo"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "esinzima"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ngiyongeza"
+    },
+    {
+      "surface": "על",
+      "gloss": "esibekelweni"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "lenu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Uyihlo"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "wanijezisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "ngamabhoda"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "איסר",
+      "gloss": "nginjezisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "ngeziskorpiyoni"
+    }
+  ],
+  "timestamp": "2026-08-31T03:56:01.695537692Z",
+  "model": "glm-5.3"
+}

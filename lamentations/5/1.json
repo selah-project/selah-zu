@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Khumbula, uYahwe, okwenzekile kithina; buka, ubone ⟨את⟩ intshontsho yethu.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Khumbula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "מה",
+      "gloss": "okwenzekile"
+    },
+    {
+      "surface": "היה",
+      "gloss": "kwenzekile"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "kithina"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "buka"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ubone"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "intshontsho yethu"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "intshontsho yethu"
+    }
+  ],
+  "timestamp": "2026-08-31T07:45:43.749680968Z",
+  "model": "glm-5.3"
+}

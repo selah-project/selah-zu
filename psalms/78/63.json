@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "psalms 78:63",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 78,
+  "translation": "Imlilo yadla amadoda acko asemusha, amantombazane akhe azathuliswa ngokudingeka kukhangelo lomshado.",
+  "tokens": [
+    {
+      "surface": "בחוריו",
+      "gloss": "amadoda acko asemusha"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "yadla"
+    },
+    {
+      "surface": "אש",
+      "gloss": "imlilo"
+    },
+    {
+      "surface": "ובתולתיו",
+      "gloss": "amantombazane akhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "azathuliswa ngokudingeka"
+    },
+    {
+      "surface": "הוללו",
+      "gloss": "kukhangelo lomshado"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:49.493836166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 30:3",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "Futhi uzoziqa yona ⟨את⟩ ngezingolide elicwebileyo: ⟨את⟩ uphahla lwayo, futhi ⟨את⟩ izindonga zawo emzungezini, futhi ⟨את⟩ izimpondo zawo; futhi uzwenza kuyo isidleke sezingolide esizungezile.",
+  "tokens": [
+    {
+      "surface": "וצפית",
+      "gloss": "Futhi uzoziqa"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ yona",
+      "marks": "ngezingolide elicwebileyo"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ngezingolide"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "elicwebileyo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uphahla lwayo"
+    },
+    {
+      "surface": "גגו",
+      "gloss": "uphahla lwayo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "izindonga zawo"
+    },
+    {
+      "surface": "קירתיו",
+      "gloss": "izindonga zawo"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "emzungezini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "izimpondo zawo"
+    },
+    {
+      "surface": "קרנתיו",
+      "gloss": "izimpondo zawo"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "futhi uzwenza"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "זר",
+      "gloss": "isidleke"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "sezingolide"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "esizungezile"
+    }
+  ],
+  "timestamp": "2026-08-31T01:42:15.881136131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 17:13",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "uYehoshuwa wanqabela ⟨את⟩ u-Amaleki no-⟨את⟩ isizwe sakhe ngomlomo welwandi.",
+  "tokens": [
+    {
+      "surface": "ויחלוש",
+      "gloss": "wanqabela"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "uYehoshuwa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Amaleki"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "u-Amaleki"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no-⟨את⟩",
+      "marks": "isizwe sakhe"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "isizwe sakhe"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ngomlomo"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "welwandi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:56:56.952839258Z",
+  "model": "glm-5.3"
+}

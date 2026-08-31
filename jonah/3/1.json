@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Yaba izwi likaYahwe lifika kuYona okwesibili, lithi:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "yaba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "uYona"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "okwesibili"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "lithi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:15:02.299957278Z",
+  "model": "glm-5.3"
+}

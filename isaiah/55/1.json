@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 55:1",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 55,
+  "translation": "Mhlobo! Nina nonke enifisa ukudla ezweni elomile, zizwele emanzini; nina enanengi ⟨isiliva⟩, zizwele, thengani ⟨⟨futhi⟩⟩ nidle; yebo, zizwele, thengani ngaphandle kweziliva nangaphandle kwentengo, iwini nobisi.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Mhlobo!"
+    },
+    {
+      "surface": "כל",
+      "gloss": "nonke"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "enifisa ukudla ezweni elomile"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "zizwele"
+    },
+    {
+      "surface": "למים",
+      "gloss": "emanzini"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "nina"
+    },
+    {
+      "surface": "אין",
+      "gloss": "enangenanga"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "zizwele"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "thengani"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "nidle"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "zizwele"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "thengani"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "ngaphandle"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "kwesiliva"
+    },
+    {
+      "surface": "ובלוא",
+      "gloss": "nangaphandle"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "kwentengo"
+    },
+    {
+      "surface": "יין",
+      "gloss": "iwini"
+    },
+    {
+      "surface": "וחלב",
+      "gloss": "nobisi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:55:17.846422976Z",
+  "model": "glm-5.3"
+}

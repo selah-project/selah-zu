@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 41:33",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 41,
+  "translation": "Manje-ke makabone uParo indoda enolwazi nenhlakanipho, ayimise yena phezu kwezwe laseMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "manje-ke"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "makabone"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "uParo"
+    },
+    {
+      "surface": "איש",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "enolwazi"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "nenhlakanipho"
+    },
+    {
+      "surface": "וישיתהו",
+      "gloss": "ayimise yena"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "yezwe"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "laseMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T01:21:54.436856885Z",
+  "model": "glm-5.3"
+}

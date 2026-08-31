@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi uYahwe waphendula ⟨את⟩ isithunywa esikhuluma kimi ⟨ngamazwi⟩ amahle, amazwi okududuza.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "futhi waphendula"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isithunywa"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "isithunywa"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "esikhuluma"
+    },
+    {
+      "surface": "בי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "amahle"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "amazwi"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "okududuza"
+    }
+  ],
+  "timestamp": "2026-08-31T05:42:12.225243934Z",
+  "model": "glm-5.3"
+}

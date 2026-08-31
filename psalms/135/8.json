@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 135:8",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 135,
+  "translation": "Obetha izibulo zaseMitsrayim, kusuka kumuntu kuye kuzo izilwane.",
+  "tokens": [
+    {
+      "surface": "שהכה",
+      "gloss": "Obetha"
+    },
+    {
+      "surface": "בכורי",
+      "gloss": "izibulo"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "zaseMitsrayim"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "kusuka kumuntu"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuye kuzo"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "izilwane"
+    }
+  ],
+  "timestamp": "2026-08-31T08:54:58.711829974Z",
+  "model": "glm-5.3"
+}

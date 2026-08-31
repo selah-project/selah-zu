@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Ngalolo suku kuzothiwa kuYerushalayimi: ungabi nakwesaba; Tsiyoni, ungakhothuki izandla zakho.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ngalolo suku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lowo"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kuzothiwa"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "kuYerushalayimi"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "bi nakwesaba"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Tsiyoni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "khothuki"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "izandla zakho"
+    }
+  ],
+  "timestamp": "2026-08-31T05:39:41.781559272Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ungabeki ⟨את⟩ ngumsizi wakho phambi kwendodakazi yenkohlakalo, ngokuba ngenxa yokwanda kokukhuluma kwami nokukhathazeka kwami ngikhulume kuze kube manje.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "unga"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "beki"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ngumsizi wakho"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "ngumsizi wakho"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa"
+    },
+    {
+      "surface": "בת",
+      "gloss": "indodakazi"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "yenkohlakalo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ngenxa yokwanda"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "kokukhuluma kwami"
+    },
+    {
+      "surface": "וכעסי",
+      "gloss": "nokukhathazeka kwami"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ngikhulume"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "kube manje"
+    }
+  ],
+  "timestamp": "2026-08-31T03:13:59.926302414Z",
+  "model": "glm-5.3"
+}

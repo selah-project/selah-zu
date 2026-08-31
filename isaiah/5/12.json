@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 5:12",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "I-harpha ne-neveli, isigubhu nomlozi, newine — kumcimbi wabo wokunwa; futhi ⟨את⟩ umsebenzi kaYahwe abawuboni, nomsebenzi wezandla zakhe abawubonanga.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "kumcimbi wabo wokunwa ⟨ku-⟩"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "i-harpha"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "ne-neveli"
+    },
+    {
+      "surface": "תף",
+      "gloss": "isigubhu"
+    },
+    {
+      "surface": "וחליל",
+      "gloss": "nomlozi"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "newine"
+    },
+    {
+      "surface": "משתיהם",
+      "gloss": "wokunwa wabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "umsebenzi kaYahwe"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "-wuboni"
+    },
+    {
+      "surface": "ומעשה",
+      "gloss": "nomsebenzi"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "wezandla zakhe"
+    },
+    {
+      "surface": "לא",
+      "gloss": "anga-"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "-wubonanga"
+    }
+  ],
+  "timestamp": "2026-08-31T04:17:45.205451446Z",
+  "model": "glm-5.3"
+}

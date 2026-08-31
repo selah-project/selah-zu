@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 21:16",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Kwathi lapho u-Ahabe ezwa ukuthi uNabothi usweleke, u-Ahabe wovuka wehla eya ensimu yamagilebhisi kaNabothi uYizreeli ukuyithatha indabuko.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "kwathi"
+    },
+    {
+      "surface": "כשמע",
+      "gloss": "ezwa"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "u-Ahabe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "מת",
+      "gloss": "usweleke"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "uNabothi"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "wovuka"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "u-Ahabe"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "wehla"
+    },
+    {
+      "surface": "אל",
+      "gloss": "eya"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ensimu yamagilebhisi"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "kaNabothi"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "uYizreeli"
+    },
+    {
+      "surface": "לרשתו",
+      "gloss": "ukuyithatha indabuko"
+    }
+  ],
+  "timestamp": "2026-08-31T04:00:53.008854498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Futhi umpofu ungamhleli odabeni lwakhe.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "futhi umpofu"
+    },
+    {
+      "surface": "לא",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "-mhleli"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "odabeni lwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:38:24.198478694Z",
+  "model": "glm-5.3"
+}

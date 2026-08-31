@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 9:28",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Nenzeleni kuYahwe, futhi makwanele—kungabi khona izwi likaElohim neqhwa—ngiyakunithuma ⟨את⟩ nina, ningezi ukuma-ke.",
+  "tokens": [
+    {
+      "surface": "העתירו",
+      "gloss": "nenzeleni"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "makwanele"
+    },
+    {
+      "surface": "מהית",
+      "gloss": "kungabi khona"
+    },
+    {
+      "surface": "קלת",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "likaElohim"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "neqhwa"
+    },
+    {
+      "surface": "ואשלחה",
+      "gloss": "ngiyakunithuma"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ nina",
+      "marks": "nina (uMoshe no-Aharoni)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ningezi"
+    },
+    {
+      "surface": "תספון",
+      "gloss": "ngezi ukwenza"
+    },
+    {
+      "surface": "לעמד",
+      "gloss": "ukuma"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:21.787753321Z",
+  "model": "glm-5.3"
+}

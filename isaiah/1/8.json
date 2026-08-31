@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 1:8",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Futhi intombi kaTsiyoni iyashiyele njengohhuvu esivini, njengophahla enkundleni yamakhukhamba, njengedolobha elivalekile.",
+  "tokens": [
+    {
+      "surface": "ונותרה",
+      "gloss": "futhi iyashiyele"
+    },
+    {
+      "surface": "בת",
+      "gloss": "intombi"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "kaTsiyoni"
+    },
+    {
+      "surface": "כסכה",
+      "gloss": "njengohhuvu"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "esivini"
+    },
+    {
+      "surface": "כמלונה",
+      "gloss": "njengophahla"
+    },
+    {
+      "surface": "במקשה",
+      "gloss": "enkundleni yamakhukhamba"
+    },
+    {
+      "surface": "כעיר",
+      "gloss": "njengedolobha"
+    },
+    {
+      "surface": "נצורה",
+      "gloss": "elivalekile"
+    }
+  ],
+  "timestamp": "2026-08-31T06:08:35.544512486Z",
+  "model": "glm-5.3"
+}

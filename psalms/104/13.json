@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 104:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 104,
+  "translation": "Uthwala amanzi ezintabeni ezivela ezindlini zakhe eziphezulu; umhlaba usuthuliswa yizithelo zemisebenzi yakho.",
+  "tokens": [
+    {
+      "surface": "משקה",
+      "gloss": "uthwala amanzi"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "ezintabeni"
+    },
+    {
+      "surface": "מעליותיו",
+      "gloss": "ezivela ezindlini zakhe eziphezulu"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "yizithelo"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "zemisebenzi yakho"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "usuthuliswa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "umhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:51.652411250Z",
+  "model": "glm-5.3"
+}

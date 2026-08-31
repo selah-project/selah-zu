@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Ngemva kwakhe waqhuba uIbtsani waseBheti-lehemi wahlulela ⟨את⟩ u-Israeli.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "wahlulela"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ngemva kwakhe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Israeli"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israeli"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "uIbtsani"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "waseBheti"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-lehemi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:08:24.765551889Z",
+  "model": "glm-5.3"
+}

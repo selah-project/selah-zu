@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Futhi lezi yimigomo ayizobekwa phambi kwabo:",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "futhi lezi"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "imigomo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ayizo-"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ukubeka"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "phambi kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:37:49.254708119Z",
+  "model": "glm-5.3"
+}

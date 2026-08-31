@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 3:24",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "wamxosha ⟨את⟩ umuntu, wamisa empumalanga yesivande se-Edeni ⟨את⟩ amaKherubi no⟨את⟩ ubani benkemba eshubukayo, ukugcina ⟨את⟩ indlela yomuthi wokuphila.",
+  "tokens": [
+    {
+      "surface": "ויגרש",
+      "gloss": "wamxosha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "וישכן",
+      "gloss": "wamisa"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "empumalanga"
+    },
+    {
+      "surface": "לגן",
+      "gloss": "yesivande"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "se-Edeni"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaKherubi"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "amaKherubi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "ubani benkemba"
+    },
+    {
+      "surface": "להט",
+      "gloss": "ubani"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "benkemba"
+    },
+    {
+      "surface": "המתהפכת",
+      "gloss": "eshubukayo"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "ukugcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlela"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "indlela"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "yomuthi"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "wokuphila"
+    }
+  ],
+  "timestamp": "2026-08-31T01:02:29.044991995Z",
+  "model": "glm-5.3"
+}

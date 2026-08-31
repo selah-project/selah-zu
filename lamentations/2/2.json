@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 2:2",
+  "book": "lamentations",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "U-Adonayi wagwinya, akananzela: ⟨את⟩ onakele izindlu zikaYaakov; wazitshazisa ngesithukuthezi sakhe izindlu ezivikelayo zentombazane yeYehuda; wazehlisa ezweni, wazehlisa ngesondo ubukhosi kanye nabanizayo balo.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "wagwinya"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "akananzela"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "nanzela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onakele izindlu zikaYaakov"
+    },
+    {
+      "surface": "כל",
+      "gloss": "onakele"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "izindlu zokuhlala"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "zikaYaakov"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "wazitshazisa"
+    },
+    {
+      "surface": "בעברתו",
+      "gloss": "ngesithukuthezi sakhe"
+    },
+    {
+      "surface": "מבצרי",
+      "gloss": "izindlu ezivikelayo"
+    },
+    {
+      "surface": "בת",
+      "gloss": "zintombazane"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "yeYehuda"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "wazehlisa"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "wazehlisa ngesondo"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "ubukhosi"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "kanye nabanizayo balo"
+    }
+  ],
+  "timestamp": "2026-08-31T07:41:13.924517711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 10:11",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Manje uyihlo waninika umthwalo onzima, kepha mina ngizongeqa phezu komthwalo wenu; uyihlo wanijezisa ⟨את⟩ ngezindhuku, kepha mina ngezinsulamanga.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyihlo"
+    },
+    {
+      "surface": "העמיס",
+      "gloss": "waninika\/wanithwesa"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "phezu kwenu"
+    },
+    {
+      "surface": "על",
+      "gloss": "umthwalo"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "onzima"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kepha mina"
+    },
+    {
+      "surface": "אסיף",
+      "gloss": "ngizongeqa"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "עלכם",
+      "gloss": "komthwalo wenu"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyihlo"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "wanijezisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina ngezindhuku"
+    },
+    {
+      "surface": "בשוטים",
+      "gloss": "ngezindhuku"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "kepha mina"
+    },
+    {
+      "surface": "בעקרבים",
+      "gloss": "ngezinsulamanga"
+    }
+  ],
+  "timestamp": "2026-08-31T08:35:03.404959649Z",
+  "model": "glm-5.3"
+}

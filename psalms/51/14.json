@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 51,
+  "translation": "Buyisela kumina injabulo yesiphephelo sakho, futhi ngomoya wokuzithandela ungisekele.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "buyisela"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kumina"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "injabulo"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "yesiphephelo sakho"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "futhi ngomoya"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "wokuzithandela"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "ungisekele"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:47.457519292Z",
+  "model": "glm-5.3"
+}

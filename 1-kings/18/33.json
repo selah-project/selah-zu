@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Yabe esihlela ⟨את⟩ izinkuni, yabe ehlahla ⟨את⟩ inkomazi, ayibeke phezulu kwezinkuni.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "esihlela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izinkuni"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "izinkuni"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "ehlahla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inkomazi"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "inkomazi"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ayibeke"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezulu kwe-"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "izinkuni"
+    }
+  ],
+  "timestamp": "2026-08-31T04:00:17.978778889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 6:11",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Bese bebeka ⟨את⟩ i-arki likaYahwe engwazini, no⟨את⟩ ibhokisi, no⟨את⟩ amagundane egolide, no⟨את⟩ izithombe zezilunda zabo.",
+  "tokens": [
+    {
+      "surface": "וישמו",
+      "gloss": "bese bebeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-arki likaYahwe"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "i-arki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "ngwazini"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ibhokisi"
+    },
+    {
+      "surface": "הארגז",
+      "gloss": "ibhokisi"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "amagundane egolide"
+    },
+    {
+      "surface": "עכברי",
+      "gloss": "amagundane"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "egolide"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izithombe zezilunda zabo"
+    },
+    {
+      "surface": "צלמי",
+      "gloss": "izithombe"
+    },
+    {
+      "surface": "טחריהם",
+      "gloss": "zezilunda zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:16:47.842482143Z",
+  "model": "glm-5.3"
+}

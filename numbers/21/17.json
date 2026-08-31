@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 21,
+  "translation": "Ngeso sikhathi uIsrayeli wacula ⟨את⟩ leli culo: Phakama, ndoda womanzi, culelani yona;",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Ngeso sikhathi"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "wacula"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "leli culo"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "leli culo"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "leli"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Phakama"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ndoda womanzi"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "culelani"
+    },
+    {
+      "surface": "לה",
+      "gloss": "yona"
+    }
+  ],
+  "timestamp": "2026-08-31T05:59:08.822913723Z",
+  "model": "glm-5.3"
+}

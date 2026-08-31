@@ -1,0 +1,106 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 9:6",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ukwanda kombuso nokuthi ukuthula kungabi nasiphelo, phezu kokhwela kukaDavide naphezu kombuso wakhe, ukukuwumisela ⟨את⟩ nokuwuqinisa ngomthetho nangobulungiswa, kusukela manje kuze kube phakade; intukuthelo kaYahwe wamabutho izakwenza lokhu.",
+  "tokens": [
+    {
+      "surface": "לםרבה",
+      "gloss": "ukwanda"
+    },
+    {
+      "surface": "המשרה",
+      "gloss": "ombuso"
+    },
+    {
+      "surface": "ולשלום",
+      "gloss": "nokuthi ukuthula"
+    },
+    {
+      "surface": "אין",
+      "gloss": "kungabi"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "nasiphelo"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "kokhwela"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "kukaDavide"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "naphezu"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "ombuso wakhe"
+    },
+    {
+      "surface": "להכין",
+      "gloss": "ukuwumisela"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ombuso wakhe"
+    },
+    {
+      "surface": "ולסעדה",
+      "gloss": "nokuwuqinisa"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ngomthetho"
+    },
+    {
+      "surface": "ובצדקה",
+      "gloss": "nangobulungiswa"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "kusukela manje"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "intukuthelo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamabutho"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "izakwenza"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "lokhu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:20:25.583848310Z",
+  "model": "glm-5.3"
+}

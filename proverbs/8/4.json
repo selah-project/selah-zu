@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Kini nina madoda ngikhalela, lolu izwi lami liye ezinzulwini zezinsizwa.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "nina madoda"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ngikhalela"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "izwi lami"
+    },
+    {
+      "surface": "אל",
+      "gloss": "liye"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ezinzulwini"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "zezinsizwa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:49:07.174750566Z",
+  "model": "glm-5.3"
+}

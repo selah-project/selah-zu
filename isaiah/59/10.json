@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 59:10",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 59,
+  "translation": "Sikhungatheka ngaso sonke isandla edineni njengabakhushulwa, futhi njengabanawo amehlo asikho sikhungatheka; siqhomfose emini njengasiphaphameni; ezindaweni ezibuhlungu njengabafileyo sikhona.",
+  "tokens": [
+    {
+      "surface": "נגששה",
+      "gloss": "sikhungatheka"
+    },
+    {
+      "surface": "כעורים",
+      "gloss": "njengabakhushulwa"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "idina"
+    },
+    {
+      "surface": "וכאין",
+      "gloss": "futhi-njengabanabiwo"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "amehlo"
+    },
+    {
+      "surface": "נגששה",
+      "gloss": "sikhungatheka"
+    },
+    {
+      "surface": "כשלנו",
+      "gloss": "siqhomfose"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "emini"
+    },
+    {
+      "surface": "כנשף",
+      "gloss": "njengasiphaphameni"
+    },
+    {
+      "surface": "באשמנים",
+      "gloss": "ezindaweni-ezibuhlungu"
+    },
+    {
+      "surface": "כמתים",
+      "gloss": "njengabafileyo"
+    }
+  ],
+  "timestamp": "2026-08-31T04:36:00.770719529Z",
+  "model": "glm-5.3"
+}

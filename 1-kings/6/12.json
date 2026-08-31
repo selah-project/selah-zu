@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 6:12",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Nale ndlu oyakhayo — uma uhamba emthethweni wami, futhi ⟨את⟩ izinqumo zami uzenze, futhi ulondoloze ⟨את⟩ zonke imiyalo yami ukuze uhambile kuyo, ngiyakumisa ⟨את⟩ izwi lami ⟨את⟩ kuwe, elangikhuluma kuDavide uyihlo:",
+  "tokens": [
+    {
+      "surface": "הבית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "le"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "oyakhayo"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ukhakhayo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "uma"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "uhamba"
+    },
+    {
+      "surface": "בחקתי",
+      "gloss": "emthethweni wami"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izinqumo zami"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "izinqumo zami"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "uzenze"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "futhi ulondoloze"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "zonke"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "imiyalo yami"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ukuze uhambile"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "kuyo"
+    },
+    {
+      "surface": "והקמתי",
+      "gloss": "ngiyakumisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izwi lami"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "izwi lami"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ kuwe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ela-"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ngakhuluma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uyihlo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:49:25.543237860Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 118:28",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 118,
+  "translation": "Ungu-El wami, ngiyakubonga; unguye uElohim wami, ngiyakuphakamisa.",
+  "tokens": [
+    {
+      "surface": "אלי",
+      "gloss": "Ungu-El wami"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ואודך",
+      "gloss": "ngiyakubonga"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim wami"
+    },
+    {
+      "surface": "ארוממך",
+      "gloss": "ngiyakuphakamisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:25.900901920Z",
+  "model": "glm-5.3"
+}

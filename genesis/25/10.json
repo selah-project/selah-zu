@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 25:10",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 25,
+  "translation": "Insima u-Avraham ayithengile ⟨את⟩ kubantwana bakhe-Ḥeti; lapho u-Avraham bangcwabaleza, yena noSara umkami.",
+  "tokens": [
+    {
+      "surface": "השדה",
+      "gloss": "insima"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engu-"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ayithengile"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "kubantwana bakhe-Ḥeti"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana ba-"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Ḥeti"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "bangcwabaleza"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "u-Avraham"
+    },
+    {
+      "surface": "ושרה",
+      "gloss": "noSara"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "umkami"
+    }
+  ],
+  "timestamp": "2026-08-31T01:12:28.278309338Z",
+  "model": "glm-5.3"
+}

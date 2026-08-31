@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Ngokuba izikhali zamabi ziyophuka, kodwa uYahwe uyabasiza abalungile.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "izandla ezinamandla"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "zamabi"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "ziyophuka"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "kodwa uyabasiza"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "abalungile"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:20:49.580473645Z",
+  "model": "glm-5.3"
+}

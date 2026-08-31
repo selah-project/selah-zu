@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 6:26",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Yilo leli u-Aharon noMoshe, okwakuthiwa kuwo uYahwe: Khishani abantwana baka-Israeli ⟨את⟩ ezweni leMitsrayim, ngemimango yabo.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Yilo"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "u-Aharon"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "noMoshe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwakuthiwa"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "kuthiwa"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kuwo"
+    },
+    {
+      "surface": "הוציאו",
+      "gloss": "Khishani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantwana baka-Israeli"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "baka-Israeli"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "leMitsrayim"
+    },
+    {
+      "surface": "על",
+      "gloss": "nge"
+    },
+    {
+      "surface": "צבאתם",
+      "gloss": "mimango yabo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:27:43.721343705Z",
+  "model": "glm-5.3"
+}

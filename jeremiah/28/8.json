@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 28:8",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Abaphrofethi ababezinge mina nangaphambi kwakho, kusukela ekudalweni, baphrofetha ezweni eziningi nawezombuso ezinkulu, ngesifo, nangobubi, nangechisa.",
+  "tokens": [
+    {
+      "surface": "הנביאים",
+      "gloss": "Abaphrofethi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ababe"
+    },
+    {
+      "surface": "היו",
+      "gloss": "babe"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "zingaphambi kwami"
+    },
+    {
+      "surface": "ולפניך",
+      "gloss": "nangaphambi kwakho"
+    },
+    {
+      "surface": "מן",
+      "gloss": "kusukela"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "ekudalweni"
+    },
+    {
+      "surface": "וינבאו",
+      "gloss": "baphrofetha"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ezweni"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "ezweni eziningi"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "eziningi"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "nawezombuso"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "ezombuso"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ezinkulu"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ngesifo"
+    },
+    {
+      "surface": "ולרעה",
+      "gloss": "nangobubi"
+    },
+    {
+      "surface": "ולדבר",
+      "gloss": "nangechisa"
+    }
+  ],
+  "timestamp": "2026-08-31T06:11:31.705158304Z",
+  "model": "glm-5.3"
+}

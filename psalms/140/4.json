@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 140,
+  "translation": "Basizisela ulwimi lwabo njengenhlwathi; ubuthi bennzwakazi singaphansi kwezdebe zabo. Selah.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "basizisela"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ulwimi"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "njenge"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "nhlwathi"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ubuthi"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "bennzwakazi"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "singaphansi"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "kwezdebe"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Selah"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:19.673458907Z",
+  "model": "glm-5.3"
+}

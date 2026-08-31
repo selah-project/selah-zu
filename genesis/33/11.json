@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 33:11",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Thatha, nceba, ⟨את⟩ isibusiso sami, okulethiwe kuwe, ngoba uElohim wangipha umusa, futhi ngoba kukhona kimi konke. Waminyanisa ⟨yena⟩, wamukela.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "thatha"
+    },
+    {
+      "surface": "נא",
+      "gloss": "nceba"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isibusiso sami"
+    },
+    {
+      "surface": "ברכתי",
+      "gloss": "isibusiso sami"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okuyilo"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "okulethiwe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "wangipha umusa"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "futhi ngoba"
+    },
+    {
+      "surface": "יש",
+      "gloss": "kukhona"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "ויפצר",
+      "gloss": "waminyanisa"
+    },
+    {
+      "surface": "בו",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "wamukela"
+    }
+  ],
+  "timestamp": "2026-08-31T05:54:35.338619918Z",
+  "model": "glm-5.3"
+}

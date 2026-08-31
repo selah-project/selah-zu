@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Wase uYahwe wabahlakaza khona ⟨את⟩ phezu kobuso bomhlaba wonke; baya yekela ukwakha idolobha.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "wase wabahlakaza"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "bona"
+    },
+    {
+      "surface": "משם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu"
+    },
+    {
+      "surface": "פני",
+      "gloss": "kobuso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "bomhlaba"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "baya yekela"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ukwakha"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "idolobha"
+    }
+  ],
+  "timestamp": "2026-08-31T01:05:44.729533904Z",
+  "model": "glm-5.3"
+}

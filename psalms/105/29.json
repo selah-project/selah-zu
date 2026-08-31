@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "Wabhala ⟨את⟩ amanzi abo egazini, wabulala ⟨את⟩ inhlanzi yabo.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "wabhala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amanzi abo"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "amanzi abo"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "egazini"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "wabulala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "inhlanzi yabo"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "inhlanzi yabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:10.754685569Z",
+  "model": "glm-5.3"
+}

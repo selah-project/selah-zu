@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 4:37",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Futhi ngokuba uthande ⟨את⟩ oyihlo, wakhetha ezweni lwakhe ngemva kwabo, wakukhipha ngobukho bakhe, ngamandla akhe amakhulu, eMitsrayim.",
+  "tokens": [
+    {
+      "surface": "ותחת",
+      "gloss": "Futhi ngokuba"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "uthande"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "oyihlo"
+    },
+    {
+      "surface": "אבתיך",
+      "gloss": "oyihlo"
+    },
+    {
+      "surface": "ויבחר",
+      "gloss": "wakhetha"
+    },
+    {
+      "surface": "בזרעו",
+      "gloss": "ezweni lwakhe"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ngemva kwabo"
+    },
+    {
+      "surface": "ויוצאך",
+      "gloss": "wakukhipha"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "ngobukho bakhe"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "ngamandla akhe"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "eMitsrayim"
+    }
+  ],
+  "timestamp": "2026-08-31T06:00:08.794839132Z",
+  "model": "glm-5.3"
+}

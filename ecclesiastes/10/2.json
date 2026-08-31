@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Inhliziyo yenhlakaniphile ilele kwesokudla kuyena, inhliziyo yesiphoxophoxo ilele kwesokunene kuyena.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "yenhlakaniphile"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "kwesokudla kuyena"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "yesiphoxophoxo"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "kwesokunene kuyena"
+    }
+  ],
+  "timestamp": "2026-08-31T07:49:52.993491896Z",
+  "model": "glm-5.3"
+}

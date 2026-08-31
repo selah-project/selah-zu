@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "⟨את⟩ u-Utsi indodana yakhe yokuqala, no-⟨את⟩ uBuzi umfowabo, no-⟨את⟩ uKemueli uyise wakwaAramu",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Utsi"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "u-Utsi"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "indodana yakhe yokuqala"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uBuzi"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "uBuzi"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "umfowabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "uKemueli"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "uKemueli"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "wakwaAramu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:10:41.795449700Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Wonke umesilisa ohlangene namapristi uyakudla ⟨את⟩ yona; ingcwele yezingengcwele yilo.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Wonke"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "umesilisa"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "ohlangene namapristi"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "uyakudla"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "yona (isipho)"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ingcwele"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "yezingengcwele"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yilo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:57:29.037531413Z",
+  "model": "glm-5.3"
+}

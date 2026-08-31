@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 116:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 116,
+  "translation": "Izithembiso zami engazinika uYahwe ngizokhokha, phambi kwawo wonke abantu bakhe, ngesikhathi samanje.",
+  "tokens": [
+    {
+      "surface": "נדרי",
+      "gloss": "izithembiso zami"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אשלם",
+      "gloss": "ngizokhokha"
+    },
+    {
+      "surface": "נגדה",
+      "gloss": "phambi"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ngesikhathi samanje"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kwawo wonke"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "abantu bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:11.449242040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 74:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 74,
+  "translation": "Kodwa uElohim uyinkosi yami kusukela kudala, enza izinsindiso phakathi komhlaba.",
+  "tokens": [
+    {
+      "surface": "ואלהים",
+      "gloss": "Kodwa uElohim"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "uyinkosi yami"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "kusukela kudala"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "enza"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "izinsindiso"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "komhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:29:08.202270013Z",
+  "model": "glm-5.3"
+}

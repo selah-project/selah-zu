@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 38:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 38,
+  "translation": "Abathandi bami nabangane bami bema besiebeni kwesimomora sami; futhi abasondelayo bema kude.",
+  "tokens": [
+    {
+      "surface": "אהבי",
+      "gloss": "Abathandi bami"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "nabangane bami"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "besiebeni"
+    },
+    {
+      "surface": "נגעי",
+      "gloss": "isimomora sami"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "bema"
+    },
+    {
+      "surface": "וקרובי",
+      "gloss": "futhi abasondelayo"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "kude"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "bema"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:46.340294839Z",
+  "model": "glm-5.3"
+}

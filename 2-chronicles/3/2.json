@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Futhi waqala ukwakha ngosuku lwesibili, enyangweni yesibili, unyaka wesine wobukhosi bakhe.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "waqala"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "ukwakha"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "enyangweni"
+    },
+    {
+      "surface": "השני",
+      "gloss": "yesibili"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "ngosuku lwesibili"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "unyaka"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "wesine"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "wobukhosi bakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:31:41.860459931Z",
+  "model": "glm-5.3"
+}

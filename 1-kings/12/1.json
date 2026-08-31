@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 12:1",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "WAye uRehavam waya eShekhem, ngokuthi wonke uIsrayeli weza eShekhem ukumenza ⟨את⟩ inkosi.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "waya"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "uRehavam"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "eShekhem"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "eShekhem"
+    },
+    {
+      "surface": "בא",
+      "gloss": "weza"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "ukumenza inkosi"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "yena (uRehavam, ukuba yinkosi)"
+    }
+  ],
+  "timestamp": "2026-08-31T06:07:30.127476946Z",
+  "model": "glm-5.3"
+}

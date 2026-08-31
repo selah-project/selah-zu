@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 20:12",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Futhi umuntu ozolala no-⟨את⟩ umakotsheni yakhe, bobabili ngokufa bazofa; ukuxubenye bakwenza; igazi labo lili-bo.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "futhi umuntu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ozolala no-"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "lala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umakotsheni yakhe"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "umakotsheni yakhe"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ngokufa"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "bazofa"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "bobabili"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ukuxubenye"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "bakwenza"
+    },
+    {
+      "surface": "דמיהם",
+      "gloss": "igazi labo"
+    },
+    {
+      "surface": "בם",
+      "gloss": "kibo"
+    }
+  ],
+  "timestamp": "2026-08-31T02:02:03.771254355Z",
+  "model": "glm-5.3"
+}

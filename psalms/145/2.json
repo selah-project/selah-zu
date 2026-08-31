@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 145:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 145,
+  "translation": "Ngansuku zonke ngizukubusisa, futhi ngizudumisa igama lakho kuze kube phakade naphakade.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ngansuku"
+    },
+    {
+      "surface": "אברכך",
+      "gloss": "ngizukubusisa"
+    },
+    {
+      "surface": "ואהללה",
+      "gloss": "futhi ngizudumisa"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "igama lakho"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "naphakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:45:07.349599515Z",
+  "model": "glm-5.3"
+}

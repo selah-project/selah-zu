@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 18:8",
+  "book": "2-kings",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Yena washaya ⟨את⟩ amaFilisthi waze wafika eGaza nendawo yonke yayo, kusuka entweni yabalindi waze wafika edolobheni elinqanjisiwe.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "washaya"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "amaFilisthi"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "amaFilisthi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "waze wafika"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "eGaza"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "indawo yonke yayo"
+    },
+    {
+      "surface": "גבוליה",
+      "gloss": "indawo yonke yayo"
+    },
+    {
+      "surface": "ממגדל",
+      "gloss": "kusuka entweni yabalindi"
+    },
+    {
+      "surface": "נוצרים",
+      "gloss": "abalindi"
+    },
+    {
+      "surface": "עד",
+      "gloss": "waze wafika"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "edolobheni"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "elinamaqhoshwana olwandle"
+    }
+  ],
+  "timestamp": "2026-08-31T04:11:06.029248478Z",
+  "model": "glm-5.3"
+}

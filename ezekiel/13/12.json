@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Futhi bheka, udonga luwe! Angeke kushunyayelwa kini: 'Iyiphi iplastara enayibhaka ngayo?'",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "futhi bheka"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "luwe"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "udonga"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "kushunyayelwa"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "kini"
+    },
+    {
+      "surface": "איה",
+      "gloss": "iyiphi"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "iplastara"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ena"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "yibhaka ngayo"
+    }
+  ],
+  "timestamp": "2026-08-31T05:07:26.510133438Z",
+  "model": "glm-5.3"
+}

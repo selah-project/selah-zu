@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 11:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Ngokuba bheka, ababi bayidonsa isibhamu, balungisele imisebe yabo esistringini, ukudubula ebumnyameni abaqotho entliziyweni.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ababi"
+    },
+    {
+      "surface": "ידרכון",
+      "gloss": "bayidonsa"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "isibhamu"
+    },
+    {
+      "surface": "כוננו",
+      "gloss": "balungisele"
+    },
+    {
+      "surface": "חצם",
+      "gloss": "imisebe yabo"
+    },
+    {
+      "surface": "על",
+      "gloss": "esistringini"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "esistringini"
+    },
+    {
+      "surface": "לירות",
+      "gloss": "ukudubula"
+    },
+    {
+      "surface": "במו",
+      "gloss": "ebumnyameni"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "ebumnyameni"
+    },
+    {
+      "surface": "לישרי",
+      "gloss": "abaqotho"
+    },
+    {
+      "surface": "לב",
+      "gloss": "entliziyweni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:34.688246543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 91,
+  "translation": "Phezu kwebhubesi nemamba uzonyathela; ingonyana nenjoka enkulu uzozinyathela ngokwedlulele.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Phezu"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "kwebhubesi"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "nemamba"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "uzonyathela"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "uzozinyathela ngokwedlulele"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "ingonyana"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "nenjoka enkulu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:32:53.003621767Z",
+  "model": "glm-5.3"
+}

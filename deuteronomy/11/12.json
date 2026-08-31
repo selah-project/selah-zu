@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 11:12",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "umhlaba uYahwe uElohim wakho ahlola ⟨את⟩ wona njalo; amehlo kaYahwe uElohim wakho awo kusukela ekuqaleni komnyaka kuze kusekupheleni komnyaka.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "umhlaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "ahlola"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "wona (umhlaba)"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "uElohim wakho"
+    },
+    {
+      "surface": "בה",
+      "gloss": "awo"
+    },
+    {
+      "surface": "מרשית",
+      "gloss": "kusukela ekuqaleni"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "komnyaka"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "kuze kuse"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "komnyaka"
+    }
+  ],
+  "timestamp": "2026-08-31T02:34:58.731253444Z",
+  "model": "glm-5.3"
+}

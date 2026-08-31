@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 37:35",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Ngibonile [ongalungile] onesibindi esikhulu, esizibonakalisa njengesihlahla esizalwe lapha, esiluhlaza satsha.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Ngibonile"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "onagalungile"
+    },
+    {
+      "surface": "עריץ",
+      "gloss": "onesibindi esikhulu"
+    },
+    {
+      "surface": "ומתערה",
+      "gloss": "esizibonakalisa"
+    },
+    {
+      "surface": "כאזרח",
+      "gloss": "njengesihlahla esizalwe lapha"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "esiluhlaza satsha"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:43.574311166Z",
+  "model": "glm-5.3"
+}

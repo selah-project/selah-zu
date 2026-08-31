@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 145:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 145,
+  "translation": "Inkolo ebesizukulwaneni izudumisa imisebenzi yakho, futhi amandla akho awozukhumusha.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "inkolo ebesizukulwaneni"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "izukulwane"
+    },
+    {
+      "surface": "ישבח",
+      "gloss": "izudumisa"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "imisebenzi yakho"
+    },
+    {
+      "surface": "וגבורתיך",
+      "gloss": "futhi amandla akho"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "awozukhomba"
+    }
+  ],
+  "timestamp": "2026-08-31T06:45:07.349871430Z",
+  "model": "glm-5.3"
+}

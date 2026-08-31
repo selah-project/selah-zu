@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 26:30",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi uzovusa ⟨את⟩ itabernakele njengokulawulwa kwalo, okwakubonisiwe ensabeni.",
+  "tokens": [
+    {
+      "surface": "והקמת",
+      "gloss": "futhi uzovusa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "itabernakele"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "itabernakele"
+    },
+    {
+      "surface": "כמשפטו",
+      "gloss": "njengokulawulwa kwalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ok"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "kubonisiwe"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ensabeni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:40:12.811854985Z",
+  "model": "glm-5.3"
+}

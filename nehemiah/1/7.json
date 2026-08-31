@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 1:7",
+  "book": "nehemiah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Sibenze kabi kakhulu ngokwecebile kuwe, futhi asilondolozi ⟨את⟩ imiyalo na-⟨את⟩ izimiso na-⟨את⟩ izinkantolo obuzalele uMoshe inceku yakho.",
+  "tokens": [
+    {
+      "surface": "חבל",
+      "gloss": "sibenze kabi kakhulu"
+    },
+    {
+      "surface": "חבלנו",
+      "gloss": "cebile"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi asilondolozi"
+    },
+    {
+      "surface": "שמרנו",
+      "gloss": "asilondolozi"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "imiyalo"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "imiyalo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izimiso"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "izimiso"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izinkantolo"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "izinkantolo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "obu"
+    },
+    {
+      "surface": "צוית",
+      "gloss": "obuzalele"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uMoshe"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "inceku yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T11:42:05.825174999Z",
+  "model": "glm-5.3"
+}

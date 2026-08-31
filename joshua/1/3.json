@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Indawo yonke engayidla indawo yonke engadlula isigaba senyawo yenu phezu kwayo, nginike yona, njengalokho engakhuluma noMoshe.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engi-"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "dlula"
+    },
+    {
+      "surface": "כף",
+      "gloss": "isigaba senyawo"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "yenu"
+    },
+    {
+      "surface": "בו",
+      "gloss": "phezu kwayo"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ngi- (kini)"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "ninike yona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengalokho"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "engakhuluma"
+    },
+    {
+      "surface": "אל",
+      "gloss": "no-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    }
+  ],
+  "timestamp": "2026-08-31T02:51:10.218897286Z",
+  "model": "glm-5.3"
+}

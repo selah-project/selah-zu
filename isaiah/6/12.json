@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi uYahwe uzosusa ⟨את⟩ umuntu kude, kanti okuyekile kuyophindwa kakhulu phakathi komhlaba.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "uzosusa kude"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "kuyophindwa kakhulu"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "okuyekile"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "phakathi"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "komhlaba"
+    }
+  ],
+  "timestamp": "2026-08-31T04:17:36.247880421Z",
+  "model": "glm-5.3"
+}

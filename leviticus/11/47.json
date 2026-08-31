@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "ukwehlukanisa phakathi kwezingcola nezihlanzekile, phakathi kwendalo edliwayo nendalo engadliwayo.",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "ukwehlukanisa"
+    },
+    {
+      "surface": "בין",
+      "gloss": "phakathi kwe"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "izingcola"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "naphakathi kwe"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "izihlanzekile"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "naphakathi kwe"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "wendalo"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "edliwayo"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "naphakathi kwe"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "wendalo"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "e"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "idliwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:53:47.999806319Z",
+  "model": "glm-5.3"
+}

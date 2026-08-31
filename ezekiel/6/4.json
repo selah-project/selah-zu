@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 6:4",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Izibhedlela zenu zizonakala, futhi izinti zenu zezelanga zizophukile; ngiyobhala abafileyo benu phambi kwezithombe zenu.",
+  "tokens": [
+    {
+      "surface": "ונשמו",
+      "gloss": "zizonakala"
+    },
+    {
+      "surface": "מזבחותיכם",
+      "gloss": "Izibhedlela zenu"
+    },
+    {
+      "surface": "ונשברו",
+      "gloss": "zizophukile"
+    },
+    {
+      "surface": "חמניכם",
+      "gloss": "izinti zenu zezelanga"
+    },
+    {
+      "surface": "והפלתי",
+      "gloss": "ngiyobhala"
+    },
+    {
+      "surface": "חלליכם",
+      "gloss": "abafileyo benu"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwe"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "zithombe zenu"
+    }
+  ],
+  "timestamp": "2026-08-31T05:05:33.905373532Z",
+  "model": "glm-5.3"
+}

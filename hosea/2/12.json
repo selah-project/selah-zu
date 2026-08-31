@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 2:12",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "Futhi manje ngiyoveza ubugqwira bayo emehlweni abathandayo, yaye akekho oyoyigunyaza esandleni sami.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "futhi manje"
+    },
+    {
+      "surface": "אגלה",
+      "gloss": "ngiyoveza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ubugqwira bayo"
+    },
+    {
+      "surface": "נבלתה",
+      "gloss": "ubugqwira bayo"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "emehlweni"
+    },
+    {
+      "surface": "מאהביה",
+      "gloss": "abathandayo"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "akekho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ayigunyazwa"
+    },
+    {
+      "surface": "יצילנה",
+      "gloss": "oyoyigunyaza"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "esandleni sami"
+    }
+  ],
+  "timestamp": "2026-08-31T05:26:43.430375774Z",
+  "model": "glm-5.3"
+}

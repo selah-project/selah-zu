@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 53,
+  "translation": "Kumqondisi, ngokwe-Machalath, umculo wokufundisa, kaDavide.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokwe-"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Machalath"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "umculo wokufundisa"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:50.912738888Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "KwiMitsrayim sanika isandla, nakuAshuru, ukuze sithole ukwaneliseka okuwukudla.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "eMitsrayim"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "sanika"
+    },
+    {
+      "surface": "יד",
+      "gloss": "isandla"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuru"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ukwaneliseka"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ukudla"
+    }
+  ],
+  "timestamp": "2026-08-31T07:43:20.266878681Z",
+  "model": "glm-5.3"
+}

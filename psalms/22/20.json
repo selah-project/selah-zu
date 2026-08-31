@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 22,
+  "translation": "Futhi wena, uYahwe, ungabephakeme; amandla ami, isibani sami, shelela.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "futhi wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungabe"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "ephakeme"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "amandla ami"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "isibani sami"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "shelela"
+    }
+  ],
+  "timestamp": "2026-08-31T06:17:34.061430562Z",
+  "model": "glm-5.3"
+}

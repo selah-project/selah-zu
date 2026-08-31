@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 28:22",
+  "book": "deuteronomy",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "uYahwe uzokushaya ngokugwedla, nangesifiva, nangokuvuvukala, nangokushisa okukhulukazi, nangesomiso, nangokutheza, nangumdoko; lokhu kuzokulandela kuze kuchithwe wena.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "uzokushaya"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "בשחפת",
+      "gloss": "ngokugwedla"
+    },
+    {
+      "surface": "ובקדחת",
+      "gloss": "nangesifiva"
+    },
+    {
+      "surface": "ובדלקת",
+      "gloss": "nangokuvuvukala"
+    },
+    {
+      "surface": "ובחרחר",
+      "gloss": "nangokushisa okukhulukazi"
+    },
+    {
+      "surface": "ובחרב",
+      "gloss": "nangesomiso"
+    },
+    {
+      "surface": "ובשדפון",
+      "gloss": "nangokutheza"
+    },
+    {
+      "surface": "ובירקון",
+      "gloss": "nangumdoko"
+    },
+    {
+      "surface": "ורדפוך",
+      "gloss": "kuzokulandela"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze"
+    },
+    {
+      "surface": "אבדך",
+      "gloss": "kuchithwe wena"
+    }
+  ],
+  "timestamp": "2026-08-31T02:44:14.037234619Z",
+  "model": "glm-5.3"
+}

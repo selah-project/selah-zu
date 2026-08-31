@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi abapristi ababengakwazi ukungena endlwini kaYahwe, ngokuba ikhabodo likaYahwe lalizalise ⟨את⟩ indlu kaYahwe.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "futhi ababengakwazi"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": ""
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "ukungena"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "endlwini"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "lalizalise"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ikhabodo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu kaYahwe"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:32:55.098747237Z",
+  "model": "glm-5.3"
+}

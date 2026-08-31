@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 85:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 85,
+  "translation": "Ingabe awuzukubuyela ukuze usiphilise futhi, bese abantu bakho bejabula kuwe?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Ingabe awuzuku"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ubuyela"
+    },
+    {
+      "surface": "תחינו",
+      "gloss": "usiphilise futhi"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "bese abantu bakho"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "bejabula"
+    },
+    {
+      "surface": "בך",
+      "gloss": "kuwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:16.525830952Z",
+  "model": "glm-5.3"
+}

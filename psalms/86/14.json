@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 86:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 86,
+  "translation": "uElohim, abazidabukile bavukile ngami, nesiphungu sabahlongo sifune inefeshi yami, bangaqebethi wena phambi kwabo.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "abazidabukile"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "bavukile"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngami"
+    },
+    {
+      "surface": "ועדת",
+      "gloss": "nesiphungu"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "sabahlongo"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "sifune"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "inefeshi yami"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "banga-"
+    },
+    {
+      "surface": "שמוך",
+      "gloss": "qebethi"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "phambi kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:40.016126344Z",
+  "model": "glm-5.3"
+}

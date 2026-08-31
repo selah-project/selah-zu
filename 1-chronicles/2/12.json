@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 2,
+  "translation": "uBohazi wazala ⟨את⟩ u-Obhedi; u-Obhedi wazala ⟨את⟩ uYishayi.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "uBohazi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "u-Obhedi"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "u-Obhedi"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "u-Obhedi"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uYishayi"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "uYishayi"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:22.983591605Z",
+  "model": "glm-5.3"
+}

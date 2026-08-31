@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 32:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Izinsizi eziningi zilokwele-ḿpikisi, kodwa lowo othemba kuYahwe, ikhesedi lizomzungeleza.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "eziningi"
+    },
+    {
+      "surface": "מכאובים",
+      "gloss": "izinsizi"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "ḿpikisi"
+    },
+    {
+      "surface": "והבוטח",
+      "gloss": "othemba"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ikhesedi"
+    },
+    {
+      "surface": "יסובבנו",
+      "gloss": "lizomzungeleza"
+    }
+  ],
+  "timestamp": "2026-08-31T06:19:56.833458014Z",
+  "model": "glm-5.3"
+}

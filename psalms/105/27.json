@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 105:27",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 105,
+  "translation": "Babeka phakathi kwabo izenzo zezimpawu zakhe, namazwibhasha emhlabeni wakwaKham.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "Babeka"
+    },
+    {
+      "surface": "בם",
+      "gloss": "phakathi kwabo"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "izenzo zezi-"
+    },
+    {
+      "surface": "אתותיו",
+      "gloss": "zempawu zakhe"
+    },
+    {
+      "surface": "ומפתים",
+      "gloss": "namazwibhasha"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "חם",
+      "gloss": "wakwaKham"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:40.523030224Z",
+  "model": "glm-5.3"
+}

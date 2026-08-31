@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 46,
+  "translation": "Kumqondisi, kwabayiseKorachi, ngokwezintombi-zingoma, iculo.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Kumqondisi"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "kwabayise"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Korachi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokwe"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "intombi-zingoma"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "iculo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:49.472979113Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 118,
+  "translation": "uYahwe ungangesami; ngingesabi: umuntu uzakwenzenina?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ungangesami"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ngingesabi"
+    },
+    {
+      "surface": "מה",
+      "gloss": "nina"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "uzakwenze"
+    },
+    {
+      "surface": "לי",
+      "gloss": "mina"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "umuntu"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:39.483458689Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 52:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 52,
+  "translation": "Ulimi lwakho ludabanga ukonakala, njengemese eluhlazisiwe, esebenza inkohliso.",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "ukonakala"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "ludabanga"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "ulimi lwakho"
+    },
+    {
+      "surface": "כתער",
+      "gloss": "njengemese"
+    },
+    {
+      "surface": "מלטש",
+      "gloss": "eluhlazisiwe"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "esebenza"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "inkohliso"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:25.355283364Z",
+  "model": "glm-5.3"
+}

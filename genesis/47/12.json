@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 47:12",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 47,
+  "translation": "UYosefu wondla ⟨את⟩ uyise ⟨את⟩ nabafowabo ⟨את⟩ nendlu yakayise yonke, ngokudla, ngokomlomo wabantwana abancane.",
+  "tokens": [
+    {
+      "surface": "ויכלכל",
+      "gloss": "wondla"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "UYosefu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uyise"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "uyise"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no-"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "abafowabo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ no-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indu yakayise"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "yakayise"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ukudla"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ngoko- mlomo"
+    },
+    {
+      "surface": "הטף",
+      "gloss": "wabantwana abancane"
+    }
+  ],
+  "timestamp": "2026-08-31T01:24:08.838418391Z",
+  "model": "glm-5.3"
+}

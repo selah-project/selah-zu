@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Futhi uYithiro, umkhwenyana kaMoshe, wathatha ⟨את⟩ uTsiphora, unkosikazi kaMoshe, emva kokuthunyelwa kwakhe.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "uYithiro"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "umkhwenyana"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kaMoshe"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uTsiphora"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "uTsiphora"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "unkosikazi"
+    },
+    {
+      "surface": "משה",
+      "gloss": "kaMoshe"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "emva"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "kokuthunyelwa kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:01.997294306Z",
+  "model": "glm-5.3"
+}

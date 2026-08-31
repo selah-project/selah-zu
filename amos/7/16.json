@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "amos 7:16",
+  "book": "amos",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Futhi manje zwa lizwi likaYahwe: wena usho ukuthi, 'Ungaphrofethi ngokumelene neYisrayeli, futhi ungathuki ngokumelene nendlu kaYisaka.'",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "futhi manje"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "zwa"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "lizwi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "usho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "unga-"
+    },
+    {
+      "surface": "תנבא",
+      "gloss": "phrofethi"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokumelene na-"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrayeli"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi unga-"
+    },
+    {
+      "surface": "תטיף",
+      "gloss": "thuki"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngokumelene na-"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "kaYisaka"
+    }
+  ],
+  "timestamp": "2026-08-31T05:33:33.964216493Z",
+  "model": "glm-5.3"
+}

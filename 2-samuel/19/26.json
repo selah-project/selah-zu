@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 19:26",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "Kwathi lapho efika eYerushalayimi ukuvakashela inkosi, inkosi yathi kuye: Kungani ungihambanga ngami, Mefibosheti?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "Kwathi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "בא",
+      "gloss": "efika"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "eYerushalayimi"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "ukuvakashela"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "inkosi yathi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "inkosi"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Kungani"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ungihambanga"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "ungihambanga"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ngami"
+    },
+    {
+      "surface": "מפיבשת",
+      "gloss": "Mefibosheti"
+    }
+  ],
+  "timestamp": "2026-08-31T03:42:41.055320975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 111:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 111,
+  "translation": "Imisebenzi yezandla zakhe iyiqiniso nomahluko, ithembekile konke iziyalezo zakhe.",
+  "tokens": [
+    {
+      "surface": "מעשי",
+      "gloss": "imisebenzi"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "yzandla zakhe"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "iyiqiniso"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "nomahluko"
+    },
+    {
+      "surface": "נאמנים",
+      "gloss": "ithembekile"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "פקודיו",
+      "gloss": "iziyalezo zakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T10:32:30.956195650Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 136:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 136,
+  "translation": "Futhi wemukisa uIsrayeli emkhathini walo, ngoba ikhesedi yakhe iyaphakade kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "והעביר",
+      "gloss": "Futhi wemukisa"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uIsrayeli"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "emkhathini walo"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "iyaphakade kuze kube phakade"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ikhesedi yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:21.479347604Z",
+  "model": "glm-5.3"
+}

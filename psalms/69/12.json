@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 69,
+  "translation": "Ngagqoka ingubo yosula, futhi ngaba yisibonelo kubo.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "Ngagqoka"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "ingubo"
+    },
+    {
+      "surface": "שק",
+      "gloss": "yosula"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "futhi ngaba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "yisibonelo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:04.290422610Z",
+  "model": "glm-5.3"
+}

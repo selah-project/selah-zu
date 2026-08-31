@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 9:5",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Ngokuba wenza ukwahlulela kwami nocala lami; uhlezi esihlalweni sobukhosi, umahluleli wolungelo.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ngokuba"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ukwahlulela kwami"
+    },
+    {
+      "surface": "ודיני",
+      "gloss": "nocala lami"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "uhlezi"
+    },
+    {
+      "surface": "לכסא",
+      "gloss": "esihlalweni sobukhosi"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "umahluleli"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "wolungelo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:16:07.086473572Z",
+  "model": "glm-5.3"
+}

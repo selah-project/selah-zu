@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Kuhle kimi ukuthi ngihlushiwe, ukuze ngifunde imithetho yakho.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "kuhle"
+    },
+    {
+      "surface": "לי",
+      "gloss": "kimi"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ngihlushiwe"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ukuze"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "ngifunde"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "imithetho yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:27.784391802Z",
+  "model": "glm-5.3"
+}

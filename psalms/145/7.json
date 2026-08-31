@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 145:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 145,
+  "translation": "Isikhumbuzo sobukhulu bobuhle bakho bayokhuluma ⟨ngaso⟩, ukulunga kwakho bayocula ngako.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Isikhumbuzo"
+    },
+    {
+      "surface": "רב",
+      "gloss": "sobukhulu"
+    },
+    {
+      "surface": "טובך",
+      "gloss": "bobuhle bakho"
+    },
+    {
+      "surface": "יביעו",
+      "gloss": "bayokhuluma"
+    },
+    {
+      "surface": "וצדקתך",
+      "gloss": "ukulunga kwakho"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "bayocula"
+    }
+  ],
+  "timestamp": "2026-08-31T06:44:13.024083969Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "uAmoni indodana yakhe, uYoshiyahu indodana yakhe.",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "uAmoni"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "uYoshiyahu"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "indodana yakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T08:19:57.654789742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Isihlalo sezikhalo, siphezulu kusukela ekuqaleni, indawo engcwele yethu.",
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "isihlalo"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "sezikhalo"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "siphezulu"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "kusukela ekuqaleni"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "indawo"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "engcwele yethu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:45:13.515175709Z",
+  "model": "glm-5.3"
+}

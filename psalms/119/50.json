@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Lokhu kuyisiqukumbiso sami ekuhlaselweni kwami: ngoba inkulumo yakho ingivusile ukuphila.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Lokhu"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "kuyisiqukumbiso sami"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "ekuhlaselweni kwami"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "inkulumo yakho"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "ingivusile ukuphila"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:56.457482166Z",
+  "model": "glm-5.3"
+}

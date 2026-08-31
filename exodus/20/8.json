@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Khumbula ⟨את⟩ usuku lweShabbat ukuze ulingcwelelise.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Khumbula"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "usuku lweShabbat"
+    },
+    {
+      "surface": "יום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "lweShabbat"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ukuze ulingcwelelise"
+    }
+  ],
+  "timestamp": "2026-08-31T10:12:05.974164653Z",
+  "model": "glm-5.3"
+}

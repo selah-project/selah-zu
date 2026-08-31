@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 6:4",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Futhi izingcolo zomnyango zanyakaziswa ngezwi lowo oyedwa, futhi indlu yagcwaliswa umsı.",
+  "tokens": [
+    {
+      "surface": "וינעו",
+      "gloss": "zanyakaziswa"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "izingcolo zomnyango"
+    },
+    {
+      "surface": "הספים",
+      "gloss": ""
+    },
+    {
+      "surface": "מקול",
+      "gloss": "ngezwi"
+    },
+    {
+      "surface": "הקורא",
+      "gloss": "lowo oyedwa"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "futhi indlu"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "yagcwaliswa"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "umsı"
+    }
+  ],
+  "timestamp": "2026-08-31T04:18:15.860504624Z",
+  "model": "glm-5.3"
+}

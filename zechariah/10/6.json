@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 10:6",
+  "book": "zechariah",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Futhi ngizakwenza amandla ⟨את⟩ indlu kaYehuda, futhi ⟨את⟩ indlu kaYosefu ngizayisindisa; futhi ngizabakhulisa indlu, ngoba ngibananzile, futhi bazakuba njengokuthi angibazange ngibalahle, ngoba mina nguYahwe uElohim wabo, futhi ngizabaphendula.",
+  "tokens": [
+    {
+      "surface": "וגברתי",
+      "gloss": "futhi ngizakwenza amandla"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu kaYehuda"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "kaYehuda"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "futhi ⟨את⟩",
+      "marks": "indlu kaYosefu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "kaYosefu"
+    },
+    {
+      "surface": "אושיע",
+      "gloss": "ngizayisindisa"
+    },
+    {
+      "surface": "והושבותים",
+      "gloss": "futhi ngizabakhulisa indlu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "רחמתים",
+      "gloss": "ngibananzile"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "futhi bazakuba"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengokuthi"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angibazange"
+    },
+    {
+      "surface": "זנחתים",
+      "gloss": "ngibalahle"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "uElohim wabo"
+    },
+    {
+      "surface": "ואענם",
+      "gloss": "futhi ngizabaphendula"
+    }
+  ],
+  "timestamp": "2026-08-31T05:44:01.670941146Z",
+  "model": "glm-5.3"
+}

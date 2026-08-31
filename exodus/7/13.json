@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Intliziwa kaParo yaqina, yaze yangalaleli kubona, njengoba uYahwe ayeshilo.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "yaqina"
+    },
+    {
+      "surface": "לב",
+      "gloss": "intliziwa"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "kaParo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "yaze yanga-"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "lalaleli"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "kubona"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "njengoba"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ayeshilo"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T01:28:55.339487895Z",
+  "model": "glm-5.3"
+}

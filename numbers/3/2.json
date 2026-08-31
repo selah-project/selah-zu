@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Lena amagama amadodana ka-Aharon: umsunguli uNadab, no-Abihu, u-Elazari, no-Ithamari.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "Lena"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "amagama"
+    },
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ka-Aharon"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "umsunguli"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "uNadab"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "no-Abihu"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "u-Elazari"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "no-Ithamari"
+    }
+  ],
+  "timestamp": "2026-08-31T02:09:31.785788107Z",
+  "model": "glm-5.3"
+}

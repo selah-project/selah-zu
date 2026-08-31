@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 1:11",
+  "book": "2-samuel",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "UDavide wabamba izimbatho zakhe wazidabula, nayo yonke indoda ababezinalo.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "wabamba"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "בבגדו",
+      "gloss": "izimbatho zakhe"
+    },
+    {
+      "surface": "ויקרעם",
+      "gloss": "wazidabula"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "nayo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "indoda"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ababezi-"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨naye⟩"
+    }
+  ],
+  "timestamp": "2026-08-31T03:31:49.095082730Z",
+  "model": "glm-5.3"
+}

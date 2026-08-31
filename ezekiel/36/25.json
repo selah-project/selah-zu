@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 36:25",
+  "book": "ezekiel",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Nginganithela ngaphezulu amanzi amsulwa, nina nizobe nimsulwa; ezoncingweni zenu zonke nasemithonjweni yenu yonke nginganisulela ⟨את⟩ nina.",
+  "tokens": [
+    {
+      "surface": "וזרקתי",
+      "gloss": "nginganithela"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ngaphezulu kwenu"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "טהורים",
+      "gloss": "amsulwa"
+    },
+    {
+      "surface": "וטהרתם",
+      "gloss": "nizobe nimsulwa"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "kuzo zonke"
+    },
+    {
+      "surface": "טמאותיכם",
+      "gloss": "ezoncingweni zenu"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "nakuzo zonke"
+    },
+    {
+      "surface": "גלוליכם",
+      "gloss": "emithonjweni yenu"
+    },
+    {
+      "surface": "אטהר",
+      "gloss": "nginganisulela"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "nina"
+    }
+  ],
+  "timestamp": "2026-08-31T10:28:52.571471637Z",
+  "model": "glm-5.3"
+}

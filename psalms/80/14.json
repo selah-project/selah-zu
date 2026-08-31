@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 80,
+  "translation": "Ingulubi esivela ehlathini iyayonakalisa, futhi isilwane yesimango siyayidlala.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "iyayonakalisa"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "Ingulubi"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "esivela ehlathini"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "futhi isilwane"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "yesimango"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "siyayidlala"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:49.243133769Z",
+  "model": "glm-5.3"
+}

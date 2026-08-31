@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "Ngaleso sikhathi uShelomoh wathi: UYahwe usho ukuthi uhlale esicwazini esibuhlungu.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ngaleso sikhathi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "wathi"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "uShelomoh"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "usho"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "ukuthi uhlale"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "esicwazini esibuhlungu"
+    }
+  ],
+  "timestamp": "2026-08-31T08:31:42.081636778Z",
+  "model": "glm-5.3"
+}

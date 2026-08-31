@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Ubuso bukaKushi wazala ⟨את⟩ uNimrodi; yena waqala ukuba ngumqhawe emhlabeni.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "Ubuso bukaKushi"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "wazala"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uNimrodi"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "uNimrodi"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "החל",
+      "gloss": "waqala"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ukuba"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ngumqhawe"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:04:30.656627156Z",
+  "model": "glm-5.3"
+}

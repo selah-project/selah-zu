@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 26:12",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Amadodana kaShimoni ngezindumba zabo: kukaNemuweli indumba yamaNemuweli; kukaYamini indumba yamaYamini; kukaYakhini indumba yamaYakhini.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "amadodana"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "kaShimoni"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "ngezindumba zabo"
+    },
+    {
+      "surface": "לנמואל",
+      "gloss": "kukaNemuweli"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "indumba"
+    },
+    {
+      "surface": "הנמואלי",
+      "gloss": "yamaNemuweli"
+    },
+    {
+      "surface": "לימין",
+      "gloss": "kukaYamini"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "indumba"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "yamaYamini"
+    },
+    {
+      "surface": "ליכין",
+      "gloss": "kukaYakhini"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "indumba"
+    },
+    {
+      "surface": "היכיני",
+      "gloss": "yamaYakhini"
+    }
+  ],
+  "timestamp": "2026-08-31T02:22:57.471338428Z",
+  "model": "glm-5.3"
+}

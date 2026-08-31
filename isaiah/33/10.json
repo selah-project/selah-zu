@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 33:10",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "“Manje ngiyavuka,” usho uYahwe; “manje ngiziphakamisa, manje ngiziphakamisa phezulu.”",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Manje"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "ngiyavuka"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "usho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "ngiziphakamisa"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "manje"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "ngiziphakamisa phezulu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:25:07.976615739Z",
+  "model": "glm-5.3"
+}

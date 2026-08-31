@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 10:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Futhi yini enizakwenzayo ngosuku lokuvakashela, nangokubhujiswa okuza kude? Nizobalekela ubani ukuthola usizo, futhi nizoshiyela kuphi inkazimulo yenu?",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "Futhi yini"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "enizakwenzayo"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ngosuku"
+    },
+    {
+      "surface": "פקדה",
+      "gloss": "lokuvakashela"
+    },
+    {
+      "surface": "ולשואה",
+      "gloss": "nangokubhujiswa"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "okuza kude"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "kuza"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨kunoma⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ubani"
+    },
+    {
+      "surface": "תנוסו",
+      "gloss": "nizobalekela"
+    },
+    {
+      "surface": "לעזרה",
+      "gloss": "ukuthola usizo"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "futhi kuphi"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "nizoshiyela"
+    },
+    {
+      "surface": "כבודכם",
+      "gloss": "inkazimulo yenu"
+    }
+  ],
+  "timestamp": "2026-08-31T04:20:11.490551679Z",
+  "model": "glm-5.3"
+}

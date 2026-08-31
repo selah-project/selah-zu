@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 8:25",
+  "book": "ezra",
+  "lang": "zu",
+  "chapter": 8,
+  "translation": "Ngawakalisa kibo ⟨את⟩ isiliva no-⟨את⟩ igolide no-⟨את⟩ izitsha — isipho seNdlu likaElohim wethu, esiphakamiswe yinkosi, nezeluleki zayo, noziphathi zayo, nabonke abakwa-Israyeli abafunyanwayo.",
+  "tokens": [
+    {
+      "surface": "ואשקולה",
+      "gloss": "ngawakalisa"
+    },
+    {
+      "surface": "להם",
+      "gloss": "kibo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isiliva"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "isiliva"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "igolide"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "igolide"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "izitsha"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "izitsha"
+    },
+    {
+      "surface": "תרומת",
+      "gloss": "isipho"
+    },
+    {
+      "surface": "בית",
+      "gloss": "iNdlu"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "likaElohim wethu"
+    },
+    {
+      "surface": "ההרימו",
+      "gloss": "esiphakamiswe"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "yinkosi"
+    },
+    {
+      "surface": "ויעציו",
+      "gloss": "nezeluleki zayo"
+    },
+    {
+      "surface": "ושריו",
+      "gloss": "noziphathi zayo"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "nabonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "abakwa-Israyeli"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "abafunyanwayo"
+    }
+  ],
+  "timestamp": "2026-08-31T08:11:24.475942272Z",
+  "model": "glm-5.3"
+}

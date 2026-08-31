@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 11:12",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 11,
+  "translation": "Kodwa ezinsukwini zakho angeke ngikwenze lokhu, ngenxa kaDawidi uyihlo; esandleni sendodana yakho ngizisudabula.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "kodwa"
+    },
+    {
+      "surface": "בימיך",
+      "gloss": "ezinsukwini zakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "אעשנה",
+      "gloss": "ngikwenze lokhu"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ngenkuxa ka-"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDawidi"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "uyihlo"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni se-"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "indodana yakho"
+    },
+    {
+      "surface": "אקרענה",
+      "gloss": "ngizisudabula"
+    }
+  ],
+  "timestamp": "2026-08-31T03:55:13.486727219Z",
+  "model": "glm-5.3"
+}

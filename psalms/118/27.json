@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 118:27",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 118,
+  "translation": "u-El ngu-uYahwe, wasikhanyisela; hlanganisani umhlatshanongo ngamayonja, ize kumikhawulo ye-altare.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "u-El"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ngu-uYahwe"
+    },
+    {
+      "surface": "ויאר",
+      "gloss": "wasikhanyisela"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "si-"
+    },
+    {
+      "surface": "אסרו",
+      "gloss": "hlanganisani"
+    },
+    {
+      "surface": "חג",
+      "gloss": "umhlatshanongo"
+    },
+    {
+      "surface": "בעבתים",
+      "gloss": "ngamayonja"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ize ku-"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "kumikhawulo"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ye-altare"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:25.900739875Z",
+  "model": "glm-5.3"
+}

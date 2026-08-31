@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 3:7",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 3,
+  "translation": "Bazogcina ⟨את⟩ igunya lakhe, n⟨g⟩⟨את⟩ igunya lomhlanga wonke, phambi ketenthe yokuhlangana, ukwenza ⟨את⟩ umsebenzi wetabernakele.",
+  "tokens": [
+    {
+      "surface": "ושמרו",
+      "gloss": "Bazogcina"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "igunya lakhe"
+    },
+    {
+      "surface": "משמרתו",
+      "gloss": "igunya lakhe"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "na⟨את⟩"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "igunya"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "lomhlanga"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "itenthe"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "yokuhlangana"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "ukwenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umsebenzi"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "wetabernakele"
+    }
+  ],
+  "timestamp": "2026-08-31T02:08:51.232736767Z",
+  "model": "glm-5.3"
+}

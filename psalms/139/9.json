@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 139,
+  "translation": "Ngingathatha izingceso zekusasa, ngihlale ekupheleni kolwandle;",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "ngingathatha"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "izingceso"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ikusasa"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "ngihlale"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "ekupheleni"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ulwandle"
+    }
+  ],
+  "timestamp": "2026-08-31T06:42:28.806618070Z",
+  "model": "glm-5.3"
+}

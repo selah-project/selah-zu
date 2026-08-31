@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "I-Shigayoni kaDavide, avasho ayicula kuYahwe, ngezwi lomuntu onegama linguKushi, indodana kaYeminisi.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "I-Shigayoni"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "kaDavide"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "avasho"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ayicula"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "kuYahwe"
+    },
+    {
+      "surface": "על",
+      "gloss": "ngezwi"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "lomuntu onegama linguKushi"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "linguKushi"
+    },
+    {
+      "surface": "בן",
+      "gloss": "indodana"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "kaYeminisi"
+    }
+  ],
+  "timestamp": "2026-08-31T05:46:23.490407174Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 39,
+  "translation": "Futhi benza ⟨את⟩ izingubo ezingaphezulu ze-efodi, umsebenzi wokhwaza, kuwo wonke ubuhlalu.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "benza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izingubo ezingaphezulu (imal)"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "izingubo ezingaphezulu (imal)"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ze-efodi"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "umsebenzi"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "wokhwaza"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "kuwo wonke"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ubuhlalu"
+    }
+  ],
+  "timestamp": "2026-08-31T01:49:38.169393776Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 33:6",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 33,
+  "translation": "Bahamba bevela eSukothi, bahlala ematsheni eEtamu, engasemphetheni wokuhlwandle.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "bahamba"
+    },
+    {
+      "surface": "מסכת",
+      "gloss": "bevela eSukothi"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "bahlala ematsheni"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "eEtamu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "engase-"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "emphetheni"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "wokuhlwandle"
+    }
+  ],
+  "timestamp": "2026-08-31T02:28:18.394544713Z",
+  "model": "glm-5.3"
+}

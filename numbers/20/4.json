@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 20:4",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Futhi nisizuliseleni nisilethisa ⟨את⟩ ibandla likaYahwe kuleli sigodlo, ukuba sife khona thina nezinkomo zethu?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "futhi nisizuliseleni"
+    },
+    {
+      "surface": "הבאתם",
+      "gloss": "nisilethisa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ibandla likaYahwe"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ibandla"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "sigodlo"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "leli"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ukuba sife"
+    },
+    {
+      "surface": "שם",
+      "gloss": "khona"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "thina"
+    },
+    {
+      "surface": "ובעירנו",
+      "gloss": "nezinkomo zethu"
+    }
+  ],
+  "timestamp": "2026-08-31T02:19:47.349132039Z",
+  "model": "glm-5.3"
+}

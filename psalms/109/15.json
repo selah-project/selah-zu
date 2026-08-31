@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Makube khona phambi kukaYahwe kuze kube phakade, aze asuse ukukhunjulwa kwabo emhlabeni.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "makube khona"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "phambi kuka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "aze asuse"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ukukhunjulwa kwabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:16.948749851Z",
+  "model": "glm-5.3"
+}

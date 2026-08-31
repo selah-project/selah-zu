@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "Kukhona okubi okugulayo engibonile ngaphansi kwelanga: ingcebo egcinwe ngomnikazi wayo ekulimaleni kwakhe.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "kukhona"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "okubi"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "okugulayo"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "engibonile"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ngaphansi"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "kwelanga"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ingcebo"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "egcinwe"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "ngomnikazi wayo"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "ekulimaleni kwakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T07:47:02.140011336Z",
+  "model": "glm-5.3"
+}

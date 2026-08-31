@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "Nayo ⟨את⟩ izingane zakhe ezimbili, umunya igama elinguGershome, ngokuthi washo: ngidlalele ndingumakade emhlabeni ongenowonke.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "nayo ⟨את⟩",
+      "marks": "izingane zakhe ezimbili"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ezimbili"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "izingane zakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "שם",
+      "gloss": "igama"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "omunye"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "uGershome"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuthi"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "washo"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ngidlalele ndingumakade"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "nging"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "emhlabeni"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "ongenowonke"
+    }
+  ],
+  "timestamp": "2026-08-31T01:36:01.997495326Z",
+  "model": "glm-5.3"
+}

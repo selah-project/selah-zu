@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 76:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 76,
+  "translation": "Bathwebele abanhliziyo ezinzima, balala ubuthongo babo, futhi abatholanga yonke imindeni yamadoda amakhulu izandla zabo.",
+  "tokens": [
+    {
+      "surface": "אשתוללו",
+      "gloss": "bathwebele"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "abanhliziyo ezinzima ⟨ezinamandla⟩"
+    },
+    {
+      "surface": "לב",
+      "gloss": "inhliziyo"
+    },
+    {
+      "surface": "נמו",
+      "gloss": "balala"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "ubuthongo babo"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi abanga-"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "tholanga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "yonke"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "imindeni yamadoda"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "amakhulu"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "izandla zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:28:38.310119577Z",
+  "model": "glm-5.3"
+}

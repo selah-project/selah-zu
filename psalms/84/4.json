@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 84:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 84,
+  "translation": "Nananzi inkonyana yezinyoni ithole indlu, nesikelemu sixhosa eselakhe, lapho sibeka amahlanhla ayo — ⟨את⟩ izi-althari zakho, uYahwe wamabutho, Inkosi yami noElohim wami.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Nananzi"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "inkonyana yezinyoni"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "ithole"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "ודרור",
+      "gloss": "nesikelemu sixhosa"
+    },
+    {
+      "surface": "קן",
+      "gloss": "eselakhe"
+    },
+    {
+      "surface": "לה",
+      "gloss": "lakhe"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "lapho"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "sibeka"
+    },
+    {
+      "surface": "אפרחיה",
+      "gloss": "amahlanhla ayo"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izi-althari zakho"
+    },
+    {
+      "surface": "מזבחותיך",
+      "gloss": "izi-althari zakho"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamabutho"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Inkosi yami"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "noElohim wami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:44.162206145Z",
+  "model": "glm-5.3"
+}

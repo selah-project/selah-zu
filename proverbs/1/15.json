@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Mfowethu, ungangihambi ⟨את⟩ endleleni yabo; vimba unyawo lwakho ⟨את⟩ esiteyi sabo.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "mfowethu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ungangi"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "hambi"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "yabo"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "vimba"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "unyawo lwakho"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "esiteyi sabo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:45:36.717295883Z",
+  "model": "glm-5.3"
+}

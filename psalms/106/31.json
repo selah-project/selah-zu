@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 106,
+  "translation": "Yabhalwa kuye njengokulunga, kuzukulwane n_zukulwane kuze kube phakade.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "Yabhalwa kuye"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "njengokulunga"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "kuzukulwane"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "n_zukulwane"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    }
+  ],
+  "timestamp": "2026-08-31T06:35:43.690869461Z",
+  "model": "glm-5.3"
+}

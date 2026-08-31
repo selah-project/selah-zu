@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 13:16",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Washo: \"Angikwazi ukubuyela ⟨את⟩ nawe nokungena ⟨את⟩ nawe; futhi cha, ngingadli inkwa, futhi cha, ngingaphuzi ⟨את⟩ nawe amanzi kuleli ndawo.\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Washo"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "angikwazi"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ukubuyela"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "nokungena"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi cha"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ngingadli"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "inkwa"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "futhi cha"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "ngingaphuzi"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ nawe"
+    },
+    {
+      "surface": "מים",
+      "gloss": "amanzi"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "kuleli"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ndawo"
+    }
+  ],
+  "timestamp": "2026-08-31T03:55:27.591566324Z",
+  "model": "glm-5.3"
+}

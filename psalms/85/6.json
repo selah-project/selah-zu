@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 85:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 85,
+  "translation": "Ingabe kuze kube phakade uzokucasuka ngathi? Ingabe uzokudonsa ulaka lwakho isukela kuzukulwane eye zukulwaneni?",
+  "tokens": [
+    {
+      "surface": "הלעולם",
+      "gloss": "kuze kube phakade"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "uzokucasuka"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ngathi"
+    },
+    {
+      "surface": "תמשך",
+      "gloss": "uzokudonsa"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ulaka lwakho"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "isukela kuzukulwane"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "eye zukulwaneni"
+    }
+  ],
+  "timestamp": "2026-08-31T06:31:16.525686019Z",
+  "model": "glm-5.3"
+}

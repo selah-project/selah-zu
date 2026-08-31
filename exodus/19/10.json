@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 19,
+  "translation": "uYahwe waseseka kuMoshe: Yiya ebantwini ubangcwelise namuhla nangomuso, bese bageza izingubo zabo.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "waseseka"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Yiya"
+    },
+    {
+      "surface": "אל",
+      "gloss": "e"
+    },
+    {
+      "surface": "העם",
+      "gloss": "bantwini"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "ubangcwelise"
+    },
+    {
+      "surface": "היום",
+      "gloss": "namuhla"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "nangomuso"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "bageza"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "izingubo zabo"
+    }
+  ],
+  "timestamp": "2026-08-31T01:34:43.111284622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 20:22",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 20,
+  "translation": "Uthi uYahwe kuMoshe: Njalo uzosho kubantwana bakwaIsrayeli: Nina nibonile ukuthi ngasezulwini ngakhuluma nani.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "uthi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "משה",
+      "gloss": "uMoshe"
+    },
+    {
+      "surface": "כה",
+      "gloss": "njalo"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "uzosho"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku-"
+    },
+    {
+      "surface": "בני",
+      "gloss": "abantwana"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "bakwaIsrayeli"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "nina"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "nibonile"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ngase-"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ezulwini"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ngakhuluma"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "nani"
+    }
+  ],
+  "timestamp": "2026-08-31T01:35:27.982503487Z",
+  "model": "glm-5.3"
+}

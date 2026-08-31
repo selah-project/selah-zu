@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 165,
+  "ref": "psalms 119:165",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ukuthula okuningi kubalithandayo ithora yakho, futhi angekho okubamisayo.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "ukuthula"
+    },
+    {
+      "surface": "רב",
+      "gloss": "okuningi"
+    },
+    {
+      "surface": "לאהבי",
+      "gloss": "kubalithandayo"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ithora yakho"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi angekho"
+    },
+    {
+      "surface": "למו",
+      "gloss": "kubo"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "okubamisayo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:54.381069566Z",
+  "model": "glm-5.3"
+}

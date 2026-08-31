@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngibonile abaphangi ngangicika; ngoba izwi lakho alibalgcinanga.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ngibonile"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "abaphangi"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "ngangicika"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "izwi lakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ali-"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "-balgcinanga"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:40.653148268Z",
+  "model": "glm-5.3"
+}

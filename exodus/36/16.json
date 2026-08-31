@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 36,
+  "translation": "Wabhinda ⟨את⟩ ezintathu eziyisihlanu izingodo zodwa, no⟨את⟩ ezintathu eziyisithupha izingodo zodwa.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "wabhinda"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ezintathu eziyisihlanu izingodo"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "eziyisihlanu"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "izingodo"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "zodwa"
+    },
+    {
+      "surface": "ו את",
+      "gloss": "no⟨את⟩",
+      "marks": "ezintathu eziyisithupha izingodo"
+    },
+    {
+      "surface": "שש",
+      "gloss": "eziyisithupha"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "izingodo"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "zodwa"
+    }
+  ],
+  "timestamp": "2026-08-31T01:46:18.057370567Z",
+  "model": "glm-5.3"
+}

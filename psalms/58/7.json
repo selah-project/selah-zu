@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 58:7",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 58,
+  "translation": "uElohim, phula amazinyo awo emlonyeni wawo; uYahwe, walakazela amazinyo amakhulu ezinsimbi ezinyakatho.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "הרס",
+      "gloss": "phula"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "amazinyo awo"
+    },
+    {
+      "surface": "בפימו",
+      "gloss": "emlonyeni wawo"
+    },
+    {
+      "surface": "מלתעות",
+      "gloss": "amazinyo amakhulu"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "ezinsimbi ezinyakatho"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "walakazela"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:25:25.784407512Z",
+  "model": "glm-5.3"
+}

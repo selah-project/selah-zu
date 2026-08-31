@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 37:26",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Usolela ngomusa usuku lonke, futhi unikela ngemboleko; futhi inzalo yakhe ilethela ibusiso.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "lonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "usuku"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "usolela ngomusa"
+    },
+    {
+      "surface": "ומלוה",
+      "gloss": "futhi unikela ngemboleko"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "futhi inzalo yakhe"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "ilethela ibusiso"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:49.702800546Z",
+  "model": "glm-5.3"
+}

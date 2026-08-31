@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 51:10",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 51,
+  "translation": "Ungenzwa ukuzwa umjuluko nenjabulo; zithokozise amathambo owawubhidlize.",
+  "tokens": [
+    {
+      "surface": "תשמיעני",
+      "gloss": "Ungenzwa ukuzwa"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "umjuluko"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "nenjabulo"
+    },
+    {
+      "surface": "תגלנה",
+      "gloss": "zithokozise"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "amathambo"
+    },
+    {
+      "surface": "דכית",
+      "gloss": "owawubhidlize"
+    }
+  ],
+  "timestamp": "2026-08-31T06:24:33.390874359Z",
+  "model": "glm-5.3"
+}

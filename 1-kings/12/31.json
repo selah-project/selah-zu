@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-kings 12:31",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Wenza ⟨את⟩ indlu yezindawo eziphakeme, wenza abapristi kumacembu abantu, abangazange babe ngabantwana baLevi.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "indlu"
+    },
+    {
+      "surface": "בית",
+      "gloss": "indlu"
+    },
+    {
+      "surface": "במות",
+      "gloss": "yeezindawo eziphakeme"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "abapristi"
+    },
+    {
+      "surface": "מקצות",
+      "gloss": "kumacembu"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abangazange"
+    },
+    {
+      "surface": "לא",
+      "gloss": "cha"
+    },
+    {
+      "surface": "היו",
+      "gloss": "babe"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ngabantwana"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "baLevi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:55:51.645463001Z",
+  "model": "glm-5.3"
+}

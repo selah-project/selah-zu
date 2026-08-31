@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "psalms 107:37",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 107,
+  "translation": "Bayatyalala izimbalwa, bayahlakahlaka izivini, bayakhiqa izithelo zenzuzo.",
+  "tokens": [
+    {
+      "surface": "ויזרעו",
+      "gloss": "bayatyalala"
+    },
+    {
+      "surface": "שדות",
+      "gloss": "izimbalwa"
+    },
+    {
+      "surface": "ויטעו",
+      "gloss": "bayahlakahlaka"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "izivini"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "bayakhiqa"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "izithelo"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "inzuzo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:16.332843125Z",
+  "model": "glm-5.3"
+}

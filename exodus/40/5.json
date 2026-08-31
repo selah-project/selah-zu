@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 40:5",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 40,
+  "translation": "Futhi uzobeka ⟨את⟩ i-altare legolide lokubhema ithuba phambi kwe-aron lesovula, futhi uzofaka ⟨את⟩ icalu lesisu sokungena ethembi.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "uzobeka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "i-altare legolide lokubhema ithuba"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "i-altare"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "legolide"
+    },
+    {
+      "surface": "לקטרת",
+      "gloss": "lokubhema ithuba"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "i-aron"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "lesovula"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "futhi uzofaka"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "icalu lesisu sokungena"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "icalu"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "lesisu sokungena"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ethebeni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:49:39.974736587Z",
+  "model": "glm-5.3"
+}

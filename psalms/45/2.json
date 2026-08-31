@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 45:2",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 45,
+  "translation": "Inhliziyo yami iyachichima izwi elihle, ngikhuluma — izenzo zami ngoMlombulawa: ulimi lwami luyapende njengepeni yesibali esikhakhayi.",
+  "tokens": [
+    {
+      "surface": "רחש",
+      "gloss": "iyachichima"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "inhliziyo yami"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "elihle"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ngikhuluma"
+    },
+    {
+      "surface": "אני",
+      "gloss": "mina"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "izenzo zami"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ngoMlombulawa"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ulimi lwami"
+    },
+    {
+      "surface": "עט",
+      "gloss": "ipeni"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "yesibali"
+    },
+    {
+      "surface": "מהיר",
+      "gloss": "esikhakhayi"
+    }
+  ],
+  "timestamp": "2026-08-31T10:31:09.506734403Z",
+  "model": "glm-5.3"
+}

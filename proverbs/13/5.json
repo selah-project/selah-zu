@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 13,
+  "translation": "Ilizwi lamanga ilungile liyalizonda; nomubi uyadindazala futhi uyahlanzeka ngihlazo.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ilizwi"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "lamanga"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "liyalizonda"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ilungile"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "nomubi"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "uyadindazala"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "futhi uyahlanzeka ngihlazo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:52:16.059505701Z",
+  "model": "glm-5.3"
+}

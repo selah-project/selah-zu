@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 57,
+  "translation": "Ngiyobiza ku-Elohim u-Elyoni, ku-El Elyoni ogqibezela ⟨okwenzeka⟩ ngami.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "Ngiyobiza"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ku-Elohim"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "u-Elyoni"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ku-El Elyoni"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ogqibezela"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngami"
+    }
+  ],
+  "timestamp": "2026-08-31T08:52:24.272241713Z",
+  "model": "glm-5.3"
+}

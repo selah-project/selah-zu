@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 109:17",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 109,
+  "translation": "Wayethanda isiqalekiso, sawufika kuyena; wanga-thandi isibusiso, sabahlala kude kuyena.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "wayethanda"
+    },
+    {
+      "surface": "קללה",
+      "gloss": "isiqalekiso"
+    },
+    {
+      "surface": "ותבואהו",
+      "gloss": "sawufika kuyena"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "wanga-thandi"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "thanda"
+    },
+    {
+      "surface": "בברכה",
+      "gloss": "isibusiso"
+    },
+    {
+      "surface": "ותרחק",
+      "gloss": "sabahlala kude"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "kuyena"
+    }
+  ],
+  "timestamp": "2026-08-31T06:36:51.744521284Z",
+  "model": "glm-5.3"
+}

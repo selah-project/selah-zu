@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 26:7",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 26,
+  "translation": "Futhi nizozingela ⟨את⟩ izitha zenu, ziwile phambi kwenu ngenkemba.",
+  "tokens": [
+    {
+      "surface": "ורדפתם",
+      "gloss": "futhi nizozingela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "izitha zenu"
+    },
+    {
+      "surface": "איביכם",
+      "gloss": "izitha zenu"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "ziwile"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "phambi kwenu"
+    },
+    {
+      "surface": "לחרב",
+      "gloss": "ngenkemba"
+    }
+  ],
+  "timestamp": "2026-08-31T05:58:16.401376533Z",
+  "model": "glm-5.3"
+}

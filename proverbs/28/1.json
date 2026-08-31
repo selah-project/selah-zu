@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 28:1",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 28,
+  "translation": "Umoni uyabaleka, lingekho ozulazelayo; ⟨kodwa⟩ abalungile njengesibankwa bayathembeka.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "uyabaleka"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "lingekho"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "ozulazelayo"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umoni"
+    },
+    {
+      "surface": "וצדיקים",
+      "gloss": "abalungile"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "njengesibankwa"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "bayathembeka"
+    }
+  ],
+  "timestamp": "2026-08-31T07:04:48.469531719Z",
+  "model": "glm-5.3"
+}

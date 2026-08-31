@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 7:18",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Ngiyobonga uYahwe ngenzeni zobulungiswa bakhe, futhi ngiyocula indumiso egameni likaYahwe u-Elyoni.",
+  "tokens": [
+    {
+      "surface": "אודה",
+      "gloss": "ngiyobonga"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "כצדקו",
+      "gloss": "ngenze zobulungiswa zakhe"
+    },
+    {
+      "surface": "ואזמרה",
+      "gloss": "futhi ngiyocula indumiso"
+    },
+    {
+      "surface": "שם",
+      "gloss": "egameni"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "likaYahwe"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "u-Elyoni"
+    }
+  ],
+  "timestamp": "2026-08-31T05:45:20.689174428Z",
+  "model": "glm-5.3"
+}

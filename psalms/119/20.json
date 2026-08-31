@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Inefeshi yami iyacishuka ngokufisa imiyalo yakho nsuku zonke.",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "iyacishuka"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Inefeshi yami"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "ngokufisa"
+    },
+    {
+      "surface": "אל",
+      "gloss": "uku-"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "imiyalo yakho"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "עת",
+      "gloss": "insuku"
+    }
+  ],
+  "timestamp": "2026-08-31T06:37:33.942423350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 9:10",
+  "book": "ezra",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Futhi manje, uElohim wethu, sithini emva kwalokhu? Ngokuba siyekele imiyalo yakho.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "futhi manje"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ni-"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "sithini"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "uElohim wethu"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "emva kwa-"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "עזבנו",
+      "gloss": "siyekele"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "imiyalo yakho"
+    }
+  ],
+  "timestamp": "2026-08-31T08:12:35.988462058Z",
+  "model": "glm-5.3"
+}

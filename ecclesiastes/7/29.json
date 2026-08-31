@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "Bheka, lokhu kuphela ngakuthola: ukuthi uElohim wenza ⟨את⟩ umuntu eqotho, kodwa bona bayezinga izicwangciso eziningi.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "kuphela"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "bheka"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lokhu"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ngakuthola"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "wenza"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "umuntu"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "umuntu"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "eqotho"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "kodwa bona"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "bayezinga"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "izicwangciso"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "eziningi"
+    }
+  ],
+  "timestamp": "2026-08-31T07:46:09.131522768Z",
+  "model": "glm-5.3"
+}

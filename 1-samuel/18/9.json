@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 18,
+  "translation": "UShawuli waba yisono ⟨את⟩ uDavide — wamqaphela ngophawu lokungalungi — kusukela ngalolo suku kuqhubeka.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "waba"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "uShawuli"
+    },
+    {
+      "surface": "עון",
+      "gloss": "yisono"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uDavide"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "kusukela ngalosuku"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "lalolo"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "kuqhubeka"
+    }
+  ],
+  "timestamp": "2026-08-31T03:23:43.219119294Z",
+  "model": "glm-5.3"
+}

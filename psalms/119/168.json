@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 168,
+  "ref": "psalms 119:168",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Ngigcinile imiyalo yakho nobufakazi bakho, ngoba zonke izindlela zimi phambi kwakho.",
+  "tokens": [
+    {
+      "surface": "שמרתי",
+      "gloss": "ngigcinile"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "imiyalo yakho"
+    },
+    {
+      "surface": "ועדתיך",
+      "gloss": "nobufakazi bakho"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngoba"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "izindlela"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "phambi kwakho"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:54.382008449Z",
+  "model": "glm-5.3"
+}

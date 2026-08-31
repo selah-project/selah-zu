@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 9:17",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Usaphakamisa uyena ngokwakho ngokumelene neNkosi yami isizwe sami, ukuze ungabashiyi baphume ⟨abakaki abayizingoni⟩.",
+  "tokens": [
+    {
+      "surface": "עודך",
+      "gloss": "usaphakamisa-uyena"
+    },
+    {
+      "surface": "מסתולל",
+      "gloss": "ukuziphakamisa"
+    },
+    {
+      "surface": "בעמי",
+      "gloss": "ngokumelene neNkosi yami isizwe sami"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ukuze ungabashiyi"
+    },
+    {
+      "surface": "שלחם",
+      "gloss": "baphume"
+    }
+  ],
+  "timestamp": "2026-08-31T01:30:43.950572814Z",
+  "model": "glm-5.3"
+}

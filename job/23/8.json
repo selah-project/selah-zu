@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "zu",
+  "chapter": 23,
+  "translation": "Bheka, ngiya phambili kodwa yena uyeqeda; ngiyamumva kodwa angimqondi yena.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "phambili"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ngihamba"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "kodwa yena uyeqeda"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "ngiyamumva"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "kodwa angi"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "qondi"
+    },
+    {
+      "surface": "לו",
+      "gloss": "yena"
+    }
+  ],
+  "timestamp": "2026-08-31T07:19:34.015263586Z",
+  "model": "glm-5.3"
+}

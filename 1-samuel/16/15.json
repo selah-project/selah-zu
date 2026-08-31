@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 16,
+  "translation": "Izinceku zoSawuli zathi kuye: Bheka-ke, umoya omubi ka-Elohim uyakukhathazza wena.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "zathi"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "Izinceku"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "zoSawuli"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "kuye"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Bheka"
+    },
+    {
+      "surface": "נא",
+      "gloss": "-ke"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ka-Elohim"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "omubi"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "uyakukhathazza wena"
+    }
+  ],
+  "timestamp": "2026-08-31T03:23:11.853849664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,120 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 1:50",
+  "book": "numbers",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Wena yabela ⟨את⟩ abaLevi phezu kwesikhungo sofakaza nangaphezu kwezinto zonke zaso nakho konke okungokwaso; bona bazukwethwesa ⟨את⟩ isikhungo no⟨את⟩ izinto zonke zaso, futhi bona bazukwenza umsebenzi waso; futhi bazokhampela jikelele isikhungo.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "Wena"
+    },
+    {
+      "surface": "הפקד",
+      "gloss": "yabela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abaLevi"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "abaLevi"
+    },
+    {
+      "surface": "על",
+      "gloss": "phezu kwe-"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "isikhungo"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "sofakaza"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi phezu kwe-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izinto zonke"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zaso"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "futhi phezu kwe-"
+    },
+    {
+      "surface": "כל",
+      "gloss": "konke"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okungokwaso"
+    },
+    {
+      "surface": "לו",
+      "gloss": "kwaso"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "bazukwethwesa"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "isikhungo"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "isikhungo"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "no⟨את⟩",
+      "marks": "izinto zonke zaso"
+    },
+    {
+      "surface": "כל",
+      "gloss": "izinto zonke"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "zaso"
+    },
+    {
+      "surface": "והם",
+      "gloss": "futhi bona"
+    },
+    {
+      "surface": "ישרתהו",
+      "gloss": "bazukwenza umsebenzi waso"
+    },
+    {
+      "surface": "וסביב",
+      "gloss": "futhi jikelele"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "isikhungo"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "bazokhampela"
+    }
+  ],
+  "timestamp": "2026-08-31T02:07:23.189727121Z",
+  "model": "glm-5.3"
+}

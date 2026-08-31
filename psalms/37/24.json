@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 37,
+  "translation": "Noma ewa, angeke wakhishwa; ngokuba uYahwe ubambelela isandla sakhe.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Noma"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ewa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angeke"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "wakhishwa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "ubambelela"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "isandla sakhe"
+    }
+  ],
+  "timestamp": "2026-08-31T06:21:28.658366348Z",
+  "model": "glm-5.3"
+}

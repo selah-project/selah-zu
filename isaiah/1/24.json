@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 1:24",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 1,
+  "translation": "Ngakho-ke kweshwa ngu-Adonayi uYahwe wamaNkulunkulu-wempi, uQhawe-ke wakwa-Israyeli: Hawu, ngizikhulule kubanqizi bami, futhi ngizophindela kubaningani bami.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ngakho-ke"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "kweshwa"
+    },
+    {
+      "surface": "האדון",
+      "gloss": "u-Adonayi"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "wamaNkulunkulu-wempi"
+    },
+    {
+      "surface": "אביר",
+      "gloss": "uQhawe"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "wakwa-Israyeli"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "hawu"
+    },
+    {
+      "surface": "אנחם",
+      "gloss": "ngizikhulule"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "kubanqizi bami"
+    },
+    {
+      "surface": "ואנקמה",
+      "gloss": "futhi ngizophindela"
+    },
+    {
+      "surface": "מאויבי",
+      "gloss": "kubaningani bami"
+    }
+  ],
+  "timestamp": "2026-08-31T04:15:34.421920443Z",
+  "model": "glm-5.3"
+}

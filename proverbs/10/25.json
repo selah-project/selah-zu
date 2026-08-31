@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 10,
+  "translation": "Njengokudlula kwesivunguvungu, umoni ⟨akasekho⟩; kodwa ilungileyiyo ingumsoco wesikhathi esingapheli.",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "njengokudlula"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "isivunguvungu"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "akasekho"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "umoni"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "kodwa ilungileyiyo"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "ingumsoco"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "wesikhathi esingapheli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:51:37.155632271Z",
+  "model": "glm-5.3"
+}

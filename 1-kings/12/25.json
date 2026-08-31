@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-kings 12:25",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "Wase uYaravamu akha ⟨את⟩ iShekemu entabeni yase-Efrayimi, wahlela khona; waphuma lapha, wakha ⟨את⟩ iPenueli.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "uYaravamu"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iShekemu"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "iShekemu"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "entabeni"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "yase-Efrayimi"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "wahlela khona"
+    },
+    {
+      "surface": "בה",
+      "gloss": "khona"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "משם",
+      "gloss": "lapha"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "wakha"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "iPenueli"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "iPenueli"
+    }
+  ],
+  "timestamp": "2026-08-31T03:55:38.162072079Z",
+  "model": "glm-5.3"
+}

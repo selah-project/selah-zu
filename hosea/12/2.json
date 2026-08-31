@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 12:2",
+  "book": "hosea",
+  "lang": "zu",
+  "chapter": 12,
+  "translation": "u-Efrayimi uyadla umoya, futhi ulandela umoya wasempumalanga; nsuku zonke izanga nokuphanga liyanda, futhi umvumelano noAshuri bazawusika, namafutha aya eMitsrayim.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "u-Efrayimi"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "uyadla"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "umoya"
+    },
+    {
+      "surface": "ורדף",
+      "gloss": "futhi ulandela"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "umoya wasempumalanga"
+    },
+    {
+      "surface": "כל",
+      "gloss": "zonke"
+    },
+    {
+      "surface": "היום",
+      "gloss": "nsuku"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "izanga"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "nokuphanga"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "liyanda"
+    },
+    {
+      "surface": "וברית",
+      "gloss": "futhi umvumelano"
+    },
+    {
+      "surface": "עם",
+      "gloss": "no-"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ashuri"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "bazawusika"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "namafutha"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "aya eMitsrayim"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "athunyelwa"
+    }
+  ],
+  "timestamp": "2026-08-31T05:29:13.464770695Z",
+  "model": "glm-5.3"
+}

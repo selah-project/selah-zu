@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 73:1",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 73,
+  "translation": "Izigaba zomculo zika-Asafu. Kuyaqinisekisa ukuthi uElohim uyathanda kumaSirayeli, abahl inhliziyo.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "izigaba zomculo"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "zika-Asafu"
+    },
+    {
+      "surface": "אך",
+      "gloss": "kuyaqinisekisa ukuthi"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "uyathanda"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "kumaSirayeli"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "לברי",
+      "gloss": "abahl"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "inhliziyo"
+    }
+  ],
+  "timestamp": "2026-08-31T06:27:32.321716775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-kings 9:20",
+  "book": "1-kings",
+  "lang": "zu",
+  "chapter": 9,
+  "translation": "Bonke abantu abasaleleyo abavela kuma-Emori, kuma-Hithi, kuma-Perizi, kuma-Hivi nakuma-Yevusi, abangebona abantwana baka-Israyeli bona.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Bonke"
+    },
+    {
+      "surface": "העם",
+      "gloss": "abantu"
+    },
+    {
+      "surface": "הנותר",
+      "gloss": "abasaleleyo"
+    },
+    {
+      "surface": "מן",
+      "gloss": "abavela"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "kuma-Emori"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "kuma-Hithi"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "kuma-Perizi"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "kuma-Hivi"
+    },
+    {
+      "surface": "והיבוסי",
+      "gloss": "nakuma-Yevusi"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "abangebona"
+    },
+    {
+      "surface": "לא",
+      "gloss": "abange"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "abantwana baka"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "המה",
+      "gloss": "bona"
+    }
+  ],
+  "timestamp": "2026-08-31T03:53:12.007852267Z",
+  "model": "glm-5.3"
+}

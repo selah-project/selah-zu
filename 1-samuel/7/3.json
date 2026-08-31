@@ -1,0 +1,135 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-samuel 7:3",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 7,
+  "translation": "USamuweli wakhuluma kuwo wonke umuzi ka-Israeli, ethi: Uma nikhuluma ngezinhliziyweni zenu enibuyela kuYahwe, susani ⟨את⟩ onkulunkulu bezizwe phakathi kwenu, neh-Ashtaroth, nilungiselele izinhliziywo zenu kuYahwe, nimkhonze yenaeyedwa, uzonisindisa esandleni samaFilisthi.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "wakhuluma"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "USamuweli"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wo wonke"
+    },
+    {
+      "surface": "בית",
+      "gloss": "umuzi"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ka-Israeli"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ethi"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Uma"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ngezinhliziyweni"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "zenu zizonke"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ni"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "buyela"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "הסירו",
+      "gloss": "susani"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "onkulunkulu bezizwe"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "onkulunkulu"
+    },
+    {
+      "surface": "הנכר",
+      "gloss": "bezizwe"
+    },
+    {
+      "surface": "מתוככם",
+      "gloss": "phakathi kwenu"
+    },
+    {
+      "surface": "והעשתרות",
+      "gloss": "neh-Ashtaroth"
+    },
+    {
+      "surface": "והכינו",
+      "gloss": "nilungiselele"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "izinhliziywo zenu"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ku"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahwe"
+    },
+    {
+      "surface": "ועבדהו",
+      "gloss": "nimkhonze"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "yenaeyedwa"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "uzonisindisa"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ni",
+      "marks": "esandleni samaFilisthi"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "esandleni"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "samaFilisthi"
+    }
+  ],
+  "timestamp": "2026-08-31T03:17:34.679439897Z",
+  "model": "glm-5.3"
+}

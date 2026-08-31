@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 120,
+  "translation": "Inefeshi yami ihlalele isikhathi esideenalowo ozonda ukuthula.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "isikhathi eside kakhulu"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "ihlalele"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "Inefeshi yami"
+    },
+    {
+      "surface": "עם",
+      "gloss": "e"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "lowo ozonda"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ukuthula"
+    }
+  ],
+  "timestamp": "2026-08-31T06:39:15.801161957Z",
+  "model": "glm-5.3"
+}

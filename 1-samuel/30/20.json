@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 30:20",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 30,
+  "translation": "UDavide wathatha ⟨את⟩ wonke izimvu nezinkomo; bazedlulisela phambi kwayo yonke leyo inkomo-esilwane, bathi: Lena isithombo sikaDavide.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "wathatha"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "uDavide"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "wonke izimvu nezinkomo"
+    },
+    {
+      "surface": "כל",
+      "gloss": "wonke"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "izimvu"
+    },
+    {
+      "surface": "והבקר",
+      "gloss": "nezinkomo"
+    },
+    {
+      "surface": "נהגו",
+      "gloss": "bazedlulisela"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "phambi kwa-"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "leyo inkomo-esilwane"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "leyo"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "bathi"
+    },
+    {
+      "surface": "זה",
+      "gloss": "lena"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "isithombo"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "sikaDavide"
+    }
+  ],
+  "timestamp": "2026-08-31T03:29:17.063296746Z",
+  "model": "glm-5.3"
+}

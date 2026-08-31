@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 4:1",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 4,
+  "translation": "Izwi likaShemuweli lafika ku-Israyeli yonke, u-Israyeli waphuma eya ehamba nabafilishti ezimweni zokulwa, bamisele eduze ne-Evene-Ezeri, abafilishti bamlalele e-Afeki.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "lafika"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "izwi"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ukaShemuweli"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "kuyonke"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israyeli"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "waphuma"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "u-Israyeli"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "eya ehamba"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "abafilishti"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ezimweni zokulwa"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "bamisele"
+    },
+    {
+      "surface": "על",
+      "gloss": "eduze"
+    },
+    {
+      "surface": "האבן",
+      "gloss": "ne-Evene"
+    },
+    {
+      "surface": "העזר",
+      "gloss": "-Ezeri"
+    },
+    {
+      "surface": "ופלשתים",
+      "gloss": "abafilishti"
+    },
+    {
+      "surface": "חנו",
+      "gloss": "bamlalele"
+    },
+    {
+      "surface": "באפק",
+      "gloss": "e-Afeki"
+    }
+  ],
+  "timestamp": "2026-08-31T03:16:35.418002930Z",
+  "model": "glm-5.3"
+}

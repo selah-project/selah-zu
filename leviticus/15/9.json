@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "zu",
+  "chapter": 15,
+  "translation": "Futhi yonke isadleko onomsazi oluhambayo aqhuba ngaso izongcola.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "futhi yonke"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "isadleko"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "okwa-"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "aqhuba ngaso"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "phezu kwaso"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "onomsazi oluhambayo"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "izongcola"
+    }
+  ],
+  "timestamp": "2026-08-31T01:58:53.639093278Z",
+  "model": "glm-5.3"
+}

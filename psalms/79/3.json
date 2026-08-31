@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 79:3",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 79,
+  "translation": "Bachitha igazi labo njengamanzi emazweni ajikeleze iYerushalayimi, futhi ababonakali abangcweli.",
+  "tokens": [
+    {
+      "surface": "שפכו",
+      "gloss": "Bachitha"
+    },
+    {
+      "surface": "דמם",
+      "gloss": "igazi labo"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "njengamanzi"
+    },
+    {
+      "surface": "סביבות",
+      "gloss": "emazweni ajikeleze"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "iYerushalayimi"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "futhi ababonakali"
+    },
+    {
+      "surface": "קובר",
+      "gloss": "abangcweli"
+    }
+  ],
+  "timestamp": "2026-08-31T06:30:15.588127966Z",
+  "model": "glm-5.3"
+}

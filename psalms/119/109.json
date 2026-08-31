@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 109,
+  "ref": "psalms 119:109",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 119,
+  "translation": "Inefeshi yami isesandleni sami kuqhubeka, kodwa iThorah yakho angiyilahlangulanga.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "Inefeshi yami"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "isesandleni sami"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "kuqhubeka"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "kodwa iThorah yakho"
+    },
+    {
+      "surface": "לא",
+      "gloss": "angi"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "yilahlangulanga"
+    }
+  ],
+  "timestamp": "2026-08-31T06:38:52.850510243Z",
+  "model": "glm-5.3"
+}

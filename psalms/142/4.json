@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 142:4",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 142,
+  "translation": "Ngenkathi umoya wami udukwa ngaphezu kwami, ⟨uthi⟩ wena uyayazi indlela yami; endleleni le engihamba ngayo, bahlele ithuba elingalindelekile lami.",
+  "tokens": [
+    {
+      "surface": "בהתעטף",
+      "gloss": "ngenkathi...udukwa"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ngaphezu kwami"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "umoya wami"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "uyayazi"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "indlela yami"
+    },
+    {
+      "surface": "בארח",
+      "gloss": "endleleni"
+    },
+    {
+      "surface": "זו",
+      "gloss": "le"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "engihamba ngayo"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "bahlele"
+    },
+    {
+      "surface": "פח",
+      "gloss": "ithuba elingalindelekile"
+    },
+    {
+      "surface": "לי",
+      "gloss": "lami"
+    }
+  ],
+  "timestamp": "2026-08-31T06:41:37.049378954Z",
+  "model": "glm-5.3"
+}

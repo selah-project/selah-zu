@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "zu",
+  "chapter": 103,
+  "translation": "Ngokuba yena uyayazi isakhiwo sethu; ukhumbula ukuthi thina singuthuli.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ngokuba"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "yena"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "uyayazi"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "isakhiwo sethu"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ukhumbula"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ukuthi"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "uthuli"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "thina"
+    }
+  ],
+  "timestamp": "2026-08-31T06:34:10.305682457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 17:22",
+  "book": "1-chronicles",
+  "lang": "zu",
+  "chapter": 17,
+  "translation": "Futhi wenzela abantu bakho uYisrayeli ⟨את⟩ ababe yizwe lakho kuze kube phakade; wena, uYahwe, waba yingu-Elohim wabo.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "futhi wenzela"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "abantu bakho uYisrayeli"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "abantu bakho"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "uYisrayeli"
+    },
+    {
+      "surface": "לך",
+      "gloss": "kuwe"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "izwe"
+    },
+    {
+      "surface": "עד",
+      "gloss": "kuze kube"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "phakade"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "wena"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "uYahwe"
+    },
+    {
+      "surface": "היית",
+      "gloss": "waba"
+    },
+    {
+      "surface": "להם",
+      "gloss": "yabo"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ingu-Elohim"
+    }
+  ],
+  "timestamp": "2026-08-31T08:27:28.869469606Z",
+  "model": "glm-5.3"
+}

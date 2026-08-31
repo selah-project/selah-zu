@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 24:10",
+  "book": "exodus",
+  "lang": "zu",
+  "chapter": 24,
+  "translation": "Babona ⟨את⟩ uElohim weYisraeli; ngaphansi kwezinyawo zakhe kwakunjengomsebenzi welibhenisi lesafiri, njengenzondo yezulu ekucwaleni.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "Babona"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "uElohim weYisraeli"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "uElohim"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "weYisraeli"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ngaphansi"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "kwezinyawo zakhe"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "kwakunjengomsebenzi"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "welibhenisi"
+    },
+    {
+      "surface": "הספיר",
+      "gloss": "lesafiri"
+    },
+    {
+      "surface": "וכעצם",
+      "gloss": "njengenzondo"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "yezulu"
+    },
+    {
+      "surface": "לטהר",
+      "gloss": "ekucwaleni"
+    }
+  ],
+  "timestamp": "2026-08-31T01:38:39.108178304Z",
+  "model": "glm-5.3"
+}

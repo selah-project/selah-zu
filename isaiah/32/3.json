@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 32:3",
+  "book": "isaiah",
+  "lang": "zu",
+  "chapter": 32,
+  "translation": "Futhi amehlo ababonayo angeke aphazanyise ukubuka, futhi izindlebe zabezwayo zizolalela ngokunakekela.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Futhi angeke"
+    },
+    {
+      "surface": "תשעינה",
+      "gloss": "aphazanyise ukubuka"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "amehlo"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "ababonayo"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "futhi izindlebe"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "zabezwayo"
+    },
+    {
+      "surface": "תקשבנה",
+      "gloss": "zizolalela ngokunakekela"
+    }
+  ],
+  "timestamp": "2026-08-31T04:25:20.310131385Z",
+  "model": "glm-5.3"
+}

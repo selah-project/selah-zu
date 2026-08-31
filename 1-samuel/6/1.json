@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "zu",
+  "chapter": 6,
+  "translation": "I-arki kaYahwe yayikumhlaba wamaFilisithi izinyanga ezisixhenxe.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "wayeyingu-"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "i-arki"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "kaYahwe"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "kumhlaba"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "wamaFilisithi"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ezisixhenxe"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "izinyanga"
+    }
+  ],
+  "timestamp": "2026-08-31T03:17:25.560342561Z",
+  "model": "glm-5.3"
+}

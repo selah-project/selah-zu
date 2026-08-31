@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "zu",
+  "chapter": 5,
+  "translation": "wehle izizwe zigcwaliswe amandla akho, nemisebenzi yakho isendlini yomfokazi",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "wehle"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "zigcwaliswe"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "izizwe"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "amandla akho"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "nemisebenzi yakho"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "isendlini"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "yomfokazi"
+    }
+  ],
+  "timestamp": "2026-08-31T06:48:49.950731895Z",
+  "model": "glm-5.3"
+}
