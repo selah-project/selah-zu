@@ -25,3 +25,8 @@ Uma usebenzise imodeli enkulu yolimi noma ukuhumusha ngomshini — kusho ngokuso
 ## Ilayisensi nokuhlolwa
 
 Ngokubamba iqhaza uyavuma ukuthi konke okwamukelwe kushicilelwa ngaphansi kwe-[CC BY-SA 4.0](LICENSE.md). Umlando we-Git ugcina irekhodi nezizathu zivulekile. Ababuyekezi bahlola iziphakamiso ngesiHebheru, ngemithetho, ngezikhombo nangokuqondanisa.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
